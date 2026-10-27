@@ -1,0 +1,34 @@
+# Kalevala, The Land of the Heroes, Volume Two
+
+**作者** Lönnrot, Elias, 1802-1884 [Compiler]; Kirby, W. F. (William Forsell), 1844-1912 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
+**规模** 16 段 · 323,149 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/19e65883e497/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（323,149 字）。 |
+| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每段 20,196 字；最长 In the path a snake was twisting,（39,869 字），最短 OTSO, _pet name for the bear_.（2,973 字）。 |
+| 原文溯源 | `cache/epub/33089/pg33089.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 段）
+
+1. In the path a snake was twisting,
+2. Then said Lemminkainen's mother,
+3. Thus he walked a verst, a second,
+4. This was heard by Untamoinen,
+5. "If I were myself a Bruin,
+6. And the steersman made him answer,
+7. Then the aged Väinämöinen,
+8. Thereupon smith Ilmarinen,
+9. Väinämöinen, old and steadfast,
+10. Väinämöinen, old and steadfast,
+
+> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/19e65883e497/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
