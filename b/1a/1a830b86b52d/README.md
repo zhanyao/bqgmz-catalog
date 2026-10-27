@@ -1,0 +1,34 @@
+# Portrait and Biography of Parson Brownlow, The Tennessee Patriot
+
+**作者** Brownlow, William Gannaway, 1805-1877 ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 28 题 · 86,185 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/1a830b86b52d/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（86,185 字）。 |
+| 分章依据 | 按「题」标记切分为 28 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 3,078 字。 |
+| 原文溯源 | `cache/epub/35122/pg35122.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. PRICE 25 CENTS.
+2. INTRODUCTION.
+3. INDEX.
+4. PAGE.
+5. Introduction 7
+6. Biography of Parson Brownlow 9
+7. Nashville Speech 17
+8. Cincinnati Speech before the Chamber of Commerce 22
+9. Brownlow and the Cincinnati Methodist Preachers 39
+10. Indianapolis Speech 48
+
+> 共 28 题，[完整目录与正文 →](https://www.bqgmz.top/b/1a830b86b52d/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

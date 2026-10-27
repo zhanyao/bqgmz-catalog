@@ -1,0 +1,34 @@
+# The Private Memoirs and Confessions of a Justified Sinner
+
+**作者** Hogg, James, 1770-1835 ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 10 题 · 370,430 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/22dd92a3f2c8/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（370,430 字）。 |
+| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 37,043 字。 |
+| 原文溯源 | `cache/epub/2276/pg2276.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. WRITTEN BY HIMSELF
+2. By
+3. James Hogg
+4. THE EDITOR'S NARRATIVE
+5. The wrath of the great divine was kindle
+6. PRIVATE MEMOIRS AND CONFESSIONS OF A SINNER
+7. I stared in his face, but made no answer
+8. This was to me wholly incomprehensible.
+9. END OF THE MEMOIR
+10. WRITTEN BY HIMSELF
+
+> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/22dd92a3f2c8/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
