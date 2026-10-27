@@ -1,0 +1,34 @@
+# The Return of the Native（#122）
+
+**作者** Hardy, Thomas, 1840-1928 ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 18 题 · 637,284 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/24ccc4099411/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（637,284 字）。 |
+| 分章依据 | 按「题」标记切分为 18 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 35,404 字。 |
+| 原文溯源 | `cache/epub/122/pg122.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. The Return of the Native
+2. Contents
+3. PREFACE
+4. T.H.
+5. BOOK FIRST—THE THREE WOMEN
+6. The man regarded her with tender reluctance, but stopped them
+7. THOMASIN YEOBRIGHT.
+8. BOOK SECOND—THE ARRIVAL
+9. The lad smiled into the glowing turf and began—
+10. The youth shook his head
+
+> 共 18 题，[完整目录与正文 →](https://www.bqgmz.top/b/24ccc4099411/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
