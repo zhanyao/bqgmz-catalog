@@ -1,0 +1,34 @@
+# Les petites alliées
+
+**作者** Farrère, Claude, 1876-1957 ｜ **国家/地区** 法国 ｜ **体例** 题  
+**规模** 46 题 · 394,526 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/f72ed1f7fc47/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（394,526 字）。 |
+| 分章依据 | 按「题」标记切分为 46 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 8,576 字。 |
+| 原文溯源 | `cache/epub/47982/pg47982.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. Par
+2. CLAUDE FARRÈRE
+3. TRENTE-TROISIÈME ÉDITION
+4. PARIS
+5. LIBRAIRIE PAUL OLLENDORFF
+6. 50, CHAUSSÉE D'ANTIN, 50
+7. CHAPITRE PREMIER
+8. CHAPITRE II
+9. LA VEILLÉE DES ARMES
+10. CHAPITRE III
+
+> 共 46 题，[完整目录与正文 →](https://www.bqgmz.top/b/f72ed1f7fc47/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

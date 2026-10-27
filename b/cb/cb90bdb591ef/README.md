@@ -1,0 +1,35 @@
+# Jennie Baxter, Journalist
+
+**作者** Barr, Robert, 1850-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 308,843 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/cb90bdb591ef/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（308,843 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 14,706 字；最长 CHAPTER XVI. JENNIE VISITS A MODERN WIZARD IN HIS MAGIC ATTIC.（32,437 字），最短 CHAPTER V. JENNIE MEETS A GREAT DETECTIVE.（8,551 字）。 |
+| 起止 | 始于「CHAPTER I. JENNIE MAKES HER TOILETTE AND THE ACQUAINTANCE OF A PORTER.」，止于「CHAPTER XXI. JENNIE KEEPS STEP WITH THE WEDDING MARCH.」。 |
+| 原文溯源 | `cache/epub/9300/pg9300.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I. JENNIE MAKES HER TOILETTE AND THE ACQUAINTANCE OF A PORTER.
+2. CHAPTER II. JENNIE HAS IMPORTANT CONFERENCES WITH TWO IMPORTANT EDITORS.
+3. CHAPTER III. JENNIE INTERVIEWS A FRIGHTENED OFFICIAL.
+4. CHAPTER IV. JENNIE LEARNS ABOUT THE DIAMONDS OF THE PRINCESS.
+5. CHAPTER V. JENNIE MEETS A GREAT DETECTIVE.
+6. CHAPTER VI. JENNIE SOLVES THE DIAMOND MYSTERY.
+7. CHAPTER VII. JENNIE ARRANGES A CINDERELLA VISIT.
+8. CHAPTER VIII. JENNIE MIXES WITH THE ELITE OF EARTH.
+9. CHAPTER IX. JENNIE REALIZES THAT GREAT EVENTS CAST THEIR SHADOWS BEHIND.
+10. CHAPTER X. JENNIE ASSISTS IN SEARCHING FOR HERSELF.
+
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/cb90bdb591ef/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

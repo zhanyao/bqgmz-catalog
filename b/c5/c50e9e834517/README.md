@@ -1,0 +1,34 @@
+# Legendoj
+
+**作者** Niemojewski, Andrzej, 1864-1921; Kuhl, Bronisław, 1886-1955 [Translator] ｜ **国家/地区** 世界语 ｜ **体例** 题  
+**规模** 23 题 · 91,343 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/c50e9e834517/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（91,343 字）。 |
+| 分章依据 | 按「题」标记切分为 23 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 3,971 字。 |
+| 原文溯源 | `cache/epub/62118/pg62118.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. A. NIEMOJEWSKI
+2. LEGENDOJ
+3. Dua, korektita eldono
+4. TABELO DE ENHAVO
+5. ANTAŬPAROLO
+6. NOTO
+7. TENTISTOJ
+8. MAJLAĤ
+9. ADMONO
+10. Iras jam, iras savonto, iras antaŭdirita, iras Meŝjaĥ!“
+
+> 共 23 题，[完整目录与正文 →](https://www.bqgmz.top/b/c50e9e834517/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

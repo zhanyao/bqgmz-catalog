@@ -1,0 +1,34 @@
+# Pauline
+
+**作者** Sand, George, 1804-1876 ｜ **国家/地区** 法国 ｜ **体例** 题  
+**规模** 13 题 · 134,288 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/c54c60826357/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（134,288 字）。 |
+| 分章依据 | 按「题」标记切分为 13 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 10,329 字。 |
+| 原文溯源 | `cache/epub/12447/pg12447.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. GEORGE SAND
+2. PAULINE
+3. NOTICE
+4. GEORGE SAND.
+5. 20 mars 1859
+6. PAULINE
+7. I.
+8. II.
+9. III.
+10. IV.
+
+> 共 13 题，[完整目录与正文 →](https://www.bqgmz.top/b/c54c60826357/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

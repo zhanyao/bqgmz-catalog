@@ -1,0 +1,34 @@
+# Poems（#617）
+
+**作者** Seeger, Alan, 1888-1916 ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 92 题 · 168,043 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/bc2aa028b1d1/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（168,043 字）。 |
+| 分章依据 | 按「题」标记切分为 92 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 1,826 字。 |
+| 原文溯源 | `cache/epub/617/pg617.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. Produced by Alan Light
+2. Poems
+3. Alan Seeger
+4. With an introduction by William Archer
+5. Contents
+6. Introduction by William Archer
+7. Juvenilia
+8. Translations
+9. Last Poems
+10. Introduction by William Archer
+
+> 共 92 题，[完整目录与正文 →](https://www.bqgmz.top/b/bc2aa028b1d1/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

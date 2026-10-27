@@ -1,0 +1,35 @@
+# The Story of the Book of Mormon
+
+**作者** Reynolds, George, 1842-1909 [Adapter] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 79 章 · 550,080 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/f187d50fcdaa/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（550,080 字）。 |
+| 分章依据 | 按「章」标记切分为 79 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 6,963 字；最长 CHAPTER LXXIX.（37,804 字），最短 CHAPTER LXXVI.（2,469 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER LXXIX.」。 |
+| 原文溯源 | `cache/epub/50029/pg50029.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I.
+2. CHAPTER II.
+3. CHAPTER III.
+4. CHAPTER IV.
+5. CHAPTER V.
+6. CHAPTER VI.
+7. CHAPTER VII.
+8. CHAPTER VIII.
+9. CHAPTER IX.
+10. CHAPTER X.
+
+> 共 79 章，[完整目录与正文 →](https://www.bqgmz.top/b/f187d50fcdaa/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

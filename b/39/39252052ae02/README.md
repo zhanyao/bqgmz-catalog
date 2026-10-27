@@ -1,0 +1,34 @@
+# Physiological economy in nutrition, with special reference to the minimal proteid requirement of the healthy man an experimental study
+
+**作者** Chittenden, R. H. (Russell Henry), 1856-1943 ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 237 题 · 600,069 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/39252052ae02/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（600,069 字）。 |
+| 分章依据 | 按「题」标记切分为 237 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 2,531 字。 |
+| 原文溯源 | `cache/epub/69439/pg69439.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. AN EXPERIMENTAL STUDY
+2. Published in November, 1904
+3. THE UNIVERSITY PRESS, CAMBRIDGE, U. S. A.
+4. LIST OF ILLUSTRATIONS
+5. FACING PAGE
+6. Group of soldiers at work in the Gymnasium 136
+7. Side view of Fritz 198
+8. Back view of Fritz 204
+9. Front view of Coffman and Steltz 212
+10. Back view of Coffman and Steltz 220
+
+> 共 237 题，[完整目录与正文 →](https://www.bqgmz.top/b/39252052ae02/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

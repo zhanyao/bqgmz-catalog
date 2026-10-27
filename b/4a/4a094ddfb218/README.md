@@ -1,0 +1,32 @@
+# Cymbeline（#1538）
+
+**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 130,732 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/4a094ddfb218/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（130,732 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 16,341 字；最长 SCENE VIII. Rome. A public place.（54,853 字），最短 SCENE VI. Wales. Before the cave of Belarius.（1,075 字）。 |
+| 原文溯源 | `cache/epub/1538/pg1538.txt`（Project Gutenberg） |
+
+## 章节目录（前 8 章）
+
+1. SCENE I. Britain. A hall in Cymbeline’s palace.
+2. SCENE II. Britain. Another room in Cymbeline’s palace.
+3. SCENE III. Wales. A mountainous country with a cave.
+4. SCENE IV. Wales, near Milford Haven.
+5. SCENE V. Britain. Cymbeline’s palace.
+6. SCENE VI. Wales. Before the cave of Belarius.
+7. SCENE VII. The same.
+8. SCENE VIII. Rome. A public place.
+
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/4a094ddfb218/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

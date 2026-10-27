@@ -1,0 +1,35 @@
+# The Canon of the Bible
+
+**作者** Davidson, Samuel, 1806-1898 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 223,428 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/eb5e99530590/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（223,428 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 20,311 字；最长 CHAPTER II. THE OLD TESTAMENT CANON FROM ITS BEGINNING TO ITS CLOSE.（50,939 字），最短 CHAPTER IV. NUMBER AND ORDER OF THE SEPARATE BOOKS.（3,200 字）。 |
+| 起止 | 始于「CHAPTER I. INTRODUCTORY.」，止于「CHAPTER XI. THE CANON FROM SEMLER TO THE PRESENT TIME, WITH REFLECTIONS ON」。 |
+| 原文溯源 | `cache/epub/30132/pg30132.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I. INTRODUCTORY.
+2. CHAPTER II. THE OLD TESTAMENT CANON FROM ITS BEGINNING TO ITS CLOSE.
+3. CHAPTER III. THE SAMARITAN AND ALEXANDRIAN CANONS.
+4. CHAPTER IV. NUMBER AND ORDER OF THE SEPARATE BOOKS.
+5. CHAPTER V. USE OF THE OLD TESTAMENT BY THE FIRST CHRISTIAN WRITERS, AND BY
+6. CHAPTER VI. THE NEW TESTAMENT CANON IN THE FIRST THREE CENTURIES.
+7. CHAPTER VII. THE BIBLE CANON FROM THE FOURTH CENTURY TO THE REFORMATION.
+8. CHAPTER VIII. ORDER OF THE NEW TESTAMENT BOOKS.
+9. CHAPTER IX. SUMMARY OF THE SUBJECT.
+10. CHAPTER X. THE CANON IN THE CONFESSION OF DIFFERENT CHURCHES.
+
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/eb5e99530590/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,0 +1,34 @@
+# A nagy év
+
+**作者** Eötvös, Károly, 1842-1916 ｜ **国家/地区** 匈牙利 ｜ **体例** 题  
+**规模** 54 题 · 349,613 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/8259d234cac8/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（349,613 字）。 |
+| 分章依据 | 按「题」标记切分为 54 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 6,474 字。 |
+| 原文溯源 | `cache/epub/64401/pg64401.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. Eötvös Károly Munkái
+2. XVI. KÖTET
+3. A NAGY ÉV
+4. Eötvös Károly Munkái
+5. XVI.
+6. A NAGY ÉV
+7. BUDAPEST MDCCCCV
+8. VIII., ÜLLŐI-ÚT 18. SZÁM.
+9. RÉVAI TESTVÉREK
+10. IRODALMI INTÉZET R.-T.
+
+> 共 54 题，[完整目录与正文 →](https://www.bqgmz.top/b/8259d234cac8/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

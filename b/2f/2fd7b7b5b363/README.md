@@ -1,0 +1,34 @@
+# Doña Perfecta（#15725）
+
+**作者** Pérez Galdós, Benito, 1843-1920; Marsh, Arthur Richmond, 1861-1937 [Annotator]; Byington, Steven T. (Steven Tracy), 1868-1957 [Contributor] ｜ **国家/地区** 其它语种 ｜ **体例** 题  
+**规模** 49 题 · 610,379 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/2fd7b7b5b363/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（610,379 字）。 |
+| 分章依据 | 按「题」标记切分为 49 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 12,456 字。 |
+| 原文溯源 | `cache/epub/15725/pg15725.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. DOÑA PERFECTA
+2. PREFACE
+3. A.R.M.
+4. CAMBRIDGE, MASSACHUSETTS March, 1897
+5. INTRODUCTION
+6. DOÑA PERFECTA
+7. II
+8. III
+9. IV
+10. VI
+
+> 共 49 题，[完整目录与正文 →](https://www.bqgmz.top/b/2fd7b7b5b363/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,0 +1,35 @@
+# The White Company
+
+**作者** Doyle, Arthur Conan, 1859-1930 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 38 章 · 657,921 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/40d78e6718cf/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（657,921 字）。 |
+| 分章依据 | 按「章」标记切分为 38 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 17,313 字；最长 CHAPTER X. HOW HORDLE JOHN FOUND A MAN WHOM HE MIGHT FOLLOW.（32,557 字），最短 CHAPTER II. HOW ALLEYNE EDRICSON CAME OUT INTO THE WORLD.（9,147 字）。 |
+| 起止 | 始于「CHAPTER I. HOW THE BLACK SHEEP CAME FORTH FROM THE FOLD.」，止于「CHAPTER XXXVIII. OF THE HOME-COMING TO HAMPSHIRE.」。 |
+| 原文溯源 | `cache/epub/903/pg903.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I. HOW THE BLACK SHEEP CAME FORTH FROM THE FOLD.
+2. CHAPTER II. HOW ALLEYNE EDRICSON CAME OUT INTO THE WORLD.
+3. CHAPTER III. HOW HORDLE JOHN COZENED THE FULLER OF LYMINGTON.
+4. CHAPTER IV. HOW THE BAILIFF OF SOUTHAMPTON SLEW THE TWO MASTERLESS MEN.
+5. CHAPTER V. HOW A STRANGE COMPANY GATHERED AT THE “PIED MERLIN.”
+6. CHAPTER VI. HOW SAMKIN AYLWARD WAGERED HIS FEATHER-BED.
+7. CHAPTER VII. HOW THE THREE COMRADES JOURNEYED THROUGH THE WOODLANDS.
+8. CHAPTER VIII. THE THREE FRIENDS.
+9. CHAPTER IX. HOW STRANGE THINGS BEFELL IN MINSTEAD WOOD.
+10. CHAPTER X. HOW HORDLE JOHN FOUND A MAN WHOM HE MIGHT FOLLOW.
+
+> 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/40d78e6718cf/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

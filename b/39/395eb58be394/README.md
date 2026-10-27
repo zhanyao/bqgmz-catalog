@@ -1,0 +1,35 @@
+# The Battleship Boys at Sea; Or, Two Apprentices in Uncle Sam's Navy
+
+**作者** Patchin, Frank Gee, 1861-1925 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 24 章 · 216,063 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/395eb58be394/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（216,063 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 9,002 字；最长 CHAPTER I--THE LURE OF THE BATTLESHIP（19,150 字），最短 CHAPTER VII--THE RED-HEADED BOY'S SURPRISE（4,456 字）。 |
+| 起止 | 始于「CHAPTER I--THE LURE OF THE BATTLESHIP」，止于「CHAPTER XXIV--CONCLUSION」。 |
+| 原文溯源 | `cache/epub/36322/pg36322.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I--THE LURE OF THE BATTLESHIP
+2. CHAPTER II--IN UNCLE SAM'S NAVY
+3. CHAPTER III--WHO THREW THE PIE?
+4. CHAPTER IV--PIPING UP HAMMOCKS
+5. CHAPTER V--TRYING OUT THEIR GRIT
+6. CHAPTER VI--IN THE MIDST OF THE BATTLE
+7. CHAPTER VII--THE RED-HEADED BOY'S SURPRISE
+8. CHAPTER VIII--ON THE RIFLE RANGE
+9. CHAPTER IX--BETRAYED BY A STREAK OF RED
+10. CHAPTER X--THEIR FIRST DETAIL
+
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/395eb58be394/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

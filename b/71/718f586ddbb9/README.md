@@ -1,0 +1,34 @@
+# Koditon: Romaani
+
+**作者** Malot, Hector, 1830-1907; Pakkala, Teuvo, 1862-1925 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
+**规模** 55 题 · 556,164 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/718f586ddbb9/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（556,164 字）。 |
+| 分章依据 | 按「题」标记切分为 55 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 10,112 字。 |
+| 原文溯源 | `cache/epub/50481/pg50481.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. KODITON
+2. Romaani
+3. HECTOR MALOT
+4. Suomentanut Teuvo Pakkala
+5. ENSIMÄINEN OSA.
+6. I.
+7. II.
+8. Ovi aukeni ja sulkeutui. Minä hyppäsin pystyyn: "Äiti!"
+9. III.
+10. IV.
+
+> 共 55 题，[完整目录与正文 →](https://www.bqgmz.top/b/718f586ddbb9/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

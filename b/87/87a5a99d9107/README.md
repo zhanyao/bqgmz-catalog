@@ -1,0 +1,35 @@
+# The Antiquity of Man
+
+**作者** Lyell, Charles, Sir, 1797-1875 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 24 章 · 819,843 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/87a5a99d9107/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（819,843 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 34,160 字；最长 CHAPTER 24. -- BEARING OF THE DOCTRINE OF TRANSMUTATION ON THE ORIGIN OF（80,464 字），最短 CHAPTER 17. -- POST-GLACIAL DISLOCATIONS AND FOLDINGS OF CRETACEOUS AND（14,703 字）。 |
+| 起止 | 始于「CHAPTER 1. -- INTRODUCTORY.」，止于「CHAPTER 24. -- BEARING OF THE DOCTRINE OF TRANSMUTATION ON THE ORIGIN OF」。 |
+| 原文溯源 | `cache/epub/6335/pg6335.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER 1. -- INTRODUCTORY.
+2. CHAPTER 2. -- RECENT PERIOD--DANISH PEAT AND SHELL MOUNDS--SWISS
+3. CHAPTER 3. -- FOSSIL HUMAN REMAINS AND WORKS OF ART OF THE RECENT
+4. CHAPTER 4. -- PLEISTOCENE PERIOD--BONES OF MAN AND EXTINCT MAMMALIA IN
+5. CHAPTER 5. -- PLEISTOCENE PERIOD--FOSSIL HUMAN SKULLS OF THE NEANDERTHAL
+6. CHAPTER 6. -- PLEISTOCENE ALLUVIUM AND CAVE DEPOSITS WITH FLINT
+7. CHAPTER 7. -- PEAT AND PLEISTOCENE ALLUVIUM OF THE VALLEY OF THE SOMME.
+8. CHAPTER 8. -- PLEISTOCENE ALLUVIUM WITH FLINT IMPLEMENTS OF THE VALLEY
+9. CHAPTER 9. -- WORKS OF ART IN PLEISTOCENE ALLUVIUM OF FRANCE AND
+10. CHAPTER 10. -- CAVERN DEPOSITS, AND PLACES OF SEPULTURE OF THE
+
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/87a5a99d9107/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,0 +1,35 @@
+# The Gaming Table: Its Votaries and Victims. Volume 1 (of 2)
+
+**作者** Steinmetz, Andrew, 1816-1877 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 14 章 · 407,645 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/7102e09b48af/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（407,645 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 29,117 字；最长 CHAPTER XI. GAMBLING POETS, SAVANTS, PHILOSOPHERS, WITS, AND STATESMEN.（65,650 字），最短 CHAPTER III. GAMBLING AMONG THE ANCIENT EGYPTIANS, PERSIANS, AND GREEKS.（5,124 字）。 |
+| 起止 | 始于「CHAPTER I. THE UNIVERSAL PASSION OF GAMING; OR, GAMING ALL THE WORLD OVER.」，止于「CHAPTER XIV. THE LAWS AGAINST GAMING IN VARIOUS COUNTRIES.」。 |
+| 原文溯源 | `cache/epub/466/pg466.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I. THE UNIVERSAL PASSION OF GAMING; OR, GAMING ALL THE WORLD OVER.
+2. CHAPTER II. GAMBLING AMONG THE ANCIENT HINDOOS.--A HINDOO LEGEND AND ITS MODERN
+3. CHAPTER III. GAMBLING AMONG THE ANCIENT EGYPTIANS, PERSIANS, AND GREEKS.
+4. CHAPTER IV. GAMING AMONG THE ANCIENT ROMAN EMPERORS.
+5. CHAPTER V. GAMBLING IN FRANCE IN ALL TIMES.
+6. CHAPTER VI. THE RISE AND PROGRESS OF MODERN GAMING IN ENGLAND.
+7. CHAPTER VII. GAMBLING IN BRIGHTON IN 1817.
+8. CHAPTER VIII. GAMBLING AT THE GERMAN BATHING-PLACES.----
+9. CHAPTER IX. GAMBLING IN THE UNITED STATES.
+10. CHAPTER X. LADY GAMESTRESSES.
+
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/7102e09b48af/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

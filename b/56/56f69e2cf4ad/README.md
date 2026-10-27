@@ -1,0 +1,34 @@
+# Harper's Round Table, January 24, 1882
+
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 55 题 · 72,534 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/56f69e2cf4ad/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（72,534 字）。 |
+| 分章依据 | 按「题」标记切分为 55 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 1,318 字。 |
+| 原文溯源 | `cache/epub/52745/pg52745.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. A COUNTRY BOY IN WINTER.
+2. BY SARAH O. JEWETT.
+3. TODD AND KETCHUM'S "GRATE SHOW."
+4. BY ELLA RODMAN CHURCH.
+5. THE WAVES AT WORK.
+6. BY CHARLES BARNARD.
+7. ON CIGARETTE SMOKING.
+8. BY AN OLD SMOKER
+9. THE TALKING LEAVES.[1]
+10. BY WILLIAM O. STODDARD.
+
+> 共 55 题，[完整目录与正文 →](https://www.bqgmz.top/b/56f69e2cf4ad/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

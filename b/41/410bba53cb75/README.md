@@ -1,0 +1,34 @@
+# Korsikan veljekset
+
+**作者** Dumas, Alexandre, 1802-1870; Blomqvist, Hanna [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
+**规模** 21 题 · 102,353 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/410bba53cb75/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（102,353 字）。 |
+| 分章依据 | 按「题」标记切分为 21 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 4,873 字。 |
+| 原文溯源 | `cache/epub/76959/pg76959.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. KORSIKAN VELJEKSET
+2. Alexandre Dumas
+3. Suomentanut
+4. Hanna Blomqvist
+5. I LUKU.
+6. II LUKU.
+7. III LUKU.
+8. IV LUKU.
+9. V LUKU.
+10. VI LUKU.
+
+> 共 21 题，[完整目录与正文 →](https://www.bqgmz.top/b/410bba53cb75/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

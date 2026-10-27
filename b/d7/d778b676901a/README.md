@@ -1,0 +1,34 @@
+# Memorials of Shrewsbury being a concise description of the town and its environs, adapted as a general guide for the information of visitors and residents
+
+**作者** Pidgeon, Henry ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 211 题 · 289,957 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/d778b676901a/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（289,957 字）。 |
+| 分章依据 | 按「题」标记切分为 211 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 1,374 字。 |
+| 原文溯源 | `cache/epub/62621/pg62621.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. BEING A
+2. CONCISE DESCRIPTION OF THE TOWN
+3. AND ITS ENVIRONS,
+4. Adapted as
+5. A General Guide
+6. FOR THE
+7. INFORMATION OF VISITORS AND RESIDENTS.
+8. BY
+9. HENRY PIDGEON.
+10. ILLUSTRATED WITH THIRTY-SIX ENGRAVINGS.
+
+> 共 211 题，[完整目录与正文 →](https://www.bqgmz.top/b/d778b676901a/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

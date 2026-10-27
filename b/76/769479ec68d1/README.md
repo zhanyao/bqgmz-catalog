@@ -1,0 +1,34 @@
+# Outpost on Io
+
+**作者** Brackett, Leigh, 1915-1978; Paul, Frank R. (Frank Rudolph), 1884-1963 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 15 题 · 31,165 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/769479ec68d1/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（31,165 字）。 |
+| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 2,077 字。 |
+| 原文溯源 | `cache/epub/62249/pg62249.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. OUTPOST ON IO
+2. By LEIGH BRACKETT
+3. MacVickers' head dropped forward. "Then you saw it coming, too?"
+4. MacVickers put his hand back on the ladder rung. "How long?"
+5. MacVickers said steadily, "I don't understand. The mud's outside."
+6. II
+7. Birek said hoarsely, "Down! Grovel! Then you can go."
+8. MacVickers grinned dourly. "Trustful lot."
+9. MacVickers said, "What's all this for?"
+10. Pendleton's mouth twisted. "Can you see any way?"
+
+> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/769479ec68d1/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

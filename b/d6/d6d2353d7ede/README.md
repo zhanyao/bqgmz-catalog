@@ -1,0 +1,28 @@
+# One Common Faith
+
+**作者** Bahá'í International Community ｜ **国家/地区** 英美 ｜ **体例** 段  
+**规模** 4 段 · 82,722 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/d6d2353d7ede/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（82,722 字）。 |
+| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每段 20,680 字。 |
+| 原文溯源 | `cache/epub/19281/pg19281.txt`（Project Gutenberg） |
+
+## 章节目录（前 4 段）
+
+1. Throughout history, the primary agents of spiritual developm
+2. Over time, theology succeeded in constructing in the heart o
+3. The power through which these goals will be progressively re
+4. 16 Julian Huxley, cited by Pierre Teilhard de Chardin, _The
+
+> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/d6d2353d7ede/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

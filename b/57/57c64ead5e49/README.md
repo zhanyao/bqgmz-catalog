@@ -1,0 +1,34 @@
+# Suomalaisen kirjallisuuden historia
+
+**作者** Leino, Eino, 1878-1926 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
+**规模** 50 题 · 101,805 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/57c64ead5e49/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（101,805 字）。 |
+| 分章依据 | 按「题」标记切分为 50 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 2,036 字。 |
+| 原文溯源 | `cache/epub/15513/pg15513.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. Produced by Tapio Riikonen
+2. SUOMALAISEN KIRJALLISUUDEN HISTORIA
+3. Eino Leino
+4. SISÄLLYS:
+5. Lukijalle
+6. Johdanto: Valmistava aika (1542-1835)
+7. I. Romanttinen aika (1835-1870)
+8. II. Realistinen aika (1870-1897)
+9. III. Uusromantinen aika (1897-)
+10. SUOMALAISEN KIRJALLISUUDEN HISTORIA
+
+> 共 50 题，[完整目录与正文 →](https://www.bqgmz.top/b/57c64ead5e49/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

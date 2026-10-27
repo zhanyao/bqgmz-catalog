@@ -1,0 +1,35 @@
+# The Wood Beyond the World
+
+**作者** Morris, William, 1834-1896 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 36 章 · 205,600 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/c96e60522842/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（205,600 字）。 |
+| 分章依据 | 按「章」标记切分为 36 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 5,711 字；最长 CHAPTER XXIV: THE MAID TELLS OF WHAT HAD BEFALLEN HER（15,136 字），最短 CHAPTER XXXIV: NOW COMETH THE MAID TO THE KING（1,981 字）。 |
+| 起止 | 始于「CHAPTER I: OF GOLDEN WALTER AND HIS FATHER」，止于「CHAPTER XXXVI: OF WALTER AND THE MAID IN THE DAYS OF THE KINGSHIP」。 |
+| 原文溯源 | `cache/epub/3055/pg3055.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I: OF GOLDEN WALTER AND HIS FATHER
+2. CHAPTER II: GOLDEN WALTER TAKES SHIP TO SAIL THE SEAS
+3. CHAPTER III: WALTER HEARETH TIDINGS OF THE DEATH OF HIS FATHER
+4. CHAPTER IV: STORM BEFALLS THE BARTHOLOMEW, AND SHE IS DRIVEN OFF HER
+5. CHAPTER V: NOW THEY COME TO A NEW LAND
+6. CHAPTER VI: THE OLD MAN TELLS WALTER OF HIMSELF. WALTER SEES A SHARD IN
+7. CHAPTER VII: WALTER COMES TO THE SHARD IN THE ROCK-WALL
+8. CHAPTER VIII: WALTER WENDS THE WASTE
+9. CHAPTER IX: WALTER HAPPENETH ON THE FIRST OF THOSE THREE CREATURES
+10. CHAPTER X: WALTER HAPPENETH ON ANOTHER CREATURE IN THE STRANGE LAND
+
+> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/c96e60522842/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

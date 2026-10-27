@@ -1,0 +1,34 @@
+# Kiljusen herrasväki
+
+**作者** Finne, Jalmari, 1874-1938 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
+**规模** 11 题 · 94,722 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/e7d6bd0b73d9/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（94,722 字）。 |
+| 分章依据 | 按「题」标记切分为 11 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 8,611 字。 |
+| 原文溯源 | `cache/epub/55938/pg55938.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. KILJUSEN HERRASVÄKI
+2. JALMARI FINNE
+3. SISÄLLYS:
+4. Kiljusen herrasväen Helsingin-matka
+5. Kiljusen herrasväen kalastusmatka
+6. Saunamatka
+7. Mökön ja Lurun syntymäpäivä
+8. Aarteen kaivaminen
+9. Kun Kiljuset olivat hirviä pyytämässä
+10. Kiljusen herrasväen toinen Helsingin-matka
+
+> 共 11 题，[完整目录与正文 →](https://www.bqgmz.top/b/e7d6bd0b73d9/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

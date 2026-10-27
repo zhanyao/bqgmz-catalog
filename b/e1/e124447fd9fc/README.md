@@ -1,0 +1,34 @@
+# Mormon Settlement in Arizona A Record of Peaceful Conquest of the Desert
+
+**作者** McClintock, James H., 1864-1934 ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 354 题 · 484,198 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/e124447fd9fc/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（484,198 字）。 |
+| 分章依据 | 按「题」标记切分为 354 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 1,367 字。 |
+| 原文溯源 | `cache/epub/9661/pg9661.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. MORMON SETTLEMENT IN ARIZONA
+2. A RECORD OF PEACEFUL CONQUEST OF THE DESERT
+3. BY JAMES H. McCLINTOCK
+4. ARIZONA HISTORIAN
+5. FOREWORD
+6. SUMMARY OF SUBJECTS
+7. Chapter One
+8. Chapter Two
+9. Chapter Three
+10. Chapter Four
+
+> 共 354 题，[完整目录与正文 →](https://www.bqgmz.top/b/e124447fd9fc/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

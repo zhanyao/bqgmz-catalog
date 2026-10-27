@@ -1,0 +1,34 @@
+# De Helden van Zuid-Afrika Een Verhaal uit den "Trek" der Afrikaansche Boeren uit de Kaapkolonie naar de Transvaal
+
+**作者** Penning, L. (Louwrens), 1854-1927 ｜ **国家/地区** 荷兰 ｜ **体例** 题  
+**规模** 40 题 · 369,095 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/77dd094da34a/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（369,095 字）。 |
+| 分章依据 | 按「题」标记切分为 40 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 9,227 字。 |
+| 原文溯源 | `cache/epub/68193/pg68193.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. DE HELDEN VAN ZUID-AFRIKA.
+2. GORINCHEM—F. DUYM—1900.
+3. VOORWOORD BIJ DEN TWEEDEN DRUK.
+4. L. PENNING.
+5. HOOFDSTUK I.
+6. HOOFDSTUK II.
+7. HOOFDSTUK III.
+8. HOOFDSTUK IV.
+9. HOOFDSTUK V.
+10. HOOFDSTUK VI.
+
+> 共 40 题，[完整目录与正文 →](https://www.bqgmz.top/b/77dd094da34a/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

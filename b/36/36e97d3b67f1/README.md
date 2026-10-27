@@ -1,0 +1,34 @@
+# Highwayman of the Void
+
+**作者** Pohl, Frederik, 1919-2013; Wylie, Dirk, 1920-1949 [Dubious author]; Doolin, Joseph, 1896-1967 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 22 题 · 68,347 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/36e97d3b67f1/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（68,347 字）。 |
+| 分章依据 | 按「题」标记切分为 22 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 3,106 字。 |
+| 原文溯源 | `cache/epub/63189/pg63189.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. Highwayman Of The Void
+2. By DIRK WYLIE
+3. He shrugged. "Yes," he said. "Let's get moving."
+4. Nolan shook his head. "No."
+5. Nolan nodded. "He won't see me--in time for it to do him any good."
+6. II
+7. The girl's voice was even now. "I won't give one."
+8. Petersen grinned. "Pretty sure," he said. "I have my ways."
+9. Nolan nodded. "Thanks," he said. "Look, I--"
+10. III
+
+> 共 22 题，[完整目录与正文 →](https://www.bqgmz.top/b/36e97d3b67f1/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

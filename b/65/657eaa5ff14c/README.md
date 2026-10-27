@@ -1,0 +1,34 @@
+# The White Horses
+
+**作者** Sutcliffe, Halliwell, 1870-1932 ｜ **国家/地区** 英美 ｜ **体例** 段  
+**规模** 19 段 · 390,173 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/657eaa5ff14c/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（390,173 字）。 |
+| 分章依据 | 按「段」标记切分为 19 段（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每段 20,535 字；最长 "You are a big company, sir," he said, turning briskly round（39,908 字），最短 He came down the path between the honeysuckle and the flower（9,790 字）。 |
+| 原文溯源 | `cache/epub/43551/pg43551.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 段）
+
+1. "You are a big company, sir," he said, turning briskly round
+2. He went through Ilkley. Its straw-thatched cottages cluster
+3. A butcher in the crowd pressed forward. "He sent it on by a
+4. "You're a smooth-tongued rascal! As for you, Kit, lady's fa
+5. There was food of a kind in the dining-hall, with its chimne
+6. Michael, for his part, was nothing loth to have another day
+7. "Michael," he said, "what shall we do with this fellow? Mic
+8. So Michael explained, with his daft laugh, that a Yorkshirem
+9. They returned two hours later in high spirits. The Metcalfs
+10. "I should have held aloof from it all," he protested.
+
+> 共 19 段，[完整目录与正文 →](https://www.bqgmz.top/b/657eaa5ff14c/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

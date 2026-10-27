@@ -1,0 +1,34 @@
+# Epics and Romances of the Middle Ages
+
+**作者** Wägner, Wilhelm, 1800-1886; Anson, W. S. W., 1855-1931 [Editor]; Macdowall, M. W. [Translator] ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 179 题 · 593,186 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/623f866f59e8/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（593,186 字）。 |
+| 分章依据 | 按「题」标记切分为 179 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 3,313 字。 |
+| 原文溯源 | `cache/epub/46923/pg46923.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. SECOND EDITION.
+2. INTRODUCTION.
+3. W. S. W. ANSON.
+4. CONTENTS.
+5. PART FIRST.
+6. I. LANGOBARDIAN LEGENDS.
+7. PAGE
+8. 1. ALBOIN AND ROSAMUND 19-27
+9. 2. KING ROTHER 28-54
+10. 3. ORTNIT 55-81
+
+> 共 179 题，[完整目录与正文 →](https://www.bqgmz.top/b/623f866f59e8/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

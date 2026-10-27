@@ -1,0 +1,35 @@
+# Erewhon Revisited Twenty Years Later, Both by the Original Discoverer of the Country and by His Son
+
+**作者** Butler, Samuel, 1835-1902 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 27 章 · 372,067 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/5e110bb1d5e6/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（372,067 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 13,780 字；最长 CHAPTER I: UPS AND DOWNS OF FORTUNE--MY FATHER STARTS FOR EREWHON（22,717 字），最短 CHAPTER XVIII: YRAM INVITES DR. DOWNIE AND MRS. HUMDRUM TO LUNCHEON--A（5,182 字）。 |
+| 起止 | 始于「CHAPTER I: UPS AND DOWNS OF FORTUNE--MY FATHER STARTS FOR EREWHON」，止于「CHAPTER XXVIII: GEORGE AND I SPEND A FEW HOURS TOGETHER AT THE STATUES,」。 |
+| 原文溯源 | `cache/epub/1971/pg1971.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I: UPS AND DOWNS OF FORTUNE--MY FATHER STARTS FOR EREWHON
+2. CHAPTER II: TO THE FOOT OF THE PASS INTO EREWHON
+3. CHAPTER III: MY FATHER WHILE CAMPING IS ACCOSTED BY PROFESSORS HANKY
+4. CHAPTER IV: MY FATHER OVERHEARS MORE OF HANKY AND PANKY’S CONVERSATION
+5. CHAPTER V: MY FATHER MEETS A SON, OF WHOSE EXISTENCE HE WAS IGNORANT;
+6. CHAPTER VI: FURTHER CONVERSATION BETWEEN FATHER AND SON--THE
+7. CHAPTER VII: SIGNS OF THE NEW ORDER OF THINGS CATCH MY FATHER’S EYE ON
+8. CHAPTER VIII: YRAM, NOW MAYORESS, GIVES A DINNER-PARTY, IN THE COURSE OF
+9. CHAPTER IX: INTERVIEW BETWEEN YRAM AND HER SON
+10. CHAPTER X: MY FATHER, FEARING RECOGNITION AT SUNCH’STON, BETAKES HIMSELF
+
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/5e110bb1d5e6/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

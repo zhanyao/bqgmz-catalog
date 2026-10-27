@@ -1,0 +1,34 @@
+# Terveeks' — Buddha!
+
+**作者** Pekkola, Sulo-Weikko, 1890-1931 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
+**规模** 15 题 · 188,879 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/7708184f0f26/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（188,879 字）。 |
+| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 12,591 字。 |
+| 原文溯源 | `cache/epub/76730/pg76730.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. TERVEEKS' — BUDDHA!
+2. Sulo-Weikko Pekkola
+3. SISÄLLYS:
+4. INTIALAISIA YSTÄVIÄ.
+5. YHTÄ JA TOISTA ALBIONIN ALAMAISUUDESTA.
+6. MAAILMAN TAPOJA.
+7. SINGAPORE.
+8. JAAVALAISIA MAISEMIA.
+9. BATAVIASSA.
+10. JAAVALAISIA LIIKKEITÄ JA VIRASTOJA.
+
+> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/7708184f0f26/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

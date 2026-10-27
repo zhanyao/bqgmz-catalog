@@ -1,0 +1,35 @@
+# Index of the Project Gutenberg Works of Miguel de Cervantes Saavedra
+
+**作者** Cervantes Saavedra, Miguel de, 1547-1616; Widger, David, 1932-2021 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 22,850 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/c26c33a0a7f2/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（22,850 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 1,038 字。 |
+| 起止 | 始于「CHAPTER IX 	WHEREIN IS RELATED WHAT WILL BE SEEN THERE」，止于「CHAPTER LXXIV 	OF HOW DON QUIXOTE FELL SICK, AND OF THE WILL HE MADE, AND HOW HE DIED」。 |
+| 原文溯源 | `cache/epub/58328/pg58328.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER IX WHEREIN IS RELATED WHAT WILL BE SEEN THERE
+2. CHAPTER XIV WHEREIN IS CONTINUED THE ADVENTURE OF THE KNIGHT OF THE GROVE
+3. CHAPTER XV WHEREIN IT IS TOLD AND KNOWN WHO THE KNIGHT OF THE MIRRORS AND HIS SQUIRE WERE
+4. CHAPTER XVI OF WHAT BEFELL DON QUIXOTE WITH A DISCREET GENTLEMAN OF LA MANCHA
+5. CHAPTER XXI IN WHICH CAMACHO’S WEDDING IS CONTINUED, WITH OTHER DELIGHTFUL INCIDENTS
+6. CHAPTER XXIX OF THE FAMOUS ADVENTURE OF THE ENCHANTED BARK
+7. CHAPTER XXX OF DON QUIXOTE’S ADVENTURE WITH A FAIR HUNTRESS
+8. CHAPTER XXXI WHICH TREATS OF MANY AND GREAT MATTERS
+9. CHAPTER XXXVII WHEREIN IS CONTINUED THE NOTABLE ADVENTURE OF THE DISTRESSED DUENNA
+10. CHAPTER XXXVIII WHEREIN IS TOLD THE DISTRESSED DUENNA’S TALE OF HER MISFORTUNES
+
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/c26c33a0a7f2/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

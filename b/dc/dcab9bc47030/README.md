@@ -1,0 +1,28 @@
+# Mission Furniture: How to Make It, Part 1
+
+**作者** Windsor, H. H. (Henry Haven), 1859-1924 ｜ **国家/地区** 英美 ｜ **体例** 段  
+**规模** 4 段 · 84,015 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/dcab9bc47030/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（84,015 字）。 |
+| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每段 21,003 字。 |
+| 原文溯源 | `cache/epub/23770/pg23770.txt`（Project Gutenberg） |
+
+## 章节目录（前 4 段）
+
+1. For the shelf, order 1 piece 7/8 in. thick, 22 in. wide and
+2. The posts and cleat are surfaced on four sides, while the ot
+3. $Italian Renaissance, Fifteenth Century.--1400 to 1500.$ The
+4. A BEDSIDE MEDICINE STAND
+
+> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/dcab9bc47030/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

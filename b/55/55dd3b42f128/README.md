@@ -1,0 +1,30 @@
+# Vergleichende Betrachtungen über neuere geometrische Forschungen
+
+**作者** Klein, Felix, 1849-1925 ｜ **国家/地区** 德国 ｜ **体例** 题  
+**规模** 5 题 · 82,719 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/55dd3b42f128/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（82,719 字）。 |
+| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 16,543 字。 |
+| 起止 | 始于「1. Die Gruppe der rationalen Umformungen.」，止于「3. Die ebene Mannigfaltigkeit.」。 |
+| 原文溯源 | `cache/epub/38033/pg38033.txt`（Project Gutenberg） |
+
+## 章节目录（前 5 题）
+
+1. 1. Die Gruppe der rationalen Umformungen.
+2. 2. Die Analysis situs.
+3. 3. Die Gruppe aller Puncttransformationen.
+4. 2. Die Mannigfaltigkeit von constantem Krümmungsmaße.
+5. 3. Die ebene Mannigfaltigkeit.
+
+> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/55dd3b42f128/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

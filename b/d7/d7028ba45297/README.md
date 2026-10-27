@@ -1,0 +1,34 @@
+# Mindanao: Su Historia y Geografía
+
+**作者** Nieto Aguilar, José ｜ **国家/地区** 西班牙 ｜ **体例** 题  
+**规模** 15 题 · 242,786 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/d7028ba45297/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（242,786 字）。 |
+| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 16,185 字。 |
+| 原文溯源 | `cache/epub/15334/pg15334.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. Produced by The Project Gutenberg Distributed Proofreaders Team
+2. Por
+3. José Nieto Aguilar
+4. Al Excmo. Sr General D. Angel Aznar y Butigieg
+5. José Nieto Aguilar
+6. Prologo
+7. Promedio 21.431.739 22.247.914
+8. Promedio 21.176.528 28.846.583
+9. Mindanao
+10. Reseña Histórica
+
+> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/d7028ba45297/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

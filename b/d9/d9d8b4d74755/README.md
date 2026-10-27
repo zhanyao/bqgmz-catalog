@@ -1,0 +1,29 @@
+# The Dancing Faun
+
+**作者** Farr, Florence, 1860-1917; Beardsley, Aubrey, 1872-1898 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
+**规模** 5 段 · 118,311 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/d9d8b4d74755/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（118,311 字）。 |
+| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每段 23,662 字；最长 ‘I thought we should have such a lovely time down there, boa（40,001 字），最短 ‘Well, that is what it comes to. In real life you get an emo（18,435 字）。 |
+| 原文溯源 | `cache/epub/75492/pg75492.txt`（Project Gutenberg） |
+
+## 章节目录（前 5 段）
+
+1. ‘I thought we should have such a lovely time down there, boa
+2. ‘But just quietly, to one person, surely that is different.’
+3. Grace Lovell was lying asleep when a hansom cab drove up. Tr
+4. ‘I will explain. You know among the Arabs there is another u
+5. ‘Well, that is what it comes to. In real life you get an emo
+
+> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/d9d8b4d74755/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

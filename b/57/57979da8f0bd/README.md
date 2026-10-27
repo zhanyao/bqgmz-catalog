@@ -1,0 +1,35 @@
+# Under Blanco's eye; or, Hal Maynard among the Cuban insurgents
+
+**作者** Wells, Douglas ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 84,664 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/57979da8f0bd/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（84,664 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 8,466 字；最长 CHAPTER X. UNDER CUBA’S FLAG.（11,082 字），最短 CHAPTER III. “SPANISH EVIDENCE.”（6,885 字）。 |
+| 起止 | 始于「CHAPTER I. “THE ONLY AMERICAN IN HAVANA.”」，止于「CHAPTER X. UNDER CUBA’S FLAG.」。 |
+| 原文溯源 | `cache/epub/68379/pg68379.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I. “THE ONLY AMERICAN IN HAVANA.”
+2. CHAPTER II. JUAN RAMIREZ INTRODUCES HIMSELF.
+3. CHAPTER III. “SPANISH EVIDENCE.”
+4. CHAPTER IV. AT THE PREFATURA.
+5. CHAPTER V. “A SPANIARD OF HONOR!”
+6. CHAPTER VI. CUBA’S NEW RECRUIT.
+7. CHAPTER VII. THE TEMPTATION OF PEDRO.
+8. CHAPTER VIII. “AS GOMEZ WOULD SPEAK.”
+9. CHAPTER IX. BATTLE IN EARNEST.
+10. CHAPTER X. UNDER CUBA’S FLAG.
+
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/57979da8f0bd/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

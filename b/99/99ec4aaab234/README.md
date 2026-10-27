@@ -1,0 +1,34 @@
+# Born to Wander: A Boy's Book of Nomadic Adventures
+
+**作者** Stables, Gordon, 1840-1910; Cheshire, William [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 47 题 · 257,030 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/99ec4aaab234/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（257,030 字）。 |
+| 分章依据 | 按「题」标记切分为 47 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 5,468 字。 |
+| 原文溯源 | `cache/epub/37252/pg37252.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. Produced by Nick Hodson of London, England
+2. GRAYLING HOUSE, AND THE WILDERY AROUND IT.
+3. GLEN LYLE.
+4. Captain Lyle reading--
+5. He took up the book and commenced at random--
+6. CASTLE BEAUTIFUL.
+7. GIPSY LIFE.
+8. Scott: "_The Dying Gipsy's Dirge_."
+9. IN THE DEEP DARK FOREST.
+10. STRANGE ADVENTURES IN WOOD AND WILD.
+
+> 共 47 题，[完整目录与正文 →](https://www.bqgmz.top/b/99ec4aaab234/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

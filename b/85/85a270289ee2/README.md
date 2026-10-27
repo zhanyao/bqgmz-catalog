@@ -1,0 +1,31 @@
+# Knickerbocker's history of New York, vol. 1 (of 2)
+
+**作者** Irving, Washington, 1783-1859; Kemble, E. W. (Edward Windsor), 1861-1933 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 307,084 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/85a270289ee2/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（307,084 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 43,869 字；最长 But there is still one more mode left by（79,727 字），最短 BOOK II.（1,374 字）。 |
+| 原文溯源 | `cache/epub/77921/pg77921.txt`（Project Gutenberg） |
+
+## 章节目录（前 7 章）
+
+1. BOOK I.
+2. BOOK II.
+3. BOOK III.
+4. BOOK IV.
+5. But there is still one more mode left by
+6. And Van Kortlandt awoke from his sleep g
+7. In the midst of this slumber of the soul
+
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/85a270289ee2/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

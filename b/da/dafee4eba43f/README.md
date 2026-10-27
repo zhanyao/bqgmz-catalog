@@ -1,0 +1,34 @@
+# Some of Our East Coast Towns
+
+**作者** Ritchie, J. Ewing (James Ewing), 1820-1898 ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 10 题 · 108,020 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/dafee4eba43f/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（108,020 字）。 |
+| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 10,802 字。 |
+| 原文溯源 | `cache/epub/53890/pg53890.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. CONTENTS.
+2. ADVERTISEMENTS.
+3. Homespun Yarns. By EDWIN COLLER. Crown 8vo, cloth 3_s._ 6_d._
+4. The Symmetry of Flowers. By JOHN GIBBS. 18mo, sewed, 4_d._
+5. FOR SEA, FIRE, LIFE & ANNUITIES.
+6. FIRE,
+7. LIFE.
+8. NEW SCHEME OF CHILDREN’S ENDOWMENT ASSURANCE.
+9. JUST PUBLISHED, PRICE 7/6
+10. EAST ANGLIA
+
+> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/dafee4eba43f/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

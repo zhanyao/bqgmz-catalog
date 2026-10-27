@@ -1,0 +1,34 @@
+# Figures of speech
+
+**作者** Tuttle, W. C. (Wilbur C.), 1883-1969 ｜ **国家/地区** 英美 ｜ **体例** 题  
+**规模** 16 题 · 43,253 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/46c4f24c6569/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（43,253 字）。 |
+| 分章依据 | 按「题」标记切分为 16 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 2,703 字。 |
+| 原文溯源 | `cache/epub/79120/pg79120.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. Figures of Speech
+2. DEAR HANK:
+3. I said, “What did you think I was naming—a comet or a new drink?”
+4. I says: “I ain’t sore at nothing. Why think I’m sore at the cows?”
+5. I says, “Is that a figure of speech?” and he says, “I reckon so.”
+6. I says there is, and he says: “There you are. Can you talk Injun?”
+7. DEAR HANK:
+8. I says, “I never fall down from a _hombre_ like you.”
+9. I says, “Why didn’t he take some of the Alleviator?”
+10. H. W. D.
+
+> 共 16 题，[完整目录与正文 →](https://www.bqgmz.top/b/46c4f24c6569/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

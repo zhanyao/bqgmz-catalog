@@ -1,0 +1,30 @@
+# Théologie hindoue. Le Kama soutra.
+
+**作者** Vatsyayana; Lamairesse, 1817-1898 [Translator] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 6 章 · 486,264 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/7de9ed1f1e1f/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（486,264 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 81,044 字；最长 Elle gardera ses secrets, lui dira elle-（105,546 字），最短 SECTION II.--L'EXTÉRIEUR.（1,519 字）。 |
+| 原文溯源 | `cache/epub/14609/pg14609.txt`（Project Gutenberg） |
+
+## 章节目录（前 6 章）
+
+1. SECTION 1.--INTÉRIEUR (_at home_).
+2. SECTION II.--L'EXTÉRIEUR.
+3. SECTION III
+4. N° 2.--Ovide, _Art d'aimer, _livre III.
+5. Caligula abusa de Valérius Catullus, jeu
+6. Elle gardera ses secrets, lui dira elle-
+
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/7de9ed1f1e1f/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
