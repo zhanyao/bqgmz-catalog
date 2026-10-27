@@ -1,0 +1,35 @@
+# Lewis Arundel; Or, The Railroad Of Life
+
+**作者** Smedley, Frank E. (Frank Edward), 1818-1864; Browne, Hablot Knight, 1815-1882 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 68 章 · 1,265,465 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/105eb60d6a87/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,265,465 字）。 |
+| 分章依据 | 按「章」标记切分为 68 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 18,609 字；最长 CHAPTER LXII.--“POINTS A MORAL,” AND SO IT IS TO BE HOPED “ADORNS A（41,223 字），最短 CHAPTER IV.--LEWIS ENLISTS UNDER A “CONQUERING HERO,” AND STARTS ON A（6,925 字）。 |
+| 起止 | 始于「CHAPTER I.--IN WHICH THE TRAIN STARTS, AND THE READER IS INTRODUCED TO」，止于「CHAPTER LXVIII.--LEWIS OUT-GENERALS THE GENERAL, AND THE TRAIN STOPS.」。 |
+| 原文溯源 | `cache/epub/56600/pg56600.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I.--IN WHICH THE TRAIN STARTS, AND THE READER IS INTRODUCED TO
+2. CHAPTER II.--SHOWING HOW LEWIS LOSES HIS TEMPER, AND LEAVES HIS HOME.
+3. CHAPTER III.--IN WHICH RICHARD FRERE MENDS THE BACK OF ST. THOMAS
+4. CHAPTER IV.--LEWIS ENLISTS UNDER A “CONQUERING HERO,” AND STARTS ON A
+5. CHAPTER V.--IS OF A DECIDEDLY WARLIKE CHARACTER.
+6. CHAPTER VI.--IN WHICH LEWIS ARUNDEL SKETCHES A COW, AND THE AUTHOR DRAWS
+7. CHAPTER VII.--WHEREIN THE READER IS INTRODUCED TO MISS LIVINGSTONE, AND
+8. CHAPTER VIII.--LEWIS RECEIVES A LECTURE AND A COLD BATH.
+9. CHAPTER IX.--WHEREIN RICHARD FRERE AND LEWIS TURN MAHOMETANS.
+10. CHAPTER X.--CONTAINS A PRACTICAL COMMENTARY ON THE PROVERB, “ALL IS NOT
+
+> 共 68 章，[完整目录与正文 →](https://www.bqgmz.top/b/105eb60d6a87/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

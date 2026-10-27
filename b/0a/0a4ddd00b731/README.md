@@ -1,0 +1,35 @@
+# Abraham Lincoln: Was He a Christian?
+
+**作者** Remsburg, John E. (John Eleazer), 1848-1919 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 339,778 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/0a4ddd00b731/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（339,778 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每章 22,651 字；最长 CHAPTER XV. RECAPITULATION AND CONCLUSION（29,382 字），最短 CHAPTER II. REVIEW OF CHRISTIAN TESTIMONY--HOLLAND AND BATEMAN.（15,706 字）。 |
+| 起止 | 始于「CHAPTER I. CHRISTIAN TESTIMONY」，止于「CHAPTER XV. RECAPITULATION AND CONCLUSION」。 |
+| 原文溯源 | `cache/epub/38374/pg38374.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. CHAPTER I. CHRISTIAN TESTIMONY
+2. CHAPTER II. REVIEW OF CHRISTIAN TESTIMONY--HOLLAND AND BATEMAN.
+3. CHAPTER III. REVIEW OF CHRISTIAN TESTIMONY--REED AND HIS WITNESSES.
+4. CHAPTER IV. REVIEW OF CHRISTIAN TESTIMONY--ARNOLD AND OTHER WITNESSES
+5. CHAPTER V. TESTIMONY OF HON. WILLIAM H. HERNDON--PUBLISHED TESTIMONY
+6. CHAPTER VI. TESTIMONY OF HON. WILLIAM H. HERNDON--UNPUBLISHED TESTIMONY
+7. CHAPTER VII. TESTIMONY OF COL. WARD H. LAMON
+8. CHAPTER VIII. TESTIMONY OF HON. JOHN T. STUART AND COL. JAMES H. MATHENY
+9. CHAPTER IX. TESTIMONY OF THE REMAINING WITNESSES PRESENTED BY LAMON
+10. CHAPTER X. TESTIMONY OF LINCOLN'S RELATIVES AND INTIMATE ASSOCIATES
+
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/0a4ddd00b731/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

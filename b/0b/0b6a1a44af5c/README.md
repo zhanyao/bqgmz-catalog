@@ -1,0 +1,34 @@
+# Eine deutsche Frau im Innern Deutsch-Ostafrikas Elf Jahre nach Tagebuchblättern erzählt
+
+**作者** Prince, Magdalene, 1870-1936 ｜ **国家/地区** 德国 ｜ **体例** 题  
+**规模** 132 题 · 402,425 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/0b6a1a44af5c/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（402,425 字）。 |
+| 分章依据 | 按「题」标记切分为 132 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 3,048 字。 |
+| 原文溯源 | `cache/epub/53773/pg53773.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. Anmerkungen zur Transkription
+2. Dritte, vermehrte Auflage
+3. Mit einem Titelbilde, 22 Abbildungen und 1 Skizze
+4. Ihrer Majestät der Kaiserin und Königin
+5. Auguste Viktoria
+6. Seite
+7. Einleitung 1
+8. Anhang 237
+9. Seite
+10. Hauptmann v. Prince und Frau Titelbild
+
+> 共 132 题，[完整目录与正文 →](https://www.bqgmz.top/b/0b6a1a44af5c/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
