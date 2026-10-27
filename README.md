@@ -1,5 +1,7 @@
 # 笔趣阁 · 公版古籍与 Gutenberg 书目（77,074 部）
 
+> **English** — A catalog dataset of 77,074 public-domain books (Chinese classics + Project Gutenberg), with chapter counts, word counts and source attribution. Full texts are readable at [www.bqgmz.top](https://www.bqgmz.top/) — one URL per chapter, plain HTML, zero JavaScript. Machine-readable index: [llms.txt](https://www.bqgmz.top/llms.txt) · [llms-full.txt](https://www.bqgmz.top/llms-full.txt).
+
 [在线阅读 →](https://www.bqgmz.top/) ｜ [llms.txt](https://www.bqgmz.top/llms.txt) ｜ 2,640,909 章 ｜ 99 语种 ｜ 4 个来源库
 
 本站是一个纯静态的公版阅读站：公版古籍、Project Gutenberg 与 chinese-poetry，按「书 → 章」两级组织，每章一个独立 URL，书籍页与章节页零 JavaScript。**本仓库只放书目与结构说明，不放正文**；正文请到站点上按章阅读。
