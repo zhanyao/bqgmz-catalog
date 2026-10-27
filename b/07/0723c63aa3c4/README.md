@@ -1,0 +1,34 @@
+# The Bible, Douay-Rheims, Book 07: Judges The Challoner Revision
+
+**国家/地区** 英美 ｜ **体例** 题  
+**规模** 26 题 · 94,466 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/0723c63aa3c4/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（94,466 字）。 |
+| 分章依据 | 按「题」标记切分为 26 题（Gutenberg 卷册标记）。 |
+| 篇幅分布 | 平均每题 3,633 字。 |
+| 原文溯源 | `cache/epub/8307/pg8307.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 题）
+
+1. THE HOLY BIBLE
+2. Translated from the Latin Vulgate
+3. With Annotations
+4. THE BOOK OF JUDGES
+5. Judges Chapter 1
+6. Judges Chapter 2
+7. 2:13. Forsaking him, and serving Baal and Astaroth
+8. Judges Chapter 3
+9. Judges Chapter 4
+10. Judges Chapter 5
+
+> 共 26 题，[完整目录与正文 →](https://www.bqgmz.top/b/0723c63aa3c4/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
