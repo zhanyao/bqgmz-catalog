@@ -1,4 +1,4 @@
-# 诗题节题 · 公版书目（25,537 部）
+# 诗题节题 · 公版书目（797 部）
 
 按字数降序，**只列前 200 部**；全量见 [catalog/books.csv](../../../catalog/books.csv)。
 
@@ -6,203 +6,203 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Webster's Unabridged Dictionary](../../../b/a4/a45aa11de017/) | Various | 题 | 29,567 | 23,081,956 |
-| 2 | [Novo dicionário da língua portuguesa](../../../b/66/662296f6fd94/) | Figueiredo, Cândido de, 1846-1925 | 题 | 127 | 10,644,196 |
-| 3 | [宋会要辑稿](../../../b/4f/4f0f2621366f/) | 徐松 | 题 | 713 | 7,705,475 |
-| 4 | [Heath's French and English dictionary](../../../b/7b/7bdefdf65ebf/) | Lolme, Jean Louis de, 1740-1806; Boïelle, James, 1841-1903 [Editor]; V. Payen-Payne, de (Vinchelés Payen-Payne), 1866-1945 [Editor] | 题 | 129 | 6,995,598 |
-| 5 | [The 2003 CIA World Factbook](../../../b/15/1535118f5277/) | United States. Central Intelligence Agency | 题 | 3,264 | 6,068,047 |
-| 6 | [The Diary of Samuel Pepys — Complete](../../../b/ed/ede602ee989a/) | Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator] | 题 | 173 | 5,305,960 |
-| 7 | [A Dictionary of Arts, Manufactures and Mines containing a clear exposition of their principles and practice](../../../b/f8/f83ae5bf78a9/) | Ure, Andrew, 1778-1857 | 题 | 421 | 5,248,670 |
-| 8 | [The Complete Project Gutenberg Writings of Charles Dudley Warner](../../../b/e5/e5f6416549bc/) | Warner, Charles Dudley, 1829-1900 | 题 | 509 | 4,695,378 |
-| 9 | [The Bible, Douay-Rheims, Complete](../../../b/6f/6f6918cc4080/) | — | 题 | 1,523 | 4,602,422 |
-| 10 | [A Dictionary of Cebuano Visayan](../../../b/8c/8cff4ca19b5e/) | Wolff, John U. | 题 | 121 | 4,435,561 |
-| 11 | [The Bible, Douay-Rheims, Complete The Challoner Revision](../../../b/9d/9dca62d26c31/) | — | 题 | 1,465 | 4,423,864 |
-| 12 | [History for ready reference, Volume 3, Greece to Nibelungen](../../../b/54/54d67af8799c/) | Larned, J. N. (Josephus Nelson), 1836-1913 | 题 | 676 | 4,375,607 |
-| 13 | [The Circle of Knowledge: A Classified, Simplified, Visualized Book of Answers](../../../b/44/44e3d5ebb24a/) | Ruoff, Henry W. (Henry Woldmar), 1865-1935 [Editor] | 题 | 1,638 | 4,107,595 |
-| 14 | [The works of the highly experienced and famous chymist, John Rudolph Glauber](../../../b/2f/2fb60307d23c/) | Glauber, Johann Rudolf, 1604-1670; Packe, Christopher, active 1670-1711 [Translator] | 题 | 235 | 4,097,676 |
-| 15 | [Cooley's Cyclopædia of Practical Receipts and Collateral Information in the Arts, Manufactures, Professions, and Trades..., Sixth Edition, Volume I](../../../b/1d/1d0fcd552746/) | Cooley, Arnold James, 1816-1881; Tuson, Richard Vine, 1832-1888 | 题 | 428 | 4,003,491 |
-| 16 | [The Nuttall encyclopædia](../../../b/56/56695c95851d/) | Nuttall, P. Austin, 1793?-1869; Wood, James, Rev., 1820-1901 [Editor] | 题 | 83 | 3,977,979 |
-| 17 | [Abridgment of the Debates of Congress, from 1789 to 1856, Vol. 1 (of 16)](../../../b/3f/3f7de9a499c4/) | United States. Congress; Benton, Thomas Hart, 1782-1858 [Editor] | 题 | 242 | 3,841,750 |
-| 18 | [Church History (Volumes 1-3)](../../../b/23/234761053a56/) | Kurtz, J. H. (Johann Heinrich), 1809-1890; Macpherson, John, 1847-1902 [Translator] | 题 | 180 | 3,719,450 |
-| 19 | [Abridgment of the Debates of Congress, from 1789 to 1856, Vol. 4 (of 16)](../../../b/7d/7de077dd6049/) | United States. Congress; Benton, Thomas Hart, 1782-1858 [Editor] | 题 | 377 | 3,703,213 |
-| 20 | [Abridgment of the Debates of Congress, from 1789 to 1856, Vol. 2 (of 16)](../../../b/7b/7b101dfc107b/) | United States. Congress; Benton, Thomas Hart, 1782-1858 [Editor] | 题 | 272 | 3,679,253 |
-| 21 | [Lexicon Latinum](../../../b/35/359b09e21cf7/) | Wagner, Franz, 1675-1738; Borgnet, Auguste, 1848- [Editor] | 题 | 58 | 3,617,705 |
-| 22 | [Abridgment of the Debates of Congress, from 1789 to 1856, Vol. 3 (of 16)](../../../b/b4/b4231e57b232/) | United States. Congress; Benton, Thomas Hart, 1782-1858 [Editor] | 题 | 232 | 3,614,122 |
-| 23 | [Bibeln, Gamla och Nya Testamentet](../../../b/b6/b6cbcef764d5/) | — | 题 | 92 | 3,549,351 |
-| 24 | [The King James Version of the Bible](../../../b/a5/a5f8712bf819/) | — | 题 | 90 | 3,486,206 |
-| 25 | [Plutarch: Lives of the noble Grecians and Romans](../../../b/f8/f82e40075f2b/) | Plutarch, 46-120?; Clough, Arthur Hugh, 1819-1861 [Editor] | 题 | 87 | 3,477,607 |
-| 26 | [Modern English biography, volume 1 (of 6), A-H](../../../b/77/77b1040fa85e/) | Boase, Frederic, 1843-1916 | 题 | 46 | 3,427,978 |
-| 27 | [Summa Theologica, Part II-II (Secunda Secundae) Translated by Fathers of the English Dominican Province](../../../b/e5/e576ca4b377a/) | Thomas, Aquinas, Saint, 1225?-1274 | 题 | 1,128 | 3,374,866 |
-| 28 | [A Cyclopaedia of Canadian Biography: Being Chiefly Men of the Time A Collection of Persons Distinguished in Professional and Political Life, Leaders in the Commerce and Industry of Canada, and Successful Pioneers](../../../b/67/6746ac0ed34a/) | Rose, Geo. Maclean (George Maclean), 1829-1898 [Editor] | 题 | 64 | 3,238,485 |
-| 29 | [A Biography of Henry Clay, the Senator from Kentucky Containing Also, a Complete Report of All His Speeches; Selections From His Private Correspondence; Eulogies in the Senate and House; and a Poem, by George D. Prentice, Esq.](../../../b/03/03b0bd21889b/) | Mallory, Daniel, -1854? [Compiler] | 题 | 250 | 3,222,911 |
-| 30 | [Handbuch der chemischen Technologie Achte Auflage](../../../b/51/51fd40b96df9/) | Wagner, Johannes Rudolf, 1822-1880 | 题 | 167 | 3,103,895 |
-| 31 | [Dictionary of Quotations from Ancient and Modern, English and Foreign Sources Including Phrases, Mottoes, Maxims, Proverbs, Definitions, Aphorisms, and Sayings of Wise Men, in Their Bearing on Life, Literature, Speculation, Science, Art, Religion, and Morals, Especially in the Modern Aspects of Them](../../../b/6b/6b7585cd6312/) | Wood, James, Rev., 1820-1901 | 题 | 60 | 3,078,557 |
-| 32 | [Second Shetland Truck System Report](../../../b/35/35a6178570fe/) | Guthrie, William, 1835-1908 | 题 | 467 | 3,009,777 |
-| 33 | [The Every-day Book and Table Book. v. 3 (of 3) Everlasting Calerdar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac](../../../b/61/61cfcfd381df/) | Hone, William, 1780-1842 | 题 | 1,847 | 3,003,463 |
-| 34 | [Punicorum Libri Septemdecim（#27672）](../../../b/83/8388aaea8b81/) | Silius Italicus, Tiberius Catius; Lemaire, N. E. (Nicolas Eloi), 1767-1832 [Editor]; Ruperti, Georg Alexander, 1758-1839 [Editor] | 题 | 438 | 2,963,279 |
-| 35 | [The Journals of Lewis and Clark, 1804-1806](../../../b/81/81c50d18063d/) | Lewis, Meriwether, 1774-1809; Clark, William, 1770-1838 | 题 | 120 | 2,875,923 |
-| 36 | [Holinshed's Chronicles, vol. 1 of 6, complete: England, geography and early history to 1066](../../../b/6b/6b1c61001ea5/) | Holinshed, Raphael, -1580?; Harrison, William, 1534-1593; Hooker, John, 1526?-1601 [Editor] | 题 | 413 | 2,805,927 |
-| 37 | [Cyclopedia of illustrations for public speakers](../../../b/79/794d50155515/) | Scott, Robert, 1860-1946 [Editor]; Stiles, William Curtis, 1851-1911 [Editor] | 题 | 3,174 | 2,777,220 |
-| 38 | [The book review digest, volume 05, 1909](../../../b/90/907fac9b35bd/) | Various; Wilson, Justina Leavitt, -1955 [Annotator]; Fanning, C. E. (Clara Elizabeth), 1878-1938 [Editor] | 题 | 99 | 2,775,101 |
-| 39 | [The Every-day Book and Table Book, v. 1 (of 3) or Everlasting Calendar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac](../../../b/e0/e038c1198cca/) | Hone, William, 1780-1842 | 题 | 982 | 2,725,542 |
-| 40 | [Orígenes de la novela, Tomo II](../../../b/39/399690cf4cdb/) | Menéndez y Pelayo, Marcelino, 1856-1912 | 题 | 605 | 2,689,948 |
-| 41 | [The American Encyclopedia of History, Biography and Travel Comprising Ancient and Modern History: the Biography of Eminent Men of Europe and America, and the Lives of Distinguished Travelers.](../../../b/75/756c992f90c8/) | Prescott, Thomas H., 1810-1865 | 题 | 251 | 2,676,934 |
-| 42 | [The Gutenberg Webster's Unabridged Dictionary: Section S](../../../b/80/808dca6afd96/) | Project Gutenberg; Webster, Noah, 1758-1843 | 题 | 3,215 | 2,589,852 |
-| 43 | [The Gutenberg Webster's Unabridged Dictionary: Section T, U, V, and W](../../../b/51/51ea8594368d/) | Project Gutenberg; Webster, Noah, 1758-1843 | 题 | 3,573 | 2,546,597 |
-| 44 | [Orígenes de la novela, Tomo III](../../../b/48/48ee5bc3164c/) | Menéndez y Pelayo, Marcelino, 1856-1912 | 题 | 502 | 2,543,688 |
-| 45 | [The Gutenberg Webster's Unabridged Dictionary: Section A and B](../../../b/a3/a30dd624ada6/) | Project Gutenberg; Webster, Noah, 1758-1843 | 题 | 3,328 | 2,514,610 |
-| 46 | [The Great Speeches and Orations of Daniel Webster With an Essay on Daniel Webster as a Master of English Style](../../../b/fd/fd256e96d25b/) | Webster, Daniel, 1782-1852; Whipple, Edwin Percy, 1819-1886 | 题 | 210 | 2,452,004 |
-| 47 | [Report of the Committee Appointed to Investigate the Railroad Riots in July, 1877 Read in the Senate and House of Representatives May 23, 1878](../../../b/3c/3c0435071f37/) | Pennsylvania. General Assembly. Committee Appointed to Investigate the Railroad Riots in July, 1877 | 题 | 186 | 2,439,713 |
-| 48 | [Mémoires de Constant, premier valet de chambre de l'empereur, sur la vie privée de Napoléon, sa famille et sa cour.](../../../b/9b/9b925211ed91/) | Wairy, Louis Constant, 1778-1845 | 题 | 456 | 2,434,420 |
-| 49 | [London Labour and the London Poor, Vol. 2](../../../b/12/1223b99585c1/) | Mayhew, Henry, 1812-1887 | 题 | 558 | 2,410,878 |
-| 50 | [Chambers's Twentieth Century Dictionary (part 4 of 4: S-Z and supplements)](../../../b/be/be9476240596/) | Davidson, Thomas, 1856-1923 [Editor] | 题 | 382 | 2,404,269 |
-| 51 | [Essais de Montaigne (self-édition) - Volume IV](../../../b/1e/1e26ed628f87/) | Montaigne, Michel de, 1533-1592; Michaud [Translator] | 题 | 504 | 2,392,555 |
-| 52 | [The Gutenberg Webster's Unabridged Dictionary: Section F, G and H](../../../b/71/711271f2f415/) | Project Gutenberg; Webster, Noah, 1758-1843 | 题 | 2,879 | 2,389,352 |
-| 53 | [Mark Twain: A Biography. Complete](../../../b/14/14ebd34b0d0d/) | Paine, Albert Bigelow, 1861-1937 | 题 | 489 | 2,353,120 |
-| 54 | [The Catholic World, Vol. 20, October 1874‐March 1875](../../../b/45/4534312d4517/) | Various | 题 | 221 | 2,339,932 |
-| 55 | [Summa Theologica, Part I (Prima Pars) From the Complete American Edition](../../../b/d7/d7d6adf67e73/) | Thomas, Aquinas, Saint, 1225?-1274 | 题 | 722 | 2,328,850 |
-| 56 | [Summa Theologica, Part I-II (Pars Prima Secundae) From the Complete American Edition](../../../b/38/384693efbb47/) | Thomas, Aquinas, Saint, 1225?-1274 | 题 | 746 | 2,317,041 |
-| 57 | [The History of the Rise, Increase, and Progress of the Christian People Called Quakers Intermixed with Several Remarkable Occurrencs.](../../../b/22/22686f97263f/) | Sewel, William, 1653-1720 | 题 | 147 | 2,297,215 |
-| 58 | [Neues Spanisch-Deutsches Wörterbuch Auf Grund des Wörterbuches der Königlich spanischen Akademie](../../../b/f7/f70838b82794/) | Stromer, Theodor, 1844- | 题 | 72 | 2,293,653 |
-| 59 | [Oeuvres de Champlain](../../../b/e4/e422f21fded3/) | Champlain, Samuel de, 1574-1635; Laverdière, C.-H. (Charles-Honoré), 1826-1873 [Editor] | 题 | 415 | 2,293,190 |
-| 60 | [Det Gamle Testamente af 1931](../../../b/26/264fa1ab060d/) | — | 题 | 1,015 | 2,251,444 |
-| 61 | [The Lives of the Fathers, Martyrs, and Other Principal Saints. January, February, March](../../../b/c1/c11b58ac17d9/) | Butler, Alban, 1711-1773 | 题 | 739 | 2,241,742 |
-| 62 | [Il Conte di Monte-Cristo](../../../b/67/67d723e167eb/) | Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888 | 题 | 140 | 2,217,332 |
-| 63 | [Summa Theologica, Part III (Tertia Pars) From the Complete American Edition](../../../b/26/260d7c5c9b8f/) | Thomas, Aquinas, Saint, 1225?-1274 | 题 | 654 | 2,199,678 |
-| 64 | [Mother's Remedies Over One Thousand Tried and Tested Remedies from Mothers of the United States and Canada](../../../b/be/be4dc003bf67/) | Ritter, Thomas Jefferson, 1855- | 题 | 692 | 2,185,467 |
-| 65 | [The Gutenberg Webster's Unabridged Dictionary: Section D and E](../../../b/81/814a8dd52b96/) | Project Gutenberg; Webster, Noah, 1758-1843 | 题 | 2,785 | 2,182,870 |
-| 66 | [Pharmacographia A history of the principal drugs of vegetable origin, met with in Great Britain and British India](../../../b/df/df30a482d61a/) | Flückiger, Friedrich A. (Friedrich August), 1828-1894; Hanbury, Daniel, 1825-1875 | 题 | 340 | 2,160,795 |
-| 67 | [The Arabian Nights' Entertainments](../../../b/91/910675cd528f/) | Anonymous | 题 | 180 | 2,145,746 |
-| 68 | [Lehrbuch der Protozoenkunde](../../../b/af/af8b662b5e60/) | Doflein, Franz, 1873-1924 | 题 | 738 | 2,143,622 |
-| 69 | [The Gutenberg Webster's Unabridged Dictionary: Section C](../../../b/20/20a35da502bf/) | Project Gutenberg; Webster, Noah, 1758-1843 | 题 | 2,681 | 2,130,638 |
-| 70 | [Monte-Criston kreivi](../../../b/89/8924ab28c508/) | Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888; Finne, Jalmari, 1874-1938 [Translator] | 题 | 129 | 2,129,018 |
-| 71 | [Trials of war criminals before the Nuernberg military tribunals under control council law no. 10, volume I](../../../b/90/90f437c964c3/) | Various | 题 | 486 | 2,110,090 |
-| 72 | [The Every Day Book of History and Chronology Embracing the Anniversaries of Memorable Persons and Events in Every Period and State of the World, from the Creation to the Present Time](../../../b/3e/3e98d6f25841/) | Munsell, Joel, 1808-1880 | 题 | 466 | 2,107,854 |
-| 73 | [Entstehung und Ausbreitung der Alchemie, mit einem Anhange](../../../b/ab/abecaeb29699/) | Lippmann, Edmund O. von (Edmund Oskar), 1857-1940 | 题 | 127 | 2,102,381 |
-| 74 | [The Preacher's Complete Homiletic Commentary on the Books of the Bible, Volume 15 (of 32) The Preacher's Complete Homiletic Commentary on the Book of the Prophet Isaiah, Volume I](../../../b/7d/7de115ed65d6/) | Bertram, Robert Aitkin, 1836-1886; Tucker, Alfred, 1849-1914 | 题 | 808 | 2,090,254 |
-| 75 | [The 1993 CIA World Factbook](../../../b/d2/d2e91d618461/) | United States. Central Intelligence Agency | 题 | 182 | 2,089,064 |
-| 76 | [Chambers's Twentieth Century Dictionary (part 2 of 4: E-M)](../../../b/de/de1a36979401/) | Davidson, Thomas, 1856-1923 [Editor] | 题 | 296 | 2,081,357 |
-| 77 | [Annali d'Italia, vol. 5 dal principio dell'era volgare sino all'anno 1750](../../../b/85/8515e43faef3/) | Muratori, Lodovico Antonio, 1672-1750 | 题 | 216 | 2,079,574 |
-| 78 | [The Field Book: or, Sports and pastimes of the United Kingdom compiled from the best authorities, ancient and modern](../../../b/0b/0bc383ba73ee/) | Maxwell, W. H. (William Hamilton), 1792-1850 | 题 | 261 | 2,069,476 |
-| 79 | [Annali d'Italia, vol. 4 dal principio dell'era volgare sino all'anno 1750](../../../b/28/28718c8a5bd2/) | Muratori, Lodovico Antonio, 1672-1750 | 题 | 277 | 2,061,568 |
-| 80 | [Sämtliche Werke 9-10](../../../b/52/52edf666be58/) | Dostoyevsky, Fyodor, 1821-1881; Merezhkovsky, Dmitry Sergeyevich, 1865-1941 [Contributor]; Moeller van den Bruck, Arthur, 1876-1925 [Editor]; Rahsin, E. K., 1886-1966 [Translator] | 题 | 40 | 2,038,858 |
-| 81 | [Annali d'Italia, vol. 3 dal principio dell'era volgare sino all'anno 1750](../../../b/0b/0b5558087a7c/) | Muratori, Lodovico Antonio, 1672-1750 | 题 | 339 | 2,038,752 |
-| 82 | [Annali d'Italia, vol. 6 dal principio dell'era volgare sino all'anno 1750](../../../b/c3/c315bf6be30d/) | Muratori, Lodovico Antonio, 1672-1750 | 题 | 102 | 2,036,915 |
-| 83 | [Annali d'Italia, vol. 2 dal principio dell'era volgare sino all'anno 1750](../../../b/e2/e2c58d345acf/) | Muratori, Lodovico Antonio, 1672-1750 | 题 | 332 | 2,015,324 |
-| 84 | [London Labour and the London Poor, Vol. 3](../../../b/42/426ae3742886/) | Mayhew, Henry, 1812-1887 | 题 | 337 | 1,996,767 |
-| 85 | [The Gutenberg Webster's Unabridged Dictionary: Section I, J, K, and L](../../../b/02/025a52315a5b/) | Project Gutenberg; Webster, Noah, 1758-1843 | 题 | 2,341 | 1,992,756 |
-| 86 | [A text-book of veterinary anatomy](../../../b/48/48017d713f17/) | Sisson, Septimus, 1865-1924 | 题 | 1,619 | 1,987,413 |
-| 87 | [Annali d'Italia, vol. 7 dal principio dell'era volgare sino all'anno 1750](../../../b/41/41e9297592f5/) | Muratori, Lodovico Antonio, 1672-1750 | 题 | 63 | 1,979,465 |
-| 88 | [Annali d'Italia, vol. 1 dal principio dell'era volgare sino all'anno 1750](../../../b/95/95dbb5f3a86d/) | Muratori, Lodovico Antonio, 1672-1750; Galleani Napione, Gian Francesco, 1748-1830 [Commentator] | 题 | 356 | 1,960,356 |
-| 89 | [The Gutenberg Webster's Unabridged Dictionary: Section P and Q](../../../b/15/154a5bf7a103/) | Project Gutenberg; Webster, Noah, 1758-1843 | 题 | 2,103 | 1,959,062 |
-| 90 | [The Preacher's Complete Homiletic Commentary of the Books of the Bible: Volume 29 (of 32) The Preacher's Complete Homiletic Commentary of the Epistles of St. Paul the Apostle: Galatians, Ephesians, Philippians, Colossians, and I-II Thessalonians](../../../b/ca/ca2867d7a07a/) | Barlow, George | 题 | 385 | 1,951,114 |
-| 91 | [The New-York Weekly Magazine, or Miscellaneous Repository Forming an Interesting Collection of Original and Select Literary Productions in Prose and Verse](../../../b/32/32a992dba9bb/) | Bull, John [Editor]; Burling, Thomas, -1818 [Editor] | 题 | 844 | 1,931,267 |
-| 92 | [Maantiede ja löytöretket 4](../../../b/26/2616b15c0e06/) | Inha, Into Konrad, 1865-1930 | 题 | 48 | 1,927,275 |
-| 93 | [Chambers's Twentieth Century Dictionary (part 1 of 4: A-D)](../../../b/f1/f11ffc498089/) | Davidson, Thomas, 1856-1923 [Editor] | 题 | 336 | 1,900,781 |
-| 94 | [The Gutenberg Webster's Unabridged Dictionary: Section M, N, and O](../../../b/70/70d1d530d692/) | Project Gutenberg; Webster, Noah, 1758-1843 | 题 | 2,147 | 1,899,081 |
-| 95 | [1812: Historische roman](../../../b/d0/d01a28996893/) | Rellstab, Ludwig, 1799-1860 | 题 | 154 | 1,893,166 |
-| 96 | [Geschiedenis van Arthur Pendennis](../../../b/7c/7c062aaea52e/) | Thackeray, William Makepeace, 1811-1863; Lindo, M. P. (Mark Prager), 1819-1877 [Translator] | 题 | 155 | 1,884,037 |
-| 97 | [Pelle the Conqueror — Complete](../../../b/c4/c41607884cfc/) | Andersen Nexø, Martin, 1869-1954; Miall, Bernard, 1876-1953 [Translator]; Muir, Jessie [Translator] | 题 | 110 | 1,882,904 |
-| 98 | [The Underground Railroad A Record of Facts, Authentic Narratives, Letters, &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed by the Author.](../../../b/3f/3f4ea2f99668/) | Still, William, 1821-1902 | 题 | 1,043 | 1,874,498 |
-| 99 | [The Bible, Douay-Rheims, Old Testament — Part 1](../../../b/47/479661e63019/) | — | 题 | 551 | 1,863,752 |
-| 100 | [Warren Commission (05 of 26): Hearings Vol. V (of 15)](../../../b/e2/e292a401c00b/) | United States. Warren Commission | 题 | 470 | 1,861,707 |
-| 101 | [Allgemeine Physiologie](../../../b/22/22fff276949f/) | Verworn, Max, 1863-1921 | 题 | 283 | 1,845,496 |
-| 102 | [Fortunata y Jacinta: dos historias de casadas](../../../b/05/051b0929e7e0/) | Pérez Galdós, Benito, 1843-1920 | 题 | 49 | 1,841,164 |
-| 103 | [Het leven en de lotgevallen van David Copperfield](../../../b/59/59d906e0e9c9/) | Dickens, Charles, 1812-1870; Dutric, 1848-1925 [Translator] | 题 | 79 | 1,825,365 |
-| 104 | [The 1991 CIA World Factbook](../../../b/2b/2b7c19bc80ad/) | United States. Central Intelligence Agency | 题 | 247 | 1,798,368 |
-| 105 | [The Bible, Douay-Rheims, Old Testament — Part 2](../../../b/da/dafb93d7f46e/) | — | 题 | 661 | 1,794,310 |
-| 106 | [Warren Commission (14 of 26): Hearings Vol. XIV (of 15)](../../../b/65/650ba6fc9981/) | United States. Warren Commission | 题 | 309 | 1,782,920 |
-| 107 | [Mathilde: mémoires d'une jeune femme](../../../b/e8/e81de9b85bc9/) | Sue, Eugène, 1804-1857 | 题 | 355 | 1,777,456 |
-| 108 | [Bragelonnen varakreivi eli Muskettisoturien viimeiset urotyöt II (2) Historiallinen romaani Ludvig XIV:n hovista](../../../b/0b/0ba1c80bf273/) | Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888; Hämeen-Anttila, Väinö, 1878-1942 [Translator] | 题 | 34 | 1,764,588 |
-| 109 | [Tom Jones](../../../b/0a/0a95ae593aa4/) | Fielding, Henry, 1707-1754; Lindo, M. P. (Mark Prager), 1819-1877 [Translator] | 题 | 340 | 1,754,454 |
-| 110 | [Los monfíes de las Alpujarras: novela original](../../../b/69/6901f57b4290/) | Fernández y González, Manuel, 1821-1888 | 题 | 168 | 1,750,858 |
-| 111 | [A Smaller Dictionary of Greek and Roman Antiquities](../../../b/cb/cbe295cdcc2c/) | Smith, William, 1813-1893 | 题 | 846 | 1,746,981 |
-| 112 | [Die Gewerkschaftsbewegung Darstellung der gewerkschaftlichen Organisation der Arbeiter und der Arbeitgeber aller Länder.](../../../b/db/dbceba266457/) | Kulemann, Wilhelm, 1851-1926 | 题 | 323 | 1,743,866 |
-| 113 | [Nouvelle géographie universelle (1/19) I L'Europe meridionale (Grèce, Turquie, Roumanie, Serbie, Italie, Espagne et Portugal)](../../../b/5f/5f57a9292099/) | Reclus, Elisée, 1830-1905 | 题 | 153 | 1,733,865 |
-| 114 | [Seekriege und Seekriegswesen, Erster Band in ihrer weltgeschichtlichen Entwicklung. Mit besonderer Berücksichtigung der grossen Seekriege des XVII. and XVIII. Jahrhunderts.](../../../b/5f/5fe1997a5cf6/) | Rittmeyer, Rudolph | 题 | 58 | 1,722,851 |
-| 115 | [The wonders of the world](../../../b/6d/6de252c1b67d/) | Abbott, John Loraine | 题 | 450 | 1,721,589 |
-| 116 | [Don Quijote](../../../b/fa/fabc9d1e37c1/) | Cervantes Saavedra, Miguel de, 1547-1616 | 题 | 114 | 1,718,350 |
-| 117 | [Dombey en Zoon](../../../b/9c/9cb1e03d1be5/) | Dickens, Charles, 1812-1870; Barnard, Frederick, 1846-1896 [Illustrator]; Mensing, C. M. [Translator] | 题 | 125 | 1,713,583 |
-| 118 | [Bragelonnen varakreivi eli Muskettisoturien viimeiset urotyöt I Historiallinen romaani Ludvig XIV:n hovista](../../../b/99/99c5fcc36ba4/) | Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888; Hämeen-Anttila, Väinö, 1878-1942 [Translator] | 题 | 27 | 1,705,195 |
-| 119 | [The Complete Poems of Sir Thomas Moore Collected by Himself with Explanatory Notes](../../../b/23/231c135b31bd/) | Moore, Thomas, 1779-1852; Rossetti, William Michael, 1829-1919 [Commentator] | 题 | 1,302 | 1,703,226 |
-| 120 | [Encyclopaedia Britannica, 11th Edition, "Bulgaria" to "Calgary" Volume 4, Part 4](../../../b/88/8853f257b6b3/) | Various | 题 | 71 | 1,702,001 |
-| 121 | [The practice of osteopathy](../../../b/37/374a74a52f12/) | McConnell, Carl Philip, 1874-1939; Teall, Charles Clayton, 1863-1937 | 题 | 511 | 1,701,996 |
-| 122 | [The Anti-Slavery Examiner, Part 3 of 4](../../../b/55/554b9e93bcd1/) | American Anti-Slavery Society | 题 | 294 | 1,699,851 |
-| 123 | [Anna Karenina（#49487）](../../../b/2f/2f28488297f2/) | Tolstoy, Leo, graf, 1828-1910; Kalima, Eino, 1882-1972 [Translator] | 题 | 228 | 1,685,965 |
-| 124 | [Apologia della vita politica di F.-D. Guerrazzi](../../../b/14/1439e97dbb5f/) | Guerrazzi, Francesco Domenico, 1804-1873 | 题 | 82 | 1,682,859 |
-| 125 | [[Pausaniou Ellados periegesis] = Pausaniae Descriptio Græciæ](../../../b/33/336c78257c2a/) | Pausanias, active approximately 150-175; Dindorf, Ludwig August, 1805-1871 [Editor] | 题 | 497 | 1,677,098 |
-| 126 | [The collected stories of Elisabeth Sanxay Holding from Munsey's Magazine, 1920-1928](../../../b/07/07e96d4b09f4/) | Holding, Elisabeth Sanxay, 1889-1955 | 题 | 357 | 1,675,056 |
-| 127 | [The Mediterranean](../../../b/ac/ace7f89db6ee/) | Karl Baedeker (Firm) | 题 | 163 | 1,667,728 |
-| 128 | [L'ingénieux chevalier Don Quichotte de la Manche](../../../b/f1/f1205a80a72a/) | Cervantes Saavedra, Miguel de, 1547-1616; Roux, George, 1853-1929 [Illustrator]; Furne, Charles, 1794-1859 [Translator] | 题 | 301 | 1,662,511 |
-| 129 | [A Popular Handbook to the National Gallery, Volume I, Foreign Schools Including by Special Permission Notes Collected from the Works of John Ruskin](../../../b/1c/1c0b6632a1fe/) | Cook, Edward Tyas, Sir, 1857-1919 [Compiler]; National Gallery (Great Britain) [Contributor]; Ruskin, John, 1819-1900 [Contributor] | 题 | 1,401 | 1,659,426 |
-| 130 | [Elemente der Paläontologie](../../../b/2a/2a1ab79bc852/) | Steinmann, G. (Gustav), 1856-1929 [Editor]; Döderlein, Ludwig, 1855-1936 [Editor] | 题 | 606 | 1,658,975 |
-| 131 | [Le Morte Darthur Sir Thomas Malory's Book of King Arthur and his Noble Knights of the Round Table](../../../b/a3/a30ff68db9b3/) | Malory, Thomas, Sir, -1471; Caxton, William, 1422?-1492? [Editor]; Strachey, Edward, Sir, 1812-1901 [Editor] | 题 | 567 | 1,654,582 |
-| 132 | [Diccionario Español-Bisaya](../../../b/be/be42fd0df738/) | Félix de la Encarnación, Juan, 1806-1879 | 题 | 230 | 1,650,407 |
-| 133 | [Warren Commission (07 of 26): Hearings Vol. VII (of 15)](../../../b/0c/0cd5a91ed60f/) | United States. Warren Commission | 题 | 374 | 1,647,785 |
-| 134 | [Las siete partidas del rey don Alfonso el Sabio (2 de 3)](../../../b/80/80d043667790/) | Real Academia de la Historia (Spain) | 题 | 1,261 | 1,636,515 |
-| 135 | [A Manual of Philippine Birds](../../../b/38/389910a79474/) | McGregor, Richard C. (Richard Crittenden), 1871-1936 | 题 | 1,543 | 1,624,346 |
-| 136 | [The Sailor's Word-Book An Alphabetical Digest of Nautical Terms, including Some More Especially Military and Scientific, but Useful to Seamen; as well as Archaisms of Early Voyagers, etc.](../../../b/01/01c4820fee9d/) | Smyth, W. H. (William Henry), 1788-1865; Belcher, Edward, Sir, 1799-1877 [Editor] | 题 | 214 | 1,623,559 |
-| 137 | [Fairy Tales of Hans Christian Andersen](../../../b/d4/d406ae4f6f86/) | Andersen, H. C. (Hans Christian), 1805-1875 | 题 | 223 | 1,617,630 |
-| 138 | [Histoire de la République de Gênes](../../../b/fb/fb9b7c3b772e/) | Vincens, Emile, 1764-1850 | 题 | 32 | 1,617,151 |
-| 139 | [Der Occultismus des Altertums](../../../b/27/273134af1b0c/) | Kiesewetter, Karl, 1854-1895; Kuhlenbeck, Ludwig, 1857-1920 [Contributor] | 题 | 155 | 1,600,729 |
-| 140 | [Orígenes de la novela,  Tomo I](../../../b/51/51febc0ab583/) | Menéndez y Pelayo, Marcelino, 1856-1912 | 题 | 55 | 1,598,063 |
-| 141 | [Vanha kauppiaskoti](../../../b/19/199ae0c6dd17/) | Freytag, Gustav, 1816-1895; Joutsen, O. A. (Otto Aleksanteri), 1878-1936 [Translator] | 题 | 28 | 1,594,249 |
-| 142 | [The Esperantist, Complete](../../../b/7e/7e57fb5a9de3/) | Mudie, H. Bolingbroke (Harold Bolingbroke), 1880-1916 [Editor] | 题 | 1,137 | 1,592,840 |
-| 143 | [Essais de Montaigne (self-édition) - Volume III](../../../b/d3/d3d313a51737/) | Montaigne, Michel de, 1533-1592; Michaud [Translator] | 题 | 80 | 1,592,012 |
-| 144 | [A History of North American Birds; Land Birds; Vol. 1 of 3](../../../b/b5/b5770f423778/) | Baird, Spencer Fullerton, 1823-1887; Brewer, T. M. (Thomas Mayo), 1814-1880; Ridgway, Robert, 1850-1929 | 题 | 438 | 1,590,102 |
-| 145 | [De psychologie der sexen: De sexen in hare verhouding tot de maatschappij](../../../b/24/245a9fc25a84/) | Ellis, Havelock, 1859-1939; Renterghem, A. W. van (Albert Willem), 1845-1939 [Translator] | 题 | 71 | 1,589,736 |
-| 146 | [The Story of My Life, volumes 1-3](../../../b/e2/e2e46351ac21/) | Hare, Augustus J. C. (Augustus John Cuthbert), 1834-1903 | 题 | 160 | 1,588,648 |
-| 147 | [The Diary of Samuel Pepys](../../../b/9e/9e1c799fde15/) | Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor] | 题 | 32 | 1,584,827 |
-| 148 | [Encyclopaedia Britannica, 11th Edition, "Bréquigny, Louis Georges Oudard Feudrix de" to "Bulgaria" Volume 4, Part 3](../../../b/9e/9e9588453806/) | Various | 题 | 65 | 1,565,459 |
-| 149 | [Essais de Montaigne (self-édition) - Volume II](../../../b/77/77c5dddda116/) | Montaigne, Michel de, 1533-1592; Michaud [Translator] | 题 | 107 | 1,550,831 |
-| 150 | [Martin Chuzzlewit](../../../b/0c/0c9b258d7a06/) | Dickens, Charles, 1812-1870 | 题 | 72 | 1,535,972 |
-| 151 | [Primitive Love and Love-Stories](../../../b/09/09619b6d0952/) | Finck, Henry T., 1854-1926 | 题 | 548 | 1,527,630 |
-| 152 | [Austral English](../../../b/3b/3b9f2ceccbb4/) | Morris, Edward Ellis, 1843-1901 | 题 | 134 | 1,523,894 |
-| 153 | [The Journal of Sir Walter Scott From the Original Manuscript at Abbotsford](../../../b/70/70fbcb59741a/) | Scott, Walter, 1771-1832; Douglas, David, 1823-1916 [Editor] | 题 | 185 | 1,523,247 |
-| 154 | [Catalan's Constant to 1,500,000 Places](../../../b/ad/ade2f0c4d720/) | — | 题 | 20 | 1,520,149 |
-| 155 | [Mémoires sur la vie publique et privée de Fouquet, surintendant des finance et sur son frère l'abbé Fouquet](../../../b/2f/2f66fb7004e3/) | Chéruel, Aldophe, 1809-1891 [Editor] | 题 | 211 | 1,518,915 |
-| 156 | [Letters of Samuel Rutherford (Third Edition)](../../../b/14/149da0805428/) | Rutherford, Samuel, 1600?-1661; Bonar, Andrew A. (Andrew Alexander), 1810-1892 [Editor] | 题 | 736 | 1,518,128 |
-| 157 | [Lives of the apostles of Jesus Christ](../../../b/9d/9d84074c1bc1/) | Bacon, David Francis, 1813-1865 | 题 | 177 | 1,515,381 |
-| 158 | [Essais de Montaigne (self-édition) - Volume I](../../../b/6d/6d5d1bf895ce/) | Montaigne, Michel de, 1533-1592; Michaud [Translator] | 题 | 295 | 1,510,929 |
-| 159 | [The Civilization of Illiteracy](../../../b/0a/0a7caae36282/) | Nadin, Mihai, 1938- | 题 | 217 | 1,500,838 |
-| 160 | [De Aarde en haar Volken, Jaargang 1906](../../../b/35/3589a2e49165/) | Various | 题 | 49 | 1,499,561 |
-| 161 | [Sämtliche Werke 5-6](../../../b/e8/e8d73e4f93b1/) | Dostoyevsky, Fyodor, 1821-1881; Merezhkovsky, Dmitry Sergeyevich, 1865-1941 [Contributor]; Moeller van den Bruck, Arthur, 1876-1925 [Editor]; Rahsin, E. K., 1886-1966 [Translator] | 题 | 134 | 1,497,281 |
-| 162 | [Tour in England, Ireland, and France, in the years 1826, 1827, 1828 and 1829. with remarks on the manners and customs of the inhabitants, and anecdotes of distiguished public characters. In a series of letters by a German Prince.](../../../b/9c/9cffb71bc03d/) | Pückler-Muskau, Hermann, Fürst von, 1785-1871 | 题 | 212 | 1,495,423 |
-| 163 | [Pharmacologia Fourth American, from the Seventh London Edition](../../../b/19/19213d016e24/) | Paris, John Ayrton, 1785-1856; Beck, John B. (John Brodhead), 1794-1851 [Annotator] | 题 | 782 | 1,494,541 |
-| 164 | [A History of North American Birds; Land Birds; Vol. 3 of 3](../../../b/fa/fa9dd1bf35f3/) | Baird, Spencer Fullerton, 1823-1887; Brewer, T. M. (Thomas Mayo), 1814-1880; Ridgway, Robert, 1850-1929 | 题 | 607 | 1,494,014 |
-| 165 | [The sexual life of woman in its physiological, pathological and hygienic aspects](../../../b/3f/3f9a7c68cb6c/) | Kisch, E. Heinrich (Enoch Heinrich), 1841-1918; Paul, Eden, 1865-1944 [Translator] | 题 | 100 | 1,485,329 |
-| 166 | [Geschiedenis van Suriname](../../../b/1f/1f8e2f45f10d/) | Wolbers, J., 1819-1889 | 题 | 86 | 1,483,835 |
-| 167 | [The Spectator, Volume 1 Eighteenth-Century Periodical Essays](../../../b/29/290a125cedbd/) | Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729; Morley, Henry, 1822-1894 [Editor] | 题 | 351 | 1,481,089 |
-| 168 | [La Comédie humaine - Volume 12. Scènes de la vie parisienne et scènes de la vie politique](../../../b/38/38b778e81e13/) | Balzac, Honoré de, 1799-1850 | 题 | 104 | 1,477,076 |
-| 169 | [A Latin Grammar for Schools and Colleges](../../../b/c6/c63d7b5ca46f/) | Lane, George Martin, 1823-1897; Morgan, M. H. (Morris Hicky), 1859-1910 [Editor] | 题 | 808 | 1,474,000 |
-| 170 | [Sämtliche Werke 3-4](../../../b/29/29084cbe778a/) | Dostoyevsky, Fyodor, 1821-1881; Merezhkovsky, Dmitry Sergeyevich, 1865-1941 [Contributor]; Moeller van den Bruck, Arthur, 1876-1925 [Editor]; Rahsin, E. K., 1886-1966 [Translator] | 题 | 75 | 1,473,944 |
-| 171 | [La Regenta](../../../b/6f/6f63440ccb8a/) | Alas, Leopoldo, 1852-1901 | 题 | 30 | 1,472,111 |
-| 172 | [Le juif errant - Tome II](../../../b/83/831fe488950a/) | Sue, Eugène, 1804-1857 | 题 | 128 | 1,466,629 |
-| 173 | [Warren Commission (02 of 26): Hearings Vol. II (of 15)](../../../b/a4/a4abea792570/) | United States. Warren Commission | 题 | 291 | 1,464,236 |
-| 174 | [The first New Testament printed in English](../../../b/59/5927020a2346/) | Tyndale, William, 1494?-1536 [Translator] | 题 | 55 | 1,463,872 |
-| 175 | [Geschiedenis der Europeesche Volken](../../../b/53/53b8a8107971/) | Kohl, Johann Georg, 1808-1878; Kretschmer, Albert, 1825-1891 [Illustrator] | 题 | 62 | 1,458,033 |
-| 176 | [Historia de América desde sus tiempos más remotos hasta nuestros días, tomo II](../../../b/28/2844b85ec245/) | Ortega Rubio, Juan, 1845-1921 | 题 | 141 | 1,457,091 |
-| 177 | [The Highlands of Ethiopia](../../../b/58/584cbfb73192/) | Harris, William Cornwallis, Sir, 1807-1848 | 题 | 130 | 1,452,022 |
-| 178 | [British Quarterly Review, American Edition, Vol. LIII January and April, 1871](../../../b/df/df843f031409/) | Various | 题 | 51 | 1,448,005 |
-| 179 | [A Concise Anglo-Saxon Dictionary For the Use of Students](../../../b/8b/8b020b64b358/) | Hall, J. R. Clark (John R. Clark), 1855- | 题 | 71 | 1,446,474 |
-| 180 | [Woordenlijst voor de spelling der Nederlandsche Taal Met aanwijzing van de geslachten der naamwoorden en de vervoeging der werkwoorden](../../../b/3e/3ef9b66c8b35/) | Vries, M. de (Matthias), 1820-1892; Winkel, L. A. te, 1809-1868; Beets, Adriaan, 1860-1937 [Editor] | 题 | 49 | 1,443,914 |
-| 181 | [A Monograph on the Sub-class Cirripedia (Volume 2 of 2) The Balanidæ, (or Sessile Cirripedes); the Verrucidæ, etc., etc.](../../../b/c1/c1d1908b0227/) | Darwin, Charles, 1809-1882 | 题 | 417 | 1,443,537 |
-| 182 | [The Spectator, Volume 2.](../../../b/31/3114c91625dc/) | Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729 | 题 | 384 | 1,443,291 |
-| 183 | [Eloisa](../../../b/2b/2b1a57e3015e/) | Rousseau, Jean-Jacques, 1712-1778; Kenrick, W. (William), 1725?-1779 [Translator] | 题 | 35 | 1,439,086 |
-| 184 | [Les esclaves de Paris](../../../b/c2/c2e679ae413c/) | Gaboriau, Emile, 1832-1873 | 题 | 143 | 1,435,307 |
-| 185 | [The Discoverie of Witchcraft](../../../b/7c/7c473bb7aefd/) | Scot, Reginald, 1538?-1599; Nicholson, Brinsley, 1824-1892 [Editor] | 题 | 97 | 1,434,037 |
-| 186 | [Myths of the Cherokee Extract from the Nineteenth Annual Report of the Bureau of American Ethnology](../../../b/c4/c49fc55fca04/) | Mooney, James, 1861-1921 | 题 | 197 | 1,432,665 |
-| 187 | [Rimen en Teltsjes](../../../b/5e/5edde6129ac0/) | Halbertsma, Justus Hiddes, 1789-1869; Halbertsma, Eeltsje, 1797-1858; Halbertsma, Tjalling, 1792-1852; Sytstra, O. H. (Onno Harmens), 1858-1939 [Author of introduction, etc.]; Wumkes, G. A. (Geert Aeilco), 1869-1954 [Contributor]; Wiersma, Ids, 1878-1965 [Illustrator] | 题 | 279 | 1,432,097 |
-| 188 | [A Body of Divinity, Vol. 2 (of 4) Wherein the doctrines of the Christian religion are explained and defended, being the substance of several lectures on the Assembly's Larger Catechism](../../../b/1c/1cbe53f2cbab/) | Ridgley, Thomas, 1667?-1734; Wilson, James P. (James Patriot), 1769-1830 [Annotator] | 题 | 76 | 1,427,439 |
-| 189 | [Critical and Historical Essays — Volume 1](../../../b/28/28ca9b48e4ab/) | Macaulay, Thomas Babington Macaulay, Baron, 1800-1859 | 题 | 38 | 1,427,261 |
-| 190 | [The Monist, Vol. 2, 1891-1892](../../../b/bc/bca38de0afd2/) | Various; Carus, Paul, 1852-1919 [Editor] | 题 | 390 | 1,426,855 |
-| 191 | [Critical and Historical Essays — Volume 2](../../../b/39/396f249d4074/) | Macaulay, Thomas Babington Macaulay, Baron, 1800-1859 | 题 | 114 | 1,425,323 |
-| 192 | [Émile eli Kasvatuksesta](../../../b/e0/e00f2d1a4859/) | Rousseau, Jean-Jacques, 1712-1778; Hahl, Jalmari, 1869-1929 [Translator] | 题 | 26 | 1,421,098 |
-| 193 | [Myladyn poika: Historiallinen romaani](../../../b/d7/d7d3fb83b6e1/) | Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888; Hämeen-Anttila, Väinö, 1878-1942 [Translator] | 题 | 201 | 1,418,622 |
-| 194 | [The life and times of the Rev. John Wesley, M.A., founder of the Methodists. Vol. 3 (of 3)](../../../b/5c/5c75581122e9/) | Tyerman, L. (Luke), 1820?-1889 | 题 | 71 | 1,413,915 |
-| 195 | [Warren Commission (03 of 26): Hearings Vol. III (of 15)](../../../b/22/22b0988c9565/) | United States. Warren Commission | 题 | 320 | 1,407,779 |
-| 196 | [Warren Commission (01 of 26): Hearings Vol. I (of 15)](../../../b/c4/c46cdc810fc9/) | United States. Warren Commission | 题 | 400 | 1,404,335 |
-| 197 | [La spedizione di Carlo VIII in Italia](../../../b/4a/4a5d3df32b8a/) | Sanudo, Marino, 1466-1536; Fulin, Rinaldo, 1824-1884 [Editor] | 题 | 49 | 1,404,153 |
-| 198 | [Les Rois Frères de Napoléon Ier Documents inédits relatifs au premier Empire](../../../b/52/521b4a159f44/) | Du Casse, Albert, 1813-1893 | 题 | 358 | 1,402,449 |
-| 199 | [British Quarterly Review, American Edition, Vol. LIV July and October, 1871](../../../b/f6/f6e8de588e99/) | Various | 题 | 71 | 1,401,351 |
-| 200 | [Manuel historique de politique étrangère, tome II [de 4]](../../../b/14/14830be66d9a/) | Bourgeois, Émile, 1857-1934 | 题 | 179 | 1,397,222 |
+| 1 | [宋会要辑稿](../../../b/4f/4f0f2621366f/) | 徐松 | 题 | 714 | 7,705,475 |
+| 2 | [崇祯松江府志甲](../../../b/3c/3c795d5639be/) | — | 题 | 37 | 990,580 |
+| 3 | [崇祯历书](../../../b/1c/1cccf7987c93/) | — | 题 | 168 | 899,007 |
+| 4 | [缀白裘](../../../b/46/46915c6af968/) | — | 题 | 207 | 774,077 |
+| 5 | [类经](../../../b/85/85109aa6d685/) | 张介宾 | 题 | 393 | 609,594 |
+| 6 | [满文老档](../../../b/5b/5bf5a3907fe7/) | — | 题 | 10 | 601,400 |
+| 7 | [医学衷中参西录](../../../b/0b/0b3ac80fc70a/) | 张锡纯 | 题 | 514 | 465,159 |
+| 8 | [文心雕龙集校](../../../b/d9/d9b6a1789cd2/) | — | 题 | 90 | 436,059 |
+| 9 | [四分律行事钞资持记](../../../b/ab/ab400ab22798/) | 元照 | 题 | 63 | 409,819 |
+| 10 | [法言义疏](../../../b/05/056d1f6dccf6/) | 杨雄 | 题 | 12 | 357,510 |
+| 11 | [关中奏议](../../../b/64/6413e5a99191/) | 杨一清 | 题 | 275 | 356,890 |
+| 12 | [证治准绳杂病](../../../b/5d/5d4ed484c217/) | 王肯堂 | 题 | 380 | 336,086 |
+| 13 | [汉魏南北朝墓志汇编](../../../b/00/001e77ff2854/) | — | 题 | 15 | 274,989 |
+| 14 | [续修四库全书总目提要·目录](../../../b/94/946df5666671/) | — | 题 | 246 | 273,268 |
+| 15 | [西汉会要](../../../b/e1/e176d9dede1b/) | 徐天麟 | 题 | 125 | 241,672 |
+| 16 | [四分律删繁补阙行事钞](../../../b/e3/e3f259aee0ff/) | 道宣 | 题 | 20 | 233,813 |
+| 17 | [俱舍论颂疏论本](../../../b/08/08eb03db922b/) | 圆晖 | 题 | 60 | 221,726 |
+| 18 | [居家必用事类全集](../../../b/3b/3b61abb93823/) | — | 题 | 11 | 203,210 |
+| 19 | [析津志辑佚](../../../b/f5/f543865e70df/) | 熊梦祥 | 题 | 196 | 190,178 |
+| 20 | [词综](../../../b/ff/ff77d263e668/) | 朱彝尊 | 题 | 33 | 183,668 |
+| 21 | [全相平话](../../../b/82/82740c9a7c6e/) | — | 题 | 32 | 182,368 |
+| 22 | [新缀白裘](../../../b/9b/9b7a21889410/) | — | 题 | 7 | 162,186 |
+| 23 | [杭州志](../../../b/bb/bb27f0841cd6/) | — | 题 | 7 | 159,926 |
+| 24 | [干禄字书](../../../b/4b/4b9bfb71a4e1/) | — | 题 | 1,252 | 153,680 |
+| 25 | [高注金匮要略](../../../b/0d/0dea64b5ce70/) | 高学山 | 题 | 23 | 153,249 |
+| 26 | [居士传](../../../b/8e/8e3d2997900c/) | — | 题 | 177 | 148,637 |
+| 27 | [毛诗故训传](../../../b/23/23c4646e6546/) | 段玉裁 | 题 | 29 | 147,206 |
+| 28 | [张载集摘](../../../b/92/92c15922850d/) | 张载 | 题 | 165 | 141,438 |
+| 29 | [媚幽阁文娱](../../../b/e5/e5559045db05/) | 郑元勋 | 题 | 241 | 135,074 |
+| 30 | [仁王护国般若波罗蜜多经疏](../../../b/ca/ca0bacd345be/) | 良贲 | 题 | 22 | 131,747 |
+| 31 | [沙弥律仪毗尼日用合参](../../../b/61/613d7c989658/) | — | 题 | 41 | 126,905 |
+| 32 | [章大力先生稿](../../../b/63/63c2ff191024/) | 章世纯 | 题 | 215 | 118,032 |
+| 33 | [世载堂杂忆](../../../b/d0/d073552b5bd0/) | 刘禺生 | 题 | 138 | 116,807 |
+| 34 | [龚自珍集](../../../b/bc/bc92985d9ecb/) | 龚自珍 | 题 | 12 | 114,842 |
+| 35 | [十叶野闻](../../../b/2d/2d483448b491/) | 许指严 | 题 | 45 | 111,938 |
+| 36 | [十不二门指要钞详解](../../../b/3d/3de2920f3496/) | — | 题 | 9 | 110,616 |
+| 37 | [訄书](../../../b/a9/a9763653aa14/) | 章太炎 | 题 | 26 | 107,647 |
+| 38 | [安士全书](../../../b/45/453f8b5a879c/) | 周安士 | 题 | 18 | 105,221 |
+| 39 | [临臯文集](../../../b/48/4894446cee41/) | 杨寅秋 | 题 | 167 | 103,157 |
+| 40 | [天演论](../../../b/6f/6f1b175312cc/) | 严复 | 题 | 54 | 102,429 |
+| 41 | [报恩论](../../../b/e0/e0a12706ab71/) | — | 题 | 29 | 94,715 |
+| 42 | [法华五百问论](../../../b/c3/c3f087249afc/) | — | 题 | 29 | 94,158 |
+| 43 | [仁王经疏](../../../b/f9/f9db76b58da0/) | 圆测 | 题 | 16 | 94,147 |
+| 44 | [宗范](../../../b/67/674e19effac3/) | — | 题 | 14 | 92,769 |
+| 45 | [大光明藏](../../../b/86/86a472b8e590/) | — | 题 | 149 | 91,235 |
+| 46 | [归元直指集](../../../b/a0/a01b39df9a9b/) | — | 题 | 98 | 90,128 |
+| 47 | [榕城考古略](../../../b/ba/bacefebccea6/) | 林枫 | 题 | 6 | 89,859 |
+| 48 | [金刚般若论会释](../../../b/98/987b9f551904/) | 窥基 | 题 | 6 | 85,591 |
+| 49 | [回春录](../../../b/a3/a3d5a52f0e6d/) | 王士维 | 题 | 89 | 83,120 |
+| 50 | [德育古鉴](../../../b/fe/fe559ce99dfc/) | 史洁珵 | 题 | 20 | 82,134 |
+| 51 | [经方实验录](../../../b/f7/f77cc09130a9/) | 曹颖甫 | 题 | 107 | 81,426 |
+| 52 | [验方家秘](../../../b/7e/7e00292c7411/) | 山野居士 | 题 | 8 | 78,909 |
+| 53 | [净名经集解关中疏](../../../b/20/20377a0dce94/) | 道掖 | 题 | 17 | 78,808 |
+| 54 | [易经证释](../../../b/e8/e8bd0ef1c9fd/) | 陆宗舆 | 题 | 15 | 76,712 |
+| 55 | [台湾文献丛刊清圣祖实录选辑](../../../b/1e/1eda128280f7/) | — | 题 | 62 | 75,845 |
+| 56 | [医原](../../../b/40/4095c162e873/) | 石寿堂 | 题 | 47 | 75,490 |
+| 57 | [参同契阐幽](../../../b/3f/3f1f9cea4e2b/) | 朱元育 | 题 | 52 | 75,423 |
+| 58 | [历年记](../../../b/96/96b1ee628658/) | 姚廷遴 | 题 | 12 | 74,837 |
+| 59 | [梅兰佳话](../../../b/82/8283070bc3d0/) | 阿阁主人 | 题 | 8 | 74,705 |
+| 60 | [滇考](../../../b/fe/fe378c1e13c7/) | 冯苏 | 题 | 49 | 74,462 |
+| 61 | [因明入正理论疏](../../../b/0a/0a63f763e197/) | 窥基 | 题 | 6 | 74,218 |
+| 62 | [辽金元宫词](../../../b/9c/9ce840ef3902/) | 柯九思 | 题 | 33 | 73,793 |
+| 63 | [竹窗随笔](../../../b/76/765895ef07de/) | 祩宏 | 题 | 8 | 73,666 |
+| 64 | [从政遗规](../../../b/f0/f074bdc8935d/) | 陈弘谋 | 题 | 35 | 73,247 |
+| 65 | [评注灯虎辩类](../../../b/c7/c7a2eb0bf49b/) | 谢会心 | 题 | 13 | 73,164 |
+| 66 | [金针秘传](../../../b/02/02e65b24a562/) | 方慎庵 | 题 | 12 | 73,052 |
+| 67 | [法界图记丛髓录](../../../b/77/77d8201cb6ac/) | — | 题 | 8 | 72,678 |
+| 68 | [释氏要览](../../../b/af/afc7364a66a9/) | 道诚 | 题 | 36 | 71,155 |
+| 69 | [大方广圆觉修多罗了义经略疏](../../../b/49/492ea2e1ffe1/) | 宗密 | 题 | 7 | 70,404 |
+| 70 | [光宣以来诗坛旁记](../../../b/e3/e35273481b78/) | 汪国垣 | 题 | 47 | 69,483 |
+| 71 | [甲戌公牍钞存](../../../b/c5/c5d26cd61c58/) | 王元稚 | 题 | 156 | 69,328 |
+| 72 | [四明仁岳异说丛书目次](../../../b/9b/9be08b925797/) | — | 题 | 11 | 68,954 |
+| 73 | [四书蕅益解](../../../b/57/578c9618afaa/) | 释智旭 | 题 | 44 | 68,687 |
+| 74 | [终南家业](../../../b/55/55a1581126ca/) | — | 题 | 23 | 68,617 |
+| 75 | [释鉴稽古略续集](../../../b/38/387ee9ce35ac/) | 幻轮 | 题 | 29 | 67,722 |
+| 76 | [金刚三昧经论](../../../b/20/2041aba2ce78/) | 元晓 | 题 | 14 | 67,681 |
+| 77 | [历代书论](../../../b/4b/4b513a6d32d4/) | — | 题 | 5 | 67,598 |
+| 78 | [骗经](../../../b/16/16e88b08dc47/) | 张应俞 | 题 | 105 | 67,084 |
+| 79 | [慈悲道场水忏法科注](../../../b/75/750d394e3a07/) | — | 题 | 6 | 66,766 |
+| 80 | [杜骗新书](../../../b/44/4468a094c78d/) | 张应俞 | 题 | 81 | 66,712 |
+| 81 | [金匮要略心典](../../../b/96/960cbefc88cc/) | 尤怡 | 题 | 47 | 66,410 |
+| 82 | [剧说](../../../b/ba/ba357c9a25f6/) | 焦循 | 题 | 5 | 66,258 |
+| 83 | [唯识开蒙问答](../../../b/c5/c5e085e5b4a9/) | — | 题 | 139 | 65,860 |
+| 84 | [吏皖存牍](../../../b/af/af1057a91b74/) | 姚锡光 | 题 | 30 | 65,537 |
+| 85 | [说学斋稿](../../../b/20/2014a44024f3/) | 危素 | 题 | 28 | 65,483 |
+| 86 | [华严经合论纂要](../../../b/b6/b6d4255456b2/) | — | 题 | 45 | 64,712 |
+| 87 | [仁王般若经疏](../../../b/ee/eedd7f668d12/) | 吉藏 | 题 | 22 | 64,710 |
+| 88 | [万松老人评唱天童觉和尚拈古请益录](../../../b/48/487c2c34d9a6/) | — | 题 | 103 | 64,532 |
+| 89 | [庄子](../../../b/75/7514fbc516dc/) | 庄周 | 题 | 36 | 63,670 |
+| 90 | [徽钦北徙录](../../../b/2f/2fa7183fb75e/) | — | 题 | 44 | 63,393 |
+| 91 | [删定止观](../../../b/9a/9a2e7058e04f/) | — | 题 | 16 | 62,815 |
+| 92 | [经络全书](../../../b/d8/d82c085dd5b4/) | 沈子禄 | 题 | 137 | 62,701 |
+| 93 | [大乘起信论义记](../../../b/74/74b34e9a95bd/) | 法藏 | 题 | 5 | 62,296 |
+| 94 | [佛果克勤禅师心要](../../../b/1c/1c5dd6e3dd63/) | — | 题 | 128 | 62,209 |
+| 95 | [立斋闲录](../../../b/d6/d6efdfe33ff3/) | 宋端仪 | 题 | 23 | 62,193 |
+| 96 | [近百年湖南学风](../../../b/c8/c896c8ca6ce0/) | 钱基博 | 题 | 9 | 62,001 |
+| 97 | [窦存](../../../b/8a/8a3e8f4e8dbd/) | 胡式钰 | 题 | 5 | 60,761 |
+| 98 | [采菲录](../../../b/a6/a69116ac8ba8/) | 姚灵犀 | 题 | 19 | 60,558 |
+| 99 | [毗尼日用切要香乳记](../../../b/86/8652210be3c0/) | — | 题 | 8 | 60,233 |
+| 100 | [山家绪余集](../../../b/6c/6cd2115bc79f/) | — | 题 | 59 | 60,124 |
+| 101 | [禅苑蒙求瑶林](../../../b/3f/3f6ab9a58594/) | — | 题 | 46 | 60,009 |
+| 102 | [寓意草](../../../b/53/53beab3c22bf/) | 喻昌 | 题 | 77 | 59,318 |
+| 103 | [十二门论疏](../../../b/0d/0d1d45e5c8e0/) | 吉藏 | 题 | 30 | 58,813 |
+| 104 | [能显中边慧日论](../../../b/4c/4c7bf2ca1eaf/) | 慧沼 | 题 | 39 | 58,556 |
+| 105 | [花木鸟兽集类](../../../b/e2/e2c28e4981d2/) | 吴宝芝 | 题 | 128 | 58,444 |
+| 106 | [空轩诗话](../../../b/54/54fff8eb69ec/) | 吴宓 | 题 | 53 | 58,354 |
+| 107 | [老子本义](../../../b/87/8781c8c6d290/) | 魏源 | 题 | 66 | 58,247 |
+| 108 | [伤寒兼证析义](../../../b/9f/9fd40ccabe7c/) | 张倬 | 题 | 49 | 58,109 |
+| 109 | [五家语录](../../../b/8c/8ce5c8bc1582/) | — | 题 | 24 | 58,102 |
+| 110 | [辩中边论述记](../../../b/84/844d4ce13699/) | 窥基 | 题 | 12 | 58,088 |
+| 111 | [湘学略](../../../b/e2/e2a46e50ea33/) | 李肖聃 | 题 | 48 | 57,915 |
+| 112 | [医略](../../../b/93/93b58f3216d6/) | 蒋宝素 | 题 | 28 | 57,226 |
+| 113 | [崇相集选录](../../../b/0a/0ada32549915/) | 董应举 | 题 | 70 | 56,821 |
+| 114 | [张庄僖文集](../../../b/5a/5ab1173a9def/) | 张永明 | 题 | 88 | 56,795 |
+| 115 | [肇论疏](../../../b/a6/a692be260726/) | 元康 | 题 | 45 | 56,345 |
+| 116 | [修真辩难参证](../../../b/0f/0f735b4d68b7/) | 刘一明 | 题 | 30 | 55,922 |
+| 117 | [内经知要](../../../b/2d/2d61aa045aa0/) | 李中梓 | 题 | 9 | 55,015 |
+| 118 | [渤海国记](../../../b/90/90ae6a6c108b/) | 黄维翰 | 题 | 44 | 54,991 |
+| 119 | [二谛义](../../../b/21/213214b05810/) | 吉藏 | 题 | 7 | 54,989 |
+| 120 | [医旨绪余](../../../b/c2/c213b905d809/) | 孙一奎 | 题 | 130 | 54,905 |
+| 121 | [重庆堂随笔](../../../b/fa/fae9614de61c/) | 王秉衡 | 题 | 35 | 54,582 |
+| 122 | [无量寿经连义述文赞](../../../b/aa/aab1fdf8be0e/) | 璟兴 | 题 | 5 | 54,579 |
+| 123 | [居士分灯录](../../../b/30/306f6705a1dd/) | — | 题 | 60 | 54,127 |
+| 124 | [仪礼](../../../b/a8/a8de21827f0e/) | — | 题 | 18 | 54,078 |
+| 125 | [上清帝七书](../../../b/1b/1bd488669ca8/) | 康有为 | 题 | 8 | 53,935 |
+| 126 | [先哲医话](../../../b/a1/a106088eee65/) | — | 题 | 33 | 53,434 |
+| 127 | [大乘法苑义林章决择记](../../../b/f7/f777c06e21df/) | — | 题 | 22 | 53,330 |
+| 128 | [耻躬堂残稿](../../../b/61/61dd6e16d528/) | 高昌隆 | 题 | 10 | 52,324 |
+| 129 | [杜诗攟](../../../b/37/3791f56a7f81/) | 唐元竑 | 题 | 52 | 52,204 |
+| 130 | [角虎集](../../../b/d2/d2e1c3df8a44/) | — | 题 | 35 | 52,082 |
+| 131 | [陈清端公年谱](../../../b/5e/5eec93663a50/) | 丁宗洛 | 题 | 16 | 51,833 |
+| 132 | [痴绝道冲禅师语录](../../../b/ac/acd3016395d1/) | — | 题 | 55 | 51,420 |
+| 133 | [元宫词百章笺注](../../../b/2e/2ecf2c34a821/) | 朱有燉 | 题 | 108 | 51,094 |
+| 134 | [沙弥律仪要略增注](../../../b/01/0119e012d77f/) | — | 题 | 38 | 51,070 |
+| 135 | [斯未信斋杂录](../../../b/09/09d013c58087/) | 徐宗干 | 题 | 9 | 50,911 |
+| 136 | [謇斋琐缀录](../../../b/4d/4d116a2195a8/) | 尹直 | 题 | 11 | 50,907 |
+| 137 | [中西汇通医经精义](../../../b/9c/9c7df88c3308/) | 唐宗海 | 题 | 60 | 50,889 |
+| 138 | [祖庭指南](../../../b/0b/0b9c3ced4c25/) | — | 题 | 79 | 49,811 |
+| 139 | [弘戒法仪](../../../b/82/82b8ded06c57/) | — | 题 | 47 | 49,757 |
+| 140 | [文镜秘府论](../../../b/3b/3b0e9766d23c/) | — | 题 | 5 | 49,741 |
+| 141 | [悟真直指](../../../b/d2/d23a6df2773b/) | 刘一明 | 题 | 6 | 48,654 |
+| 142 | [净名经关中释抄](../../../b/b3/b39b07a9dd0c/) | 道掖 | 题 | 17 | 48,522 |
+| 143 | [菩萨戒本疏](../../../b/81/81bcf5c2677c/) | 义寂 | 题 | 61 | 48,016 |
+| 144 | [劝发菩提心集](../../../b/91/919353ae7684/) | 慧沼 | 题 | 63 | 47,685 |
+| 145 | [僧羯磨](../../../b/1c/1c1a82839bd4/) | 怀素 | 题 | 21 | 47,189 |
+| 146 | [集古今佛道论衡](../../../b/64/6438bcf760dd/) | 道宣 | 题 | 41 | 47,148 |
+| 147 | [仁学](../../../b/38/386b135a6481/) | 谭嗣同 | 题 | 45 | 46,849 |
+| 148 | [戴施两案纪略](../../../b/ca/ca1797e3ee73/) | 吴德功 | 题 | 14 | 46,570 |
+| 149 | [台湾旅行记](../../../b/24/2475e98a1c5f/) | — | 题 | 22 | 46,377 |
+| 150 | [正蒙](../../../b/34/3433e8875e85/) | 张载 | 题 | 18 | 46,112 |
+| 151 | [晏子春秋](../../../b/3a/3a3384fc2dcf/) | 晏婴 | 题 | 35 | 45,848 |
+| 152 | [广艺舟双楫](../../../b/3d/3d255c29bb7f/) | 康有为 | 题 | 49 | 45,696 |
+| 153 | [碧苑坛经](../../../b/2b/2bfa5c2b3725/) | 闵一得 | 题 | 28 | 45,504 |
+| 154 | [经验丹方汇编](../../../b/53/53b0ec1b4f3c/) | 钱峻 | 题 | 103 | 45,438 |
+| 155 | [玉堂荟记](../../../b/1c/1c19e3ec1872/) | 杨士聪 | 题 | 5 | 45,238 |
+| 156 | [朱子学的](../../../b/25/25aee7278cf4/) | 丘浚 | 题 | 71 | 44,490 |
+| 157 | [大乘起信论略述](../../../b/2e/2ecb1b4856d9/) | 昙旷 | 题 | 5 | 44,413 |
+| 158 | [老残游记续集](../../../b/0d/0d4ba4b64c66/) | 刘鹗 | 题 | 12 | 44,093 |
+| 159 | [乐府阳春白雪](../../../b/ce/cea6e762790a/) | 李渔 | 题 | 64 | 44,083 |
+| 160 | [鲁春秋](../../../b/19/190668f54e6f/) | 查继佐 | 题 | 14 | 44,070 |
+| 161 | [论语点睛补注](../../../b/01/014ba890f9d2/) | 释智旭 | 题 | 26 | 44,012 |
+| 162 | [黑龙江舆图说](../../../b/83/8370aa2b9790/) | 屠寄 | 题 | 13 | 43,977 |
+| 163 | [医案精华](../../../b/0a/0ad70eb873a1/) | 叶天士 | 题 | 46 | 43,897 |
+| 164 | [集神州三宝感通录](../../../b/33/33acf63b2385/) | 道宣 | 题 | 9 | 43,079 |
+| 165 | [莲宗必读](../../../b/d2/d299cccda4dd/) | — | 题 | 21 | 43,059 |
+| 166 | [四部律并论要用抄](../../../b/88/8852bf7f5957/) | — | 题 | 21 | 42,985 |
+| 167 | [金刚般若经赞述](../../../b/ab/abcaf8820d02/) | 窥基 | 题 | 5 | 42,971 |
+| 168 | [六壬银河櫂](../../../b/e2/e214e3ace59f/) | — | 题 | 35 | 42,808 |
+| 169 | [参同直指](../../../b/db/dbdafeb1efbd/) | 刘一明 | 题 | 14 | 42,341 |
+| 170 | [永嘉禅宗集注](../../../b/f2/f23a3f97469b/) | — | 题 | 21 | 42,338 |
+| 171 | [法界次第初门](../../../b/77/77bd35d26d01/) | 智顗 | 题 | 79 | 41,736 |
+| 172 | [苏悉地羯啰经之三](../../../b/91/91a104027084/) | 输波迦罗 | 题 | 42 | 41,720 |
+| 173 | [南岳单传记](../../../b/4e/4eae233aed5b/) | — | 题 | 72 | 41,659 |
+| 174 | [芝园遗编](../../../b/43/4313f3dccd10/) | — | 题 | 62 | 41,647 |
+| 175 | [太极拳论](../../../b/df/dfb9be147a01/) | 陈鑫 | 题 | 5 | 41,372 |
+| 176 | [佛顶尊胜陀罗尼经教迹义记](../../../b/57/5708c4eca59d/) | 法崇 | 题 | 14 | 40,907 |
+| 177 | [梵网经古迹记](../../../b/b6/b6ef42d78a5c/) | 太贤 | 题 | 61 | 40,477 |
+| 178 | [三宝感应要略录](../../../b/a6/a6539c78f92a/) | 非浊 | 题 | 19 | 40,442 |
+| 179 | [苏悉地羯啰经之二](../../../b/ad/ad7bdab2f660/) | 输波迦罗 | 题 | 42 | 40,312 |
+| 180 | [寒山帚谈](../../../b/f1/f18c78845efd/) | 赵宧光 | 题 | 34 | 40,285 |
+| 181 | [蜀燹死事者略传](../../../b/11/114875b104b0/) | 余澜阁 | 题 | 71 | 40,034 |
+| 182 | [台阳诗话](../../../b/47/476835bb8cb7/) | 王松 | 题 | 6 | 39,267 |
+| 183 | [僧伽罗刹所集经](../../../b/99/996ee830b48f/) | 僧伽跋澄 | 题 | 6 | 38,966 |
+| 184 | [释迦方志](../../../b/6a/6a3f83bcfe4a/) | 道宣 | 题 | 13 | 38,616 |
+| 185 | [北溪字义](../../../b/6b/6b3dd4c87326/) | 陈淳 | 题 | 35 | 38,580 |
+| 186 | [圣武亲征录](../../../b/f3/f3504559878c/) | — | 题 | 35 | 38,402 |
+| 187 | [禅秘要法经](../../../b/4e/4e9e94838c7f/) | 鸠摩罗什 | 题 | 6 | 38,304 |
+| 188 | [宝王三昧念佛直指](../../../b/cf/cf446e7872b5/) | 妙叶 | 题 | 30 | 38,075 |
+| 189 | [通关文](../../../b/77/77be68b59b32/) | 刘一明 | 题 | 53 | 37,729 |
+| 190 | [江上孤忠录](../../../b/90/90fcf43382f9/) | 赵曦明 | 题 | 18 | 37,729 |
+| 191 | [净土绀珠](../../../b/c1/c1e7479f7301/) | — | 题 | 6 | 37,570 |
+| 192 | [陈莲舫先生医案](../../../b/ac/ac64d77b8092/) | 陈秉钧 | 题 | 14 | 37,568 |
+| 193 | [学治识端](../../../b/7b/7b2dd3d58fbd/) | 徐寿兹 | 题 | 37 | 37,549 |
+| 194 | [四分律删补随机羯磨](../../../b/d5/d54b266e060d/) | 道宣 | 题 | 18 | 37,039 |
+| 195 | [东明闻见录](../../../b/79/79e6a1dc65c9/) | — | 题 | 14 | 36,933 |
+| 196 | [观无量寿佛经义疏](../../../b/4c/4cdc3d595c00/) | 元照 | 题 | 5 | 36,833 |
+| 197 | [古本难经阐注](../../../b/e0/e0de62ad80fa/) | 丁锦 | 题 | 8 | 36,657 |
+| 198 | [湛然禅师宗门或问](../../../b/13/1345037dd4a4/) | — | 题 | 11 | 36,557 |
+| 199 | [台湾郑氏纪事](../../../b/17/177de83cd8e0/) | — | 题 | 5 | 36,401 |
+| 200 | [泰山道里记-清-聂鈫](../../../b/47/47608ee302f4/) | 聂鈫 | 题 | 9 | 36,277 |
