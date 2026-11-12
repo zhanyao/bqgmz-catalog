@@ -1,7 +1,7 @@
 # Antwerp to Gallipoli: A Year of the War on Many Fronts—and Behind Them
 
-**作者** Ruhl, Arthur, 1876-1935 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 367,582 字 ｜ **来源** Project Gutenberg
+**作者** Ruhl, Arthur, 1876-1935 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 5 篇 · 367,582 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9aaa5cb9d7b6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（367,582 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,973 字；最长 Chapter V（37,289 字），最短 Chapter VII（11,110 字）。 |
-| 起止 | 始于「Chapter I」，止于「Chapter XVI」。 |
+| 分章依据 | 按「篇」标记切分为 5 篇（auto-title-block），拼接正文 7,738 行。 |
+| 篇幅分布 | 平均每篇 41,999 字；最长 Budapest."（68,552 字），最短 With The Turks At The Dardanelles（26,644 字）。 |
 | 原文溯源 | `cache/epub/11008/pg11008.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 5 篇）
 
-1. Chapter I
-2. Chapter II
-3. Chapter III
-4. Chapter IV
-5. Chapter V
-6. Chapter VI
-7. Chapter VII
-8. Chapter VIII
-9. Chapter IX
-10. Chapter X
+1. In The German Trenches At La Bassée
+2. The Gate to Constantinople
+3. With The Turks At The Dardanelles
+4. Soghan-Dere And The Flier Of Ak-Bash
+5. Budapest."
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/9aaa5cb9d7b6/)
+> 共 5 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9aaa5cb9d7b6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（238,968 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,558 字；最长 CHAPTER III. THE WORK OF A DASTARD.（13,718 字），最短 CHAPTER XV. SOME RASCALS AT WORK.（6,091 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 6,746 行。 |
+| 篇幅分布 | 平均每章 9,490 字；最长 CHAPTER III. THE WORK OF A DASTARD.（13,718 字），最短 CHAPTER XV. SOME RASCALS AT WORK.（6,091 字）。 |
 | 起止 | 始于「CHAPTER I. UNCLE SAM GETS FIRST CALL.」，止于「CHAPTER XXV. MR. LOCKYER CAPTURES A PRIZE.」。 |
 | 原文溯源 | `cache/epub/58013/pg58013.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/9d0a0ecbf6d6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

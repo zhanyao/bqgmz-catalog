@@ -1,7 +1,7 @@
 # Ménagerie intime
 
-**作者** Gautier, Théophile, 1811-1872 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 3 段 · 73,580 字 ｜ **来源** Project Gutenberg
+**作者** Gautier, Théophile, 1811-1872 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 6 章 · 73,580 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a8060bfa710f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（73,580 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 24,526 字。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-roman-title），拼接正文 1,502 行。 |
+| 篇幅分布 | 平均每章 36 字。 |
+| 起止 | 始于「I. Temps Anciens」，止于「VI. Chevaux」。 |
 | 原文溯源 | `cache/epub/22551/pg22551.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 6 章）
 
-1. Vous vous demandez sans doute comment des chats et des rats,
-2. Après un interrègne assez considérable, un nouveau chien fut
-3. Les caméléons changent-ils véritablement de couleur selon le
+1. I. Temps Anciens
+2. II. Dynastie Blanche
+3. III. Dynastie Noire
+4. IV. Côté des Chiens
+5. V. Caméléons, Lézards et Pies
+6. VI. Chevaux
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/a8060bfa710f/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/a8060bfa710f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

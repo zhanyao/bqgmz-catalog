@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（303,012 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,120 字；最长 CHAPTER X--THAT SEAT IN THE SENATE（16,682 字），最短 CHAPTER XXV--THE SERENE LAST DAYS（3,674 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 7,219 行。 |
+| 篇幅分布 | 平均每章 12,106 字；最长 CHAPTER X--THAT SEAT IN THE SENATE（16,682 字），最短 CHAPTER XXV--THE SERENE LAST DAYS（3,674 字）。 |
 | 起止 | 始于「CHAPTER I--FROM THEOLOGY TO LAW」，止于「CHAPTER XXV--THE SERENE LAST DAYS」。 |
 | 原文溯源 | `cache/epub/51911/pg51911.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/b10cef9142d2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

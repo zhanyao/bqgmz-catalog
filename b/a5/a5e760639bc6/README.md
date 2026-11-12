@@ -1,7 +1,7 @@
 # Bokwala: The Story of a Congo Victim
 
 **作者** Congo resident; Guinness, H. Grattan (Henry Grattan), 1861-1915 [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 102,568 字 ｜ **来源** Project Gutenberg
+**规模** 20 章 · 102,568 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a5e760639bc6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（102,568 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,256 字；最长 CHAPTER II（18,083 字），最短 CHAPTER X（3,397 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER X」。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 2,643 行。 |
+| 篇幅分布 | 平均每章 4,952 字。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER X（部2）」。 |
 | 原文溯源 | `cache/epub/67371/pg67371.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/a5e760639bc6/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/a5e760639bc6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

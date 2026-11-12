@@ -1,7 +1,7 @@
 # Chambers's journal of popular literature, science, and art, fifth series, no. 119, vol. III, April 4, 1886
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 3 段 · 79,415 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 9 篇 · 79,415 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9e275ff6e312/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（79,415 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 26,471 字。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（auto-magazine），拼接正文 1,709 行。 |
+| 篇幅分布 | 平均每篇 8,823 字。 |
 | 原文溯源 | `cache/epub/70245/pg70245.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 9 篇）
 
-1. Lady Modyford waited a good deal longer than is usual with a
-2. At that moment a man was really heard to leap from one of th
-3. At first sight, one would be inclined to say that the distri
+1. CONDUCTED BY R. CHAMBERS (SECUNDUS)
+2. GLOVING
+3. CHAPTER XIX
+4. CONSCIENTIOUS MONEY-SPENDING
+5. IN TWO CHAPTERS.—CHAP. II
+6. ROWING AT OXFORD
+7. A HOLIDAY IN COUNTY CORK
+8. PEAT AS A MANURE
+9. ABSENCE OF MIND
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/9e275ff6e312/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9e275ff6e312/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

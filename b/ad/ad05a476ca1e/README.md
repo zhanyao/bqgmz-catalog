@@ -1,7 +1,7 @@
 # The Door into Infinity
 
-**作者** Hamilton, Edmond, 1904-1977 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 5 题 · 62,142 字 ｜ **来源** Project Gutenberg
+**作者** Hamilton, Edmond, 1904-1977 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 5 篇 · 62,142 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ad05a476ca1e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（62,142 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 12,428 字。 |
+| 分章依据 | 按「篇」标记切分为 5 篇（auto-italic-num），拼接正文 1,738 行。 |
+| 篇幅分布 | 平均每篇 12,354 字；最长 Death Trap（14,454 字），最短 The Door Opens（10,401 字）。 |
 | 原文溯源 | `cache/epub/32847/pg32847.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 5 篇）
 
-1. The Door Into Infinity
-2. By EDMOND HAMILTON
-3. Campbell whirled to the helmsman. "You're not badly hurt?"
-4. Sturt's face set stolidly and he said, "Yes, sir."
-5. End of Project Gutenberg's The Door into Infinity, by Edmond Hamilton
+1. The Brotherhood of the Door
+2. Death Trap
+3. Up the Water-Tunnel
+4. The Cavern of the Door
+5. The Door Opens
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/ad05a476ca1e/)
+> 共 5 篇，[完整目录与正文 →](https://www.bqgmz.top/b/ad05a476ca1e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

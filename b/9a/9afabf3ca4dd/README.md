@@ -1,7 +1,7 @@
 # The Scamperers
 
-**作者** Stearns, Charles A.; Orban, Paul, 1896-1974 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 5 题 · 27,132 字 ｜ **来源** Project Gutenberg
+**作者** Stearns, Charles A.; Orban, Paul, 1896-1974 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 27,132 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9afabf3ca4dd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（27,132 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,426 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 844 行。 |
+| 篇幅分布 | 平均每篇 27,132 字。 |
 | 原文溯源 | `cache/epub/59516/pg59516.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 1 篇）
 
-1. BY CHARLES A. STEARNS
-2. He sat up quickly. "Who is it?"
-3. She spoke. "How will it be on Rigel Twelve? Will I ever see you again?"
-4. Sealilly grinned thinly. "Laura went with him."
-5. Joseph's face whitened. "_Laura?_ Damn him! Damn her too."
+1. The Scamperers
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/9afabf3ca4dd/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9afabf3ca4dd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

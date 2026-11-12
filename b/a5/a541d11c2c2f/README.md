@@ -1,7 +1,7 @@
 # Romanceiro geral
 
-**作者** Braga, Teófilo, 1843-1924 [Compiler] ｜ **国家/地区** 葡萄牙 ｜ **体例** 题  
-**规模** 84 题 · 195,027 字 ｜ **来源** Project Gutenberg
+**作者** Braga, Teófilo, 1843-1924 [Compiler] ｜ **国家/地区** 葡萄牙 ｜ **体例** 章  
+**规模** 7 章 · 195,027 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a541d11c2c2f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（195,027 字）。 |
-| 分章依据 | 按「题」标记切分为 84 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,321 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-caps-sections），拼接正文 7,945 行。 |
+| 篇幅分布 | 平均每章 27,861 字；最长 DO COLLECTOR（2）（59,776 字），最短 DO COLLECTOR（4）（919 字）。 |
 | 原文溯源 | `cache/epub/71173/pg71173.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 章）
 
-1. ROMANCEIRO GERAL
-2. COLLIGIDO DA TRADIÇÃO
-3. POR
-4. THEOPHILO BRAGA
-5. COIMBRA
-6. IMPRENSA DA UNIVERSIDADE
-7. DO COLLECTOR
-8. ROMANCEIRO GERAL
-9. FLOR DOS ROMANCES ANONYMOS DO CYCLO CARLINGIANO E DA TAVOLA-REDONDA
-10. I--ROMANCES COMMUNS AOS POVOS DO MEIO DIA DA EUROPA
+1. DO COLLECTOR（1）
+2. DO COLLECTOR（2）
+3. DO COLLECTOR（3）
+4. DO COLLECTOR（4）
+5. V. 51--52.
+6. FLOR DOS ROMANCES ANONYMOS DO CYCLO CARLINGIANO E DA TAVOLA REDONDA
+7. XACARAS:
 
-> 共 84 题，[完整目录与正文 →](https://www.bqgmz.top/b/a541d11c2c2f/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/a541d11c2c2f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

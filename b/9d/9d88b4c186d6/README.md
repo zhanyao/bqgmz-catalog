@@ -1,7 +1,7 @@
 # The British Woodlice Being a Monograph of the Terrestrial Isopod Crustacea Occurring in the British Islands
 
-**作者** Webb, Wilfred Mark, 1868-1952; Sillem, Charles ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 101,388 字 ｜ **来源** Project Gutenberg
+**作者** Webb, Wilfred Mark, 1868-1952; Sillem, Charles ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 101,388 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9d88b4c186d6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（101,388 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,277 字；最长 =Habits and Economic Considerations.=--The construction of t（40,018 字），最短 _Length, fifteen millimetres._（1,292 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-toc-title-list），拼接正文 3,704 行。 |
+| 篇幅分布 | 平均每章 4,878 字。 |
 | 原文溯源 | `cache/epub/43928/pg43928.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. =Habits and Economic Considerations.=--The construction of t
-2. _FOREIGN DISTRIBUTION:--_
-3. There is often a light band down the back and one on either
-4. B.M.--Specimens in the British Museum (Natural History).
-5. _Length, fifteen millimetres._
+1. Introduction
+2. Geological history
+3. External structure and appendages
+4. Alimentary canal
+5. Circulatory system
+6. Excretory system
+7. Nervous system
+8. Reproductive organs
+9. Development
+10. Habits and Economic considerations
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/9d88b4c186d6/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/9d88b4c186d6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Zut, and Other Parisians
 
-**作者** Carryl, Guy Wetmore, 1873-1904 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 13 段 · 266,893 字 ｜ **来源** Project Gutenberg
+**作者** Carryl, Guy Wetmore, 1873-1904 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 266,893 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9931196bbfaa/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（266,893 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,530 字；最长 "Our ancient friendship"--faltered Alexandrine, touched in a（39,693 字），最短 Before them a great plain, sloping very gradually upward in （7,028 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 6,162 行。 |
+| 篇幅分布 | 平均每章 24,142 字；最长 LITTLE TAPIN（27,574 字），最短 LE POCHARD（20,423 字）。 |
 | 原文溯源 | `cache/epub/43216/pg43216.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. "Our ancient friendship"--faltered Alexandrine, touched in a
-2. It was plain that Caffiard had known Mimi no more than half
-3. "As a matter of fact," said Cazeby, "I do not live over a po
-4. This portrait of his mother dominated the life of Pépin like
-5. So Sacha bought the box, and they sat, five of them, through
-6. The two students shared a little sous-toit within a stone's
-7. It is something, as every one knows, to be an angel in Le Ci
-8. Suddenly there was a stir in the cabaret. A voice was callin
-9. In truth, the saddling-bell was jangling from the little pav
-10. "And Marcelle," said the woman,--"she is always with Bombist
+1. ZUT
+2. CAFFIARD, _Deus ex Machina
+3. THE NEXT CORNER
+4. THE ONLY SON OF HIS MOTHER
+5. THE TUITION OF DODO CHAPUIS
+6. LE POCHARD
+7. A LATTER-DAY LUCIFER
+8. POIRE!
+9. PAPA LABESSE
+10. IN THE ABSENCE OF MONSIEUR
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/9931196bbfaa/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/9931196bbfaa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

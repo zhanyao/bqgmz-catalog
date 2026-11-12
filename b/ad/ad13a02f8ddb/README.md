@@ -1,7 +1,7 @@
 # John Knox and the Reformation
 
 **作者** Lang, Andrew, 1844-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 393,472 字 ｜ **来源** Project Gutenberg
+**规模** 19 章 · 393,472 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ad13a02f8ddb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（393,472 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 30,267 字；最长 CHAPTER XI: KNOX'S INTRIGUES, AND HIS AC（84,496 字），最短 CHAPTER IX: KNOX ON THE ANABAPTISTS: HIS APPEAL TO ENGLAND: 1558-1559（7,241 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 8,393 行。 |
+| 篇幅分布 | 平均每章 20,422 字；最长 APPENDIX A: ALLEGED PERFIDY OF MARY OF GUISE（38,628 字），最短 CHAPTER IX: KNOX ON THE ANABAPTISTS: HIS APPEAL TO ENGLAND: 1558-1559（7,241 字）。 |
 | 原文溯源 | `cache/epub/14016/pg14016.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CHAPTER IX: KNOX ON THE ANABAPTISTS: HIS APPEAL TO ENGLAND: 1558-1559
 10. CHAPTER X: KNOX AND THE SCOTTISH REVOLUTION, 1559
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/ad13a02f8ddb/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/ad13a02f8ddb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

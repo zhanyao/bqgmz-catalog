@@ -1,7 +1,7 @@
 # Pöllönkorven naamiaisyö
 
-**作者** Halme, Kaarle, 1864-1946 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 8 题 · 65,715 字 ｜ **来源** Project Gutenberg
+**作者** Halme, Kaarle, 1864-1946 ｜ **国家/地区** 芬兰 ｜ **体例** 场  
+**规模** 2 场 · 65,715 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b0473d5fb26f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（65,715 字）。 |
-| 分章依据 | 按「题」标记切分为 8 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,214 字。 |
+| 分章依据 | 按「场」标记切分为 2 场（auto-local-act），拼接正文 2,549 行。 |
+| 篇幅分布 | 平均每场 19,173 字。 |
 | 原文溯源 | `cache/epub/77367/pg77367.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 题）
+## 章节目录（前 2 场）
 
-1. PÖLLÖNKORVEN NAAMIAISYÖ
-2. Kolminäytöksinen huvinäytelmä
-3. KAARLE HALME
-4. HENKILÖT:
-5. OHJEITA ESITTÄJILLE.
-6. ENSIMMÄINEN NÄYTÖS.
-7. TOINEN NÄYTÖS.
-8. KOLMAS NÄYTÖS.
+1. TOINEN NÄYTÖS.
+2. KOLMAS NÄYTÖS.
 
-> 共 8 题，[完整目录与正文 →](https://www.bqgmz.top/b/b0473d5fb26f/)
+> 共 2 场，[完整目录与正文 →](https://www.bqgmz.top/b/b0473d5fb26f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

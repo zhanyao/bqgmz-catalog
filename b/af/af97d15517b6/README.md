@@ -11,15 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（243,973 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 27,108 字；最长 CHAPTER I（57,176 字），最短 CHAPTER IX（14,676 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER IX」。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 5,145 行。 |
+| 篇幅分布 | 平均每章 26,989 字；最长 PART II: _Social Treatment（77,658 字），最短 PART I: _Medical-Social Diagnosis（401 字）。 |
 | 原文溯源 | `cache/epub/49545/pg49545.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
 
-1. CHAPTER I
-2. CHAPTER II
+1. PART I: _Medical-Social Diagnosis
+2. PART II: _Social Treatment
 3. CHAPTER III
 4. CHAPTER IV
 5. CHAPTER V
@@ -31,4 +30,4 @@
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/af97d15517b6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（451,698 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,509 字；最长 CHAPTER XII. HUCKLEBERRIES（33,541 字），最短 CHAPTER XIII. GOLDILOCKS（12,504 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 11,591 行。 |
+| 篇幅分布 | 平均每章 21,477 字；最长 CHAPTER XII. HUCKLEBERRIES（33,541 字），最短 CHAPTER XIII. GOLDILOCKS（12,504 字）。 |
 | 起止 | 始于「CHAPTER I. NAT」，止于「CHAPTER XXI. THANKSGIVING」。 |
 | 原文溯源 | `cache/epub/2788/pg2788.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/a36c5b1f0d9c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

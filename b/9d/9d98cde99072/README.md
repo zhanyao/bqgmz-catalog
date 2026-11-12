@@ -1,7 +1,7 @@
 # Valkeneva tie
 
-**作者** Haahti, Hilja, 1874-1966 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 15 题 · 227,762 字 ｜ **来源** Project Gutenberg
+**作者** Haahti, Hilja, 1874-1966 ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 6 部分 · 227,762 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9d98cde99072/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（227,762 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 15,184 字。 |
+| 分章依据 | 按「部分」标记切分为 6 部分（fallback-chunk），拼接正文 5,830 行。 |
+| 篇幅分布 | 平均每部分 37,960 字；最长 第 1 部分（44,046 字），最短 第 6 部分（8,665 字）。 |
 | 原文溯源 | `cache/epub/60494/pg60494.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 部分）
 
-1. VALKENEVA TIE
-2. HILJA HAAHTI
-3. SISÄLLYS:
-4. LAPSUUDEN RAUHAA
-5. Mauri kirjoitti paperiinsa: "Luulen, ettei minulla ole yhtään ystävää."
-6. II
-7. NUORUUDEN RISTEYKSIÄ.
-8. Tervehdä rakasta tätiä
-9. Maurilta."
-10. Kyllikki ystäväsi."
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/9d98cde99072/)
+> 共 6 部分，[完整目录与正文 →](https://www.bqgmz.top/b/9d98cde99072/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

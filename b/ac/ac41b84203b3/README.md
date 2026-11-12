@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（79,177 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,835 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-toc-title-list），拼接正文 1,775 行。 |
+| 篇幅分布 | 平均每章 15,659 字；最长 THE THEMES AND THEIR TREATMENT（22,495 字），最短 ITS QUALITIES（6,730 字）。 |
 | 原文溯源 | `cache/epub/16488/pg16488.txt`（Project Gutenberg） |
 
 ## 章节目录（前 5 章）
 
-1. ACT I
-2. ACT II
-3. ACT III
-4. ACT IV
-5. ACT V
+1. I. DEBUSSY AND HIS ART
+2. ITS QUALITIES
+3. ITS ACTION
+4. A REVOLUTIONARY SCORE
+5. THE THEMES AND THEIR TREATMENT
 
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/ac41b84203b3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

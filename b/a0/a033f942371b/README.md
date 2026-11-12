@@ -1,7 +1,7 @@
 # Pen Pictures of British Battles
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 28 题 · 71,856 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 71,856 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a033f942371b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（71,856 字）。 |
-| 分章依据 | 按「题」标记切分为 28 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,566 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-roman-bare），拼接正文 1,665 行。 |
+| 篇幅分布 | 平均每章 6,329 字；最长 V.（9,372 字），最短 VI.（3,220 字）。 |
+| 起止 | 始于「I.」，止于「XI.」。 |
 | 原文溯源 | `cache/epub/60155/pg60155.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. PEN PICTURES OF BRITISH BATTLES
-2. CONTENTS.
-3. VI.--THE CHARGE AT LOOS OF THE LONDON IRISH 39
-4. EDITOR’S NOTE.
-5. I.
-6. THE VICTORY OF THE FALKLAND ISLANDS.[A]
-7. II.
-8. THE BATTLE OF THE MARNE.[B]
-9. III.
-10. A GLIMPSE OF CANADA IN FLANDERS.[C]
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 28 题，[完整目录与正文 →](https://www.bqgmz.top/b/a033f942371b/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/a033f942371b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

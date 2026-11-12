@@ -1,7 +1,7 @@
 # The Research Magnificent
 
-**作者** Wells, H. G. (Herbert George), 1866-1946 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 25 段 · 519,362 字 ｜ **来源** Project Gutenberg
+**作者** Wells, H. G. (Herbert George), 1866-1946 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 12 章 · 519,362 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9ab164b61b8b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（519,362 字）。 |
-| 分章依据 | 按「段」标记切分为 25 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,774 字；最长 This picture of human indignity tortured Benham's imaginatio（39,917 字），最短 The original conception of their honeymoon had been identica（18,018 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-caps-sections），拼接正文 12,913 行。 |
+| 篇幅分布 | 平均每章 43,280 字；最长 NOW!（61,512 字），最短 “RAIN!”（16,953 字）。 |
 | 原文溯源 | `cache/epub/1138/pg1138.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. This picture of human indignity tortured Benham's imaginatio
-2. “Now this excess of fear in isolation, this comfort in a cro
-3. He followed the hint of a footmark, and went back up the gle
-4. “Poff,” she said suddenly, “has it ever occurred to you what
-5. “I've not thought.... I suppose so. Or her own.”
-6. “Because I can't. Now I admit I've got shame in my heart and
-7. This man Merkle seemed quite unaware that humanity “here and
-8. Among other things that delayed Benham very greatly in the d
-9. It is the only question for the aristocrat. What amusement?
-10. Benham detested dog-fights. He stood up, pale and distressed
+1. NOW!
+2. CHAPTER THE FIRST ~~ THE BOY GROWS UP（1）
+3. CHAPTER THE FIRST ~~ THE BOY GROWS UP（2）
+4. CHAPTER THE SECOND ~~ THE YOUNG MAN ABOUT TOWN（1）
+5. CHAPTER THE SECOND ~~ THE YOUNG MAN ABOUT TOWN（2）
+6. CHAPTER THE FOURTH ~~ THE SPIRITED HONEYMOON
+7. “NOW!”
+8. “RAIN!”
+9. CHAPTER THE FIFTH ~~ THE ASSIZE OF JEALOUSY（1）
+10. CHAPTER THE FIFTH ~~ THE ASSIZE OF JEALOUSY（2）
 
-> 共 25 段，[完整目录与正文 →](https://www.bqgmz.top/b/9ab164b61b8b/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/9ab164b61b8b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

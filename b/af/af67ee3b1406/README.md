@@ -1,7 +1,7 @@
 # Maroussia
 
-**作者** Stahl, P.-J., 1814-1886; Vovchok, Marko, 1834-1907; Pannemaker, François, 1822-1900 [Engraver]; Schuler, Théophile, 1821-1878 [Illustrator] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 11 段 · 234,490 字 ｜ **来源** Project Gutenberg
+**作者** Stahl, P.-J., 1814-1886; Vovchok, Marko, 1834-1907; Pannemaker, François, 1822-1900 [Engraver]; Schuler, Théophile, 1821-1878 [Illustrator] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 22 章 · 234,490 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/af67ee3b1406/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（234,490 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,317 字；最长 --Cela n'est que trop vrai! dirent les deux amis de Danilo, （39,973 字），最短 «Je ne veux plus penser. A quoi bon? Dieu est là-haut. Il fa（14,272 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-roman-title），拼接正文 6,837 行。 |
+| 篇幅分布 | 平均每章 24 字。 |
+| 起止 | 始于「I. L'UKRAINE. 3」，止于「XXII. GLORIA VICTIS! 265」。 |
 | 原文溯源 | `cache/epub/69301/pg69301.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. --Cela n'est que trop vrai! dirent les deux amis de Danilo,
-2. «Je suis tout oreilles, lui dit-il, et je n'entends rien enc
-3. --Pauvre femme! dit l'envoyé, c'en est fait d'elle...
-4. Il sourit, et on sentait que dans ce sourire attristé passai
-5. Et plus il regardait la «petite fille», plus son imagination
-6. «Allons un peu plus loin, dit Knich; nous y serons plus en s
-7. L'obscurité dans laquelle Tchiguirine se cachait semblait vo
-8. On entendait le murmure sourd des eaux profondes et le frémi
-9. Le père Mikaïl, en entendant ces mots, tressaillit. Ses yeux
-10. «Ah! Noël, Noël! dans la cabane de mon père! Noël auprès de
+1. I. L'UKRAINE. 3
+2. II. UN VOYAGEUR INCONNU. 13
+3. III. LA PETITE MAROUSSIA. 21
+4. IV. UN CONTE DE BRIGANDS. 45
+5. V. LA FUITE. 75
+6. VI. UNE RENCONTRE. 83
+7. VII. CHEZ LE VIEUX KNICH. 99
+8. VIII. A LA MÊME PLACE. 109
+9. IX. LE RÉVEIL D'IVAN. 119
+10. X. LE VRAI KNICH. 129
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/af67ee3b1406/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/af67ee3b1406/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

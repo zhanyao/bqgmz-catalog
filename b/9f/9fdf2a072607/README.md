@@ -1,7 +1,7 @@
 # A bihari remete, és egyéb történetek
 
-**作者** Kárpáti, Aurél, 1884-1963 ｜ **国家/地区** 匈牙利 ｜ **体例** 题  
-**规模** 25 题 · 71,888 字 ｜ **来源** Project Gutenberg
+**作者** Kárpáti, Aurél, 1884-1963 ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 9 章 · 71,888 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9fdf2a072607/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（71,888 字）。 |
-| 分章依据 | 按「题」标记切分为 25 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,875 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-roman-bare），拼接正文 1,986 行。 |
+| 篇幅分布 | 平均每章 7,941 字；最长 V.（19,241 字），最短 I.（部2）（4,184 字）。 |
+| 起止 | 始于「I.」，止于「IV.（部2）」。 |
 | 原文溯源 | `cache/epub/20169/pg20169.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. KÁRPÁTI AURÉL
-2. BUDAPEST
-3. Az Athenaeum Irodalmi és Nyomdai R.-T. kiadása
-4. KÁRPÁTI AURÉL
-5. BUDAPEST
-6. Az Athenaeum Irodalmi és Nyomdai R.-T. kiadása
-7. AZ AEDILIS
-8. I.
-9. VINCIS, GAVDES
-10. II.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. I.（部2）
+7. II.（部2）
+8. III.（部2）
+9. IV.（部2）
 
-> 共 25 题，[完整目录与正文 →](https://www.bqgmz.top/b/9fdf2a072607/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/9fdf2a072607/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

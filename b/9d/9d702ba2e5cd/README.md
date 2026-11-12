@@ -1,7 +1,7 @@
 # Noites de insomnia, offerecidas a quem não póde dormir. Nº 02 (de 12)
 
-**作者** Castelo Branco, Camilo, 1825-1890 ｜ **国家/地区** 葡萄牙 ｜ **体例** 段  
-**规模** 4 段 · 88,051 字 ｜ **来源** Project Gutenberg
+**作者** Castelo Branco, Camilo, 1825-1890 ｜ **国家/地区** 葡萄牙 ｜ **体例** 篇  
+**规模** 7 篇 · 88,051 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9d702ba2e5cd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（88,051 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,012 字。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（auto-title-block），拼接正文 2,253 行。 |
+| 篇幅分布 | 平均每篇 6,370 字；最长 O ORACULO DO MARQUEZ DE POMBAL（13,245 字），最短 VERGONHAS NACIONAES（3,398 字）。 |
 | 原文溯源 | `cache/epub/24464/pg24464.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 7 篇）
 
-1. Os bens eram grandes em terras e fóros. Casa antiga e solida
-2. Até aqui o descendente de el-rei D. Fernando no que respeita
-3. «Logo que todos os fidalgos fizeram a sua assistencia na côr
-4. Aos ouvidos do intendente chegaram rumores sinistros. Segred
+1. LISBOA
+2. O ORACULO DO MARQUEZ DE POMBAL
+3. O PRINCIPE PERFEITO
+4. AVE RARA
+5. VERGONHAS NACIONAES
+6. Dz.^or Luiz Dias Pereira._»
+7. descripção.--_Vicente Lunardi._»
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/9d702ba2e5cd/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9d702ba2e5cd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

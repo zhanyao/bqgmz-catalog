@@ -1,7 +1,7 @@
 # The Deaf Shoemaker: To Which Are Added Other Stories for the Young
 
-**作者** Barrett, Philip, 1838-1900 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 161,054 字 ｜ **来源** Project Gutenberg
+**作者** Barrett, Philip, 1838-1900 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 48 章 · 161,054 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a3398014ba37/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（161,054 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,131 字；最长 There is another thing about the rose which should teach us （39,884 字），最短 Page 30（867 字）。 |
+| 分章依据 | 按「章」标记切分为 48 章（auto-toc-title-list），拼接正文 5,065 行。 |
+| 篇幅分布 | 平均每章 3,315 字。 |
 | 原文溯源 | `cache/epub/52296/pg52296.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. There is another thing about the rose which should teach us
-2. Passing near the above place one pleasant evening in May, I
-3. Children, can you look upon such scenes as these, and not fe
-4. There is something about the word Home, which in itself is p
-5. TOILING, rejoicing, sorrowing,
-6. “WHO SHALL BE THE GREATEST?” (Mark 9: 34.) That this is stil
-7. “They chant their artless notes in simple strain,
-8. Page 30
+1. JOHN McDONOUGH
+2. MARY AND HER DRAWER
+3. “IT IS I!”
+4. THE ORPHAN
+5. THE RECORDING ANGEL
+6. THE ROSE
+7. THE LANTERN
+8. THE DECISIVE MOMENT
+9. THE ALARM WATCH
+10. “CONDEMNED”
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/a3398014ba37/)
+> 共 48 章，[完整目录与正文 →](https://www.bqgmz.top/b/a3398014ba37/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

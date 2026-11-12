@@ -1,7 +1,7 @@
 # Mathias Sandorf [2]
 
-**作者** Verne, Jules, 1828-1905 ｜ **国家/地区** 荷兰 ｜ **体例** 段  
-**规模** 19 段 · 384,388 字 ｜ **来源** Project Gutenberg
+**作者** Verne, Jules, 1828-1905 ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 10 章 · 384,388 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9c26dfdaa29a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（384,388 字）。 |
-| 分章依据 | 按「段」标记切分为 19 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,230 字；最长 En inderdaad, Piet Bathory was het levend evenbeeld van zijn（39,852 字），最短 Zes uren later was de dokter met al de zijnen te Catania ter（4,016 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-roman-title），拼接正文 10,557 行。 |
+| 篇幅分布 | 平均每章 29 字。 |
+| 起止 | 始于「I. Verschillende voorvallen 1」，止于「XI. De Casa Inglese 201」。 |
 | 原文溯源 | `cache/epub/69576/pg69576.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. En inderdaad, Piet Bathory was het levend evenbeeld van zijn
-2. Pescadospunt moest namelijk te Ragusa blijven, om de woning
-3. Nadat hij voor de inbewaargeving van zijne koffers bij de am
-4. Maar wat vooral in haar persoon bekoorde en wat bovendien de
-5. Die twee booswichten waren ook samen overeengekomen, dat het
-6. Heeft de Latijnsche of beter de Europeesche Middellandsche z
-7. „Ja, mijnheer Piet,” stamelde hij koddig. „Ja, het eiland An
-8. Het plan van zijn volgend leven was reeds vastgesteld. Hij z
-9. „Maar waarom?.... Waarom toch?” kreet Piet, die ten toppunt
-10. Na den dood harer moeder, had Sava zich steeds afgezonderd g
+1. I. Verschillende voorvallen 1
+2. II. De mondingen van de Cattaro 22
+3. III. Verwikkelingen 43
+4. IV. Eene ontmoeting in de Stradona-laan 60
+5. V. De Middellandsche Zee 73
+6. VI. Het Verleden en het Tegenwoordige 89
+7. VII. Wat er inmiddels te Ragusa gebeurde 110
+8. VIII. In de omstreken van Malta 131
+9. X. In de omstreken van Catania 180
+10. XI. De Casa Inglese 201
 
-> 共 19 段，[完整目录与正文 →](https://www.bqgmz.top/b/9c26dfdaa29a/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/9c26dfdaa29a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

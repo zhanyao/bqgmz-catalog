@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（671,611 字）。 |
-| 分章依据 | 按「章」标记切分为 38 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,673 字；最长 CHAPTER II. A TALE OF MR. DEMPSEY'S GRANDFATHER（50,945 字），最短 CHAPTER XXXV. AN AWKWARD DINNER-PARTY（9,030 字）。 |
+| 分章依据 | 按「章」标记切分为 38 章（auto-chapter），拼接正文 15,997 行。 |
+| 篇幅分布 | 平均每章 17,669 字；最长 CHAPTER II. A TALE OF MR. DEMPSEY'S GRANDFATHER（50,945 字），最短 CHAPTER XXXV. AN AWKWARD DINNER-PARTY（9,030 字）。 |
 | 起止 | 始于「CHAPTER I. SOME CHARACTERS NEW TO THE KNIGHT AND THE READER」，止于「CHAPTER XXXVIII. CONCLUSION」。 |
 | 原文溯源 | `cache/epub/35756/pg35756.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/a26717feb7a1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

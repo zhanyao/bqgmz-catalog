@@ -1,7 +1,7 @@
 # Sermons on Various Important Subjects Written Partly on Sundry of the More Difficult Passages in the Sacred Volume
 
-**作者** Lee, Andrew, 1745-1832 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 93 题 · 459,425 字 ｜ **来源** Project Gutenberg
+**作者** Lee, Andrew, 1745-1832 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 29 章 · 459,425 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9b9954da3a2c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（459,425 字）。 |
-| 分章依据 | 按「题」标记切分为 93 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,940 字。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-chapter），拼接正文 10,663 行。 |
+| 篇幅分布 | 平均每章 15,518 字；最长 SERMON XXVIII.（23,804 字），最短 SERMON XXI.（9,370 字）。 |
 | 原文溯源 | `cache/epub/15031/pg15031.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. E-text prepared by Fredric B. Lozo
-2. By
-3. INTRODUCTION
-4. Fredric Lozo, January, 2005
-5. By
-6. October----1803
-7. PREFACE
-8. CONTENTS
-9. SERMON I.
-10. SERMON II.
+1. SERMON I.
+2. SERMON II.
+3. SERMON III.
+4. SERMON IV.
+5. SERMON V.
+6. SERMON VI.
+7. SERMON VII.
+8. SERMON VIII.
+9. SERMON IX.
+10. SERMON X.
 
-> 共 93 题，[完整目录与正文 →](https://www.bqgmz.top/b/9b9954da3a2c/)
+> 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/9b9954da3a2c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

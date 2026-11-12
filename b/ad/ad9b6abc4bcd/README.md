@@ -1,7 +1,7 @@
 # Murtuneita
 
-**作者** Halme, Kaarle, 1864-1946 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 48 题 · 91,551 字 ｜ **来源** Project Gutenberg
+**作者** Halme, Kaarle, 1864-1946 ｜ **国家/地区** 芬兰 ｜ **体例** 场  
+**规模** 4 场 · 91,551 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ad9b6abc4bcd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（91,551 字）。 |
-| 分章依据 | 按「题」标记切分为 48 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,907 字。 |
+| 分章依据 | 按「场」标记切分为 4 场（auto-local-act），拼接正文 3,469 行。 |
+| 篇幅分布 | 平均每场 22,833 字。 |
 | 原文溯源 | `cache/epub/74735/pg74735.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 场）
 
-1. MURTUNEITA
-2. Nelinäytöksinen näytelmä
-3. KAARLE HALME
-4. HENKILÖT:
-5. PENTTI. Niinpä niin. Tietysti. Mutta eihän sitä yli ajan —
-6. PENTTI. Kuuppas Eeville
-7. PENTTI (tekee kärsimättömän liikkeen). Sitä en juuri tarkottanut. —
-8. PENTTI (istuu Eevin viereen). Minä pidän Ainasta? —
-9. EEVI. Näetkös nyt! Sitähän minä —
-10. EEVI. Jos aita kestää, niin —
+1. Ensimäinen näytös.
+2. Toinen näytös.
+3. Kolmas näytös
+4. Neljäs näytös.
 
-> 共 48 题，[完整目录与正文 →](https://www.bqgmz.top/b/ad9b6abc4bcd/)
+> 共 4 场，[完整目录与正文 →](https://www.bqgmz.top/b/ad9b6abc4bcd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

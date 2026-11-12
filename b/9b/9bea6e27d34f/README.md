@@ -1,7 +1,7 @@
 # Lesestücke
 
-**作者** Hardekopf, Ferdinand, 1876-1954 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 51 题 · 69,839 字 ｜ **来源** Project Gutenberg
+**作者** Hardekopf, Ferdinand, 1876-1954 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 7 篇 · 69,839 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9bea6e27d34f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（69,839 字）。 |
-| 分章依据 | 按「题」标记切分为 51 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,369 字。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（auto-title-block），拼接正文 2,019 行。 |
+| 篇幅分布 | 平均每篇 6,917 字。 |
 | 原文溯源 | `cache/epub/38506/pg38506.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 篇）
 
-1. Produced by Jens Sadowski
-2. Aktions-Bücher der Aeternisten
-3. Ferdinand Hardekopf
-4. Lesestücke
-5. Vorwort
-6. F. H.
-7. Wir Gespenster
-8. Der Unterprimaner
-9. Konzentrisch
-10. Café
+1. Wintergarten
+2. Franz Blei
+3. Hebbels letzte Stunde
+4. II Spuren im Schnee
+5. III Sachliche Angaben
+6. IV Olafs Glück und Ende
+7. V Beisammensein
 
-> 共 51 题，[完整目录与正文 →](https://www.bqgmz.top/b/9bea6e27d34f/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9bea6e27d34f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

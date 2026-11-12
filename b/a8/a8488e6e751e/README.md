@@ -1,7 +1,7 @@
 # Poésies de Charles d'Orléans
 
-**作者** Charles, d'Orléans, 1394-1465 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 20 段 · 419,703 字 ｜ **来源** Project Gutenberg
+**作者** Charles, d'Orléans, 1394-1465 ｜ **国家/地区** 法国 ｜ **体例** 部分  
+**规模** 10 部分 · 419,703 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a8488e6e751e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（419,703 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,985 字；最长 [Note 39: Pag. 159.]（39,878 字），最短 Cueurs d'ennuy pieca morfondus,（19,466 字）。 |
+| 分章依据 | 按「部分」标记切分为 10 部分（fallback-chunk），拼接正文 20,975 行。 |
+| 篇幅分布 | 平均每部分 41,970 字；最长 第 7 部分（43,056 字），最短 第 10 部分（36,297 字）。 |
 | 原文溯源 | `cache/epub/14343/pg14343.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. [Note 39: Pag. 159.]
-2. On lit dans les manuscrits n° 1 et n° 2, une ballade et huit
-3. Beaulté respont: Sire, c'est bien raison
-4. Ne m'espargniez donc en rien de rudesse,
-5. L'ENVOY.
-6. Mon cueur dormant en nonchaloir,
-7. Mes yeux tense main et soir,
-8. BALADE.
-9. Priez, peuple qui souffrez tirannie,
-10. Ainsi, par ung temps l'atendoye,
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/a8488e6e751e/)
+> 共 10 部分，[完整目录与正文 →](https://www.bqgmz.top/b/a8488e6e751e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

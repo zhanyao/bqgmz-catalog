@@ -1,7 +1,7 @@
 # François le Bossu
 
-**作者** Ségur, Sophie, comtesse de, 1799-1874 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 12 段 · 256,347 字 ｜ **来源** Project Gutenberg
+**作者** Ségur, Sophie, comtesse de, 1799-1874 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 28 章 · 256,347 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a51a0b0107b3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（256,347 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,362 字；最长 M. DES ORMES（40,005 字），最短 Le déjeuner sembla long à Christine; dès qu'Isabelle fut prê（16,278 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-roman-title），拼接正文 8,941 行。 |
+| 篇幅分布 | 平均每章 28 字。 |
+| 起止 | 始于「I. Commencement d'amitié」，止于「XXIX. Paolo heureux.--Conclusion.」。 |
 | 原文溯源 | `cache/epub/13013/pg13013.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. M. DES ORMES
-2. GABRIELLE
-3. Christine alla à la cuisine demander son pain et son lait; e
-4. CHRISTINE
-5. --Mille remerciements, Monsieur; je suis heureux de savoir p
-6. Aucun événement extraordinaire ne vint plus troubler la tran
-7. --C'est impossible, Madame. D'abord je ne joue pas la comédi
-8. --C'est depuis qu'il m'a demandé de l'aimer comme j'aime Fra
-9. M. DE NANCÉ
-10. --A personne, personne! Je vous en prie, je vous en supplie,
+1. I. Commencement d'amitié
+2. III. Deux années qui font deux amis
+3. IV. Les caractères se dessinent
+4. V. Attaque et défense
+5. VI. Les tricheurs punis
+6. VII. Premier service rendu par Paolo à Christine
+7. VIII. Mina dévoilée
+8. IX. Grand embarras de Paolo
+9. X. François arrange l'affaire
+10. XI. M. des Ormes gâte l'affaire
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/a51a0b0107b3/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/a51a0b0107b3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

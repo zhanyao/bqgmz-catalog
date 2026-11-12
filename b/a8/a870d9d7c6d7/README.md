@@ -1,7 +1,7 @@
 # With Manchesters in the East
 
 **作者** Hurst, Gerald B. (Gerald Berkeley), Sir, 1877-1957 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 12 章 · 118,471 字 ｜ **来源** Project Gutenberg
+**规模** 13 章 · 118,471 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a870d9d7c6d7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（118,471 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,872 字；最长 CHAPTER I（14,630 字），最短 CHAPTER VIII（5,789 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XII」。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 2,768 行。 |
+| 篇幅分布 | 平均每章 8,927 字；最长 CHAPTER IV（13,230 字），最短 APPENDIX（4,855 字）。 |
 | 原文溯源 | `cache/epub/29927/pg29927.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/a870d9d7c6d7/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/a870d9d7c6d7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

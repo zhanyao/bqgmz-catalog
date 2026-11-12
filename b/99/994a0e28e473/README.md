@@ -1,7 +1,7 @@
 # Final report of the Pennsylvania Chestnut Tree Blight Commission
 
-**作者** Pennsylvania. Chestnut Tree Blight Commission ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 145 题 · 203,586 字 ｜ **来源** Project Gutenberg
+**作者** Pennsylvania. Chestnut Tree Blight Commission ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 29 章 · 203,586 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/994a0e28e473/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（203,586 字）。 |
-| 分章依据 | 按「题」标记切分为 145 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,404 字。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-caps-sections），拼接正文 5,566 行。 |
+| 篇幅分布 | 平均每章 7,020 字；最长 Bibliography（43,922 字），最短 UTILIZATION.（500 字）。 |
 | 原文溯源 | `cache/epub/79481/pg79481.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Commonwealth of Pennsylvania
-2. JANUARY 1 TO DECEMBER 15, 1913
-3. Pennsylvania Chestnut Tree Blight Commission
-4. MEMBERS OF COMMISSION
-5. EXECUTIVE STAFF
-6. SCIENTIFIC AND OPERATIVE STAFF
-7. Contents
-8. LETTER OF TRANSMITTAL.
-9. 1112 Morris Building, Broad and Chestnut Streets
-10. PROGRESS OF FIELD WORK.
+1. THE FIGHT TO SAVE THE CHESTNUT TREES; FINAL REPORT OF THE GENERAL
+2. MANAGER.
+3. BENEFICIAL INSECTS.
+4. PROTECTION OF ORCHARDS AND NURSERIES.
+5. PREVENTION OR REMEDY.
+6. CO-OPERATION.
+7. MUCH IMPORTANT WORK UNFINISHED.
+8. FIELD OPERATIONS.
+9. BETTER WORK IN WINTER.
+10. A HARMLESS SAPROPHYTE.
 
-> 共 145 题，[完整目录与正文 →](https://www.bqgmz.top/b/994a0e28e473/)
+> 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/994a0e28e473/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

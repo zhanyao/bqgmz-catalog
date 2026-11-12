@@ -1,7 +1,7 @@
 # Happiness: Essays on the meaning of life
 
-**作者** Hilty, Karl, 1833-1909; Peabody, Francis Greenwood, 1847-1936 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 145,228 字 ｜ **来源** Project Gutenberg
+**作者** Hilty, Karl, 1833-1909; Peabody, Francis Greenwood, 1847-1936 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 145,228 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a7343557c5a0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（145,228 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,746 字；最长 Again, there are a great many men, occupied in intellectual （39,926 字），最短 What infinite pains are taken by people in the modern world （5,508 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-title），拼接正文 3,127 行。 |
+| 篇幅分布 | 平均每章 17,422 字；最长 VI. HAPPINESS（28,334 字），最短 III. As to von Klinger’s third suggestion, it is to be said that（713 字）。 |
 | 原文溯源 | `cache/epub/68817/pg68817.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 8 章）
 
-1. Again, there are a great many men, occupied in intellectual
-2. Yet, as a matter of fact, he is only ready for his second st
-3. It must be sadly confessed that a great part of religious in
-4. With this point is obviously connected the need of orderline
-5. First of all, then, we must admit that happiness does not co
-6. Human nature, however, is so abounding in life and so eager
-7. What infinite pains are taken by people in the modern world
+1. I. THE ART OF WORK
+2. II. HOW TO FIGHT THE BATTLES OF LIFE
+3. III. As to von Klinger’s third suggestion, it is to be said that
+4. IV. As to the last of von Klinger’s paragraphs, it may be said to
+5. V. THE ART OF HAVING TIME
+6. VI. HAPPINESS
+7. VII. THE MEANING OF LIFE
+8. NOTES
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/a7343557c5a0/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/a7343557c5a0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

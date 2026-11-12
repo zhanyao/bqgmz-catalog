@@ -1,7 +1,7 @@
 # The massacre of St. Bartholomew
 
-**作者** White, Henry, 1812-1880 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 889,199 字 ｜ **来源** Project Gutenberg
+**作者** White, Henry, 1812-1880 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 20 篇 · 889,199 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9feb5d9fbc68/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（889,199 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 55,574 字；最长 [125] Throckmorton, writing to the Lords（85,772 字），最短 CHAPTER VII.（28,155 字）。 |
+| 分章依据 | 按「篇」标记切分为 20 篇（通用标记切分），拼接正文 19,216 行。 |
+| 篇幅分布 | 平均每篇 44,035 字；最长 CHAPTER II. HENRY II. [1547–1559.] Henry II.--Catherine and Diana--Montmorency--Coronation--King enters Paris--Fêtes--Heretic Burning--New Edicts--Chambres Ardentes--Edict of Chateaubriant--Persecution at Angers, Le Puy, Velay--Inquisition proposed--Resistance of Parliament--Siege and Battle of St. Quentin--Affair of the Rue St. Jacques--Martyrdom of Philippa de Lunz--Calvin’s Letter--Pré aux Clercs and Marot’s Psalms--Peace of Cateau-Cambresis--Divisions in the Paris Parliament--The Mercurial of June--Du Faur and Du Bourg arrested--First Synod of Reformed Churches--Confession of Faith and Book of Discipline--Edict of Ecouen--The Tournament--Henry’s Death（59,604 字），最短 CHAPTER IV. FRANCE AT THE ACCESSION OF CHARLES IX. [1560.] Contrast--Power of King and Nobles--The Provinces--Roads--Rate of Traveling--Forests--Wild Animals--Brigandage--Inns--League of the Loire--Agriculture--Condition of the Peasantry--Rent--Serfage--Wages--Cost of Provisions--Food--Sumptuary Laws--Social Changes--Ignorance of the People--Population of France--Taxation--Army and Navy--The Clergy--Superstitions--Justice--Punishments--Brutality of Manners--Domestic Architecture--Paris--Cities of France: Orleans, Rouen, Bordeaux, Dieppe, Lyons, Boulogne, Dijon, Moulins, St. Etienne, and Toulouse（3）（14,011 字）。 |
 | 原文溯源 | `cache/epub/75970/pg75970.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII.
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. CHAPTER X.
+1. CHAPTER I. INTRODUCTION. [1500–1547.] Causes of the Reformation--Lefevre of Etaples--Francis I.--Revival of Learning--La Renaissance--Clerical Manners--Early Converts and first Victims--Jacques Pavannes, Berquin--Margaret of Valois--Calvin and his Institutes--The King’s Inconstancy--Edict of Fontainebleau--Two Heretics burned--Treaty of Crespy--Vaudois Persecution--The Baron of Oppède--Massacre at Mérindol--Cry of Indignation--Sadolet, Bishop of Carpentras--Tragedy of Meaux--A Cloud of Witnesses--Stephen Dolet and Robert Stephens--Marot--The last Martyr--Death of Francis I.--His Funeral Sermon--His Character PAGE
+2. CHAPTER II. HENRY II. [1547–1559.] Henry II.--Catherine and Diana--Montmorency--Coronation--King enters Paris--Fêtes--Heretic Burning--New Edicts--Chambres Ardentes--Edict of Chateaubriant--Persecution at Angers, Le Puy, Velay--Inquisition proposed--Resistance of Parliament--Siege and Battle of St. Quentin--Affair of the Rue St. Jacques--Martyrdom of Philippa de Lunz--Calvin’s Letter--Pré aux Clercs and Marot’s Psalms--Peace of Cateau-Cambresis--Divisions in the Paris Parliament--The Mercurial of June--Du Faur and Du Bourg arrested--First Synod of Reformed Churches--Confession of Faith and Book of Discipline--Edict of Ecouen--The Tournament--Henry’s Death
+3. CHAPTER III. REIGN OF FRANCIS II. [1559–1560.] Catherine de Medicis--The Duke of Guise and the Cardinal of Lorraine--St. André--Anthony of Navarre and Condé--Coligny and Andelot--Disgrace of Montmorency--Persecuting Edicts--Execution of Du Bourg--Discontent in France--Edict of Chambord--La Renaudie--The Meeting at Nantes--Tumult of Amboise--Bloody Reprisals--Castelnau’s Trial and Execution--The Duke’s Viands--Aubigné and his Son--Grace of Amboise--Regnier de la Planche--Renewal of Persecutions--L’Hopital made Chancellor--Edict of Romorantin--Religious and Political Malcontents--Abuse of the Pulpit--The Tiger--General Lawlessness--Huguenot Violence--Demand for a Council--Montbrun and Mouvans--L’Hopital’s Inaugural Address--Les Politiques--The Notables at Fontainebleau--Montluc and Marillac--Meeting at Nerac--Address presented to Anthony--The Court at Orleans--Arrest and Trial of Condé--Death of Francis II（1）
+4. CHAPTER III. REIGN OF FRANCIS II. [1559–1560.] Catherine de Medicis--The Duke of Guise and the Cardinal of Lorraine--St. André--Anthony of Navarre and Condé--Coligny and Andelot--Disgrace of Montmorency--Persecuting Edicts--Execution of Du Bourg--Discontent in France--Edict of Chambord--La Renaudie--The Meeting at Nantes--Tumult of Amboise--Bloody Reprisals--Castelnau’s Trial and Execution--The Duke’s Viands--Aubigné and his Son--Grace of Amboise--Regnier de la Planche--Renewal of Persecutions--L’Hopital made Chancellor--Edict of Romorantin--Religious and Political Malcontents--Abuse of the Pulpit--The Tiger--General Lawlessness--Huguenot Violence--Demand for a Council--Montbrun and Mouvans--L’Hopital’s Inaugural Address--Les Politiques--The Notables at Fontainebleau--Montluc and Marillac--Meeting at Nerac--Address presented to Anthony--The Court at Orleans--Arrest and Trial of Condé--Death of Francis II（2）
+5. CHAPTER IV. FRANCE AT THE ACCESSION OF CHARLES IX. [1560.] Contrast--Power of King and Nobles--The Provinces--Roads--Rate of Traveling--Forests--Wild Animals--Brigandage--Inns--League of the Loire--Agriculture--Condition of the Peasantry--Rent--Serfage--Wages--Cost of Provisions--Food--Sumptuary Laws--Social Changes--Ignorance of the People--Population of France--Taxation--Army and Navy--The Clergy--Superstitions--Justice--Punishments--Brutality of Manners--Domestic Architecture--Paris--Cities of France: Orleans, Rouen, Bordeaux, Dieppe, Lyons, Boulogne, Dijon, Moulins, St. Etienne, and Toulouse（1）
+6. CHAPTER IV. FRANCE AT THE ACCESSION OF CHARLES IX. [1560.] Contrast--Power of King and Nobles--The Provinces--Roads--Rate of Traveling--Forests--Wild Animals--Brigandage--Inns--League of the Loire--Agriculture--Condition of the Peasantry--Rent--Serfage--Wages--Cost of Provisions--Food--Sumptuary Laws--Social Changes--Ignorance of the People--Population of France--Taxation--Army and Navy--The Clergy--Superstitions--Justice--Punishments--Brutality of Manners--Domestic Architecture--Paris--Cities of France: Orleans, Rouen, Bordeaux, Dieppe, Lyons, Boulogne, Dijon, Moulins, St. Etienne, and Toulouse（2）
+7. CHAPTER IV. FRANCE AT THE ACCESSION OF CHARLES IX. [1560.] Contrast--Power of King and Nobles--The Provinces--Roads--Rate of Traveling--Forests--Wild Animals--Brigandage--Inns--League of the Loire--Agriculture--Condition of the Peasantry--Rent--Serfage--Wages--Cost of Provisions--Food--Sumptuary Laws--Social Changes--Ignorance of the People--Population of France--Taxation--Army and Navy--The Clergy--Superstitions--Justice--Punishments--Brutality of Manners--Domestic Architecture--Paris--Cities of France: Orleans, Rouen, Bordeaux, Dieppe, Lyons, Boulogne, Dijon, Moulins, St. Etienne, and Toulouse（3）
+8. CHAPTER VI. FIRST RELIGIOUS WAR. [1562–1563.] Beginning of Reaction--Causes of the War--The Huguenots arm--Advice of Coligny’s Wife--Covenant of Association--Massacre at Sens and Sisteron--Discipline of the Armies--Catherine attempts to mediate--Conference at Thoury--Negotiations broken off--Fearful state of Paris--The Constable’s violence--Appeals to Foreign Sympathy--Successes of the Royalists--Atrocities at Blois and Tours--Rouen Besieged--The Breach stormed--The Hour of Vengeance--Pastor Marlorat hanged--Death of Anthony of Navarre--Disturbances in Normandy--Offer of Amnesty--Battle of Dreux--Condé and Montmorency captured--St. André killed--Siege of Orleans--Duke of Guise murdered--Poltrot de Méré--Pacification of Amboise--Distress caused by the War--Death of Coligny’s Son--Letter to his Wife
+9. CHAPTER VII. CHAOS. [1562–1563.] Nature of the Struggle--Montluc--His Barbarity--Des Adrets--His Ferocity--Murders at Gaillac--The Reform in Provence and Languedoc--Scenes at Orange--Revolt at Valence--Disturbances at Lyons--Compromise--La Rochelle--Massacre at Toulouse--Exodus of Sisteron--Sauteries of Macon--Limoux--Palm Sunday at Castelnaudary--The Monks of St. Calais--Violence in Berry--The Châtelaine of Avallon--The Proctor of Bar--Atrocities of the Bishop of Le Mans and his Lieutenant--Huguenot Cruelties at Dieppe and Bayeux--Angoulême--Quarrels at Court--Siege of Havre--Duplicity of English Government--Charles Proclaimed of Age--His Character--Council of Trent
+10. CHAPTER VIII. THE MEETING AT BAYONNE. [June, 1565–March, 1568.] The Royal progress--Bayonne in June--Identical note--Amusements--Political Deliberations--The Queen of Navarre Excommunicated--Catherine’s Remonstrance--The Pope yields--State of Gascony--Assembly of Notables at Moulins--Feud between Guise and Coligny--Montmorency and the Cardinal--Disturbed state of Maine--Montluc pacifies Gascony--Embassy from Germany--Rebellion in Flanders--March of Alva--Condé leaves the Court--Rumored Plot--Huguenot Meeting at Chatillon--War resolved upon--Attempt to seize Charles--Huguenot Rising--Battle of St. Denis--Death of the Constable--German Auxiliaries--Michelade of Nismes--Siege of Chartres--Peace of Longjumeau--Death of Coligny’s Wife
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/9feb5d9fbc68/)
+> 共 20 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9feb5d9fbc68/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

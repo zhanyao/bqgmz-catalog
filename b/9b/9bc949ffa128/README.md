@@ -1,7 +1,7 @@
 # Hoisting Appliances
 
-**作者** International Correspondence Schools ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 52 题 · 104,959 字 ｜ **来源** Project Gutenberg
+**作者** International Correspondence Schools ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 6 篇 · 104,959 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9bc949ffa128/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（104,959 字）。 |
-| 分章依据 | 按「题」标记切分为 52 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,018 字。 |
+| 分章依据 | 按「篇」标记切分为 6 篇（通用标记切分），拼接正文 2,590 行。 |
+| 篇幅分布 | 平均每篇 17,291 字。 |
 | 原文溯源 | `cache/epub/67844/pg67844.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 篇）
 
-1. Hoisting Appliances
-2. Entered at Stationers’ Hall, London
-3. All rights reserved
-4. CONTENTS
-5. Drums and Reels 6-20
-6. Cylindrical Drums 7-8
-7. Flat Rope Reels 17-20
-8. Rope Fastenings 27
-9. HOISTING, PART 4
-10. Hoisting Appliances 1-51
+1. Clutches 28-31 Jaw clutch; Band friction clutches; Beekman friction clutch. Brakes 32-43 Block brake; Post brake; Strap brake; Differential brake; Power for brakes; Differential lever; Power brakes; Crank brake. HOISTING, PART
+2. Hoisting Appliances 1-51 Sheaves 1-5 Cast-iron sheave; Wood-lined sheaves; Diameter of sheave; Rollers and carrying sheaves. Cages for Vertical Shafts 6-11 Construction of cage; Safety catches; Multiple-deck cages. Automatic Dumping Cages 12-16 Definition; Slope, or inclined shaft hoisting; Slope carriage. Skips, or Gunboats 17-22 Definition; Method of loading skips; Method of dumping skips; Skip cage. Buckets
+3. Landing Fans, or Keeps 26-28 Common forms of fans; Hydrostatic fans; Pneumatic fans; Cage chairs. Head-Frames 29-45 Head-frames in general; Types of head-frames; Examples of various types; Head-frame specification. Detaching Hooks 46-47 Signaling 48-51 Hammer-and-plate signal; Electric bells; Speaking tubes; Pneumatic gong signal; Telephones. HOISTING Serial 851C (PART 3) Edition
+4. feet deep at which the drum of the hoisting engine to be used is 10 feet in diameter; what ratio of gearing must be used so that the pointer will make one revolution during the hoist? SOLUTION.--The circumference of the drum is 31.42 ft. (π_D_ = 10 × 3.1416 = 31.416 ft.); hence, the revolutions per hoist are 800 ÷ 31.42 = 25.46 revolutions. Then, if the pointer is to make one revolution per hoist, the ratio of the gearing will be 25.46 to 1. Ans. EXAMPLE.--Find the length of a drum 6 feet 3 inches in diameter necessary to hold 1,000 feet of 1¼-inch wire-rope. SOLUTION.--The diameter from center to center of the rope when wound on the drum is 6 ft. 3 in. plus 1¼ in., or
+5. ft. 4¼ in., which is equal to 19.96 ft. (approximately 20 ft.) of circumference. Then, to wind 1,000 ft. will require ¹,⁰⁰⁰/₂₀ = 50 turns on the drum. Allowing two turns of the rope to protect the fastening and three turns in case of overwinding, gives fifty-five turns to be allowed for on the drum. If the drum is of iron with grooves turned in it, ¼ in. must be left between adjacent parts of the rope, or 1½ in. from the center of one turn to the center of the next. Then, 55 × 1½ = 82½ in. plus ¾ in. at each end = 84 in., or 7 ft. for the length of the drum between the flanges. Ans. If the drum has wooden lagging, clearance need not be allowed between two adjacent coils of rope, as in this case the rope winds against itself and so takes up only 1¼ in. It will then be 55 × 1¼ in. = 68¾ in., or 5 ft. 8¾ in. long (say 5 ft. 9 in.). Ans. POUNDS Weight of material 4,000 Weight of car 3,000 Weight of cage 3,000 Friction, 10 per cent. 1,000 ------ Total 11,000 If a 1⅜-inch cast-steel rope weighing 3 pounds per foot is used, winding about a drum 7 feet in diameter, the weight of rope is then 3 × 1,000 = 3,000 pounds and the load on the rope, when the cage is at the bottom, is 11,000 + 3,000 = 14,000 pounds, while at the top the load on the rope is only 11,000 pounds. The moment of the load at the bottom is then the load 14,000 multiplied by the radius 3½, or 14,000 × 3½ = 49,000 foot-pounds; and at the top, 11,000 × 3½ = 38,500 foot-pounds. POUNDS Weight of material 4,000 Weight of mine car 3,000 Weight of cage 3,000 Friction, 10 per cent. of above 1,000 Weight of rope 3,000 ------ Total 14,000 Multiplying this by the radius of the drum, the gross turning moment is 14,000 pounds × 3½ feet = 49,000 foot-pounds, as before, but there is a counterbalancing load of 6,000 pounds, made up as follows: POUNDS Weight of mine car 3,000 Weight of cage 3,000 ----- Total 6,000 Less friction, 10 per cent（1）
+6. ft. 4¼ in., which is equal to 19.96 ft. (approximately 20 ft.) of circumference. Then, to wind 1,000 ft. will require ¹,⁰⁰⁰/₂₀ = 50 turns on the drum. Allowing two turns of the rope to protect the fastening and three turns in case of overwinding, gives fifty-five turns to be allowed for on the drum. If the drum is of iron with grooves turned in it, ¼ in. must be left between adjacent parts of the rope, or 1½ in. from the center of one turn to the center of the next. Then, 55 × 1½ = 82½ in. plus ¾ in. at each end = 84 in., or 7 ft. for the length of the drum between the flanges. Ans. If the drum has wooden lagging, clearance need not be allowed between two adjacent coils of rope, as in this case the rope winds against itself and so takes up only 1¼ in. It will then be 55 × 1¼ in. = 68¾ in., or 5 ft. 8¾ in. long (say 5 ft. 9 in.). Ans. POUNDS Weight of material 4,000 Weight of car 3,000 Weight of cage 3,000 Friction, 10 per cent. 1,000 ------ Total 11,000 If a 1⅜-inch cast-steel rope weighing 3 pounds per foot is used, winding about a drum 7 feet in diameter, the weight of rope is then 3 × 1,000 = 3,000 pounds and the load on the rope, when the cage is at the bottom, is 11,000 + 3,000 = 14,000 pounds, while at the top the load on the rope is only 11,000 pounds. The moment of the load at the bottom is then the load 14,000 multiplied by the radius 3½, or 14,000 × 3½ = 49,000 foot-pounds; and at the top, 11,000 × 3½ = 38,500 foot-pounds. POUNDS Weight of material 4,000 Weight of mine car 3,000 Weight of cage 3,000 Friction, 10 per cent. of above 1,000 Weight of rope 3,000 ------ Total 14,000 Multiplying this by the radius of the drum, the gross turning moment is 14,000 pounds × 3½ feet = 49,000 foot-pounds, as before, but there is a counterbalancing load of 6,000 pounds, made up as follows: POUNDS Weight of mine car 3,000 Weight of cage 3,000 ----- Total 6,000 Less friction, 10 per cent（2）
 
-> 共 52 题，[完整目录与正文 →](https://www.bqgmz.top/b/9bc949ffa128/)
+> 共 6 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9bc949ffa128/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

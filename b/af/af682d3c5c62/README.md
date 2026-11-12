@@ -1,7 +1,7 @@
 # Journal of Researches into the Natural History and Geology of the Countries Visited During the Voyage Round the World of H.M.S. Beagle Under the Command of Captain Fitz Roy, R.N.
 
 **作者** Darwin, Charles, 1809-1882 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 21 章 · 1,017,121 字 ｜ **来源** Project Gutenberg
+**规模** 49 章 · 1,017,121 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/af682d3c5c62/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,017,121 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 48,434 字；最长 Chapter XXI（75,956 字），最短 Chapter VI（31,250 字）。 |
-| 起止 | 始于「Chapter I」，止于「Chapter XXI」。 |
+| 分章依据 | 按「章」标记切分为 49 章（auto-toc-title-list），拼接正文 21,159 行。 |
+| 篇幅分布 | 平均每章 20,476 字。 |
 | 原文溯源 | `cache/epub/3704/pg3704.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Chapter I
-2. Chapter II
-3. Chapter III
-4. Chapter IV
-5. Chapter V
-6. Chapter VI
-7. Chapter VII
-8. Chapter VIII
-9. Chapter IX
-10. Chapter X
+1. CHAPTER I
+2. Porto Praya — Ribeira Grande — Atmospheric Dust with Infusoria — Habits
+3. CHAPTER II
+4. Slavery — Botofogo Bay — Terrestrial Planariæ — Clouds on the
+5. Corcovado — Heavy Rain — Musical Frogs — Phosphorescent insects —
+6. Artifices of an Epeira — Gregarious Spider — Spider with an
+7. CHAPTER III
+8. Rio Negro — Estancias attacked by the Indians — Salt-Lakes — Flamingoes
+9. Families — General Rosas — Proceed to Bahia Blanca — Sand Dunes — Negro
+10. Lieutenant — Bahia Blanca — Saline incrustations — Punta Alta —
 
-> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/af682d3c5c62/)
+> 共 49 章，[完整目录与正文 →](https://www.bqgmz.top/b/af682d3c5c62/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

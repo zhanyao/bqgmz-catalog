@@ -1,7 +1,7 @@
 # Das Nest der Zaunkönige Erzählung aus dem Anfang des 11. Jahrhunderts
 
-**作者** Freytag, Gustav, 1816-1895 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 16 题 · 489,419 字 ｜ **来源** Project Gutenberg
+**作者** Freytag, Gustav, 1816-1895 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 13 章 · 489,419 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b170adbf38bb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（489,419 字）。 |
-| 分章依据 | 按「题」标记切分为 16 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 30,588 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-num），拼接正文 10,542 行。 |
+| 篇幅分布 | 平均每章 37,619 字；最长 5.（49,707 字），最短 13.（11,347 字）。 |
+| 起止 | 始于「1.」，止于「13.」。 |
 | 原文溯源 | `cache/epub/51151/pg51151.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Anmerkungen zur Transkription
-2. Gustav Freytag
-3. 114.--123. Tausend
-4. S. Hirzel Verlag Leipzig/1917
-5. »Du weilst ungern im Kloster, mir aber w
-6. »Der hochwürdige Herr von Magdeburg hat
-7. Auch Bernhard zog sein Schwert. »Auf ihn, schlagt den Frechen nieder.«
-8. Doch der König winkte ihm ungeduldig aufzustehen. »Antworte!«
-9. Der König fuhr in die Höhe. »Wie heißt der Kaufmann?«
-10. Der König nickte: »Daher die Schweigsamkeit des Jünglings.«
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 16 题，[完整目录与正文 →](https://www.bqgmz.top/b/b170adbf38bb/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/b170adbf38bb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

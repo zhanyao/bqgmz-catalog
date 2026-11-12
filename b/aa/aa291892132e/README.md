@@ -1,7 +1,7 @@
 # The Stronger Influence
 
-**作者** Young, F. E. Mills (Florence Ethel Mills), 1875- ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 15 段 · 301,644 字 ｜ **来源** Project Gutenberg
+**作者** Young, F. E. Mills (Florence Ethel Mills), 1875- ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 32 篇 · 301,644 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/aa291892132e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（301,644 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,109 字；最长 She believed that he resented, not only her speaking to him,（39,998 字），最短 So much had happened since those care-free days to change he（1,445 字）。 |
+| 分章依据 | 按「篇」标记切分为 32 篇（auto-magazine），拼接正文 7,461 行。 |
+| 篇幅分布 | 平均每篇 9,426 字；最长 Book 1--CHAPTER THREE（23,598 字），最短 Book 3--CHAPTER TWENTY-THREE（5,055 字）。 |
 | 原文溯源 | `cache/epub/38176/pg38176.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. She believed that he resented, not only her speaking to him,
-2. That night Esme lay wakeful in the darkness with a brain too
-3. "Very well," he replied. "Then, when you are tired, say so,
-4. When first it occurred to Esme to use her influence to wean
-5. When she came down again her brother-in-law had come home.
-6. "Yes!" she exclaimed, turning an interested, unsuspicious fa
-7. "Well, but he might have felt it worth his while to go back
-8. That this scene should come back to her now, obtruding itsel
-9. Marriage, like every other relationship in life, becomes wit
-10. Book 3--CHAPTER TWENTY-FIVE.
+1. Book 1--CHAPTER THREE
+2. Book 1--CHAPTER FOUR
+3. Book 1--CHAPTER FIVE
+4. Book 1--CHAPTER SEVEN
+5. Book 1--CHAPTER EIGHT
+6. Book 1--CHAPTER NINE
+7. Book 1--CHAPTER ELEVEN
+8. Book 2--CHAPTER TWELVE
+9. Book 2--CHAPTER THIRTEEN
+10. Book 2--CHAPTER FOURTEEN
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/aa291892132e/)
+> 共 32 篇，[完整目录与正文 →](https://www.bqgmz.top/b/aa291892132e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（279,466 字）。 |
-| 分章依据 | 按「章」标记切分为 26 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,748 字；最长 CHAPTER V--IN DRIPPING RAIN AND DARKNESS（14,514 字），最短 CHAPTER XXV--FAREWELL FOREVE（3,840 字）。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 6,559 行。 |
+| 篇幅分布 | 平均每章 10,698 字；最长 CHAPTER V--IN DRIPPING RAIN AND DARKNESS（14,514 字），最短 CHAPTER XXV--FAREWELL FOREVE（3,840 字）。 |
 | 起止 | 始于「CHAPTER I--THE BEGINNING OF IT ALL」，止于「CHAPTER XXVI--DOWN THE SUN-KISSED SLOPE TOGETHER」。 |
 | 原文溯源 | `cache/epub/42032/pg42032.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/afb4a0682e08/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

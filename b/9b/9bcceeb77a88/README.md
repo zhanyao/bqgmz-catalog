@@ -1,7 +1,7 @@
 # Storia della decadenza e rovina dell'impero romano, volume 04
 
-**作者** Gibbon, Edward, 1737-1794; Bertolotti, Davide, 1784-1860 [Translator] ｜ **国家/地区** 意大利 ｜ **体例** 题  
-**规模** 22 题 · 588,858 字 ｜ **来源** Project Gutenberg
+**作者** Gibbon, Edward, 1737-1794; Bertolotti, Davide, 1784-1860 [Translator] ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 12 章 · 588,858 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9bcceeb77a88/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（588,858 字）。 |
-| 分章依据 | 按「题」标记切分为 22 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 26,766 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-caps-sections），拼接正文 11,506 行。 |
+| 篇幅分布 | 平均每章 48,545 字；最长 NOTE:（5）（58,439 字），最短 XXV. 6.（8,649 字）。 |
 | 原文溯源 | `cache/epub/45218/pg45218.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. STORIA
-2. DELLA DECADENZA E ROVINA
-3. DELL'IMPERO ROMANO
-4. TRADUZIONE DALL'INGLESE
-5. VOLUME QUARTO
-6. STORIA DELLA DECADENZA E ROVINA DELL'IMPERO ROMANO
-7. CAPITOLO XX.
-8. NOTE:
-9. CAPITOLO XXI.
-10. Ma siccome Atanasio trovavasi continuame
+1. NOTE:（1）
+2. NOTE:（2）
+3. NOTE:（3）
+4. NOTE:（4）
+5. NOTE:（5）
+6. NOTE:（6）
+7. XXI. 5.（1）
+8. XXI. 5.（2）
+9. XXI. 5.（3）
+10. XXI. 5.（4）
 
-> 共 22 题，[完整目录与正文 →](https://www.bqgmz.top/b/9bcceeb77a88/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/9bcceeb77a88/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

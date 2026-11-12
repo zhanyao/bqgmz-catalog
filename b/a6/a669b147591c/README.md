@@ -1,7 +1,7 @@
 # Eri uria
 
-**作者** Maria, 1846-1916; Sipari, Fanny [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 11 题 · 597,365 字 ｜ **来源** Project Gutenberg
+**作者** Maria, 1846-1916; Sipari, Fanny [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 40 章 · 597,365 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a669b147591c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（597,365 字）。 |
-| 分章依据 | 按「题」标记切分为 11 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 54,305 字。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-num），拼接正文 13,874 行。 |
+| 篇幅分布 | 平均每章 14,869 字；最长 22.（30,691 字），最短 21.（1,165 字）。 |
+| 起止 | 始于「1.」，止于「40.」。 |
 | 原文溯源 | `cache/epub/55873/pg55873.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. ERI URIA
-2. Maria [Furuhjelm]
-3. Suomentanut F. S. [Fanny Sipari]
-4. SISÄLLYS:
-5. Äiti syleili hellästi tytärtään. --
-6. Janne vaikeni ja silmäili saappaittensa
-7. Setä ja täti pudistelivat vielä päätään,
-8. En ole vielä oppinut uskomaan, että olen
-9. -- Onhan niitä joitakuita, mutta turvatt
-10. -- Kaiketikin puhuu hän omasta kokemukse
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 11 题，[完整目录与正文 →](https://www.bqgmz.top/b/a669b147591c/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/a669b147591c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Robert Emmet: A Survey of His Rebellion and of His Romance
 
-**作者** Guiney, Louise Imogen, 1861-1920 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 103,094 字 ｜ **来源** Project Gutenberg
+**作者** Guiney, Louise Imogen, 1861-1920 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 54 篇 · 103,094 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b236511909d6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（103,094 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,618 字；最长 Sarah’s sad young face was typically Irish, her noble and to（39,183 字），最短 Some critics on the spindle side will find it easier to forg（3,699 字）。 |
+| 分章依据 | 按「篇」标记切分为 54 篇（通用标记切分），拼接正文 2,059 行。 |
+| 篇幅分布 | 平均每篇 1,898 字。 |
 | 原文溯源 | `cache/epub/51889/pg51889.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 篇）
 
-1. Sarah’s sad young face was typically Irish, her noble and to
-2. “I did not expect you to be my counsel. I nominated you, bec
-3. “MY DEAREST RICHARD: I find I have but a few hours to
-4. But before 1808 set in, Sarah’s strength seemed to be establ
-5. Some critics on the spindle side will find it easier to forg
+1. THE following unscientific monograph, a sort of little historical
+2. The portrait is after Brocas’s hurried court-room sketch, made the day
+3. THE four who lived to grow up of the seventeen children born to
+4. Rebecca Temple, only daughter of Thomas, a baronet’s son, married
+5. Temple Emmet, with his beautiful thought-burdened head, a little like
+6. The Emmet name was not destined to rise like a star where it had
+7. Robert Emmet was even surer of an illustrious career. Alas! There is
+8. He was born March 4, 1778, in his father’s house in St. Stephen Green
+9. When Emmet was in his twentieth year the so-called Rebellion, in which
+10. One of Robert Emmet’s college mates was Richard, youngest son of the
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/b236511909d6/)
+> 共 54 篇，[完整目录与正文 →](https://www.bqgmz.top/b/b236511909d6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

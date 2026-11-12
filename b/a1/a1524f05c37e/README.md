@@ -1,7 +1,7 @@
 # The Revival of Irish Literature Addresses by Sir Charles Gavan Duffy, K.C.M.G, Dr. George Sigerson, and Dr. Douglas Hyde
 
-**作者** Duffy, Charles Gavan, Sir, 1816-1903; Hyde, Douglas, 1860-1949; Sigerson, George, 1839-1925 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 162,129 字 ｜ **来源** Project Gutenberg
+**作者** Duffy, Charles Gavan, Sir, 1816-1903; Hyde, Douglas, 1860-1949; Sigerson, George, 1839-1925 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 4 章 · 162,129 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a1524f05c37e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（162,129 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,266 字；最长 Wherever there is an Irish bookseller, at home or in the two（39,864 字），最短 "A charming and suggestive piece of writing."--_Speaker._（1,923 字）。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-toc-title-list），拼接正文 3,381 行。 |
+| 篇幅分布 | 平均每章 33,729 字。 |
 | 原文溯源 | `cache/epub/32746/pg32746.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 4 章）
 
-1. Wherever there is an Irish bookseller, at home or in the two
-2. There is another class whose help we cannot spare--Irish jou
-3. Now, if we examine the mechanism of any of these elaborate v
-4. "The bulk of the settlers were men who, at least for one gen
-5. To say that Ireland has not prospered under English rule is
-6. But it is the last sixty years that have made most havoc wit
-7. [20] The following are a few instances out of hundreds of th
-8. "A charming and suggestive piece of writing."--_Speaker._
+1. 1. THE REVIVAL OF IRISH LITERATURE.
+2. 2. IRISH LITERATURE: ITS ORIGIN, ENVIRONMENT.
+3. 3. THE NECESSITY FOR DE-ANGLICISING IRELAND.
+4. BY DOUGLAS HYDE, LL.D.
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/a1524f05c37e/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/a1524f05c37e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

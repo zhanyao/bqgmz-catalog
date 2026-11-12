@@ -1,7 +1,7 @@
 # La liturgio de l' foiro (Elementoj por ekzegezo)
 
-**作者** Camacho, Jorge, 1966- ｜ **国家/地区** 世界语 ｜ **体例** 题  
-**规模** 36 题 · 113,786 字 ｜ **来源** Project Gutenberg
+**作者** Camacho, Jorge, 1966- ｜ **国家/地区** 世界语 ｜ **体例** 篇  
+**规模** 83 篇 · 113,786 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a42230f37307/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（113,786 字）。 |
-| 分章依据 | 按「题」标记切分为 36 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,160 字。 |
+| 分章依据 | 按「篇」标记切分为 83 篇（通用标记切分），拼接正文 2,990 行。 |
+| 篇幅分布 | 平均每篇 1,360 字。 |
 | 原文溯源 | `cache/epub/23586/pg23586.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. LA LITURGIO DE L' FOIRO
-2. KUN SUPLEMENTO
-3. Jorge Camacho
-4. Enhavo
-5. La liturgio de l' foiro
-6. Suplemento
-7. Manifesto de Raŭmo
-8. 1. Krizo de identeco
-9. 2. Kritiko de praceloj
-10. 3. Niaj celoj
+1. La subskribintoj konstatis kontraŭdiron en la sinteno de la
+2. b) la faligo de la angla lingvo estas nek tasko nek zorgo de la
+3. Lige kun la lasta valoro, ni emfazas ke la serĉado de propra
+4. Internaciaj kongresoj kaj renkontiĝoj estas esencaj por la
+5. Ni kredas ke la unua jarcento de Esperanto pruvis la taŭgecon de
+6. Dek sep jarojn poste malmultaj konsentas pri la signifo de la
+7. studo de Sándor Révész pri ĝia komenca
+8. Lindstedt eksplicite detiras sin de la ortodoksa varianto, dum
+9. Kio estas foirismo? Ni legu unue, kiel ĝin difinas foiristoj
+10. Mi daŭre miras pro la populariĝo de _transnacia_ anstataŭ
 
-> 共 36 题，[完整目录与正文 →](https://www.bqgmz.top/b/a42230f37307/)
+> 共 83 篇，[完整目录与正文 →](https://www.bqgmz.top/b/a42230f37307/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

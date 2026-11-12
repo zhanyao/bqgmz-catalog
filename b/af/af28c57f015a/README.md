@@ -1,7 +1,7 @@
 # Wrecked in Port: A Novel
 
 **作者** Yates, Edmund, 1831-1894 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 32 章 · 698,421 字 ｜ **来源** Project Gutenberg
+**规模** 37 章 · 698,421 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/af28c57f015a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（698,421 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,825 字；最长 CHAPTER XXXII.（73,527 字），最短 CHAPTER XIV.（11,788 字）。 |
+| 分章依据 | 按「章」标记切分为 37 章（auto-chapter），拼接正文 15,455 行。 |
+| 篇幅分布 | 平均每章 18,836 字；最长 CHAPTER XXXII.（39,327 字），最短 CHAPTER XXXVIII.（10,392 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXVIII.」。 |
 | 原文溯源 | `cache/epub/61447/pg61447.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/af28c57f015a/)
+> 共 37 章，[完整目录与正文 →](https://www.bqgmz.top/b/af28c57f015a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

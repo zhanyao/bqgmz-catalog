@@ -1,7 +1,7 @@
 # Candide, ou l'optimisme（#59859）
 
-**作者** Voltaire, 1694-1778; Sarcey, Francisque, 1827-1899 [Author of introduction, etc.]; Moreau, Adrien, 1843-1906 [Illustrator] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 8 段 · 174,590 字 ｜ **来源** Project Gutenberg
+**作者** Voltaire, 1694-1778; Sarcey, Francisque, 1827-1899 [Author of introduction, etc.]; Moreau, Adrien, 1843-1906 [Illustrator] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 39 章 · 174,590 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a43fe0eeee30/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（174,590 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,823 字；最长 Mme la baronne, qui pesait environ trois cent cinquante livr（40,021 字），最短 Candide leur présentait Martin et Cacambo. Ils s'embrassaien（14,784 字）。 |
+| 分章依据 | 按「章」标记切分为 39 章（auto-roman-title），拼接正文 4,055 行。 |
+| 篇幅分布 | 平均每章 4,427 字。 |
+| 起止 | 始于「I. CANDIDE EMBRASSE CUNÉGONDE」，止于「XXX. CONCLUSION（部2）」。 |
 | 原文溯源 | `cache/epub/59859/pg59859.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. Mme la baronne, qui pesait environ trois cent cinquante livr
-2. Après le tremblement de terre qui avait détruit les trois qu
-3. À peine fûmes-nous débarquées, que des noirs d'une faction e
-4. Candide et son valet furent au delà des barrières, et person
-5. Ce fut un beau spectacle que leur départ et la manière ingén
-6. C'est ainsi que Candide, Martin et le Périgourdin raisonnaie
-7. Martin, se tournant vers Candide avec son sang-froid ordinai
-8. Candide leur présentait Martin et Cacambo. Ils s'embrassaien
+1. I. CANDIDE EMBRASSE CUNÉGONDE
+2. II. LE TREMBLEMENT DE TERRE DE LISBONNE
+3. III. CUNÉGONDE ET LE SOLDAT BULGARE
+4. IV. LA TOILETTE DE LA JEUNE PRINCESSE
+5. V. DÉCLARATION DU GOUVERNEUR DE BUENOS-AYRES À CUNÉGONDE
+6. VI. AU PAYS DES OREILLONS
+7. VII. UN DÎNER DANS L'ELDORADO
+8. VIII. LA JARRETIÈRE DE LA MARQUISE
+9. IX. PAQUETTE ET FRÈRE GIROFLÉE
+10. I. COMMENT CANDIDE FUT ÉLEVÉ DANS UN BEAU CHÂTEAU, ET COMMENT IL FUT CHASSÉ D'CELUI.（部2）
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/a43fe0eeee30/)
+> 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/a43fe0eeee30/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

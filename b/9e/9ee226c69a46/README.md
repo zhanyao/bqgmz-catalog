@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（372,680 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 31,056 字；最长 CHAPTER XII--IN NEW GUINEA（57,854 字），最短 CHAPTER III--SOUTH SEA OPERA BOUFFE（10,496 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 8,087 行。 |
+| 篇幅分布 | 平均每章 30,517 字；最长 CHAPTER XII--IN NEW GUINEA（57,854 字），最短 CHAPTER III--SOUTH SEA OPERA BOUFFE（10,496 字）。 |
 | 起止 | 始于「CHAPTER I--ROMANCE'S FIRST THRILL」，止于「CHAPTER XII--IN NEW GUINEA」。 |
 | 原文溯源 | `cache/epub/40614/pg40614.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/9ee226c69a46/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

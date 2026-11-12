@@ -1,7 +1,7 @@
 # El Marqués de Bradomín: Coloquios Románticos
 
-**作者** Valle-Inclán, Ramón del, 1866-1936 ｜ **国家/地区** 西班牙 ｜ **体例** 段  
-**规模** 5 段 · 100,949 字 ｜ **来源** Project Gutenberg
+**作者** Valle-Inclán, Ramón del, 1866-1936 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 46 章 · 100,949 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ad75a96d9400/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（100,949 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,189 字；最长 ¡Santa Lucía bendita vos conserve la amable vista y salud en（40,008 字），最短 Paisajes                                                    （834 字）。 |
+| 分章依据 | 按「章」标记切分为 46 章（auto-caps-sections），拼接正文 5,605 行。 |
+| 篇幅分布 | 平均每章 2,039 字；最长 ESTE AÑO DE MCMVII（18,470 字），最短 DON JUAN MANUEL（311 字）。 |
 | 原文溯源 | `cache/epub/58049/pg58049.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. ¡Santa Lucía bendita vos conserve la amable vista y salud en
-2. Pero es siempre un gran señor. Vive rodeado de criados que n
-3. Es edificante... Pero temo...
-4. la aparente Iniquidad de los hombres, llena una tarea divina
-5. Paisajes
+1. FLORISEL
+2. LA QUEMADA
+3. MINGUIÑA
+4. LA DAMA
+5. LA DAMA
+6. LA MADRE CRUCES
+7. LA MADRE CRUCES
+8. LA MADRE CRUCES
+9. ELECTUS
+10. MINGUIÑA
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/ad75a96d9400/)
+> 共 46 章，[完整目录与正文 →](https://www.bqgmz.top/b/ad75a96d9400/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

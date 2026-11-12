@@ -1,7 +1,7 @@
 # Little Pilgrimages Among the Men Who Have Written Famous Books
 
-**作者** Harkins, E. F. (Edward Francis), 1872- ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 37 题 · 210,131 字 ｜ **来源** Project Gutenberg
+**作者** Harkins, E. F. (Edward Francis), 1872- ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 19 章 · 210,131 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a1a6479d9769/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（210,131 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,679 字。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-toc-title-list），拼接正文 4,640 行。 |
+| 篇幅分布 | 平均每章 10,901 字；最长 Robert Neilson Stephens（24,888 字），最短 Thomas Nelson Page（9,519 字）。 |
 | 原文溯源 | `cache/epub/45610/pg45610.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LITTLE PILGRIMAGES AMONG THE MEN WHO HAVE WRITTEN FAMOUS BOOKS
-2. WILLIAM DEAN HOWELLS.]
-3. LITTLE PILGRIMAGES AMONG THE MEN WHO HAVE WRITTEN FAMOUS BOOKS
-4. E. F. Harkins
-5. Illustrated
-6. All rights reserved
-7. PREFACE
-8. CONTENTS
-9. LIST OF ILLUSTRATIONS
-10. WILLIAM DEAN HOWELLS
+1. William Dean Howells
+2. Bret Harte
+3. Mark Twain
+4. "Lew" Wallace
+5. George W. Cable
+6. Henry James
+7. Francis Richard Stockton
+8. Joel Chandler Harris
+9. S. Weir Mitchell
+10. Robert Grant
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/a1a6479d9769/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/a1a6479d9769/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

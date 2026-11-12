@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（579,871 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 48,322 字；最长 CHAPTER X.（75,822 字），最短 CHAPTER VIII.（24,595 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-part），拼接正文 11,637 行。 |
+| 篇幅分布 | 平均每章 46,560 字；最长 BOOK VII.（7）（57,683 字），最短 BOOK VII.（8）（316 字）。 |
 | 原文溯源 | `cache/epub/38209/pg38209.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII.
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. CHAPTER X.
+1. BOOK VII.（1）
+2. BOOK VII.（2）
+3. BOOK VII.（3）
+4. BOOK VII.（4）
+5. BOOK VII.（5）
+6. BOOK VII.（6）
+7. BOOK VII.（7）
+8. BOOK VII.（8）
+9. BOOK VIII.（1）
+10. BOOK VIII.（2）
 
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/ad0f1352fc96/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

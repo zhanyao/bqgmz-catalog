@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,008,691 字）。 |
-| 分章依据 | 按「章」标记切分为 42 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,016 字；最长 CHAPTER XXXVI. -- OF NO CONSEQUENCE.（35,635 字），最短 CHAPTER XLII. -- DISENCHANTED.（11,365 字）。 |
+| 分章依据 | 按「章」标记切分为 42 章（auto-chapter），拼接正文 26,838 行。 |
+| 篇幅分布 | 平均每章 23,994 字；最长 CHAPTER XXXVI. -- OF NO CONSEQUENCE.（35,635 字），最短 CHAPTER XLII. -- DISENCHANTED.（11,365 字）。 |
 | 起止 | 始于「CHAPTER I.--JOE BROWNLOW’S FANCY.」，止于「CHAPTER XLII. -- DISENCHANTED.」。 |
 | 原文溯源 | `cache/epub/5080/pg5080.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/9afc7dafd392/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

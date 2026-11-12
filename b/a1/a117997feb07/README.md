@@ -1,7 +1,7 @@
 # Early Greek philosophy
 
 **作者** Burnet, John, 1863-1928 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 708,813 字 ｜ **来源** Project Gutenberg
+**规模** 11 章 · 708,813 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a117997feb07/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（708,813 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 70,881 字；最长 CHAPTER I（139,249 字），最短 CHAPTER VIII（37,204 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER X」。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 18,793 行。 |
+| 篇幅分布 | 平均每章 59,129 字；最长 CHAPTER II（95,976 字），最短 CHAPTER X（21,255 字）。 |
 | 原文溯源 | `cache/epub/67097/pg67097.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/a117997feb07/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/a117997feb07/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Seekers
 
-**作者** Sampter, Jessie E. (Jessie Ethel), 1883-1938; Royce, Josiah, 1855-1916 [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 15 段 · 318,140 字 ｜ **来源** Project Gutenberg
+**作者** Sampter, Jessie E. (Jessie Ethel), 1883-1938; Royce, Josiah, 1855-1916 [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 6 章 · 318,140 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9e166a365955/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（318,140 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,209 字；最长 FLORENCE, a young friend, fifteen years old, but much older （39,644 字），最短 1. God as Self (read from Vedas), as the completion of（17,850 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-roman-title），拼接正文 9,176 行。 |
+| 篇幅分布 | 平均每章 3,161 字。 |
+| 起止 | 始于「I. CONDITIONS TO-DAY:」，止于「VI. ARCHITECTURE:」。 |
 | 原文溯源 | `cache/epub/52660/pg52660.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 6 章）
 
-1. FLORENCE, a young friend, fifteen years old, but much older
-2. As I developed this idea, the children said very little, onl
-3. I went on: “One might lose the ability to do mathematics, wh
-4. “At first man was more like an animal, but after centuries h
-5. Ruth thought that life would be meaningless if we were not i
-6. “So one might speak,” she said, “of a person developing his
-7. On the subject of unimportant details and characters, we had
-8. “The artist,” I said, “is one who sees things beautiful, eve
-9. I went on to the last law, which was the only one I had some
-10. “We have not met for so long,” I said, “I wonder whether you
+1. I. CONDITIONS TO-DAY:
+2. II. HISTORIC REASONS FOR PRESENT CONDITIONS:
+3. III. WHAT MUST WE DO TO-DAY?
+4. IV. WHAT DOES EACH ONE BELIEVE CONCERNING GOD?
+5. V. “I AM” EXPRESSES IMMORTALITY:
+6. VI. ARCHITECTURE:
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/9e166a365955/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/9e166a365955/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

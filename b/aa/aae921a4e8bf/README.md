@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（205,844 字）。 |
-| 分章依据 | 按「章」标记切分为 26 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,917 字；最长 CHAPTER XXIV—AN APPEAL FOR HELP（21,914 字），最短 CHAPTER X—DRAWING A RASCAL’S FANGS（5,373 字）。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 5,779 行。 |
+| 篇幅分布 | 平均每章 7,877 字；最长 CHAPTER XXIV—AN APPEAL FOR HELP（21,914 字），最短 CHAPTER X—DRAWING A RASCAL’S FANGS（5,373 字）。 |
 | 起止 | 始于「CHAPTER I—THE WIRELESS AT LONE ISLAND」，止于「CHAPTER XXVI—AN ASTOUNDING DISCOVERY」。 |
 | 原文溯源 | `cache/epub/53302/pg53302.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/aae921a4e8bf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

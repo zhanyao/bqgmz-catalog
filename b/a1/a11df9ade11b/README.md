@@ -1,7 +1,7 @@
 # The Bay State Monthly — Volume 2, No. 2, November, 1884
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 155,505 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 5 篇 · 155,505 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a11df9ade11b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（155,505 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,215 字；最长 And now, Grover Cleveland stands before the people of the wh（40,025 字），最短 The Maverick House was opened on Noddies or Williams Island （15,502 字）。 |
+| 分章依据 | 按「篇」标记切分为 5 篇（通用标记切分），拼接正文 3,410 行。 |
+| 篇幅分布 | 平均每篇 30,266 字；最长 V. Grover Cleveland, third son and fifth child of Richard Falley and（2）（55,459 字），最短 II. Aaron Cleveland, born at East Haddam, Conn., February 9, 1744. He（320 字）。 |
+| 起止 | 始于「II. Aaron Cleveland, born at East Haddam, Conn., February 9, 1744. He」，止于「V. Grover Cleveland, third son and fifth child of Richard Falley and（3）」。 |
 | 原文溯源 | `cache/epub/13741/pg13741.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 5 篇）
 
-1. And now, Grover Cleveland stands before the people of the wh
-2. Read and accepted, and _Resolved_, That in Lieu of Lands men
-3. "You have too high estimation of my powers," returned Mrs. E
-4. However, inasmuch as the authority with which the society so
-5. Yet, valuable, useful, and productive as the canal had prove
-6. The Blue Anchor Tavern (the second of that name) was built i
-7. The Maverick House was opened on Noddies or Williams Island
+1. II. Aaron Cleveland, born at East Haddam, Conn., February 9, 1744. He
+2. III. William Cleveland, second son of the above, a silversmith by
+3. V. Grover Cleveland, third son and fifth child of Richard Falley and（1）
+4. V. Grover Cleveland, third son and fifth child of Richard Falley and（2）
+5. V. Grover Cleveland, third son and fifth child of Richard Falley and（3）
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/a11df9ade11b/)
+> 共 5 篇，[完整目录与正文 →](https://www.bqgmz.top/b/a11df9ade11b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

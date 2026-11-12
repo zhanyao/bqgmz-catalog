@@ -1,7 +1,7 @@
 # Die Schatzinsel: Roman
 
-**作者** Stevenson, Robert Louis, 1850-1894; Hoerschelmann, Rolf von, 1885-1947 [Illustrator] ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 80 题 · 336,783 字 ｜ **来源** Project Gutenberg
+**作者** Stevenson, Robert Louis, 1850-1894; Hoerschelmann, Rolf von, 1885-1947 [Illustrator] ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 6 篇 · 336,783 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a96507ef8cdd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（336,783 字）。 |
-| 分章依据 | 按「题」标记切分为 80 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,209 字。 |
+| 分章依据 | 按「篇」标记切分为 6 篇（通用标记切分），拼接正文 8,227 行。 |
+| 篇幅分布 | 平均每篇 41,190 字；最长 Die Seereise（1）（55,015 字），最短 Silvers Sendung（9,423 字）。 |
 | 原文溯源 | `cache/epub/49424/pg49424.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 篇）
 
-1. Stevenson / Die Schatzinsel
-2. Robert Louis Stevenson
-3. Die Schatzinsel
-4. Roman
-5. 6.-15. Tausend
-6. Mit Zeichnungen von Rolf von Hoerschelmann
-7. Drei Masken Verlag München 1922
-8. An den zögernden Käufer
-9. Erstes Kapitel
-10. Der alte Seebär im „Admiral Benbow“
+1. Die Seereise（1）
+2. Die Seereise（2）
+3. Silvers Sendung
+4. Der Angriff
+5. Israel Hands
+6. Auf Ehrenwort
 
-> 共 80 题，[完整目录与正文 →](https://www.bqgmz.top/b/a96507ef8cdd/)
+> 共 6 篇，[完整目录与正文 →](https://www.bqgmz.top/b/a96507ef8cdd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

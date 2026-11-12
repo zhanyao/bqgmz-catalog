@@ -1,7 +1,7 @@
 # From the Five Rivers
 
-**作者** Steel, Flora Annie Webster, 1847-1929 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 10 段 · 213,674 字 ｜ **来源** Project Gutenberg
+**作者** Steel, Flora Annie Webster, 1847-1929 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 213,674 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a9965cd6a03c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（213,674 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,367 字；最长 The _lumberdar's_ women folk looked at each other, for once （39,951 字），最短 So they sat side by side in the grip of death, his head on h（13,392 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-roman-bare），拼接正文 5,671 行。 |
+| 篇幅分布 | 平均每章 13,300 字；最长 V.（52,443 字），最短 II.（部4）（633 字）。 |
+| 起止 | 始于「I.」，止于「IV.（部4）」。 |
 | 原文溯源 | `cache/epub/39821/pg39821.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. The _lumberdar's_ women folk looked at each other, for once
-2. If some rankling doubt as to the honesty of his silence ling
-3. "Willie," Mark Twain tells us, "had a purple monkey climbing
-4. "Khan Azmutoollah Khan sahib," called British majesty, "what
-5. When they went down on the following evening to see the pati
-6. "Come outside, daughter," he said, with a curse; "one cannot
-7. Shahbash sat up and opened his mouth with a tremendous yawn.
-8. "But there are already three babies in the primary!" shrille
-9. The little, large-eyed, gentle mites, ranged solemnly behind
-10. So they sat side by side in the grip of death, his head on h
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. I.（部2）
+7. II.（部2）
+8. III.（部2）
+9. IV.（部2）
+10. I.（部3）
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/a9965cd6a03c/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/a9965cd6a03c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

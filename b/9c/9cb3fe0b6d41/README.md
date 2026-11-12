@@ -11,13 +11,13 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（165,929 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,436 字；最长 SECTION IX.（30,274 字），最短 SECTION VI.（6,413 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 3,428 行。 |
+| 篇幅分布 | 平均每章 18,191 字；最长 SECTION IX.（30,274 字），最短 SECTION VI.（6,413 字）。 |
 | 原文溯源 | `cache/epub/31045/pg31045.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
 
-1. SECTION I.
+1. SECTION I. PRINCIPLES OF ART 1
 2. SECTION II.
 3. SECTION III.
 4. SECTION IV.
@@ -30,4 +30,4 @@
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/9cb3fe0b6d41/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

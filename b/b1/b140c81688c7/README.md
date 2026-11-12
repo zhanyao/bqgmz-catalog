@@ -1,7 +1,7 @@
 # La peur
 
-**作者** Haraucourt, Edmond, 1856-1941 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 29 题 · 253,121 字 ｜ **来源** Project Gutenberg
+**作者** Haraucourt, Edmond, 1856-1941 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 3 篇 · 253,121 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b140c81688c7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（253,121 字）。 |
-| 分章依据 | 按「题」标记切分为 29 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,728 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（auto-title-block），拼接正文 6,998 行。 |
+| 篇幅分布 | 平均每篇 34,491 字。 |
 | 原文溯源 | `cache/epub/64023/pg64023.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 篇）
 
-1. EDMOND HARAUCOURT
-2. LA PEUR
-3. EUGÈNE FASQUELLE, ÉDITEUR, 11, RUE DE GRENELLE, PARIS.
-4. DU MÊME AUTEUR
-5. DANS LA BIBLIOTHÈQUE-CHARPENTIER
-6. THÉATRE
-7. A la mémoire
-8. MAURICE ROLLINAT
-9. E. H.
-10. LA PEUR
+1. LA BARATTE
+2. LA BOMBE
+3. LES SABOTS DE NOËL
 
-> 共 29 题，[完整目录与正文 →](https://www.bqgmz.top/b/b140c81688c7/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/b140c81688c7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

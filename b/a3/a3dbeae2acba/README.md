@@ -1,7 +1,7 @@
 # An Essay on War, in Blank Verse; Honington Green, a Ballad; the Culprit, an Elegy; and Other Poems, on Various Subjects
 
-**作者** Bloomfield, Nathaniel, 1759-1831 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 3 段 · 64,883 字 ｜ **来源** Project Gutenberg
+**作者** Bloomfield, Nathaniel, 1759-1831 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 3 章 · 64,883 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a3dbeae2acba/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（64,883 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,627 字。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-caps-sections），拼接正文 2,223 行。 |
+| 篇幅分布 | 平均每章 21,627 字。 |
 | 原文溯源 | `cache/epub/11564/pg11564.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 3 章）
 
-1. I prevail'd, notwithstanding, that this word, whose anti-poe
-2. The proud City's gay wealthy train.
-3. Have you seen the delightless abode,
+1. CAPEL LOFFT.
+2. C.L.]
+3. ON THE ENCLOSURE OF HONINGTON GREEN.
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/a3dbeae2acba/)
+> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/a3dbeae2acba/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

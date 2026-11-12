@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（273,946 字）。 |
-| 分章依据 | 按「章」标记切分为 30 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,131 字；最长 CHAPTER XXV—TO THE VICTORS（12,246 字），最短 CHAPTER XIV—BAFFLING STRATEGY（5,564 字）。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-chapter），拼接正文 7,404 行。 |
+| 篇幅分布 | 平均每章 9,102 字；最长 CHAPTER XXV—TO THE VICTORS（12,246 字），最短 CHAPTER XIV—BAFFLING STRATEGY（5,564 字）。 |
 | 起止 | 始于「CHAPTER I—THE SILVER LINING」，止于「CHAPTER XXX—THE ACORN AND THE OAK」。 |
 | 原文溯源 | `cache/epub/40908/pg40908.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/a5e4920c6cb4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

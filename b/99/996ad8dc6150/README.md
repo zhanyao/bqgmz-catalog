@@ -1,7 +1,7 @@
 # Le Démon Secret
 
-**作者** Gilbert de Voisins, Auguste, 1877-1939 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 10 段 · 200,520 字 ｜ **来源** Project Gutenberg
+**作者** Gilbert de Voisins, Auguste, 1877-1939 ｜ **国家/地区** 法国 ｜ **体例** 部分  
+**规模** 5 部分 · 200,520 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/996ad8dc6150/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（200,520 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,052 字；最长 C’est, après l’antichambre, un grand atelier blanc, avec une（39,695 字），最短 Je te dis adieu à toi surtout, car, sur le quai de la gare, （430 字）。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 5,288 行。 |
+| 篇幅分布 | 平均每部分 40,104 字；最长 第 4 部分（42,477 字），最短 第 5 部分（31,780 字）。 |
 | 原文溯源 | `cache/epub/68281/pg68281.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 5 部分）
 
-1. C’est, après l’antichambre, un grand atelier blanc, avec une
-2. Je suis couché, je cherche le sommeil, l’oreille pleine du f
-3. Plus tard, quand nous fûmes seuls, je m’inquiétai soudain, t
-4. Ah! si je trouvais quelqu’un qui voulût me pousser, de ce pa
-5. Vers deux heures du matin, Giacinto rentrera en jurant. Il g
-6. Tais-toi, flûteur! souffre que je reste couché sur ces natte
-7. Un lézard passait dans l’herbe. Un oiseau chantait. Une saut
-8. Ou bien, si la volonté personnelle s’annihile, au jour de la
-9. Ted Williams est à Londres. Avant-hier, j’ai reçu une lettre
-10. Je te dis adieu à toi surtout, car, sur le quai de la gare,
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/996ad8dc6150/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/996ad8dc6150/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

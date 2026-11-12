@@ -1,7 +1,7 @@
 # Akbar: een oosterse roman
 
-**作者** Limburg Brouwer, P. A. S. van (Petrus Abraham Samuel), 1829-1873 ｜ **国家/地区** 荷兰 ｜ **体例** 段  
-**规模** 21 段 · 439,796 字 ｜ **来源** Project Gutenberg
+**作者** Limburg Brouwer, P. A. S. van (Petrus Abraham Samuel), 1829-1873 ｜ **国家/地区** 荷兰 ｜ **体例** 篇  
+**规模** 8 篇 · 439,796 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a3496d1ad189/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（439,796 字）。 |
-| 分章依据 | 按「段」标记切分为 21 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,942 字；最长 De eenvoudige en gemakkelijke toon van den overigens zoo sta（39,695 字），最短 --Gij bewondert onze paleizen,--sprak Feizi tot Siddha,--en （18,047 字）。 |
+| 分章依据 | 按「篇」标记切分为 8 篇（通用标记切分），拼接正文 10,033 行。 |
+| 篇幅分布 | 平均每篇 43,845 字；最长 Akbar（57,328 字），最短 Selim（3）（5,569 字）。 |
 | 原文溯源 | `cache/epub/6712/pg6712.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 篇）
 
-1. De eenvoudige en gemakkelijke toon van den overigens zoo sta
-2. --Nu,--hernam de ander,--gij zoudt het toch bij gelegenheid
-3. Vermogt hij ook nu nog niet spoedig den slaap te vatten, en
-4. --Gij bewondert onze paleizen,--sprak Feizi tot Siddha,--en
-5. --Dat--zeide hij, de hand op Siddha's schouder leggend, en z
-6. Niet lang had Siddha, omstreeks den bepaalden tijd, in de
-7. Spoedig ontwaarde Siddha, toen hij de zware en flauw verlich
-8. Enkele andere personen, blijkbaar mede wel vertrouwde bekend
-9. --Dat staat weer gelijk,--antwoordde Akbar,--met het gezag v
-10. --Ach, Siddha!--klonk het droef klagend en in den zoetsten t
+1. Akbar
+2. Selim（1）
+3. Selim（2）
+4. Selim（3）
+5. Verrassingen
+6. Aanslagen
+7. Afscheid
+8. Beterschap
 
-> 共 21 段，[完整目录与正文 →](https://www.bqgmz.top/b/a3496d1ad189/)
+> 共 8 篇，[完整目录与正文 →](https://www.bqgmz.top/b/a3496d1ad189/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

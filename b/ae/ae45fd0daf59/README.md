@@ -1,7 +1,7 @@
 # Kino und Erdkunde Lichtbühnen-Bibliothek Nr. 7
 
-**作者** Häfker, Hermann, 1873-1939 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 8 段 · 169,739 字 ｜ **来源** Project Gutenberg
+**作者** Häfker, Hermann, 1873-1939 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 5 章 · 169,739 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ae45fd0daf59/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（169,739 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,217 字；最长 Die Grundlage aller Erdkunde ist und bleibt für alle Zeiten （38,246 字），最短 Radios 71（9,553 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-roman-title），拼接正文 3,870 行。 |
+| 篇幅分布 | 平均每章 32,206 字；最长 V. Zusammenschluß und Einrichtungen（58,772 字），最短 III. Schulerdkunde und Kino（9,022 字）。 |
+| 起止 | 始于「I. Erdkunde und Kino」，止于「V. Zusammenschluß und Einrichtungen」。 |
 | 原文溯源 | `cache/epub/39189/pg39189.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 5 章）
 
-1. Die Grundlage aller Erdkunde ist und bleibt für alle Zeiten
-2. Welcher Art nun die notwendigen Ergänzungen sein müssen, kra
-3. Zunächst als _Forschungs_mittel im strengen Sinne kommt sie
-4. Eine weitere Bedingung für die Brauchbarkeit erdkundlicher A
-5. Öffentliche erdkundliche Vorstellungen werden also in der Ha
-6. Absichtlich habe ich diesen Entwurf auch in wichtigen Einzel
-7. Ganz anders als bei den Lichtbildern liegt die Sache auf dem
-8. Radios 71
+1. I. Erdkunde und Kino
+2. II. Wissenschaftliche Erdkunde
+3. III. Schulerdkunde und Kino
+4. IV. Kinoerdkunde im Theater und in der Öffentlichkeit
+5. V. Zusammenschluß und Einrichtungen
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/ae45fd0daf59/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/ae45fd0daf59/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Sidsel Langröckchen
 
-**作者** Aanrud, Hans, 1863-1953; Bergh, Lisbeth, 1861-1927 [Illustrator]; Michaelis, Arthur [Illustrator]; Schmidt, Walther R.‏ [Translator] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 6 段 · 140,108 字 ｜ **来源** Project Gutenberg
+**作者** Aanrud, Hans, 1863-1953; Bergh, Lisbeth, 1861-1927 [Illustrator]; Michaelis, Arthur [Illustrator]; Schmidt, Walther R.‏ [Translator] ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 4 部分 · 140,108 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/af328f361741/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（140,108 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,351 字；最长 Und da begann sie zu weinen so bitterlich, daß alle, die ers（39,817 字），最短 Da soll ich dich vom Jakob, deinem Bruder, grüßen. Hier habe（19,608 字）。 |
+| 分章依据 | 按「部分」标记切分为 4 部分（fallback-chunk），拼接正文 3,555 行。 |
+| 篇幅分布 | 平均每部分 35,027 字。 |
 | 原文溯源 | `cache/epub/48902/pg48902.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 4 部分）
 
-1. Und da begann sie zu weinen so bitterlich, daß alle, die ers
-2. Kjersti ging zur Schellenkuh in den Stand hinein. Die richte
-3. Endlich sah sie, wie die beiden plötzlich in ihrem Tollen an
-4. Die Knechte stehen dabei, die Pfeife im Mund; fix und fertig
-5. Da soll ich dich vom Jakob, deinem Bruder, grüßen. Hier habe
-6. Sidsel hat all dies genau ebenso schon jeden Sommer gesehen,
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/af328f361741/)
+> 共 4 部分，[完整目录与正文 →](https://www.bqgmz.top/b/af328f361741/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

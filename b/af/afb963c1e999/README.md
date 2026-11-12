@@ -1,7 +1,7 @@
 # The World as Will and Idea (Vol. 1 of 3)
 
-**作者** Schopenhauer, Arthur, 1788-1860; Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount, 1856-1928 [Translator]; Kemp, J. (John) [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 45 段 · 921,070 字 ｜ **来源** Project Gutenberg
+**作者** Schopenhauer, Arthur, 1788-1860; Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount, 1856-1928 [Translator]; Kemp, J. (John) [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 19 章 · 921,070 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/afb963c1e999/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（921,070 字）。 |
-| 分章依据 | 按「段」标记切分为 45 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,468 字；最长 While thus philosophy has long been obliged to serve entirel（39,934 字），最短 § 53. The last part of our work presents itself as the most （15,363 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-toc-title-list），拼接正文 16,579 行。 |
+| 篇幅分布 | 平均每章 47,401 字。 |
 | 原文溯源 | `cache/epub/38427/pg38427.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. While thus philosophy has long been obliged to serve entirel
-2. In this book, however, we must consider separately that aspe
-3. § 5. It is needful to guard against the grave error of suppo
-4. While the difference in degree of the acuteness of the under
-5. Opposed to the system we have explained, which starts from t
-6. Although concepts are fundamentally different from ideas of
-7. Reason is feminine in nature; it can only give after it has
-8. I shall not pause here to relate anecdotes as examples to il
-9. It is also a consequence of the scientific form, the subordi
-10. After all this we hope there will be no doubt that the evide
+1. Translators’ Preface.
+2. Preface To The First Edition.
+3. Preface To The Second Edition.
+4. First Book. The World As Idea.
+5. First Aspect. The Idea Subordinated To T
+6. Though logic is of so little practical u
+7. Second Book. The World As Will.
+8. First Aspect. The Objectification Of The
+9. The subject which will therefore be full
+10. Third Book. The World As Idea.
 
-> 共 45 段，[完整目录与正文 →](https://www.bqgmz.top/b/afb963c1e999/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/afb963c1e999/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

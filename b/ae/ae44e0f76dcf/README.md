@@ -1,7 +1,7 @@
 # Auction of To-day
 
 **作者** Work, Milton C. (Milton Cooper), 1864-1934 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 3 章 · 252,053 字 ｜ **来源** Project Gutenberg
+**规模** 54 章 · 252,053 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ae44e0f76dcf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（252,053 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 84,017 字。 |
+| 分章依据 | 按「章」标记切分为 54 章（auto-toc-title-list），拼接正文 6,786 行。 |
+| 篇幅分布 | 平均每章 4,191 字。 |
 | 原文溯源 | `cache/epub/23086/pg23086.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 章）
+## 章节目录（前 10 章）
 
-1. Section 9 of Etiquette provides: "If a player say, 'I have the rest,'
-2. Section 9 of Etiquette provides that Dummy shall not leave his seat for
-3. Section 10 of Etiquette provides, "If a player concede in error one or
+1. The Bid of One No-trump.
+2. When to bid Two No-trumps.
+3. Exception to the No-trump Rule.
+4. Various Ideas of the Two Spade Bid.
+5. When to bid Two in Either Royals or Hearts.
+6. When to bid Three in Either Royals or Hearts.
+7. The Two Bid in Diamonds or Clubs.
+8. How to declare Two-Suit Hands.
+9. Bidding over One Spade.
+10. When to bid No-trump.
 
-> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/ae44e0f76dcf/)
+> 共 54 章，[完整目录与正文 →](https://www.bqgmz.top/b/ae44e0f76dcf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

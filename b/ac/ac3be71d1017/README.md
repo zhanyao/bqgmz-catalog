@@ -1,7 +1,7 @@
 # Tobacco; Its History, Varieties, Culture, Manufacture and Commerce
 
 **作者** Billings, E. R. ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 764,030 字 ｜ **来源** Project Gutenberg
+**规模** 14 章 · 764,030 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ac3be71d1017/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（764,030 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 44,942 字；最长 CHAPTER IX.（82,604 字），最短 CHAPTER XIV.（14,882 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 18,853 行。 |
+| 篇幅分布 | 平均每章 53,418 字；最长 CHAPTER X.（111,974 字），最短 CHAPTER XIV.（14,882 字）。 |
 | 起止 | 始于「CHAPTER I.」，止于「CHAPTER XIV.」。 |
 | 原文溯源 | `cache/epub/24471/pg24471.txt`（Project Gutenberg） |
 
@@ -25,11 +25,11 @@
 5. CHAPTER V.
 6. CHAPTER VI.
 7. CHAPTER VII.
-8. East and West, and South and North,
-9. CHAPTER VIII.
-10. CHAPTER IX.
+8. CHAPTER VIII.
+9. CHAPTER IX.
+10. CHAPTER X.
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/ac3be71d1017/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/ac3be71d1017/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（549,003 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,875 字；最长 CHAPTER XXI. -- BEAUTY AND THE BEAST（32,641 字），最短 CHAPTER XXIV. -- CONCLUSION（15,240 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 14,282 行。 |
+| 篇幅分布 | 平均每章 22,872 字；最长 CHAPTER XXI. -- BEAUTY AND THE BEAST（32,641 字），最短 CHAPTER XXIV. -- CONCLUSION（15,240 字）。 |
 | 起止 | 始于「CHAPTER I. -- A DISPERSION」，止于「CHAPTER XXIV. -- CONCLUSION」。 |
 | 原文溯源 | `cache/epub/5156/pg5156.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/a3c9178acfe0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

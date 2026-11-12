@@ -1,7 +1,7 @@
 # Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No. 115, Vol. III, March 13, 1886
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 30 题 · 78,629 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 78,629 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b09d43166087/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（78,629 字）。 |
-| 分章依据 | 按「题」标记切分为 30 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,620 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-title），拼接正文 1,745 行。 |
+| 篇幅分布 | 平均每章 2,192 字；最长 VIII. THE TWO SISTERS.（5,790 字），最短 II. HOW TO BECOME RICH.（872 字）。 |
+| 起止 | 始于「I. THE SEAL-GIRL.」，止于「VIII. THE TWO SISTERS.」。 |
 | 原文溯源 | `cache/epub/68073/pg68073.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. CHAMBERS’S JOURNAL
-2. OF
-3. POPULAR
-4. LITERATURE, SCIENCE, AND ART
-5. Fifth Series
-6. ESTABLISHED BY WILLIAM AND ROBERT CHAMBERS, 1832
-7. CONDUCTED BY R. CHAMBERS (SECUNDUS)
-8. NO. 115.—VOL. III. SATURDAY, MARCH 13, 1886. PRICE 1½_d._]
-9. THE MONARCH OF AFRICAN MOUNTAINS.
-10. FOOTNOTES:
+1. I. THE SEAL-GIRL.
+2. II. HOW TO BECOME RICH.
+3. III. THE LUCKY-STONE.
+4. IV. THE SKARVEN AND THE EIDER-DUCK.
+5. V. A TALE OF SANDOE.
+6. VI. THE MAN AND THE BROWNIES.
+7. VII. ABOUT WITCHES.
+8. VIII. THE TWO SISTERS.
 
-> 共 30 题，[完整目录与正文 →](https://www.bqgmz.top/b/b09d43166087/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/b09d43166087/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

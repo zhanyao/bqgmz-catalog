@@ -1,7 +1,7 @@
 # Love's Labour's Lost（#1109）
 
-**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 100,436 字 ｜ **来源** Project Gutenberg
+**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 21 篇 · 100,436 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a183a6639d9b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（100,436 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,087 字；最长 Queen. Good L[ord]. Boyet, my beauty though but mean,（39,995 字），最短 Winter. When Isicles hang by the wall,（578 字）。 |
+| 分章依据 | 按「篇」标记切分为 21 篇（通用标记切分），拼接正文 3,929 行。 |
+| 篇幅分布 | 平均每篇 4,782 字。 |
 | 原文溯源 | `cache/epub/1109/pg1109.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 篇）
 
-1. Queen. Good L[ord]. Boyet, my beauty though but mean,
-2. Boyet. But she her selfe is hit lower:
-3. Dum. Some salue for periurie,
-4. Ber. See where it comes. Behauiour what wer't thou,
-5. Winter. When Isicles hang by the wall,
+1. Executive Director's Notes:
+2. In addition to the notes below, and so you will *NOT* think all
+3. As I understand it, the printers often ran out of certain words
+4. The answer is that they MAY have packed "liue" into a cliche at a
+5. You will find a lot of these kinds of "errors" in this text, as I
+6. So, please take this into account when reading the comments below
+7. The elongated S's have been changed to small s's and the
+8. Another thing that you should be aware of is that there are
+9. Ferd. So it is
+10. wholesome
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/a183a6639d9b/)
+> 共 21 篇，[完整目录与正文 →](https://www.bqgmz.top/b/a183a6639d9b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

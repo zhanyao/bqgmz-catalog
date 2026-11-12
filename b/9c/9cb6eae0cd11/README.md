@@ -1,7 +1,7 @@
 # A Girl of Virginia
 
-**作者** Thruston, Lucy M. (Lucy Meacham), 1862-1938; Grunwald, Charles, 1867-1910 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 41 题 · 226,929 字 ｜ **来源** Project Gutenberg
+**作者** Thruston, Lucy M. (Lucy Meacham), 1862-1938; Grunwald, Charles, 1867-1910 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 24 章 · 226,929 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9cb6eae0cd11/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（226,929 字）。 |
-| 分章依据 | 按「题」标记切分为 41 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,534 字。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-roman-bare），拼接正文 6,309 行。 |
+| 篇幅分布 | 平均每章 9,440 字；最长 VI（14,827 字），最短 XVIII（1,943 字）。 |
 | 原文溯源 | `cache/epub/54439/pg54439.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. A Girl of Virginia
-2. A Girl of Virginia
-3. BY
-4. LUCY M. THRUSTON
-5. Author of "Mistress Brent"
-6. GOVERNOR MONTAGUE, OF VIRGINIA
-7. A Girl of Virginia
-8. By and by she asked a question. "For what is Jefferson noted?"
-9. He caught his breath, but before he could answer--
-10. II
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 41 题，[完整目录与正文 →](https://www.bqgmz.top/b/9cb6eae0cd11/)
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/9cb6eae0cd11/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

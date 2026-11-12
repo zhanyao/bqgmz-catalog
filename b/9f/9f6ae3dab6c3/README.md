@@ -1,7 +1,7 @@
 # Bessie Costrell
 
-**作者** Ward, Humphry, Mrs., 1851-1920 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 5 章 · 105,686 字 ｜ **来源** Project Gutenberg
+**作者** Ward, Humphry, Mrs., 1851-1920 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 105,686 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9f6ae3dab6c3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（105,686 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,137 字；最长 SCENE IV（28,338 字），最短 SCENE I（13,615 字）。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 2,808 行。 |
+| 篇幅分布 | 平均每篇 26,380 字。 |
 | 原文溯源 | `cache/epub/22128/pg22128.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 章）
+## 章节目录（前 4 篇）
 
 1. SCENE I
 2. SCENE II
-3. SCENE III
-4. SCENE IV
-5. SCENE V
+3. SCENE IV
+4. SCENE V
 
-> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/9f6ae3dab6c3/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9f6ae3dab6c3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

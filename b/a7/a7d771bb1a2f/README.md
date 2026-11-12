@@ -1,7 +1,7 @@
 # Donald and Dorothy
 
 **作者** Dodge, Mary Mapes, 1830-1905 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 38 章 · 374,723 字 ｜ **来源** Project Gutenberg
+**规模** 34 章 · 374,723 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a7d771bb1a2f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（374,723 字）。 |
-| 分章依据 | 按「章」标记切分为 38 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,861 字。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-chapter），拼接正文 9,715 行。 |
+| 篇幅分布 | 平均每章 10,943 字；最长 CHAPTER XV.（33,580 字），最短 CHAPTER V.（1,211 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXV.」。 |
 | 原文溯源 | `cache/epub/28856/pg28856.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/a7d771bb1a2f/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/a7d771bb1a2f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

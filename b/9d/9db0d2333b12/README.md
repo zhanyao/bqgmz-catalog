@@ -1,7 +1,7 @@
 # Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No. 37, Vol. I, September 13, 1884
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 25 题 · 78,236 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 3 篇 · 78,236 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9db0d2333b12/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（78,236 字）。 |
-| 分章依据 | 按「题」标记切分为 25 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,129 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（通用标记切分），拼接正文 1,805 行。 |
+| 篇幅分布 | 平均每篇 26,039 字。 |
 | 原文溯源 | `cache/epub/66236/pg66236.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 篇）
 
-1. CHAMBERS’S JOURNAL
-2. OF
-3. POPULAR
-4. LITERATURE, SCIENCE, AND ART
-5. Fifth Series
-6. ESTABLISHED BY WILLIAM AND ROBERT CHAMBERS, 1832
-7. CONDUCTED BY R. CHAMBERS (SECUNDUS)
-8. NO. 37.—VOL. I. SATURDAY, SEPTEMBER 13, 1884. PRICE 1½ _d._]
-9. JOINT-STOCK COMPANIES AND ‘LIMITED LIABILITY.’
-10. BY MEAD AND STREAM.
+1. CONDUCTED BY R. CHAMBERS (SECUNDUS)
+2. JOINT-STOCK COMPANIES AND ‘LIMITED LIABILITY.’
+3. SOLOMON.’
 
-> 共 25 题，[完整目录与正文 →](https://www.bqgmz.top/b/9db0d2333b12/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9db0d2333b12/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

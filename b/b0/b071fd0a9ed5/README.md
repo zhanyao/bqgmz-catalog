@@ -1,7 +1,7 @@
 # The Life of George Stephenson and of his Son Robert Stephenson Comprising Also a History of the Invention and Introduction of the Railway Locomotive
 
 **作者** Smiles, Samuel, 1812-1904 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 20 章 · 905,770 字 ｜ **来源** Project Gutenberg
+**规模** 25 章 · 905,770 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b071fd0a9ed5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（905,770 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 45,288 字；最长 CHAPTER I.（175,505 字），最短 CHAPTER II.（17,264 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XX.」。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-caps-sections），拼接正文 19,123 行。 |
+| 篇幅分布 | 平均每章 36,230 字；最长 CHAPTER IX.（58,071 字），最短 FOOTNOTES:（2,216 字）。 |
 | 原文溯源 | `cache/epub/46229/pg46229.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII.
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. CHAPTER X.
+1. CHAPTER IX.
+2. THE LIVERPOOL AND MANCHESTER RAILWAY PROJECTED.
+3. CHAPTER XV.
+4. EARLY LOCOMOTIVE MODELS.（1）
+5. EARLY LOCOMOTIVE MODELS.（2）
+6. EARLY LOCOMOTIVE MODELS.（3）
+7. FOOTNOTES:
+8. AND SON.（1）
+9. AND SON.（2）
+10. FOOTNOTES:（1）
 
-> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/b071fd0a9ed5/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/b071fd0a9ed5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

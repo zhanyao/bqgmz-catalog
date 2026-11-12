@@ -1,7 +1,7 @@
 # Graham's Magazine, Vol. XXXIV, No. 6, June 1849
 
 **作者** Various; Graham, George R., 1813-1894 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 7 章 · 250,654 字 ｜ **来源** Project Gutenberg
+**规模** 15 章 · 250,654 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a22c4d1a2cab/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,11 +11,12 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（250,654 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 35,807 字；最长 CHAPTER I.（82,876 字），最短 CHAPTER II.（5,306 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 6,470 行。 |
+| 篇幅分布 | 平均每章 16,530 字；最长 CHAPTER VI.（部2）（78,051 字），最短 CHAPTER II.（4,082 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER III.（部3）」。 |
 | 原文溯源 | `cache/epub/53963/pg53963.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 章）
+## 章节目录（前 10 章）
 
 1. CHAPTER I.
 2. CHAPTER II.
@@ -23,9 +24,12 @@
 4. CHAPTER IV.
 5. CHAPTER V.
 6. CHAPTER VI.
-7. Oh! deeply have I trusted, while I liste
+7. CHAPTER I.（部2）
+8. CHAPTER II.（部2）
+9. CHAPTER III.（部2）
+10. CHAPTER IV.（部2）
 
-> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/a22c4d1a2cab/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/a22c4d1a2cab/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

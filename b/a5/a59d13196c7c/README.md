@@ -1,7 +1,7 @@
 # Chronique du crime et de l'innocence, tome 5/8 Recueil des événements les plus tragiques;...
 
-**作者** Champagnac, J.-B.-J. (Jean-Baptiste-Joseph), 1796-1858 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 17 段 · 359,882 字 ｜ **来源** Project Gutenberg
+**作者** Champagnac, J.-B.-J. (Jean-Baptiste-Joseph), 1796-1858 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 8 章 · 359,882 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a59d13196c7c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（359,882 字）。 |
-| 分章依据 | 按「段」标记切分为 17 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,169 字；最长 Un laboureur, nommé Jean Labauchède, séduit par les charmes （38,880 字），最短 Une circonstance atroce manque au récit qu'on vient de lire.（18,222 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 7,514 行。 |
+| 篇幅分布 | 平均每章 44,985 字；最长 RÉVOLUTION FRANÇAISE.（69,514 字），最短 CES JOURNÉES SANGLANTES.（2）（15,477 字）。 |
 | 原文溯源 | `cache/epub/54551/pg54551.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 章）
 
-1. Un laboureur, nommé Jean Labauchède, séduit par les charmes
-2. Les Ducros, interrogés de nouveau, persistèrent dans leur pr
-3. Parmi les enfans qui restaient à Verdure, il y en avait un â
-4. Sa justification fut difficile et bien lente à obtenir. Enfi
-5. Une circonstance atroce manque au récit qu'on vient de lire.
-6. Favras, traduit devant le Châtelet, s'y défendit avec calme,
-7. Au milieu du tumulte et des vociférations, on entend ces mot
-8. On amène d'abord les Suisses détenus à l'Abbaye. «C'est vous
-9. Après cette plaidoirie, et Louis XVI ayant été reconduit au
-10. Le 29 juillet 1793, jour auquel un décret de la convention d
+1. SUICIDE CHANGÉ EN ASSASSINAT PAR LA PRÉVENTION.
+2. DU COLONEL ABATUCCI.
+3. RÉVOLUTION FRANÇAISE.
+4. CES JOURNÉES SANGLANTES.（1）
+5. CES JOURNÉES SANGLANTES.（2）
+6. POIGNARDÉ PAR CHARLOTTE CORDAY.（1）
+7. POIGNARDÉ PAR CHARLOTTE CORDAY.（2）
+8. POIGNARDÉ PAR CHARLOTTE CORDAY.（3）
 
-> 共 17 段，[完整目录与正文 →](https://www.bqgmz.top/b/a59d13196c7c/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/a59d13196c7c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

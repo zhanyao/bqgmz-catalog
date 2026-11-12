@@ -1,7 +1,7 @@
 # Character Writings of the Seventeenth Century
 
-**作者** Morley, Henry, 1822-1894 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 429 题 · 735,063 字 ｜ **来源** Project Gutenberg
+**作者** Morley, Henry, 1822-1894 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 12 章 · 735,063 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9edae87e2107/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（735,063 字）。 |
-| 分章依据 | 按「题」标记切分为 429 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,713 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-toc-title-list），拼接正文 15,916 行。 |
+| 篇幅分布 | 平均每章 60,757 字；最长 Is an auxiliary hound that assists one n（96,146 字），最短 THEOPHRASTUS.（1,770 字）。 |
 | 原文溯源 | `cache/epub/10699/pg10699.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. CHARACTER WRITINGS
-2. OF THE
-3. SEVENTEENTH CENTURY
-4. EDITED BY
-5. HENRY MORLEY, LL.D.
-6. CONTENTS.
-7. CHARACTER WRITING BEFORE THE SEVENTEENTH CENTURY.
-8. CHARACTER WRITINGS OF THE SEVENTEENTH CENTURY.
-9. JOSEPH HALL
-10. HIS CHARACTERS OF VIRTUES AND VICES
+1. THEOPHRASTUS.
+2. Stupidity
+3. A Ruffler
+4. A TRAVELLER.
+5. Is one that is fled over for his conscie
+6. An hypocrite is the worst kind of player
+7. Is one in whom good women suffer, and ha
+8. FAITH.
+9. And here I think it were not amiss to ta
+10. Is an auxiliary hound that assists one n
 
-> 共 429 题，[完整目录与正文 →](https://www.bqgmz.top/b/9edae87e2107/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/9edae87e2107/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

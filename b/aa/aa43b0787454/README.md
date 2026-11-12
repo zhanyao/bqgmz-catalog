@@ -1,7 +1,7 @@
 # The South Sea Whaler
 
-**作者** Kingston, William Henry Giles, 1814-1880; Groome, William H. C., 1860-1914 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 19 题 · 321,803 字 ｜ **来源** Project Gutenberg
+**作者** Kingston, William Henry Giles, 1814-1880; Groome, William H. C., 1860-1914 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 321,803 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/aa43b0787454/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（321,803 字）。 |
-| 分章依据 | 按「题」标记切分为 19 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 16,937 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 7,271 行。 |
+| 篇幅分布 | 平均每章 21,378 字；最长 CHAPTER FOUR.（26,968 字），最短 CHAPTER EIGHT.（13,702 字）。 |
 | 原文溯源 | `cache/epub/21479/pg21479.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. THE SOUTH SEA WHALER, BY W.H.G. KINGSTON.
-3. THE SOUTH SEA WHALER, W.H.G. KINGSTON.
-4. CHAPTER ONE.
-5. CHAPTER TWO.
-6. CHAPTER THREE.
-7. CHAPTER FOUR.
-8. CHAPTER FIVE.
-9. CHAPTER SIX.
-10. CHAPTER SEVEN.
+1. CHAPTER ONE.
+2. CHAPTER TWO.
+3. CHAPTER THREE.
+4. CHAPTER FOUR.
+5. CHAPTER FIVE.
+6. CHAPTER SIX.
+7. CHAPTER SEVEN.
+8. CHAPTER EIGHT.
+9. CHAPTER NINE.
+10. CHAPTER TEN.
 
-> 共 19 题，[完整目录与正文 →](https://www.bqgmz.top/b/aa43b0787454/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/aa43b0787454/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Morsiusmarssi
 
-**作者** Bjørnson, Bjørnstjerne, 1832-1910; Talvio, Maila, 1871-1951 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 4 段 · 98,781 字 ｜ **来源** Project Gutenberg
+**作者** Bjørnson, Bjørnstjerne, 1832-1910; Talvio, Maila, 1871-1951 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 3 部分 · 98,781 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9c96dff728b1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（98,781 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 24,695 字。 |
+| 分章依据 | 按「部分」标记切分为 3 部分（fallback-chunk），拼接正文 2,150 行。 |
+| 篇幅分布 | 平均每部分 32,927 字。 |
 | 原文溯源 | `cache/epub/57281/pg57281.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 3 部分）
 
-1. Eräänä päivänä oli Astrid käymässä miniän luona; hän näki pi
-2. Missä asiassa Hänen tuli häntä auttaa? ajatteli Beret. Hän e
-3. -- Ohoi! -- kävelenkö minä liian nopeasti? ja hän ojensi kät
-4. Mildrid ei vastannut. Silloin isä taasen tyynnytti keskustel
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/9c96dff728b1/)
+> 共 3 部分，[完整目录与正文 →](https://www.bqgmz.top/b/9c96dff728b1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

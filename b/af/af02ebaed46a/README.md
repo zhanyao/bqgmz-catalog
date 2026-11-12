@@ -1,7 +1,7 @@
 # A History of Art for Beginners and Students: Painting, Sculpture, Architecture（#25632）
 
 **作者** Waters, Clara Erskine Clement, 1834-1916 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 391,147 字 ｜ **来源** Project Gutenberg
+**规模** 9 章 · 391,147 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/af02ebaed46a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,11 +11,12 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（391,147 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,114 字；最长 CHAPTER IX.（76,541 字），最短 CHAPTER I.（20,590 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 10,178 行。 |
+| 篇幅分布 | 平均每章 39,619 字；最长 CHAPTER II.（74,928 字），最短 CHAPTER I.（16,205 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER IX.」。 |
 | 原文溯源 | `cache/epub/25632/pg25632.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 9 章）
 
 1. CHAPTER I.
 2. CHAPTER II.
@@ -26,9 +27,8 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
-10. Chur, cathedral of, 164
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/af02ebaed46a/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/af02ebaed46a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

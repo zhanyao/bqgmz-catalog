@@ -1,7 +1,7 @@
 # The Wonder-Working Magician
 
-**作者** Calderón de la Barca, Pedro, 1600-1681; MacCarthy, Denis Florence, 1817-1882 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 27 章 · 109,935 字 ｜ **来源** Project Gutenberg
+**作者** Calderón de la Barca, Pedro, 1600-1681; MacCarthy, Denis Florence, 1817-1882 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 场  
+**规模** 61 场 · 109,935 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b0ffbece3c1d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,11 +11,11 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（109,935 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 4,071 字。 |
+| 分章依据 | 按「场」标记切分为 61 场（auto-scene），拼接正文 5,268 行。 |
+| 篇幅分布 | 平均每场 1,562 字；最长 SCENE XVIII.（部2）（7,523 字），最短 SCENE II.（313 字）。 |
 | 原文溯源 | `cache/epub/6372/pg6372.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 场）
 
 1. SCENE I.
 2. SCENE II.
@@ -28,7 +28,7 @@
 9. SCENE IX.
 10. SCENE X.
 
-> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/b0ffbece3c1d/)
+> 共 61 场，[完整目录与正文 →](https://www.bqgmz.top/b/b0ffbece3c1d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

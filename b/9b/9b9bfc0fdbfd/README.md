@@ -1,7 +1,7 @@
 # My Book of Indoor Games
 
-**作者** Squareman, Clarence ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 187 题 · 148,008 字 ｜ **来源** Project Gutenberg
+**作者** Squareman, Clarence ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 160 篇 · 148,008 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9b9bfc0fdbfd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（148,008 字）。 |
-| 分章依据 | 按「题」标记切分为 187 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 791 字。 |
+| 分章依据 | 按「篇」标记切分为 160 篇（通用标记切分），拼接正文 4,774 行。 |
+| 篇幅分布 | 平均每篇 904 字。 |
 | 原文溯源 | `cache/epub/13022/pg13022.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. MY BOOK OF INDOOR GAMES
-2. CLARENCE SQUAREMAN
-3. INDEX OF INDOOR GAMES
-4. INTRODUCTION
-5. TWIRL THE TRENCHER
-6. CROSS QUESTIONS AND CROOKED ANSWERS
-7. ORANGES AND LEMONS
-8. MUSICAL CHAIRS OR GOING TO JERUSALEM
-9. THE TRAVELER'S ALPHABET
-10. THE FAMILY COACH
+1. INTRODUCTION
+2. TWIRL THE TRENCHER
+3. CROSS QUESTIONS AND CROOKED ANSWERS
+4. ORANGES AND LEMONS
+5. THE TRAVELER'S ALPHABET
+6. THE FAMILY COACH
+7. DROP THE HANDKERCHIEF
+8. MAGIC MUSIC
+9. "I APPRENTICED MY SON."
+10. CAT AND MOUSE
 
-> 共 187 题，[完整目录与正文 →](https://www.bqgmz.top/b/9b9bfc0fdbfd/)
+> 共 160 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9b9bfc0fdbfd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

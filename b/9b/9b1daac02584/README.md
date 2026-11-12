@@ -1,7 +1,7 @@
 # Valkea maa
 
-**作者** Mantere, Niilo, 1870-1954 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 84 题 · 63,028 字 ｜ **来源** Project Gutenberg
+**作者** Mantere, Niilo, 1870-1954 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 5 章 · 63,028 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9b1daac02584/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（63,028 字）。 |
-| 分章依据 | 按「题」标记切分为 84 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 750 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-roman-bare），拼接正文 3,352 行。 |
+| 篇幅分布 | 平均每章 8,209 字；最长 II.（13,675 字），最短 I.（570 字）。 |
+| 起止 | 始于「I.」，止于「V.」。 |
 | 原文溯源 | `cache/epub/78649/pg78649.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. VALKEA MAA
-2. Uusia runoja
-3. NIILO MANTERE
-4. SISÄLLYS:
-5. I. Valkea maa.
-6. II. Valkeat viitat.
-7. III. Luonnon ja sydämen kannel.
-8. IV. Valkea lempi.
-9. V. Ikivaloa kohti.
-10. I. VALKEA MAA
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
 
-> 共 84 题，[完整目录与正文 →](https://www.bqgmz.top/b/9b1daac02584/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/9b1daac02584/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

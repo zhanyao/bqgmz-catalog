@@ -1,7 +1,7 @@
 # The Defence of Guenevere and Other Poems
 
-**作者** Morris, William, 1834-1896 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 129,045 字 ｜ **来源** Project Gutenberg
+**作者** Morris, William, 1834-1896 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 30 章 · 129,045 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a23649039cbc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（129,045 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,507 字；最长 Also the heralds sung rejoicingly（39,999 字），最短 I sew'd it up with scarlet silk,（9,035 字）。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-toc-title-list），拼接正文 5,560 行。 |
+| 篇幅分布 | 平均每章 4,252 字；最长 Sir Peter Harpdon's End（27,494 字），最短 In Prison（424 字）。 |
 | 原文溯源 | `cache/epub/22650/pg22650.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. Also the heralds sung rejoicingly
-2. Please a poor silly girl by telling me
-3. Yet, lady, for your own sake I say this,
-4. Or say your mouth, I saw you drink red wine
-5. But I shall die unless you stand,
-6. I sew'd it up with scarlet silk,
+1. The Defence of Guenevere
+2. King Arthur's Tomb
+3. Sir Galahad, a Christmas Mystery
+4. The Chapel in Lyoness
+5. Sir Peter Harpdon's End
+6. Rapunzel
+7. Concerning Geffray Teste Noire
+8. A Good Knight in Prison
+9. Old Love
+10. The Gilliflower of Gold
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/a23649039cbc/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/a23649039cbc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

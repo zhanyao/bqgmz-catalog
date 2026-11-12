@@ -1,7 +1,7 @@
 # Lucretia Borgia According to Original Documents and Correspondence of Her Day
 
 **作者** Gregorovius, Ferdinand, 1821-1891; Garner, John Leslie [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 24 章 · 549,126 字 ｜ **来源** Project Gutenberg
+**规模** 46 章 · 549,126 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9d70c35b73c7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（549,126 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,880 字；最长 The Duke presented the young couple Cast（89,883 字），最短 CHAPTER II（6,996 字）。 |
+| 分章依据 | 按「章」标记切分为 46 章（auto-chapter），拼接正文 12,556 行。 |
+| 篇幅分布 | 平均每章 11,545 字。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XII（部3）」。 |
 | 原文溯源 | `cache/epub/20804/pg20804.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/9d70c35b73c7/)
+> 共 46 章，[完整目录与正文 →](https://www.bqgmz.top/b/9d70c35b73c7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

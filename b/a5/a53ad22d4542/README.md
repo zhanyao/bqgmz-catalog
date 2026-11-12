@@ -1,7 +1,7 @@
 # The journal of the American-Irish Historical Society, Vol. IX, 1910
 
-**作者** Various; Lee, Thomas Zanslaur, 1866-1931 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 53 段 · 1,072,293 字 ｜ **来源** Project Gutenberg
+**作者** Various; Lee, Thomas Zanslaur, 1866-1931 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 102 章 · 1,072,293 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a53ad22d4542/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,072,293 字）。 |
-| 分章依据 | 按「段」标记切分为 53 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,231 字；最长 The Society is a corporation duly organized under the laws o（39,909 字），最短 Membership, Good Spirit, 491（11,170 字）。 |
+| 分章依据 | 按「章」标记切分为 102 章（auto-caps-sections），拼接正文 25,966 行。 |
+| 篇幅分布 | 平均每章 10,381 字；最长 AN UNSOLVED PHASE OF AMERICAN HISTORY.（60,424 字），最短 ARCHBISHOP McFAUL FIGHTING TUBERCULOSIS.（542 字）。 |
 | 原文溯源 | `cache/epub/74979/pg74979.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. The Society is a corporation duly organized under the laws o
-2. The Secretary-General presented and read the following repor
-3. I may, however, say briefly that when we took up the work of
-4. MR. HENRY L. JOYCE: I ask that the report of the nominating
-5. “Members and guests will assemble in this room, which will b
-6. The impossibility of assimilating this large influx of Irish
-7. All I have to say in conclusion is this: I say to my America
-8. I know there are brook-gladdened meadows ahead
-9. Resounding names of men of Irish blood are, indeed, plentifu
-10. It is worth while looking into the way the celebration shape
+1. CHANDLER, WILLIAM E. 488
+2. BARRY, THOMAS H. 496
+3. OBJECTS AND PURPOSES.
+4. MEMBERSHIP.
+5. THE SECRETARY-GENERAL.
+6. MEETINGS.
+7. SUBSIDIARY SOCIETIES.
+8. GENERAL INFORMATION REGARDING THE AMERICAN IRISH HISTORICAL SOCIETY.
+9. D. C.
+10. THE AMERICAN IRISH HISTORICAL SOCIETY.
 
-> 共 53 段，[完整目录与正文 →](https://www.bqgmz.top/b/a53ad22d4542/)
+> 共 102 章，[完整目录与正文 →](https://www.bqgmz.top/b/a53ad22d4542/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

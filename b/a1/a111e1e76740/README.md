@@ -1,7 +1,7 @@
 # The American Missionary — Volume 33, No. 10, October, 1879
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 104,001 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 14 章 · 104,001 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a111e1e76740/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（104,001 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,800 字；最长 But we must warn our patrons not to divert their contributio（39,906 字），最短 IT IS STRONG, EVEN, AND ELASTIC; REGULAR IN QUALITY,（3,888 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-toc-title-list），拼接正文 3,138 行。 |
+| 篇幅分布 | 平均每章 6,401 字。 |
 | 原文溯源 | `cache/epub/54589/pg54589.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. But we must warn our patrons not to divert their contributio
-2. —Aunt Kelly, now living at Troy, Missouri, at an advanced ag
-3. Perhaps the most interesting prayer-meeting that I ever atte
-4. Amherst. First Cong. Ch. and Soc. 8
-5. IT IS STRONG, EVEN, AND ELASTIC; REGULAR IN QUALITY,
+1. RANDOM SUGGESTIONS
+2. A STRONG APPEAL
+3. LANGUAGE OF EQUATORIAL AFRICA
+4. STRANGE BUT TRUE STORY
+5. ITEMS FROM THE FIELD
+6. GENERAL NOTES
+7. THE FREEDMEN.
+8. Triumphant Death
+9. THE CHINESE.
+10. THE BEGINNING OF HARVEST—ONG LUNE
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/a111e1e76740/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/a111e1e76740/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

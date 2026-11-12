@@ -1,7 +1,7 @@
 # Homestead on the Hillside
 
 **作者** Holmes, Mary Jane, 1825-1907 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 15 章 · 302,996 字 ｜ **来源** Project Gutenberg
+**规模** 38 章 · 302,996 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9dd60391ac0e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（302,996 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,199 字；最长 CHAPTER XIV.（84,409 字），最短 CHAPTER IX.（5,506 字）。 |
+| 分章依据 | 按「章」标记切分为 38 章（auto-chapter），拼接正文 7,571 行。 |
+| 篇幅分布 | 平均每章 7,940 字；最长 CHAPTER VIII.（19,438 字），最短 CHAPTER XIV.（1,540 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XI.（部4）」。 |
 | 原文溯源 | `cache/epub/14089/pg14089.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/9dd60391ac0e/)
+> 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/9dd60391ac0e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

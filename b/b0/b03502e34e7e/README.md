@@ -1,7 +1,7 @@
 # A Secret of the Sea: A Novel. Vol. 3 (of 3)
 
 **作者** Speight, T. W. (Thomas Wilkinson), 1830-1915 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 223,821 字 ｜ **来源** Project Gutenberg
+**规模** 12 章 · 223,821 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b03502e34e7e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（223,821 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,217 字；最长 CHAPTER II.（23,216 字），最短 CHAPTER VIII.（5,942 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 5,601 行。 |
+| 篇幅分布 | 平均每章 18,594 字；最长 CHAPTER XI.（33,020 字），最短 CHAPTER VIII.（5,942 字）。 |
 | 起止 | 始于「CHAPTER I.」，止于「CHAPTER XIII.」。 |
 | 原文溯源 | `cache/epub/57815/pg57815.txt`（Project Gutenberg） |
 
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/b03502e34e7e/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/b03502e34e7e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

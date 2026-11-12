@@ -1,7 +1,7 @@
 # In Indian Tents Stories Told by Penobscot, Passamaquoddy and Micmac Indians to Abby L. Alger
 
-**作者** Alger, Abby Langdon, 1850-1917 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 115,123 字 ｜ **来源** Project Gutenberg
+**作者** Alger, Abby Langdon, 1850-1917 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 115,123 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/aa4b30d1d62b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（115,123 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,024 字；最长 In old times there were many witches among the Indians. Inde（39,683 字），最短 Mosique kept twisting himself around, and soon reached the H（15,026 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-caps-sections），拼接正文 3,073 行。 |
+| 篇幅分布 | 平均每章 5,095 字；最长 STORY OF THE SQUIRREL（15,880 字），最短 TO WHOSE INSPIRATION IT OWES（313 字）。 |
 | 原文溯源 | `cache/epub/51908/pg51908.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. In old times there were many witches among the Indians. Inde
-2. There lived near “Kīsus,” the Sun, a beautiful woman named “
-3. “One time in midwinter his wife had a terrible longing for g
-4. When great Glūskap, lord of men and beasts, had brought orde
-5. Mosique kept twisting himself around, and soon reached the H
+1. TO WHOSE INSPIRATION IT OWES
+2. PREFACE
+3. THE CREATION
+4. GRANDFATHER THUNDER
+5. THE FIGHT OF THE WITCHES
+6. ŪLISKE[2]
+7. STORY OF WĀLŪT
+8. OLD SNOWBALL
+9. ĀL-WŪS-KI-NI-GESS, THE SPIRIT OF THE WOODS
+10. M’TEŪLIN, THE GREAT WITCH
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/aa4b30d1d62b/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/aa4b30d1d62b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

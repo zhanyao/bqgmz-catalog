@@ -1,7 +1,7 @@
 # The Watcher, and other weird stories
 
-**作者** Le Fanu, Joseph Sheridan, 1814-1873; Le Fanu, Brinsley, 1854-1929 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 14 段 · 294,452 字 ｜ **来源** Project Gutenberg
+**作者** Le Fanu, Joseph Sheridan, 1814-1873; Le Fanu, Brinsley, 1854-1929 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 6 章 · 294,452 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a39733ac90e4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（294,452 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,032 字；最长 "Unwell! Yes, no, not exactly unwell," he said, evidently ma（39,977 字），最短 The agony of the hours which followed what I would still cal（14,142 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-toc-title-list），拼接正文 6,826 行。 |
+| 篇幅分布 | 平均每章 48,452 字；最长 A CHAPTER IN THE HISTORY OF A TYRONE FAMILY（75,860 字），最短 THE FORTUNES OF SIR ROBERT ARDAGH（15,489 字）。 |
 | 原文溯源 | `cache/epub/40510/pg40510.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 6 章）
 
-1. "Unwell! Yes, no, not exactly unwell," he said, evidently ma
-2. He leaned his elbow on the table, and passed his hand across
-3. As Barton thus spoke, he trembled so violently that Montague
-4. One of the jury shrewdly observed that the circumstance of M
-5. As I ascended the stairs, I heard him open the parlour-door
-6. Emily also arrived circuitously at the same conclusion, and
-7. When Schalken studied under the immortal Gerard Douw, he was
-8. The stranger stopped at the door of the room, and displayed
-9. In the south of Ireland, and on the borders of the county of
-10. "Indeed he has, sir; but we must not complain," replied she.
+1. THE WATCHER
+2. PASSAGE IN THE SECRET HISTORY OF AN IRISH COUNTESS
+3. STRANGE EVENT IN THE LIFE OF SCHALKEN THE PAINTER
+4. THE FORTUNES OF SIR ROBERT ARDAGH
+5. THE DREAM
+6. A CHAPTER IN THE HISTORY OF A TYRONE FAMILY
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/a39733ac90e4/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/a39733ac90e4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

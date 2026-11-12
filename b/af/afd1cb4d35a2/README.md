@@ -1,7 +1,7 @@
 # Substitutes for Flesh Foods: Vegetarian Cook Book
 
-**作者** Fulton, Edwin Giles, 1867- ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 9 段 · 181,194 字 ｜ **来源** Project Gutenberg
+**作者** Fulton, Edwin Giles, 1867- ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 42 章 · 181,194 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/afd1cb4d35a2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（181,194 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,132 字；最长 To the yolks add the salt and sugar; beat with an egg whisk （40,042 字），最短 _SANITAS FOODS_ are sold by reliable dealers in all parts of（1,072 字）。 |
+| 分章依据 | 按「章」标记切分为 42 章（auto-caps-sections），拼接正文 8,330 行。 |
+| 篇幅分布 | 平均每章 4,049 字；最长 CREAM SOUPS, FOUNDATION OF（17,656 字），最短 ALL RIGHTS RESERVED（367 字）。 |
 | 原文溯源 | `cache/epub/43879/pg43879.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. To the yolks add the salt and sugar; beat with an egg whisk
-2. Water, 2 cups.
-3. Put the butter into a saucepan, heat, add the onion and garl
-4. Boiled rice, 3 cups.
-5. Rub sufficient cold, boiled cabbage through a sieve or colan
-6. Into an oiled skillet containing one tablespoonful of cream
-7. Warm the cream to about seventy degrees, add the salt, yeast
-8. Beat the yolks of the eggs till thick; boil sugar in water t
-9. _SANITAS FOODS_ are sold by reliable dealers in all parts of
+1. ALL RIGHTS RESERVED
+2. WHY I WAS IMPRESSED TO WRITE A COOK BOOK.
+3. BEET AND POTATO SALAD
+4. BRUSSELS SPROUTS SALAD
+5. CREAM SOUPS, FOUNDATION OF
+6. FRUIT SOUP (STRAWBERRY)
+7. FRICASSEE OF PROTOSE WITH POTATO
+8. PROTOSE STEAK WITH POTATOES SMOTHERED IN ONIONS
+9. PROTOSE STEAK
+10. BOILED MACARONI (PLAIN)
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/afd1cb4d35a2/)
+> 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/afd1cb4d35a2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

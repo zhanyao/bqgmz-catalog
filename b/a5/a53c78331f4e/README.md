@@ -1,7 +1,7 @@
 # Willy's travels on the railroad
 
-**作者** Marcet, Mrs. (Jane Haldimand), 1769-1858 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 102,326 字 ｜ **来源** Project Gutenberg
+**作者** Marcet, Mrs. (Jane Haldimand), 1769-1858 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 102,326 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a53c78331f4e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（102,326 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,465 字；最长 Just then the train came out of the tunnel, and Willy was qu（38,742 字），最短 "Where is she?" asked Willy's mother. "I hope not ill?"（2,287 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-toc-title-list），拼接正文 2,658 行。 |
+| 篇幅分布 | 平均每章 5,657 字；最长 THE INN.（9,855 字），最短 THE RETURN TO OLD FRIENDS.（3,049 字）。 |
 | 原文溯源 | `cache/epub/76408/pg76408.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. Just then the train came out of the tunnel, and Willy was qu
-2. Anna, who saw how really sorry he was, now tried to console
-3. Willy thought that gathering fruit with Anna was a very nice
-4. "No, there has not been time for the stem to grow long enoug
-5. "Where is she?" asked Willy's mother. "I hope not ill?"
+1. THE RAILROAD.
+2. THE SPOILED CHILD.
+3. THE TUNNEL.
+4. OLD AND YOUNG.
+5. THE THIRD CLASS CARRIAGES, OR THE MARKET GIRL.
+6. THE INN.
+7. THE ARBORETUM.
+8. CHILDREN'S GAMBOLS.
+9. THE FACTORY.
+10. THE FARM.
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/a53c78331f4e/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/a53c78331f4e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

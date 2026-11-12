@@ -1,7 +1,7 @@
 # Een liefde
 
-**作者** Deyssel, Lodewijk van, 1864-1952 ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 21 题 · 564,214 字 ｜ **来源** Project Gutenberg
+**作者** Deyssel, Lodewijk van, 1864-1952 ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 13 章 · 564,214 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a03570414f7d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（564,214 字）。 |
-| 分章依据 | 按「题」标记切分为 21 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 26,867 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 11,669 行。 |
+| 篇幅分布 | 平均每章 43,401 字；最长 VII.（59,380 字），最短 XIV.（1,541 字）。 |
+| 起止 | 始于「II.（1）」，止于「XIV.」。 |
 | 原文溯源 | `cache/epub/10820/pg10820.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. EEN LIEFDE
-2. LODEWIJK VAN DEYSSEL
-3. VOORBERICHT
-4. EEN LIEFDE
-5. I.
-6. II.
-7. III.
-8. IV.
-9. V.
-10. VI.
+1. II.（1）
+2. II.（2）
+3. II.（3）
+4. II.（4）
+5. VII.
+6. VIII.
+7. IX.
+8. XI.
+9. XII.（1）
+10. XII.（2）
 
-> 共 21 题，[完整目录与正文 →](https://www.bqgmz.top/b/a03570414f7d/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/a03570414f7d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

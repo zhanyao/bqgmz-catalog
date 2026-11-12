@@ -1,7 +1,7 @@
 # Short stories and selections for use in the secondary schools
 
-**作者** Baker, Emilie K. (Emilie Kip), 1873-1951 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 60 题 · 322,490 字 ｜ **来源** Project Gutenberg
+**作者** Baker, Emilie K. (Emilie Kip), 1873-1951 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 6 篇 · 322,490 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b19b2065be22/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（322,490 字）。 |
-| 分章依据 | 按「题」标记切分为 60 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,374 字。 |
+| 分章依据 | 按「篇」标记切分为 6 篇（auto-title-block），拼接正文 7,173 行。 |
+| 篇幅分布 | 平均每篇 46,746 字；最长 FOR THOSE WHO LOVE MUSIC（97,550 字），最短 TOO DEAR FOR THE WHISTLE（2,484 字）。 |
 | 原文溯源 | `cache/epub/7283/pg7283.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 篇）
 
-1. SHORT STORIES AND SELECTIONS
-2. FOR USE IN THE SECONDARY SCHOOLS
-3. TABLE OF CONTENTS
-4. THE LUCK OF ROARING CAMP, _by_ Bret Harte
-5. WAR, _by_ Thomas Carlyle, _from_ Sartor Resartus
-6. INTRODUCTION
-7. EMILIE K. BAKER
-8. SHORT STORIES AND SELECTIONS
-9. A LEAF IN THE STORM
-10. CATS
+1. FOR THOSE WHO LOVE MUSIC
+2. AN ARAB FISHERMAN
+3. THE LUCK OF ROARING CAMP
+4. TOO DEAR FOR THE WHISTLE
+5. A LODGING FOR THE NIGHT
+6. A BATTLE OF THE ANTS
 
-> 共 60 题，[完整目录与正文 →](https://www.bqgmz.top/b/b19b2065be22/)
+> 共 6 篇，[完整目录与正文 →](https://www.bqgmz.top/b/b19b2065be22/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

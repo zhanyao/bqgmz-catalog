@@ -1,7 +1,7 @@
 # Faiseurs de peines et faiseurs de joies
 
-**作者** Melegari, Dora, 1849-1924 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 13 段 · 260,912 字 ｜ **来源** Project Gutenberg
+**作者** Melegari, Dora, 1849-1924 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 10 章 · 260,912 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9fd79f00e968/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（260,912 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,070 字；最长 Pour ce qui est du dernier argument on peut se tranquilliser（39,719 字），最短 Pages choisies et fragments inédits, de Félix Pécaut.（778 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 5,572 行。 |
+| 篇幅分布 | 平均每章 23,738 字；最长 CHAPITRE VII（28,063 字），最短 CHAPITRE IV（17,828 字）。 |
 | 原文溯源 | `cache/epub/68621/pg68621.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Pour ce qui est du dernier argument on peut se tranquilliser
-2. Si encore on parvenait à démontrer leurs torts aux êtres inj
-3. La doctrine de l’égalité a nui énormément à l’auto-critique;
-4. La jalousie dont je parle ici n’est pas celle du cœur. Elle
-5. Le caractère des griefs est de créer une atmosphère hostile
-6. Quand le triste phénomène se manifeste dans les unions sanct
-7. Pour les choses de l’esprit, le même phénomène se manifeste,
-8. Quant à la généralité des hommes,--exception faite des espri
-9. La femme du XVIIIe siècle connaissait bien mieux les hommes
-10. Parmi les faiseurs de joies, il y en a d’instinctifs et de v
+1. CHAPITRE II
+2. CHAPITRE III
+3. CHAPITRE IV
+4. CHAPITRE V
+5. CHAPITRE VI
+6. CHAPITRE VII
+7. CHAPITRE VIII
+8. CHAPITRE IX
+9. CHAPITRE X
+10. CHAPITRE XI
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/9fd79f00e968/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/9fd79f00e968/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

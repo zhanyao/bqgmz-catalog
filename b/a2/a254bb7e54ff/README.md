@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（363,015 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,167 字；最长 “And what’s this about a vault?”--“Ay, t（60,612 字），最短 CHAPTER XIV.（9,611 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 8,760 行。 |
+| 篇幅分布 | 平均每章 19,515 字；最长 notes, that somehow Jessie could hardly bear; and her hand stole to her（105,509 字），最短 CHAPTER XIV.（9,611 字）。 |
 | 原文溯源 | `cache/epub/48095/pg48095.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -31,4 +31,4 @@
 > 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/a254bb7e54ff/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

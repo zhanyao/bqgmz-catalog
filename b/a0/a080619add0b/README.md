@@ -1,7 +1,7 @@
 # Sielujen sota
 
-**作者** Onerva, L., 1882-1972 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 78 题 · 41,779 字 ｜ **来源** Project Gutenberg
+**作者** Onerva, L., 1882-1972 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 60 章 · 41,779 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a080619add0b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（41,779 字）。 |
-| 分章依据 | 按「题」标记切分为 78 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 535 字。 |
+| 分章依据 | 按「章」标记切分为 60 章（auto-toc-title-list），拼接正文 2,463 行。 |
+| 篇幅分布 | 平均每章 673 字。 |
 | 原文溯源 | `cache/epub/74260/pg74260.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SIELUJEN SOTA
-2. Lyyrillinen sarja
-3. L. ONERVA
-4. SISÄLLYS:
-5. SIELUJEN SOTA
-6. KOTKIEN HUUTO
-7. VARJOJEN SAATTO
-8. ÄIDIN KASVOT
-9. VUOKSI JA LUODE.
-10. VOITTAJAN LEIRISSÄ
+1. KOTKIEN HUUTO
+2. Ukkosen jyly
+3. Vangittu kotkanpoikanen
+4. Sotaorhi
+5. Kilparatsastus
+6. Patsaan sielu
+7. Ampuja
+8. Lentäjät
+9. Hartaus
+10. Ihmisenpojat
 
-> 共 78 题，[完整目录与正文 →](https://www.bqgmz.top/b/a080619add0b/)
+> 共 60 章，[完整目录与正文 →](https://www.bqgmz.top/b/a080619add0b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

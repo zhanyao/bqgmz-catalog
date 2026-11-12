@@ -1,7 +1,7 @@
 # Das österreichische Antlitz: Essays
 
-**作者** Salten, Felix, 1869-1945 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 12 段 · 245,451 字 ｜ **来源** Project Gutenberg
+**作者** Salten, Felix, 1869-1945 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 21 章 · 245,451 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a168cd44bce4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（245,451 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,454 字；最长 Man ist hier überhaupt in einer höchst internationalen Gesel（39,713 字），最短 Wenn man die leicht geneigte Haltung des Kopfes, diesen unau（5,224 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-toc-title-list），拼接正文 4,822 行。 |
+| 篇幅分布 | 平均每章 11,654 字；最长 Die Wiener Straße（27,289 字），最短 Thronrede（7,222 字）。 |
 | 原文溯源 | `cache/epub/53713/pg53713.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Man ist hier überhaupt in einer höchst internationalen Gesel
-2. Ich vernahm, wie ein Budenausrufer mit einer wahrhaft tobend
-3. Der prächtige Titel »Wintergarten« ist natürlich eine Übertr
-4. Und ringsherum an den kleinen Tischen sitzen die Leute. Scha
-5. Ist es nicht merkwürdig, wie er so an der Peripherie des All
-6. Ein Kapitel aus dem Roman dieses Lebens: Wie er in der
-7. Wenn Sie aber erwägen, wie viele erlauchte Kräfte der Seele
-8. Es ist ein merkwürdiger Raum, dieser Schlafsaal armer, alter
-9. Draußen, im sommerlichen Sonntag, wird man von dem anmutigen
-10. Dennoch: auch der Erwachsene, auch der Aufgeklärte, auch der
+1. Die Wiener Straße
+2. Aristokraten-Vorstellung
+3. Fünfkreuzertanz
+4. Stalehner
+5. Beim Brady
+6. Nachtvergnügen
+7. Peter Altenberg
+8. Spaziergang in der Vorstadt
+9. Lueger
+10. Girardi-Kainz
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/a168cd44bce4/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/a168cd44bce4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Varieties of Religious Experience: A Study in Human Nature
 
-**作者** James, William, 1842-1910 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 44 段 · 889,980 字 ｜ **来源** Project Gutenberg
+**作者** James, William, 1842-1910 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 889,980 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/acedb7dba246/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（889,980 字）。 |
-| 分章依据 | 按「段」标记切分为 44 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,226 字；最长 Let us ourselves look at the matter in the largest possible （39,407 字），最短 343 Example: Henri Perreyve writes to Gratry: “I do not know（8,884 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-toc-title-list），拼接正文 19,642 行。 |
+| 篇幅分布 | 平均每章 44,130 字；最长 Lectures XI, XII, And XIII. Saintliness.（97,734 字），最短 Preface.（2,066 字）。 |
 | 原文溯源 | `cache/epub/621/pg621.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Let us ourselves look at the matter in the largest possible
-2. In the psychologies and in the philosophies of religion, we
-3. This is a complex, a tender, a submissive, and a graceful st
-4. But in addition to these ideas of the more concrete religiou
-5. “My highest faith in God and truest idea of him were then bo
-6. In many persons, happiness is congenital and irreclaimable.
-7. A. Nervous, active, wide‐awake, mentally and physically. Sor
-8. On the whole, one is struck by a psychological similarity be
-9. I believe that the claims of the sectarian scientist are, to
-10. Recent psychology has found great use for the word “threshol
+1. Preface.
+2. Lecture I. Religion And Neurology.
+3. Lecture II. Circumscription of the Topic.
+4. Lecture III. The Reality Of The Unseen.
+5. Lectures IV and V. The Religion Of Healthy‐Mindedness.
+6. Lectures VI And VII. The Sick Soul.
+7. Lecture VIII. The Divided Self, And The Process Of Its Unification.
+8. Lecture IX. Conversion.
+9. Lecture X. Conversion—Concluded.
+10. Lectures XI, XII, And XIII. Saintliness.
 
-> 共 44 段，[完整目录与正文 →](https://www.bqgmz.top/b/acedb7dba246/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/acedb7dba246/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

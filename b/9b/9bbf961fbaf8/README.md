@@ -1,7 +1,7 @@
 # The Syndic
 
-**作者** Kornbluth, C. M. (Cyril M.), 1923-1958 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 63 题 · 231,413 字 ｜ **来源** Project Gutenberg
+**作者** Kornbluth, C. M. (Cyril M.), 1923-1958 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 231,413 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9bbf961fbaf8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（231,413 字）。 |
-| 分章依据 | 按「题」标记切分为 63 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,673 字。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-roman-bare），拼接正文 6,173 行。 |
+| 篇幅分布 | 平均每章 10,802 字；最长 I（20,843 字），最短 XXI（5,618 字）。 |
 | 原文溯源 | `cache/epub/41714/pg41714.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BY C. M. KORNBLUTH
-2. ILLUSTRATED BY SUSSMAN
-3. The curtain rose on "New York--A Street."
-4. He said to Donnel: "You know Halloran long?"
-5. Grinnel smiled and said: "Well, this would be it, wouldn't it?"
-6. III
-7. IV
-8. Edward Falcaro snapped: "Suspect, hell! She killed him, didn't she?"
-9. Orsino said: "Maybe it's some outfit over in Europe or Asia?"
-10. He shrugged: "Say it, somebody. The Mob's gunning for us."
+1. I
+2. III
+3. IV
+4. V
+5. VI
+6. VII
+7. VIII
+8. IX
+9. X
+10. XI
 
-> 共 63 题，[完整目录与正文 →](https://www.bqgmz.top/b/9bbf961fbaf8/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/9bbf961fbaf8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

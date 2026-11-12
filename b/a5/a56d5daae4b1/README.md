@@ -1,7 +1,7 @@
 # Zoological Illustrations, Second Series, Volume 2 or, Original Figures and Descriptions of New, Rare, or Interesting Animals
 
-**作者** Swainson, William, 1789-1855 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 86,226 字 ｜ **来源** Project Gutenberg
+**作者** Swainson, William, 1789-1855 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 4 章 · 86,226 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a56d5daae4b1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（86,226 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,556 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-part），拼接正文 3,155 行。 |
+| 篇幅分布 | 平均每章 21,556 字。 |
 | 原文溯源 | `cache/epub/44057/pg44057.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 4 章）
 
-1. GENERIC CHARACTER.
-2. The inhabitants of the Murices, or Rock Shells, are rapaciou
-3. Genus Pieris, Lat.
-4. As we have not yet completed the analysis of this family of
+1. Volume I: see https://www.gutenberg.org/ebooks/44056.
+2. Volume III: see https://www.gutenberg.org/ebooks/44058.（1）
+3. Volume III: see https://www.gutenberg.org/ebooks/44058.（2）
+4. Notes.
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/a56d5daae4b1/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/a56d5daae4b1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

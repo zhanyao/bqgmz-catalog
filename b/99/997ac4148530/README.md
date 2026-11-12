@@ -1,7 +1,7 @@
 # An account of the principalities of Wallachia and Moldavia with various political observations relating to them
 
 **作者** Wilkinson, William, -1836 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 282,590 字 ｜ **来源** Project Gutenberg
+**规模** 17 章 · 282,590 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/997ac4148530/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（282,590 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,259 字；最长 “Since you cannot reconcile your minds t（67,835 字），最短 CHAPTER V.（7,240 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 6,371 行。 |
+| 篇幅分布 | 平均每章 16,191 字；最长 CHAPTER I.（37,318 字），最短 SECTION VI.（部2）（1,775 字）。 |
 | 原文溯源 | `cache/epub/68612/pg68612.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +26,9 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
-10. “Since you cannot reconcile your minds t
+10. SECTION I.（部2）
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/997ac4148530/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/997ac4148530/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

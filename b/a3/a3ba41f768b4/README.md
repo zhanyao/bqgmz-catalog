@@ -1,7 +1,7 @@
 # De Ellendigen (Deel 2 van 5)
 
-**作者** Hugo, Victor, 1802-1885 ｜ **国家/地区** 荷兰 ｜ **体例** 段  
-**规模** 24 段 · 484,156 字 ｜ **来源** Project Gutenberg
+**作者** Hugo, Victor, 1802-1885 ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 73 章 · 484,156 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a3ba41f768b4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（484,156 字）。 |
-| 分章依据 | 按「段」标记切分为 24 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,173 字；最长 't Spreekt vanzelf dat het geenszins ons oogmerk is, hier de（39,867 字），最短 Zijn geheel hart versmolt in dankbaarheid en vervulde zich h（3,773 字）。 |
+| 分章依据 | 按「章」标记切分为 73 章（auto-roman-title），拼接正文 12,856 行。 |
+| 篇幅分布 | 平均每章 49 字。 |
+| 起止 | 始于「I. Wat er op den weg van Nivelles gevonden wordt 7」，止于「IX. Besluit 275（部8）」。 |
 | 原文溯源 | `cache/epub/37663/pg37663.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. 't Spreekt vanzelf dat het geenszins ons oogmerk is, hier de
-2. Weinige oogenblikken nadat het front in slagorde was gesteld
-3. Eensklaps voelden de aanvallende kurassiers zich aangevallen
-4. Dit den rampspoed te antwoorden, dit aan het noodlot te zegg
-5. Maar wat doet het aan 't oneindige? deze orkaan, deze wolk,
-6. Korten tijd nu, na het aan 't openbaar ministerie geschenen
-7. Montfermeil ligt tusschen Livry en Chelles op den zuidelijke
-8. Toen Cosette met haar emmer in de hand uitging, kon zij zich
-9. De man vroeg op een gedwongen onverschilligen toon, doch die
-10. Cosette hief de oogen op. Zij had den man met de pop haar zi
+1. I. Wat er op den weg van Nivelles gevonden wordt 7
+2. II. Hougomont 8
+3. III. Den 18 Juni 1815 15
+4. V. Het "duistere iets" der veldslagen 19
+5. VI. Des namiddags te vier uren 21
+6. VII. Napoleon in goede luim 24
+7. VIII. De Keizer doet den gids Lacoste een vraag 29
+8. IX. Het onverwachte 32
+9. X. Het bergvlak van Mont-Saint-Jean 35
+10. XI. Een slechte gids voor Napoleon, een goede gids voor
 
-> 共 24 段，[完整目录与正文 →](https://www.bqgmz.top/b/a3ba41f768b4/)
+> 共 73 章，[完整目录与正文 →](https://www.bqgmz.top/b/a3ba41f768b4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Darwin, and After Darwin, Volumes 1 and 3 An Exposition of the Darwinian Theory and a Discussion of Post-Darwinian Questions
 
 **作者** Romanes, George John, 1848-1894 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 15 章 · 570,012 字 ｜ **来源** Project Gutenberg
+**规模** 11 章 · 570,012 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a286b3f1bb1b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,13 +11,13 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（570,012 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 38,000 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 12,505 行。 |
+| 篇幅分布 | 平均每章 50,906 字；最长 APPENDIX TO CHAPTER V.（71,284 字），最短 SECTION I（28,571 字）。 |
 | 原文溯源 | `cache/epub/24800/pg24800.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
+1. SECTION I
 2. CHAPTER II.
 3. CHAPTER III.
 4. CHAPTER IV.
@@ -28,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/a286b3f1bb1b/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/a286b3f1bb1b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

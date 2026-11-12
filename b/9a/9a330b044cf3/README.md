@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（367,510 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 45,938 字；最长 CHAPTER VII.（72,619 字），最短 CHAPTER III.（25,596 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「10.22. Devil's River.--First crossing. G」。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 9,955 行。 |
+| 篇幅分布 | 平均每章 44,999 字；最长 CHAPTER VII.（132,656 字），最短 APPENDIX.（5,442 字）。 |
 | 原文溯源 | `cache/epub/23066/pg23066.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
@@ -25,9 +24,9 @@
 5. CHAPTER V.
 6. CHAPTER VI.
 7. CHAPTER VII.
-8. 10.22. Devil's River.--First crossing. G
+8. APPENDIX.
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/9a330b044cf3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

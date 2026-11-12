@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（684,567 字）。 |
-| 分章依据 | 按「章」标记切分为 48 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,261 字；最长 CHAPTER IX. HIS INTEREST IN A LADY FELLOW-TRAVELLER.（24,366 字），最短 CHAPTER XLIII. I AM CONFINED IN THE AMBRAS SCHLOSS（2,549 字）。 |
+| 分章依据 | 按「章」标记切分为 48 章（auto-chapter），拼接正文 15,826 行。 |
+| 篇幅分布 | 平均每章 14,258 字；最长 CHAPTER IX. HIS INTEREST IN A LADY FELLOW-TRAVELLER.（24,366 字），最短 CHAPTER XLIII. I AM CONFINED IN THE AMBRAS SCHLOSS（2,549 字）。 |
 | 起止 | 始于「CHAPTER I. I PREPARE TO SEEK ADVENTURES」，止于「CHAPTER XLVIII. FINAL ADVENTURES AND SETTLEMENT」。 |
 | 原文溯源 | `cache/epub/32692/pg32692.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 48 章，[完整目录与正文 →](https://www.bqgmz.top/b/a67723d3c52f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

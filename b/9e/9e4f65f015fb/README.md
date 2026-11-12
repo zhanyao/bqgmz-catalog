@@ -1,7 +1,7 @@
 # Free, and other stories
 
-**作者** Dreiser, Theodore, 1871-1945 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 23 段 · 464,302 字 ｜ **来源** Project Gutenberg
+**作者** Dreiser, Theodore, 1871-1945 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 464,302 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9e4f65f015fb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（464,302 字）。 |
-| 分章依据 | 按「段」标记切分为 23 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,187 字；最长 At the time he had married Ernestine he was really too young（39,593 字），最短 By her side, in front of the counter and between their bodie（3,668 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 10,638 行。 |
+| 篇幅分布 | 平均每章 42,077 字；最长 WILL YOU WALK INTO MY PARLOR（92,649 字），最短 WHEN THE OLD CENTURY WAS NEW（22,913 字）。 |
 | 原文溯源 | `cache/epub/68542/pg68542.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. At the time he had married Ernestine he was really too young
-2. Take but one more case, that of Ethelberta. What a name! In
-3. Now the innate cruelty of life, its blazing ironic indiffere
-4. The one problem with this vast host, now that it was assembl
-5. “I give ye fair warning,” said the sheriff, jumping from his
-6. “Oh, my God!” said Davies again, biting his fingers unconsci
-7. One day in the early spring of her sixty-fourth year Mrs. Re
-8. Curiously on this occasion a strange suggestion of the prese
-9. And the agony of the long days when he did not come any more
-10. On the _Star_, slightly the lesser of these two great dailie
+1. FREE
+2. MCEWEN OF THE SHINING SLAVE MAKERS
+3. NIGGER JEFF
+4. THE LOST PHŒBE
+5. THE SECOND CHOICE
+6. A STORY OF STORIES
+7. OLD ROGAUM AND HIS THERESA
+8. WILL YOU WALK INTO MY PARLOR
+9. THE CRUISE OF THE “IDLEWILD”
+10. MARRIED
 
-> 共 23 段，[完整目录与正文 →](https://www.bqgmz.top/b/9e4f65f015fb/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/9e4f65f015fb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

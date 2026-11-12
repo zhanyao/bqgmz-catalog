@@ -1,7 +1,7 @@
 # Overweight and Underweight
 
-**作者** Metropolitan Life Insurance Company ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 16 题 · 31,986 字 ｜ **来源** Project Gutenberg
+**作者** Metropolitan Life Insurance Company ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 31,986 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/aecbd7ef898a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（31,986 字）。 |
-| 分章依据 | 按「题」标记切分为 16 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,999 字。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-toc-title-list），拼接正文 1,184 行。 |
+| 篇幅分布 | 平均每章 1,811 字；最长 How Many Calories?（6,107 字），最短 Saving Energy（510 字）。 |
 | 原文溯源 | `cache/epub/66226/pg66226.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. CONTENTS
-2. P.F.M.—PRINTED IN U.S.A.—(u) 380 L. W. (Edition Jan. 1953)
-3. OVERWEIGHT AND ITS DANGERS
-4. HELPFUL HINTS
-5. 1000 CALORIE DIET
-6. 1200 CALORIE DIET
-7. 1500 CALORIE DIET
-8. LUNCH
-9. LUNCH
-10. LUNCH
+1. What Is Desirable Weight?
+2. Overweight and Its Dangers
+3. What Makes a Person Fat?
+4. Why Do People Overeat?
+5. How to Lose Weight
+6. The Body’s Need for Food
+7. The Body’s Need for Exercise
+8. What About Short Cuts?
+9. How Many Calories?
+10. On Keeping a Record
 
-> 共 16 题，[完整目录与正文 →](https://www.bqgmz.top/b/aecbd7ef898a/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/aecbd7ef898a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

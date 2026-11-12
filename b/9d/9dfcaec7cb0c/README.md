@@ -1,7 +1,7 @@
 # The Whirlpool
 
 **作者** Gissing, George, 1857-1903 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 748,242 字 ｜ **来源** Project Gutenberg
+**规模** 40 章 · 748,242 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9dfcaec7cb0c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（748,242 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 44,014 字；最长 CHAPTER 1（236,055 字），最短 CHAPTER 6（12,138 字）。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-chapter），拼接正文 18,967 行。 |
+| 篇幅分布 | 平均每章 18,703 字；最长 CHAPTER 8（部2）（28,186 字），最短 CHAPTER 13（部3）（7,144 字）。 |
+| 起止 | 始于「CHAPTER 1」，止于「CHAPTER 13（部3）」。 |
 | 原文溯源 | `cache/epub/4299/pg4299.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER 9
 10. CHAPTER 10
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/9dfcaec7cb0c/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/9dfcaec7cb0c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

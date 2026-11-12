@@ -1,7 +1,7 @@
 # Kreuz und Quer, Dritter Band Neue gesammelte Erzählungen
 
-**作者** Gerstäcker, Friedrich, 1816-1872 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 18 段 · 371,584 字 ｜ **来源** Project Gutenberg
+**作者** Gerstäcker, Friedrich, 1816-1872 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 10 篇 · 371,584 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a62043766586/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（371,584 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,643 字；最长 Die Hunde schlugen jetzt an und rannten heulend und bellend （39,963 字），最短 Jones' Oberkörper war weiß und glatt, auch mehr fleischig, M（11,408 字）。 |
+| 分章依据 | 按「篇」标记切分为 10 篇（auto-title-block），拼接正文 8,089 行。 |
+| 篇幅分布 | 平均每篇 36,258 字；最长 Ermordeten.«（139,256 字），最短 New-York?«（8,330 字）。 |
 | 原文溯源 | `cache/epub/55163/pg55163.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Die Hunde schlugen jetzt an und rannten heulend und bellend
-2. »Nein Vater, aber sie mögen das mit ihrem eigenen Gewissen a
-3. Niemand war bei ihm im Haus gewesen als seine Frau und diese
-4. Nach einer Stunde etwa kehrte der junge Wells zurück. Da sie
-5. Bill Jenkins war noch fast ein Kind, aber Kinder in jenen wi
-6. Halt! das klang wie eine menschliche Stimme -- wenn sie jetz
-7. »Das ist eben der Teufel, und wenn das nicht wäre,« meinte J
-8. »Und ist er schon lange hier in der Ansiedlung?«
-9. Wie in aller Welt hatte er John überlistet? -- war sein Pfer
-10. Das herankommende Canoe sah indessen nicht so aus, als ob es
+1. New-York?«
+2. Reden Durst bekommen.«
+3. Ihren Lippen --«
+4. Dich.«
+5. Jungen Nichts gehört.«
+6. Arkansas.«
+7. der Rache?«
+8. Ermordeten.«
+9. Euch abzugeben.«
+10. ein Bettler.«
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/a62043766586/)
+> 共 10 篇，[完整目录与正文 →](https://www.bqgmz.top/b/a62043766586/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

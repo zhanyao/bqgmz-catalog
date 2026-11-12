@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（692,421 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 43,276 字；最长 CHAPTER XVI.----THE CRUSADES, THEIR ORIGIN AND THEIR SUCCESS.（81,153 字），最短 CHAPTER III.----THE ROMANS IN GAUL.（21,578 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 12,847 行。 |
+| 篇幅分布 | 平均每章 42,832 字；最长 CHAPTER XVI.----THE CRUSADES, THEIR ORIGIN AND THEIR SUCCESS.（81,140 字），最短 CHAPTER III.----THE ROMANS IN GAUL.（21,578 字）。 |
 | 起止 | 始于「CHAPTER I.----GAUL.」，止于「CHAPTER XVI.----THE CRUSADES, THEIR ORIGIN AND THEIR SUCCESS.」。 |
 | 原文溯源 | `cache/epub/11951/pg11951.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/ab1dcce6e0fc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

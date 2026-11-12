@@ -1,7 +1,7 @@
 # The Renaissance: studies in art and poetry
 
-**作者** Pater, Walter, 1839-1894 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 14 段 · 287,359 字 ｜ **来源** Project Gutenberg
+**作者** Pater, Walter, 1839-1894 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 193 篇 · 287,359 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a2564d12c4a8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（287,359 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,525 字；最长 The friendship of Amis and Amile is deepened by the romantic（39,280 字），最短 [233] TO regard all things and principles of things as incon（7,519 字）。 |
+| 分章依据 | 按「篇」标记切分为 193 篇（通用标记切分），拼接正文 6,017 行。 |
+| 篇幅分布 | 平均每篇 1,488 字。 |
 | 原文溯源 | `cache/epub/4060/pg4060.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. The friendship of Amis and Amile is deepened by the romantic
-2. But in the House Beautiful the saints too have their place;
-3. Yet he who had this fine touch for spiritual things did not-
-4. But, after all, it may be asked, is a painter like Botticell
-5. It was through an accident that he came to study those works
-6. The qualities of the great masters in art or literature, the
-7. This curious beauty is seen above all in his drawings, and i
-8. To such a philosophy of the variations of the beautiful, Les
-9. And now, finally, let me illustrate some of the characterist
-10. Much of Du Bellay's poetry illustrates rather the age and sc
+1. Notes: The 1910 Library Edition employs footnotes, a
+2. Greek typeface: For this full-text edition, I have transliterated
+3. [vii] Many attempts have been made by writers on art and poetry to
+4. The aesthetic critic, then, regards all the objects with which he
+5. What is important, then, is not that the critic should possess a
+6. Often it will require great nicety to disengage this virtue from the
+7. The subjects of the following studies are taken from the history
+8. But it is in Italy, in the fifteenth century, that the interest of the
+9. The various forms of intellectual activity which together make
+10. I have added an essay on Winckelmann, as not incongruous with
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/a2564d12c4a8/)
+> 共 193 篇，[完整目录与正文 →](https://www.bqgmz.top/b/a2564d12c4a8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

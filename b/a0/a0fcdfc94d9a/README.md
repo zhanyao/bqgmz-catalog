@@ -1,7 +1,7 @@
 # All's Well That Ends Well（#1125）
 
-**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 105,783 字 ｜ **来源** Project Gutenberg
+**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 15 篇 · 105,783 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a0fcdfc94d9a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（105,783 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,156 字；最长 Old.Cou. Yes Hellen, you might be my daughter in law,（39,775 字），最短 Ber. My Lord, this is a fond and desp'rate creature,（5,822 字）。 |
+| 分章依据 | 按「篇」标记切分为 15 篇（通用标记切分），拼接正文 4,058 行。 |
+| 篇幅分布 | 平均每篇 7,052 字。 |
 | 原文溯源 | `cache/epub/1125/pg1125.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 篇）
 
-1. Old.Cou. Yes Hellen, you might be my daughter in law,
-2. Kin. Good fortune, and the fauour of the King
-3. Di. 'Tis pitty he is not honest: yonds that same knaue
-4. Int. What is his reputation with the Duke?
-5. Ber. My Lord, this is a fond and desp'rate creature,
+1. Executive Director's Notes:
+2. In addition to the notes below, and so you will *NOT* think all
+3. As I understand it, the printers often ran out of certain words
+4. The answer is that they MAY have packed "liue" into a cliche at a
+5. You will find a lot of these kinds of "errors" in this text, as I
+6. So, please take this into account when reading the comments below
+7. The elongated S's have been changed to small s's and the
+8. Another thing that you should be aware of is that there are
+9. Coun. What doe's this knaue heere? Get you gone
+10. Clo. But a triflle neither in good faith, if the learned
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/a0fcdfc94d9a/)
+> 共 15 篇，[完整目录与正文 →](https://www.bqgmz.top/b/a0fcdfc94d9a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

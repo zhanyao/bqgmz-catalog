@@ -1,7 +1,7 @@
 # Swamp Island
 
-**作者** Wirt, Mildred A. (Mildred Augustine), 1905-2002 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 8 题 · 178,171 字 ｜ **来源** Project Gutenberg
+**作者** Wirt, Mildred A. (Mildred Augustine), 1905-2002 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 25 章 · 178,171 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a8cbeffdbfe7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（178,171 字）。 |
-| 分章依据 | 按「题」标记切分为 8 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 22,271 字。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-num），拼接正文 6,211 行。 |
+| 篇幅分布 | 平均每章 7,079 字；最长 25（10,933 字），最短 14（5,309 字）。 |
 | 原文溯源 | `cache/epub/35083/pg35083.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 题）
+## 章节目录（前 10 章）
 
-1. COPYRIGHT, 1947, BY CUPPLES AND LEON CO.
-2. Swamp Island
-3. PRINTED IN U. S. A.
-4. CONTENTS
-5. Jerry sat up, chuckling. "Ruined a good shirt too!"
-6. From inside the shed came a muffled reply: "Yep, it's me and Hod."
-7. Jerry's face crinkled into a broad grin. "The swamp! That's good!"
-8. Penny ran to her. "You're hurt!" she whispered. "Bitten by a snake?"
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
 
-> 共 8 题，[完整目录与正文 →](https://www.bqgmz.top/b/a8cbeffdbfe7/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/a8cbeffdbfe7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

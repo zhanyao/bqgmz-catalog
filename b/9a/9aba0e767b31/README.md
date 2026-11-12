@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（355,167 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 13,154 字；最长 CHAPTER XVII. TO BE SHADOWED（15,956 字），最短 CHAPTER XVIII. SURPRISE（10,442 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-chapter），拼接正文 8,760 行。 |
+| 篇幅分布 | 平均每章 13,153 字；最长 CHAPTER XVII. TO BE SHADOWED（15,956 字），最短 CHAPTER XVIII. SURPRISE（10,442 字）。 |
 | 起止 | 始于「CHAPTER I. ONLY THE GUARDIAN」，止于「CHAPTER XXVII. THE GUARDED SECRET」。 |
 | 原文溯源 | `cache/epub/5308/pg5308.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/9aba0e767b31/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

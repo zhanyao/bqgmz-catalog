@@ -1,7 +1,7 @@
 # A History of Police in England
 
 **作者** Lee, W. L. Melville (William Lauriston Melville), 1865-1955 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 545,948 字 ｜ **来源** Project Gutenberg
+**规模** 19 章 · 545,948 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9aa029022961/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（545,948 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 41,996 字；最长 Under the rural police system such a sta（112,990 字），最短 CHAPTER V（20,155 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 12,120 行。 |
+| 篇幅分布 | 平均每章 26,335 字；最长 CHAPTER VII（38,509 字），最短 CHAPTER XI（13,492 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XIX」。 |
 | 原文溯源 | `cache/epub/46812/pg46812.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/9aa029022961/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/9aa029022961/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Faerie Queene — Volume 01
 
 **作者** Spenser, Edmund, 1552?-1599 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 2,121,669 字 ｜ **来源** Project Gutenberg
+**规模** 40 章 · 2,121,669 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a196fb4f2e5e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（2,121,669 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 163,205 字。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-chapter），拼接正文 96,583 行。 |
+| 篇幅分布 | 平均每章 50,065 字；最长 CANTO XII（部2）（89,210 字），最短 CHAPTER III.（部4）（8,442 字）。 |
 | 原文溯源 | `cache/epub/6930/pg6930.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -20,7 +20,7 @@
 1. CANTO I
 2. CANTO II
 3. CANTO III
-4. CANTO IV
+4. CANTO IIII
 5. CANTO V
 6. CANTO VI
 7. CANTO VII
@@ -28,7 +28,7 @@
 9. CANTO IX
 10. CANTO X
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/a196fb4f2e5e/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/a196fb4f2e5e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（337,241 字）。 |
-| 分章依据 | 按「章」标记切分为 29 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,629 字；最长 CHAPTER XII. THE TRAGIC HOME-COMING（35,575 字），最短 CHAPTER XXIII. THE FINANCIAL LOSS（3,490 字）。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-chapter），拼接正文 9,582 行。 |
+| 篇幅分布 | 平均每章 11,234 字；最长 CHAPTER XII. THE TRAGIC HOME-COMING（35,575 字），最短 CHAPTER I. FIRST NEWS OF THE GREATEST MARINE DISASTER IN HISTORY（2,931 字）。 |
 | 起止 | 始于「CHAPTER I. FIRST NEWS OF THE GREATEST MARINE DISASTER IN HISTORY」，止于「CHAPTER XXIX. THE SENATORIAL INVESTIGATION」。 |
 | 原文溯源 | `cache/epub/781/pg781.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/99e48545c27d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

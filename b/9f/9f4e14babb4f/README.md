@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（267,617 字）。 |
-| 分章依据 | 按「章」标记切分为 42 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,371 字；最长 CHAPTER XLII. IN THE SUNSHINE.（20,645 字），最短 CHAPTER XXIV. “THE PANGS THAT REND MY HEART IN TWAIN!”（3,362 字）。 |
+| 分章依据 | 按「章」标记切分为 42 章（auto-chapter），拼接正文 8,080 行。 |
+| 篇幅分布 | 平均每章 6,323 字；最长 CHAPTER XLII. IN THE SUNSHINE.（19,904 字），最短 CHAPTER XXIV. “THE PANGS THAT REND MY HEART IN TWAIN!”（3,362 字）。 |
 | 起止 | 始于「CHAPTER I. CUPID IN THE RAIN.」，止于「CHAPTER XLII. IN THE SUNSHINE.」。 |
 | 原文溯源 | `cache/epub/69071/pg69071.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/9f4e14babb4f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

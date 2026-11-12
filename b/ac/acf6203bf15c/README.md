@@ -1,7 +1,7 @@
 # Farthest North The Life and Explorations of Lieutenant James Booth Lockwood, of the Greely Arctic Expedition
 
-**作者** Lanman, Charles, 1819-1895 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 14 题 · 406,455 字 ｜ **来源** Project Gutenberg
+**作者** Lanman, Charles, 1819-1895 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 19 章 · 406,455 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/acf6203bf15c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（406,455 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 29,032 字。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-roman-bare），拼接正文 8,438 行。 |
+| 篇幅分布 | 平均每章 21,079 字；最长 XI.（49,567 字），最短 VI.（7,261 字）。 |
+| 起止 | 始于「I.」，止于「XIX.」。 |
 | 原文溯源 | `cache/epub/54019/pg54019.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. FARTHEST NORTH;
-2. OR,
-3. PREFACE.
-4. CONTENTS.
-5. ILLUSTRATIONS.
-6. FARTHEST NORTH.
-7. Several of the officers and men attempte
-8. He started, therefore, with—
-9. Much of Lockwood’s time was of necessity
-10. TABULATED STATEMENT OF THE DISTANCE TRAVELED TO LOCKWOOD ISLAND.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/acf6203bf15c/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/acf6203bf15c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

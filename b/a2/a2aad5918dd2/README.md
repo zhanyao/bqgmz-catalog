@@ -11,18 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（330,757 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 82,689 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-roman-bare），拼接正文 7,371 行。 |
+| 篇幅分布 | 平均每章 78,157 字。 |
 | 原文溯源 | `cache/epub/35109/pg35109.txt`（Project Gutenberg） |
 
 ## 章节目录（前 4 章）
 
-1. Scene 3.) Continually in this play is Jonson attacking Chapman for the
-2. Scene 8 is one of narration only, but the speakers are in an excited frame
-3. Scene 9 disposes of the second of Portia
-4. The Elizabethan Stage Society was founde
+1. I
+2. II
+3. III
+4. IV
 
 > 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/a2aad5918dd2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

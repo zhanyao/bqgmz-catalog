@@ -1,7 +1,7 @@
 # The history of a tame robin
 
-**作者** Anonymous ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 24 题 · 110,802 字 ｜ **来源** Project Gutenberg
+**作者** Anonymous ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 5 章 · 110,802 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a8558104caad/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（110,802 字）。 |
-| 分章依据 | 按「题」标记切分为 24 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,616 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-caps-sections），拼接正文 2,500 行。 |
+| 篇幅分布 | 平均每章 22,143 字。 |
 | 原文溯源 | `cache/epub/72287/pg72287.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. THE
-2. HISTORY
-3. OF A
-4. TAME ROBIN.
-5. SUPPOSED TO BE
-6. WRITTEN BY HIMSELF.
-7. THE HISTORY
-8. OF A
-9. TAME ROBIN.
-10. CHAP. I.
+1. CHAP. IV.（1）
+2. CHAP. IV.（2）
+3. CHAP. VIII.
+4. CHAP. X.
+5. CONCLUSION.
 
-> 共 24 题，[完整目录与正文 →](https://www.bqgmz.top/b/a8558104caad/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/a8558104caad/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Columbiad: A Poem
 
 **作者** Barlow, Joel, 1754-1812 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 433,892 字 ｜ **来源** Project Gutenberg
+**规模** 16 章 · 433,892 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a9b18c856c30/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（433,892 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,444 字；最长 Book X.（71,990 字），最短 Book IV.（24,874 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-part），拼接正文 11,726 行。 |
+| 篇幅分布 | 平均每章 27,118 字；最长 Book I. Line 753.（6）（55,613 字），最短 Book VII. Line 89.（957 字）。 |
 | 原文溯源 | `cache/epub/8683/pg8683.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Book I.
-2. Book II.
-3. Book III.
-4. Book IV.
-5. Book V.
-6. Book VI.
-7. Book VII.
-8. Book VIII.
-9. Book IX.
-10. Book X.
+1. Book I. Line 753.（1）
+2. Book I. Line 753.（2）
+3. Book I. Line 753.（3）
+4. Book I. Line 753.（4）
+5. Book I. Line 753.（5）
+6. Book I. Line 753.（6）
+7. Book I. Line 753.（7）
+8. Book II. Line 553.
+9. Book III. Line 687.
+10. Book IV. Line 529.
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/a9b18c856c30/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/a9b18c856c30/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

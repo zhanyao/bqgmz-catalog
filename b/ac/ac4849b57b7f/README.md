@@ -1,7 +1,7 @@
 # Alfgar the Dane or the Second Chronicle of Aescendune A Tale of the Days of Edmund Ironside
 
 **作者** Crake, A. D. (Augustine David), 1836-1890 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 25 章 · 341,217 字 ｜ **来源** Project Gutenberg
+**规模** 26 章 · 341,217 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ac4849b57b7f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（341,217 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 13,648 字；最长 CHAPTER XXV. FATHER CUTHBERT'S DIARY.（34,507 字），最短 CHAPTER IX. THE CAMP OF THE DANES.（9,389 字）。 |
-| 起止 | 始于「CHAPTER I. THE DIARY OF FATHER CUTHBERT.」，止于「CHAPTER XXV. FATHER CUTHBERT'S DIARY.」。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 9,513 行。 |
+| 篇幅分布 | 平均每章 12,868 字；最长 CHAPTER XXV. FATHER CUTHBERT'S DIARY.（27,353 字），最短 notes to "Florence of Worcester," says--"May not Chimney be the spot,（7,154 字）。 |
 | 原文溯源 | `cache/epub/13305/pg13305.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX. THE CAMP OF THE DANES.
 10. CHAPTER X. CARISBROOKE IN THE ELEVENTH CENTURY.
 
-> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/ac4849b57b7f/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/ac4849b57b7f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

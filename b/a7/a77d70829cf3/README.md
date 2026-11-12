@@ -1,7 +1,7 @@
 # La Montaña
 
-**作者** Reclus, Elisée, 1830-1905 ｜ **国家/地区** 西班牙 ｜ **体例** 题  
-**规模** 29 题 · 235,938 字 ｜ **来源** Project Gutenberg
+**作者** Reclus, Elisée, 1830-1905 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 21 章 · 235,938 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a77d70829cf3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（235,938 字）。 |
-| 分章依据 | 按「题」标记切分为 29 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,135 字。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 4,697 行。 |
+| 篇幅分布 | 平均每章 10,891 字；最长 CAPÍTULO XVII（17,990 字），最短 CAPÍTULO XXI（5,890 字）。 |
 | 原文溯源 | `cache/epub/11598/pg11598.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LA MONTAÑA
-2. ELÍSEO RECLUS
-3. Traducción de A. López Rodrigo
-4. LA MONTAÑA
-5. CAPÍTULO PRIMERO
-6. CAPÍTULO II
-7. CAPÍTULO III
-8. CAPÍTULO IV
-9. CAPÍTULO V
-10. CAPÍTULO VI
+1. CAPÍTULO II
+2. CAPÍTULO III
+3. CAPÍTULO IV
+4. CAPÍTULO V
+5. CAPÍTULO VI
+6. CAPÍTULO VII
+7. CAPÍTULO VIII
+8. CAPÍTULO IX
+9. CAPÍTULO X
+10. CAPÍTULO XI
 
-> 共 29 题，[完整目录与正文 →](https://www.bqgmz.top/b/a77d70829cf3/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/a77d70829cf3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

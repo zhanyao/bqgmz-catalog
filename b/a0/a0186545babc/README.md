@@ -1,7 +1,7 @@
 # La vie littéraire. Deuxième série
 
-**作者** France, Anatole, 1844-1924 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 63 题 · 445,644 字 ｜ **来源** Project Gutenberg
+**作者** France, Anatole, 1844-1924 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 36 篇 · 445,644 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a0186545babc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（445,644 字）。 |
-| 分章依据 | 按「题」标记切分为 63 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,073 字。 |
+| 分章依据 | 按「篇」标记切分为 36 篇（通用标记切分），拼接正文 9,810 行。 |
+| 篇幅分布 | 平均每篇 12,370 字；最长 M. JULES LEMAÎTRE[19]（36,998 字），最短 M. HENRI MEILHAC À L'ACADÉMIE FRANÇAISE（2,157 字）。 |
 | 原文溯源 | `cache/epub/19344/pg19344.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. ANATOLE FRANCE
-2. DE L'ACADÉMIE FRANÇAISE
-3. DEUXIÈME SÉRIE
-4. PRÉFACE
-5. A. F.
-6. LA VIE LITTÉRAIRE
-7. M. ALEXANDRE DUMAS FILS
-8. LES JOUETS D'ENFANTS
-9. GUSTAVE FLAUBERT[3]
-10. M. GUY DE MAUPASSANT
+1. PRÉFACE
+2. ET LE PARDON DE MARIE
+3. LES JOUETS D'ENFANTS
+4. GUSTAVE FLAUBERT[3]
+5. CRITIQUE ET ROMANCIER
+6. LE BONHEUR[5]
+7. MÉRIMÉE[6]
+8. HORS DE LA LITTÉRATURE[7]
+9. BIBLIOPHILIE[8]
+10. LES CRIMINELS[9]
 
-> 共 63 题，[完整目录与正文 →](https://www.bqgmz.top/b/a0186545babc/)
+> 共 36 篇，[完整目录与正文 →](https://www.bqgmz.top/b/a0186545babc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

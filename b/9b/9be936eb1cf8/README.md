@@ -1,7 +1,7 @@
 # Slim Evans and His Horse Lightning
 
-**作者** Dean, Graham M., 1904-1974 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 9 段 · 184,473 字 ｜ **来源** Project Gutenberg
+**作者** Dean, Graham M., 1904-1974 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 21 篇 · 184,473 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9be936eb1cf8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（184,473 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,497 字；最长 Slim piled more fuel on the fire and as the flames leaped hi（39,922 字），最短 “Hack Cook was taken, too. Hack talked.”（4,253 字）。 |
+| 分章依据 | 按「篇」标记切分为 21 篇（通用标记切分），拼接正文 5,527 行。 |
+| 篇幅分布 | 平均每篇 8,768 字；最长 Fading Trails（19,521 字），最短 More Clues（3,752 字）。 |
 | 原文溯源 | `cache/epub/44923/pg44923.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 篇）
 
-1. Slim piled more fuel on the fire and as the flames leaped hi
-2. “That’s what we want to know,” said Chuck. “There’s got to b
-3. “You can start the fire now,” grinned Chuck as he picked up
-4. Newt Bemis looked plain bad. His features were heavily lined
-5. “Something tried to happen,” said Chuck grimly. “This is no
-6. Nels Anderson and Al Bass rode forward from the Double O gro
-7. The riders scattered to their horses and a few minutes later
-8. The freight train clanked to a stop while a quarter of a mil
-9. “Hack Cook was taken, too. Hack talked.”
+1. Chicago
+2. Bushwhackers
+3. The Strange Letter
+4. Trouble Looms
+5. The Unknown Rider
+6. Lightning Returns
+7. Explanations
+8. The Vanishing Camp
+9. Secret Commissions
+10. Dirty Water
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/9be936eb1cf8/)
+> 共 21 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9be936eb1cf8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

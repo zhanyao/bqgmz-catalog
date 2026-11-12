@@ -1,7 +1,7 @@
 # Italian tytär
 
-**作者** Lamartine, Alphonse de, 1790-1869; Paalanen, Esteri, 1886-1976 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 8 段 · 176,979 字 ｜ **来源** Project Gutenberg
+**作者** Lamartine, Alphonse de, 1790-1869; Paalanen, Esteri, 1886-1976 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 101 章 · 176,979 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b1eb077dd48b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（176,979 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,122 字；最长 Tavallisesti ottavat he mukaansa tulisoihtuja viekotellaksee（39,134 字），最短 Hän oli vähän aikaa sitten tullut hyväksi ystäväksi muutamie（16,987 字）。 |
+| 分章依据 | 按「章」标记切分为 101 章（auto-num），拼接正文 3,816 行。 |
+| 篇幅分布 | 平均每章 1,751 字；最长 30.（部5）（5,698 字），最短 7.（部3）（587 字）。 |
+| 起止 | 始于「1.」，止于「35.（部5）」。 |
 | 原文溯源 | `cache/epub/61552/pg61552.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. Tavallisesti ottavat he mukaansa tulisoihtuja viekotellaksee
-2. Sitten hieroi nuori tyttö silmiään käsillään, kohottaen kyyn
-3. Myrsky pidätti meitä siellä yhdeksän kokonaista päivää. Me o
-4. Tämän puolen tunnin aikana näytti hän tulleen kuusi vuotta
-5. Niin kului aamupäivä puhellessa, leikkiä laskiessa ja työtä
-6. Cecco, se oli Graziellan orpanan nimi, alkoi yhä useammin
-7. Jos Graziella kerran on tällä saarella, sanoin itselleni, on
-8. Hän oli vähän aikaa sitten tullut hyväksi ystäväksi muutamie
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 1.（部2）
+9. 2.（部2）
+10. 3（部2）
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/b1eb077dd48b/)
+> 共 101 章，[完整目录与正文 →](https://www.bqgmz.top/b/b1eb077dd48b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

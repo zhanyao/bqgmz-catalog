@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（184,036 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,403 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 4,921 行。 |
+| 篇幅分布 | 平均每章 18,201 字；最长 THE LEPIDOPTERA（48,893 字），最短 Notes.（1,957 字）。 |
 | 原文溯源 | `cache/epub/44096/pg44096.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I. PAGE
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII.
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. When full-grown this larva descends to t
+1. GENERAL OBSERVATIONS
+2. COLLECTING INSECTS
+3. THE COLEOPTERA
+4. THE HYMENOPTERA
+5. THE DIPTERA
+6. THE LEPIDOPTERA
+7. THE NEUROPTERA
+8. THE ORTHOPTERA
+9. THE HEMIPTERA
+10. Notes.
 
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/a15babe2029c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

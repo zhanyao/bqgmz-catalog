@@ -1,7 +1,7 @@
 # Das erste Schuljahr: Eine Erzählung für Kinder von 7-12 Jahren
 
-**作者** Sapper, Agnes, 1852-1929 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 9 段 · 197,466 字 ｜ **来源** Project Gutenberg
+**作者** Sapper, Agnes, 1852-1929 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 15 章 · 197,466 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b0779bb4255a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（197,466 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,940 字；最长 Endlich ging aber auch dieser glückliche Tag zu Ende. Als Gr（39,960 字），最短 »Ich werde die Erste vorrufen, sie wird dann ihr Zeugnis in （18,193 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-toc-title-list），拼接正文 5,268 行。 |
+| 篇幅分布 | 平均每章 13,119 字；最长 Aller Anfang ist schwer（27,598 字），最短 Der Hans（3,545 字）。 |
 | 原文溯源 | `cache/epub/58300/pg58300.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. Endlich ging aber auch dieser glückliche Tag zu Ende. Als Gr
-2. Während der Hans schrieb, ging der Lehrer weiter zu den Mädc
-3. Inzwischen hatten die Kinder den dritten Vers angefangen zu
-4. Am Nachmittag kam aber doch etwas, das ihr _nicht_ schön ers
-5. Und Felix schlug die Augen nieder, denn der Hans hatte ihn d
-6. Viele Hände wurden in die Höhe gestreckt.
-7. »Das will ich dir zeigen,« sprach der Vater, »höre mir einma
-8. »Mit ihrer Wahrhaftigkeit ist es nicht so weit her, dafür ha
-9. »Ich werde die Erste vorrufen, sie wird dann ihr Zeugnis in
+1. Was im Wochenblatt steht
+2. Der erste Schultag
+3. Der Hans
+4. »Es ist immer so«
+5. Felix Acosta
+6. Wo ist das Rohr?
+7. Gute Kameraden
+8. Es geht geheimnisvoll zu
+9. Eine wichtige Neuigkeit
+10. Der Abschied
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/b0779bb4255a/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/b0779bb4255a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Talisman, from the Russian of Alexander Pushkin; With Other Pieces
 
-**作者** Borrow, George, 1803-1881; Mickiewicz, Adam, 1798-1855 [Contributor]; Pushkin, Aleksandr Sergeevich, 1799-1837 [Contributor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 6 题 · 8,029 字 ｜ **来源** Project Gutenberg
+**作者** Borrow, George, 1803-1881; Mickiewicz, Adam, 1798-1855 [Contributor]; Pushkin, Aleksandr Sergeevich, 1799-1837 [Contributor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 8,029 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a49ef0647032/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（8,029 字）。 |
-| 分章依据 | 按「题」标记切分为 6 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,338 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 339 行。 |
+| 篇幅分布 | 平均每篇 8,029 字。 |
 | 原文溯源 | `cache/epub/12458/pg12458.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 题）
+## 章节目录（前 1 篇）
 
-1. Transcribed by David Price, email ccx074@coventry.ac.uk
-2. THE TALISMAN
-3. THE MERMAID
-4. ANCIENT RUSSIAN SONG
-5. ANCIENT BALLAD
-6. THE RENEGADE
+1. The Talisman, from the Russian of Alexander Pushkin; With Other Pieces
 
-> 共 6 题，[完整目录与正文 →](https://www.bqgmz.top/b/a49ef0647032/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/a49ef0647032/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Le socialisme en danger
 
-**作者** Domela Nieuwenhuis, Ferdinand, 1846-1919 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 31 题 · 449,946 字 ｜ **来源** Project Gutenberg
+**作者** Domela Nieuwenhuis, Ferdinand, 1846-1919 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 5 章 · 449,946 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a1e8f8e4c5f7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（449,946 字）。 |
-| 分章依据 | 按「题」标记切分为 31 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,514 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-roman-title），拼接正文 9,751 行。 |
+| 篇幅分布 | 平均每章 42 字。 |
+| 起止 | 始于「I. Les divers courants de la social-démocratie allemande.」，止于「V. Un revirement dans les idées morales.」。 |
 | 原文溯源 | `cache/epub/11380/pg11380.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. LE SOCIALISME
-2. EN DANGER
-3. F. DOMELA NIEUWENHUIS
-4. LE SOCIALISME EN DANGER
-5. PRÉFACE PAR ÉLISÉE RECLUS
-6. PRÉFACE
-7. LES DIVERS COURANTS
-8. DE LA DÉMOCRATIE SOCIALISTE ALLEMANDE
-9. C'EST DONC L'ALLEMAGNE SEULE QUI EST LA CAUSE DE LA SITUATION ACTUELLE!
-10. NOTES:
+1. I. Les divers courants de la social-démocratie allemande.
+2. II. Le socialisme en danger?
+3. III. Le socialisme libertaire et le socialisme autoritaire.
+4. IV. Le socialisme d'état des social-démocrates et la liberté.
+5. V. Un revirement dans les idées morales.
 
-> 共 31 题，[完整目录与正文 →](https://www.bqgmz.top/b/a1e8f8e4c5f7/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/a1e8f8e4c5f7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

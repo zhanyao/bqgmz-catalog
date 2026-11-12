@@ -1,7 +1,7 @@
 # The Continental Monthly, Vol. 1, No. 4, April, 1862 Devoted To Literature And National Policy
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 20 段 · 404,944 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 404,944 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/abd4f4565fdb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（404,944 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,247 字；最长 Frank Blair was a disciple of Benton; yet, as is often the c（39,902 字），最短 [Footnote A: An incident that occurred at Palmyra, in Marion（4,970 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-caps-sections），拼接正文 8,913 行。 |
+| 篇幅分布 | 平均每章 18,406 字；最长 NO. II.（45,313 字），最短 SPEECH DELIVERED BY HON. J.M. ASHLEY, OF OHIO, ON THE REBELLION, ITS（582 字）。 |
 | 原文溯源 | `cache/epub/15065/pg15065.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Frank Blair was a disciple of Benton; yet, as is often the c
-2. How long the Spaniards remained here is now uncertain, but t
-3. Charleston was 'located' at the wrong place, simply with the
-4. As his physical man was uncommon, so he had uncommon mental
-5. Most of our crew regarded their hostess with greatly mingled
-6. The army of General Lyon, amounting at one time to ten thous
-7. Another _primo basso profundo_ trolls off a wheelbarrow and
-8. 'You have arrived in Rome just at the right time. You may ha
-9. For a litigious, quarrelsome, fighting animal, man is very f
-10. But the most remarkable instance of the fallacy of the idea
+1. THE WAR BETWEEN FREEDOM AND SLAVERY IN MISSOURI.
+2. BEAUFORT DISTRICT,--PAST, PRESENT, AND FUTURE.
+3. II. THE CHINESE DISCOVERERS OF MEXICO IN THE FIFTH CENTURY.
+4. THE FATAL MARRIAGE OF BILL THE SOUNDSER.
+5. GENERAL LYON.
+6. II.
+7. SERMONS IN STONES.
+8. HOWE'S CAVE.
+9. THE TRUE INTEREST OF NATIONS.
+10. AMONG THE PINES.
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/abd4f4565fdb/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/abd4f4565fdb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

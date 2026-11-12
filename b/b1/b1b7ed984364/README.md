@@ -1,7 +1,7 @@
 # Viaggi di Ali Bey el-Abbassi in Africa ed in Asia, v. 3
 
-**作者** Ali Bey, 1766-1818 ｜ **国家/地区** 意大利 ｜ **体例** 段  
-**规模** 13 段 · 262,964 字 ｜ **来源** Project Gutenberg
+**作者** Ali Bey, 1766-1818 ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 16 章 · 262,964 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b1b7ed984364/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（262,964 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,228 字；最长 Infruttuosi riuscirono i reclami de' Consoli Europei al Pasc（39,881 字），最短 _Viaggio a Suez — Navigli Arabi. — Tragitto（2,613 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 5,904 行。 |
+| 篇幅分布 | 平均每章 16,236 字；最长 CAPITOLO XXXII.（28,959 字），最短 CAPITOLO XXXIX.（7,921 字）。 |
 | 原文溯源 | `cache/epub/47666/pg47666.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Infruttuosi riuscirono i reclami de' Consoli Europei al Pasc
-2. Fu pure sciolto il problema rispetto alla loro destinazione,
-3. Ordinai di remare, ma i miei compagni non sapevano remare: a
-4. Alle tre ore dopo mezzogiorno si riprese la strada nella dir
-5. Dopo le diverse cerimonie intorno al tempio, doveva ognuno b
-6. Le numerose carovane che in addietro giugnevano da tutte le
-7. La consumazione della Mecca diminuisce ogni giorno in ragion
-8. Da poco tempo essendo morto a Djedda il capitano di un gross
-9. In questa vasta estensione di paese sonovi poche città; ma v
-10. Già il sole stava per tramontare, quando un _Wehhabita_ si p
+1. CAPITOLO XXVIII.
+2. CAPITOLO XXIX.
+3. CAPITOLO XXX.
+4. CAPITOLO XXXI.
+5. CAPITOLO XXXII.
+6. CAPITOLO XXXIII.
+7. CAPITOLO XXXIV.
+8. CAPITOLO XXXV.
+9. CAPITOLO XXXVI.
+10. CAPITOLO XXXVII.
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/b1b7ed984364/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/b1b7ed984364/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Tapani Löfvingin seikkailut
 
-**作者** Wilkuna, Kyösti, 1879-1922 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 37 题 · 306,676 字 ｜ **来源** Project Gutenberg
+**作者** Wilkuna, Kyösti, 1879-1922 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 13 章 · 306,676 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ac764a1b2ce4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（306,676 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,288 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 6,621 行。 |
+| 篇幅分布 | 平均每章 23,590 字；最长 YHDEKSÄS LUKU.（1）（55,256 字），最短 ALAVIITTEET（985 字）。 |
 | 原文溯源 | `cache/epub/13171/pg13171.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. TAPANI LÖFVINGIN SEIKKAILUT
-2. Isonvihan aikana
-3. Hänen oman päiväkirjansa pohjalla kertoellut
-4. KYÖSTI WILKUNA
-5. ALKULAUSE.
-6. TOISEN PAINOKSEN JOHDOSTA
-7. KYÖSTI WILKUNA.
-8. TAPANI LÖFVINGIN SEIKKAILUT
-9. ENSIMMÄINEN LUKU.
-10. TOINEN LUKU.
+1. TOISEN PAINOKSEN JOHDOSTA
+2. KOLMAS LUKU.
+3. NELJÄS LUKU.
+4. SEITSEMÄS LUKU.
+5. YHDEKSÄS LUKU.（1）
+6. YHDEKSÄS LUKU.（2）
+7. YHDEKSÄS LUKU.（3）
+8. VIIDES LUKU.
+9. KUUDES LUKU.
+10. KAHDEKSAS LUKU.
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/ac764a1b2ce4/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/ac764a1b2ce4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

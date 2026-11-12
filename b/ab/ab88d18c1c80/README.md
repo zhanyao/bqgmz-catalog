@@ -1,7 +1,7 @@
 # Robert Frost
 
-**作者** Munson, Gorham Bert, 1896-1969 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 118,641 字 ｜ **来源** Project Gutenberg
+**作者** Munson, Gorham Bert, 1896-1969 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 118,641 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ab88d18c1c80/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（118,641 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,728 字；最长 So at seventeen Robert Frost was looking very much like the （39,780 字），最短 There are certain all-important questions which only the gre（18,975 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-roman-title），拼接正文 3,106 行。 |
+| 篇幅分布 | 平均每章 11,796 字；最长 V. “NEW HAMPSHIRE”（21,494 字），最短 IV. “THE ROAD NOT TAKEN”（3,377 字）。 |
 | 原文溯源 | `cache/epub/78076/pg78076.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. So at seventeen Robert Frost was looking very much like the
-2. “I found that Mr. Frost was having exciting times teaching p
-3. The tables have been changed since Derry days, but he contin
-4. The situation has taken form at once: Asa Gorrill, the queer
-5. There are certain all-important questions which only the gre
+1. I. “THE GENERATIONS OF MEN”
+2. II. “ONCE BY THE PACIFIC”
+3. III. “A BOY’S WILL”
+4. IV. “THE ROAD NOT TAKEN”
+5. V. “NEW HAMPSHIRE”
+6. VI. “PAN WITH US”
+7. VII. “INTO MY OWN”
+8. VIII. “A SENSIBILITIST”
+9. IX. “AGAINST THE WORLD IN GENERAL”
+10. APPENDIX A
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/ab88d18c1c80/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/ab88d18c1c80/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

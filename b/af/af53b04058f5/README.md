@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（219,312 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 36,552 字；最长 CHAPTER V（67,069 字），最短 CHAPTER II（12,479 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 5,422 行。 |
+| 篇幅分布 | 平均每章 36,022 字。 |
 | 原文溯源 | `cache/epub/52539/pg52539.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
@@ -22,9 +22,9 @@
 3. CHAPTER III
 4. CHAPTER IV
 5. CHAPTER V
-6. At the end of the twelfth century, when
+6. APPENDIX
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/af53b04058f5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

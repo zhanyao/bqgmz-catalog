@@ -1,7 +1,7 @@
 # Ruth（#73898）
 
-**作者** Kloosterman, Simke, 1876-1938 ｜ **国家/地区** 其它语种 ｜ **体例** 题  
-**规模** 53 题 · 334,455 字 ｜ **来源** Project Gutenberg
+**作者** Kloosterman, Simke, 1876-1938 ｜ **国家/地区** 其它语种 ｜ **体例** 章  
+**规模** 11 章 · 334,455 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b034f541a96f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（334,455 字）。 |
-| 分章依据 | 按「题」标记切分为 53 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,310 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-caps-sections），拼接正文 8,952 行。 |
+| 篇幅分布 | 平均每章 30,405 字；最长 LIBBENSBLOEI.（1）（55,328 字），最短 II.（6,063 字）。 |
 | 原文溯源 | `cache/epub/73898/pg73898.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. RUTH.
-2. IN HÂNFOL IEREN
-3. WINTERNOCHT
-4. BEPPE YN ’E FLEUR
-5. SÉMANSLOT.
-6. I.
-7. II.
-8. MARIJE.
-9. FOR IN BERN.
-10. YN ’E MIEDEN.
+1. AS DE KLOKKEN LIEDE.（1）
+2. AS DE KLOKKEN LIEDE.（2）
+3. AS DE KLOKKEN LIEDE.（3）
+4. RUTH.
+5. II.
+6. III.
+7. IV.
+8. LIBBENSBLOEI.（1）
+9. LIBBENSBLOEI.（2）
+10. LIBBENSBLOEI.（3）
 
-> 共 53 题，[完整目录与正文 →](https://www.bqgmz.top/b/b034f541a96f/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/b034f541a96f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

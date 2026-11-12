@@ -1,7 +1,7 @@
 # The Last Cruise of the Spitfire; or, Luke Foster's Strange Voyage
 
 **作者** Stratemeyer, Edward, 1862-1930 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 31 章 · 196,724 字 ｜ **来源** Project Gutenberg
+**规模** 34 章 · 196,724 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/a53fa866eb32/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（196,724 字）。 |
-| 分章依据 | 按「章」标记切分为 31 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,345 字；最长 CHAPTER XXXI.（11,236 字），最短 CHAPTER XXVII.（3,657 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXI.」。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-chapter），拼接正文 7,338 行。 |
+| 篇幅分布 | 平均每章 5,701 字；最长 CHAPTER XXVI.（10,285 字），最短 VOLUME ONE（部2）（815 字）。 |
 | 原文溯源 | `cache/epub/34367/pg34367.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/a53fa866eb32/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/a53fa866eb32/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
