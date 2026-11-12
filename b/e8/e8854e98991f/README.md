@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（456,277 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 45,627 字；最长 CHAPTER V（74,754 字），最短 CHAPTER VII（10,463 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 10,401 行。 |
+| 篇幅分布 | 平均每章 44,314 字；最长 Appendix); but a single clause of it calls for comment in this（81,255 字），最短 CHAPTER I（2,216 字）。 |
 | 原文溯源 | `cache/epub/4107/pg4107.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +26,9 @@
 7. CHAPTER VII
 8. CHAPTER VIII
 9. CHAPTER IX
-10. TUESDAY, Jan. 30/Feb. 9
+10. Appendix); but a single clause of it calls for comment in this
 
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/e8854e98991f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

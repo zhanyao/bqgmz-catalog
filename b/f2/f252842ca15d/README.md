@@ -1,7 +1,7 @@
 # The Right Honourable Sir Henry Enfield Roscoe P.C., D.C.L., F.R.S. A Biographical Sketch
 
 **作者** Thorpe, T. E. (Thomas Edward), 1845-1925 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 15 章 · 294,852 字 ｜ **来源** Project Gutenberg
+**规模** 13 章 · 294,852 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f252842ca15d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（294,852 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 19,656 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 6,683 行。 |
+| 篇幅分布 | 平均每章 21,567 字；最长 CHAPTER VII（37,195 字），最短 CHAPTER IX（7,472 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XIII」。 |
 | 原文溯源 | `cache/epub/56569/pg56569.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/f252842ca15d/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/f252842ca15d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

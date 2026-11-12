@@ -1,7 +1,7 @@
 # Tom Thatcher's Fortune
 
 **作者** Alger, Horatio, Jr., 1832-1899 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 49 章 · 336,758 字 ｜ **来源** Project Gutenberg
+**规模** 48 章 · 336,758 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f0394596cdbd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（336,758 字）。 |
-| 分章依据 | 按「章」标记切分为 49 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,872 字；最长 CHAPTER XLVIII.（55,541 字），最短 CHAPTER XXX.（2,701 字）。 |
+| 分章依据 | 按「章」标记切分为 48 章（auto-chapter），拼接正文 11,441 行。 |
+| 篇幅分布 | 平均每章 6,937 字；最长 CHAPTER XLVIII.（105,608 字），最短 CHAPTER XXX.（2,701 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XLVIII.」。 |
 | 原文溯源 | `cache/epub/56896/pg56896.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 49 章，[完整目录与正文 →](https://www.bqgmz.top/b/f0394596cdbd/)
+> 共 48 章，[完整目录与正文 →](https://www.bqgmz.top/b/f0394596cdbd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

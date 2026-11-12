@@ -1,7 +1,7 @@
 # Gypsy and Ginger
 
-**作者** Farjeon, Eleanor, 1881-1965 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 103,028 字 ｜ **来源** Project Gutenberg
+**作者** Farjeon, Eleanor, 1881-1965 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 103,028 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ecf863cf9864/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（103,028 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,605 字；最长 “They are like my dreams of them,” said the P.A., “they are （39,968 字），最短 Gypsy and Ginger moved on, as in a dream. They did not see t（3,136 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-toc-title-list），拼接正文 3,062 行。 |
+| 篇幅分布 | 平均每章 4,633 字。 |
 | 原文溯源 | `cache/epub/57444/pg57444.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. “They are like my dreams of them,” said the P.A., “they are
-2. “Well, that’s the risk, you see. You couldn’t be sure.”
-3. [Illustration: 9. The Professor of Neglected Accomplishments
-4. Lionel went away, delicately leaving his own pocket-handkerc
-5. Gypsy and Ginger moved on, as in a dream. They did not see t
+1. GYPSY AND GINGER GET MARRIED
+2. GYPSY AND GINGER HAVE A HONEYMOON
+3. GYPSY AND GINGER DISCUSS WAYS AND MEANS
+4. GYPSY AND GINGER KEEP HOUSE
+5. GYPSY AND GINGER’S FRIENDS:
+6. 1--The Pavement Artist
+7. 2--The Taxi-Man
+8. 6--The Balloon Woman
+9. 7--The Night Watchman
+10. 8--The Groundsel Man
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/ecf863cf9864/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/ecf863cf9864/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

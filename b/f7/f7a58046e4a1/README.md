@@ -1,7 +1,7 @@
 # Histoire de la Monarchie de Juillet (Volume 6 / 7)
 
-**作者** Thureau-Dangin, Paul, 1837-1913 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 84 题 · 787,955 字 ｜ **来源** Project Gutenberg
+**作者** Thureau-Dangin, Paul, 1837-1913 ｜ **国家/地区** 法国 ｜ **体例** 部分  
+**规模** 19 部分 · 787,955 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f7a58046e4a1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（787,955 字）。 |
-| 分章依据 | 按「题」标记切分为 84 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,380 字。 |
+| 分章依据 | 按「部分」标记切分为 19 部分（fallback-chunk），拼接正文 15,910 行。 |
+| 篇幅分布 | 平均每部分 41,471 字；最长 第 16 部分（42,858 字），最短 第 19 部分（21,716 字）。 |
 | 原文溯源 | `cache/epub/44689/pg44689.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 部分）
 
-1. OUVRAGE COURONNÉ DEUX FOIS PAR L'ACADÉMIE FRANÇAISE
-2. GRAND PRIX GOBERT, 1885 ET 1886
-3. DEUXIÈME ÉDITION
-4. TOME SIXIÈME
-5. PARIS
-6. DU MÊME AUTEUR:
-7. Prix 4 fr. »
-8. Prix 4 fr. »
-9. Prix 4 fr. »
-10. Prix de chaque vol. in-8º 8 fr. »
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 84 题，[完整目录与正文 →](https://www.bqgmz.top/b/f7a58046e4a1/)
+> 共 19 部分，[完整目录与正文 →](https://www.bqgmz.top/b/f7a58046e4a1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

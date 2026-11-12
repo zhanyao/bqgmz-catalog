@@ -11,22 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（287,055 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 41,007 字。 |
-| 起止 | 始于「CHAPTER I. THE GREAT BATTLE.」，止于「CHAPTER VII. THE END.」。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-part），拼接正文 6,467 行。 |
+| 篇幅分布 | 平均每章 41,007 字；最长 BOOK I.（1）（55,164 字），最短 BOOK I.（3）（17,470 字）。 |
 | 原文溯源 | `cache/epub/9761/pg9761.txt`（Project Gutenberg） |
 
 ## 章节目录（前 7 章）
 
-1. CHAPTER I. THE GREAT BATTLE.
-2. CHAPTER II. THE NOVICE.
-3. CHAPTER III. THE PAUSE BETWEEN DEFEAT AND SURRENDER.
-4. CHAPTER IV. THE ADVENTURE OF THE SOLITARY HORSEMAN.
-5. CHAPTER V. THE SACRIFICE.
-6. CHAPTER VI. THE RETURN--THE RIOT--THE TREACHERY--AND THE DEATH.
-7. CHAPTER VII. THE END.
+1. BOOK I.（1）
+2. BOOK I.（2）
+3. BOOK I.（3）
+4. BOOK III.
+5. BOOK IV.
+6. BOOK V.（1）
+7. BOOK V.（2）
 
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/f57f7aa7e82a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

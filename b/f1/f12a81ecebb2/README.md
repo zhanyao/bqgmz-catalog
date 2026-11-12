@@ -1,7 +1,7 @@
 # The Revelation Explained An Exposition, Text by Text, of the Apocalypse of St. John
 
 **作者** Smith, F. G. (Frederick George), 1880-1947 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 27 章 · 595,017 字 ｜ **来源** Project Gutenberg
+**规模** 22 章 · 595,017 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f12a81ecebb2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（595,017 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,037 字。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 12,761 行。 |
+| 篇幅分布 | 平均每章 25,188 字；最长 CHAPTER XVI.（61,480 字），最短 CHAPTER XV.（5,992 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXII.」。 |
 | 原文溯源 | `cache/epub/13229/pg13229.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/f12a81ecebb2/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/f12a81ecebb2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

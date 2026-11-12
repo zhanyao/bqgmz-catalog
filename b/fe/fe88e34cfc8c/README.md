@@ -1,7 +1,7 @@
 # Islannin kalastajat
 
-**作者** Loti, Pierre, 1850-1923; Relander, O. (Oskar), 1863-1930 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 65 题 · 262,017 字 ｜ **来源** Project Gutenberg
+**作者** Loti, Pierre, 1850-1923; Relander, O. (Oskar), 1863-1930 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 55 章 · 262,017 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fe88e34cfc8c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（262,017 字）。 |
-| 分章依据 | 按「题」标记切分为 65 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,031 字。 |
+| 分章依据 | 按「章」标记切分为 55 章（auto-roman-bare），拼接正文 6,470 行。 |
+| 篇幅分布 | 平均每章 4,761 字；最长 III.（16,740 字），最短 VI.（部5）（437 字）。 |
+| 起止 | 始于「I.」，止于「XI.（部5）」。 |
 | 原文溯源 | `cache/epub/58891/pg58891.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. E-text prepared by Timo Ervasti and Tapio Riikonen
-2. ISLANNIN KALASTAJAT.
-3. PIERRE LOTI
-4. Suomentanut
-5. O. Relander
-6. ENSIMÄINEN OSA.
-7. I.
-8. II.
-9. III.
-10. IV.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. I.（部2）
+8. II.（部2）
+9. III.（部2）
+10. IV.（部2）
 
-> 共 65 题，[完整目录与正文 →](https://www.bqgmz.top/b/fe88e34cfc8c/)
+> 共 55 章，[完整目录与正文 →](https://www.bqgmz.top/b/fe88e34cfc8c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

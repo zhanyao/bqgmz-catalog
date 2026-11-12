@@ -1,7 +1,7 @@
 # Practical Carriage and Wagon Painting A Treatise on the Painting of Carriages, Wagons and Sleighs, Embracing Full and Explicit Directions for Executing All Kinds of Work, Including Painting Factory Work, Lettering, Scrolling, Ornamenting, Varnishing, etc., with Many Tested Recipes and Formulas
 
 **作者** Hillick, M. C. (Mayton Clarence), 1859- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 19 章 · 332,518 字 ｜ **来源** Project Gutenberg
+**规模** 25 章 · 332,518 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fd087a4cabb7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（332,518 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,500 字。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 7,888 行。 |
+| 篇幅分布 | 平均每章 12,718 字。 |
 | 原文溯源 | `cache/epub/48173/pg48173.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/fd087a4cabb7/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/fd087a4cabb7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

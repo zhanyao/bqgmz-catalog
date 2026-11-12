@@ -1,7 +1,7 @@
 # Reminiscences of Captain Gronow
 
-**作者** Gronow, R. H. (Rees Howell), 1794-1865 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 94 题 · 241,394 字 ｜ **来源** Project Gutenberg
+**作者** Gronow, R. H. (Rees Howell), 1794-1865 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 88 章 · 241,394 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f117f8863ff5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（241,394 字）。 |
-| 分章依据 | 按「题」标记切分为 94 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,568 字。 |
+| 分章依据 | 按「章」标记切分为 88 章（auto-toc-title-list），拼接正文 5,397 行。 |
+| 篇幅分布 | 平均每章 2,697 字。 |
 | 原文溯源 | `cache/epub/3798/pg3798.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Reminiscences of Captain Gronow
-2. Captain Rees Howell Gronow
-3. EDITOR'S NOTE
-4. Reminiscences of Captain Gronow
-5. M.DCCC.LXII.
-6. CONTENTS
-7. A FEW WORDS TO THE READER
-8. MY ENTRANCE INTO THE ARMY
-9. DEPARTURE FOR AND ARRIVAL IN SPAIN
-10. THE UNIFORM AND BEARING OF THE FRENCH SOLDIER
+1. A FEW WORDS TO THE READER
+2. MY ENTRANCE INTO THE ARMY
+3. DEPARTURE FOR AND ARRIVAL IN SPAIN
+4. THE UNIFORM AND BEARING OF THE FRENCH SOLDIER
+5. MAJOR-GENERAL STEWART AND LORD WELLINGTON
+6. ST. JEAN DE LUZ
+7. FOOLHARDINESS
+8. DISCIPLINE
+9. SIR JOHN WATERS
+10. THE BATTLE OF THE NIVELLE
 
-> 共 94 题，[完整目录与正文 →](https://www.bqgmz.top/b/f117f8863ff5/)
+> 共 88 章，[完整目录与正文 →](https://www.bqgmz.top/b/f117f8863ff5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

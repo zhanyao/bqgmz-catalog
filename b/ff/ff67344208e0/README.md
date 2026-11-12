@@ -1,7 +1,7 @@
 # Nathan Viisas: Viisinäytöksinen näytelmäruno
 
-**作者** Lessing, Gotthold Ephraim, 1729-1781; Siljo, Juhani, 1888-1918 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 60 题 · 139,038 字 ｜ **来源** Project Gutenberg
+**作者** Lessing, Gotthold Ephraim, 1729-1781; Siljo, Juhani, 1888-1918 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 场  
+**规模** 5 场 · 139,038 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ff67344208e0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（139,038 字）。 |
-| 分章依据 | 按「题」标记切分为 60 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,317 字。 |
+| 分章依据 | 按「场」标记切分为 5 场（auto-local-act），拼接正文 7,818 行。 |
+| 篇幅分布 | 平均每场 27,679 字；最长 KOLMAS NÄYTÖS.（30,839 字），最短 TOINEN NÄYTÖS.（26,321 字）。 |
 | 原文溯源 | `cache/epub/16262/pg16262.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 场）
 
-1. Produced by Jarmo Lehtovaara and Tapio Riikonen
-2. NATHAN VIISAS
-3. Viisinäytöksinen näytelmäruno
-4. GOTTHOLD EPHRAIM LESSING
-5. Suomentanut
-6. J. SILJO
-7. HENKILÖT:
-8. ENSIMÄINEN NÄYTÖS.
-9. ENSIMÄINEN KOHTAUS.
-10. TOINEN KOHTAUS.
+1. ENSIMÄINEN NÄYTÖS.
+2. TOINEN NÄYTÖS.
+3. KOLMAS NÄYTÖS.
+4. NELJÄS NÄYTÖS.
+5. VIIDES NÄYTÖS.
 
-> 共 60 题，[完整目录与正文 →](https://www.bqgmz.top/b/ff67344208e0/)
+> 共 5 场，[完整目录与正文 →](https://www.bqgmz.top/b/ff67344208e0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

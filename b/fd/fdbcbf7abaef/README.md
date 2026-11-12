@@ -1,7 +1,7 @@
 # A Chair on the Boulevard
 
-**作者** Merrick, Leonard, 1864-1939 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 67 题 · 366,722 字 ｜ **来源** Project Gutenberg
+**作者** Merrick, Leonard, 1864-1939 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 24 篇 · 366,722 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fdbcbf7abaef/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（366,722 字）。 |
-| 分章依据 | 按「题」标记切分为 67 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,473 字。 |
+| 分章依据 | 按「篇」标记切分为 24 篇（通用标记切分），拼接正文 9,918 行。 |
+| 篇幅分布 | 平均每篇 15,252 字；最长 THE DOLL IN THE PINK SILK DRESS（23,322 字），最短 I!"（1,609 字）。 |
 | 原文溯源 | `cache/epub/9928/pg9928.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. A CHAIR ON THE BOULEVARD
-2. By LEONARD MERRICK
-3. WITH AN INTRODUCTION BY A. NEIL LYONS
-4. CONTENTS
-5. I THE TRAGEDY OF A COMIC SONG
-6. II TRICOTRIN ENTERTAINS
-7. III THE FATAL FLOROZONDE
-8. IV THE OPPORTUNITY OF PETITPAS
-9. V THE CAFÉ OF THE BROKEN HEART
-10. VI THE DRESS CLOTHES OF MONSIEUR POMPONNET
+1. INTRODUCTION
+2. THE TRAGEDY OF A COMIC SONG
+3. TRICOTRIN ENTERTAINS
+4. THE FATAL FLOROZONDE
+5. THE OPPORTUNITY OF PETITPAS
+6. THE CAFÉ OF THE BROKEN HEART
+7. THE DRESS CLOTHES OF MONSIEUR POMPONNET
+8. THE SUICIDES IN THE RUE SOMBRE
+9. I?"
+10. THE CONSPIRACY FOR CLAUDINE
 
-> 共 67 题，[完整目录与正文 →](https://www.bqgmz.top/b/fdbcbf7abaef/)
+> 共 24 篇，[完整目录与正文 →](https://www.bqgmz.top/b/fdbcbf7abaef/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

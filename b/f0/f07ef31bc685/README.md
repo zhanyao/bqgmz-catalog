@@ -1,7 +1,7 @@
 # Lehtiviidan torppari: Nykyajan kuvaus
 
-**作者** Järvinen, Eero, 1860-1920 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 9 段 · 199,898 字 ｜ **来源** Project Gutenberg
+**作者** Järvinen, Eero, 1860-1920 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 17 章 · 199,898 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f07ef31bc685/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（199,898 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,210 字；最长 Tuo se oli, joka yhä antoi tuomari Bergh'ille kiihoitusta py（39,698 字），最短 Ja tuo "pois torpasta", se häntä alituiseen kismitti, leikka（19,490 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-num），拼接正文 5,150 行。 |
+| 篇幅分布 | 平均每章 11,753 字；最长 15.（37,391 字），最短 6.（4,822 字）。 |
+| 起止 | 始于「1.」，止于「17.」。 |
 | 原文溯源 | `cache/epub/61650/pg61650.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. Tuo se oli, joka yhä antoi tuomari Bergh'ille kiihoitusta py
-2. Kopistettuaan lumet jaloistaan meni hän pehtorin jälessä ain
-3. "Ei siinä kyllä että yksinkertainen kansa luulee isonjaon
-4. Hän astua letusti Orava-ahon laidalle. Istahti siinä kannon
-5. Ja tuo "pois torpasta", se häntä alituiseen kismitti, leikka
-6. "Mutta luuletko sitte semmoisessa talomurusessa puuveitsellä
-7. Pertin mieltä kaiveli Lehtiviidan pullukkavartaloinen, kauni
-8. "Tyhjästäkö -- tyhjiä olimme mekin, ei omaisuutta enempää ku
-9. Saunasta haki vastan, semmoisen akkunan täytteenä käytetyn,
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/f07ef31bc685/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/f07ef31bc685/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

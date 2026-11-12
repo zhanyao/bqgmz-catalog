@@ -1,7 +1,7 @@
 # Susan B. Anthony Rebel, Crusader, Humanitarian
 
-**作者** Lutz, Alma ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 30 段 · 603,039 字 ｜ **来源** Project Gutenberg
+**作者** Lutz, Alma ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 31 篇 · 603,039 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f1f602e5c9eb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（603,039 字）。 |
-| 分章依据 | 按「段」标记切分为 30 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,101 字；最长 At the district school, taught by a woman in summer and by a（39,593 字），最短 Women's Christian Temperance Union, 217-18, 242, 244, 247, 2（2,357 字）。 |
+| 分章依据 | 按「篇」标记切分为 31 篇（通用标记切分），拼接正文 14,460 行。 |
+| 篇幅分布 | 平均每篇 18,822 字；最长 A NEW SLANT ON THE FOURTEENTH AMENDMENT（33,977 字），最短 PREFACE（1,089 字）。 |
 | 原文溯源 | `cache/epub/20439/pg20439.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. At the district school, taught by a woman in summer and by a
-2. Her first quarterly examination, held before the principal,
-3. The people's college did not materialize, but out of this me
-4. The Albany _Register_ scoffed at the "feminine propagandists
-5. After listening to the satisfying sermons of Thomas Wentwort
-6. So Susan believed, and she was doing her best to make it all
-7. She was reading at this time Elizabeth Barrett Browning's _A
-8. She saw no possibility at this time of wiping out slavery by
-9. This confidence was soon dispelled, however, when a letter c
-10. As the war dragged on through the summer without decisive vi
+1. PREFACE
+2. ACKNOWLEDGMENTS
+3. TABLE OF ILLUSTRATIONS
+4. QUAKER HERITAGE
+5. WIDENING HORIZONS
+6. FREEDOM TO SPEAK
+7. A PURSE OF HER OWN
+8. NO UNION WITH SLAVEHOLDERS
+9. THE TRUE WOMAN
+10. THE ZEALOT
 
-> 共 30 段，[完整目录与正文 →](https://www.bqgmz.top/b/f1f602e5c9eb/)
+> 共 31 篇，[完整目录与正文 →](https://www.bqgmz.top/b/f1f602e5c9eb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

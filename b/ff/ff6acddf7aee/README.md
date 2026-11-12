@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（120,463 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,951 字；最长 CHAPTER IV.--IN FRANCE: THE WORK OF WILLETTE, FORAIN, STEINLEN（17,180 字），最短 CHAPTER II.--IN FRANCE DURING THE PRESENT CENTURY（4,500 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 2,680 行。 |
+| 篇幅分布 | 平均每章 10,743 字；最长 CHAPTER IV.--IN FRANCE: THE WORK OF WILLETTE, FORAIN, STEINLEN（17,180 字），最短 CHAPTER II.--IN FRANCE DURING THE PRESENT CENTURY（4,500 字）。 |
 | 起止 | 始于「CHAPTER I. THE STORY OF THE PICTORIAL POSTER」，止于「CHAPTER XI.--THE PRICE OF THE PICTORIAL POSTER; AND CONCLUDING NOTE」。 |
 | 原文溯源 | `cache/epub/45555/pg45555.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/ff6acddf7aee/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

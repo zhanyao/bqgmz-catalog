@@ -1,7 +1,7 @@
 # De grondbeginselen der Nederlandsche spelling Regeling der spelling voor het woordenboek der Nederlandsche taal
 
-**作者** Winkel, L. A. te, 1809-1868; Vries, M. de (Matthias), 1820-1892 [Editor] ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 30 题 · 429,483 字 ｜ **来源** Project Gutenberg
+**作者** Winkel, L. A. te, 1809-1868; Vries, M. de (Matthias), 1820-1892 [Editor] ｜ **国家/地区** 荷兰 ｜ **体例** 篇  
+**规模** 252 篇 · 429,483 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e7ec8ba5c659/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（429,483 字）。 |
-| 分章依据 | 按「题」标记切分为 30 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,316 字。 |
+| 分章依据 | 按「篇」标记切分为 252 篇（通用标记切分），拼接正文 10,087 行。 |
+| 篇幅分布 | 平均每篇 1,700 字。 |
 | 原文溯源 | `cache/epub/27335/pg27335.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Vanwege de redactie bewerkt
-2. VOORBERICHT
-3. VOOR HET ONTWERP DER SPELLING.
-4. VOORBERICHT
-5. VOOR DE TWEEDE UITGAVE.
-6. INHOUD.
-7. EERSTE AFDEELING.
-8. TWEEDE AFDEELING.
-9. De inlassching der verbindings-n, § 180-206 » 151
-10. Overzicht over de regels der samenstelling, § 213 » 182
+1. Bij het naderen van den tijd, waarop de Redactie met de uitgave
+2. De taak der Redactie bestond derhalve niet in het ontwerpen van
+3. In de volgende bladzijden worden de vruchten van ons
+4. Daar de bestaande spelling, die als uitgangspunt werd aangenomen voor
+5. Er waren echter eenige belangrijke punten, die, in Siegenbeek's
+6. Moge dan deze arbeid strekken om in het Woordenboek, met welks
+7. De volgende bladzijden behelzen de tweede--herziene en veel
+8. Onze openlijke uitnoodiging, dat deskundigen ons hunne aanmerkingen en
+9. De zorgen, door ons aan de orthographie gewijd, hadden aanvankelijk
+10. Door de groote belangstelling van het publiek in de zaak der
 
-> 共 30 题，[完整目录与正文 →](https://www.bqgmz.top/b/e7ec8ba5c659/)
+> 共 252 篇，[完整目录与正文 →](https://www.bqgmz.top/b/e7ec8ba5c659/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

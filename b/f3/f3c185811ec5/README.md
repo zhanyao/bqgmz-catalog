@@ -1,7 +1,7 @@
 # Courtship and Marriage, and the Gentle Art of Home-Making
 
-**作者** Swan, Annie S., 1859-1943 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 101,659 字 ｜ **来源** Project Gutenberg
+**作者** Swan, Annie S., 1859-1943 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 14 章 · 101,659 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f3c185811ec5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（101,659 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,331 字；最长 There are undoubtedly very many selfish and purely self-seek（39,870 字），最短 Even the enemies of Christ, who deny His divinity, admit the（2,965 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-roman-bare），拼接正文 2,302 行。 |
+| 篇幅分布 | 平均每章 7,137 字；最长 III.（9,276 字），最短 VI.（5,378 字）。 |
+| 起止 | 始于「I.」，止于「XIV.」。 |
 | 原文溯源 | `cache/epub/35963/pg35963.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. There are undoubtedly very many selfish and purely self-seek
-2. By selfish, I mean giving prominence always to the demands a
-3. You know them by their hunted, eager, restless look, which t
-4. The very advanced of our sex have been known to disclaim any
-5. Even the enemies of Christ, who deny His divinity, admit the
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/f3c185811ec5/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/f3c185811ec5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（390,734 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 35,521 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-caps-sections），拼接正文 14,798 行。 |
+| 篇幅分布 | 平均每章 35,231 字；最长 FREEMEN AND FREEDMEN（62,582 字），最短 NOTES TO CHAPTER VI（7,632 字）。 |
 | 原文溯源 | `cache/epub/32507/pg32507.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I: ENGLAND IN THE NEW WORLD 7
-2. CHAPTER II: THE INDIAN WEED 21
-3. CHAPTER III: THE VIRGINIA YEOMANRY 38
-4. CHAPTER IV: FREEMEN AND FREEDMEN 60
-5. CHAPTER V: THE RESTORATION PERIOD 84
-6. CHAPTER VI: THE YEOMAN IN VIRGINIA HISTORY 101
-7. CHAPTER VII: WORLD TRADE 115
-8. CHAPTER VIII: BENEATH THE BLACK TIDE
-9. It is true that the negro was none too e
-10. Jno Atkins 200
+1. ENGLAND IN THE NEW WORLD
+2. THE INDIAN WEED
+3. THE VIRGINIA YEOMANRY
+4. FREEMEN AND FREEDMEN
+5. THE YEOMAN IN VIRGINIA HISTORY
+6. BENEATH THE BLACK TIDE
+7. NOTES TO CHAPTER II
+8. NOTES TO CHAPTER VI
+9. NOTES TO CHAPTER VIII（1）
+10. NOTES TO CHAPTER VIII（2）
 
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/f0d700df2b88/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

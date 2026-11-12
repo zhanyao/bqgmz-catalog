@@ -1,7 +1,7 @@
 # Thorstein of the mere
 
 **作者** Collingwood, W. G. (William Gershom), 1854-1932 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 50 章 · 364,075 字 ｜ **来源** Project Gutenberg
+**规模** 51 章 · 364,075 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ef5af16770a0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（364,075 字）。 |
-| 分章依据 | 按「章」标记切分为 50 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,281 字；最长 CHAPTER L.（35,003 字），最短 CHAPTER XXXIX.（1,258 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER L.」。 |
+| 分章依据 | 按「章」标记切分为 51 章（auto-chapter），拼接正文 8,539 行。 |
+| 篇幅分布 | 平均每章 7,120 字；最长 CHAPTER L.（18,681 字），最短 CHAPTER XXXIX.（1,258 字）。 |
 | 原文溯源 | `cache/epub/79129/pg79129.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 50 章，[完整目录与正文 →](https://www.bqgmz.top/b/ef5af16770a0/)
+> 共 51 章，[完整目录与正文 →](https://www.bqgmz.top/b/ef5af16770a0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

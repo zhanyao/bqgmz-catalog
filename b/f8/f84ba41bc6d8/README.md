@@ -1,7 +1,7 @@
 # Le Salon des Refusés: Le Peinture en 1863
 
-**作者** Desnoyers, Fernand, 1828-1869 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 7 段 · 148,348 字 ｜ **来源** Project Gutenberg
+**作者** Desnoyers, Fernand, 1828-1869 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 10 章 · 148,348 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f84ba41bc6d8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（148,348 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,192 字；最长 La peinture s'adresse d'abord et presque exclusivement aux y（39,889 字），最短 Cabanel.（8,259 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-roman-bare），拼接正文 3,940 行。 |
+| 篇幅分布 | 平均每章 14,802 字；最长 X（38,448 字），最短 VIII（5,087 字）。 |
 | 原文溯源 | `cache/epub/16758/pg16758.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. La peinture s'adresse d'abord et presque exclusivement aux y
-2. M. Morin est le seul architecte dont nous parlerons. L'archi
-3. _Montrer l'habitude qu'on a de l'exercice d'une profession_
-4. Les _Roses_, de Mlle Adèle de la Porte; les _Légumes_, de M.
-5. «Un cheval vicieux, condamné _pour cette raison_ à être abat
-6. Il n'y a pas de peinture vraie sans couleur, sans esprit, sa
-7. Cabanel.
+1. I
+2. II
+3. III
+4. IV
+5. V.
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/f84ba41bc6d8/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/f84ba41bc6d8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

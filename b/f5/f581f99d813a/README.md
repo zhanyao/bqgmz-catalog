@@ -1,7 +1,7 @@
 # History of Friedrich II of Prussia — Volume 12
 
 **作者** Carlyle, Thomas, 1795-1881 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 364,823 字 ｜ **来源** Project Gutenberg
+**规模** 19 章 · 364,823 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f581f99d813a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（364,823 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,063 字；最长 Chapter IX. -- FRIEDRICH RETURNS TO SILESIA.（59,471 字），最短 Chapter XIII. -- SMALL-WAR: FIRST EMERGENCE OF ZIETHEN THE HUSSAR（5,466 字）。 |
-| 起止 | 始于「Chapter I. -- OF SCHLESIEN, OR SILESIA.」，止于「Chapter XIII. -- SMALL-WAR: FIRST EMERGENCE OF ZIETHEN THE HUSSAR」。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-caps-sections），拼接正文 7,156 行。 |
+| 篇幅分布 | 平均每章 19,201 字；最长 COMES FAST BACK.（53,124 字），最短 DECEMBER;--STEPS INTO SCHLESIEN.（5,196 字）。 |
 | 原文溯源 | `cache/epub/2112/pg2112.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Chapter I. -- OF SCHLESIEN, OR SILESIA.
-2. Chapter II. -- FRIEDRICH MARCHES ON GLOGAU.
-3. Chapter III. -- PROBLEM OF GLOGAU.
-4. Chapter IV. -- BRESLAU UNDER SOFT PRESSURE.
-5. Chapter V. -- FRIEDRICH PUSHES FORWARD TOWARDS BRIEG AND NEISSE.
-6. Chapter VI. -- NEISSE IS BOMBARDED.
-7. Chapter VII. -- AT VERSAILLES, THE MOST CHRISTIAN MAJESTY CHANGES HIS
-8. Chapter VIII. -- PHENOMENA IN PETERSBURG.
-9. Chapter IX. -- FRIEDRICH RETURNS TO SILESIA.
-10. Chapter X. -- BATTLE OF MOLLWITZ.
+1. HISTORICAL EPOCHS OF SCHLESIEN;--AFTER THE QUADS AND MARCHMEN.
+2. DECEMBER;--STEPS INTO SCHLESIEN.
+3. WHAT GLOGAU, AND THE GOVERNMENT AT BRESLAU, DID UPON IT.
+4. (MONDAY, 19th); GET TO HERRENDORF, WITHIN SIGHT OF GLOGAU, DECEMBER 22d.
+5. WHAT BERLIN IS SAYING; WHAT FRIEDRICH IS THINKING.
+6. WITH HIS BEST SPEED FOR BRESLAU.
+7. TILL HIS CANNON COME.
+8. SHIRT, AND BELLEISLE IS SEEN WITH PAPERS.
+9. SKIRMISH OF BAUMGARTEN, 27th FEBRUARY, 1741.
+10. ASPECTS OF BRESLAU.
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/f581f99d813a/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/f581f99d813a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

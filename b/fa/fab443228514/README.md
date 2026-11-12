@@ -11,25 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（219,101 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,959 字；最长 CHAPTER I _A Social Failure_（15,680 字），最短 CHAPTER XII _First Aid_（5,938 字）。 |
-| 起止 | 始于「CHAPTER I _A Social Failure_」，止于「CHAPTER XXII _Recognition_」。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 5,407 行。 |
+| 篇幅分布 | 平均每章 9,905 字；最长 CHAPTER I _A Social Failure（14,761 字），最短 CHAPTER XII _First Aid（5,938 字）。 |
+| 起止 | 始于「CHAPTER I _A Social Failure」，止于「CHAPTER XXII _Recognition」。 |
 | 原文溯源 | `cache/epub/60154/pg60154.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I _A Social Failure_
-2. CHAPTER II _Different Kinds of Courage_
-3. CHAPTER III _Farewell_
-4. CHAPTER IV _Making Acquaintances_
+1. CHAPTER I _A Social Failure
+2. CHAPTER II _Different Kinds of Courage
+3. CHAPTER III _Farewell
+4. CHAPTER IV _Making Acquaintances
 5. CHAPTER V “_Lady Dorian_”
-6. CHAPTER VI _A Trial of Fire_
-7. CHAPTER VII _The Landing_
-8. CHAPTER VIII _A Meeting_
+6. CHAPTER VI _A Trial of Fire
+7. CHAPTER VII _The Landing
+8. CHAPTER VIII _A Meeting
 9. CHAPTER IX “_But Yet a Woman_”
-10. CHAPTER X _Behind the Firing Lines_
+10. CHAPTER X _Behind the Firing Lines
 
 > 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/fab443228514/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

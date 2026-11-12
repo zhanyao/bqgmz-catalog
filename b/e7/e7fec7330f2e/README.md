@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（383,255 字）。 |
-| 分章依据 | 按「章」标记切分为 38 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,085 字；最长 CHAPTER XXVIII LAVERICK’S NARROW ESCAPE（15,611 字），最短 CHAPTER XXXVIII A FAREWELL APPEARANCE（4,434 字）。 |
+| 分章依据 | 按「章」标记切分为 38 章（auto-chapter），拼接正文 10,829 行。 |
+| 篇幅分布 | 平均每章 10,048 字；最长 CHAPTER XXVIII LAVERICK’S NARROW ESCAPE（15,611 字），最短 CHAPTER XXXVIII A FAREWELL APPEARANCE（4,434 字）。 |
 | 起止 | 始于「CHAPTER I CROWNED HEADS MEET」，止于「CHAPTER XXXVIII A FAREWELL APPEARANCE」。 |
 | 原文溯源 | `cache/epub/2287/pg2287.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/e7fec7330f2e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

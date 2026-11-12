@@ -1,7 +1,7 @@
 # Letters from an Old Railway Official. Second Series: [To] His Son, a General Manager
 
-**作者** Hine, Charles De Lano, 1867-1927 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 10 段 · 218,541 字 ｜ **来源** Project Gutenberg
+**作者** Hine, Charles De Lano, 1867-1927 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 218,541 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e9e10a1b7b11/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（218,541 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,854 字；最长 Railway administration to-day suffers most of all from（38,059 字），最短 Another noteworthy feature was the constant presence of offi（19,133 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-caps-sections），拼接正文 4,868 行。 |
+| 篇幅分布 | 平均每章 24,267 字；最长 THE SIZE OF AN OPERATING DIVISION.（66,538 字），最短 CIRCULAR NO. ....（4,239 字）。 |
 | 原文溯源 | `cache/epub/45444/pg45444.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 9 章）
 
-1. Railway administration to-day suffers most of all from
-2. I shall not continue further in this letter the catechismal
-3. On this last division feature I once convinced my old friend
-4. All instructions from general officers, including the genera
-5. Individually the general superintendent, the chief engineers
-6. You and the auditor will have to work out the details as to
-7. The general superintendent starts out with a brave determina
-8. Among the best purchasing bureaus in the United States are t
-9. We are wont to look upon government administration as typica
-10. Another noteworthy feature was the constant presence of offi
+1. BUILDING AN ORGANIZATION.
+2. THE GENERAL MANAGER ON THE WITNESS STAND.
+3. FURTHER GRUELLING OF THE GENERAL MANAGER.
+4. THE UNIT SYSTEM.
+5. THE LINE AND THE STAFF.
+6. A DEPARTMENT OF INSPECTION OR EFFICIENCY.
+7. PRESERVING ORGANIZATION INTEGRITY.
+8. THE SIZE OF AN OPERATING DIVISION.
+9. CIRCULAR NO. ....
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/e9e10a1b7b11/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/e9e10a1b7b11/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

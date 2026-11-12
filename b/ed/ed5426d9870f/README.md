@@ -11,13 +11,13 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（132,078 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,603 字；最长 BOOK XIV. HSIEN WAN.（10,992 字），最短 BOOK XX. YAO YUEH.（3,333 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 3,192 行。 |
+| 篇幅分布 | 平均每章 6,574 字；最长 BOOK XIV. HSIEN WAN.（10,992 字），最短 BOOK XX. YAO YUEH.（3,333 字）。 |
 | 原文溯源 | `cache/epub/3330/pg3330.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I. 1. The Master said, 'Is it not pleasant to learn with
+1. BOOK I. HSIO R.
 2. BOOK II. WEI CHANG.
 3. BOOK III. PA YIH.
 4. BOOK IV. LE JIN.
@@ -31,4 +31,4 @@
 > 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/ed5426d9870f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Redheaded Outfield, and Other Baseball Stories
 
-**作者** Grey, Zane, 1872-1939 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 19 题 · 240,515 字 ｜ **来源** Project Gutenberg
+**作者** Grey, Zane, 1872-1939 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 240,515 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ecd0b8492a83/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（240,515 字）。 |
-| 分章依据 | 按「题」标记切分为 19 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 12,658 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 6,085 行。 |
+| 篇幅分布 | 平均每章 21,509 字；最长 THE MANAGER OF MADDEN'S HILL（26,144 字），最短 OLD WELL-WELL（16,091 字）。 |
 | 原文溯源 | `cache/epub/385/pg385.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE REDHEADED OUTFIELD AND OTHER BASEBALL STORIES
-2. ZANE GREY
-3. CONTENTS
-4. THE REDHEADED OUTFIELD AND OTHER BASEBALL STORIES
-5. THE RUBE
-6. I cut short their chaffing with a sharp order for batting practice.
-7. I had to grab a bat and pound on the wall to stop the uproar.
-8. THE RUBE'S PENNANT
-9. THE RUBE'S HONEYMOON
-10. THE RUBE'S WATERLOO
+1. THE RUBE
+2. THE RUBE'S PENNANT
+3. THE RUBE'S HONEYMOON
+4. THE RUBE'S WATERLOO
+5. BREAKING INTO FAST COMPANY
+6. THE KNOCKER
+7. THE WINNING BALL
+8. FALSE COLORS
+9. THE MANAGER OF MADDEN'S HILL
+10. OLD WELL-WELL
 
-> 共 19 题，[完整目录与正文 →](https://www.bqgmz.top/b/ecd0b8492a83/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/ecd0b8492a83/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

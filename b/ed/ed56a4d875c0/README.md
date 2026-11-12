@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（89,964 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,245 字；最长 CHAPTER VIII. BUILDING AND FLYING MODEL AEROPLANES.（30,752 字），最短 CHAPTER VII. BEARINGS, THRUST BLOCKS AND GEARS.（3,215 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 2,416 行。 |
+| 篇幅分布 | 平均每章 10,069 字；最长 CHAPTER VIII. BUILDING AND FLYING MODEL AEROPLANES.（30,752 字），最短 CHAPTER VII. BEARINGS, THRUST BLOCKS AND GEARS.（3,215 字）。 |
 | 起止 | 始于「CHAPTER I. GENERAL PRINCIPLES UNDERLYING AEROPLANE FLIGHT.」，止于「CHAPTER VIII. BUILDING AND FLYING MODEL AEROPLANES.」。 |
 | 原文溯源 | `cache/epub/64296/pg64296.txt`（Project Gutenberg） |
 
@@ -30,4 +30,4 @@
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/ed56a4d875c0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

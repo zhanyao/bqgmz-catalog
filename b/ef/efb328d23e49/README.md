@@ -1,7 +1,7 @@
 # The Churches and Modern Thought An inquiry into the grounds of unbelief and an appeal for candour
 
 **作者** Phelips, Vivian, 1860- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 9 章 · 626,511 字 ｜ **来源** Project Gutenberg
+**规模** 92 章 · 626,511 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/efb328d23e49/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（626,511 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 69,612 字；最长 Chapter VIII.（108,715 字），最短 Chapter II.（40,370 字）。 |
+| 分章依据 | 按「章」标记切分为 92 章（auto-toc-title-list），拼接正文 13,806 行。 |
+| 篇幅分布 | 平均每章 6,762 字。 |
 | 原文溯源 | `cache/epub/45053/pg45053.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 章）
+## 章节目录（前 10 章）
 
-1. Chapter I.
-2. Chapter II.
-3. Chapter III.
-4. Chapter IV.
-5. Chapter V.
-6. Chapter VI.
-7. Chapter VII.
-8. Chapter VIII.
-9. At the winter solstice the sun seemed to
+1. Preface to First Edition
+2. Preface to Second Edition
+3. Preface to Third Edition
+4. THE GRAVITY OF THE PRESENT SITUATION
+5. THE EXTRAORDINARY STATE OF APOLOGETICS WITH REGARD TO MIRACLES
+6. The View of Science
+7. Why Have Miracles Ceased?
+8. Belief in Miracles Essential
+9. The Resurrection
+10. The Ascension
 
-> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/efb328d23e49/)
+> 共 92 章，[完整目录与正文 →](https://www.bqgmz.top/b/efb328d23e49/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

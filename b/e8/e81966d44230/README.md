@@ -1,7 +1,7 @@
 # Right Ho, Jeeves
 
-**作者** Wodehouse, P. G. (Pelham Grenville), 1881-1975 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 111 题 · 327,839 字 ｜ **来源** Project Gutenberg
+**作者** Wodehouse, P. G. (Pelham Grenville), 1881-1975 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 8 部分 · 327,839 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e81966d44230/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（327,839 字）。 |
-| 分章依据 | 按「题」标记切分为 111 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,953 字。 |
+| 分章依据 | 按「部分」标记切分为 8 部分（fallback-chunk），拼接正文 10,844 行。 |
+| 篇幅分布 | 平均每部分 40,979 字；最长 第 6 部分（41,778 字），最短 第 8 部分（36,603 字）。 |
 | 原文溯源 | `cache/epub/10554/pg10554.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 部分）
 
-1. By
-2. P. G. WODEHOUSE
-3. To
-4. RAYMOND NEEDHAM, K.C.
-5. WITH AFFECTION AND ADMIRATION
-6. I stared. Indeed, it would not be too much to say that I gaped.
-7. I put all this to Jeeves:
-8. I nodded.
-9. I mused.
-10. I was deeply intrigued.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
 
-> 共 111 题，[完整目录与正文 →](https://www.bqgmz.top/b/e81966d44230/)
+> 共 8 部分，[完整目录与正文 →](https://www.bqgmz.top/b/e81966d44230/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

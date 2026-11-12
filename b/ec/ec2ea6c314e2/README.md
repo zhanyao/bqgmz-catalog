@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（145,645 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,068 字；最长 CHAPTER XXIV.--CONCLUSION.（9,959 字），最短 CHAPTER XII.--THE BOY CAPTIVE.（3,817 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 4,843 行。 |
+| 篇幅分布 | 平均每章 5,845 字；最长 CHAPTER II.--AN OATH TO WIN, A VOW TO AVENGE.（8,598 字），最短 CHAPTER XII.--THE BOY CAPTIVE.（3,817 字）。 |
 | 起止 | 始于「CHAPTER I.--THE BOY MESSENGER.」，止于「CHAPTER XXIV.--CONCLUSION.」。 |
 | 原文溯源 | `cache/epub/43301/pg43301.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/ec2ea6c314e2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

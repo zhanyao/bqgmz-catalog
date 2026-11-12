@@ -1,7 +1,7 @@
 # A Pessimist in Theory and Practice
 
-**作者** Bird, Frederic Mayer, 1838-1908 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 13 段 · 277,851 字 ｜ **来源** Project Gutenberg
+**作者** Bird, Frederic Mayer, 1838-1908 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 34 章 · 277,851 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f8d961feb13f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（277,851 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,373 字；最长 "Exactly what I have done--so far as any impression is true.（39,302 字），最短 I had written to Hartman more than once since my return, tel（17,686 字）。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-roman-bare），拼接正文 6,674 行。 |
+| 篇幅分布 | 平均每章 8,144 字；最长 XX.（14,419 字），最短 XXVII.（3,801 字）。 |
+| 起止 | 始于「I.」，止于「XXXIV.」。 |
 | 原文溯源 | `cache/epub/26847/pg26847.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. "Exactly what I have done--so far as any impression is true.
-2. She gave it. I am not good at descriptions, but a man might
-3. "Within a mile or two, no doubt. Jane can tell you about the
-4. "You must have been reading up lately, my boy. I left all th
-5. "You ought to be ashamed of yourself, Robert. To speak in th
-6. "You can listen when I am ready to talk, and keep quiet till
-7. I could have embraced Jane, besides forgiving her slurs on m
-8. "Yes: you used to have enough of that with Clarice."
-9. "My dears," said Mabel, "let us compromise. They are both hu
-10. When we were settled down to our pipes, I said, "Is this the
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/f8d961feb13f/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/f8d961feb13f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

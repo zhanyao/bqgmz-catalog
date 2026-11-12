@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（163,554 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 27,259 字；最长 CHAPTER I（63,109 字），最短 CHAPTER III（13,414 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER VI」。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 3,686 行。 |
+| 篇幅分布 | 平均每章 27,153 字；最长 CHAPTER I.--A SAD CHRISTMAS 55（62,473 字），最短 CHAPTER III（13,414 字）。 |
+| 起止 | 始于「CHAPTER I.--A SAD CHRISTMAS 55」，止于「CHAPTER VI」。 |
 | 原文溯源 | `cache/epub/39616/pg39616.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
 
-1. CHAPTER I
+1. CHAPTER I.--A SAD CHRISTMAS 55
 2. CHAPTER II
 3. CHAPTER III
 4. CHAPTER IV
@@ -28,4 +28,4 @@
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/eb00fed5c736/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

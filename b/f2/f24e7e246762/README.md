@@ -1,7 +1,7 @@
 # Périclès Tragédie
 
-**作者** Shakespeare, William, 1564-1616; Guizot, François, 1787-1874 [Translator] ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 37 题 · 103,291 字 ｜ **来源** Project Gutenberg
+**作者** Shakespeare, William, 1564-1616; Guizot, François, 1787-1874 [Translator] ｜ **国家/地区** 法国 ｜ **体例** 场  
+**规模** 5 场 · 103,291 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f24e7e246762/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（103,291 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,791 字。 |
+| 分章依据 | 按「场」标记切分为 5 场（auto-local-act），拼接正文 3,134 行。 |
+| 篇幅分布 | 平均每场 19,850 字；最长 ACTE QUATRIÈME（25,326 字），最短 ACTE TROISIÈME（13,222 字）。 |
 | 原文溯源 | `cache/epub/19228/pg19228.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 场）
 
-1. PÉRICLÈS
-2. TRAGÉDIE
-3. NOTICE SUR PÉRICLÈS
-4. PERSONNAGES
-5. ACTE PREMIER
-6. SCÈNE I
-7. SCÈNE II
-8. SCÈNE III
-9. SCÈNE IV
-10. FIN DU PREMIER ACTE.
+1. ACTE PREMIER
+2. ACTE DEUXIÈME
+3. ACTE TROISIÈME
+4. ACTE QUATRIÈME
+5. ACTE CINQUIÈME
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/f24e7e246762/)
+> 共 5 场，[完整目录与正文 →](https://www.bqgmz.top/b/f24e7e246762/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

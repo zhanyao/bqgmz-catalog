@@ -1,7 +1,7 @@
 # Yllätys: Yksinäytöksinen näytelmä
 
-**作者** Asp, Kaarlo, 1894-1979 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 15 题 · 46,168 字 ｜ **来源** Project Gutenberg
+**作者** Asp, Kaarlo, 1894-1979 ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 2 部分 · 46,168 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fa5579941787/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（46,168 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,077 字。 |
+| 分章依据 | 按「部分」标记切分为 2 部分（fallback-chunk），拼接正文 1,741 行。 |
+| 篇幅分布 | 平均每部分 23,084 字。 |
 | 原文溯源 | `cache/epub/65612/pg65612.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 2 部分）
 
-1. YLLÄTYS
-2. Yksinäytöksinen näytelmä
-3. KAARLO ASP
-4. HENKILÖT:
-5. HILMA (kattaa kahvipöytää ja koristelee sitä kukilla.)
-6. AARNE (kävelee levottomana edestakaisin.)
-7. UKKO BERGMAN. Joo, minä matkustin
-8. AARNE. Kunpahan ei vaan Anttikin. --
-9. UKKO BERGMAN. Joo, mutta eihän se nyt --
-10. UKKO BERGMAN. Joo, politiikkaan, mutta --
+1. 第 1 部分
+2. 第 2 部分
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/fa5579941787/)
+> 共 2 部分，[完整目录与正文 →](https://www.bqgmz.top/b/fa5579941787/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

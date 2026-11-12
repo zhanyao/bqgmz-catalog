@@ -1,7 +1,7 @@
 # Canada in Flanders, Volume II
 
 **作者** Beaverbrook, Max Aitken, Baron, 1879-1964 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 15 章 · 360,864 字 ｜ **来源** Project Gutenberg
+**规模** 82 章 · 360,864 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/eba02f596c79/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（360,864 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,057 字；最长 CHAPTER XII（85,739 字），最短 CHAPTER X（643 字）。 |
+| 分章依据 | 按「章」标记切分为 82 章（auto-toc-title-list），拼接正文 7,436 行。 |
+| 篇幅分布 | 平均每章 4,122 字。 |
 | 原文溯源 | `cache/epub/46115/pg46115.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
 1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. CHAPTER X
+2. THE SECOND DIVISION
+3. Canadians in the clash of World Powers
+4. Ypres
+5. Canadians
+6. Division
+7. Officers
+8. Contingent
+9. Militia
+10. King
 
-> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/eba02f596c79/)
+> 共 82 章，[完整目录与正文 →](https://www.bqgmz.top/b/eba02f596c79/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

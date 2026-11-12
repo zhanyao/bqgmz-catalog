@@ -1,7 +1,7 @@
 # Behind the Throne
 
-**作者** Le Queux, William, 1864-1927 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 98 题 · 414,047 字 ｜ **来源** Project Gutenberg
+**作者** Le Queux, William, 1864-1927 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 24 章 · 414,047 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e81dc0e022d7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（414,047 字）。 |
-| 分章依据 | 按「题」标记切分为 98 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,224 字。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-caps-sections），拼接正文 10,301 行。 |
+| 篇幅分布 | 平均每章 17,251 字；最长 IN THE SILENCE OF NIGHT.（30,333 字），最短 A WOMAN'S FREEDOM.（2,696 字）。 |
 | 原文溯源 | `cache/epub/41462/pg41462.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. CHAPTER ONE.
-2. THE CAT'S-PAW.
-3. CHAPTER TWO.
-4. FRIENDS OF HER EXCELLENCY.
-5. CHAPTER THREE.
-6. IN WHICH MARY REVEALS CERTAIN SUSPICIONS.
-7. Then suddenly lowering his voice, he asked abruptly--
-8. CHAPTER FOUR.
-9. CONTAINS A MYSTERY.
-10. George slowly knocked the ashes from his pipe, saying--
+1. FRIENDS OF HER EXCELLENCY.
+2. CONTAINS A MYSTERY.
+3. IS MAINLY ABOUT A WOMAN.
+4. THE TRAITOR.
+5. "FOR MARY'S SAKE."
+6. THE VILLA SAN DONATO.
+7. IN THE SILENCE OF NIGHT.
+8. THE SAZARAC AFFAIR.
+9. THE SACRIFICE.
+10. THE EAR OF THE MINISTER.
 
-> 共 98 题，[完整目录与正文 →](https://www.bqgmz.top/b/e81dc0e022d7/)
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/e81dc0e022d7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

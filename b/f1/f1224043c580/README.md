@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（163,853 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,923 字；最长 CHAPTER X MOONLIGHT SCHOOLS IN WAR TIME（19,816 字），最短 CHAPTER II THE ORIGIN OF THE MOONLIGHT SCHOOLS（4,674 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 3,918 行。 |
+| 篇幅分布 | 平均每章 10,554 字；最长 CHAPTER X MOONLIGHT SCHOOLS IN WAR TIME（19,816 字），最短 CHAPTER XV THE CALL OF THE ILLITERATES（4,566 字）。 |
 | 起止 | 始于「CHAPTER I THE PEOPLE WHO GAVE THE MOONLIGHT SCHOOLS TO THE WORLD」，止于「CHAPTER XV THE CALL OF THE ILLITERATES」。 |
 | 原文溯源 | `cache/epub/57061/pg57061.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/f1224043c580/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

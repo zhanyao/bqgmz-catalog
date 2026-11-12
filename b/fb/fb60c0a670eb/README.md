@@ -1,7 +1,7 @@
 # Testamentum és Hat levél
 
-**作者** Benedek, Elek, 1859-1929 ｜ **国家/地区** 匈牙利 ｜ **体例** 题  
-**规模** 15 题 · 60,568 字 ｜ **来源** Project Gutenberg
+**作者** Benedek, Elek, 1859-1929 ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 4 章 · 60,568 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fb60c0a670eb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（60,568 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,037 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-roman-bare），拼接正文 1,423 行。 |
+| 篇幅分布 | 平均每章 15,038 字。 |
+| 起止 | 始于「I.」，止于「IV.」。 |
 | 原文溯源 | `cache/epub/41587/pg41587.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 章）
 
-1. Testamentum
-2. BENEDEK ELEK
-3. Marczinak
-4. I.
-5. II.
-6. Jankónak
-7. Aranyvirágnak
-8. Bándi Miklós (Négy levél)
-9. I.
-10. II.
+1. I.
+2. II.
+3. III.
+4. IV.
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/fb60c0a670eb/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/fb60c0a670eb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

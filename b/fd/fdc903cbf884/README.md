@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（306,059 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,108 字；最长 CHAPTER VIII. SCOUTING FROM THE SKIES（22,902 字），最短 CHAPTER IX. THE AIRMAN AND ARTILLERY（11,439 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 6,102 行。 |
+| 篇幅分布 | 平均每章 16,009 字；最长 CHAPTER VIII. SCOUTING FROM THE SKIES（22,902 字），最短 CHAPTER I. THE INTRODUCTION OF AIRCRAFT INTO MILITARY OPERATIONS（10,549 字）。 |
 | 起止 | 始于「CHAPTER I. THE INTRODUCTION OF AIRCRAFT INTO MILITARY OPERATIONS」，止于「CHAPTER XIX. THE NAVIES of THE AIR」。 |
 | 原文溯源 | `cache/epub/793/pg793.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/fdc903cbf884/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

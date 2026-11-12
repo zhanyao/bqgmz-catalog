@@ -1,7 +1,7 @@
 # The Mysteries of London, v. 3/4
 
 **作者** Reynolds, George W. M. (George William MacArthur), 1814-1879 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 101 章 · 2,031,640 字 ｜ **来源** Project Gutenberg
+**规模** 108 章 · 2,031,640 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e6fab0a778c7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,13 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（2,031,640 字）。 |
-| 分章依据 | 按「章」标记切分为 101 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,115 字；最长 "Nothing but the high wall, with the spi（90,877 字），最短 CHAPTER XV.（4,685 字）。 |
+| 分章依据 | 按「章」标记切分为 108 章（auto-chapter），拼接正文 47,220 行。 |
+| 篇幅分布 | 平均每章 18,804 字；最长 CHAPTER LXXI.（115,293 字），最短 CHAPTER XV.（4,685 字）。 |
+| 起止 | 始于「CHAPTER I.—The Travelling Carriage 1」，止于「CHAPTER CIX.」。 |
 | 原文溯源 | `cache/epub/52056/pg52056.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
+1. CHAPTER I.—The Travelling Carriage 1
 2. CHAPTER II.
 3. CHAPTER III.
 4. CHAPTER IV.
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 101 章，[完整目录与正文 →](https://www.bqgmz.top/b/e6fab0a778c7/)
+> 共 108 章，[完整目录与正文 →](https://www.bqgmz.top/b/e6fab0a778c7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

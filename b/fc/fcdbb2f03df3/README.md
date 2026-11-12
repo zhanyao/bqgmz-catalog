@@ -1,7 +1,7 @@
 # An Artilleryman's Diary
 
-**作者** Jones, Jenkins Lloyd, 1843-1918 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 31 段 · 636,134 字 ｜ **来源** Project Gutenberg
+**作者** Jones, Jenkins Lloyd, 1843-1918 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 636,134 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fcdbb2f03df3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（636,134 字）。 |
-| 分章依据 | 按「段」标记切分为 31 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,520 字；最长 Rienzi, Sunday, Sept. 14. Was begun with another of the "str（39,974 字），最短 Rogersville (Ala.), 6th Wisconsin Battery at, 120.（15,255 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-caps-sections），拼接正文 16,325 行。 |
+| 篇幅分布 | 平均每章 28,915 字；最长 VICTORY（63,408 字），最短 WISCONSIN HISTORY COMMISSION（2,009 字）。 |
 | 原文溯源 | `cache/epub/33211/pg33211.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Rienzi, Sunday, Sept. 14. Was begun with another of the "str
-2. Near Oxford, Sunday, Dec. 14. A day of excitement which came
-3. Memphis, Sunday, Feb. 8. Warm and cloudy day. Reveille at on
-4. Near Helena, Sunday, April 12. A fine day. Expected to leave
-5. Near Clinton, Saturday, May 16. Started at 7 A. M. Heavy fir
-6. Before Vicksburg, Thursday, June 18. Very warm. Grazing forb
-7. Vicksburg, Saturday, Aug. 8. A very hot monotonous day. Felt
-8. Helena, Friday, Sept. 25. Awoke to find the rubber over us w
-9. Iuka, Miss., Monday, Oct. 19. Ordered to march at 9 A. M., b
-10. Camp on Richland Creek, Tenn., Friday, Nov. 6. Got up at 3 A
+1. WISCONSIN HISTORY COMMISSION
+2. AUTHOR'S PREFACE
+3. FIRST IMPRESSIONS（1）
+4. FIRST IMPRESSIONS（2）
+5. THE SIEGE OF VICKSBURG
+6. P. M.
+7. AT WORK AGAIN
+8. EN ROUTE TO CHATTANOOGA（1）
+9. EN ROUTE TO CHATTANOOGA（2）
+10. IN WINTER QUARTERS（1）
 
-> 共 31 段，[完整目录与正文 →](https://www.bqgmz.top/b/fcdbb2f03df3/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/fcdbb2f03df3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

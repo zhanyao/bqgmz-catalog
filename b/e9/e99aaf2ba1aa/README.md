@@ -1,7 +1,7 @@
 # Ponkapog Papers
 
-**作者** Aldrich, Thomas Bailey, 1836-1907 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 140,414 字 ｜ **来源** Project Gutenberg
+**作者** Aldrich, Thomas Bailey, 1836-1907 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 19 篇 · 140,414 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e99aaf2ba1aa/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（140,414 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,059 字；最长 GREAT orators who are not also great writers become very ind（39,803 字），最短 Thus much may be conceded to Herrick's verse: at its best it（587 字）。 |
+| 分章依据 | 按「篇」标记切分为 19 篇（通用标记切分），拼接正文 3,180 行。 |
+| 篇幅分布 | 平均每篇 7,388 字；最长 POOR YORICK（34,346 字），最短 TO FRANCIS BARTLETT（1,131 字）。 |
 | 原文溯源 | `cache/epub/625/pg625.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 篇）
 
-1. GREAT orators who are not also great writers become very ind
-2. IN my early Boston days a gentle soul was often to be met wi
-3. I touch one of its toes, and you see it resents the molestat
-4. I WENT to see a play the other night, one of those good old-
-5. No author is insensible to the compliment involved in a requ
-6. Among the exile's chance acquaintances was a sparrow, whose
-7. Thus much may be conceded to Herrick's verse: at its best it
+1. TO FRANCIS BARTLETT
+2. LEAVES FROM A NOTE BOOK
+3. UP ROOS THE SONNE, AND UP ROOS EMELYE CHAUCER
+4. TOM FOLIO
+5. FLEABODY AND OTHER QUEER NAMES
+6. A NOTE ON “L'AIGLON”
+7. PLOT AND CHARACTER
+8. THE CRUELTY OF SCIENCE
+9. LEIGH HUNT AND BARRY CORNWALL
+10. DECORATION DAY
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/e99aaf2ba1aa/)
+> 共 19 篇，[完整目录与正文 →](https://www.bqgmz.top/b/e99aaf2ba1aa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Iloisia helkkeitä
 
-**作者** Larin-Kyösti, 1873-1948 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 49 题 · 37,768 字 ｜ **来源** Project Gutenberg
+**作者** Larin-Kyösti, 1873-1948 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 25 章 · 37,768 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f7d198ecab4e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（37,768 字）。 |
-| 分章依据 | 按「题」标记切分为 49 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 770 字。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-toc-title-list），拼接正文 2,013 行。 |
+| 篇幅分布 | 平均每章 1,491 字。 |
 | 原文溯源 | `cache/epub/78444/pg78444.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. ILOISIA HELKKEITÄ
-2. Runovalikoima
-3. LARIN-KYÖSTI
-4. SISÄLLYS:
-5. TÄN POJAN KEVÄTRALLATUS.
-6. HEILANI ON KUIN HELLUNTAI.
-7. KOSIOVARSA.
-8. KÄEN KUKKUESSA.
-9. KYLÄKUJASSA.
-10. SE RAKKAUS!
+1. Tän pojan kevätrallatus.
+2. Heilani on kuin helluntai.
+3. Kosiovarsa.
+4. Käen kukkuessa.
+5. Kyläkujassa.
+6. Se rakkaus.
+7. Talon tiranni.
+8. Tuli tuttu, vanha tuttu!
+9. Teirin jäljillä.
+10. Kylän lahdella.
 
-> 共 49 题，[完整目录与正文 →](https://www.bqgmz.top/b/f7d198ecab4e/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/f7d198ecab4e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

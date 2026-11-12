@@ -1,7 +1,7 @@
 # Scream at midnight
 
-**作者** Brennan, Joseph Payne, 1918-1990 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 117,125 字 ｜ **来源** Project Gutenberg
+**作者** Brennan, Joseph Payne, 1918-1990 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 117,125 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ffc968aabb20/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（117,125 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,425 字；最长 I heard his voice as in a nightmare; it seemed to be coming （39,964 字），最短 Mr. Fentonby's suggestion was adopted with shouts of delight（17,167 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-toc-title-list），拼接正文 3,085 行。 |
+| 篇幅分布 | 平均每章 12,957 字；最长 The Horror at Chilton Castle（25,102 字），最短 The Tenants（7,115 字）。 |
 | 原文溯源 | `cache/epub/70817/pg70817.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 9 章）
 
-1. I heard his voice as in a nightmare; it seemed to be coming
-2. I was more shaken by the sight of blood trickling out of tha
-3. Another hour passed before he gave up. He slumped in a chair
-4. On the morning set for the tronicar excursion, she stuffed s
-5. Mr. Fentonby's suggestion was adopted with shouts of delight
+1. The Horror at Chilton Castle
+2. The Midnight Bus
+3. The Vampire Bat
+4. The Seventh Incantation
+5. Killer Cat
+6. The Dump
+7. The Tenants
+8. The Man Who Feared Masks
+9. The Visitor in the Vault
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/ffc968aabb20/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/ffc968aabb20/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

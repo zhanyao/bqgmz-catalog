@@ -1,7 +1,7 @@
 # La captive des Mohawks
 
-**作者** Ellis, Edward Sylvester, 1840-1916; Cendrey, Camille de, 1825-1904 [Translator] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 9 段 · 196,317 字 ｜ **来源** Project Gutenberg
+**作者** Ellis, Edward Sylvester, 1840-1916; Cendrey, Camille de, 1825-1904 [Translator] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 19 章 · 196,317 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fbe205d6b545/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（196,317 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,813 字；最长 Le chargement du bateau prit la plus grande partie de l’aprè（39,586 字），最短 «Est-ce un véritable Indien que vous avez trouvé là? demanda（16,167 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-roman-title），拼接正文 5,060 行。 |
+| 篇幅分布 | 平均每章 63 字。 |
+| 起止 | 始于「I. Un étranger 5」，止于「XIX. Le retour 293」。 |
 | 原文溯源 | `cache/epub/78346/pg78346.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. Le chargement du bateau prit la plus grande partie de l’aprè
-2. Les traces que Seth Jones suivait étaient bien faibles; elle
-3. --Je ne sais pas encore; il y a différentes opinions là-dess
-4. Cet Haldidge que nous venons de voir arriver était un homme
-5. Ainsi avertis, les trois blancs partirent de nouveau rapidem
-6. --Eh! parbleu, des dessins que j’ai faits pour m’amuser et p
-7. Après quelques évolutions prudentes, il gagna un endroit d’o
-8. La position de nos amis était tout à fait critique. Les Moha
-9. «Est-ce un véritable Indien que vous avez trouvé là? demanda
+1. I. Un étranger 5
+2. II. Sombre nuage 19
+3. III. L’orage éclate 35
+4. IV. Une maison de moins et un ami de plus 45
+5. V. Seth trouve la piste et il la quitte 63
+6. VI. La mort ou la vie 85
+7. VII. L’expérience de Seth 97
+8. VIII. Rencontre inattendue 113
+9. IX. La poursuite 129
+10. X. Deux captifs chez les Indiens 149
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/fbe205d6b545/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/fbe205d6b545/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The chronicles of Enguerrand de Monstrelet, Vol. 01 [of 13]
 
-**作者** Monstrelet, Enguerrand de, 1390?-1453; Johnes, Thomas, 1748-1816 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 22 段 · 445,607 字 ｜ **来源** Project Gutenberg
+**作者** Monstrelet, Enguerrand de, 1390?-1453; Johnes, Thomas, 1748-1816 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 76 章 · 445,607 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ef8ea9531acf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（445,607 字）。 |
-| 分章依据 | 按「段」标记切分为 22 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,254 字；最长 ‘His work is called Chronicles; but we must not, however, co（39,798 字），最短 The exclamation, ‘Aux filz des Preux!’ was evidently used to（4,984 字）。 |
+| 分章依据 | 按「章」标记切分为 76 章（auto-toc-title-list），拼接正文 10,399 行。 |
+| 篇幅分布 | 平均每章 5,377 字。 |
 | 原文溯源 | `cache/epub/50839/pg50839.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. ‘His work is called Chronicles; but we must not, however, co
-2. ‘If we take from Monstrelet what has been improperly attribu
-3. ‘First, to enter the lists on foot, each armed in the manner
-4. ‘I may therefore freely say, that I have not met with any fe
-5. ‘Louis, duke of Orleans, count de Valois, Blois and de Beaum
-6. In this year, sir James de Bourbon[40], count de la Marche,
-7. There were great lamentations at his death, not only by his
-8. These last galloped off toward Corbeil, where they related t
-9. About this time, the queen of France came to the town of Com
-10. About the ensuing Candlemas, the king of France and the univ
+1. OF
+2. The prologue
+3. How Charles the well-beloved reigned in France,
+4. An esquire of Arragon, named Michel d’Orris,
+5. CHAP. III.
+6. John of Montfort, duke of Brittany, dies. The
+7. The duke of Burgundy, by orders from the king
+8. between them
+9. Clement duke of Bavaria is elected emperor of
+10. Henry of Lancaster, king of England, combats
 
-> 共 22 段，[完整目录与正文 →](https://www.bqgmz.top/b/ef8ea9531acf/)
+> 共 76 章，[完整目录与正文 →](https://www.bqgmz.top/b/ef8ea9531acf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Toledo: an historical and descriptive account of the "City of generations"
 
-**作者** Calvert, Albert Frederick, 1872-1946 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 13 段 · 268,586 字 ｜ **来源** Project Gutenberg
+**作者** Calvert, Albert Frederick, 1872-1946 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 268,586 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fc3d9a47dd54/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（268,586 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,660 字；最长 Exterior, by the Cloisters of the Chapel, of the Place of（39,304 字），最短 Gay-looking, vivacious in its beauty, silent, ill-provided, （8,358 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-toc-title-list），拼接正文 8,126 行。 |
+| 篇幅分布 | 平均每章 30,028 字；最长 EL GRECO（73,698 字），最短 bibliography.”--_Black and White._（7,143 字）。 |
 | 原文溯源 | `cache/epub/64900/pg64900.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 章）
 
-1. Exterior, by the Cloisters of the Chapel, of the Place of
-2. During the hundred and ten years that elapsed between the de
-3. But, to credit the Moorish chroniclers, the rarest of exotic
-4. Entering when the eyes have become accustomed to the obscuri
-5. Still it was an age when strong measures were called for; an
-6. The rude, dismantled pile of the Castle of San Servando, whi
-7. “Petrus Petri” is interpreted by Spanish writers “Pedro Pere
-8. At the opposite, or north-west, angle of the church is the C
-9. The Emperor-King Charles V. had, as we have seen, small reas
-10. And, if the facts of his life are meagre enough, we can find
+1. THE CHILDHOOD OF THE CITY
+2. TOLEDO UNDER THE MOOR
+3. TOLEDO THE CAPITAL OF CASTILE
+4. BUILDINGS OF THE CASTILIAN PERIOD
+5. THE CATHEDRAL
+6. THE DECLINE OF THE CITY
+7. EL GRECO
+8. bibliography.”--_Black and White._
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/fc3d9a47dd54/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/fc3d9a47dd54/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

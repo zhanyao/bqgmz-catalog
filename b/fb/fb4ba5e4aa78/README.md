@@ -1,7 +1,7 @@
 # A Boy Crusoe; or, The Golden Treasure of the Virgin Islands
 
-**作者** Eric, Allan, 1864-1933 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 168,718 字 ｜ **来源** Project Gutenberg
+**作者** Eric, Allan, 1864-1933 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 168,718 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fb4ba5e4aa78/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（168,718 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,089 字；最长 With my knife I cut off a large piece which I twisted about （39,791 字），最短 There could be but one solution to the mystery.  Either the （8,843 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 3,986 行。 |
+| 篇幅分布 | 平均每章 12,978 字；最长 CHAPTER XIV.（41,975 字），最短 A BOY CRUSOE（1,046 字）。 |
 | 原文溯源 | `cache/epub/45397/pg45397.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. With my knife I cut off a large piece which I twisted about
-2. The morning following the completion of the house and stocka
-3. If I followed the stream to its source I should reach the mo
-4. I felt a pang of regret at the thought of leaving my home un
-5. Before me there was a little pool, only a few feet across, a
-6. "You can be of the greatest assistance by carrying reeds to
-7. We saw occasional pigeons and many beautiful plumaged birds,
-8. There could be but one solution to the mystery. Either the
+1. A BOY CRUSOE
+2. CHAPTER I.
+3. CHAPTER II.
+4. CHAPTER III.
+5. CHAPTER V.
+6. CHAPTER VI.
+7. CHAPTER VII.
+8. CHAPTER X.
+9. CHAPTER XII.
+10. CHAPTER XIV.
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/fb4ba5e4aa78/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/fb4ba5e4aa78/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Der laufende Berg
 
-**作者** Ganghofer, Ludwig, 1855-1920 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 60 题 · 388,031 字 ｜ **来源** Project Gutenberg
+**作者** Ganghofer, Ludwig, 1855-1920 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 14 篇 · 388,031 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f9bcdd4c3aed/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（388,031 字）。 |
-| 分章依据 | 按「题」标记切分为 60 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,467 字。 |
+| 分章依据 | 按「篇」标记切分为 14 篇（通用标记切分），拼接正文 9,657 行。 |
+| 篇幅分布 | 平均每篇 27,674 字；最长 Viertes Kapitel（57,287 字），最短 Erstes Kapitel（19,303 字）。 |
 | 原文溯源 | `cache/epub/77988/pg77988.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Der laufende Berg
-2. Hochlandsroman
-3. Ludwig Ganghofer
-4. Vollständige Originalausgabe
-5. 552000 Gesamtauflage aller Ausgaben
-6. Erstes Kapitel
-7. Der Bürgermeister machte große Augen. »Aber geh, Toni, was hast denn?«
-8. Der Alte seufzte. »So a Glück! Ja! So a Glück wann käm!«
-9. Zweites Kapitel
-10. Vroni übersah die Hand, die der Schorschl ihr bot. »Dös braucht's net.«
+1. Erstes Kapitel
+2. Zweites Kapitel
+3. Drittes Kapitel
+4. Viertes Kapitel
+5. Sechstes Kapitel
+6. Siebentes Kapitel
+7. Achtes Kapitel
+8. Neuntes Kapitel
+9. Zehntes Kapitel
+10. Elftes Kapitel
 
-> 共 60 题，[完整目录与正文 →](https://www.bqgmz.top/b/f9bcdd4c3aed/)
+> 共 14 篇，[完整目录与正文 →](https://www.bqgmz.top/b/f9bcdd4c3aed/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

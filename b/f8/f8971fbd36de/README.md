@@ -1,7 +1,7 @@
 # A vörös postakocsi: Regény
 
-**作者** Krúdy, Gyula, 1878-1933 ｜ **国家/地区** 匈牙利 ｜ **体例** 段  
-**规模** 13 段 · 266,643 字 ｜ **来源** Project Gutenberg
+**作者** Krúdy, Gyula, 1878-1933 ｜ **国家/地区** 匈牙利 ｜ **体例** 部分  
+**规模** 7 部分 · 266,643 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f8971fbd36de/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（266,643 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,511 字；最长 – Rendben vagy. Egyszer majd elhozom neked a vad földesurat （39,657 字），最短 – Istenem! Hisz jobban szeretem annál… Előbb megesküszünk va（6,528 字）。 |
+| 分章依据 | 按「部分」标记切分为 7 部分（fallback-chunk），拼接正文 6,468 行。 |
+| 篇幅分布 | 平均每部分 38,091 字；最长 第 4 部分（43,711 字），最短 第 7 部分（5,366 字）。 |
 | 原文溯源 | `cache/epub/62415/pg62415.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 7 部分）
 
-1. – Rendben vagy. Egyszer majd elhozom neked a vad földesurat
-2. De térjünk vissza a kedves forradalmi párthoz, pirosszegfüs,
-3. – Pardon bátorságomért!… Hajdanában még Napoleon hadjáratai
-4. Az öreg költő izgatott volt, mint hasonló körülmények között
-5. Tehát Madame a virágot árulta egy kis szervita-téri üzletben
-6. Madame Louise lélekszakadva rohant a szobába. Hallatszott, h
-7. Bonifácz Béla, hirlapíró és Danton és Robespierre meghatalma
-8. Carola Cecilia éjszaka a Beliczay-kávéházban volt, ahová a g
-9. – Mert a sugó elhitette azzal a jó bolond asszonnyal, hogy n
-10. – Tehát már szeretni, hódítani, bátornak lenni is megtanult
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/f8971fbd36de/)
+> 共 7 部分，[完整目录与正文 →](https://www.bqgmz.top/b/f8971fbd36de/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

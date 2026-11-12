@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（244,498 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,374 字；最长 CHAPTER XII. THE AMERICAN RAILROAD PROBLEM（37,155 字），最短 CHAPTER VIII. BUILDING ALONG THE SANTA FE TRAIL（10,038 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 4,767 行。 |
+| 篇幅分布 | 平均每章 20,318 字；最长 CHAPTER XII. THE AMERICAN RAILROAD PROBLEM（37,155 字），最短 CHAPTER VIII. BUILDING ALONG THE SANTA FE TRAIL（10,038 字）。 |
 | 起止 | 始于「CHAPTER I. A CENTURY OF RAILROAD BUILDING」，止于「CHAPTER XII. THE AMERICAN RAILROAD PROBLEM」。 |
 | 原文溯源 | `cache/epub/3036/pg3036.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/f357fff5e576/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

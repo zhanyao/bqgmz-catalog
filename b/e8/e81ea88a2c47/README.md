@@ -1,7 +1,7 @@
 # A voyage to Guinea, Brasil and the West Indies
 
-**作者** Atkins, John, 1685-1757 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 20 题 · 293,640 字 ｜ **来源** Project Gutenberg
+**作者** Atkins, John, 1685-1757 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 15 篇 · 293,640 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e81ea88a2c47/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（293,640 字）。 |
-| 分章依据 | 按「题」标记切分为 20 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,682 字。 |
+| 分章依据 | 按「篇」标记切分为 15 篇（通用标记切分），拼接正文 7,016 行。 |
+| 篇幅分布 | 平均每篇 17,893 字；最长 _SESTHOS._（49,466 字），最短 _IVORY._（2,449 字）。 |
 | 原文溯源 | `cache/epub/72102/pg72102.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. TRANSCRIBER’S NOTE
-2. In a neat Pocket Volume, Price 3_s._
-3. PREFACE
-4. I.
-5. II.
-6. III.
-7. IV.
-8. V.
-9. VI.
-10. VII.
+1. PREFACE
+2. _MADEIRA._
+3. _CANARIES._
+4. _SIERRALEON._
+5. _SESTHOS._
+6. _WHYDAH._
+7. _RAINS._
+8. _WINDS._
+9. _SLAVES._
+10. _IVORY._
 
-> 共 20 题，[完整目录与正文 →](https://www.bqgmz.top/b/e81ea88a2c47/)
+> 共 15 篇，[完整目录与正文 →](https://www.bqgmz.top/b/e81ea88a2c47/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

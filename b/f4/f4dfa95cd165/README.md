@@ -1,7 +1,7 @@
 # Retained for the Defence: A Farce, in One Act
 
-**作者** Oxenford, John, 1812-1877 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 22 题 · 31,829 字 ｜ **来源** Project Gutenberg
+**作者** Oxenford, John, 1812-1877 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 31,829 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f4dfa95cd165/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（31,829 字）。 |
-| 分章依据 | 按「题」标记切分为 22 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,446 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 1,124 行。 |
+| 篇幅分布 | 平均每篇 31,829 字。 |
 | 原文溯源 | `cache/epub/49296/pg49296.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 1 篇）
 
-1. IN ONE ACT.
-2. BY
-3. JOHN OXENFORD, ESQ.,
-4. AUTHOR OF
-5. RETAINED FOR THE DEFENCE.
-6. MR. MOTTLEY DE WINDSOR MR. G. COOKE.
-7. MR. WHITEWASH MR. G. VINING.
-8. MR. FERGUSON MR. H. COOPER.
-9. THWAITES MR. H. WIGAN.
-10. PAWKINS MR. F. ROBSON.
+1. Retained for the Defence: A Farce, in One Act
 
-> 共 22 题，[完整目录与正文 →](https://www.bqgmz.top/b/f4dfa95cd165/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/f4dfa95cd165/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

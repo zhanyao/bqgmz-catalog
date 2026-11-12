@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（210,331 字）。 |
-| 分章依据 | 按「章」标记切分为 31 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,784 字；最长 CHAPTER IV GETTING THE “OCEAN FLYER” READY（11,988 字），最短 CHAPTER XI THE FIGHT IN THE FOREST（4,151 字）。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-chapter），拼接正文 5,516 行。 |
+| 篇幅分布 | 平均每章 6,727 字；最长 CHAPTER IV GETTING THE “OCEAN FLYER” READY（11,988 字），最短 CHAPTER XI THE FIGHT IN THE FOREST（4,151 字）。 |
 | 起止 | 始于「CHAPTER I WHAT THE NEWSPAPER TOLD」，止于「CHAPTER XXXI THE END OF THE OCEAN FLYER」。 |
 | 原文溯源 | `cache/epub/64184/pg64184.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/fcca7a65742d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

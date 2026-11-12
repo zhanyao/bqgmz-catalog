@@ -1,7 +1,7 @@
 # La vie en France au moyen âge d'après quelques moralistes du temps
 
-**作者** Langlois, Charles Victor, 1863-1929 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 69 题 · 457,541 字 ｜ **来源** Project Gutenberg
+**作者** Langlois, Charles Victor, 1863-1929 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 19 篇 · 457,541 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ecef2d289f16/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（457,541 字）。 |
-| 分章依据 | 按「题」标记切分为 69 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,631 字。 |
+| 分章依据 | 按「篇」标记切分为 19 篇（通用标记切分），拼接正文 13,612 行。 |
+| 篇幅分布 | 平均每篇 24,064 字；最长 IV（57,036 字），最短 NOTRE LITTÉRATURE（2,009 字）。 |
 | 原文溯源 | `cache/epub/45864/pg45864.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. CH.-V. LANGLOIS
-2. INTRODUCTION
-3. LA VIE EN FRANCE AU MOYEN AGE D’APRÈS QUELQUES MORALISTES DU TEMPS
-4. LE LIVRE DES MANIÈRES
-5. Et Dex! que feiz o ton toneire? 229
-6. D’aumones vit, aumonier[s] seit. 357
-7. LA BIBLE GUIOT
-8. Mais ces princes ai je veüz... 366
-9. Les converses et les nonnes... Ce sujet est délicat, car
-10. LA BIBLE AU SEIGNEUR DE BERZÉ
+1. INTRODUCTION
+2. LE LIVRE DES MANIÈRES
+3. LA BIBLE GUIOT
+4. LA BIBLE AU SEIGNEUR DE BERZÉ
+5. CARITÉ, MISERERE
+6. CARITÉ
+7. MISERERE
+8. ROBERT DE BLOIS
+9. _L’ENSEIGNEMENT DES PRINCES_
+10. _LE CHASTOIEMENT DES DAMES_
 
-> 共 69 题，[完整目录与正文 →](https://www.bqgmz.top/b/ecef2d289f16/)
+> 共 19 篇，[完整目录与正文 →](https://www.bqgmz.top/b/ecef2d289f16/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

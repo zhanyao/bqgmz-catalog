@@ -1,7 +1,7 @@
 # The Ways of Men
 
 **作者** Gregory, Eliot, 1854-1915 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 32 章 · 308,198 字 ｜ **来源** Project Gutenberg
+**规模** 33 章 · 308,198 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f0f1c5096808/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（308,198 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,631 字；最长 CHAPTER 16—The Poetic _Cabarets_ of Paris（17,072 字），最短 CHAPTER 1—“_Uncle Sam_”（5,283 字）。 |
+| 分章依据 | 按「章」标记切分为 33 章（auto-chapter），拼接正文 6,586 行。 |
+| 篇幅分布 | 平均每章 9,327 字；最长 CHAPTER 16—The Poetic _Cabarets_ of Paris（17,072 字），最短 CHAPTER 1—“_Uncle Sam_”（4,937 字）。 |
 | 起止 | 始于「CHAPTER 1—“_Uncle Sam_”」，止于「CHAPTER 33—The Spirit of History」。 |
 | 原文溯源 | `cache/epub/319/pg319.txt`（Project Gutenberg） |
 
@@ -29,7 +29,7 @@
 9. CHAPTER 9—“Climbers” in England
 10. CHAPTER 10—_Calvé_ at Cabrières
 
-> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/f0f1c5096808/)
+> 共 33 章，[完整目录与正文 →](https://www.bqgmz.top/b/f0f1c5096808/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

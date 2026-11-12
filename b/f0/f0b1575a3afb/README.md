@@ -1,7 +1,7 @@
 # The Secret of the Night
 
-**作者** Leroux, Gaston, 1868-1927 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 29 题 · 450,993 字 ｜ **来源** Project Gutenberg
+**作者** Leroux, Gaston, 1868-1927 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 19 章 · 450,993 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f0b1575a3afb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（450,993 字）。 |
-| 分章依据 | 按「题」标记切分为 29 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 15,551 字。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-roman-title），拼接正文 11,363 行。 |
+| 篇幅分布 | 平均每章 23,710 字；最长 IX. ANNOUCHKA（49,593 字），最短 XVIII. A SINGULAR EXPERIENCE（5,175 字）。 |
+| 起止 | 始于「I. GAYETY AND DYNAMITE」，止于「XIX. THE TSAR」。 |
 | 原文溯源 | `cache/epub/1686/pg1686.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by An Anonymous Project Gutenberg Volunteer
-2. THE SECRET OF THE NIGHT
-3. By Gaston Leroux
-4. CONTENTS
-5. Chapter
-6. THE SECRET OF THE NIGHT
-7. I. GAYETY AND DYNAMITE
-8. II. NATACHA
-9. III. THE WATCH
-10. IV. “THE YOUTH OF MOSCOW IS DEAD”
+1. I. GAYETY AND DYNAMITE
+2. II. NATACHA
+3. III. THE WATCH
+4. IV. “THE YOUTH OF MOSCOW IS DEAD”
+5. V. BY ROULETABILLE’S ORDER THE GENERAL PROMENADES
+6. VI. THE MYSTERIOUS HAND
+7. VII. ARSENATE OF SODA
+8. VIII. THE LITTLE CHAPEL OF THE GUARDS
+9. IX. ANNOUCHKA
+10. X. A DRAMA IN THE NIGHT
 
-> 共 29 题，[完整目录与正文 →](https://www.bqgmz.top/b/f0b1575a3afb/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/f0b1575a3afb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

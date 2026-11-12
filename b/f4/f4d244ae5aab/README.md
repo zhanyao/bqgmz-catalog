@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（520,672 字）。 |
-| 分章依据 | 按「章」标记切分为 42 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,396 字；最长 CHAPTER XVII. THE JUDGMENT（23,644 字），最短 CHAPTER XXXIII. DISCOVERY（5,211 字）。 |
+| 分章依据 | 按「章」标记切分为 42 章（auto-chapter），拼接正文 14,121 行。 |
+| 篇幅分布 | 平均每章 12,393 字；最长 CHAPTER XVII. THE JUDGMENT（23,644 字），最短 CHAPTER XXXIII. DISCOVERY（5,211 字）。 |
 | 起止 | 始于「CHAPTER I. INTRODUCTION.」，止于「CHAPTER XLII. CONCLUSION.」。 |
 | 原文溯源 | `cache/epub/40075/pg40075.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/f4d244ae5aab/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Etiquette Made Easy
 
-**作者** Squier, Edward Summers ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 95,126 字 ｜ **来源** Project Gutenberg
+**作者** Squier, Edward Summers ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 24 章 · 95,126 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f5872699b470/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（95,126 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,781 字。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-toc-title-list），拼接正文 2,851 行。 |
+| 篇幅分布 | 平均每章 3,791 字。 |
 | 原文溯源 | `cache/epub/51887/pg51887.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 10 章）
 
-1. As to the returning of calls, such visits should be made on
-2. A folded napkin is placed on each plate, with a roll or piec
-3. Similarly, for the sake of clearness, a business letter by a
-4. The knife is employed only for cutting purposes, being then
+1. AT HOMES
+2. BACHELOR HOSTS
+3. BALLS
+4. BREAKFASTS
+5. CALLS
+6. CARDS
+7. DINNERS
+8. GARDEN-PARTIES
+9. HOUSE-PARTIES
+10. INTRODUCTIONS
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/f5872699b470/)
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/f5872699b470/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

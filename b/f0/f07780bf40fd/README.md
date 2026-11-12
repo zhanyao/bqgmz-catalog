@@ -1,7 +1,7 @@
 # Rimrock Jones
 
 **作者** Coolidge, Dane, 1873-1940; Gage, George W., 1887-1957 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 26 章 · 327,243 字 ｜ **来源** Project Gutenberg
+**规模** 28 章 · 327,243 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f07780bf40fd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（327,243 字）。 |
-| 分章依据 | 按「章」标记切分为 26 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,586 字；最长 CHAPTER XXVI（36,094 字），最短 CHAPTER XXIII（8,757 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXVI」。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-chapter），拼接正文 8,545 行。 |
+| 篇幅分布 | 平均每章 11,649 字；最长 CHAPTER XXVI（22,411 字），最短 CHAPTER XXVIII（6,738 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXIX」。 |
 | 原文溯源 | `cache/epub/20076/pg20076.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/f07780bf40fd/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/f07780bf40fd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

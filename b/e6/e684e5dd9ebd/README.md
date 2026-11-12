@@ -1,7 +1,7 @@
 # Shifting Winds: A Tough Yarn
 
-**作者** Ballantyne, R. M. (Robert Michael), 1825-1894 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 80 题 · 395,774 字 ｜ **来源** Project Gutenberg
+**作者** Ballantyne, R. M. (Robert Michael), 1825-1894 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 395,774 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e684e5dd9ebd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（395,774 字）。 |
-| 分章依据 | 按「题」标记切分为 80 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,947 字。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-caps-sections），拼接正文 10,268 行。 |
+| 篇幅分布 | 平均每章 18,846 字；最长 THE ISLAND-HOME EXAMINED.（48,487 字），最短 CHAPTER ONE.（3,408 字）。 |
 | 原文溯源 | `cache/epub/21702/pg21702.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. Shifting Winds, by R.M. Ballantyne
-3. SHIFTING WINDS, BY R.M. BALLANTYNE.
-4. CHAPTER ONE.
-5. THE COTTAGE AND ITS INMATES.
-6. CHAPTER TWO.
-7. The man muttered to himself as if in perplexity--
-8. CHAPTER THREE.
-9. CHAPTER FOUR.
-10. THE RESCUE.
+1. CHAPTER ONE.
+2. THE COTTAGE AND ITS INMATES.
+3. CHAPTER TWO.
+4. FAILS TO ENLIGHTEN THEM.
+5. THE RESCUE.
+6. THE BREAKFAST PARTY AT SEASIDE VILLA.
+7. DAN HORSEY DOES THE AGREEABLE IN THE KITCHEN.
+8. THE SAILORS' HOME AND THE MAD SKIPPER.
+9. COMMUNICATIVE.
+10. THE STORM, AND ITS CONSEQUENCES.
 
-> 共 80 题，[完整目录与正文 →](https://www.bqgmz.top/b/e684e5dd9ebd/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/e684e5dd9ebd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

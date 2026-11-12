@@ -1,7 +1,7 @@
 # Mimi Bluette, fiore del mio giardino: romanzo
 
-**作者** Verona, Guido da, 1881-1939 ｜ **国家/地区** 意大利 ｜ **体例** 题  
-**规模** 20 题 · 380,303 字 ｜ **来源** Project Gutenberg
+**作者** Verona, Guido da, 1881-1939 ｜ **国家/地区** 意大利 ｜ **体例** 部分  
+**规模** 9 部分 · 380,303 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e65af89bf3d2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（380,303 字）。 |
-| 分章依据 | 按「题」标记切分为 20 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 19,015 字。 |
+| 分章依据 | 按「部分」标记切分为 9 部分（fallback-chunk），拼接正文 10,772 行。 |
+| 篇幅分布 | 平均每部分 42,255 字；最长 第 6 部分（42,764 字），最短 第 9 部分（39,426 字）。 |
 | 原文溯源 | `cache/epub/47074/pg47074.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 部分）
 
-1. Mimi Bluette
-2. GUIDO DA VERONA
-3. Mimi Bluette
-4. ROMANZO
-5. SETTIMA EDIZIONE—DAL 111º AL 160º MIGLIAIO
-6. R. BEMPORAD & FIGLIO—EDITORI—FIRENZE
-7. MCMXX
-8. PROPRIETÀ LETTERARIA
-9. Stab. Tipo–Litogr. FED. SACCHETTI & C.—MILANO—Via Zecca Vecchia, 7
-10. NOTA DEGLI EDITORI
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
 
-> 共 20 题，[完整目录与正文 →](https://www.bqgmz.top/b/e65af89bf3d2/)
+> 共 9 部分，[完整目录与正文 →](https://www.bqgmz.top/b/e65af89bf3d2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

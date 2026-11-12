@@ -1,7 +1,7 @@
 # King Henry V（#1784）
 
-**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 8 章 · 134,129 字 ｜ **来源** Project Gutenberg
+**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 幕  
+**规模** 5 幕 · 134,129 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ef4715323abb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（134,129 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,766 字。 |
+| 分章依据 | 按「幕」标记切分为 5 幕（auto-act），拼接正文 4,396 行。 |
+| 篇幅分布 | 平均每幕 24,744 字；最长 ACT IV. PROLOGUE.（38,244 字），最短 ACT I. SCENE I.（15,420 字）。 |
 | 原文溯源 | `cache/epub/1784/pg1784.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 章）
+## 章节目录（前 5 幕）
 
-1. SCENE I.
-2. SCENE II.
-3. SCENE III.
-4. SCENE IV.
-5. SCENE V.
-6. SCENE VI.
-7. SCENE VII.
-8. SCENE VIII.
+1. ACT I. SCENE I.
+2. ACT II. PROLOGUE.
+3. ACT III. PROLOGUE.
+4. ACT IV. PROLOGUE.
+5. ACT V. PROLOGUE.
 
-> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/ef4715323abb/)
+> 共 5 幕，[完整目录与正文 →](https://www.bqgmz.top/b/ef4715323abb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

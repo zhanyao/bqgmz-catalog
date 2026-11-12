@@ -1,7 +1,7 @@
 # The Works of the Emperor Julian, Vol. 1
 
-**作者** Julian, Emperor of Rome, 331-363; Wright, Wilmer Cave, 1868-1951 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 30 段 · 609,093 字 ｜ **来源** Project Gutenberg
+**作者** Julian, Emperor of Rome, 331-363; Wright, Wilmer Cave, 1868-1951 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 361 篇 · 609,093 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ed4c8b81d987/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（609,093 字）。 |
-| 分章依据 | 按「段」标记切分为 30 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,303 字；最长 Ὁ μὲν οὖν τῶν ἐπαίνων νόμος οὐδὲν ἔλαττον τῆς πατρίδος ἢ τῶν（37,286 字），最短 770 A Greek astronomer who flourished in the middle of the s（8,258 字）。 |
+| 分章依据 | 按「篇」标记切分为 361 篇（通用标记切分），拼接正文 13,205 行。 |
+| 篇幅分布 | 平均每篇 1,571 字。 |
 | 原文溯源 | `cache/epub/48664/pg48664.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Ὁ μὲν οὖν τῶν ἐπαίνων νόμος οὐδὲν ἔλαττον τῆς πατρίδος ἢ τῶν
-2. (Now as for heavenly voices and prophecies and visions in dr
-3. (But I must postpone the description of your personal qualit
-4. Τίς μὲν γὰρ ἀγαθὸς κυβερνήτης ἐν εὐδίᾳ τὴν ναῦν κατευθύνων,
-5. (No sooner had you set out for the seat of war, than this ve
-6. Ἡμεῖς δὲ ἐπειδὴ τὸν πρῶτον πόλεμον διεληλύθαμεν, ληγούσης ἤδ
-7. (All these, then, you have surpassed in merit, for you have
-8. Αὕτη σοι τῆς Πελοπιδῶν οἰκίας ἡ γενεαλογία, εἰς τρεῖς οὐδὲ ὅ
-9. Ἐκεῖνο δὲ ἤδη ῥητέον, ὡς οὔτε ἐν τοῖς κειμένοις ἦν οὔτε ἐν τ
-10. (Now when the Parthians advanced to attack the wall in their
+1. [Cover Art]
+2. FLAVIUS CLAUDIUS JULIANUS,(1) son of Julius Constantius and nephew of the
+3. When the excesses of the revolutionary Gallus ended in his death at the
+4. The eunuchs and courtiers who had surrounded Constantius were replaced by
+5. The _Vossianus_ (V), Leyden, 13th or 14th cent. (contains also the
+6. _Misopogon_ and _Letters_ (with Latin version) Martin, Paris, 1566. Martin
+7. Latin: _Misopogon_ and _Letters_, Martin in edition. _Oration I_, Schaefer
+8. J. Bidez: _La tradition manuscrite et les éditions des discours de Julien_
+9. [Transcriber’s Note: The original book had pages with Greek on the left
+10. Πάλαι με προθυμούμενον, ὦ μέγιστε βασιλεῦ, τὴν σὴν ἀρετὴν καὶ πράξεις
 
-> 共 30 段，[完整目录与正文 →](https://www.bqgmz.top/b/ed4c8b81d987/)
+> 共 361 篇，[完整目录与正文 →](https://www.bqgmz.top/b/ed4c8b81d987/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

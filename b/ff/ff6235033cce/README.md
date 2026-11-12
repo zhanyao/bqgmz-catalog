@@ -1,7 +1,7 @@
 # Fra Tommaso Campanella, Vol. 2 la sua congiura, i suoi processi e la sua pazzia
 
-**作者** Amabile, Luigi, 1828-1892 ｜ **国家/地区** 意大利 ｜ **体例** 题  
-**规模** 24 题 · 1,142,989 字 ｜ **来源** Project Gutenberg
+**作者** Amabile, Luigi, 1828-1892 ｜ **国家/地区** 意大利 ｜ **体例** 篇  
+**规模** 443 篇 · 1,142,989 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ff6235033cce/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,142,989 字）。 |
-| 分章依据 | 按「题」标记切分为 24 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 47,624 字。 |
+| 分章依据 | 按「篇」标记切分为 443 篇（通用标记切分），拼接正文 21,449 行。 |
+| 篇幅分布 | 平均每篇 2,578 字。 |
 | 原文溯源 | `cache/epub/48332/pg48332.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. FRA TOMMASO CAMPANELLA
-2. PER
-3. CAP. IV.
-4. PROCESSI DI NAPOLI E PAZZIA DEL CAMPANEL
-5. Ma in quanto a Maurizio, il 20 dicembre
-6. Il 7 febbraio 1600 venne amministrata la
-7. Il secondo, che ci sembra abbastanza bello, e che comincia co' versi
-8. NOTE:
-9. CAP. V.
-10. SÈGUITO DE' PROCESSI DI NAPOLI E DELLA P
+1. L'editore avverte che avendo adempiute tutte le formalità prescritte
+2. Ecco come era andata la faccenda di queste esecuzioni: ce ne danno
+3. Ma, oltre il Caccia e il Vitale, vi furono quattro altri semplicemente
+4. Del rimanente è verissimo che lo stesso Vicerè esagerava l'importanza
+5. Mentre il tribunale pe' laici si costituiva, il Nunzio incontrava
+6. Si può ben dire che dalla parte del Vicerè e de' suoi ufficiali, più
+7. Fra Cornelio, venuto co' carcerati in Napoli, dopo di aver consegnato
+8. Il 17 novembre il Card.^l S. Giorgio scriveva che S. S.^{tà} stimava
+9. Non si saprebbe dire veramente perchè il Nunzio avesse tardato fino
+10. Ecco ora un saggio della ricognizione fatta dall'Auditore del Nunzio il
 
-> 共 24 题，[完整目录与正文 →](https://www.bqgmz.top/b/ff6235033cce/)
+> 共 443 篇，[完整目录与正文 →](https://www.bqgmz.top/b/ff6235033cce/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

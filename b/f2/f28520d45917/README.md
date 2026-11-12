@@ -1,7 +1,7 @@
 # The Great Round World and What Is Going On In It, Vol. 1, No. 56, December 2, 1897 A Weekly Magazine for Boys and Girls
 
-**作者** Various; Bishop, Julia Truitt [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 13 题 · 31,823 字 ｜ **来源** Project Gutenberg
+**作者** Various; Bishop, Julia Truitt [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 3 章 · 31,823 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f28520d45917/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（31,823 字）。 |
-| 分章依据 | 按「题」标记切分为 13 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,447 字。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-caps-sections），拼接正文 931 行。 |
+| 篇幅分布 | 平均每章 10,607 字。 |
 | 原文溯源 | `cache/epub/16191/pg16191.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 章）
 
-1. VOL. 1 DECEMBER 2, 1897. NO. 56
-2. G.H. ROSENFELD.
-3. BOOK REVIEWS.
-4. STORY OF ULYSSES.
-5. LETTERS FROM OUR YOUNG FRIENDS.
-6. DEAR MADAM:
-7. DEAR EDITOR:
-8. DEAR EDITOR:
-9. DEAR EDITOR:
-10. DEAR YOUNG FRIEND:
+1. STORY OF ULYSSES.
+2. DEAR MADAM:
+3. DEAR YOUNG FRIEND:
 
-> 共 13 题，[完整目录与正文 →](https://www.bqgmz.top/b/f28520d45917/)
+> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/f28520d45917/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

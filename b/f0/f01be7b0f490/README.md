@@ -1,7 +1,7 @@
 # Das Geschlechtsleben in der Deutschen Vergangenheit
 
-**作者** Bauer, Max, 1861-1932 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 18 段 · 363,403 字 ｜ **来源** Project Gutenberg
+**作者** Bauer, Max, 1861-1932 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 10 章 · 363,403 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f01be7b0f490/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（363,403 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,189 字；最长 Im Grunde genommen barg sich unter dem _Jus primae noctis_ n（39,701 字），最短 »#Gebt uns die Wahrheit#« #ist eine moderne ars amandi im ed（3,049 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 8,085 行。 |
+| 篇幅分布 | 平均每章 36,195 字；最长 Die feile Liebe（77,291 字），最短 Das Schönheitsideal（12,512 字）。 |
 | 原文溯源 | `cache/epub/50248/pg50248.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Im Grunde genommen barg sich unter dem _Jus primae noctis_ n
-2. Man lebte anders, man dachte anders als heutzutage, man war
-3. Die freie Denkungsart des Mittelalters in geschlechtlichen D
-4. Bezeichnend für die sich unter dem geistlichen Habite breit
-5. Ein interessantes Dokument über ein derartiges Vorkommnis au
-6. Ob Meister Freidank und Reinmar aus Erfahrung sprechen oder
-7. An der Spitze des Bordells stand der Frauenwirt, Kuppler ode
-8. Nach den Bordellordnungen sollten die Freudenhäuser meist ei
-9. Die Prostitution selbst erlitt durch den Wegfall der Bordell
-10. Reinigungs- und Erfrischungsbäder galten seit frühester Zeit
+1. Das frühe Mittelalter
+2. Das Leben auf dem Dorfe
+3. Die Klöster
+4. Beilager und Ehe
+5. Die feile Liebe
+6. Das Badewesen
+7. Tanz und Spiel
+8. Das Schönheitsideal
+9. Die Kleidung
+10. Liebeszauber und Zauberliebe
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/f01be7b0f490/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/f01be7b0f490/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

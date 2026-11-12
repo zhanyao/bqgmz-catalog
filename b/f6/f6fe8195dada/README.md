@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（391,628 字）。 |
-| 分章依据 | 按「章」标记切分为 31 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,633 字；最长 CHAPTER XXIII. THE TREACHERY OF YURUK（22,466 字），最短 CHAPTER XVII. YURUK（6,272 字）。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-chapter），拼接正文 10,605 行。 |
+| 篇幅分布 | 平均每章 12,520 字；最长 CHAPTER XXIII. THE TREACHERY OF YURUK（22,466 字），最短 CHAPTER XVII. YURUK（6,272 字）。 |
 | 起止 | 始于「CHAPTER I. VALLEY OF THE BLUE POPPIES」，止于「CHAPTER XXXI. SLAG!」。 |
 | 原文溯源 | `cache/epub/3479/pg3479.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/f6fe8195dada/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

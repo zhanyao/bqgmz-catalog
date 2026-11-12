@@ -1,7 +1,7 @@
 # Some Protective Designs of the Dakota
 
-**作者** Wissler, Clark, 1870-1947 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 23 题 · 56,710 字 ｜ **来源** Project Gutenberg
+**作者** Wissler, Clark, 1870-1947 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 56,710 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ef9f287eb021/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（56,710 字）。 |
-| 分章依据 | 按「题」标记切分为 23 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,465 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-toc-title-list），拼接正文 1,356 行。 |
+| 篇幅分布 | 平均每章 6,728 字；最长 SHIELD-DESIGNS（15,150 字），最短 INTRODUCTION（1,746 字）。 |
 | 原文溯源 | `cache/epub/50589/pg50589.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. ANTHROPOLOGICAL PAPERS
-2. OF THE
-3. SOME PROTECTIVE DESIGNS OF THE DAKOTA.
-4. BY
-5. CLARK WISSLER.
-6. ANTHROPOLOGICAL PAPERS
-7. OF THE
-8. AMERICAN MUSEUM OF NATURAL HISTORY
-9. VOL. I, PART II.
-10. SOME PROTECTIVE DESIGNS OF THE DAKOTA.
+1. INTRODUCTION
+2. SHIELD-DESIGNS
+3. GHOST-DANCE DESIGNS
+4. THE HOOP
+5. THE WHIRLWIND
+6. THE THUNDER
+7. THE SPIDER
+8. CONCLUSION
 
-> 共 23 题，[完整目录与正文 →](https://www.bqgmz.top/b/ef9f287eb021/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/ef9f287eb021/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The unwelcome child
 
-**作者** Wright, Henry Clarke, 1797-1870 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 163,778 字 ｜ **来源** Project Gutenberg
+**作者** Wright, Henry Clarke, 1797-1870 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 163,778 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f5279b067454/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（163,778 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,472 字；最长 This is a fearful fact, when viewed in its bearing on the po（39,820 字），最短 “As to her husband, she really thought he could not control （4,416 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 3,435 行。 |
+| 篇幅分布 | 平均每章 20,449 字；最长 DEAR FRIEND:（1）（55,198 字），最短 CONTENTS.（313 字）。 |
 | 原文溯源 | `cache/epub/71097/pg71097.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 8 章）
 
-1. This is a fearful fact, when viewed in its bearing on the po
-2. “Sensitive as woman ever is at such periods, she rarely meet
-3. Woman would find rest and fulness of joy in man. She rushes
-4. “In one year, I found I was again about to be a mother. I wa
-5. “‘Though much guilt is on my soul, through repeated efforts
-6. “Human decrees and enactments can never alter or reverse hum
-7. “It has often been a matter of wonder to me that men should,
-8. “As to her husband, she really thought he could not control
+1. CONTENTS.
+2. PAGE
+3. PREFACE.
+4. MY DEAR FRIEND:
+5. MY FRIEND:
+6. DEAR FRIEND:
+7. DEAR FRIEND:（1）
+8. DEAR FRIEND:（2）
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/f5279b067454/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/f5279b067454/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

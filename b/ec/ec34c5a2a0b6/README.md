@@ -1,7 +1,7 @@
 # Briefe, die ihn nicht erreichten
 
-**作者** Heyking, Elisabeth von, 1861-1925 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 19 题 · 262,733 字 ｜ **来源** Project Gutenberg
+**作者** Heyking, Elisabeth von, 1861-1925 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 65 章 · 262,733 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ec34c5a2a0b6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（262,733 字）。 |
-| 分章依据 | 按「题」标记切分为 19 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,828 字。 |
+| 分章依据 | 按「章」标记切分为 65 章（auto-num），拼接正文 5,998 行。 |
+| 篇幅分布 | 平均每章 4,036 字；最长 29.（11,972 字），最短 56.（709 字）。 |
+| 起止 | 始于「1.」，止于「65.」。 |
 | 原文溯源 | `cache/epub/48543/pg48543.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BRIEFE, DIE IHN NICHT ERREICHTEN.
-2. BRIEFE,
-3. DIE IHN NICHT
-4. ERREICHTEN.
-5. Und nun ist es zu spät! –
-6. Und die ganze Fahrt – wohin? wozu? –
-7. Es ist ja auch nicht eben leicht! –
-8. Vergangenheit, Vergangenheit! –
-9. An Bord des »Kaiser Wilhelm der Große.«
-10. An Bord des »Kaiser Wilhelm der Große.«
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 19 题，[完整目录与正文 →](https://www.bqgmz.top/b/ec34c5a2a0b6/)
+> 共 65 章，[完整目录与正文 →](https://www.bqgmz.top/b/ec34c5a2a0b6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

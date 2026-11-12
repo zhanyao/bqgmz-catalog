@@ -1,7 +1,7 @@
 # Fore!
 
-**作者** Van Loan, Charles E. (Charles Emmett), 1876-1919 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 68 题 · 342,171 字 ｜ **来源** Project Gutenberg
+**作者** Van Loan, Charles E. (Charles Emmett), 1876-1919 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 36 章 · 342,171 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ed189d6f7ae5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（342,171 字）。 |
-| 分章依据 | 按「题」标记切分为 68 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,031 字。 |
+| 分章依据 | 按「章」标记切分为 36 章（auto-roman-bare），拼接正文 9,265 行。 |
+| 篇幅分布 | 平均每章 9,452 字；最长 IV（部4）（19,311 字），最短 III（部7）（3,114 字）。 |
 | 原文溯源 | `cache/epub/36682/pg36682.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. FORE!
-2. BY CHARLES E. VAN LOAN
-3. Made in the United States of America
-4. Copyright, 1914, 1916, by P. F. Collier & Son
-5. Copyright, 1917, 1918, by The Curtis Publishing Company
-6. PRINTED IN THE UNITED STATES OF AMERICA
-7. My dear Ed. Tufts:--
-8. CHARLES E. VAN LOAN
-9. CONTENTS
-10. GENTLEMEN, YOU CAN'T GO THROUGH
+1. I
+2. II
+3. III
+4. IV
+5. I（部2）
+6. II（部2）
+7. III（部2）
+8. IV（部2）
+9. I（部3）
+10. II（部3）
 
-> 共 68 题，[完整目录与正文 →](https://www.bqgmz.top/b/ed189d6f7ae5/)
+> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/ed189d6f7ae5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

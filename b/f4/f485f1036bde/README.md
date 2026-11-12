@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（291,964 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,542 字；最长 CHAPTER XI--LAUPEPA AND MATAAFA（50,066 字），最短 CHAPTER VII--THE SAMOAN CAMPS（13,374 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 5,426 行。 |
+| 篇幅分布 | 平均每章 26,432 字；最长 CHAPTER XI--LAUPEPA AND MATAAFA（50,025 字），最短 CHAPTER VII--THE SAMOAN CAMPS（13,374 字）。 |
 | 起止 | 始于「CHAPTER I--THE ELEMENTS OF DISCORD: NATIVE」，止于「CHAPTER XI--LAUPEPA AND MATAAFA」。 |
 | 原文溯源 | `cache/epub/536/pg536.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/f485f1036bde/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

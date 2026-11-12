@@ -1,7 +1,7 @@
 # Imogen: A Pastoral Romance
 
-**作者** Godwin, William, 1756-1836 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 10 题 · 228,450 字 ｜ **来源** Project Gutenberg
+**作者** Godwin, William, 1756-1836 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 228,450 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/eca25be77a51/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（228,450 字）。 |
-| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 22,845 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-toc-title-list），拼接正文 4,442 行。 |
+| 篇幅分布 | 平均每章 32,604 字；最长 BOOK THE SECOND（45,203 字），最短 Preface（7,695 字）。 |
 | 原文溯源 | `cache/epub/9152/pg9152.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 章）
 
-1. Imogen
-2. Contents
-3. Preface
-4. BOOK THE FIRST
-5. BOOK THE SECOND
-6. BOOK THE THIRD
-7. PURPOSES OF RODERIC.—THE CARRIAGE OF IMOGEN.—HER CONTEMPT OF RICHES.
-8. BOOK THE FOURTH
-9. BOOK THE FIFTH
-10. BOOK THE SIXTH
+1. Preface
+2. BOOK THE FIRST
+3. BOOK THE SECOND
+4. BOOK THE THIRD
+5. BOOK THE FOURTH
+6. BOOK THE FIFTH
+7. BOOK THE SIXTH
 
-> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/eca25be77a51/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/eca25be77a51/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

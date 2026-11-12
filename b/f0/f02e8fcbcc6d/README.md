@@ -1,7 +1,7 @@
 # Parlour Magic
 
-**作者** Perkins, Henry, 1803-1889 [Publisher] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 389 题 · 208,431 字 ｜ **来源** Project Gutenberg
+**作者** Perkins, Henry, 1803-1889 [Publisher] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 98 章 · 208,431 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f02e8fcbcc6d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（208,431 字）。 |
-| 分章依据 | 按「题」标记切分为 389 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 535 字。 |
+| 分章依据 | 按「章」标记切分为 98 章（auto-caps-sections），拼接正文 5,917 行。 |
+| 篇幅分布 | 平均每章 2,110 字；最长 CHANGES OF THE POPPY.（14,265 字），最短 THE BURNING CIRCLE.（321 字）。 |
 | 原文溯源 | `cache/epub/50404/pg50404.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. REVISED AND IMPROVED.
-2. TRANSMUTATIONS.
-3. THE SPECTRAL LAMP.
-4. CURIOUS CHANGE OF COLOURS.
-5. THE PROTEAN LIGHT.
-6. THE CHAMELEON FLOWERS.
-7. TO CHANGE THE COLOURS OF FLOWERS.
-8. CHANGES OF THE POPPY.
-9. TO CHANGE THE COLOUR OF A ROSE.
-10. LIGHT CHANGING WHITE INTO BLACK.
+1. CHANGES OF THE POPPY.
+2. THE VISIBLY GROWING ACORN.
+3. CHANGES IN SAP GREEN.
+4. CRYSTALS IN HARD WATER.
+5. ARTIFICIAL ICE.
+6. TWO COLOURLESS FLUIDS MAKE A COLOURED ONE.
+7. CHANGE OF COLOUR BY COLOURLESS FLUIDS.
+8. THE MAGIC WRITING.
+9. TWO SOLIDS MAKE A LIQUID.
+10. TWO OBJECTS SEEN AS ONE.
 
-> 共 389 题，[完整目录与正文 →](https://www.bqgmz.top/b/f02e8fcbcc6d/)
+> 共 98 章，[完整目录与正文 →](https://www.bqgmz.top/b/f02e8fcbcc6d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

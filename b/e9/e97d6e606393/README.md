@@ -11,22 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（299,056 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 37,382 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 8,615 行。 |
+| 篇幅分布 | 平均每章 34,863 字；最长 CHAPTER VII（49,746 字），最短 CHAPTER I（19,714 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER VIII」。 |
 | 原文溯源 | `cache/epub/54878/pg54878.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
 
-1. Chapter I
-2. Chapter II
-3. Chapter XXIII
-4. Chapter XXIV
-5. Chapter XXVII
-6. Chapter XXVIII (p. 234)
-7. My lord ordained that there be two [nuns
-8. Leeds ... is a large, wealthy and populo
+1. CHAPTER I
+2. CHAPTER II
+3. CHAPTER III
+4. CHAPTER IV
+5. CHAPTER V
+6. CHAPTER VI
+7. CHAPTER VII
+8. CHAPTER VIII
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/e97d6e606393/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

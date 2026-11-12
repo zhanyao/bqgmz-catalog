@@ -1,7 +1,7 @@
 # Deutsche Humoristen, 4. und 5. Band (von 8)
 
-**作者** Various ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 182 题 · 237,345 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 7 部分 · 237,345 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fc05ff17e3fc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（237,345 字）。 |
-| 分章依据 | 按「题」标记切分为 182 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,304 字。 |
+| 分章依据 | 按「部分」标记切分为 7 部分（fallback-chunk），拼接正文 11,424 行。 |
+| 篇幅分布 | 平均每部分 33,906 字；最长 第 6 部分（40,337 字），最短 第 7 部分（7,220 字）。 |
 | 原文溯源 | `cache/epub/52986/pg52986.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 部分）
 
-1. Anmerkungen zur Transkription
-2. Hausbücherei
-3. Hausbücherei
-4. 29. und 30. Band
-5. 1.-10. Tausend
-6. Deutsche Humoristen
-7. 4. und 5. Band
-8. 1.-10. Tausend
-9. Inhaltsverzeichnis zu den übrigen Bänden der „Deutschen Humoristen“
-10. Inhaltsverzeichnis
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
 
-> 共 182 题，[完整目录与正文 →](https://www.bqgmz.top/b/fc05ff17e3fc/)
+> 共 7 部分，[完整目录与正文 →](https://www.bqgmz.top/b/fc05ff17e3fc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

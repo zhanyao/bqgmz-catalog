@@ -11,21 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（416,764 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 59,537 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-toc-title-list），拼接正文 9,801 行。 |
+| 篇幅分布 | 平均每章 59,427 字。 |
 | 原文溯源 | `cache/epub/60448/pg60448.txt`（Project Gutenberg） |
 
 ## 章节目录（前 7 章）
 
-1. PART I
-2. PART II--RECORDS FROM CONTEMPORARY SOURCES
-3. PART I
-4. The sentiment is akin to that of the _So
-5. 'No individual ought to appropriate to H
-6. PART II: RECORDS FROM CONTEMPORARY SOURC
-7. [Obituary Notices of Blake appeared in t
+1. PREFACE
+2. PART I
+3. INTRODUCTION
+4. WILLIAM BLAKE
+5. PART II--RECORDS FROM CONTEMPORARY SOURCES
+6. MAGAZINE' (1827)
+7. Appendix of Deaths (pp. 253-4). The notice in the _Gentleman's
 
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/f93e2337851f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

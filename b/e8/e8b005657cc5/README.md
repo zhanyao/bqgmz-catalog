@@ -1,7 +1,7 @@
 # Wagner's "Tristan und Isolde": An Essay on the Wagnerian Drama
 
 **作者** Hight, George Ainslie, 1851-1937 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 264,505 字 ｜ **来源** Project Gutenberg
+**规模** 14 章 · 264,505 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e8b005657cc5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（264,505 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,045 字；最长 CHAPTER XI（59,572 字），最短 CHAPTER VIII（11,126 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XI」。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 5,644 行。 |
+| 篇幅分布 | 平均每章 18,723 字；最长 CHAPTER IV（37,687 字），最短 CHAPTER XIV（4,151 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XIV」。 |
 | 原文溯源 | `cache/epub/7834/pg7834.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/e8b005657cc5/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/e8b005657cc5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

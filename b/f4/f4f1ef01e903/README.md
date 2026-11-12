@@ -1,7 +1,7 @@
 # Wanderings in Spain
 
 **作者** Gautier, Théophile, 1811-1872; McQuoid, Thomas Robert, 1820-1912 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 15 章 · 677,559 字 ｜ **来源** Project Gutenberg
+**规模** 14 章 · 677,559 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f4f1ef01e903/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（677,559 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 45,170 字；最长 CHAPTER XIV.（82,250 字），最短 CHAPTER II.（19,227 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 14,744 行。 |
+| 篇幅分布 | 平均每章 46,677 字；最长 CHAPTER X.（141,395 字），最短 CHAPTER II.（19,227 字）。 |
 | 起止 | 始于「CHAPTER I.」，止于「CHAPTER XIV.」。 |
 | 原文溯源 | `cache/epub/52763/pg52763.txt`（Project Gutenberg） |
 
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/f4f1ef01e903/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/f4f1ef01e903/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

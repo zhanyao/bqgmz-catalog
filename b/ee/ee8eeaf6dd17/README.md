@@ -1,7 +1,7 @@
 # The Portland Sketch Book
 
-**作者** Stephens, Ann S. (Ann Sophia), 1810-1886 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 18 段 · 370,898 字 ｜ **来源** Project Gutenberg
+**作者** Stephens, Ann S. (Ann Sophia), 1810-1886 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 370,898 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ee8eeaf6dd17/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（370,898 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,605 字；最长 Give any young man such a tour as this--the best he can make（39,067 字），最短 "It is thy queen who is the slave," she murmured in a broken（10,599 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 8,446 行。 |
+| 篇幅分布 | 平均每章 36,341 字；最长 WORSHIP.（91,646 字），最短 To M（921 字）。 |
 | 原文溯源 | `cache/epub/39278/pg39278.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Give any young man such a tour as this--the best he can make
-2. Little Ponto, the royal reefer, lay on a gun carriage near m
-3. "Ay, ay, sir!"--and we wore round so as to present our other
-4. Is it too much to desire, nay to infer, as a _duty_, from wh
-5. Bidding a lingering farewell to the sweet little island, we
-6. ~Vay'avor Adonai 'al panav vaykra Adonai Adonai El ra[h.]um
-7. As I considered it all important that the matter should be k
-8. This unique address was received by the young men with appla
-9. I was one morning called to my window by the sound of rustic
-10. The throbbing heart, that late had said farewell,
+1. Diamond Cove
+2. Our Own Country
+3. The Cruise of The Dart
+4. To M
+5. Religious Obligation in Rulers
+6. A New-England Winter Scene
+7. Loch Katrine
+8. WORSHIP.
+9. But swearing off from women, and then go
+10. Half conscious of her misery,
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/ee8eeaf6dd17/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/ee8eeaf6dd17/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

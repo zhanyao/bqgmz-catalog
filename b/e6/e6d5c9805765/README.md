@@ -1,7 +1,7 @@
 # The Mercer Boys in the Ghost Patrol
 
-**作者** Wyckoff, Capwell, 1903-1953 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 22 题 · 173,216 字 ｜ **来源** Project Gutenberg
+**作者** Wyckoff, Capwell, 1903-1953 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 173,216 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e6d5c9805765/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（173,216 字）。 |
-| 分章依据 | 按「题」标记切分为 22 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,873 字。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-num），拼接正文 4,856 行。 |
+| 篇幅分布 | 平均每章 9,516 字；最长 18（15,415 字），最短 14（7,859 字）。 |
 | 原文溯源 | `cache/epub/53774/pg53774.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BY CAPWELL WYCKOFF
-2. Other books in the _Mercer Boys Series_
-3. THE MERCER BOYS IN THE GHOST PATROL
-4. CAPWELL WYCKOFF
-5. Contents
-6. YOU DURNED TIN SOLDIERS KEEP YOURE NOSE OUTN THE GHOST BUSINESS.
-7. THE MERCER BOYS’ CRUISE IN THE LASSIE
-8. THE MERCER BOYS AT WOODCREST
-9. THE MERCER BOYS’ MYSTERY CASE
-10. THE MERCER BOYS ON A TREASURE HUNT
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
 
-> 共 22 题，[完整目录与正文 →](https://www.bqgmz.top/b/e6d5c9805765/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/e6d5c9805765/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

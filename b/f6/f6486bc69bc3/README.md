@@ -1,7 +1,7 @@
 # Briefe an Ludwig Tieck (1/4) Erster Band
 
-**作者** Tieck, Ludwig, 1773-1853; Holtei, Karl von, 1798-1880 [Editor] ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 326 题 · 568,131 字 ｜ **来源** Project Gutenberg
+**作者** Tieck, Ludwig, 1773-1853; Holtei, Karl von, 1798-1880 [Editor] ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 13 章 · 568,131 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f6486bc69bc3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（568,131 字）。 |
-| 分章依据 | 按「题」标记切分为 326 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,742 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 13,503 行。 |
+| 篇幅分布 | 平均每章 43,702 字；最长 VIII.（67,511 字），最短 VI.（5,347 字）。 |
+| 起止 | 始于「III.（1）」，止于「II.」。 |
 | 原文溯源 | `cache/epub/49083/pg49083.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Anmerkungen zur Transkription
-2. Briefe
-3. Ausgewählt und herausgegeben
-4. Der
-5. Fürstin Auersperg
-6. Ausgeschlossen mussten werden
-7. Inhalt des ersten Bandes
-8. Seite
-9. Ampère, Jean Jacques Antoine 1
-10. Andersen, Hanns Christian 4
+1. III.（1）
+2. III.（2）
+3. III.（3）
+4. III.（4）
+5. III.（5）
+6. III.（6）
+7. VIII.（1）
+8. VIII.（2）
+9. IV.
+10. VIII.
 
-> 共 326 题，[完整目录与正文 →](https://www.bqgmz.top/b/f6486bc69bc3/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/f6486bc69bc3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # State of the Union Addresses（#5021）
 
-**作者** Fillmore, Millard, 1800-1874 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 157,192 字 ｜ **来源** Project Gutenberg
+**作者** Fillmore, Millard, 1800-1874 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 4 部分 · 157,192 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f4d1a1be3683/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（157,192 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,456 字；最长 There being no mint in California, I am informed that the la（39,835 字），最短 The report from the Navy Department will inform you of the p（17,574 字）。 |
+| 分章依据 | 按「部分」标记切分为 4 部分（fallback-chunk），拼接正文 3,019 行。 |
+| 篇幅分布 | 平均每部分 39,298 字。 |
 | 原文溯源 | `cache/epub/5021/pg5021.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 4 部分）
 
-1. There being no mint in California, I am informed that the la
-2. The series of measures to which I have alluded are regarded
-3. It is earnestly to be hoped that the differences which have
-4. Regarding the act of Congress approved 28th September, 1850,
-5. Many laws of a permanent character have been introduced into
-6. Our settlements on the shores of the Pacific have already gi
-7. The report from the Navy Department will inform you of the p
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/f4d1a1be3683/)
+> 共 4 部分，[完整目录与正文 →](https://www.bqgmz.top/b/f4d1a1be3683/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Dictionnaire raisonné de l'architecture française du XIe au XVIe siècle - Tome 5 - (D - E- F)
 
-**作者** Viollet-le-Duc, Eugène-Emmanuel, 1814-1879 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 14 题 · 821,803 字 ｜ **来源** Project Gutenberg
+**作者** Viollet-le-Duc, Eugène-Emmanuel, 1814-1879 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 57 章 · 821,803 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f580e64d7c1d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（821,803 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 58,700 字。 |
+| 分章依据 | 按「章」标记切分为 57 章（auto-caps-sections），拼接正文 17,359 行。 |
+| 篇幅分布 | 平均每章 14,417 字；最长 IN HONORE BEATI AUDOMARI.（4）（56,073 字），最短 VAR.（337 字）。 |
 | 原文溯源 | `cache/epub/30785/pg30785.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. PAR
-2. TOME CINQUIÈME
-3. MDCCCLXI
-4. De là peut-être descend-on aux enfers.»
-5. Sur l'un des fronts de l'enceinte du châ
-6. [Note 151: Église du XIIe siècle, style
-7. D'ailleurs chacun sait que le principe e
-8. ENTRELACS, s. m. Ne s'emploie qu'au plur
-9. Et
-10. C'est vers 1245, sous le roi saint Louis
+1. MDCCCLXI
+2. PINACLE).
+3. TOMBES).
+4. IN HONORE BEATI AUDOMARI.（1）
+5. IN HONORE BEATI AUDOMARI.（2）
+6. IN HONORE BEATI AUDOMARI.（3）
+7. IN HONORE BEATI AUDOMARI.（4）
+8. IN HONORE BEATI AUDOMARI.（5）
+9. AISNE.
+10. AUBE.
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/f580e64d7c1d/)
+> 共 57 章，[完整目录与正文 →](https://www.bqgmz.top/b/f580e64d7c1d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

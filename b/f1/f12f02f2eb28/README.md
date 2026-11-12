@@ -1,7 +1,7 @@
 # The Flying Dutchman (Der Fliegende Hollaender): Romantic Opera in Three Acts
 
-**作者** Wagner, Richard, 1813-1883 ｜ **国家/地区** 其它语种 ｜ **体例** 章  
-**规模** 3 章 · 54,556 字 ｜ **来源** Project Gutenberg
+**作者** Wagner, Richard, 1813-1883 ｜ **国家/地区** 其它语种 ｜ **体例** 幕  
+**规模** 6 幕 · 54,556 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f12f02f2eb28/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（54,556 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,185 字。 |
+| 分章依据 | 按「幕」标记切分为 6 幕（auto-act），拼接正文 3,173 行。 |
+| 篇幅分布 | 平均每幕 8,908 字；最长 ACT II.（部2）（21,865 字），最短 ACT I.（370 字）。 |
 | 原文溯源 | `cache/epub/31963/pg31963.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 章）
+## 章节目录（前 6 幕）
 
-1. SCENE I.
-2. SCENE II.
-3. SCENE III.
+1. ACT I.
+2. ACT II.
+3. ACT III.
+4. ACT I.（部2）
+5. ACT II.（部2）
+6. ACT III.（部2）
 
-> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/f12f02f2eb28/)
+> 共 6 幕，[完整目录与正文 →](https://www.bqgmz.top/b/f12f02f2eb28/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

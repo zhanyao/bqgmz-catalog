@@ -1,7 +1,7 @@
 # Encyclopaedia Britannica, 11th Edition, "Frost" to "Fyzabad" Volume 11, Slice 3
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 72 题 · 967,378 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 967,378 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fc655329a17a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（967,378 字）。 |
-| 分章依据 | 按「题」标记切分为 72 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,435 字。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-caps-sections），拼接正文 20,732 行。 |
+| 篇幅分布 | 平均每章 43,079 字；最长 UNITED STATES（2）（56,321 字），最短 C4H6(OH)4 + 2H2CO2 = C4H6O + CO+CO2 + 4H2O,（885 字）。 |
 | 原文溯源 | `cache/epub/37064/pg37064.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. ENCYCLOPAEDIA BRITANNICA
-2. ELEVENTH EDITION
-3. VOLUME XI, SLICE III
-4. FROST to FYZABAD
-5. ARTICLES IN THIS SLICE:
-6. Froude's _Life_, by Herbert Paul, was published in 1905. (W. Hu.)
-7. FIG. 18.--Fruit of _Geranium pratense_, after splitting.]
-8. TABLE II.--_Areas under Orchards in England, Wales and Scotland--Acres._
-9. GREAT BRITAIN
-10. TABLE III.--_Areas of Small Fruit in Great Britain._
+1. FULLERTON, LADY GEORGIANA FYZABAD（1）
+2. FULLERTON, LADY GEORGIANA FYZABAD（2）
+3. FULLERTON, LADY GEORGIANA FYZABAD（3）
+4. UNITED STATES（1）
+5. UNITED STATES（2）
+6. UNITED STATES（3）
+7. UNITED STATES（4）
+8. UNITED STATES（5）
+9. UNITED STATES（6）
+10. II.--FUNCTIONS OF COMPLEX VARIABLES（1）
 
-> 共 72 题，[完整目录与正文 →](https://www.bqgmz.top/b/fc655329a17a/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/fc655329a17a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

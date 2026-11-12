@@ -1,7 +1,7 @@
 # Eros und die Evangelien, aus den Notizen eines Vagabunden
 
-**作者** Bonsels, Waldemar, 1881?-1952 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 13 段 · 262,154 字 ｜ **来源** Project Gutenberg
+**作者** Bonsels, Waldemar, 1881?-1952 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 7 部分 · 262,154 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f7e8c1964087/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（262,154 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,165 字；最长 Es mochte zwischen zehn und elf Uhr sein. Ich genoß für eine（39,294 字），最短 Ich schlief vor Schwäche ein, und langsam hellte die Luft um（2,083 字）。 |
+| 分章依据 | 按「部分」标记切分为 7 部分（fallback-chunk），拼接正文 6,048 行。 |
+| 篇幅分布 | 平均每部分 37,450 字；最长 第 1 部分（42,499 字），最短 第 7 部分（7,832 字）。 |
 | 原文溯源 | `cache/epub/33603/pg33603.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 7 部分）
 
-1. Es mochte zwischen zehn und elf Uhr sein. Ich genoß für eine
-2. Als ich meine Dachkammer betrat, erschien sie mir so fremdar
-3. Ich schritt leise durchs Zimmer, legte lautlos Holz aufs Feu
-4. Wohl hatten Asjas Worte an mich, einst zu Beginn, ein frucht
-5. Wie immer, erkannte Asja unmittelbar den inneren Zustand, in
-6. Es begleiteten uns noch einige Leute, die mir fremd waren, e
-7. Da lag es vor mir, über sich den mächtigen Dom der Nacht. Ei
-8. Sie selbst öffnete kaum die Augen und wandte sich ab, als ho
-9. »Wie hast du es nur angefangen? Deine Reden versteht sie nic
-10. Tante Mimsey begann nun, mir den Inhalt des gelesenen Kapite
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/f7e8c1964087/)
+> 共 7 部分，[完整目录与正文 →](https://www.bqgmz.top/b/f7e8c1964087/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

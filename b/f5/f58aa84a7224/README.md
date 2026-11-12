@@ -1,7 +1,7 @@
 # Outlines of English and American Literature An Introduction to the Chief Writers of England and America, to the Books They Wrote, and to the Times in Which They Lived
 
 **作者** Long, William J. (William Joseph), 1867-1952 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 880,832 字 ｜ **来源** Project Gutenberg
+**规模** 17 章 · 880,832 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f58aa84a7224/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（880,832 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 55,052 字。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 19,999 行。 |
+| 篇幅分布 | 平均每章 51,306 字；最长 CHAPTER III（部3）（149,702 字），最短 CHAPTER II. LITERATURE OF THE NEW NATION（358 字）。 |
 | 原文溯源 | `cache/epub/7800/pg7800.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I. INTRODUCTION: AN ESSAY OF LITERATURE
-2. CHAPTER II. BEGINNINGS OF ENGLISH LITERATURE
-3. CHAPTER III. THE AGE OF CHAUCER AND THE REVIVAL OF LEARNING
-4. CHAPTER IV. THE ELIZABETHAN AGE
-5. CHAPTER V. THE PURITAN AGE AND THE RESTORATION
-6. CHAPTER VI. EIGHTEENTH-CENTURY LITERATURE
-7. CHAPTER VII. THE EARLY NINETEENTH CENTURY
-8. CHAPTER VIII. THE VICTORIAN AGE
-9. "Allas! of me unto the worldës ende
-10. The value of Jonson's plays is that they
+1. CHAPTER I. THE PIONEERS AND NATION-BUILDERS
+2. CHAPTER II. LITERATURE OF THE NEW NATION
+3. CHAPTER III. THE PERIOD OF CONFLICT
+4. CHAPTER IV. THE ALL-AMERICA PERIOD
+5. CHAPTER I（部2）
+6. CHAPTER II（部2）
+7. CHAPTER III（部2）
+8. CHAPTER IV（部2）
+9. CHAPTER V（部2）
+10. CHAPTER VI（部2）
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/f58aa84a7224/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/f58aa84a7224/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

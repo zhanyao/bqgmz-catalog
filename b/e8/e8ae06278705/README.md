@@ -1,7 +1,7 @@
 # Punch, or the London Charivari, Volume 1, September 25, 1841
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 67 题 · 75,157 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 23 章 · 75,157 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e8ae06278705/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（75,157 字）。 |
-| 分章依据 | 按「题」标记切分为 67 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,121 字。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-caps-sections），拼接正文 1,938 行。 |
+| 篇幅分布 | 平均每章 3,267 字。 |
 | 原文溯源 | `cache/epub/14929/pg14929.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. PUNCH, OR THE LONDON CHARIVARI.
-2. VOL. 1.
-3. FOR THE WEEK ENDING SEPTEMBER 25, 1841.
-4. THE HEIR OF APPLEBITE.
-5. CHAPTER V.
-6. GRAVESEND.
-7. PUNCH'S ESSENCE OF GUFFAW.
-8. SCRUPULOUSLY PREPARED FROM THE RECIPE OF THE LATE
-9. MR. JOSEPH MILLER,
-10. AND PATRONISED BY
+1. THE HEIR OF APPLEBITE.
+2. THE LIP."
+3. GRAVESEND.
+4. TO MR. PUNCH.
+5. JOHN SAUNDERS.
+6. JOHN BELL.
+7. A MESMERIC ADVERTISEMENT.
+8. AN ALARMING STRIKE.
+9. MATINEE MESMERIQUE
+10. (H)ALL IS LOST NOW!
 
-> 共 67 题，[完整目录与正文 →](https://www.bqgmz.top/b/e8ae06278705/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/e8ae06278705/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

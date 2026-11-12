@@ -1,7 +1,7 @@
 # The Rainy Day Railroad War
 
-**作者** Day, Holman, 1865-1935 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 14 题 · 176,694 字 ｜ **来源** Project Gutenberg
+**作者** Day, Holman, 1865-1935 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 176,694 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f809dd18c4af/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（176,694 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 12,621 字。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 4,633 行。 |
+| 篇幅分布 | 平均每章 11,035 字；最长 CHAPTER ONE--THE TRYING-OUT OF ONE RODNEY PARKER, ASSISTANT ENGINEER（15,360 字），最短 CHAPTER SIXTEEN--THE PACT THAT OPENED RODNEY PARKER'S PROFESSIONAL（5,979 字）。 |
 | 原文溯源 | `cache/epub/22666/pg22666.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by David Widger
-2. THE RAINY DAY RAILROAD WAR
-3. By Holman Day
-4. THE RAINY DAY RAILROAD WAR
-5. CHAPTER ONE--THE TRYING-OUT OF ONE RODNEY PARKER, ASSISTANT ENGINEER
-6. CHAPTER SEVEN--HOW “THE FRESH-WATER CORSAIRS” CAME TO SUNKHAZE
-7. CHAPTER NINE--UP THE WINDING WAY TO THE “OGRE OF THE BIG WOODS.”
-8. CHAPTER TEN--THE WANGAN DUEL
-9. CHAPTER ELEVEN--THE BEAR THAT WALKED LIKE A MAN
-10. CHAPTER TWELVE--THE STRANGE “CAT-HERMIT OF MOXIE”
+1. CHAPTER ONE--THE TRYING-OUT OF ONE RODNEY PARKER, ASSISTANT ENGINEER
+2. CHAPTER TWO--THE WHIM THAT PROJECTED THE FAMOUS “POQUETTE CARRY
+3. CHAPTER THREE--ENGINEER PARKER GETS FINAL ORDERS FOR “THE LAND OF THE
+4. CHAPTER FOUR--IN WHICH THE DOUGHTY “SWAMP SWOGON” ASTONISHES SUNKHAZE
+5. CHAPTER FIVE--HOW COLONEL GIDEON WAS BACKED DOWN FOR THE FIRST TIME IN
+6. CHAPTER SIX--IN WHICH “THE CAT-HERMIT OF MOXIE” CASTS HIS SHADOW LONG
+7. CHAPTER SEVEN--HOW “THE FRESH-WATER CORSAIRS” CAME TO SUNKHAZE
+8. CHAPTER EIGHT--THE LOCOMOTIVE THAT WENT SWIMMING AND THE ENGINEER WHO
+9. CHAPTER NINE--UP THE WINDING WAY TO THE “OGRE OF THE BIG WOODS.”
+10. CHAPTER TEN--THE WANGAN DUEL
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/f809dd18c4af/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/f809dd18c4af/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

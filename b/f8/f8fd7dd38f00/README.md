@@ -1,7 +1,7 @@
 # Les protestants à Nîmes au temps de l'Édit de Nantes
 
-**作者** Boulenger, Jacques, 1879-1944 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 86 题 · 328,570 字 ｜ **来源** Project Gutenberg
+**作者** Boulenger, Jacques, 1879-1944 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 24 篇 · 328,570 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f8fd7dd38f00/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（328,570 字）。 |
-| 分章依据 | 按「题」标记切分为 86 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,820 字。 |
+| 分章依据 | 按「篇」标记切分为 24 篇（通用标记切分），拼接正文 8,808 行。 |
+| 篇幅分布 | 平均每篇 13,690 字；最长 L’AUTORITÉ DU CONSISTOIRE SUR LES FIDÈLES（68,199 字），最短 COLLOQUE DE NISMES（365 字）。 |
 | 原文溯源 | `cache/epub/52140/pg52140.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
 1. NOTES SUR LA TRANSCRIPTION:
-2. LES
-3. PROTESTANTS A NÎMES
-4. AU TEMPS DE
-5. L’ÉDIT DE NANTES
-6. MACON, PROTAT FRÈRES, IMPRIMEURS
-7. JACQUES BOULENGER
-8. LES
-9. PROTESTANTS A NÎMES
-10. AU TEMPS DE
+2. INTRODUCTION
+3. COMPOSITION ET FONCTIONNEMENT DU CONSISTOIRE
+4. LES FINANCES DU CONSISTOIRE
+5. NOMS SOMMES
+6. L’AUTORITÉ DU CONSISTOIRE SUR LES FIDÈLES
+7. CONCLUSION
+8. II
+9. III
+10. IV
 
-> 共 86 题，[完整目录与正文 →](https://www.bqgmz.top/b/f8fd7dd38f00/)
+> 共 24 篇，[完整目录与正文 →](https://www.bqgmz.top/b/f8fd7dd38f00/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

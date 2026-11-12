@@ -1,7 +1,7 @@
 # Délvirágok; Oceánia
 
-**作者** Jókai, Mór, 1825-1904 ｜ **国家/地区** 匈牙利 ｜ **体例** 题  
-**规模** 98 题 · 430,604 字 ｜ **来源** Project Gutenberg
+**作者** Jókai, Mór, 1825-1904 ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 27 章 · 430,604 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ead071a4b679/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（430,604 字）。 |
-| 分章依据 | 按「题」标记切分为 98 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,393 字。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-caps-sections），拼接正文 10,662 行。 |
+| 篇幅分布 | 平均每章 15,948 字；最长 IV.（35,492 字），最短 A LÁTHATLAN CSILLAG.（1,259 字）。 |
+| 起止 | 始于「II.」，止于「XIII.」。 |
 | 原文溯源 | `cache/epub/56525/pg56525.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. JÓKAI MÓR ÖSSZES MŰVEI
-2. NEMZETI KIADÁS
-3. XX. KÖTET
-4. DÉLVIRÁGOK * OCEÁNIA
-5. BUDAPEST
-6. RÉVAI TESTVÉREK KIADÁSA
-7. DÉLVIRÁGOK
-8. IRTA
-9. JÓKAI MÓR
-10. A FRANKLIN-TÁRSULAT TULAJDONA
+1. II.
+2. IV.
+3. VII.
+4. XI.
+5. XII.
+6. XIV.
+7. XVI.
+8. TSONG-NU.
+9. III.
+10. VI.
 
-> 共 98 题，[完整目录与正文 →](https://www.bqgmz.top/b/ead071a4b679/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/ead071a4b679/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

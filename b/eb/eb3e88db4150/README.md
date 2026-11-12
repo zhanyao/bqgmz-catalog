@@ -1,7 +1,7 @@
 # The Essentials of Logic, Being Ten Lectures on Judgment and Inference
 
-**作者** Bosanquet, Bernard, 1848-1923 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 11 段 · 231,858 字 ｜ **来源** Project Gutenberg
+**作者** Bosanquet, Bernard, 1848-1923 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 231,858 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/eb3e88db4150/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（231,858 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,078 字；最长 According to these ideas, the objective is, shortly stated, （39,353 字），最短 The moment you begin accurate observation you get a negative（12,255 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 5,205 行。 |
+| 篇幅分布 | 平均每章 22,684 字；最长 LECTURE II “JUDGMENT” AS THE CONSCIOUSNESS OF A WORLD（29,239 字），最短 LECTURE VIII NEGATION, AND OPPOSITION OF JUDGMENTS（14,381 字）。 |
 | 原文溯源 | `cache/epub/63598/pg63598.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. According to these ideas, the objective is, shortly stated,
-2. (b) Judgment is universal. There are different senses of “un
-3. Now the common logical judgments which we shall have to anal
-4. In a whole of differentiated members, such as a square, all
-5. This example shows the true distinction between the Logical
-6. Thus then in understanding a sentence we have a judgment {84
-7. 2. In analysing the Judgment as an act of thought we may beg
-8. (1) The Collective Judgment, resulting from enumeration, {11
-9. Then the _meaning_ of denial is always of the nature of _con
-10. I remember that a great many years ago I hardly believed in
+1. LECTURE I THE PROBLEM OF LOGIC
+2. LECTURE II “JUDGMENT” AS THE CONSCIOUSNESS OF A WORLD
+3. LECTURE III THE RELATION OF LOGIC TO KNOWLEDGE
+4. LECTURE IV TYPES OF JUDGMENT AND THE GENERAL CONDITIONS
+5. LECTURE V THE PROPOSITION AND THE NAME
+6. LECTURE VI PARTS OF THE JUDGMENT, AND ITS UNITY
+7. LECTURE VII THE CATEGORICAL AND HYPOTHETICAL CHARACTERS IN
+8. LECTURE VIII NEGATION, AND OPPOSITION OF JUDGMENTS
+9. LECTURE IX INFERENCE AND THE SYLLOGISTIC FORMS
+10. LECTURE X INDUCTION, DEDUCTION, AND CAUSATION
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/eb3e88db4150/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/eb3e88db4150/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

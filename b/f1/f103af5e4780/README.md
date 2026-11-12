@@ -11,23 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（345,498 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 38,388 字；最长 CHAPTER I.（80,080 字），最短 CHAPTER III.（7,956 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-toc-title-list），拼接正文 7,886 行。 |
+| 篇幅分布 | 平均每章 37,447 字；最长 PART II.（102,552 字），最短 Volcanic Rocks 259-265（4,321 字）。 |
 | 原文溯源 | `cache/epub/31627/pg31627.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII.
-8. [1] Geikie, _Proc. Roy. Soc. Edinburgh_
-9. The surface of the moon presented to our
+1. PART I.
+2. PART II.
+3. PART III.
+4. PART IV.
+5. PART V.
+6. PART VI.
+7. PART VII.
+8. A Brief Account of the Principal Varieties of
+9. Volcanic Rocks 259-265
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/f103af5e4780/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # El Morro Trails: El Morro National Monument, New Mexico
 
-**作者** Southwest Parks and Monuments Association ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 10 题 · 25,602 字 ｜ **来源** Project Gutenberg
+**作者** Southwest Parks and Monuments Association ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 25,602 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fc0815375ce3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（25,602 字）。 |
-| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,560 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 761 行。 |
+| 篇幅分布 | 平均每篇 25,602 字。 |
 | 原文溯源 | `cache/epub/65891/pg65891.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 1 篇）
 
-1. PRICE: 50 CENTS IF YOU TAKE THIS BOOKLET HOME
-2. Introduction
-3. KEEP AMERICA BEAUTIFUL
-4. INSCRIPTION ROCK TRAIL
-5. DO NOT THROW ANYTHING INTO THE POOL!
-6. Please stay on the trail
-7. TRAIL TO THE TOP OF THE ROCK AND RUINS
-8. STAY ON THE TRAIL
-9. 21st Edition—10M—8/92
-10. Transcriber’s Notes
+1. El Morro Trails: El Morro National Monument, New Mexico
 
-> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/fc0815375ce3/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/fc0815375ce3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

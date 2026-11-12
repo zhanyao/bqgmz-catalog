@@ -1,7 +1,7 @@
 # Melincourt
 
 **作者** Peacock, Thomas Love, 1785-1866; Saintsbury, George, 1845-1933 [Author of introduction, etc.]; Townsend, F. H. (Frederick Henry), 1868-1920 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 46 章 · 453,637 字 ｜ **来源** Project Gutenberg
+**规模** 42 章 · 453,637 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f7a4fa39dde8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（453,637 字）。 |
-| 分章依据 | 按「章」标记切分为 46 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,861 字。 |
+| 分章依据 | 按「章」标记切分为 42 章（auto-chapter），拼接正文 11,079 行。 |
+| 篇幅分布 | 平均每章 10,434 字；最长 CHAPTER XLII（34,073 字），最短 CHAPTER XXXVIII（4,484 字）。 |
 | 原文溯源 | `cache/epub/75943/pg75943.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 46 章，[完整目录与正文 →](https://www.bqgmz.top/b/f7a4fa39dde8/)
+> 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/f7a4fa39dde8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

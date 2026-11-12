@@ -1,7 +1,7 @@
 # Harper's Young People, December 6, 1881 An Illustrated Weekly
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 3 段 · 63,998 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 63,998 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f39849c709fe/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（63,998 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,332 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 1,814 行。 |
+| 篇幅分布 | 平均每章 4,922 字。 |
 | 原文溯源 | `cache/epub/50396/pg50396.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 10 章）
 
-1. "You'll have to eat your breakfast on horseback, you three,"
-2. Did they do it? Ah, well, that is a secret. We can not stay
-3. Contributions received for Young People's Cot in Holy Innoce
+1. VOL. III.--NO. 110. PUBLISHED BY HARPER & BROTHERS, NEW YORK. PRICE FOUR
+2. MAX RANDER'S ADVENTURE IN BERLIN.
+3. ABOUT CHRISTMAS GIFTS.
+4. THE CURIOUS STORY OF VLADIMIR THE GREAT.
+5. AMATEUR INDIANS.
+6. SPITZBERGEN.
+7. A PINCUSHION.
+8. OUR POST-OFFICE BOX.
+9. ROBERT E. C.
+10. LOUISA E. A. E.
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/f39849c709fe/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/f39849c709fe/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

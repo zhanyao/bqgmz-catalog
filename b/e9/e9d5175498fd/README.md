@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（176,794 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,071 字；最长 CHAPTER I--THE YOUNG CHAUFFEUR（10,394 字），最短 CHAPTER XVII--A TRUE FRIEND（4,093 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 5,596 行。 |
+| 篇幅分布 | 平均每章 7,019 字；最长 CHAPTER XXIV--A HOPEFUL CLEW（9,942 字），最短 CHAPTER XVII--A TRUE FRIEND（4,093 字）。 |
 | 起止 | 始于「CHAPTER I--THE YOUNG CHAUFFEUR」，止于「CHAPTER XXV--GOOD-BY TO AIRSHIP ANDY」。 |
 | 原文溯源 | `cache/epub/36388/pg36388.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/e9d5175498fd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

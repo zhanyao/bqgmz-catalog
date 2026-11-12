@@ -1,7 +1,7 @@
 # Auteurs, acteurs, spectateurs
 
-**作者** Bernard, Tristan, 1866-1947 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 103 题 · 244,533 字 ｜ **来源** Project Gutenberg
+**作者** Bernard, Tristan, 1866-1947 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 45 章 · 244,533 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fe20a05e5e31/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（244,533 字）。 |
-| 分章依据 | 按「题」标记切分为 103 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,374 字。 |
+| 分章依据 | 按「章」标记切分为 45 章（auto-chapter），拼接正文 6,547 行。 |
+| 篇幅分布 | 平均每章 5,304 字；最长 CHAPITRE XIX（7,407 字），最短 CHAPITRE XX（4,027 字）。 |
 | 原文溯源 | `cache/epub/72784/pg72784.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. TRISTAN BERNARD
-2. IL A ÉTÉ TIRÉ DE CET OUVRAGE
-3. AUTEURS, ACTEURS, SPECTATEURS
-4. CHAPITRE PREMIER
-5. SONNEZ AU PUBLIC!
-6. CHAPITRE II
-7. CE QUE PARLER VEUT DIRE
-8. Je pensais: «Qu’est-ce que je vais prendre dans la presse?»
-9. CHAPITRE III
-10. NOUS AUTRES HOMMES
+1. CHAPITRE II
+2. CHAPITRE III
+3. CHAPITRE IV
+4. CHAPITRE V
+5. CHAPITRE VI
+6. CHAPITRE VII
+7. CHAPITRE VIII
+8. CHAPITRE IX
+9. CHAPITRE X
+10. CHAPITRE XI
 
-> 共 103 题，[完整目录与正文 →](https://www.bqgmz.top/b/fe20a05e5e31/)
+> 共 45 章，[完整目录与正文 →](https://www.bqgmz.top/b/fe20a05e5e31/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,18 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（813,025 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 90,336 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 16,924 行。 |
+| 篇幅分布 | 平均每章 2,414 字。 |
 | 原文溯源 | `cache/epub/53395/pg53395.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
 
-1. PART I.—THE DATA OF PSYCHOLOGY.
-2. PART II.—THE INDUCTIONS OF PSYCHOLOGY.
-3. PART III.—GENERAL SYNTHESIS.
-4. PART IV.—SPECIAL SYNTHESIS.
-5. PART V.—PHYSICAL SYNTHESIS.
-6. PART VI.—SPECIAL ANALYSIS.
+1. PART I.—THE UNKNOWABLE.
+2. PART II.—THE KNOWABLE.
+3. PART III.—THE EVOLUTION OF LIFE.
+4. PART IV.—MORPHOLOGICAL DEVELOPMENT.
+5. PART V.—PHYSIOLOGICAL DEVELOPMENT.
+6. PART VI.—LAWS OF MULTIPLICATION.
 7. PART VII.—GENERAL ANALYSIS.
 8. PART VIII.—CONGRUITIES.
 9. PART IX.—COROLLARIES.
@@ -30,4 +30,4 @@
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/f953aaeed1b9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

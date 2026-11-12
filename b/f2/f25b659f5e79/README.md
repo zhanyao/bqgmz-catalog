@@ -1,7 +1,7 @@
 # Einheimische Fische; Die Süßwasserfische unsrer Heimat
 
-**作者** Floericke, Kurt, 1869-1934 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 10 段 · 202,140 字 ｜ **来源** Project Gutenberg
+**作者** Floericke, Kurt, 1869-1934 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 42 篇 · 202,140 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f25b659f5e79/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（202,140 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,214 字；最长 Daß der Schlammbeißer in seinen oft kleinen Wohntümpeln bei （36,495 字），最短 § 1. Die Gesellschaft Kosmos (eine freie Vereinigung der（1,829 字）。 |
+| 分章依据 | 按「篇」标记切分为 42 篇（通用标记切分），拼接正文 3,831 行。 |
+| 篇幅分布 | 平均每篇 4,807 字。 |
 | 原文溯源 | `cache/epub/39763/pg39763.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Daß der Schlammbeißer in seinen oft kleinen Wohntümpeln bei
-2. Als ein gutes Beispiel für die Farbenanpassung an die Pflanz
-3. Es dürfte angezeigt sein, im Anschluß an die Betrachtung der
-4. Mit dem Bitterling wetteifert der _Stichling_ (_Gasterósteus
-5. Im embryonalen Zustande hat die auf eine Darmausstülpung
-6. Außer der Verfärbung zum Hochzeitskleid tritt mit Beginn der
-7. Betrachten wir nun zunächst einmal als Beispiel für die erst
-8. Glücklicherweise ist gerade die Forelle in hohem Maße für di
-9. Als den Wolf in unserer heimischen Fischwelt könnte man den
-10. § 1. Die Gesellschaft Kosmos (eine freie Vereinigung der
+1. (ViFaBio))
+2. [Zur Transkription: =Gleichheitszeichen= bedeuten =fett= gedruckten
+3. Kosmos, Gesellschaft der Naturfreunde Geschäftsstelle: Franckh'sche
+4. Ob Altmeister Goethe, der ja bekanntlich auch einen recht tiefen
+5. Selbst dem Laien, der öfters vor einem Aquarium gestanden hat, wird bald
+6. Viel weniger zahlreich sind aus dem schon erwähnten Grunde sichere
+7. Bei dieser Gelegenheit sei gleich noch einiges über den
+8. Der etwa 30 _cm_ lang werdende _Schlammbeißer_, um auf diesen
+9. Auf gleiche Weise behandelte Schlammbeißer, die ein grätenarmes und
+10. Daß der Schlammbeißer in seinen oft kleinen Wohntümpeln bei heißem und
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/f25b659f5e79/)
+> 共 42 篇，[完整目录与正文 →](https://www.bqgmz.top/b/f25b659f5e79/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

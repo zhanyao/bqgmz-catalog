@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（138,927 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,365 字；最长 CHAPTER VII -- THE PLAINS OF ABRAHAM, September 13, 1759（39,794 字），最短 CHAPTER VIII -- EPILOGUE--THE LAST STAND（6,964 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 2,855 行。 |
+| 篇幅分布 | 平均每章 17,260 字；最长 CHAPTER VII -- THE PLAINS OF ABRAHAM, September 13, 1759（39,794 字），最短 CHAPTER VIII -- EPILOGUE--THE LAST STAND（6,964 字）。 |
 | 起止 | 始于「CHAPTER I -- THE BOY, 1727-1741」，止于「CHAPTER VIII -- EPILOGUE--THE LAST STAND」。 |
 | 原文溯源 | `cache/epub/8728/pg8728.txt`（Project Gutenberg） |
 
@@ -30,4 +30,4 @@
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/ee784be24661/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（204,476 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 13,631 字；最长 CHAPTER I.  IPSWICH（41,206 字），最短 CHAPTER VI.  MUGGLETON AND ITS CRICKET（4,702 字）。 |
-| 起止 | 始于「CHAPTER I.  IPSWICH」，止于「CHAPTER XV.--DULWICH」。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 4,243 行。 |
+| 篇幅分布 | 平均每章 13,546 字；最长 CHAPTER I. IPSWICH（40,948 字），最短 CHAPTER VI. MUGGLETON AND ITS CRICKET（4,702 字）。 |
+| 起止 | 始于「CHAPTER I. IPSWICH」，止于「CHAPTER XV.--DULWICH」。 |
 | 原文溯源 | `cache/epub/23490/pg23490.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -32,4 +32,4 @@
 > 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/eb34d1e46179/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

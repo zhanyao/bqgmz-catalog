@@ -1,7 +1,7 @@
 # The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 08 (1820)
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 70 题 · 123,660 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 4 部分 · 123,660 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f2a2cedd9f7b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（123,660 字）。 |
-| 分章依据 | 按「题」标记切分为 70 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,766 字。 |
+| 分章依据 | 按「部分」标记切分为 4 部分（fallback-chunk），拼接正文 3,171 行。 |
+| 篇幅分布 | 平均每部分 30,915 字。 |
 | 原文溯源 | `cache/epub/48775/pg48775.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 部分）
 
-1. THE
-2. RURAL MAGAZINE,
-3. AND
-4. LITERARY EVENING FIRE-SIDE.
-5. VOL. I. PHILADELPHIA, _Eighth Month, 1820_. _No. 8._
-6. A FRIEND OF THE RURAL MAGAZINE TO ITS READERS.
-7. FOR THE RURAL MAGAZINE.
-8. THE DESULTORY REMARKER.
-9. FOR THE RURAL MAGAZINE.
-10. THE VILLAGE TEACHER.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
 
-> 共 70 题，[完整目录与正文 →](https://www.bqgmz.top/b/f2a2cedd9f7b/)
+> 共 4 部分，[完整目录与正文 →](https://www.bqgmz.top/b/f2a2cedd9f7b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

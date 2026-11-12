@@ -1,7 +1,7 @@
 # Books and Culture
 
-**作者** Mabie, Hamilton Wright, 1846-1916 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 24 章 · 168,862 字 ｜ **来源** Project Gutenberg
+**作者** Mabie, Hamilton Wright, 1846-1916 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 5 部分 · 168,862 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f21f928c1551/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（168,862 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,035 字；最长 Chapter III.（10,258 字），最短 Chapter XXIV.（5,373 字）。 |
-| 起止 | 始于「Chapter I.」，止于「Chapter XXIV.」。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 3,482 行。 |
+| 篇幅分布 | 平均每部分 33,772 字；最长 第 4 部分（42,093 字），最短 第 5 部分（1,449 字）。 |
 | 原文溯源 | `cache/epub/16736/pg16736.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 5 部分）
 
-1. Chapter I.
-2. Chapter II.
-3. Chapter III.
-4. Chapter IV.
-5. Chapter V.
-6. Chapter VI.
-7. Chapter VII.
-8. Chapter VIII.
-9. Chapter IX.
-10. Chapter X.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/f21f928c1551/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/f21f928c1551/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

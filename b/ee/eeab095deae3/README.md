@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（278,422 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 55,684 字；最长 BOOK V. Incipit Liber Quintus.（63,183 字），最短 BOOK I. Incipit Liber Primus（36,830 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-chapter），拼接正文 9,514 行。 |
+| 篇幅分布 | 平均每章 55,666 字；最长 BOOK V. Incipit Liber Quintus.（63,183 字），最短 BOOK I. Incipit Liber Primus（36,741 字）。 |
 | 原文溯源 | `cache/epub/257/pg257.txt`（Project Gutenberg） |
 
 ## 章节目录（前 5 章）
@@ -26,4 +26,4 @@
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/eeab095deae3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

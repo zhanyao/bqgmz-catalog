@@ -1,7 +1,7 @@
 # Taavetti Anttilan kohtalo: y.m. kertomuksia Ameriikan suomalaisten elämästä
 
-**作者** Zilliacus, Konni, 1855-1924; Aho, Juhani, 1861-1921 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 9 段 · 188,212 字 ｜ **来源** Project Gutenberg
+**作者** Zilliacus, Konni, 1855-1924; Aho, Juhani, 1861-1921 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 5 部分 · 188,212 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fdca560ac6f0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（188,212 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,912 字；最长 Siitä tuli raskas päivä molemmille miehille, raskas varsinki（39,850 字），最短 Teurastaja itse peräytti kerta toisensa perästä hevostaan ot（8,101 字）。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 4,539 行。 |
+| 篇幅分布 | 平均每部分 37,642 字；最长 第 4 部分（44,286 字），最短 第 5 部分（12,171 字）。 |
 | 原文溯源 | `cache/epub/51791/pg51791.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 5 部分）
 
-1. Siitä tuli raskas päivä molemmille miehille, raskas varsinki
-2. Ja Katie, joka päivä päivältä vaurastui ja vilkastui, menest
-3. Hänen asiamiehensä menetti kyllä sillä matkalla koko joukon
-4. -- Siinä sinä teet oikein, vakuutti Lehtinen, joka jo aikoja
-5. Jos Elias Möykkä olisi tarkoin tiennyt, mitä Ameriikkaan
-6. Melkein koko päivä kului minulta tutkimusteni tekoon ja tuli
-7. Tämä taas seuraa pääasiassa siitä, että intiaanit lounaisiss
-8. Arvokkaan näköinen ei hän juuri ollut, kävellessään siinä pu
-9. Teurastaja itse peräytti kerta toisensa perästä hevostaan ot
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/fdca560ac6f0/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/fdca560ac6f0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

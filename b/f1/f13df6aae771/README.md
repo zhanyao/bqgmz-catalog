@@ -1,7 +1,7 @@
 # Terre-Neuve et les Terre-Neuviennes
 
-**作者** La Chaume, Henri de, 1861- ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 46 题 · 253,496 字 ｜ **来源** Project Gutenberg
+**作者** La Chaume, Henri de, 1861- ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 9 章 · 253,496 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f13df6aae771/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（253,496 字）。 |
-| 分章依据 | 按「题」标记切分为 46 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,510 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 6,360 行。 |
+| 篇幅分布 | 平均每章 26,494 字；最长 CHAPITRE IX（62,161 字），最短 CHAPITRE II（8,104 字）。 |
 | 原文溯源 | `cache/epub/21001/pg21001.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. TERRE-NEUVE ET LES TERRE-NEUVIENNES
-2. HENRI DE LA CHAUME
-3. PREMIÈRE PARTIE
-4. TERRA-NOVA.
-5. CHAPITRE PREMIER
-6. CHAPITRE II
-7. CHAPITRE III
-8. DEUXIÈME PARTIE
-9. LE MONDE ET LA VIE.
-10. CHAPITRE PREMIER
+1. CHAPITRE II
+2. CHAPITRE III
+3. CHAPITRE IV
+4. CHAPITRE V
+5. CHAPITRE VI
+6. CHAPITRE VII
+7. CHAPITRE VIII
+8. CHAPITRE IX
+9. notes. Le soir à huit heures, je devais partir pour New-York; mais je
 
-> 共 46 题，[完整目录与正文 →](https://www.bqgmz.top/b/f13df6aae771/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/f13df6aae771/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

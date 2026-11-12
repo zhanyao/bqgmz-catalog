@@ -1,7 +1,7 @@
 # In Hostile Red
 
-**作者** Altsheler, Joseph A. (Joseph Alexander), 1862-1919 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 79 题 · 366,927 字 ｜ **来源** Project Gutenberg
+**作者** Altsheler, Joseph A. (Joseph Alexander), 1862-1919 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 20 章 · 366,927 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ecf80cef318b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（366,927 字）。 |
-| 分章依据 | 按「题」标记切分为 79 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,644 字。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 9,493 行。 |
+| 篇幅分布 | 平均每章 18,287 字；最长 CHAPTER TWENTY--_The Night Combat（118,251 字），最短 CHAPTER SIXTEEN--_A Rebuke for Waters（4,572 字）。 |
 | 原文溯源 | `cache/epub/41050/pg41050.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. CROWNED MASTERPIECES OF MODERN FICTION
-2. In Hostile Red
-3. BY
-4. J. A. Altsheler
-5. CHAPTER PAGE
-6. I. IN HOSTILE RED 11
-7. II. FEELING THE WAY 27
-8. III. SIR WILLIAM'S REVEL 42
-9. IV. ON A NEW SERVICE 59
-10. V. THE WORK OF WILDFOOT 73
+1. CHAPTER ONE--_In Hostile Red
+2. CHAPTER TWO--_Feeling the Way
+3. CHAPTER THREE--_Sir William's Revel
+4. CHAPTER FOUR--_On a New Service
+5. CHAPTER FIVE--_The Work of Wildfoot
+6. CHAPTER SIX--_A Cousin from England
+7. CHAPTER SEVEN--_The Quarrel
+8. CHAPTER EIGHT--_A File of Prisoners
+9. CHAPTER NINE--_With the Commander-in-Chief
+10. CHAPTER TEN--_The Fine Finish of a Play
 
-> 共 79 题，[完整目录与正文 →](https://www.bqgmz.top/b/ecf80cef318b/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/ecf80cef318b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

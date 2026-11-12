@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（334,091 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,863 字；最长 CHAPTER 13. THE DRAGON’S TEETH; OR, ARMY-SEED（26,855 字），最短 CHAPTER 8. THE HIGH-BORN BABE（20,114 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 9,051 行。 |
+| 篇幅分布 | 平均每章 23,832 字；最长 CHAPTER 13. THE DRAGON’S TEETH; OR, ARMY-SEED（26,855 字），最短 CHAPTER 8. THE HIGH-BORN BABE（20,114 字）。 |
 | 起止 | 始于「CHAPTER 1. THE JUNGLE」，止于「CHAPTER 14. ALBERT’S UNCLE’s GRANDMOTHER; OR, THE LONG-LOST」。 |
 | 原文溯源 | `cache/epub/794/pg794.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/f9e1e75e98a3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

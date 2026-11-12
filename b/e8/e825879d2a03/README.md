@@ -1,7 +1,7 @@
 # The Philippine Islands, 1493-1898, Volume 30 of 55, 1640 Explorations by early navigators, descriptions of the islands and their peoples, their history and records of the Catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century
 
 **作者** Blair, Emma Helen, 1851-1911 [Editor]; Aduarte, Diego, 1569-1636; Alvarez de Abreu, Antonio, 1683-1756; Bourne, Edward Gaylord, 1860-1908 [Commentator]; Robertson, James Alexander, 1873-1939 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 37 章 · 429,266 字 ｜ **来源** Project Gutenberg
+**规模** 38 章 · 429,266 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e825879d2a03/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,14 +11,13 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（429,266 字）。 |
-| 分章依据 | 按「章」标记切分为 37 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,601 字。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXXVII」。 |
+| 分章依据 | 按「章」标记切分为 38 章（auto-chapter），拼接正文 8,511 行。 |
+| 篇幅分布 | 平均每章 7,902 字。 |
 | 原文溯源 | `cache/epub/39054/pg39054.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I
+1. BOOK I
 2. CHAPTER II
 3. CHAPTER III
 4. CHAPTER IV
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 37 章，[完整目录与正文 →](https://www.bqgmz.top/b/e825879d2a03/)
+> 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/e825879d2a03/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

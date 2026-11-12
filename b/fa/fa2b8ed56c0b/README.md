@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（498,872 字）。 |
-| 分章依据 | 按「章」标记切分为 30 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,629 字；最长 CHAPTER III. THE TUTOR（27,942 字），最短 CHAPTER XXVII. A MARINE DUET（6,393 字）。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-chapter），拼接正文 11,912 行。 |
+| 篇幅分布 | 平均每章 16,599 字；最长 CHAPTER III. THE TUTOR（27,942 字），最短 CHAPTER XXVII. A MARINE DUET（6,393 字）。 |
 | 起止 | 始于「CHAPTER I. LOVE AT A SCHOOL」，止于「CHAPTER XXX. CONCLUSION」。 |
 | 原文溯源 | `cache/epub/4482/pg4482.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/fa2b8ed56c0b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Vies des dames galantes
 
-**作者** Brantôme, Pierre de Bourdeille, -1614 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 39 段 · 783,887 字 ｜ **来源** Project Gutenberg
+**作者** Brantôme, Pierre de Bourdeille, -1614 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 23 章 · 783,887 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e998e112b2bf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（783,887 字）。 |
-| 分章依据 | 按「段」标记切分为 39 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,099 字；最长 --J'ay cogneu un mary, lequel, venant de dehors, et ayant es（39,513 字），最短 [92] Environ l'an 400 de l'ère chrétienne, saint Jérôme vit （2,937 字）。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-caps-sections），拼接正文 15,185 行。 |
+| 篇幅分布 | 平均每章 34,082 字；最长 ARTICLE II.（1）（58,866 字），最短 FILS ET FRÈRE DE NOS ROYS.（687 字）。 |
 | 原文溯源 | `cache/epub/39220/pg39220.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. --J'ay cogneu un mary, lequel, venant de dehors, et ayant es
-2. Or je n'aurois jamais fait si je voulois alléguer une infini
-3. --J'ai cogneu une fameuse courtisane à Rome, dite la Grecque
-4. --J'ay cogneu un très-grand seigneur, qui, un matin, voulant
-5. --Bocace dit un proverbe qui couroit de son temps, que _bouc
-6. Le beau-frère, qui sçavoit dire des mieux, et qui possible a
-7. Si ne put-il faire tant qu'il n'entrast un jour en jalousie,
-8. Pour cette raison, Lucrece est taxée d'aucuns. Il est vray q
-9. Les dames en cela y doivent estre bien advisées et habiles,
-10. Voicy encore une autre sorte de cocus; mais ceux-là sont vra
+1. FILS ET FRÈRE DE NOS ROYS.
+2. MONSEIGNEUR,
+3. AU LECTEUR.
+4. DISCOURS PREMIER.（1）
+5. DISCOURS PREMIER.（2）
+6. DISCOURS PREMIER.（3）
+7. DISCOURS PREMIER.（4）
+8. DISCOURS PREMIER.（5）
+9. INTRODUCTION.
+10. ARTICLE PREMIER.
 
-> 共 39 段，[完整目录与正文 →](https://www.bqgmz.top/b/e998e112b2bf/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/e998e112b2bf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

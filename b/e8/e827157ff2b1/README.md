@@ -1,7 +1,7 @@
 # Select List of Books ... Relating to the Far East
 
-**作者** Library of Congress. Division of Bibliography [Compiler]; Griffin, Appleton P. C. (Appleton Prentiss Clark), 1852-1926 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 146,692 字 ｜ **来源** Project Gutenberg
+**作者** Library of Congress. Division of Bibliography [Compiler]; Griffin, Appleton P. C. (Appleton Prentiss Clark), 1852-1926 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 12 篇 · 146,692 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e827157ff2b1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（146,692 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,956 字；最长 RUSSIAN EXPANSION（39,968 字），最短 Hurd, Archibald S, 42（6,536 字）。 |
+| 分章依据 | 按「篇」标记切分为 12 篇（通用标记切分），拼接正文 6,984 行。 |
+| 篇幅分布 | 平均每篇 12,147 字；最长 KOREA（35,093 字），最短 TIBET: ARTICLES IN PERIODICALS（968 字）。 |
 | 原文溯源 | `cache/epub/38552/pg38552.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 篇）
 
-1. RUSSIAN EXPANSION
-2. ~1904.~ Military aspects of the Trans-Siberian railway.
-3. _New York & London: D. Appleton & co., 1857. viii, 415 pp.
-4. ~1904.~ On the eve of war in Japan. Arthur May Knapp.
-5. ~1899.~ The paramount power of the Pacific. John Barrett.
-6. "Dr. Bretschneider's present _magnum opus_ is by no means a
-7. Hurd, Archibald S, 42
+1. PREFATORY NOTE
+2. RUSSIAN EXPANSION
+3. RUSSIAN EXPANSION: ARTICLES IN PERIODICALS
+4. TRANS-SIBERIAN RAILROAD
+5. TIBET: ARTICLES IN PERIODICALS
+6. MANCHURIA
+7. JAPAN
+8. JAPAN: ARTICLES IN PERIODICALS
+9. KOREA
+10. FAR EAST: EUROPEAN RELATIONS
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/e827157ff2b1/)
+> 共 12 篇，[完整目录与正文 →](https://www.bqgmz.top/b/e827157ff2b1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

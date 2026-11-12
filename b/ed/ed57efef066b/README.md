@@ -1,7 +1,7 @@
 # Pencil Sketches; or, Outlines of Character and Manners
 
-**作者** Leslie, Eliza, 1787-1858 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 40 段 · 814,506 字 ｜ **来源** Project Gutenberg
+**作者** Leslie, Eliza, 1787-1858 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 14 章 · 814,506 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ed57efef066b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（814,506 字）。 |
-| 分章依据 | 按「段」标记切分为 40 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,362 字；最长 The old lady was now hurried up stairs, and she showed much（39,998 字），最短 Mrs. Craycroft then proceeded: "Situated as you are, Mrs. Al（14,854 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-toc-title-list），拼接正文 18,416 行。 |
+| 篇幅分布 | 平均每章 58,073 字；最长 UNCLE PHILIP（93,117 字），最短 THE SET OF CHINA（19,025 字）。 |
 | 原文溯源 | `cache/epub/37573/pg37573.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. The old lady was now hurried up stairs, and she showed much
-2. The Montagues proposed going away immediately, and Mrs. Pott
-3. On Albina requesting him to accompany her on her entrance, h
-4. Most of the company were to go up in the early boat: purposi
-5. "I have the happiness of being that gentleman's daughter," r
-6. "The lady must excuse me," replied Mr. Smith, "for it is in
-7. In about four weeks, the Clavering family was set at ease by
-8. "Why, I am only repeating your own words," answered the old
-9. The manner in which Mr. Ravigote vociferated this rather unc
-10. Uncle Philip handed Robertine a chair, and she received this
+1. MRS. WASHINGTON POTTS
+2. MR. SMITH
+3. UNCLE PHILIP
+4. THE ALBUM
+5. THE SET OF CHINA
+6. LAURA LOVEL
+7. JOHN W. ROBERTSON; A TALE OF A CENT
+8. THE LADIES' BALL
+9. THE OFFICERS; A STORY OF THE LAST WAR WITH ENGLAND
+10. PETER JONES; A SKETCH FROM LIFE
 
-> 共 40 段，[完整目录与正文 →](https://www.bqgmz.top/b/ed57efef066b/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/ed57efef066b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

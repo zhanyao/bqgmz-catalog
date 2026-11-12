@@ -1,7 +1,7 @@
 # A Georgian Pageant
 
-**作者** Moore, Frank Frankfort, 1855-1931 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 22 题 · 397,967 字 ｜ **来源** Project Gutenberg
+**作者** Moore, Frank Frankfort, 1855-1931 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 13 篇 · 397,967 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ff1faa32013e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（397,967 字）。 |
-| 分章依据 | 按「题」标记切分为 22 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 18,089 字。 |
+| 分章依据 | 按「篇」标记切分为 13 篇（通用标记切分），拼接正文 8,236 行。 |
+| 篇幅分布 | 平均每篇 30,605 字；最长 THE FATAL GIFT（62,462 字），最短 THE WRITER'S APOLOGY（1,378 字）。 |
 | 原文溯源 | `cache/epub/51964/pg51964.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. A GEORGIAN PAGEANT
-2. By Frank Frankfort Moore
-3. With Illustrations
-4. London: Hutchinson & Co. Paternoster Row
-5. THE WRITER'S APOLOGY
-6. THE MONARCH OF THE PAGEANT
-7. The little bearer begs a kiss
-8. A COMEDY IN ST. MARTIN'S STREET
-9. A TRAGEDY IN THE HAYMARKET
-10. THE FATAL GIFT
+1. THE WRITER'S APOLOGY
+2. THE MONARCH OF THE PAGEANT
+3. A COMEDY IN ST. MARTIN'S STREET
+4. A TRAGEDY IN THE HAYMARKET
+5. THE FATAL GIFT
+6. THE PLOT OF A LADY NOVELIST
+7. TRAGEDY WITH A TWINKLE
+8. THE BEST COMEDY OF THE CENTURY
+9. A PERSONAL NOTE
+10. THE AMAZING ELOPEMENT
 
-> 共 22 题，[完整目录与正文 →](https://www.bqgmz.top/b/ff1faa32013e/)
+> 共 13 篇，[完整目录与正文 →](https://www.bqgmz.top/b/ff1faa32013e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

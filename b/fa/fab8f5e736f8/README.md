@@ -1,7 +1,7 @@
 # Man's descent from the gods
 
 **作者** Ludovici, Anthony M. (Anthony Mario), 1882-1971 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 8 章 · 392,917 字 ｜ **来源** Project Gutenberg
+**规模** 9 章 · 392,917 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fab8f5e736f8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,11 +11,12 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（392,917 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 49,114 字；最长 CHAPTER VII（75,641 字），最短 CHAPTER V（31,168 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 9,136 行。 |
+| 篇幅分布 | 平均每章 35,807 字；最长 CHAPTER VII（60,257 字），最短 CHAPTER VIII（15,678 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER IX」。 |
 | 原文溯源 | `cache/epub/79572/pg79572.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 章）
+## 章节目录（前 9 章）
 
 1. CHAPTER I
 2. CHAPTER II
@@ -24,9 +25,10 @@
 5. CHAPTER V
 6. CHAPTER VI
 7. CHAPTER VII
-8. [278] The word artist here should be acc
+8. CHAPTER VIII
+9. CHAPTER IX
 
-> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/fab8f5e736f8/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/fab8f5e736f8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

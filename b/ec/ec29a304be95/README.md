@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（460,969 字）。 |
-| 分章依据 | 按「章」标记切分为 29 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,895 字；最长 CHAPTER XXIX. THE LAST TRIAL.（40,649 字），最短 CHAPTER X. A COUNCIL OF THREE.（6,646 字）。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-chapter），拼接正文 11,842 行。 |
+| 篇幅分布 | 平均每章 15,880 字；最长 CHAPTER XXIX. THE LAST TRIAL.（40,649 字），最短 CHAPTER X. A COUNCIL OF THREE.（6,646 字）。 |
 | 起止 | 始于「CHAPTER I. THE TWO WOMEN.」，止于「CHAPTER XXIX. THE LAST TRIAL.」。 |
 | 原文溯源 | `cache/epub/1623/pg1623.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/ec29a304be95/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Expositor's Bible: The Second Book of Kings
 
 **作者** Farrar, F. W. (Frederic William), 1831-1903; Nicoll, W. Robertson (William Robertson), Sir, 1851-1923 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 39 章 · 704,096 字 ｜ **来源** Project Gutenberg
+**规模** 40 章 · 704,096 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e7bf86e3954a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（704,096 字）。 |
-| 分章依据 | 按「章」标记切分为 39 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,053 字；最长 CHAPTER XXXIX（43,211 字），最短 CHAPTER III（5,452 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXXIX」。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-chapter），拼接正文 16,499 行。 |
+| 篇幅分布 | 平均每章 16,777 字；最长 CHAPTER XXI（35,561 字），最短 CHAPTER III（5,452 字）。 |
 | 原文溯源 | `cache/epub/42027/pg42027.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/e7bf86e3954a/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/e7bf86e3954a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

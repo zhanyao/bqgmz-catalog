@@ -1,7 +1,7 @@
 # The Survey, Volume 30, Number 2, Apr 12, 1913
 
-**作者** Various; Kellogg, Paul Underwood, 1879-1958 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 124,216 字 ｜ **来源** Project Gutenberg
+**作者** Various; Kellogg, Paul Underwood, 1879-1958 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 34 篇 · 124,216 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fe9e69822e2f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（124,216 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,702 字；最长 Probably the first check of its kind ever received by a char（39,511 字），最短 The staff, consisting of George B. Mangold, associate direct（4,285 字）。 |
+| 分章依据 | 按「篇」标记切分为 34 篇（通用标记切分），拼接正文 3,030 行。 |
+| 篇幅分布 | 平均每篇 3,644 字；最长 PERSONALS（10,708 字），最短 SCHOOL FEEDING—ITS HISTORY AND PRACTICE AT HOME AND ABROAD. By Louise（704 字）。 |
 | 原文溯源 | `cache/epub/72417/pg72417.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 篇）
 
-1. Probably the first check of its kind ever received by a char
-2. “In certain restricted districts the laws and ordinances of
-3. Aside from general dependence upon moral and religious force
-4. Value of Product 20,767,546
-5. The death of Samuel Allan Lattimore, Ph.D., LL.D., emeritus
-6. The staff, consisting of George B. Mangold, associate direct
+1. IN THE WAKE OF THE FLOOD
+2. SMASHING THE LEASE SYSTEM IN ARKANSAS
+3. GOV. FOSS URGES THREE PRISON REFORM BILLS
+4. NEW ENGLAND CONFERENCES TO PROMOTE RURAL PROGRESS
+5. ST. LOUIS WINS NEW TENEMENT HOUSE LAW
+6. THE SEATTLE CONFERENCE OF CHARITIES AND CORRECTION
+7. FAMILY DESERTER BROUGHT TO BOOK
+8. THE ITALIAN AND THE SETTLEMENT
+9. ISABEL C. BARROWS
+10. A. J. McKELWAY
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/fe9e69822e2f/)
+> 共 34 篇，[完整目录与正文 →](https://www.bqgmz.top/b/fe9e69822e2f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

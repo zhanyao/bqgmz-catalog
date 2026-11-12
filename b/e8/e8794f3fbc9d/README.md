@@ -1,7 +1,7 @@
 # Syndrome
 
 **作者** Hoover, Thomas, 1941- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 36 章 · 527,152 字 ｜ **来源** Project Gutenberg
+**规模** 19 章 · 527,152 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e8794f3fbc9d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（527,152 字）。 |
-| 分章依据 | 按「章」标记切分为 36 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,643 字；最长 Chapter 1（31,170 字），最短 Chapter 34（4,519 字）。 |
-| 起止 | 始于「Chapter 1」，止于「Chapter 36」。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-caps-sections），拼接正文 16,420 行。 |
+| 篇幅分布 | 平均每章 27,744 字；最长 10:32 P.M.（58,709 字），最短 7:57 A.M.（4,820 字）。 |
 | 原文溯源 | `cache/epub/34321/pg34321.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Chapter 1
-2. Chapter 2
-3. Chapter 3
-4. Chapter 4
-5. Chapter 5
-6. Chapter 6
-7. Chapter 7
-8. Chapter 8
-9. Chapter 9
-10. Chapter 10
+1. 6:49 A.M.
+2. 7:57 A.M.
+3. 8:29 A.M.
+4. 8:20 A.M.（1）
+5. 8:20 A.M.（2）
+6. 11:43 P.M.
+7. 9:56 A.M.
+8. 10:38 A.M.
+9. 11:20 A.M.
+10. 12:18 P.M.
 
-> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/e8794f3fbc9d/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/e8794f3fbc9d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

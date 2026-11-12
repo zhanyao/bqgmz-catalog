@@ -1,7 +1,7 @@
 # Stories of Cape Cod
 
-**作者** Johnson, Jack, 1896-1973; Schreiber, Leo J., 1904-1992 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 92 题 · 84,583 字 ｜ **来源** Project Gutenberg
+**作者** Johnson, Jack, 1896-1973; Schreiber, Leo J., 1904-1992 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 84,583 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/eda6c124ed82/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（84,583 字）。 |
-| 分章依据 | 按「题」标记切分为 92 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 919 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-toc-title-list），拼接正文 2,289 行。 |
+| 篇幅分布 | 平均每章 5,582 字；最长 Cape Cod Fishing（11,632 字），最短 Admiral Nimitz（3,301 字）。 |
 | 原文溯源 | `cache/epub/75918/pg75918.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. A “DISCOVERY BOOK”...
-2. Bourne 1
-3. Sandwich 5
-4. Falmouth 9
-5. Mashpee 13
-6. Barnstable 17
-7. Yarmouthport 21
-8. Dennis 25, 29
-9. Brewster 33
-10. Harwich 37
+1. Bourne
+2. Sandwich
+3. Falmouth
+4. Mashpee
+5. Barnstable
+6. Yarmouthport
+7. Brewster
+8. Harwich
+9. Chatham
+10. Eastham
 
-> 共 92 题，[完整目录与正文 →](https://www.bqgmz.top/b/eda6c124ed82/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/eda6c124ed82/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

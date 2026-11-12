@@ -1,7 +1,7 @@
 # The Little City of Hope: A Christmas Story
 
-**作者** Crawford, F. Marion (Francis Marion), 1854-1909 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 108,518 字 ｜ **来源** Project Gutenberg
+**作者** Crawford, F. Marion (Francis Marion), 1854-1909 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 108,518 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/efdabfa83034/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（108,518 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,703 字；最长 "Let's have turkey and cranberry sauce, anyway," said Newton（39,947 字），最短 The draught he swallowed steadied his nerves, and then he sa（8,545 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-roman-bare），拼接正文 2,629 行。 |
+| 篇幅分布 | 平均每章 11,997 字；最长 VII（16,052 字），最短 V（9,295 字）。 |
 | 原文溯源 | `cache/epub/14526/pg14526.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 9 章）
 
-1. "Let's have turkey and cranberry sauce, anyway," said Newton
-2. He shook his young head quite as gravely as the inventor had
-3. "No! Don't!" cried Overholt, much distressed by the mere sug
-4. Near the town they met the postman. As a rule Barbara got th
-5. The draught he swallowed steadied his nerves, and then he sa
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/efdabfa83034/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/efdabfa83034/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Strange Adventures of Captain Dangerous, Vol. 3  Who was a sailor, a soldier, a merchant, a spy, a slave among the moors...
 
-**作者** Sala, George Augustus, 1828-1895 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 12 段 · 252,938 字 ｜ **来源** Project Gutenberg
+**作者** Sala, George Augustus, 1828-1895 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 9 篇 · 252,938 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fff4fc50674f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（252,938 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,078 字；最长 Of my Adventure with Madam Taffetas the Widow, I am not disp（39,431 字），最短 'Tis ten years since, namely, A.D. 1770, that a great Insurr（13,544 字）。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（通用标记切分），拼接正文 5,153 行。 |
+| 篇幅分布 | 平均每篇 27,865 字；最长 CHAPTER THE THIRD. THE CONTINUATION OF MY VOYAGE UNTIL MY RETURN AGAIN TO EUROPE（35,756 字），最短 CHAPTER THE SIXTH. OF MY SECRET EMPLOYMENT IN THE SERVICE OF THE CARDINAL DE ----（11,656 字）。 |
 | 原文溯源 | `cache/epub/26669/pg26669.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 9 篇）
 
-1. Of my Adventure with Madam Taffetas the Widow, I am not disp
-2. 18th September we came in sight of Pico Teneriffe, bearing S
-3. NOW, being got away from Juan Fernandez, did an unconquerabl
-4. After this we made sail to the Marias Islands (for I feel I
-5. Mr. Vandepeereboom was high in the College of Magistrates, a
-6. I was no longer a Young Man. I was now long past my fortieth
-7. But while all this was being done to Damiens, other steps we
-8. Business now took me to Venice. This is a very grand City, b
-9. A Light broke in upon me. I recognised my earliest Protector
-10. There are no Public Clocks here; those contrivances, with Be
+1. CHAPTER THE FIRST. PAGE I SEE MUCH OF THE INSIDE OF THE WORLD, AND THEN GO RIGHT ROUND IT
+2. CHAPTER THE SECOND. MERCATOR, HIS PROJECTION, AND WHAT CAME OF IT
+3. CHAPTER THE THIRD. THE CONTINUATION OF MY VOYAGE UNTIL MY RETURN AGAIN TO EUROPE
+4. CHAPTER THE FOURTH. OF THE SINGULAR MISFORTUNES WHICH BEFELL ME IN HOLLAND
+5. CHAPTER THE FIFTH. OF A STRANGE AND HORRIBLE ADVENTURE I HAD IN PARIS, WHICH WAS NEARLY MY UNDOING
+6. CHAPTER THE SIXTH. OF MY SECRET EMPLOYMENT IN THE SERVICE OF THE CARDINAL DE ----
+7. CHAPTER THE SEVENTH. I FALL INTO THE HANDS OF RECREANT PAYNIMS, AND AM REDUCED TO A STATE OF MISERABLE SLAVERY
+8. CHAPTER THE EIGHTH. AFTER MANY SURPRISING VICISSITUDES, J. DANGEROUS BECOMES BESTUSCHID BASHAW
+9. CHAPTER THE NINTH AND LAST. OF MY SERVICE UNDER THE GREAT TURK AS A BASHAW; OF MY ADVENTURES IN RUSSIA AND OTHER COUNTRIES; AND OF MY COMING HOME AT LAST AND BUYING MY GRANDMOTHER'S HOUSE (WHICH IS NOW MINE) IN HANOVER SQUARE
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/fff4fc50674f/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/fff4fc50674f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

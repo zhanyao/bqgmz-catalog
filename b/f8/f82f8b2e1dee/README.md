@@ -1,7 +1,7 @@
 # Practical Etiquette
 
 **作者** Klein, Cora C. ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 12 章 · 124,324 字 ｜ **来源** Project Gutenberg
+**规模** 10 章 · 124,324 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f82f8b2e1dee/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（124,324 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,360 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 3,608 行。 |
+| 篇幅分布 | 平均每章 11,920 字；最长 CHAPTER XI.（23,090 字），最短 CHAPTER X.（1,433 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XI.」。 |
 | 原文溯源 | `cache/epub/50195/pg50195.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -25,10 +26,10 @@
 6. CHAPTER VI.
 7. CHAPTER VII.
 8. CHAPTER VIII.
-9. CHAPTER IX.
-10. CHAPTER X.
+9. CHAPTER X.
+10. CHAPTER XI.
 
-> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/f82f8b2e1dee/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/f82f8b2e1dee/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Le parfum de la Dame Noire
 
-**作者** Sonolet, Louis, 1874-1928; Bourgette, Paul ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 9 段 · 197,362 字 ｜ **来源** Project Gutenberg
+**作者** Sonolet, Louis, 1874-1928; Bourgette, Paul ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 18 章 · 197,362 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f7cf0235d3a1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（197,362 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,929 字；最长 1º _La passivité du sujet_.--La Noire est complètement dépou（40,018 字），最短 Un symbole, cette mode de porter sa progéniture, pour signif（17,245 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 4,515 行。 |
+| 篇幅分布 | 平均每章 10,183 字；最长 CHAPITRE IX（19,130 字），最短 CHAPITRE III（607 字）。 |
 | 原文溯源 | `cache/epub/70202/pg70202.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. 1º _La passivité du sujet_.--La Noire est complètement dépou
-2. --C’est les _moussos_ qui ont marié avec toubabs. Mauvais _m
-3. Merveilleux pouvoir de la foi, suggestion de la croyance au
-4. Il est cinq heures du soir, dans un village du bord du Niger
-5. --Surtout, disait paternellement l’ancien, si vous êtes dési
-6. Chez les Baniounks de la Casamance, la femme peut se marier
-7. Admirons en passant la simple sagesse de ces populations pri
-8. L’art de la peinture et de la teinture joue également un rôl
-9. Un symbole, cette mode de porter sa progéniture, pour signif
+1. CHAPITRE II
+2. CHAPITRE III
+3. CHAPITRE IV
+4. CHAPITRE V
+5. CHAPITRE VI
+6. CHAPITRE VII
+7. CHAPITRE VIII
+8. CHAPITRE IX
+9. CHAPITRE X
+10. CHAPITRE XI
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/f7cf0235d3a1/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/f7cf0235d3a1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

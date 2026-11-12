@@ -1,7 +1,7 @@
 # Champions of the fleet
 
-**作者** Fraser, Edward, 1859?- ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 18 段 · 378,252 字 ｜ **来源** Project Gutenberg
+**作者** Fraser, Edward, 1859?- ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 378,252 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f5414b285215/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（378,252 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,014 字；最长 We will go on board for a brief look round the _Dreadnought_（39,544 字），最短 Opdam, Dutch Admiral, 28（17,746 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-caps-sections），拼接正文 9,169 行。 |
+| 篇幅分布 | 平均每章 21,014 字。 |
 | 原文溯源 | `cache/epub/65978/pg65978.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. We will go on board for a brief look round the _Dreadnought_
-2. Charles the Second’s _Dreadnought_ was our second man-of-war
-3. [Illustration: [Extreme range of the _Dreadnought’s_ turret-
-4. It was this same Henry Harvey who, as a rear-admiral, later
-5. These arrangements had all been completed when something tot
-6. The Navy in the events of the six weeks campaign against Sur
-7. In a few seconds the _Kent’s_ anchors held, and the ship was
-8. It was indeed the slip ’twixt the cup and the lip for the _T
-9. Standing up valiantly to Captain Bently and Lord Howe, the _
-10. Beyond the _St. George_ lies another “Mediterranean ship,” j
+1. THE ENEMY AT TRAFALGAR.
+2. ETC. ETC.
+3. PREFACE
+4. CONTENTS
+5. GANG.
+6. “KENT CLAIMS THE FIRST BLOW!”（1）
+7. “KENT CLAIMS THE FIRST BLOW!”（2）
+8. BOSCAWEN’S BATTLE:—THE TAKING OF THE _TÉMÉRAIRE
+9. WHEN THE _VICTORY_ FIRST JOINED THE FLEET
+10. HOW THEY BUILT THE _VICTORY_ AT CHATHAM（1）
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/f5414b285215/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/f5414b285215/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

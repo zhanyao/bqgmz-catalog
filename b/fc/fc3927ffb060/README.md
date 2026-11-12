@@ -1,7 +1,7 @@
 # Historical record of the Sixty-Seventh, or the South Hampshire Regiment Containing an account of the formation of the regiment in 1758, and of its subsequent services to 1849
 
-**作者** Cannon, Richard, 1779-1865 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 101,312 字 ｜ **来源** Project Gutenberg
+**作者** Cannon, Richard, 1779-1865 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 14 篇 · 101,312 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fc3927ffb060/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（101,312 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,262 字；最长 In 1664 King Charles II. raised a corps for sea-service, sty（39,748 字），最短 _Appointed 15th January, 1844._（1,213 字）。 |
+| 分章依据 | 按「篇」标记切分为 14 篇（auto-magazine），拼接正文 2,954 行。 |
+| 篇幅分布 | 平均每篇 7,207 字。 |
 | 原文溯源 | `cache/epub/57663/pg57663.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 篇）
 
-1. In 1664 King Charles II. raised a corps for sea-service, sty
-2. On the 25th of February, 1796, the SIXTY-SEVENTH regiment em
-3. On the 9th of November, 1846, Colonel Thomas Bunbury, K.H.,
-4. The fort of San Philippe is situated upon the eastern extrem
-5. _Appointed 15th January, 1844._
+1. AS A TESTIMONY OF THE GALLANTRY DISPLAYED BY THE SECOND
+2. HISTORICAL RECORD
+3. THE SIXTY-SEVENTH REGIMENT
+4. THE SOUTH HAMPSHIRE REGIMENT
+5. YEAR PAGE
+6. PLATES
+7. PREFACE
+8. THE INFANTRY
+9. REGIMENTS. COMMANDING OFFICERS. MEN
+10. JAMES HODGES
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/fc3927ffb060/)
+> 共 14 篇，[完整目录与正文 →](https://www.bqgmz.top/b/fc3927ffb060/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

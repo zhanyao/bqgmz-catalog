@@ -1,7 +1,7 @@
 # Papers and Proceedings of the Thirty-Fourth Annual Meeting of the American Library Association Held at Ottawa, Canada, June 26-July 2, 1912
 
-**作者** American Library Association. General Meeting [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 250 题 · 1,012,913 字 ｜ **来源** Project Gutenberg
+**作者** American Library Association. General Meeting [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 32 章 · 1,012,913 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f6549681af84/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,012,913 字）。 |
-| 分章依据 | 按「题」标记切分为 250 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,051 字。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-caps-sections），拼接正文 24,078 行。 |
+| 篇幅分布 | 平均每章 30,870 字。 |
 | 原文溯源 | `cache/epub/45756/pg45756.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. PAPERS AND PROCEEDINGS
-2. OF THE
-3. THIRTY-FOURTH ANNUAL MEETING
-4. OF THE
-5. AMERICAN LIBRARY ASSOCIATION
-6. HELD AT
-7. OTTAWA, CANADA
-8. JUNE 26-JULY 2, 1912
-9. AMERICAN LIBRARY ASSOCIATION 78 E. WASHINGTON STREET CHICAGO, ILL. 1912
-10. CONTENTS
+1. HELD AT
+2. JUNE 26-JULY 2, 1912（1）
+3. JUNE 26-JULY 2, 1912（2）
+4. REPORT OF THE CARNEGIE AND ENDOWMENT FUNDS
+5. CARNEGIE FUND, PRINCIPAL ACCOUNT
+6. COMMITTEE ON CO-ORDINATION
+7. III
+8. REPORT OF THE COMMITTEE ON LIBRARY TRAINING
+9. COMMITTEE ON PUBLIC DOCUMENTS
+10. BREADTH AND LIMITATIONS OF BOOK BUYING
 
-> 共 250 题，[完整目录与正文 →](https://www.bqgmz.top/b/f6549681af84/)
+> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/f6549681af84/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

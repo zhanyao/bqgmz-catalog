@@ -1,7 +1,7 @@
 # Blackfeet Indian Stories
 
-**作者** Grinnell, George Bird, 1849-1938 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 34 题 · 167,345 字 ｜ **来源** Project Gutenberg
+**作者** Grinnell, George Bird, 1849-1938 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 27 章 · 167,345 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f30cc8e93193/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（167,345 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,921 字。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-toc-title-list），拼接正文 4,329 行。 |
+| 篇幅分布 | 平均每章 6,130 字；最长 THE ANCIENT BLACKFEET（22,003 字），最短 THE ALL COMRADES SOCIETIES（495 字）。 |
 | 原文溯源 | `cache/epub/13833/pg13833.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BLACKFEET INDIAN STORIES
-2. GEORGE BIRD GRINNELL
-3. TO THE READER
-4. CONTENTS
-5. TWO FAST RUNNERS
-6. THE WOLF MAN
-7. KUT-O-YIS´, THE BLOOD BOY
-8. They said to him, "We shall be sorry to lose this back fat."
-9. The person answered him, "That is Wind Sucker's heart."
-10. THE DOG AND THE ROOT DIGGER
+1. TWO FAST RUNNERS
+2. THE WOLF MAN
+3. KUT-O-YIS´, THE BLOOD BOY
+4. THE DOG AND THE ROOT DIGGER
+5. THE CAMP OF THE GHOSTS
+6. THE BUFFALO STONE
+7. HOW THE THUNDER PIPE CAME
+8. COLD MAKER'S MEDICINE
+9. THE ALL COMRADES SOCIETIES
+10. THE BULLS SOCIETY
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/f30cc8e93193/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/f30cc8e93193/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

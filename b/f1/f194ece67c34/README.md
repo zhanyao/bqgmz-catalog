@@ -1,7 +1,7 @@
 # Young Barbarians
 
-**作者** Maclaren, Ian, 1850-1907 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 17 段 · 343,356 字 ｜ **来源** Project Gutenberg
+**作者** Maclaren, Ian, 1850-1907 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 343,356 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f194ece67c34/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（343,356 字）。 |
-| 分章依据 | 按「段」标记切分为 17 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,197 字；最长 "From the account of prisoners we learn," wrote the war corr（39,835 字），最短 "Q. E. D.; yes, Q. E. D., laddies, we have carried the argum（3,125 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-roman-bare），拼接正文 7,047 行。 |
+| 篇幅分布 | 平均每章 21,372 字；最长 IV（29,445 字），最短 XVI（14,653 字）。 |
 | 原文溯源 | `cache/epub/30089/pg30089.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. "From the account of prisoners we learn," wrote the war corr
-2. "Ye micht have given the alarm and got the salmon-fishers, b
-3. "Th-thank you f-for coming to see father, sir; he was n-naug
-4. Their arrival among their friends and the slight commotion w
-5. "Lop-ears," said Nestie after a moment's silence, and Speug
-6. "Peter was a b-botanist all the time, but he did not know it
-7. During this judicial utterance the eyes of the Count wandere
-8. Speug could not imagine himself sitting in a class-room on S
-9. Like our only other foreigner, the Count, Moossy was a namel
-10. Bulldog was of another breed. Whatever may have been his neg
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 17 段，[完整目录与正文 →](https://www.bqgmz.top/b/f194ece67c34/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/f194ece67c34/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

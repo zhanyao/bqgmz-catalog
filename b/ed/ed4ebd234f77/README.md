@@ -1,7 +1,7 @@
 # Alice's Abenteuer im Wunderland
 
-**作者** Carroll, Lewis, 1832-1898; Tenniel, John, 1820-1914 [Illustrator]; Zimmermann, Antonie [Translator] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 6 段 · 130,203 字 ｜ **来源** Project Gutenberg
+**作者** Carroll, Lewis, 1832-1898; Tenniel, John, 1820-1914 [Illustrator]; Zimmermann, Antonie [Translator] ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 12 章 · 130,203 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ed4ebd234f77/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（130,203 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,700 字；最长 »Wir, wirklich!« entgegnete die Maus, die bis zur Schwanzspi（39,604 字），最短 Alice sah sich nach dem Pulte um und bemerkte, daß sie in de（10,134 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-toc-title-list），拼接正文 3,713 行。 |
+| 篇幅分布 | 平均每章 10,675 字；最长 Die Wohnung des Kaninchens（12,614 字），最短 Caucus-Rennen, und was daraus wird（8,620 字）。 |
 | 原文溯源 | `cache/epub/19778/pg19778.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. »Wir, wirklich!« entgegnete die Maus, die bis zur Schwanzspi
-2. Sie schluckte demnach einen kleinen Kuchen herunter, und mer
-3. Sobald sie aber die rechte Art entdeckt hatte, wie man es tr
-4. »Und wer sind diese drei?« fuhr die Königin fort, indem sie
-5. »Bei dem bin ich nicht gewesen,« sagte die falsche Schildkrö
-6. Alice sah sich nach dem Pulte um und bemerkte, daß sie in de
+1. Hinunter in den Kaninchenbau
+2. Der Thränenpfuhl
+3. Caucus-Rennen, und was daraus wird
+4. Die Wohnung des Kaninchens
+5. Guter Rath von einer Raupe
+6. Ferkel und Pfeffer
+7. Die tolle Theegesellschaft
+8. Das Croquetfeld der Königin
+9. Die Geschichte der falschen Schildkröte
+10. Das Hummerballet
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/ed4ebd234f77/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/ed4ebd234f77/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（217,968 字）。 |
-| 分章依据 | 按「章」标记切分为 48 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 4,541 字；最长 CHAPTER XLVIII. CONCLUSION.（11,739 字），最短 CHAPTER XX. THE MIDSHIPMAN.（3,236 字）。 |
+| 分章依据 | 按「章」标记切分为 48 章（auto-chapter），拼接正文 7,285 行。 |
+| 篇幅分布 | 平均每章 4,526 字；最长 CHAPTER XLVIII. CONCLUSION.（11,481 字），最短 CHAPTER XX. THE MIDSHIPMAN.（3,236 字）。 |
 | 起止 | 始于「CHAPTER I. THE WRECK OF THE TOY.」，止于「CHAPTER XLVIII. CONCLUSION.」。 |
 | 原文溯源 | `cache/epub/63590/pg63590.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 48 章，[完整目录与正文 →](https://www.bqgmz.top/b/f7c1b49d8de3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

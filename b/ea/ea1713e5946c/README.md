@@ -1,7 +1,7 @@
 # Saarretun näkyjä
 
-**作者** Haarla, Lauri, 1890-1944 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 16 题 · 45,404 字 ｜ **来源** Project Gutenberg
+**作者** Haarla, Lauri, 1890-1944 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 11 章 · 45,404 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ea1713e5946c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（45,404 字）。 |
-| 分章依据 | 按「题」标记切分为 16 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,837 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 1,741 行。 |
+| 篇幅分布 | 平均每章 4,102 字；最长 Saarretun näkyjä.（8,631 字），最短 Taisteluiden lomassa.（832 字）。 |
 | 原文溯源 | `cache/epub/75993/pg75993.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SAARRETUN NÄKYJÄ
-2. Runoelmia
-3. LAURI HAARLA
-4. SISÄLLYS:
-5. HURMIO.
-6. SAARRETUN NÄKYJÄ.
-7. TAISTELUIDEN LOMASSA.
-8. 25.III.18.
-9. NYT VIIME RYNNÄKKÖÖN!
-10. KUNNIA JA KURJUUS.
+1. Hurmio.
+2. Saarretun näkyjä.
+3. Taisteluiden lomassa.
+4. Nyt viime rynnäkköön!
+5. Kunnia ja kurjuus.
+6. Väsymys.
+7. Kunnian miehet.
+8. Keikari.
+9. MÖkkiläisfilosoofi.
+10. Kaksi talonpoikaispäällikköä.
 
-> 共 16 题，[完整目录与正文 →](https://www.bqgmz.top/b/ea1713e5946c/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/ea1713e5946c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

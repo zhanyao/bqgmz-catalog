@@ -1,7 +1,7 @@
 # History of the Peninsular War, Volume 2 (of 6)
 
 **作者** Southey, Robert, 1774-1843 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 688,019 字 ｜ **来源** Project Gutenberg
+**规模** 18 章 · 688,019 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f167f1270bf2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（688,019 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 68,801 字；最长 CHAPTER XIV.（98,053 字），最短 CHAPTER XIII.（37,920 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-part），拼接正文 13,856 行。 |
+| 篇幅分布 | 平均每章 38,223 字。 |
 | 原文溯源 | `cache/epub/60387/pg60387.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER IX.
-2. CHAPTER X.
-3. ♦LOBO GETS POSSESSION OF JURUMENHA.♦
-4. CHAPTER XI.
-5. Soon after mid-day an alarm was given th
-6. CHAPTER XII.
-7. CHAPTER XIII.
-8. CHAPTER XIV.
-9. CHAPTER XV.
-10. From Villa Franca to Castro is one conti
+1. Volume I: Project Gutenberg eBook number 60386（1）
+2. Volume I: Project Gutenberg eBook number 60386（2）
+3. Volume I: Project Gutenberg eBook number 60386（3）
+4. Volume I: Project Gutenberg eBook number 60386（4）
+5. Volume I: Project Gutenberg eBook number 60386（5）
+6. Volume I: Project Gutenberg eBook number 60386（6）
+7. Volume I: Project Gutenberg eBook number 60386（7）
+8. Volume I: Project Gutenberg eBook number 60386（8）
+9. Volume I: Project Gutenberg eBook number 60386（9）
+10. Volume I: Project Gutenberg eBook number 60386（10）
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/f167f1270bf2/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/f167f1270bf2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Best of the World's Classics, Restricted to Prose, Vol. VII (of X)—Continental Europe I
 
-**作者** Lodge, Henry Cabot, 1850-1924 [Editor]; Halsey, Francis W. (Francis Whiting), 1851-1919 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 15 段 · 313,910 字 ｜ **来源** Project Gutenberg
+**作者** Lodge, Henry Cabot, 1850-1924 [Editor]; Halsey, Francis W. (Francis Whiting), 1851-1919 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 51 篇 · 313,910 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fa28a9ee1969/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（313,910 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,927 字；最长 Since happiness means some manner of final perfection, happi（39,948 字），最短 "What a rattle-headed dunce I am! Thai brave and unfortunate（13,719 字）。 |
+| 分章依据 | 按「篇」标记切分为 51 篇（通用标记切分），拼接正文 7,377 行。 |
+| 篇幅分布 | 平均每篇 6,123 字。 |
 | 原文溯源 | `cache/epub/24563/pg24563.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Since happiness means some manner of final perfection, happi
-2. Her locks were yellow and curled, her eyes blue-gray and smi
-3. Of all diversions he loved hunting and hawking in their seas
-4. In the meanwhile, four of his folks did cast into his mouth,
-5. The men were appareled after their fashion. Their stockings
-6. Every place of retirement requires a walk: my thoughts sleep
-7. Most young people think they are natural when they are only
-8. In vain did he crack off his water, and teach me the secret
-9. Opposite the sedan-chair was an opening with some steps cut
-10. Merit, indeed, meets in England with rewards of another kind
+1. "AUCASSIN AND NICOLETTE."
+2. IMPERIAL POWER FOR GOOD AND BAD MEN[1]
+3. THE HIGHEST HAPPINESS[2]
+4. A DEFINITION OF HAPPINESS[3]
+5. OF ETERNAL LIFE AND OF STRIVING FOR IT[4]
+6. GREEK FIRE IN BATTLE[7]
+7. AUCASSIN AND NICOLETTE
+8. OF THE CHARACTER OF LOUIS XI[9]
+9. OF HUSBANDS WHO ARE UNFAITHFUL[10]
+10. FRANÇOIS RABELAIS
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/fa28a9ee1969/)
+> 共 51 篇，[完整目录与正文 →](https://www.bqgmz.top/b/fa28a9ee1969/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

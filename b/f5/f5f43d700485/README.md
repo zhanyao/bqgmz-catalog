@@ -1,7 +1,7 @@
 # British Borneo Sketches of Brunai, Sarawak, Labuan, and North Borneo
 
 **作者** Treacher, W. H. (William Hood), Sir, 1849-1919 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 317,659 字 ｜ **来源** Project Gutenberg
+**规模** 12 章 · 317,659 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f5f43d700485/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（317,659 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,878 字；最长 CHAPTER III.（51,814 字），最短 CHAPTER V.（13,691 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XI」。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 6,555 行。 |
+| 篇幅分布 | 平均每章 24,850 字；最长 CHAPTER III.（51,814 字），最短 appendix and state that this title had 165 pages, which is exactly the（2,655 字）。 |
 | 原文溯源 | `cache/epub/27547/pg27547.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/f5f43d700485/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/f5f43d700485/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Chushingura; Or, The Treasury of Loyal Retainers
 
-**作者** Takeda, Izumo, 1691-1756; Miyoshi, Shoraku, 1696?-1772?; Namiki, Senryu, 1695-1751; Inouye, Jukichi, 1862-1929 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 231,921 字 ｜ **来源** Project Gutenberg
+**作者** Takeda, Izumo, 1691-1756; Miyoshi, Shoraku, 1696?-1772?; Namiki, Senryu, 1695-1751; Inouye, Jukichi, 1862-1929 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 幕  
+**规模** 11 幕 · 231,921 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f4c4cbef8bc4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（231,921 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 53 字。 |
+| 分章依据 | 按「幕」标记切分为 11 幕（auto-act），拼接正文 6,918 行。 |
+| 篇幅分布 | 平均每幕 13,752 字。 |
 | 原文溯源 | `cache/epub/59421/pg59421.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 幕）
 
-1. ACT I.................................... 1
-2. ACT II................................... 15
-3. ACT III.................................. 33
-4. ACT IV................................... 65
-5. ACT V.................................... 87
-6. ACT VI.................................. 105
-7. ACT VII................................. 135
-8. ACT VIII (The Bridal Journey)........... 171
-9. ACT IX.................................. 179
-10. ACT X................................... 215
+1. ACT I.
+2. ACT II.
+3. ACT III.
+4. ACT IV.
+5. ACT V.
+6. ACT VI.
+7. ACT VII.
+8. ACT VIII.
+9. ACT IX.
+10. ACT X.
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/f4c4cbef8bc4/)
+> 共 11 幕，[完整目录与正文 →](https://www.bqgmz.top/b/f4c4cbef8bc4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Gockel, Hinkel und Gackeleia
 
-**作者** Brentano, Clemens, 1778-1842 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 16 段 · 327,910 字 ｜ **来源** Project Gutenberg
+**作者** Brentano, Clemens, 1778-1842 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 8 部分 · 327,910 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f93b0a971b16/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（327,910 字）。 |
-| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,494 字；最长 Nun nahm er den Stammhahn von der Schulter auf die rechte Ha（39,637 字），最短 Während Gackeleia diese Worte theils mit tiefer Rührung, so （9,917 字）。 |
+| 分章依据 | 按「部分」标记切分为 8 部分（fallback-chunk），拼接正文 7,686 行。 |
+| 篇幅分布 | 平均每部分 40,988 字；最长 第 7 部分（42,653 字），最短 第 8 部分（31,439 字）。 |
 | 原文溯源 | `cache/epub/4501/pg4501.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 部分）
 
-1. Nun nahm er den Stammhahn von der Schulter auf die rechte Ha
-2. Auf dem Heimwege begegnete Gockel drei alten Morgenländern m
-3. "Schau eins," sagten die drei Petschierstecher, "man soll no
-4. Urgockel werde ich genannt,
-5. Noch unaussprechlich vieles Erbauliche, Moralische, Historis
-6. Gockel aber sprach weiter: "du wirst dich erinnern, Frau Hin
-7. Gackeleia konnte nicht mehr länger zurückhalten, und rief ei
-8. "Ei!" sagte Gackeleia",den Ring kenne ich wohl, er hat auch
-9. Kaum hatte Gackeleia das Wort Puppe ausgesprochen, als Gocke
-10. "Guten Abend, gute Nacht,
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
 
-> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/f93b0a971b16/)
+> 共 8 部分，[完整目录与正文 →](https://www.bqgmz.top/b/f93b0a971b16/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

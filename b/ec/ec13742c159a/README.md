@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（159,686 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,653 字；最长 CHAPTER XVIII. IN THE ROBBERS’ RANCH.（12,880 字），最短 CHAPTER XXI. STARTLING NEWS.（2,887 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 4,781 行。 |
+| 篇幅分布 | 平均每章 6,490 字；最长 CHAPTER XVIII. IN THE ROBBERS’ RANCH.（12,880 字），最短 CHAPTER XXI. STARTLING NEWS.（2,887 字）。 |
 | 起止 | 始于「CHAPTER I. THE VILLAINS’ PLOT.」，止于「CHAPTER XXIV. CONCLUSION.」。 |
 | 原文溯源 | `cache/epub/59847/pg59847.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/ec13742c159a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（192,405 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 13,743 字；最长 CHAPTER X--TINSEL AND SPANGLES（20,901 字），最短 CHAPTER XI（5,434 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 5,442 行。 |
+| 篇幅分布 | 平均每章 13,595 字；最长 CHAPTER X--TINSEL AND SPANGLES（20,901 字），最短 CHAPTER XI（5,434 字）。 |
 | 起止 | 始于「CHAPTER I--MAKING AN IMPRESSION」，止于「CHAPTER XIV--SPRING TERM」。 |
 | 原文溯源 | `cache/epub/35729/pg35729.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/e698eb08d789/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

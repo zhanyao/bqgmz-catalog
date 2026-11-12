@@ -1,7 +1,7 @@
 # Muistelmia matkoilta Venäjällä vuosina 1854-1858
 
-**作者** Ahlqvist, August, 1826-1889 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 24 段 · 495,743 字 ｜ **来源** Project Gutenberg
+**作者** Ahlqvist, August, 1826-1889 ｜ **国家/地区** 芬兰 ｜ **体例** 篇  
+**规模** 280 篇 · 495,743 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f0f2132bb918/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（495,743 字）。 |
-| 分章依据 | 按「段」标记切分为 24 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,655 字；最长 Kysymyksessä oleva eroitus Savakkojen ja Äyrämöisten välillä（40,013 字），最短 Syvärin joki on Lotina-Pellon kohdalla, jossa Aunukseen päin（14,537 字）。 |
+| 分章依据 | 按「篇」标记切分为 280 篇（通用标记切分），拼接正文 9,157 行。 |
+| 篇幅分布 | 平均每篇 1,769 字。 |
 | 原文溯源 | `cache/epub/44817/pg44817.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Kysymyksessä oleva eroitus Savakkojen ja Äyrämöisten välillä
-2. Jonkun 3 eli 4 viikon perästä tulevat sitten häät, ja vihkim
-3. Päätökseni oli alkaa matkani sen pohjaisimmasta päästä, s.o.
-4. Syvärin joki on Lotina-Pellon kohdalla, jossa Aunukseen päin
-5. Vaan kuin Vosneseniestä, sen monista kauppa-puodista, masto-
-6. Tämän-edellinen Suomettaressa painettu kirjani oli annettu V
-7. Yleisesti ylen-katsoo vallan päällä oleva kansa allansa olev
-8. Kunkin metsched'in kanssa on koulu yhdistettynä. Maalla toim
-9. Niinkuin matka-kaavastani näkyy, oli minulla matkani tarkoit
-10. "Kattiloiden tulelle pantua ja veden kannettua astui neljä v
+1. Tässä ulos-tulevat matkamuistelmat eivät ole yleisölle tuntemattomat. Ne
+2. Ankarat tarkkaajat ehkä lukenevat, ja lukekootkin, nämä muistelmat niin
+3. Heikkoudeksi lienee tälle kirjaselle sekin luettava, että siinä löytyvät
+4. Jos tässä aikomuksessani vähänkään olen onnistunut ja jos näillä
+5. Talon-pojan tila: enin osa kansaa herran-alustalaisia. Rakennukset ja
+6. Matka Ojatille. Vanha pappi Järvissä. Turha yritys hänen kanssansa
+7. Lähtö Kasan'ista Simbirsk'in lääniin. Buinsk'in kaupunki. Vastuksia
+8. Olo Arbatov'assa. Virka-miehiä. Hävinnyt aatelis-mies. Maslenitsan
+9. Lähtö Kasan'ista. Iloiset tunteet. Lossi Vätka-joen yli. Perm'in
+10. Beresov'an kaupunki. Asujanten elatus-keinot ja köyhyys. Matkustaminen
 
-> 共 24 段，[完整目录与正文 →](https://www.bqgmz.top/b/f0f2132bb918/)
+> 共 280 篇，[完整目录与正文 →](https://www.bqgmz.top/b/f0f2132bb918/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

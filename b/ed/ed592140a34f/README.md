@@ -1,7 +1,7 @@
 # Contos（#31905）
 
-**作者** Câmara, João da, 1852-1908 ｜ **国家/地区** 葡萄牙 ｜ **体例** 段  
-**规模** 6 段 · 130,118 字 ｜ **来源** Project Gutenberg
+**作者** Câmara, João da, 1852-1908 ｜ **国家/地区** 葡萄牙 ｜ **体例** 章  
+**规模** 10 章 · 130,118 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ed592140a34f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（130,118 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,686 字；最长 --É preciso casar-te, não ha remedio.（39,977 字），最短 E ainda o ecco murmurava os últimos gemidos d'aquelle diabo （10,040 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 4,184 行。 |
+| 篇幅分布 | 平均每章 12,848 字。 |
 | 原文溯源 | `cache/epub/31905/pg31905.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. --É preciso casar-te, não ha remedio.
-2. Mas ao som d'aquella voz estremeceu, porque ella, doida, off
-3. Começou soprando mais rijo o vento, e, quando o sol desappar
-4. Quando eu era pequeno, tinha um dia virado o conego de cabeç
-5. E se ella apparece á janella?
-6. E ainda o ecco murmurava os últimos gemidos d'aquelle diabo
+1. LISBOA
+2. AS MÃES
+3. A OUTRA
+4. O PAQUETE
+5. O VENTURA
+6. O MIMOSO
+7. NA BIQUEIRA
+8. REQUIEM AETERNAM
+9. AS ESTRELLAS DO CEGO
+10. A BURRINHA BRANCA
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/ed592140a34f/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/ed592140a34f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

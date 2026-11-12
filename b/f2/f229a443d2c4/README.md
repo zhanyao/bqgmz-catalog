@@ -1,7 +1,7 @@
 # The Witchcraft Delusion in Colonial Connecticut (1647-1697)
 
 **作者** Taylor, John M. (John Metcalf), 1845-1918 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 222,142 字 ｜ **来源** Project Gutenberg
+**规模** 12 章 · 222,142 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f229a443d2c4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（222,142 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,087 字；最长 "That those things, whither past, presen（75,245 字），最短 CHAPTER II（357 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 5,407 行。 |
+| 篇幅分布 | 平均每章 17,732 字；最长 CHAPTER VIII（29,021 字），最短 CHAPTER XI（5,988 字）。 |
 | 原文溯源 | `cache/epub/12288/pg12288.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/f229a443d2c4/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/f229a443d2c4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

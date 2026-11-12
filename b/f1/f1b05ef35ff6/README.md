@@ -1,7 +1,7 @@
 # Socialism: A Summary and Interpretation of Socialist Principles
 
 **作者** Spargo, John, 1876-1966 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 14 章 · 428,879 字 ｜ **来源** Project Gutenberg
+**规模** 10 章 · 428,879 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/f1b05ef35ff6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（428,879 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 30,634 字；最长 This sociological principle pervades the（95,844 字），最短 CHAPTER III（516 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 9,772 行。 |
+| 篇幅分布 | 平均每章 39,483 字；最长 CHAPTER VI（58,629 字），最短 CHAPTER I（16,970 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER X」。 |
 | 原文溯源 | `cache/epub/22733/pg22733.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/f1b05ef35ff6/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/f1b05ef35ff6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

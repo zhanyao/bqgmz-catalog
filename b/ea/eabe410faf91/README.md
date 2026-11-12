@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（332,417 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 41,552 字；最长 CHAPTER IV.（85,626 字），最短 CHAPTER II.（17,118 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 6,962 行。 |
+| 篇幅分布 | 平均每章 40,213 字；最长 CHAPTER VII.（91,886 字），最短 APPENDIX（9,572 字）。 |
 | 原文溯源 | `cache/epub/38189/pg38189.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
@@ -24,9 +24,9 @@
 5. CHAPTER V.
 6. CHAPTER VI.
 7. CHAPTER VII.
-8. (157.) _Coryza._ During the winter month
+8. APPENDIX
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/eabe410faf91/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（251,140 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,959 字；最长 CHAPTER III--Concerning my Journey to Portsmouth（24,187 字），最短 CHAPTER XIII--The Escape（6,568 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 6,388 行。 |
+| 篇幅分布 | 平均每章 11,854 字；最长 CHAPTER III--Concerning my Journey to Portsmouth（24,187 字），最短 CHAPTER XIII--The Escape（6,568 字）。 |
 | 起止 | 始于「CHAPTER I--How the Tidings of the Restoration Came to Rake」，止于「CHAPTER XXI--Our Search for the Treasure」。 |
 | 原文溯源 | `cache/epub/39490/pg39490.txt`（Project Gutenberg） |
 
@@ -22,14 +22,14 @@
 2. CHAPTER II--Of the Arrest and Escape of Increase Joyce
 3. CHAPTER III--Concerning my Journey to Portsmouth
 4. CHAPTER IV--How Judgment was Passed on the Dorset Smugglers
-5. CHAPTER V--Of my First Ship, the _Gannet_
+5. CHAPTER V--Of my First Ship, the _Gannet
 6. CHAPTER VI--Of the Finding of Pedro Alvarez, and of the Strange Tale
 7. CHAPTER VII--Concerning the Treasure Island
 8. CHAPTER VIII--Of an Encounter with an Algerine Corsair
-9. CHAPTER IX--I lose the _Little Gannet_
+9. CHAPTER IX--I lose the _Little Gannet
 10. CHAPTER X--How I Defended the Foretop
 
 > 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/f94ba9018776/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

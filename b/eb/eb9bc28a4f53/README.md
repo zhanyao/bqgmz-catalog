@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（396,437 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,682 字；最长 CHAPTER XIII.--HOW JIM BRITT PASSED HIS BILL.（27,126 字），最短 CHAPTER I.--HOW I CAME TO THE INN.（9,307 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-chapter），拼接正文 9,151 行。 |
+| 篇幅分布 | 平均每章 14,677 字；最长 CHAPTER XIII.--HOW JIM BRITT PASSED HIS BILL.（27,126 字），最短 CHAPTER I.--HOW I CAME TO THE INN.（9,164 字）。 |
 | 起止 | 始于「CHAPTER I.--HOW I CAME TO THE INN.」，止于「CHAPTER XXVII.--THE FLIM FLAM MURPHY.」。 |
 | 原文溯源 | `cache/epub/55471/pg55471.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/eb9bc28a4f53/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

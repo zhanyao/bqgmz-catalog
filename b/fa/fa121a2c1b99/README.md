@@ -1,7 +1,7 @@
 # The Secret Trails
 
-**作者** Roberts, Charles G. D., Sir, 1860-1943 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 179,713 字 ｜ **来源** Project Gutenberg
+**作者** Roberts, Charles G. D., Sir, 1860-1943 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 179,713 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fa121a2c1b99/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（179,713 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,464 字；最长 He cleaned the ashes out of his pipe and saved them carefull（39,836 字），最短 Murray suddenly felt himself alone and outwitted. If it had （19,641 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 4,070 行。 |
+| 篇幅分布 | 平均每章 17,818 字；最长 THE BLACK BOAR OF LONESOME WATER（25,969 字），最短 THE AIGRETTE（10,575 字）。 |
 | 原文溯源 | `cache/epub/34454/pg34454.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. He cleaned the ashes out of his pipe and saved them carefull
-2. The tiny canal-side village which was the goal of these two
-3. The bear--which was one of the biggest and fiercest of his k
-4. "I ain't puttin' on no mournin' fer 'em," grunted Jackson. "
-5. They lay in a corner of the glade, close to the dense thicke
-6. Murray suddenly felt himself alone and outwitted. If it had
-7. Whenever the cock found a particularly choice grub or worm o
-8. But the bear, though frankly afraid to face man, whom he did
+1. THE BLACK BOAR OF LONESOME WATER
+2. THE DOG THAT SAVED THE BRIDGE
+3. THE CALLING OF THE LOP-HORNED BULL
+4. THE AIGRETTE
+5. THE CABIN IN THE FLOOD
+6. THE BROTHERS OF THE YOKE
+7. THE TRAILERS
+8. COCK-CROW
+9. THE LEDGE ON BALD FACE
+10. THE MORNING OF THE SILVER FROST
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/fa121a2c1b99/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/fa121a2c1b99/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Der Hafen（#76486）
 
-**作者** Jacques, Norbert, 1880-1954 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 55 题 · 255,798 字 ｜ **来源** Project Gutenberg
+**作者** Jacques, Norbert, 1880-1954 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 7 篇 · 255,798 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ff20a5e557d1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（255,798 字）。 |
-| 分章依据 | 按「题」标记切分为 55 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,650 字。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（通用标记切分），拼接正文 6,194 行。 |
+| 篇幅分布 | 平均每篇 36,507 字；最长 Viertes Kapitel（58,608 字），最短 Erstes Kapitel（15,978 字）。 |
 | 原文溯源 | `cache/epub/76486/pg76486.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 篇）
 
-1. Der Hafen
-2. S. Fischer, Verlag, Berlin
-3. Erstes Kapitel
-4. Zweites Kapitel
-5. Herr Biver schaute Jeanne empört an: „Nun hör mal – was fällt dir ein?“
-6. Drittes Kapitel
-7. Aber Baptist fragte: „Wo sind die Italiener?“
-8. Langsam sagte einer der Freunde von Baptist: „Ich hätte sogar Lust!“
-9. Aber Baptist wehrte ab. „Seid nicht bös, ich bin müde!“
-10. Viertes Kapitel
+1. Erstes Kapitel
+2. Zweites Kapitel
+3. Drittes Kapitel
+4. Viertes Kapitel
+5. Sechstes Kapitel
+6. Achtes Kapitel
+7. Neuntes Kapitel
 
-> 共 55 题，[完整目录与正文 →](https://www.bqgmz.top/b/ff20a5e557d1/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/ff20a5e557d1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

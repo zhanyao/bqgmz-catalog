@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（347,804 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 13,912 字；最长 CHAPTER XXV. LALLY IN HER NEW SITUATION.（19,502 字），最短 CHAPTER XX. WAS IT A DREAM?（10,095 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 8,604 行。 |
+| 篇幅分布 | 平均每章 13,871 字；最长 CHAPTER XXV. LALLY IN HER NEW SITUATION.（19,096 字），最短 CHAPTER XX. WAS IT A DREAM?（10,095 字）。 |
 | 起止 | 始于「CHAPTER I. THE GAME WELL BEGUN.」，止于「CHAPTER XXV. LALLY IN HER NEW SITUATION.」。 |
 | 原文溯源 | `cache/epub/68274/pg68274.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/fd392ac1b497/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

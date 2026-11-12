@@ -1,7 +1,7 @@
 # Pikakuvia Raja-Karjalasta
 
-**作者** Lampén, Ernst, 1865-1938 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 9 段 · 183,876 字 ｜ **来源** Project Gutenberg
+**作者** Lampén, Ernst, 1865-1938 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 17 章 · 183,876 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e8e6eba655a5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（183,876 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,430 字；最长 Ennenkuin ryhdyn kertomaan, mitä näin ja koin tällä matkalla（39,763 字），最短 Puheitten pitkä jono alkoi. Jos siinä on perää, että hyvät p（5,067 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-toc-title-list），拼接正文 4,065 行。 |
+| 篇幅分布 | 平均每章 10,786 字；最长 Vierasvaraisuudesta.（42,281 字），最短 Raudussa.（3,098 字）。 |
 | 原文溯源 | `cache/epub/76169/pg76169.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. Ennenkuin ryhdyn kertomaan, mitä näin ja koin tällä matkalla
-2. Niin, Kinnunen oli Liperistä, mutta suku on alkuisin Savosta
-3. Mutta Tolvajärvi teki sentään poikkeuksen. Ei niin, että jär
-4. Ajettiin Annantehtaalle. Siellä paikat kerrassaan kuhisivat
-5. Toivokaamme, että kreikkalaiskatolinen papistomme opettaa
-6. Marppa ei tietysti tuntenut yhtään kirjainta. Kuka niitä hän
-7. Joka perjantai klo 12 saapuvat venäläiset ja suomalaiset vah
-8. Aunukselaista hevosta ja sen kuormaa kestäisi Karjalan maant
-9. Puheitten pitkä jono alkoi. Jos siinä on perää, että hyvät p
+1. Kärpäsestä.
+2. Piirteitä Raja-Karjalan historiasta.
+3. Pitkäranta.
+4. Suistamoon.
+5. Tolvajärvi.
+6. Vornanen.
+7. Kreikkalaisen kirkon asemasta Raja-Karjalassa.
+8. Jehkilän esikunnan portilla.
+9. Mietteitä.
+10. Jehkilän komppanian päällikkö.
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/e8e6eba655a5/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/e8e6eba655a5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

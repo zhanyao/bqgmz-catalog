@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（74,710 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,677 字。 |
-| 起止 | 始于「CHAPTER I.--_Despare!_」，止于「CHAPTER IV.--_The End._」。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-chapter），拼接正文 2,856 行。 |
+| 篇幅分布 | 平均每章 7,853 字。 |
+| 起止 | 始于「CHAPTER I.--_Despare!」，止于「CHAPTER IV.--_The End.」。 |
 | 原文溯源 | `cache/epub/48096/pg48096.txt`（Project Gutenberg） |
 
 ## 章节目录（前 4 章）
 
-1. CHAPTER I.--_Despare!_
-2. CHAPTER II.--_The Helopemeant!_
-3. CHAPTER III.--_The Dewell._
-4. CHAPTER IV.--_The End._
+1. CHAPTER I.--_Despare!
+2. CHAPTER II.--_The Helopemeant!
+3. CHAPTER III.--_The Dewell.
+4. CHAPTER IV.--_The End.
 
 > 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/fd0da60a2737/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Das Trottelbuch
 
-**作者** Jung, Franz, 1888-1963 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 46 题 · 82,450 字 ｜ **来源** Project Gutenberg
+**作者** Jung, Franz, 1888-1963 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 15 章 · 82,450 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/fd065c713923/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（82,450 字）。 |
-| 分章依据 | 按「题」标记切分为 46 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,792 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-roman-bare），拼接正文 2,734 行。 |
+| 篇幅分布 | 平均每章 4,397 字；最长 VI.（6,306 字），最短 I.（部2）（2,261 字）。 |
+| 起止 | 始于「I.」，止于「V.（部2）」。 |
 | 原文溯源 | `cache/epub/36718/pg36718.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. E-text prepared by Jens Sadowski
-2. Das Trottelbuch
-3. Franz Jung
-4. Das Trottelbuch
-5. Inhalt
-6. Trottel
-7. Eine programmatische Einleitung
-8. Er richtet sich auf, ballt die Faust, schreit: »Komm . . . «
-9. Der andere lächelt und sagt: »Dann mußt du ihr mehr zu saufen geben.«
-10. Der Weg über den Berg
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 46 题，[完整目录与正文 →](https://www.bqgmz.top/b/fd065c713923/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/fd065c713923/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
