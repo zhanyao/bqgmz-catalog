@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（731,314 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-part），拼接正文 20,960 行。 |
 | 篇幅分布 | 平均每章 43,018 字。 |
 | 原文溯源 | `cache/epub/15939/pg15939.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Book I Introduction 11
-2. Book II Trias Politica and Economic Supreme Court 16
-3. Book III Economics ‘as usual’ 36
-4. Book IV Presentations for the general public 60
-5. Book V Methodology: Definition & Reality 69
-6. Book VI Structural models 87
-7. Book VII Social Choice 158
-8. Book VIII Supportive notions 186
-9. Book IX Reduced form 198
-10. Book X Conclusions 216
+1. Book II（1）
+2. Book II（2）
+3. Book IV
+4. Book V
+5. Book VI（1）
+6. Book VI（2）
+7. Book VI（3）
+8. Book VII
+9. Book VIII Supportive notions
+10. Book IX
 
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/4890ce9701d8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

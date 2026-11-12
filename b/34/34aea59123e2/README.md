@@ -1,7 +1,7 @@
 # Mr. Crewe's Career — Volume 2
 
-**作者** Churchill, Winston, 1871-1947 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 294,240 字 ｜ **来源** Project Gutenberg
+**作者** Churchill, Winston, 1871-1947 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 8 篇 · 294,240 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/34aea59123e2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（294,240 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,749 字。 |
+| 分章依据 | 按「篇」标记切分为 8 篇（auto-title-block），拼接正文 7,165 行。 |
+| 篇幅分布 | 平均每篇 35,981 字；最长 Mr. REDBROOK'S PARTY（85,822 字），最短 States Senate."（3,794 字）。 |
 | 原文溯源 | `cache/epub/3682/pg3682.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 8 篇）
 
-1. BOOK 2.
-2. CHAPTER XI
-3. CHAPTER XII
-4. CHAPTER XIII
-5. CHAPTER XIV
-6. CHAPTER XV
-7. CHAPTER XVI
-8. CHAPTER XVII
-9. CHAPTER XVIII
-10. CHAPTER XIX
+1. Government."
+2. States Senate."
+3. Mr. REDBROOK'S PARTY
+4. from Putnam, Mr. Bascom."
+5. up, Adolphe."
+6. Austen."
+7. Mr. Tooting down-stairs."
+8. MR. CREWE: AN APPRECIATION (1)
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/34aea59123e2/)
+> 共 8 篇，[完整目录与正文 →](https://www.bqgmz.top/b/34aea59123e2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

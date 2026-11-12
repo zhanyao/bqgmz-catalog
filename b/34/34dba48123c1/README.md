@@ -1,7 +1,7 @@
 # The American Missionary — Volume 32, No. 04, April 1878
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 113,220 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 113,220 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/34dba48123c1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（113,220 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,644 字；最长 We have thus fairly launched on the new experiment of Africa（39,802 字），最短 To preach the Gospel to the poor. It originated in a sympath（13,325 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-toc-title-list），拼接正文 3,618 行。 |
+| 篇幅分布 | 平均每章 4,965 字。 |
 | 原文溯源 | `cache/epub/53078/pg53078.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. We have thus fairly launched on the new experiment of Africa
-2. Almost in the very centre of Alabama, the great Allegheny ra
-3. My mission, thus far, has been mostly to the lowly. The firs
-4. “Well, yes, I likes to see folks, ’cause my Fader up dar mad
-5. To preach the Gospel to the poor. It originated in a sympath
+1. THE WARDS OF THE ALMIGHTY
+2. DOUGLASS AND HAYES AT HOWARD UNIVERSITY
+3. CHURCH WORK IN THE SOUTH
+4. FOUR NEW MISSIONARIES FOR AFRICA
+5. THE TWO INDIAN POLICIES
+6. LIGHTS AND SHADOWS
+7. INDIAN NOTES
+8. CHINESE NOTES
+9. OBITUARIES
+10. THE FREEDMEN.
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/34dba48123c1/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/34dba48123c1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

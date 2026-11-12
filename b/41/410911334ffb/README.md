@@ -1,7 +1,7 @@
 # The American Missionary — Volume 36, No. 2, February, 1882
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 94,617 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 67 篇 · 94,617 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/410911334ffb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（94,617 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,654 字。 |
+| 分章依据 | 按「篇」标记切分为 67 篇（auto-magazine），拼接正文 3,529 行。 |
+| 篇幅分布 | 平均每篇 1,405 字。 |
 | 原文溯源 | `cache/epub/57446/pg57446.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 10 篇）
 
-1. ALBANY.
-2. The Church is raising $30 per month on pastor’s salary, begi
-3. Amherst. First Cong. Ch. 98
-4. INCOME FUND, $665.00.
+1. TESSIE 54
+2. RECEIPTS 55
+3. COMMUNICATIONS
+4. DONATIONS AND SUBSCRIPTIONS
+5. THAT THREE HUNDRED THOUSAND DOLLARS
+6. THE NASHVILLE CONFERENCE
+7. BENEFACTIONS
+8. AFRICA
+9. THE INDIANS
+10. CHINESE
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/410911334ffb/)
+> 共 67 篇，[完整目录与正文 →](https://www.bqgmz.top/b/410911334ffb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

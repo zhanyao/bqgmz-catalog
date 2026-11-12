@@ -1,7 +1,7 @@
 # Nick Carter Stories No. 159, September 25, 1915: Driven from cover; or, Nick Carter's double ruse.
 
 **作者** Carter, Nicholas (House name); Lebhar, Bertram [Contributor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 15 章 · 162,145 字 ｜ **来源** Project Gutenberg
+**规模** 9 章 · 162,145 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4aedd109e7a1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,12 +11,12 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（162,145 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,809 字；最长 CHAPTER XXXI.（27,459 字），最短 CHAPTER XXVI.（5,411 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXI.」。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 4,785 行。 |
+| 篇幅分布 | 平均每章 17,927 字。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER IX.」。 |
 | 原文溯源 | `cache/epub/68361/pg68361.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 9 章）
 
 1. CHAPTER I.
 2. CHAPTER II.
@@ -27,9 +27,8 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
-10. CHAPTER XXVI.
 
-> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/4aedd109e7a1/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/4aedd109e7a1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

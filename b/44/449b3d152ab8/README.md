@@ -11,21 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（330,578 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 47,225 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-toc-title-list），拼接正文 6,914 行。 |
+| 篇幅分布 | 平均每章 47,097 字。 |
 | 原文溯源 | `cache/epub/57289/pg57289.txt`（Project Gutenberg） |
 
 ## 章节目录（前 7 章）
 
-1. PART I.—THE GRACES 69
-2. PART II.—THE EVE OF “1641” 137
-3. PART I
-4. PART I
-5. PART II
-6. PART II
-7. On the 8th April, 1642, the King offered
+1. THE PLANTATION OF ULSTER
+2. STRAFFORD
+3. PART I.—THE GRACES
+4. PART II.—THE EVE OF “1641”
+5. “1641”
+6. THE CONFEDERATION OF KILKENNY
+7. Bibliography
 
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/449b3d152ab8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

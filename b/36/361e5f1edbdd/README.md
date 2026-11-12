@@ -1,7 +1,7 @@
 # The American Missionary — Volume 33, No. 05, May, 1879
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 106,181 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 9 篇 · 106,181 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/361e5f1edbdd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（106,181 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,236 字；最长 There can be no question but that the negro can, if he be we（38,736 字），最短 “Is twice as good as you represent it. With same labor will （6,104 字）。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（通用标记切分），拼接正文 3,324 行。 |
+| 篇幅分布 | 平均每篇 11,768 字。 |
 | 原文溯源 | `cache/epub/53966/pg53966.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 9 篇）
 
-1. There can be no question but that the negro can, if he be we
-2. The tour finds its western limit at San Antonio, that ancien
-3. “Surely the Lord is in this place and I knew it not.” I have
-4. Bridgeport. First Cong. Ch. 83
-5. “Is twice as good as you represent it. With same labor will
+1. PARAGRAPHS 129
+2. TOUR INTO THE SOUTHWEST: Rev. J. E. Roy, D. D. 140
+3. CONSTITUTION 157
+4. DONATIONS AND SUBSCRIPTIONS（1）
+5. DONATIONS AND SUBSCRIPTIONS（2）
+6. SOUTH CAROLINA, $271.75
+7. FOOTNOTE:
+8. INSTITUTIONS FOUNDED, FOSTERED OR SUSTAINED IN THE
+9. =9000 SUNDAY-SCHOOL MUSIC BOOKS= AT LESS THAN COST
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/361e5f1edbdd/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/361e5f1edbdd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Some Constituents of the Poison Ivy Plant (Rhus Toxicodendron)
 
-**作者** Syme, William Anderson, 1879- ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 43 题 · 63,857 字 ｜ **来源** Project Gutenberg
+**作者** Syme, William Anderson, 1879- ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 3 章 · 63,857 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/463d299b3cf6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（63,857 字）。 |
-| 分章依据 | 按「题」标记切分为 43 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,485 字。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-toc-title-list），拼接正文 1,557 行。 |
+| 篇幅分布 | 平均每章 2,421 字。 |
 | 原文溯源 | `cache/epub/34510/pg34510.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 章）
 
-1. SOME CONSTITUENTS OF THE POISON IVY PLANT (RHUS TOXICODENDRON)
-2. DISSERTATION
-3. BY WILLIAM ANDERSON SYME
-4. CONTENTS.
-5. Acknowledgments 4
-6. Literature 5
-7. Introduction 7
-8. Work of Khittel 11
-9. Work of Maisch 12
-10. Work of Pfaff 13
+1. Acknowledgments
+2. Literature
+3. Introduction
 
-> 共 43 题，[完整目录与正文 →](https://www.bqgmz.top/b/463d299b3cf6/)
+> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/463d299b3cf6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

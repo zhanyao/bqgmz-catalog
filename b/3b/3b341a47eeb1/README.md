@@ -1,7 +1,7 @@
 # Biographical Notices of the Portraits at Hinchingbrook
 
-**作者** Boyle, Mary Louisa, 1810-1890 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 10 段 · 215,248 字 ｜ **来源** Project Gutenberg
+**作者** Boyle, Mary Louisa, 1810-1890 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 28 章 · 215,248 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3b341a47eeb1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（215,248 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,524 字；最长 Lord Sandwich’s letters show his steady adherence to the Pro（39,993 字），最短 “Charles II., of Spain,” says Sir William Stirling, “might w（16,109 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-caps-sections），拼接正文 4,760 行。 |
+| 篇幅分布 | 平均每章 7,687 字。 |
 | 原文溯源 | `cache/epub/63204/pg63204.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Lord Sandwich’s letters show his steady adherence to the Pro
-2. Sir Philip Warwick also says: “The family of Montagu is nobl
-3. Queen Anne bestowed upon him the coveted dukedom; in the fou
-4. Born at Paris, 1615. Died, 1705.—The early education of Anne
-5. The second Court under “Madame’s” auspices, with its young b
-6. Born, 1682. Died, 1749.—The only surviving son of Ralph, fir
-7. Born, 1720. Died, 1757.—He was the youngest son of Edward, V
-8. He gained the name of “Jemmy Twitcher,” through a curious ci
-9. She passed the remainder of her life at Chiswick, where she
-10. “Charles II., of Spain,” says Sir William Stirling, “might w
+1. MARY LOUISA BOYLE.
+2. MDCCCLXXVI.
+3. HALF-LENGTH.
+4. HALF-LENGTH: OVAL.
+5. HALF-LENGTH.
+6. HALF-LENGTH.
+7. HALF-LENGTH.
+8. HALF-LENGTH.
+9. THREE-QUARTER LENGTH.
+10. THREE-QUARTER LENGTH.
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/3b341a47eeb1/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/3b341a47eeb1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

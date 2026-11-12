@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（717,323 字）。 |
-| 分章依据 | 按「章」标记切分为 47 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,262 字；最长 Chapter XLVII. THE WAY OF THE BEATEN: A HARP IN THE WIND（25,194 字），最短 Chapter XXI. THE LURE OF THE SPIRIT: THE FLESH IN PURSUIT（6,413 字）。 |
+| 分章依据 | 按「章」标记切分为 47 章（auto-toc-title-list），拼接正文 19,859 行。 |
+| 篇幅分布 | 平均每章 15,214 字；最长 Chapter XLVII. THE WAY OF THE BEATEN: A HARP IN THE WIND（25,194 字），最短 Chapter XXI. THE LURE OF THE SPIRIT: THE FLESH IN PURSUIT（6,413 字）。 |
 | 起止 | 始于「Chapter I. THE MAGNET ATTRACTING: A WAIF AMID FORCES」，止于「Chapter XLVII. THE WAY OF THE BEATEN: A HARP IN THE WIND」。 |
 | 原文溯源 | `cache/epub/233/pg233.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 47 章，[完整目录与正文 →](https://www.bqgmz.top/b/4a77aebcafe2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

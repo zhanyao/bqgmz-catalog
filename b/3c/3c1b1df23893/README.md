@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（438,387 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 48,709 字；最长 Chapter XXII tells how _le bon Chevalier（97,923 字），最短 CHAPTER VII（3,059 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 10,934 行。 |
+| 篇幅分布 | 平均每章 45,196 字；最长 CHAPTER VII（73,257 字），最短 CHAPTER I（15,776 字）。 |
 | 原文溯源 | `cache/epub/64928/pg64928.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
@@ -24,10 +24,10 @@
 5. CHAPTER V
 6. CHAPTER VI
 7. CHAPTER VII
-8. Chapter XXII tells how _le bon Chevalier
-9. The last form of duel referred to in Mr.
+8. CHAPTER VIII
+9. APPENDIX A
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/3c1b1df23893/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

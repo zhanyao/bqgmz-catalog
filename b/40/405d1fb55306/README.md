@@ -1,7 +1,7 @@
 # Un été dans le Sahara
 
-**作者** Fromentin, Eugène, 1820-1876 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 16 段 · 332,262 字 ｜ **来源** Project Gutenberg
+**作者** Fromentin, Eugène, 1820-1876 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 10 章 · 332,262 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/405d1fb55306/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（332,262 字）。 |
-| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,766 字；最长 El-Kantara--le pont--garde le défilé et pour ainsi dire l'un（40,051 字），最短 La nuit descend tiède et tranquille sur ce triste pays toujo（12,182 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 7,176 行。 |
+| 篇幅分布 | 平均每章 33,226 字；最长 EL-AGHOUAT（3）（55,613 字），最短 I.--DE MEDEAH A EL-AGHOUAT                                             1（485 字）。 |
 | 原文溯源 | `cache/epub/37914/pg37914.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. El-Kantara--le pont--garde le défilé et pour ainsi dire l'un
-2. Et quand on considère que ce même homme, qui impose aux femm
-3. Quant au Chéliff, qui, quarante lieues plus avant, dans l'ou
-4. Cette opinion s'appuie sur un fait vrai en lui-même, c'est q
-5. Cette habitation est disposée de manière à servir, à la fois
-6. Puisque je reviens incidemment aux figures, encore un mot. L
-7. La rue s'enfonçait, avec de légers détours, dans la profonde
-8. L'intérieur était assez curieusement peint et enjolivé de lé
-9. Au demeurant, si l'on voit peu de femmes qui soient belles,
-10. Il demeure dans la basse ville, à l'extrémité d'une rue sile
+1. ARMAND DU MESNIL
+2. DE LA TROISIÈME ÉDITION（1）
+3. DE LA TROISIÈME ÉDITION（2）
+4. DE LA TROISIÈME ÉDITION（3）
+5. EL-AGHOUAT（1）
+6. EL-AGHOUAT（2）
+7. EL-AGHOUAT（3）
+8. EL-AGHOUAT（4）
+9. I.--DE MEDEAH A EL-AGHOUAT 1
+10. III.--TADJEMOUT-AÏN-MAHDY 208
 
-> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/405d1fb55306/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/405d1fb55306/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

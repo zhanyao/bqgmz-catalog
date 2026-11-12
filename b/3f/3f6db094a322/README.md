@@ -1,7 +1,7 @@
 # Esztike kisasszony professzora: Regény
 
-**作者** Pálffy, Albert, 1820-1897; Mikszáth, Kálmán, 1847-1910 [Contributor]; Mark, Louis, 1867-1942 [Illustrator] ｜ **国家/地区** 匈牙利 ｜ **体例** 段  
-**规模** 22 段 · 453,631 字 ｜ **来源** Project Gutenberg
+**作者** Pálffy, Albert, 1820-1897; Mikszáth, Kálmán, 1847-1910 [Contributor]; Mark, Louis, 1867-1942 [Illustrator] ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 20 章 · 453,631 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3f6db094a322/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（453,631 字）。 |
-| 分章依据 | 按「段」标记切分为 22 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,619 字；最长 – Herczegnő! – felelé az özvegy. – Lakik itt a mi vidékünkön（39,789 字），最短 Az így megszólított ifju megragadja a feléje nyujtott kezet,（13,219 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-roman-title），拼接正文 12,038 行。 |
+| 篇幅分布 | 平均每章 211 字。 |
+| 起止 | 始于「I. A család eredete, viszontagsága és felvirágzása 3」，止于「XX. Honnan kerül a segítség a végső szükségben? de ideje is volt, hogy」。 |
 | 原文溯源 | `cache/epub/68475/pg68475.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. – Herczegnő! – felelé az özvegy. – Lakik itt a mi vidékünkön
-2. – Legyen megnyugodva, drága nénikém, úgyis e mai nappal mind
-3. – Ha tanítlak, akkor hallgass. Lássuk az építészetet. Nézd e
-4. – Csak annyira óhajtanálak megismerni, hogy eltaláljam, miko
-5. Jól tudta ezt Bendeffy grófné s azért mentől kevésbbé engedé
-6. A leányka még mindig éretlenebb gyermek volt, mintsem elpiru
-7. – Ne is kételkedjél. A jezsuiták támogatása nélkül mai napon
-8. – Arthur, ezen már túl vagyunk. Én ugyan tökéletesen hiszem,
-9. – Gyermek! Arthur gróf jól tudja, hogy egyentel leányom s an
-10. Mintegy fél óráig járt-kelt az ifjú a társaság számára nyito
+1. I. A család eredete, viszontagsága és felvirágzása 3
+2. II. A kastély és vendégei 12
+3. III. Ingadozás a sok pénzt igérő jövő s a jelenben kinálkozó rang
+4. IV. Van ebben egy párocskának igen vad-érzékeny eljegyzése; egy másiknak
+5. V. Egy pár képviselő megy az országgyűlésre 34
+6. VI. Megnézik a fővárost, meghallgatják a jövő zenéjét és látnak valakit
+7. VII. Odaviszik a fiatal embert, a hova nem várta. Hogy mi következik ily
+8. VIII. Aláirás egy tánczvigalomra, mely létre sem jő; a nagy világ hiú
+9. IX. Szokatlan ünnepélyes szertartással végbement leánykérés; a roham
+10. X. A díszruhás ünnepélyességet hasonló értékű aprópénzzel fizetik
 
-> 共 22 段，[完整目录与正文 →](https://www.bqgmz.top/b/3f6db094a322/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/3f6db094a322/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

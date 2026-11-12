@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（483,026 字）。 |
-| 分章依据 | 按「章」标记切分为 45 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,733 字；最长 CHAPTER XX. BROUGHT TO THE SCRATCH（12,062 字），最短 CHAPTER V. WITH EDGED TOOLS（8,119 字）。 |
+| 分章依据 | 按「章」标记切分为 45 章（auto-chapter），拼接正文 13,405 行。 |
+| 篇幅分布 | 平均每章 10,712 字；最长 CHAPTER XX. BROUGHT TO THE SCRATCH（12,062 字），最短 CHAPTER V. WITH EDGED TOOLS（8,119 字）。 |
 | 起止 | 始于「CHAPTER I. TWO GENERATIONS」，止于「CHAPTER XLV. THE TELEGRAM」。 |
 | 原文溯源 | `cache/epub/8939/pg8939.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 45 章，[完整目录与正文 →](https://www.bqgmz.top/b/47cdc846d476/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

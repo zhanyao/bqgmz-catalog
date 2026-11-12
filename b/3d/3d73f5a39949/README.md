@@ -1,7 +1,7 @@
 # Le Bossu: Aventures de Cape et d'Épée. Volume 2
 
-**作者** Féval, Paul, 1817-1887 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 25 题 · 171,856 字 ｜ **来源** Project Gutenberg
+**作者** Féval, Paul, 1817-1887 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 8 章 · 171,856 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3d73f5a39949/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（171,856 字）。 |
-| 分章依据 | 按「题」标记切分为 25 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,874 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-bare），拼接正文 5,649 行。 |
+| 篇幅分布 | 平均每章 21,396 字；最长 XI（51,844 字），最短 VII（15,149 字）。 |
 | 原文溯源 | `cache/epub/33746/pg33746.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. Au lecteur
-2. LE BOSSU.
-3. COLLECTION HETZEL.
-4. LE BOSSU
-5. AVENTURES DE CAPE ET D'ÉPÉE
-6. PAR
-7. PAUL FÉVAL.
-8. L'HÔTEL DE NEVERS.
-9. IV
-10. M. de Peyrolles s'engagea dans la sombre allée et gagna le pavillon.
+1. IV
+2. V
+3. VI
+4. VII
+5. VIII
+6. IX
+7. X
+8. XI
 
-> 共 25 题，[完整目录与正文 →](https://www.bqgmz.top/b/3d73f5a39949/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/3d73f5a39949/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

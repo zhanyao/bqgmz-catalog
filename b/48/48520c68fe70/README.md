@@ -1,7 +1,7 @@
 # Grimm testvérek összegyüjtött meséi
 
-**作者** Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859; Benedek, Elek, 1859-1929 [Translator] ｜ **国家/地区** 匈牙利 ｜ **体例** 段  
-**规模** 15 段 · 316,648 字 ｜ **来源** Project Gutenberg
+**作者** Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859; Benedek, Elek, 1859-1929 [Translator] ｜ **国家/地区** 匈牙利 ｜ **体例** 部分  
+**规模** 8 部分 · 316,648 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/48520c68fe70/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（316,648 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,109 字；最长 – Én nem láttam őkelmét, – felelt a fiú – de a torony ablaká（39,824 字），最短 – Asszony, asszony, mit beszélsz? Meg sem merem azt mondani!（16,254 字）。 |
+| 分章依据 | 按「部分」标记切分为 8 部分（fallback-chunk），拼接正文 9,367 行。 |
+| 篇幅分布 | 平均每部分 39,581 字；最长 第 2 部分（42,634 字），最短 第 8 部分（18,885 字）。 |
 | 原文溯源 | `cache/epub/40088/pg40088.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 部分）
 
-1. – Én nem láttam őkelmét, – felelt a fiú – de a torony ablaká
-2. Sírtak a fiúk is, keserves könnyhullatások közt elmentek az
-3. Hazajő este a király s hallja, hogy szép aranyhajú fia szüle
-4. Beértek az erdőbe, mentek mind beljebb, beljebb, jó messzire
-5. Bementek a hét holló szobájába, ott a törpe megterítette az
-6. Mikor Matyi hallotta, hogy már jó eltávolodtak, vígan kimász
-7. – Vajjon ki lakhatik itt? – kérdezte magában Hófehérke, mert
-8. A többi szolga megint morgolódott, szidták Jánost, mint a bo
-9. – Egyet se búsúlj, jere velem a városba, majd keresek én ott
-10. – Hiszen nem loptuk, az igaz, de a mozsárnak nincs meg az üt
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/48520c68fe70/)
+> 共 8 部分，[完整目录与正文 →](https://www.bqgmz.top/b/48520c68fe70/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

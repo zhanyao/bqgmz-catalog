@@ -1,7 +1,7 @@
 # Kadotuksen kansa: Kuvaus Lontoon East Endistä
 
-**作者** London, Jack, 1876-1916; Murros, Kaapo, 1875-1951 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 65 题 · 321,499 字 ｜ **来源** Project Gutenberg
+**作者** London, Jack, 1876-1916; Murros, Kaapo, 1875-1951 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 26 章 · 321,499 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3be6106ebf92/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（321,499 字）。 |
-| 分章依据 | 按「题」标记切分为 65 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,946 字。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-roman-bare），拼接正文 7,258 行。 |
+| 篇幅分布 | 平均每章 12,165 字；最长 IX.（24,286 字），最短 XXIV.（5,388 字）。 |
+| 起止 | 始于「I.」，止于「XXVII.」。 |
 | 原文溯源 | `cache/epub/48172/pg48172.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. KADOTUKSEN KANSA
-2. Kuvaus Lontoon East Endistä
-3. JACK LONDON
-4. Suomentanut Kaapo Murros
-5. SISÄLLYS:
-6. ENGLANTILAISEN KUSTANTAJAN HUOMAUTUS.
-7. ESIPUHE.
-8. I.
-9. ALAS.
-10. II.
+1. I.
+2. II.
+3. III.
+4. V.
+5. VI.
+6. VII.
+7. VIII.
+8. IX.
+9. X.
+10. XI.
 
-> 共 65 题，[完整目录与正文 →](https://www.bqgmz.top/b/3be6106ebf92/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/3be6106ebf92/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

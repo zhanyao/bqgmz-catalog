@@ -11,23 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（434,673 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 48,297 字；最长 It is a great merit in this work of Mrs （84,567 字），最短 CHAPTER XLVII.（1,961 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-toc-title-list），拼接正文 8,949 行。 |
+| 篇幅分布 | 平均每章 48,209 字；最长 DALMATIA AND MONTENEGRO,（117,363 字），最短 EDINBURGH:（367 字）。 |
 | 原文溯源 | `cache/epub/44344/pg44344.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
 
-1. CHAPTER XLVI.
-2. CHAPTER XLVII.
-3. CHAPTER XLVIII.
-4. CHAPTER XLIX.
-5. CHAPTER L.
-6. CHAPTER LI.
-7. It is a great merit in this work of Mrs
-8. From Zara the course of the narrative ta
-9. A new literary field was shortly after t
+1. CAUCASUS AND THE COSSACKS,
+2. THE CAXTONS. PART X.,
+3. STATISTICAL ACCOUNTS OF SCOTLAND,
+4. THE POETRY OF SACRED AND LEGENDARY ART,
+5. AMERICAN THOUGHTS ON EUROPEAN REVOLUTIONS,
+6. DALMATIA AND MONTENEGRO,
+7. THE ENGLISH UNIVERSITIES AND THEIR REFORMS,
+8. THE CARLISTS IN CATALONIA,
+9. EDINBURGH:
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/49be12255469/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

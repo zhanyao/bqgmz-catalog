@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（239,899 字）。 |
-| 分章依据 | 按「章」标记切分为 35 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,854 字；最长 CHAPTER V--OPPORTUNITY（9,860 字），最短 CHAPTER XXXII--FOUND（4,145 字）。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-chapter），拼接正文 7,608 行。 |
+| 篇幅分布 | 平均每章 6,819 字；最长 CHAPTER V--OPPORTUNITY（9,860 字），最短 CHAPTER XXXII--FOUND（4,145 字）。 |
 | 起止 | 始于「CHAPTER I--THE DAYLIGHT EXPRESS」，止于「CHAPTER XXXV--CONCLUSION」。 |
 | 原文溯源 | `cache/epub/39050/pg39050.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/481e0b1a1e98/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

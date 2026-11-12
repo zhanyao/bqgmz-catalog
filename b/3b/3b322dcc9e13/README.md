@@ -1,7 +1,7 @@
 # Kasperle auf Reisen: Eine lustige Geschichte
 
-**作者** Siebe, Josephine, 1870-1941; Purrmann, Karl, 1877- [Illustrator] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 10 段 · 216,937 字 ｜ **来源** Project Gutenberg
+**作者** Siebe, Josephine, 1870-1941; Purrmann, Karl, 1877- [Illustrator] ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 15 章 · 216,937 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3b322dcc9e13/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（216,937 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,693 字；最长 »Gibst du dein Wort, kleines Kasperle?« Liebetraut hielt des（39,411 字），最短 An Kasperle dachte niemand. Der zog inzwischen vergnügt mit （16,633 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-toc-title-list），拼接正文 4,679 行。 |
+| 篇幅分布 | 平均每章 14,409 字；最长 Zwölftes Kapitel. Kasperle wird ein Gespenst（24,480 字），最短 Fünfzehntes Kapitel. Wieder daheim im Waldhaus（7,462 字）。 |
 | 原文溯源 | `cache/epub/36813/pg36813.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. »Gibst du dein Wort, kleines Kasperle?« Liebetraut hielt des
-2. Da saß nun Kasperle im Gänsestall, und seine weißen und grau
-3. Da war der Wald zu Ende, ein Dorf kam, und über dem stieg au
-4. Oben auf dem Schloß wurde der Lärm lauter und lauter. Jetzt
-5. »Unsinn!« Herr Habermus tat die Türe auf und sah hinein. Da
-6. Und dann fingen auf einmal alle Kinder an zu kaspern. Dummhe
-7. Kasperle richtete sich erschrocken auf und sah sich verwirrt
-8. Von außen war das Zimmer verschlossen, und als Kasperle vers
-9. Der Alte lachte. »Du bist ja ein schnurriger Bube!« sagte er
-10. An Kasperle dachte niemand. Der zog inzwischen vergnügt mit
+1. Erstes Kapitel. In Meister Friedolins Haus
+2. Zweites Kapitel. Der alte Schrank
+3. Drittes Kapitel. Was am Waldsee geschah
+4. Viertes Kapitel. In Protzendorf beim Bauer Strohkopf
+5. Fünftes Kapitel. Gänse hüten
+6. Sechstes Kapitel. Kasperle im Schloß
+7. Siebentes Kapitel. Rosemarie
+8. Achtes Kapitel. Ein neues Heimathaus
+9. Neuntes Kapitel. Kasperle in der Schule
+10. Zehntes Kapitel. Eine neue Gefahr
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/3b322dcc9e13/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/3b322dcc9e13/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

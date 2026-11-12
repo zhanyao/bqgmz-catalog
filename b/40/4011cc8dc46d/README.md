@@ -1,7 +1,7 @@
 # Fábulas
 
-**作者** Samaniego, Félix María, 1745-1801 ｜ **国家/地区** 西班牙 ｜ **体例** 段  
-**规模** 10 段 · 218,508 字 ｜ **来源** Project Gutenberg
+**作者** Samaniego, Félix María, 1745-1801 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 12 章 · 218,508 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4011cc8dc46d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（218,508 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,850 字；最长 Un Herrero tenía（39,678 字），最短 [274] _Grande piel_, está empleado por licencia poética. En （18,500 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-caps-sections），拼接正文 9,825 行。 |
+| 篇幅分布 | 平均每章 18,209 字；最长 ADVERTENCIA.（1）（55,109 字），最短 (LUIS MARTÍN.)（2,387 字）。 |
 | 原文溯源 | `cache/epub/55206/pg55206.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Un Herrero tenía
-2. Con varios ademanes[125] horrorosos
-3. Un miserable enfermo se moría,
-4. Los más autorizados, los más viejos
-5. --«¡Con que de tus recetas exquisitas
-6. Llevado de la dulce melodía
-7. Cierto joven leía
-8. =Pantcha-Tantra= (_Los cinco capítulos_). Libro de apólogos,
-9. [62] De _oso_ se forma el dim. _osezno_.
-10. [274] _Grande piel_, está empleado por licencia poética. En
+1. INTRODUCCIÓN
+2. SAMANIEGO
+3. PRÓLOGO DEL AUTOR
+4. ADVERTENCIA.（1）
+5. ADVERTENCIA.（2）
+6. ADVERTENCIA.（3）
+7. APÉNDICE
+8. J. C.).
+9. P. VIDAL DE LA BLACHE
+10. (ALCÁZAR).
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/4011cc8dc46d/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/4011cc8dc46d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

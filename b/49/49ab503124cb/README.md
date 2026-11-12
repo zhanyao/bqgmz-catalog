@@ -1,7 +1,7 @@
 # Welsh Rarebit Tales
 
-**作者** Cummins, Harle Oren, 1859-1931; Owen, Robert Emmett, 1878-1957 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 138,567 字 ｜ **来源** Project Gutenberg
+**作者** Cummins, Harle Oren, 1859-1931; Owen, Robert Emmett, 1878-1957 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 138,567 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/49ab503124cb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（138,567 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,094 字；最长 “Fire a bullet straight at his heart, so be sure and wear a（40,009 字），最短 “You may talk about the courage that prompts men to do bold （18,433 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-toc-title-list），拼接正文 3,569 行。 |
+| 篇幅分布 | 平均每章 9,032 字；最长 THE SPACE ANNIHILATOR（19,296 字），最短 AT THE END OF THE ROAD（3,258 字）。 |
 | 原文溯源 | `cache/epub/60294/pg60294.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. “Fire a bullet straight at his heart, so be sure and wear a
-2. He seemed like a man living in constant expectation of somet
-3. “What was the use of all this struggle, anyway?” he asked hi
-4. As for Poole Brothers, they couldn’t complain. The attractio
-5. Colonel Wade and I could remember the day when Stewart Sloan
-6. “You may talk about the courage that prompts men to do bold
+1. THE MAN WHO MADE A MAN
+2. IN THE LOWER PASSAGE
+3. THE FOOL AND HIS JOKE
+4. THE MAN AND THE BEAST
+5. AT THE END OF THE ROAD
+6. THE SPACE ANNIHILATOR
+7. A QUESTION OF HONOR
+8. THE WINE OF PANTINELLI
+9. THE STRANGEST FREAK
+10. THE FALSE PROPHET
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/49ab503124cb/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/49ab503124cb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

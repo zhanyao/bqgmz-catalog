@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（299,805 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,779 字；最长 CHAPTER XV SOS（25,315 字），最短 CHAPTER XIX VICTORY（5,386 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 7,166 行。 |
+| 篇幅分布 | 平均每章 15,627 字；最长 CHAPTER XV SOS（25,315 字），最短 CHAPTER XIX VICTORY（5,197 字）。 |
 | 起止 | 始于「CHAPTER I THE NEW WIRELESS MAN」，止于「CHAPTER XIX VICTORY」。 |
 | 原文溯源 | `cache/epub/55864/pg55864.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/461ef62a7f10/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

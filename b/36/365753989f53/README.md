@@ -11,25 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（61,642 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 4,741 字；最长 CHAPTER XIII.--_The Gold of Fairnilee_.（7,318 字），最短 CHAPTER I.--_The Old House_（2,232 字）。 |
-| 起止 | 始于「CHAPTER I.--_The Old House_」，止于「CHAPTER XIII.--_The Gold of Fairnilee_.」。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 1,667 行。 |
+| 篇幅分布 | 平均每章 4,706 字；最长 CHAPTER XIII.--_The Gold of Fairnilee_.（7,318 字），最短 CHAPTER I.--_The Old House（1,775 字）。 |
+| 起止 | 始于「CHAPTER I.--_The Old House」，止于「CHAPTER XIII.--_The Gold of Fairnilee_.」。 |
 | 原文溯源 | `cache/epub/21934/pg21934.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.--_The Old House_
-2. CHAPTER II.--_How Randal’s Father Came Home_
-3. CHAPTER III.--_How Jean was brought to Fairnlee_
-4. CHAPTER IV.--_Randal and Jean._
-5. CHAPTER V._--The Good Folk_
-6. CHAPTER VI.--_The Wishing Well_
-7. CHAPTER VII.--_Where is Randal?_
-8. CHAPTER VIII.--_The Ill Years_
-9. CHAPTER IX.--_The White Roses_
-10. CHAPTER X.--_Out of fairyland_
+1. CHAPTER I.--_The Old House
+2. CHAPTER II.--_How Randal’s Father Came Home
+3. CHAPTER III.--_How Jean was brought to Fairnlee
+4. CHAPTER IV.--_Randal and Jean.
+5. CHAPTER V._--The Good Folk
+6. CHAPTER VI.--_The Wishing Well
+7. CHAPTER VII.--_Where is Randal?
+8. CHAPTER VIII.--_The Ill Years
+9. CHAPTER IX.--_The White Roses
+10. CHAPTER X.--_Out of fairyland
 
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/365753989f53/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

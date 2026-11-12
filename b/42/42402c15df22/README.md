@@ -1,7 +1,7 @@
 # Bodyguard
 
-**作者** Gold, H. L. (Horace Leonard), 1914-1996; Cavat [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 19 题 · 72,838 字 ｜ **来源** Project Gutenberg
+**作者** Gold, H. L. (Horace Leonard), 1914-1996; Cavat [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 72,838 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/42402c15df22/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（72,838 字）。 |
-| 分章依据 | 按「题」标记切分为 19 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,833 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-roman-bare），拼接正文 2,035 行。 |
+| 篇幅分布 | 平均每章 6,140 字；最长 III（9,374 字），最短 XII（4,478 字）。 |
 | 原文溯源 | `cache/epub/50988/pg50988.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Bodyguard
-2. By CHRISTOPHER GRIMM
-3. Illustrated by CAVAT
-4. Gabe studied the newcomer curiously. "So, it's you again?"
-5. II
-6. III
-7. IV
-8. She sat up. "Give me a milgot, Gabe."
-9. Gorman paled. "I'm a respectable attorney."
-10. The lawyer licked his lips. "Give me a chance, will you?"
+1. II
+2. III
+3. IV
+4. V
+5. VI
+6. VII
+7. VIII
+8. IX
+9. X
+10. XI
 
-> 共 19 题，[完整目录与正文 →](https://www.bqgmz.top/b/42402c15df22/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/42402c15df22/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

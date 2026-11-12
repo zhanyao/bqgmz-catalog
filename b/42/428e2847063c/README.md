@@ -1,7 +1,7 @@
 # The Wave: An Egyptian Aftermath
 
 **作者** Blackwood, Algernon, 1869-1951 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 540,739 字 ｜ **来源** Project Gutenberg
+**规模** 33 章 · 540,739 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/428e2847063c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（540,739 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 31,808 字；最长 PART III（196,336 字），最短 CHAPTER XXIII（9,768 字）。 |
+| 分章依据 | 按「章」标记切分为 33 章（auto-chapter），拼接正文 11,976 行。 |
+| 篇幅分布 | 平均每章 16,379 字；最长 CHAPTER XI（31,366 字），最短 CHAPTER VI（8,715 字）。 |
 | 原文溯源 | `cache/epub/33876/pg33876.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. PART III
-2. CHAPTER XIII
-3. CHAPTER XIV
-4. CHAPTER XV
-5. CHAPTER XVI
-6. CHAPTER XVII
-7. CHAPTER XVIII
-8. CHAPTER XIX
-9. CHAPTER XX
-10. CHAPTER XXI
+1. PART I
+2. CHAPTER II
+3. CHAPTER III
+4. CHAPTER IV
+5. CHAPTER V
+6. CHAPTER VI
+7. CHAPTER VII
+8. CHAPTER VIII
+9. CHAPTER IX
+10. CHAPTER X
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/428e2847063c/)
+> 共 33 章，[完整目录与正文 →](https://www.bqgmz.top/b/428e2847063c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

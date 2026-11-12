@@ -1,7 +1,7 @@
 # De l'Allemagne; t. 2
 
-**作者** Staël, Madame de (Anne-Louise-Germaine), 1766-1817 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 59 题 · 548,611 字 ｜ **来源** Project Gutenberg
+**作者** Staël, Madame de (Anne-Louise-Germaine), 1766-1817 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 18 篇 · 548,611 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3ab6a6344e4f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（548,611 字）。 |
-| 分章依据 | 按「题」标记切分为 59 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,298 字。 |
+| 分章依据 | 按「篇」标记切分为 18 篇（通用标记切分），拼接正文 11,165 行。 |
+| 篇幅分布 | 平均每篇 30,469 字；最长 CHAPITRE XXIV（2）（55,762 字），最短 Chapitre XXIV. Luther, Attila, Les Fils de la Vallée, La Croix（490 字）。 |
 | 原文溯源 | `cache/epub/67933/pg67933.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. MME DE STAËL
-2. TOME SECOND
-3. Tous droits réservés
-4. DE L’ALLEMAGNE
-5. SUITE DE LA SECONDE PARTIE
-6. CHAPITRE XXIV
-7. ÉDÉCON.
-8. ATTILA.
-9. ÉDÉCON.
-10. ATTILA.
+1. CHAPITRE XXIV（1）
+2. CHAPITRE XXIV（2）
+3. CHAPITRE XXIV（3）
+4. CHAPITRE XXIX
+5. CHAPITRE XXXI（1）
+6. CHAPITRE XXXI（2）
+7. CHAPITRE IV
+8. CHAPITRE VII
+9. CHAPITRE VIII
+10. CHAPITRE IX
 
-> 共 59 题，[完整目录与正文 →](https://www.bqgmz.top/b/3ab6a6344e4f/)
+> 共 18 篇，[完整目录与正文 →](https://www.bqgmz.top/b/3ab6a6344e4f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

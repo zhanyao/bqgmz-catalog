@@ -1,7 +1,7 @@
 # The Miracle Man
 
-**作者** Packard, Frank L. (Frank Lucius), 1877-1942 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 15 段 · 310,223 字 ｜ **来源** Project Gutenberg
+**作者** Packard, Frank L. (Frank Lucius), 1877-1942 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 23 章 · 310,223 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/452517170625/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（310,223 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,681 字；最长 "Sure--the cure," said Doc Madison earnestly. "The new cult-（40,000 字），最短 He had done his work well! In the first few moments, an hour（9,987 字）。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-toc-title-list），拼接正文 7,988 行。 |
+| 篇幅分布 | 平均每章 13,460 字；最长 XIV KNOTTING THE STRINGS（33,393 字），最短 XXIV VALE!（3,059 字）。 |
+| 起止 | 始于「I THE "ROOST"」，止于「XXIV VALE!」。 |
 | 原文溯源 | `cache/epub/15578/pg15578.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. "Sure--the cure," said Doc Madison earnestly. "The new cult-
-2. "And what," asked Madison, "does the Congress charge?"
-3. "I have never thought much about it," he replied upon the sl
-4. Madison watched the democrat as it started off behind the am
-5. "Sure, I do!" asserted the Flopper doggedly. "If he's done i
-6. He had not gone far, perhaps ten yards--no more. By the grou
-7. "I am stunned and stupified," Madison was saying, and his ha
-8. There was a little exclamation from Helena, and she moved a
-9. "Swipe me!" observed the Flopper, gazing at her anxiously. "
-10. It certainly couldn't be grief over Mrs. Thornton's death--s
+1. I THE "ROOST"
+2. II A NEW CULT
+3. III NEEDLEY
+4. IV THE PATRIARCH
+5. V A STRANGE CONVERSATION
+6. VI OFFICIALLY ENDORSED
+7. VII THE PATRIARCH'S GRAND NIECE
+8. VIII IN WHICH THE BAIT IS NIBBLED
+9. IX THE PILGRIMAGE
+10. X THE MIRACLE
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/452517170625/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/452517170625/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

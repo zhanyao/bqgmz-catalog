@@ -1,7 +1,7 @@
 # Language: Its Nature, Development and Origin
 
 **作者** Jespersen, Otto, 1860-1943 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 957,505 字 ｜ **来源** Project Gutenberg
+**规模** 21 章 · 957,505 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/43e8c5ed5892/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（957,505 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 53,194 字；最长 It is this very fact that countless sent（96,548 字），最短 CHAPTER V（20,107 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 20,569 行。 |
+| 篇幅分布 | 平均每章 43,972 字；最长 CHAPTER II（73,065 字），最短 CHAPTER V（20,107 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXI」。 |
 | 原文溯源 | `cache/epub/53038/pg53038.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/43e8c5ed5892/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/43e8c5ed5892/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

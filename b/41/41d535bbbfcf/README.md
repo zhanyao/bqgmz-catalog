@@ -1,7 +1,7 @@
 # From Paris to Pekin over Siberian Snows A Narrative of a Journey by Sledge over the Snows of European Russia and Siberia, by Caravan Through Mongolia, Across the Gobi Desert and the Great Wall, and by Mule Palanquin Through China to Pekin
 
 **作者** Meignan, Victor, 1846-1938 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 22 章 · 405,365 字 ｜ **来源** Project Gutenberg
+**规模** 23 章 · 405,365 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/41d535bbbfcf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（405,365 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,425 字；最长 CHAPTER XXII.（38,945 字），最短 CHAPTER II.（9,391 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXII.」。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-chapter），拼接正文 8,783 行。 |
+| 篇幅分布 | 平均每章 17,106 字；最长 CHAPTER VIII.（25,656 字），最短 CHAPTER II.（9,391 字）。 |
 | 原文溯源 | `cache/epub/48373/pg48373.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/41d535bbbfcf/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/41d535bbbfcf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

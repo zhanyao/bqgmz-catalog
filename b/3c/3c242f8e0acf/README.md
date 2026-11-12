@@ -1,7 +1,7 @@
 # Alvira: The Heroine of Vesuvius
 
 **作者** O'Reilly, A. J. (Augustine J.) ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 30 章 · 166,092 字 ｜ **来源** Project Gutenberg
+**规模** 41 章 · 166,092 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3c242f8e0acf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（166,092 字）。 |
-| 分章依据 | 按「章」标记切分为 30 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,536 字；最长 Chapter XXIV.（14,157 字），最短 Chapter XXVII.（2,074 字）。 |
-| 起止 | 始于「Chapter I.」，止于「Chapter XXX.」。 |
+| 分章依据 | 按「章」标记切分为 41 章（auto-toc-title-list），拼接正文 3,942 行。 |
+| 篇幅分布 | 平均每章 3,873 字。 |
 | 原文溯源 | `cache/epub/2139/pg2139.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Chapter I.
-2. Chapter II.
-3. Chapter III.
-4. Chapter IV.
-5. Chapter V.
-6. Chapter VI.
-7. Chapter VII.
+1. Paris One Hundred and Fifty Years Ago . . . . . .
+2. The Usurer . . . . . . . . . . . . . . . . . . .
+3. A Mixed Marriage . . . . . . . . . . . . . . . .
+4. A Youth Trained in the Way he should Walk . . . .
+5. Our Heroines . . . . . . . . . . . . . . . . . .
+6. A Secret Revealed . . . . . . . . . . . . . . . .
+7. Tears on Earth, Joy in Heaven . . . . . . . . . .
 8. Chapter VIII.
-9. Chapter IX.
-10. Chapter X.
+9. Madeleine's Happy Death . . . . . . . . . . . . .
+10. One Abyss Invokes Another . . . . . . . . . . . .
 
-> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/3c242f8e0acf/)
+> 共 41 章，[完整目录与正文 →](https://www.bqgmz.top/b/3c242f8e0acf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

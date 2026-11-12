@@ -1,7 +1,7 @@
 # The Brain of an Army: A Popular Account of the German General Staff
 
 **作者** Wilkinson, Spenser, 1853-1937 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 6 章 · 165,397 字 ｜ **来源** Project Gutenberg
+**规模** 5 章 · 165,397 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4af2d86b8568/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（165,397 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 27,566 字。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER VI」。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-part），拼接正文 3,889 行。 |
+| 篇幅分布 | 平均每章 33,079 字；最长 PART I（1）（56,344 字），最短 APPENDIX TO THE ORDER OF FIELD SERVICE OF THE GERMAN ARMY.  Translated（1,663 字）。 |
 | 原文溯源 | `cache/epub/55022/pg55022.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 章）
+## 章节目录（前 5 章）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
+1. PART I（1）
+2. PART I（2）
+3. PART II
+4. PART III
+5. APPENDIX TO THE ORDER OF FIELD SERVICE OF THE GERMAN ARMY. Translated
 
-> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/4af2d86b8568/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/4af2d86b8568/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

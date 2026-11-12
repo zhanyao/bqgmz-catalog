@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（388,098 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,170 字；最长 CHAPTER XX. IN THE CITY WAYS（33,406 字），最短 CHAPTER XIII. THE END OF THE OLD ORDER（6,593 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 9,291 行。 |
+| 篇幅分布 | 平均每章 16,169 字；最长 CHAPTER XX. IN THE CITY WAYS（33,406 字），最短 CHAPTER XIII. THE END OF THE OLD ORDER（6,593 字）。 |
 | 起止 | 始于「CHAPTER I. INSOMNIA」，止于「CHAPTER XXIV. THE COMING OF THE AEROPLANES」。 |
 | 原文溯源 | `cache/epub/775/pg775.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/400e8bdf9a1b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

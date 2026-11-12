@@ -1,7 +1,7 @@
 # St. Paul's Epistle to the Romans: A Practical Exposition. Vol. II
 
-**作者** Gore, Charles, 1853-1932 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 13 段 · 263,694 字 ｜ **来源** Project Gutenberg
+**作者** Gore, Charles, 1853-1932 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 263,694 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/456c80e9e6f6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（263,694 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,284 字；最长 I say the truth in Christ, I lie not, my conscience bearing （40,026 字），最短 The expression 'In necessariis unitas, in non necessariis li（3,540 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 6,001 行。 |
+| 篇幅分布 | 平均每章 32,961 字；最长 DIVISION IV.  Sec. 2.  CHAPTER IX. 14-29.（2）（56,109 字），最短 A PRAYER OF JEREMY TAYLOR.（5,291 字）。 |
 | 原文溯源 | `cache/epub/32674/pg32674.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 章）
 
-1. I say the truth in Christ, I lie not, my conscience bearing
-2. Except the Lord of Sabaoth had left us a seed,
-3. 3. St. Paul incidentally shows us his {56} instinctive feel
-4. 1. There is a true patriotism which must at times be conten
-5. We must almost all of us, in climbing some high hill, have e
-6. [11] Dr. Liddon, with many others, interprets 'according to
-7. This passage played a memorable part in St. Augustine's life
-8. 4. Here, as in x. 7, St. Paul touches upon the descent into
-9. 1. St. Paul has a habit of representing those he writes to
-10. Chrysostom takes the second name to be a woman's--Junia; and
+1. DIVISION IV. Sec. 2. CHAPTER IX. 14-29.（1）
+2. DIVISION IV. Sec. 2. CHAPTER IX. 14-29.（2）
+3. DIVISION IV. Sec. 2. CHAPTER IX. 14-29.（3）
+4. DIVISION V. Sec. 3. CHAPTER XIII. 1-7.
+5. DIVISION V. Sec. 6. CHAPTER XIV. 1-23.
+6. DIVISION VI. CHAPTERS XV. 14-XVI. 27.
+7. DIVISION VI. Sec. 5. CHAPTER XVI. 21-23.
+8. A PRAYER OF JEREMY TAYLOR.
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/456c80e9e6f6/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/456c80e9e6f6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

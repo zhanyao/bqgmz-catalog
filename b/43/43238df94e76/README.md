@@ -1,7 +1,7 @@
 # We're Friends, Now
 
-**作者** Hasse, Henry, 1913-1977; Varga, Mel [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 18 题 · 96,537 字 ｜ **来源** Project Gutenberg
+**作者** Hasse, Henry, 1913-1977; Varga, Mel [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 4 章 · 96,537 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/43238df94e76/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（96,537 字）。 |
-| 分章依据 | 按「题」标记切分为 18 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,363 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-caps-sections），拼接正文 2,588 行。 |
+| 篇幅分布 | 平均每章 24,134 字。 |
 | 原文溯源 | `cache/epub/29488/pg29488.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 章）
 
-1. WE'RE FRIENDS, NOW
-2. By HENRY HASSE
-3. ILLUSTRATED by VARGA
-4. Arnold indicated the empty glass. "Another?"
-5. He waited a moment, then he leaned forward and whispered: "Mandleco!"
-6. Mandleco turned quickly. "Eh? What do you mean?"
-7. Mandleco looked appalled. "Questioning? _Here?_"
-8. Beardsley said sharply: "How did you know that?"
-9. Beardsley nodded approval. "And now Professor Losch, please?"
-10. Beardsley said bluntly: "Yes, I would mind."
+1. WILL YOU SHUT THE DAMN THING OFF!"（1）
+2. WILL YOU SHUT THE DAMN THING OFF!"（2）
+3. ELLERY SHERLOCK : SUB-CIRCUIT REFERRAL: ELLERY SHERLOCK--"
+4. LAST EQUATE--SOLUTION TENABLE--
 
-> 共 18 题，[完整目录与正文 →](https://www.bqgmz.top/b/43238df94e76/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/43238df94e76/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

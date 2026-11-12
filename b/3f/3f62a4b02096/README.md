@@ -1,7 +1,7 @@
 # En ollenkaan muista 4-näytöksinen näytelmä
 
-**作者** Jahnsson, Evald Ferdinand, 1844-1895 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 35 题 · 84,328 字 ｜ **来源** Project Gutenberg
+**作者** Jahnsson, Evald Ferdinand, 1844-1895 ｜ **国家/地区** 芬兰 ｜ **体例** 场  
+**规模** 3 场 · 84,328 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3f62a4b02096/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（84,328 字）。 |
-| 分章依据 | 按「题」标记切分为 35 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,409 字。 |
+| 分章依据 | 按「场」标记切分为 3 场（auto-local-act），拼接正文 2,764 行。 |
+| 篇幅分布 | 平均每场 21,569 字。 |
 | 原文溯源 | `cache/epub/14801/pg14801.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 场）
 
-1. 4-NÄYTÖKSINEN NÄYTELMÄ
-2. HENKILÖT:
-3. ENSIMMÄINEN NÄYTÖS.
-4. PERTTI. Niin mitäshän siitä sitte muuta kuin ryypättiin! _(Juovat.)_
-5. TAAVI _(ottaa maljan ja juo)._
-6. TAAVI. Senkin jaksan tehdä, jos tahdon. _(Juo pitkään.)_
-7. TAAVI. Piimäsuu ollos itse! _(Juo kulauksen viinaa.)_
-8. TAAVI. Minua kamalasti janottaa! _(Juo pitkään viinapullon suusta.)_
-9. TOINEN NÄYTÖS.
-10. AINA. Mitä heidän pitäisi tietämän? --
+1. TOINEN NÄYTÖS.
+2. KOLMAS NAYTÖS.
+3. NELJÄS NÄYTÖS.
 
-> 共 35 题，[完整目录与正文 →](https://www.bqgmz.top/b/3f62a4b02096/)
+> 共 3 场，[完整目录与正文 →](https://www.bqgmz.top/b/3f62a4b02096/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

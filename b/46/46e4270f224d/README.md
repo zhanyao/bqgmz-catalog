@@ -1,7 +1,7 @@
 # The Essays of Arthur Schopenhauer; Counsels and Maxims
 
 **作者** Schopenhauer, Arthur, 1788-1860; Saunders, T. Bailey (Thomas Bailey), 1860-1928 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 26 章 · 209,090 字 ｜ **来源** Project Gutenberg
+**规模** 50 章 · 209,090 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/46e4270f224d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（209,090 字）。 |
-| 分章依据 | 按「章」标记切分为 26 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,041 字。 |
+| 分章依据 | 按「章」标记切分为 50 章（auto-chapter），拼接正文 4,478 行。 |
+| 篇幅分布 | 平均每章 4,147 字。 |
 | 原文溯源 | `cache/epub/10715/pg10715.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER III.
-2. SECTION 22. It is astonishing how easily and how quickly similarity,
-3. SECTION 23. No man can see _over his own height._ Let me explain what
-4. SECTION 24. I feel respect for the man--and he is one in a
-5. SECTION 25. La Rochefoucauld makes the striking remark that it is
-6. SECTION 26. Most men are so thoroughly subjective that nothing really
-7. SECTION 27. When any wrong statement is made, whether in public or
-8. SECTION 28. Men are like children, in that, if you spoil them, they
-9. SECTION 29. It is often the case that people of noble character and
-10. SECTION 30. No man is so formed that he can be left entirely to
+1. CHAPTER I.
+2. SECTION 2. To estimate a man's condition in regard to happiness, it is
+3. SECTION 3. Care should be taken not to build the happiness of life
+4. SECTION 5. Another important element in the wise conduct of life is to
+5. SECTION 6. _Limitations always make for happiness_. We are happy in
+6. SECTION 7. Whether we are in a pleasant or a painful state depends,
+7. SECTION 8. To live a life that shall be entirely prudent and discreet,
+8. SECTION 9. To be self-sufficient, to be all in all to oneself, to
+9. SECTION 10. _Envy_ is natural to man; and still, it is at once a vice
+10. SECTION 11. Give mature and repeated consideration to any plan before
 
-> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/46e4270f224d/)
+> 共 50 章，[完整目录与正文 →](https://www.bqgmz.top/b/46e4270f224d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

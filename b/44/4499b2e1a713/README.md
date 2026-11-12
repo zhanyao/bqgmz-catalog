@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（210,149 字）。 |
-| 分章依据 | 按「章」标记切分为 39 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,388 字；最长 CHAPTER VIII. A NIGHT IN THE PARSON'S KITCHEN（12,120 字），最短 CHAPTER XXVII. TRUE FREEDOM（1,360 字）。 |
+| 分章依据 | 按「章」标记切分为 39 章（auto-chapter），拼接正文 5,122 行。 |
+| 篇幅分布 | 平均每章 5,386 字；最长 CHAPTER VIII. A NIGHT IN THE PARSON'S KITCHEN（12,120 字），最短 CHAPTER XXVII. TRUE FREEDOM（1,360 字）。 |
 | 起止 | 始于「CHAPTER I. THE SOUTHERN SOCIAL CIRCLE」，止于「CHAPTER XXXIX. CONCLUSION」。 |
 | 原文溯源 | `cache/epub/241/pg241.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/4499b2e1a713/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

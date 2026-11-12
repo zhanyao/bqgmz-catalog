@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（437,425 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,871 字；最长 CHAPTER II. THE ANTHRAX（34,317 字），最短 CHAPTER III. ANOTHER PROBER (PERFORATOR)（13,520 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 9,003 行。 |
+| 篇幅分布 | 平均每章 21,714 字；最长 CHAPTER II. THE ANTHRAX（34,317 字），最短 CHAPTER III. ANOTHER PROBER (PERFORATOR)（13,520 字）。 |
 | 起止 | 始于「CHAPTER I. THE HARMAS」，止于「CHAPTER XX. INDUSTRIAL CHEMISTRY」。 |
 | 原文溯源 | `cache/epub/3422/pg3422.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/3d01b6af5078/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

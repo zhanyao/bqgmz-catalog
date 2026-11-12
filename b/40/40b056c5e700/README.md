@@ -1,7 +1,7 @@
 # Eclectic School Readings: Stories from Life
 
-**作者** Marden, Orison Swett, 1848-1924 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 59 题 · 225,173 字 ｜ **来源** Project Gutenberg
+**作者** Marden, Orison Swett, 1848-1924 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 35 篇 · 225,173 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/40b056c5e700/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（225,173 字）。 |
-| 分章依据 | 按「题」标记切分为 59 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,816 字。 |
+| 分章依据 | 按「篇」标记切分为 35 篇（通用标记切分），拼接正文 5,436 行。 |
+| 篇幅分布 | 平均每篇 6,429 字。 |
 | 原文溯源 | `cache/epub/4597/pg4597.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. ECLECTIC SCHOOL READINGS: STORIES FROM LIFE
-2. A BOOK FOR YOUNG PEOPLE
-3. BY
-4. ORISON SWETT MARDEN
-5. PREFACE
-6. O.S.M.
-7. CONTENTS
-8. STORIES FROM LIFE
-9. TO-DAY
-10. THE GREEK SLAVE WHO WON THE OLIVE CROWN
+1. ORISON SWETT MARDEN
+2. PREFACE
+3. "THE MILL BOY OF THE SLASHES"
+4. THE GREEK SLAVE WHO WON THE OLIVE CROWN
+5. "V."
+6. THE EVOLUTION OF A VIOLINIST
+7. THE LESSON OF THE TEAKETTLE
+8. HOW THE ART OF PRINTING WAS DISCOVERED
+9. SEA FEVER AND WHAT IT LED TO
+10. THE MIGHT OF PATIENCE
 
-> 共 59 题，[完整目录与正文 →](https://www.bqgmz.top/b/40b056c5e700/)
+> 共 35 篇，[完整目录与正文 →](https://www.bqgmz.top/b/40b056c5e700/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

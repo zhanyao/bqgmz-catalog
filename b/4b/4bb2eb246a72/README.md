@@ -1,7 +1,7 @@
 # A Distributional Study of the Amphibians of the Isthmus of Tehuantepec, México
 
-**作者** Duellman, William Edward, 1930-2022 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 120,894 字 ｜ **来源** Project Gutenberg
+**作者** Duellman, William Edward, 1930-2022 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 19 章 · 120,894 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4bb2eb246a72/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（120,894 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,149 字；最长 Among the abundant and dominant trees in this forest are _Sw（39,578 字），最短 2. A distributional study of the amphibians of the isthmus（883 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-toc-title-list），拼接正文 3,258 行。 |
+| 篇幅分布 | 平均每章 5,785 字；最长 ACCOUNTS OF SPECIES（41,028 字），最短 THE AMPHIBIAN FAUNA OF THE LOWLANDS（404 字）。 |
 | 原文溯源 | `cache/epub/38440/pg38440.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. Among the abundant and dominant trees in this forest are _Sw
-2. Environments are vertically stratified in the rainforests. T
-3. The amount of differentiation in isolated populations of amp
-4. Large congregations were breeding at Tehuantepec on July 5,
-5. Specimens from the Pacific lowlands are typical of _Gastroph
-6. 2. A distributional study of the amphibians of the isthmus
+1. INTRODUCTION
+2. Acknowledgments
+3. Field Studies in the Isthmus of Tehuantepec
+4. Sources of Material
+5. DESCRIPTION OF THE ISTHMUS OF TEHUANTEPEC
+6. Physiography
+7. Climate
+8. Vegetation
+9. The Sierra de los Tuxtlas
+10. GAZETTEER
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/4bb2eb246a72/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/4bb2eb246a72/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

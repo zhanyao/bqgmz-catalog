@@ -1,7 +1,7 @@
 # The Young Forester
 
-**作者** Grey, Zane, 1872-1939 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 30 题 · 214,302 字 ｜ **来源** Project Gutenberg
+**作者** Grey, Zane, 1872-1939 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 214,302 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3b3f41c2a5e4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（214,302 字）。 |
-| 分章依据 | 按「题」标记切分为 30 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,143 字。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-roman-title），拼接正文 5,551 行。 |
+| 篇幅分布 | 平均每章 12,603 字；最长 VI. DICK LESLIE, RANGER（19,206 字），最短 IV. LOST IN THE FOREST（7,426 字）。 |
+| 起止 | 始于「I. CHOOSING A PROFESSION」，止于「XVIII. CONCLUSION」。 |
 | 原文溯源 | `cache/epub/1882/pg1882.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Bill Brewer
-2. THE YOUNG FORESTER
-3. By Zane Grey
-4. I. CHOOSING A PROFESSION
-5. I have to admit that I was repeating what I had read.
-6. II. THE MAN ON THE TRAIN
-7. I stared, and even stretched my neck out of the window.
-8. I told him I was very sorry, and hoped he would get well soon.
-9. III. THE TRAIL
-10. I had missed the trail! I was lost in the forest!
+1. I. CHOOSING A PROFESSION
+2. II. THE MAN ON THE TRAIN
+3. III. THE TRAIL
+4. IV. LOST IN THE FOREST
+5. V. THE SAWMILL
+6. VI. DICK LESLIE, RANGER
+7. VIII. THE LUMBERMEN
+8. IX. TAKEN INTO THE MOUNTAINS
+9. X. ESCAPE
+10. XI. THE OLD HUNTER
 
-> 共 30 题，[完整目录与正文 →](https://www.bqgmz.top/b/3b3f41c2a5e4/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/3b3f41c2a5e4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

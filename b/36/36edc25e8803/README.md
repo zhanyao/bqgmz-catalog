@@ -1,7 +1,7 @@
 # The Confessions of Jean Jacques Rousseau — Volume 07
 
-**作者** Rousseau, Jean-Jacques, 1712-1778 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 147,159 字 ｜ **来源** Project Gutenberg
+**作者** Rousseau, Jean-Jacques, 1712-1778 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 128 篇 · 147,159 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/36edc25e8803/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（147,159 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,022 字；最长 The greatest obstacle to making the experiment of my system （39,676 字），最短 I here mark that of my first acquaintance with Madam D'Epina（7,622 字）。 |
+| 分章依据 | 按「篇」标记切分为 128 篇（通用标记切分），拼接正文 2,795 行。 |
+| 篇幅分布 | 平均每篇 1,148 字。 |
 | 原文溯源 | `cache/epub/3907/pg3907.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 篇）
 
-1. The greatest obstacle to making the experiment of my system
-2. Between my repasts, when I did not either read or write or w
-3. He was so incapable of bearing the least constraint, that on
-4. I should have had a much stronger inclination to a young lad
-5. The only person by whom I was ill received, and from whom I
-6. "SIR: In you two talents, which hitherto have always been se
-7. I here mark that of my first acquaintance with Madam D'Epina
+1. After two years' silence and patience, and notwithstanding my
+2. My peaceful youth has been seen to pass away calmly and agreeably without
+3. The history of the first part of my life was written from memory, and is
+4. I have but one faithful guide on which I can depend: this is the chain of
+5. The second part, it is likewise to be remembered, contains nothing in
+6. At present my head and memory are become so weak as to render me almost
+7. In my first part I brought down my narrative to my departure with
+8. I made some stay at Lyons to visit my acquaintance, procure letters of
+9. I likewise saw M. Bordes, with whom I had been long acquainted, and who
+10. I visited the musician David, who, in one of my former journeys, and in
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/36edc25e8803/)
+> 共 128 篇，[完整目录与正文 →](https://www.bqgmz.top/b/36edc25e8803/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

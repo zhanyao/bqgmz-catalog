@@ -1,7 +1,7 @@
 # First and Last
 
-**作者** Belloc, Hilaire, 1870-1953 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 50 题 · 307,302 字 ｜ **来源** Project Gutenberg
+**作者** Belloc, Hilaire, 1870-1953 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 38 章 · 307,302 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/38310f93d644/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（307,302 字）。 |
-| 分章依据 | 按「题」标记切分为 50 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,146 字。 |
+| 分章依据 | 按「章」标记切分为 38 章（auto-toc-title-list），拼接正文 6,891 行。 |
+| 篇幅分布 | 平均每章 8,069 字；最长 REALITY（25,470 字），最短 ON WEIGHING ANCHOR（4,233 字）。 |
 | 原文溯源 | `cache/epub/7352/pg7352.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. FIRST AND LAST
-2. BY H. BELLOC
-3. CONTENTS
-4. FIRST AND LAST
-5. On Weighing Anchor
-6. The Reveillon
-7. On Cheeses
-8. I do not write vainly. It is a profound thing.
-9. The Captain of Industry
-10. The Inventor
+1. ON WEIGHING ANCHOR
+2. THE REVEILLON
+3. ON CHEESES
+4. THE CAPTAIN OF INDUSTRY
+5. THE INVENTOR
+6. THE VIEWS OF ENGLAND
+7. THE LUNATIC
+8. THE INHERITANCE OF HUMOUR
+9. THE OLD GENTLEMAN’S OPINIONS
+10. ON HISTORICAL EVIDENCE
 
-> 共 50 题，[完整目录与正文 →](https://www.bqgmz.top/b/38310f93d644/)
+> 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/38310f93d644/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

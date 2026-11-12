@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（233,011 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,301 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 6,027 行。 |
+| 篇幅分布 | 平均每章 14,958 字；最长 CHAPTER I. THE RETURN.（30,745 字），最短 CHAPTER III. JACK SHEPPARD'S QUARREL WITH JONATHAN WILD.（5,244 字）。 |
 | 起止 | 始于「CHAPTER I. THE RETURN.」，止于「CHAPTER X. HOW JACK SHEPPARD GOT OUT OF THE CONDEMNED HOLD.」。 |
 | 原文溯源 | `cache/epub/44522/pg44522.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/3ff6e97f8e3a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

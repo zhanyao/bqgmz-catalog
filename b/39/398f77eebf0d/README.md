@@ -1,7 +1,7 @@
 # Contos do Norte
 
-**作者** Carvalho, João Marques de, 1866-1910 ｜ **国家/地区** 葡萄牙 ｜ **体例** 段  
-**规模** 4 段 · 88,803 字 ｜ **来源** Project Gutenberg
+**作者** Carvalho, João Marques de, 1866-1910 ｜ **国家/地区** 葡萄牙 ｜ **体例** 章  
+**规模** 7 章 · 88,803 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/398f77eebf0d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（88,803 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,200 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-caps-sections），拼接正文 2,244 行。 |
+| 篇幅分布 | 平均每章 12,686 字；最长 CONTO DO NATAL（19,381 字），最短 MARQUES DE CARVALHO.（2,874 字）。 |
 | 原文溯源 | `cache/epub/28691/pg28691.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 7 章）
 
-1. Uma feita, lembrou-se de buscar na historia antiga assumpto
-2. Não voltou á tarde. Toda a noite, esperou-o Paquinha debalde
-3. A villa em peso acudira á solennidade, attrahida pelo repiqu
-4. E Marques de Carvalho bem o merece, pois os seus trabalhos s
+1. MARQUES DE CARVALHO.
+2. REPRESALIAS
+3. UM EXGOTTADO
+4. CONTO DO NATAL
+5. O BANHO DA TAPUIA
+6. UM CASO DA CABANADA
+7. OPINIÕES DA IMPRENSA
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/398f77eebf0d/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/398f77eebf0d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

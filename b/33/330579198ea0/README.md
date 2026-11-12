@@ -1,7 +1,7 @@
 # Variétés Historiques et Littéraires (01/10) Recueil de pièces volantes rares et curieuses en prose et en vers
 
-**作者** Fournier, Edouard, 1819-1880 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 61 题 · 427,693 字 ｜ **来源** Project Gutenberg
+**作者** Fournier, Edouard, 1819-1880 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 11 篇 · 427,693 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/330579198ea0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（427,693 字）。 |
-| 分章依据 | 按「题」标记切分为 61 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,011 字。 |
+| 分章依据 | 按「篇」标记切分为 11 篇（auto-magazine），拼接正文 10,283 行。 |
+| 篇幅分布 | 平均每篇 38,881 字；最长 II, 78-79.)]（137,283 字），最短 TABLE DES MATIÈRES（3,592 字）。 |
 | 原文溯源 | `cache/epub/42464/pg42464.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. VARIÉTÉS
-2. HISTORIQUES
-3. ET LITTÉRAIRES,
-4. PAR
-5. M. ÉDOUARD FOURNIER
-6. TOME I
-7. MDCCCLV
-8. PRÉFACE.
-9. M. DC. XVII.
-10. AUX LECTEURS.
+1. AUX LECTEURS
+2. SUR LES CHOSES PETITES
+3. SUITE DES CHOSES PETITES
+4. PREMIÈRE HISTOIRE
+5. DEUXIÈME HISTOIRE
+6. M. DC. XXIII. In-8º
+7. II, 78-79.)]
+8. FIZES[184]
+9. MESSIEURS,
+10. MARVILLE
 
-> 共 61 题，[完整目录与正文 →](https://www.bqgmz.top/b/330579198ea0/)
+> 共 11 篇，[完整目录与正文 →](https://www.bqgmz.top/b/330579198ea0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

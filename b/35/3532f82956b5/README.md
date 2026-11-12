@@ -1,7 +1,7 @@
 # Comrade Kropotkin
 
-**作者** Robinson, Victor, 1886-1947 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 133,031 字 ｜ **来源** Project Gutenberg
+**作者** Robinson, Victor, 1886-1947 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 133,031 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3532f82956b5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（133,031 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,171 字；最长 And at the same time falls upon his ear the plaintive song o（37,453 字），最短 With the lavishness of the mountain cataract that wastes its（13,009 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 3,233 行。 |
+| 篇幅分布 | 平均每章 13,303 字；最长 FOREWORD（30,429 字），最短 VICTOR ROBINSON（829 字）。 |
 | 原文溯源 | `cache/epub/34745/pg34745.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. And at the same time falls upon his ear the plaintive song o
-2. [19] This is the sentiment of all Russian Rebels. When the b
-3. When he grew to manhood, he departed from Russia. His spirit
-4. Neither can it be claimed that Kropotkin's stylistic deficie
-5. [49] Without venturing my own opinion, I must say that in th
-6. With the lavishness of the mountain cataract that wastes its
+1. FOREWORD
+2. MISHKIN.
+3. FOOTNOTES:
+4. FOOTNOTES:
+5. FOOTNOTES:
+6. FOOTNOTES:
+7. FOOTNOTES:
+8. MACDONALD, M. P.
+9. VICTOR ROBINSON
+10. NEVER-TOLD TALES
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/3532f82956b5/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/3532f82956b5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

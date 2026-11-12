@@ -1,7 +1,7 @@
 # The Dog
 
-**作者** Youatt, William, 1776-1847; Lewis, Elisha J. (Elisha Jarrett), 1820-1877 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 851,262 字 ｜ **来源** Project Gutenberg
+**作者** Youatt, William, 1776-1847; Lewis, Elisha J. (Elisha Jarrett), 1820-1877 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 74 篇 · 851,262 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3965111ca5b6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（851,262 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 47,292 字；最长 CHAPTER II.（91,593 字），最短 CHAPTER IV.（13,127 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVII.」。 |
+| 分章依据 | 按「篇」标记切分为 74 篇（通用标记切分），拼接正文 19,961 行。 |
+| 篇幅分布 | 平均每篇 10,521 字。 |
 | 原文溯源 | `cache/epub/9478/pg9478.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. is of a middle size, between the harrier
-5. CHAPTER IV.
-6. CHAPTER V.
-7. CHAPTER VI.
-8. CHAPTER VII.
-9. CHAPTER VIII.
-10. CHAPTER IX.
+1. THE WILD DOG OF DAKHUN
+2. THE WILD DOG OF THE MAHRATTAS
+3. DOMESTICATED DOGS OF THE FIRST DIVISION
+4. THE ALBANIAN DOG
+5. THE SCOTCH GREYHOUND
+6. THE HIGHLAND GREYHOUND, OR DEER-HOUND
+7. THE IRISH WOLF-DOG
+8. THE RUSSIAN GREYHOUND
+9. THE GRECIAN GREYHOUND
+10. THE TURKISH GREYHOUND
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/3965111ca5b6/)
+> 共 74 篇，[完整目录与正文 →](https://www.bqgmz.top/b/3965111ca5b6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

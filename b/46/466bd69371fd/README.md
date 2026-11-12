@@ -1,7 +1,7 @@
 # The humour of Spain.
 
 **作者** Taylor, Susette M. [Compiler]; Millar, H. R. (Harold Robert), 1869-1942 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 5 章 · 462,032 字 ｜ **来源** Project Gutenberg
+**规模** 39 章 · 462,032 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/466bd69371fd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（462,032 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 92,406 字；最长 SCENE I.—_Country near Zalamea._ _Enter_ REBOLLEDO, CHISPA, _and（196,240 字），最短 SCENE II.—_Zalamea, before_ CRESPO’S _House_. _Enter_ DON MENDO _and_ NUÑO.（10,467 字）。 |
+| 分章依据 | 按「章」标记切分为 39 章（auto-caps-sections），拼接正文 12,841 行。 |
+| 篇幅分布 | 平均每章 11,787 字；最长 (A TALE AFTER THE STYLE OF AN OLD CHRONICLE.)（61,313 字），最短 THE ACCOMMODATING FARMER.（306 字）。 |
 | 原文溯源 | `cache/epub/69530/pg69530.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 章）
+## 章节目录（前 10 章）
 
-1. SCENE I.—_Country near Zalamea._ _Enter_ REBOLLEDO, CHISPA, _and
-2. SCENE II.—_Zalamea, before_ CRESPO’S _House_. _Enter_ DON MENDO _and_ NUÑO.
-3. SCENE III.—ISABEL’S _Garret_. ISABEL _a
-4. “At last I reached the fort. What a lot
-5. The old man touch’d the door, the door
+1. CARRION WHEN THE LION BREAKS LOOSE.
+2. ROSE-WATER.”]
+3. THE TAMING OF THE SHREW.
+4. A LONG TALE.
+5. ELECTIO NULLA DEBET ESSE IN MALIS.
+6. THE ACCOMMODATING FARMER.
+7. THE ACCOMMODATING LORD.
+8. DIAMOND CUT DIAMOND.
+9. THE BEST WIFE IN THE WORLD.
+10. HOW LAZARO SERVES A BLIND MAN.
 
-> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/466bd69371fd/)
+> 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/466bd69371fd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

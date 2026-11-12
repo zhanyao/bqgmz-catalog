@@ -1,7 +1,7 @@
 # Harper's Young People, August 15, 1882 An Illustrated Weekly
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 3 段 · 74,848 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 74,848 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/35af97c890b3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（74,848 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 24,949 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 2,082 行。 |
+| 篇幅分布 | 平均每章 7,484 字；最长 SOMETHING ABOUT LIGHTNING.（18,996 字），最短 AUTHOR OF "THE MORAL-PIRATES," "THE CRUISE OF THE 'GHOST,'" ETC., ETC.（369 字）。 |
 | 原文溯源 | `cache/epub/59410/pg59410.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 10 章）
 
-1. Leo would leap away, barking joyfully, and in an hour return
-2. The passage of one of these fire-balls is nearly always in a
-3. Twenty-five dolls! Dear me! what a large family! Don't you s
+1. AUTHOR OF "THE MORAL-PIRATES," "THE CRUISE OF THE 'GHOST,'" ETC., ETC.
+2. CHAPTER I.
+3. LEO.
+4. ABNER'S DEATH.
+5. SOMETHING ABOUT LIGHTNING.
+6. R. M. G.
+7. CHUB.
+8. C. Y. P. R. U.
+9. THREE DIAMONDS.
+10. NINE HOLES, OR EGG-HAT.
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/35af97c890b3/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/35af97c890b3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

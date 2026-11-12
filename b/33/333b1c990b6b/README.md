@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（434,937 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 33,456 字；最长 SECTION C. FORMS OF EXPRESSION, THOUGHT, INTEREST（85,101 字），最短 CHAPTER III（14,579 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 9,565 行。 |
+| 篇幅分布 | 平均每章 31,979 字；最长 CHAPTER XII[65]（89,612 字），最短 Appendix B of _The Proceedings of the First Colloquium on Personality（3,788 字）。 |
 | 原文溯源 | `cache/epub/78273/pg78273.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -31,4 +31,4 @@
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/333b1c990b6b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

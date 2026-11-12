@@ -1,7 +1,7 @@
 # L'amic Fritz
 
-**作者** Erckmann-Chatrian; Sitjar, Joan [Translator] ｜ **国家/地区** 加泰罗尼亚 ｜ **体例** 题  
-**规模** 47 题 · 287,618 字 ｜ **来源** Project Gutenberg
+**作者** Erckmann-Chatrian; Sitjar, Joan [Translator] ｜ **国家/地区** 加泰罗尼亚 ｜ **体例** 章  
+**规模** 18 章 · 287,618 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/40e23e03c26b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（287,618 字）。 |
-| 分章依据 | 按「题」标记切分为 47 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,119 字。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-roman-bare），拼接正文 8,303 行。 |
+| 篇幅分布 | 平均每章 15,976 字；最长 XVI（41,847 字），最短 XVIII（4,443 字）。 |
 | 原文溯源 | `cache/epub/17819/pg17819.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Ricard Samarra
-2. L'AMIC FRITZ.
-3. I.
-4. I l'endemà veient que el dia abans havia raonat bé, afegí encara:
-5. II.
-6. III.
-7. I sa veu ressonà sota l'enlairada volta grisa.
-8. IV.
-9. I la porta es tancà de bell nou.
-10. I eixiren.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX.
+10. X.
 
-> 共 47 题，[完整目录与正文 →](https://www.bqgmz.top/b/40e23e03c26b/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/40e23e03c26b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

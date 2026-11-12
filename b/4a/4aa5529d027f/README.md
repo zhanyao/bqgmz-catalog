@@ -1,7 +1,7 @@
 # The Wright Brothers' Engines and Their Design
 
-**作者** Hobbs, Leonard S., 1896-1977 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 134,654 字 ｜ **来源** Project Gutenberg
+**作者** Hobbs, Leonard S., 1896-1977 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 134,654 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4aa5529d027f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（134,654 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,442 字；最长 [Illustration: Figure 1.--First flight engine, 1903, valve s（39,196 字），最短 The Wrights were constantly experimenting and altering, and （15,129 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-toc-title-list），拼接正文 3,016 行。 |
+| 篇幅分布 | 平均每章 9,746 字。 |
 | 原文溯源 | `cache/epub/38739/pg38739.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. [Illustration: Figure 1.--First flight engine, 1903, valve s
-2. At this point the question arises: Why was the engine layout
-3. In one matter it would seem that they were quite fortunate.
-4. It seems probable that a change was initially made mandatory
-5. At least two different general carburetion and induction sys
-6. The Wrights were constantly experimenting and altering, and
+1. The Beginnings
+2. The Engine of the First Flight, 1903
+3. The Engines With Which They Mastered the Art of Flying
+4. The Four-Cylinder Vertical Demonstration Engine and the First
+5. Production Engine
+6. The Eight-Cylinder Racing Engine
+7. The Six-Cylinder Vertical Engine
+8. Minor Design Details and Performance of the Wright Engines
+9. Characteristics of the Wright Flight Engines
+10. The Wright Shop Engine
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/4aa5529d027f/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/4aa5529d027f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

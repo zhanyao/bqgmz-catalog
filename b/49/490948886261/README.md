@@ -1,7 +1,7 @@
 # Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917
 
 **作者** Lumholtz, Carl, 1851-1922 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 36 章 · 619,413 字 ｜ **来源** Project Gutenberg
+**规模** 35 章 · 619,413 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/490948886261/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（619,413 字）。 |
-| 分章依据 | 按「章」标记切分为 36 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,205 字；最长 CHAPTER XXXV（100,667 字），最短 CHAPTER X（5,957 字）。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-chapter），拼接正文 15,286 行。 |
+| 篇幅分布 | 平均每章 15,889 字；最长 CHAPTER XXXV（91,930 字），最短 CHAPTER X（5,957 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXXV」。 |
 | 原文溯源 | `cache/epub/7489/pg7489.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/490948886261/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/490948886261/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

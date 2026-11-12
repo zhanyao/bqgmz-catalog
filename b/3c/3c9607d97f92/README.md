@@ -1,7 +1,7 @@
 # Mimsy's Joke
 
-**作者** Grimes, Millard ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 5 题 · 13,987 字 ｜ **来源** Project Gutenberg
+**作者** Grimes, Millard ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 13,987 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3c9607d97f92/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（13,987 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,797 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 373 行。 |
+| 篇幅分布 | 平均每篇 13,987 字。 |
 | 原文溯源 | `cache/epub/63749/pg63749.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 1 篇）
 
-1. MIMSY'S JOKE
-2. By MILLARD GRIMES
-3. Boone's voice quavered. "It speaks English. That's not possible."
-4. Braun gasped, "_Dogs_."
-5. Staang raised himself to elbows. "Wait, will you not take me with you?"
+1. Mimsy's Joke
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/3c9607d97f92/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/3c9607d97f92/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

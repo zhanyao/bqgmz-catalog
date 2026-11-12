@@ -1,7 +1,7 @@
 # The Bird Watcher in the Shetlands, with Some Notes on Seals—and Digressions
 
 **作者** Selous, Edmund, 1857-1934; Smit, Joseph, 1836-1929 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 35 章 · 474,908 字 ｜ **来源** Project Gutenberg
+**规模** 36 章 · 474,908 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/41a72f195249/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（474,908 字）。 |
-| 分章依据 | 按「章」标记切分为 35 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 13,568 字；最长 CHAPTER XXXV（65,048 字），最短 CHAPTER VI（1,720 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXXV」。 |
+| 分章依据 | 按「章」标记切分为 36 章（auto-chapter），拼接正文 9,486 行。 |
+| 篇幅分布 | 平均每章 12,558 字；最长 CHAPTER XXX（29,023 字），最短 CHAPTER VI（1,720 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXXVI」。 |
 | 原文溯源 | `cache/epub/51429/pg51429.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/41a72f195249/)
+> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/41a72f195249/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

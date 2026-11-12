@@ -1,7 +1,7 @@
 # Las mejores tradiciones peruanas
 
-**作者** Palma, Ricardo, 1833-1919 ｜ **国家/地区** 西班牙 ｜ **体例** 题  
-**规模** 206 题 · 423,639 字 ｜ **来源** Project Gutenberg
+**作者** Palma, Ricardo, 1833-1919 ｜ **国家/地区** 西班牙 ｜ **体例** 篇  
+**规模** 7 篇 · 423,639 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/356f92a6f66c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（423,639 字）。 |
-| 分章依据 | 按「题」标记切分为 206 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,056 字。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（auto-title-block），拼接正文 11,504 行。 |
+| 篇幅分布 | 平均每篇 56,532 字；最长 (_A D. Adolfo E. Dávila_)（111,006 字），最短 DE LA SOCIEDAD ANTROPOLÓGICA DE PARÍS（1,093 字）。 |
 | 原文溯源 | `cache/epub/77298/pg77298.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 篇）
 
-1. LAS MEJORES TRADICIONES PERUANAS
-2. POR
-3. RICARDO PALMA
-4. CASA EDITORIAL MAUCCI
-5. Calle de Mallorca, núm. 166
-6. BARCELONA
-7. Es propiedad de la Casa Editorial Maucci
-8. RICARDO PALMA
-9. AUTOBIOGRAFÍA
-10. LAS MEJORES TRADICIONES PERUANAS
+1. III
+2. VII
+3. III
+4. (_A D. Adolfo E. Dávila_)
+5. III
+6. CUENTO DISPARATADO DE LA TÍA CATITA
+7. DE LA SOCIEDAD ANTROPOLÓGICA DE PARÍS
 
-> 共 206 题，[完整目录与正文 →](https://www.bqgmz.top/b/356f92a6f66c/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/356f92a6f66c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

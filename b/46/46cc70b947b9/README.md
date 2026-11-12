@@ -1,7 +1,7 @@
 # Bell's Cathedrals: The Cathedral Church of Exeter A Description of Its Fabric and a Brief History of the Episcopal See
 
-**作者** Addleshaw, Percy, 1866-1916 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 125,202 字 ｜ **来源** Project Gutenberg
+**作者** Addleshaw, Percy, 1866-1916 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 125,202 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/46cc70b947b9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（125,202 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,867 字；最长 Quivil's successor was Thomas De Bytton, Dean of Wells. Unde（39,909 字），最短 Another building that has played a notable part in the histo（6,001 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 2,894 行。 |
+| 篇幅分布 | 平均每章 12,059 字；最长 HISTORY OF THE CHURCH OF ST. MARY AND ST. PETER IN EXETER.（33,899 字），最短 (FROM A PRINT IN THE BRITISH MUSEUM).]（407 字）。 |
 | 原文溯源 | `cache/epub/19424/pg19424.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. Quivil's successor was Thomas De Bytton, Dean of Wells. Unde
-2. The best views of the building are those to be got from a di
-3. "In Devonshire
-4. At the north end of the ambulatory is #Speke's Chantry#, als
-5. When, in the beginning of the seventeenth century, Sir Thoma
-6. Another building that has played a notable part in the histo
+1. PREFACE TO THE THIRD EDITION
+2. HISTORY OF THE CHURCH OF ST. MARY AND ST. PETER IN EXETER.
+3. THE EXTERIOR.
+4. MONUMENTS IN THE NAVE
+5. (FROM A PRINT IN THE BRITISH MUSEUM).]
+6. (FROM BRITTON'S 'EXETER,' 1826).]
+7. DRAWN BY H.P. CLIFFORD.]
+8. TOMBS IN THE CHOIR AND CHOIR AISLES.
+9. THE DIOCESE OF EXETER.
+10. ROUGEMONT CASTLE AND THE GUILDHALL.
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/46cc70b947b9/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/46cc70b947b9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

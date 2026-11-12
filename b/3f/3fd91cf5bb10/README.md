@@ -1,7 +1,7 @@
 # The Pilots of Pomona: A Story of the Orkney Islands
 
 **作者** Leighton, Robert, 1859-1934 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 43 章 · 374,662 字 ｜ **来源** Project Gutenberg
+**规模** 44 章 · 374,662 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3fd91cf5bb10/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（374,662 字）。 |
-| 分章依据 | 按「章」标记切分为 43 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,713 字；最长 Chapter XXXIX. An Unprofessional Inquiry.（21,439 字），最短 Chapter XIII. In Which I Receive A Present.（2,886 字）。 |
-| 起止 | 始于「Chapter I. In Which I Am Late For School.」，止于「Chapter XLIII. Thora's Answer.」。 |
+| 分章依据 | 按「章」标记切分为 44 章（auto-toc-title-list），拼接正文 10,036 行。 |
+| 篇幅分布 | 平均每章 8,483 字。 |
 | 原文溯源 | `cache/epub/14149/pg14149.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. Chapter IX. Captain Gordon.
 10. Chapter X. The Dominie Explains.
 
-> 共 43 章，[完整目录与正文 →](https://www.bqgmz.top/b/3fd91cf5bb10/)
+> 共 44 章，[完整目录与正文 →](https://www.bqgmz.top/b/3fd91cf5bb10/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

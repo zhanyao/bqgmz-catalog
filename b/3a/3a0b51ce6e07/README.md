@@ -1,7 +1,7 @@
 # Oxford Lectures on Poetry
 
-**作者** Bradley, A. C. (Andrew Cecil), 1851-1935 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 74 题 · 580,701 字 ｜ **来源** Project Gutenberg
+**作者** Bradley, A. C. (Andrew Cecil), 1851-1935 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 24 章 · 580,701 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3a0b51ce6e07/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（580,701 字）。 |
-| 分章依据 | 按「题」标记切分为 74 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,847 字。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-num），拼接正文 12,104 行。 |
+| 篇幅分布 | 平均每章 17,861 字；最长 4.（部5）（93,224 字），最短 2.（部6）（3,657 字）。 |
+| 起止 | 始于「1.」，止于「5.（部6）」。 |
 | 原文溯源 | `cache/epub/36773/pg36773.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SHAKESPEAREAN TRAGEDY
-2. MACMILLAN & CO LTD.
-3. BY
-4. MACMILLAN
-5. London . Melbourne . Toronto
-6. PRINTED IN GREAT BRITAIN
-7. PREFACE
-8. NOTE TO THE SECOND EDITION
-9. CONTENTS
-10. THE SUBLIME 37
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 1.（部2）
+6. 2.（部2）
+7. 3.（部2）
+8. 4.（部2）
+9. 1.（部3）
+10. 2.（部3）
 
-> 共 74 题，[完整目录与正文 →](https://www.bqgmz.top/b/3a0b51ce6e07/)
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/3a0b51ce6e07/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

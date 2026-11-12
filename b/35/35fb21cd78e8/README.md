@@ -1,7 +1,7 @@
 # The Englishman's House: A Practical Guide for Selecting and Building a House
 
-**作者** Richardson, C. J. (Charles James), 1806-1871 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 18 段 · 375,341 字 ｜ **来源** Project Gutenberg
+**作者** Richardson, C. J. (Charles James), 1806-1871 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 375,341 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/35fb21cd78e8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（375,341 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,852 字；最长 In respect to these “natural” and consequently primitive “sy（39,927 字），最短 “Interesting and curious. Contains as many as it was possibl（14,852 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-caps-sections），拼接正文 10,122 行。 |
+| 篇幅分布 | 平均每章 17,060 字；最长 INTRODUCTION                                                           3（52,006 字），最短 FOOTNOTES:（677 字）。 |
 | 原文溯源 | `cache/epub/60759/pg60759.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. In respect to these “natural” and consequently primitive “sy
-2. An opposite effect to that of warming is frequently desirabl
-3. There are numerous similar hamlets and villages in England,
-4. This mode of construction is now being practically tested in
-5. More land was purchased by the Royal Commissioners to make u
-6. bounds; if a cheap large house with plenty of accommodation
-7. The plan was an endeavour to make the most of the space affo
-8. In Northamptonshire the half-timbered houses are commonly ca
-9. The attic plan (page 292) contained three large rooms for th
-10. sculpture is arranged on each side of the gallery, the bas-r
+1. CONTENTS.
+2. INTRODUCTION 3
+3. A GARDENER’S COTTAGE.
+4. THE CONCRETE CONSTRUCTION FOR BUILDING COTTAGES.
+5. AN ENTRANCE LODGE AND GATEWAY TO A PARK.
+6. FIRE PROOF CONSTRUCTION.
+7. A SMALL COUNTRY RECTORY.
+8. A SMALL COUNTRY HOUSE.
+9. DESIGN FOR A SMALL COUNTRY VILLA.
+10. A SMALL COUNTRY RETREAT, OR FRENCH MAISONETTE.
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/35fb21cd78e8/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/35fb21cd78e8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

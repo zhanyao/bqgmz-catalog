@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（510,385 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 30,022 字；最长 CHAPTER XIII -- THE PUBLIC EXAMINATION. FEBRUARY, 1431.（61,866 字），最短 CHAPTER XII -- BEFORE THE TRIAL. LENT, 1431.（15,820 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 9,815 行。 |
+| 篇幅分布 | 平均每章 29,946 字；最长 CHAPTER XIII -- THE PUBLIC EXAMINATION. FEBRUARY, 1431.（61,866 字），最短 CHAPTER XII -- BEFORE THE TRIAL. LENT, 1431.（15,820 字）。 |
 | 起止 | 始于「CHAPTER I -- FRANCE IN THE FIFTEENTH CENTURY. 1412-1423.」，止于「CHAPTER XVIII -- THE SACRIFICE. MAY 31, 1431.」。 |
 | 原文溯源 | `cache/epub/2553/pg2553.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/337ab6a42101/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

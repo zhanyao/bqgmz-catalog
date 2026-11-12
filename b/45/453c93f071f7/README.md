@@ -1,7 +1,7 @@
 # The Yellow Frigate; or, The Three Sisters
 
 **作者** Grant, James, 1822-1887 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 71 章 · 898,912 字 ｜ **来源** Project Gutenberg
+**规模** 72 章 · 898,912 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/453c93f071f7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（898,912 字）。 |
-| 分章依据 | 按「章」标记切分为 71 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,660 字；最长 CHAPTER X.（28,224 字），最短 CHAPTER LXVIII.（5,457 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER LXXI.」。 |
+| 分章依据 | 按「章」标记切分为 72 章（auto-chapter），拼接正文 22,591 行。 |
+| 篇幅分布 | 平均每章 12,423 字；最长 CHAPTER X.（28,224 字），最短 NOTES.（3,886 字）。 |
 | 原文溯源 | `cache/epub/65415/pg65415.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 71 章，[完整目录与正文 →](https://www.bqgmz.top/b/453c93f071f7/)
+> 共 72 章，[完整目录与正文 →](https://www.bqgmz.top/b/453c93f071f7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Los Sueños, Volume II
 
-**作者** Quevedo, Francisco de, 1580-1645; Cejador y Frauca, Julio, 1864-1927 [Editor] ｜ **国家/地区** 西班牙 ｜ **体例** 段  
-**规模** 15 段 · 306,087 字 ｜ **来源** Project Gutenberg
+**作者** Quevedo, Francisco de, 1580-1645; Cejador y Frauca, Julio, 1864-1927 [Editor] ｜ **国家/地区** 西班牙 ｜ **体例** 篇  
+**规模** 34 篇 · 306,087 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/40204694edf4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（306,087 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,405 字；最长 --Basta--dijo el viejo--. Que si no te van a la mano, dirás （39,600 字），最短 =Fernando de Herrera.=--POESÍAS. Prólogo y notas por don Vic（5,714 字）。 |
+| 分章依据 | 按「篇」标记切分为 34 篇（通用标记切分），拼接正文 7,431 行。 |
+| 篇幅分布 | 平均每篇 7,016 字。 |
+| 起止 | 始于「I. En aquel propio instante, yéndose a ojeo de calenturas, paso entre」，止于「XL. Los pueblos y súbditos a señores, príncipes, repúblicas y reyes（2）」。 |
 | 原文溯源 | `cache/epub/66262/pg66262.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. --Basta--dijo el viejo--. Que si no te van a la mano, dirás
-2. [37] _Devanado en una chía_, envuelto en la chía, como el hi
-3. Entró Venus, haciendo rechinar los coluros con el ruedo del
-4. Diciendo esto, mandó soltar todos los presos y prender todos
-5. XXI. Estaba un enjambre de treinta y dos pretendientes de un
-6. XXVIII. Los holandeses, que, por merced del mar pisan la tie
-7. --La malicia introduce la discordia[439], y la disimulación
-8. --Esos cristianos sean libres; válgales por rescate su gener
-9. XXXIX. En Salónique[512], ciudad de Levante, que, escondida
-10. --¡Que la libertad reina!--dijo, dado a los diablos, el gino
+1. I. En aquel propio instante, yéndose a ojeo de calenturas, paso entre
+2. II. Por la misma calle, poco detrás, venía un azotado, con la palabra
+3. IV. Había hecho un bellaco una casa de grande ostentación con resabios
+4. V. Vivía enfrente déste un mohatrero, que prestaba sobre prendas, y
+5. VI. Un hablador plenario, que de lo que le sobra de palabras a dos
+6. VII. Estaban unos senadores votando un pleito. Uno dellos, de puro
+7. IX. Estaba un poeta en un corrillo, leyendo una canción cultísima, tan
+8. X. Salía de su casa una buscona[203] piramidal[204][205], habiendo
+9. XI. Era muy favorecido de un señor un criado suyo. Éste le engañaba
+10. XIII. Un gran señor fué a visitar la cárcel de su Corte, porque le
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/40204694edf4/)
+> 共 34 篇，[完整目录与正文 →](https://www.bqgmz.top/b/40204694edf4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

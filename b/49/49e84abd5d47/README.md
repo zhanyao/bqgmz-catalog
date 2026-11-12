@@ -1,7 +1,7 @@
 # The children's book of Christmas
 
-**作者** Dier, J. C. [Compiler] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 140,204 字 ｜ **来源** Project Gutenberg
+**作者** Dier, J. C. [Compiler] ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 4 部分 · 140,204 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/49e84abd5d47/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（140,204 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,029 字。 |
+| 分章依据 | 按「部分」标记切分为 4 部分（fallback-chunk），拼接正文 4,058 行。 |
+| 篇幅分布 | 平均每部分 35,051 字。 |
 | 原文溯源 | `cache/epub/70702/pg70702.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 4 部分）
 
-1. In Holland the very little children believe that while they
-2. In the course of a December tour in Yorkshire, I rode for a
-3. Every Servian boy is up before daylight on the day before Ch
-4. On Christmas Eve, or the Good Night, as the Spanish children
-5. On arriving home they confess their sins—only the little mat
-6. What a most convenient thing it is that good St. Nicholas do
-7. pg 58 Changed: a deal of laughter and excitment
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/49e84abd5d47/)
+> 共 4 部分，[完整目录与正文 →](https://www.bqgmz.top/b/49e84abd5d47/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

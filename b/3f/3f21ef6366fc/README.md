@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（140,496 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,562 字；最长 CHAPTER XXVIII.（29,197 字），最短 CHAPTER XXXIV.（3,507 字）。 |
-| 起止 | 始于「CHAPTER XXVII.」，止于「CHAPTER XXXIV.」。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 2,813 行。 |
+| 篇幅分布 | 平均每章 17,520 字；最长 CHAPTER XXVIII.（29,197 字），最短 CHAPTER XXXIV.（3,507 字）。 |
+| 起止 | 始于「CHAPTER XXVII. to CHAPTER XXXIV. 1804-1805」，止于「CHAPTER XXXIV.」。 |
 | 原文溯源 | `cache/epub/3558/pg3558.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
 
-1. CHAPTER XXVII.
+1. CHAPTER XXVII. to CHAPTER XXXIV. 1804-1805
 2. CHAPTER XXVIII.
 3. CHAPTER XXIX.
 4. CHAPTER XXX.
@@ -30,4 +30,4 @@
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/3f21ef6366fc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

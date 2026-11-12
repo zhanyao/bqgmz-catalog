@@ -1,7 +1,7 @@
 # Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume IV)
 
-**作者** Neves, José Acúrsio das, 1766-1834 ｜ **国家/地区** 葡萄牙 ｜ **体例** 题  
-**规模** 42 题 · 289,529 字 ｜ **来源** Project Gutenberg
+**作者** Neves, José Acúrsio das, 1766-1834 ｜ **国家/地区** 葡萄牙 ｜ **体例** 章  
+**规模** 23 章 · 289,529 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3fd9042b54de/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（289,529 字）。 |
-| 分章依据 | 按「题」标记切分为 42 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,893 字。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-chapter），拼接正文 6,695 行。 |
+| 篇幅分布 | 平均每章 12,397 字；最长 CAPITULO XLVI.（21,693 字），最短 CAPITULO XLVII.（7,054 字）。 |
 | 原文溯源 | `cache/epub/79650/pg79650.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LISBOA. M. DCCCXI.
-2. HISTORIA DA RESTAURAÇÃO.
-3. CAPITULO XXVIII.
-4. NOTAS DE RODAPÉ:
-5. CAPITULO XXIX.
-6. CAPITULO XXX.
-7. NOTAS DE RODAPÉ:
-8. CAPITULO XXXI.
-9. NOTAS DE RODAPÉ:
-10. CAPITULO XXXII.
+1. CAPITULO XXVIII.
+2. CAPITULO XXIX.
+3. CAPITULO XXX.
+4. CAPITULO XXXI.
+5. CAPITULO XXXII.
+6. CAPITULO XXXIII.
+7. CAPITULO XXXIV.
+8. CAPITULO XXXV.
+9. CAPITULO XXXVI.
+10. CAPITULO XXXVII.
 
-> 共 42 题，[完整目录与正文 →](https://www.bqgmz.top/b/3fd9042b54de/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/3fd9042b54de/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

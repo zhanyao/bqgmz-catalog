@@ -1,7 +1,7 @@
 # The Story of My Boyhood and Youth
 
-**作者** Muir, John, 1838-1914 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 12 段 · 246,564 字 ｜ **来源** Project Gutenberg
+**作者** Muir, John, 1838-1914 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 7 篇 · 246,564 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/33b999dc27ce/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（246,564 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,547 字；最长 The roof of our house, as well as the crags and walls of the（39,534 字），最短 Food question, the, 241-244.（6,235 字）。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（通用标记切分），拼接正文 5,280 行。 |
+| 篇幅分布 | 平均每篇 34,853 字；最长 Earliest Recollections—The “Dandy Doctor” Terror—Deeds of Daring—The Savagery of Boys—School and Fighting—Birds’-nesting. Stories of America—Glorious News—Crossing the Atlantic—The New Home—A Baptism in Nature—New Birds—The Adventures of Watch—Scotch Correction—Marauding Indians. III. LIFE ON A WISCONSIN FARM（1）（55,251 字），最短 Humanity in Oxen—Jack, the Pony—Learning to Ride—Nob and Nell—Snakes—Mosquitoes and their Kin—Fish and Fishing—Considering the Lilies—Learning to Swim—A Narrow Escape from Drowning and a Victory—Accidents to Animals. Bird Favorites—The Prairie Chickens—Water-Fowl—A Loon on the Defensive—Passenger Pigeons. American Head-Hunters—Deer—A Resurrected Woodpecker—Muskrats—Foxes and Badgers—A Pet Coon—Bathing—Squirrels—Gophers—A Burglarious Shrike. The Crops—Doing Chores—The Sights and Sounds of Winter—Road-making—The Spirit-rapping Craze—Tuberculosis among the Settlers—A Cruel Brother—The Rights of the Indians—Put to the Plough at the Age of Twelve—In the Harvest-Field—Over-Industry among the Settlers—Running the Breaking-Plough—Digging a Well—Choke-Damp—Lining Bees. Hungry for Knowledge—Borrowing Books—Paternal Opposition—Snatched Moments—Early Rising proves a Way out of Difficulties—The Cellar Workshop—Inventions—An Early-Rising Machine—Novel Clocks—Hygrometers, etc.—A Neighbor’s Advice. Leaving Home—Creating a Sensation in Pardeeville—A Ride on a Locomotive—At the State Fair in Madison—Employment in a Machine-Shop at Prairie du Chien—Back to Madison—Entering the University—Teaching School—First Lesson in Botany—More Inventions—The University of the Wilderness. Muir’s Lake (Fountain Lake) and the Garden Meadow（9,167 字）。 |
 | 原文溯源 | `cache/epub/18359/pg18359.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 7 篇）
 
-1. The roof of our house, as well as the crags and walls of the
-2. The nests, I fear, with the beautiful eggs and young birds,
-3. A near relative, the bull-bat, or nighthawk, seemed hardly l
-4. When we went to Portage, our nearest town, about ten or twel
-5. On Sundays, after or before chores and sermons and Bible-les
-6. The sweet-voiced meadowlark with its placid, simple song of
-7. Pokagon, an educated Indian writer, says: “I saw one nesting
-8. It seemed very wonderful to us that the wild animals could k
-9. Next day, when Mr. Anderson, a carpenter whose house was on
-10. Hungry for Knowledge—Borrowing Books—Paternal Opposition—Sna
+1. Earliest Recollections—The “Dandy Doctor” Terror—Deeds of Daring—The Savagery of Boys—School and Fighting—Birds’-nesting. Stories of America—Glorious News—Crossing the Atlantic—The New Home—A Baptism in Nature—New Birds—The Adventures of Watch—Scotch Correction—Marauding Indians. III. LIFE ON A WISCONSIN FARM（1）
+2. Earliest Recollections—The “Dandy Doctor” Terror—Deeds of Daring—The Savagery of Boys—School and Fighting—Birds’-nesting. Stories of America—Glorious News—Crossing the Atlantic—The New Home—A Baptism in Nature—New Birds—The Adventures of Watch—Scotch Correction—Marauding Indians. III. LIFE ON A WISCONSIN FARM（2）
+3. Humanity in Oxen—Jack, the Pony—Learning to Ride—Nob and Nell—Snakes—Mosquitoes and their Kin—Fish and Fishing—Considering the Lilies—Learning to Swim—A Narrow Escape from Drowning and a Victory—Accidents to Animals. Bird Favorites—The Prairie Chickens—Water-Fowl—A Loon on the Defensive—Passenger Pigeons. American Head-Hunters—Deer—A Resurrected Woodpecker—Muskrats—Foxes and Badgers—A Pet Coon—Bathing—Squirrels—Gophers—A Burglarious Shrike. The Crops—Doing Chores—The Sights and Sounds of Winter—Road-making—The Spirit-rapping Craze—Tuberculosis among the Settlers—A Cruel Brother—The Rights of the Indians—Put to the Plough at the Age of Twelve—In the Harvest-Field—Over-Industry among the Settlers—Running the Breaking-Plough—Digging a Well—Choke-Damp—Lining Bees. Hungry for Knowledge—Borrowing Books—Paternal Opposition—Snatched Moments—Early Rising proves a Way out of Difficulties—The Cellar Workshop—Inventions—An Early-Rising Machine—Novel Clocks—Hygrometers, etc.—A Neighbor’s Advice. Leaving Home—Creating a Sensation in Pardeeville—A Ride on a Locomotive—At the State Fair in Madison—Employment in a Machine-Shop at Prairie du Chien—Back to Madison—Entering the University—Teaching School—First Lesson in Botany—More Inventions—The University of the Wilderness. Muir’s Lake (Fountain Lake) and the Garden Meadow
+4. Our First Wisconsin Home
+5. Barometer invented by the Author in his Boyhood
+6. The Hickory Hill House, built in 1857
+7. Thermometer invented by the Author in his Boyhood
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/33b999dc27ce/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/33b999dc27ce/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

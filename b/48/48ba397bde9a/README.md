@@ -1,7 +1,7 @@
 # Ein treuer Diener seines Herrn
 
-**作者** Grillparzer, Franz, 1791-1872 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 11 题 · 102,168 字 ｜ **来源** Project Gutenberg
+**作者** Grillparzer, Franz, 1791-1872 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 34 篇 · 102,168 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/48ba397bde9a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（102,168 字）。 |
-| 分章依据 | 按「题」标记切分为 11 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,288 字。 |
+| 分章依据 | 按「篇」标记切分为 34 篇（通用标记切分），拼接正文 4,636 行。 |
+| 篇幅分布 | 平均每篇 2,999 字；最长 (Geht ab. Die Diener folgen.)（10,352 字），最短 (Hofleute gehen vorüber in die Zimmer der Königin. Sie zeigen mit（398 字）。 |
 | 原文溯源 | `cache/epub/9058/pg9058.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. EIN TREUER DIENER SEINES HERRN
-2. FRANZ GRILLPARZER
-3. Trauerspiel in fünf Aufzügen
-4. Erster Aufzug
-5. Zweiter Aufzug
-6. Sie entläßt mit einer Kopfneigung die Räte, diese gehen.--Königin zu Otto.)
-7. Dritter Aufzug
-8. Und wenn man nicht--
-9. Vierter Aufzug
-10. Schon wieder! Gott und Herr, in deinen Schutz--
+1. Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+2. Bancbanus im Vorgrunde am Tische stehend. Zwei Diener sind beschäftigt
+3. (Geht ab. Die Diener folgen.)
+4. (Die Großen und Räte sind indes mit Verbeugungen eingetreten. Darunter
+5. Ich scheide, lebet wohl. Damit indes--
+6. Saal im königlichen Schlosse. Im Hintergrunde führt eine große, zu Anfang
+7. (Er klatscht in die Hände, die Seitentüre links öffnet sich. Der kleine
+8. (Während des Vorigen ist die Türe der Galerie geöffnet worden. Diese
+9. (Hofleute gehen vorüber in die Zimmer der Königin. Sie zeigen mit
+10. (Ein Stuhl wird gebracht. Er setzt sich.--Ein Edelmann vom Gefolge
 
-> 共 11 题，[完整目录与正文 →](https://www.bqgmz.top/b/48ba397bde9a/)
+> 共 34 篇，[完整目录与正文 →](https://www.bqgmz.top/b/48ba397bde9a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

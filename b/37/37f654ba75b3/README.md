@@ -11,25 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（275,468 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,498 字；最长 Chapter 1（21,719 字），最短 Chapter 19（4,384 字）。 |
-| 起止 | 始于「Chapter 1」，止于「Chapter 19」。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-toc-title-list），拼接正文 8,264 行。 |
+| 篇幅分布 | 平均每章 14,451 字；最长 Chapter 1. - The Jarlchester Mystery（20,834 字），最短 Chapter 19. - Mr. Fanks Finishes the Case（4,384 字）。 |
+| 起止 | 始于「Chapter 1. - The Jarlchester Mystery」，止于「Chapter 19. - Mr. Fanks Finishes the Case」。 |
 | 原文溯源 | `cache/epub/55617/pg55617.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Chapter 1
-2. Chapter 2
-3. Chapter 3
-4. Chapter 4
-5. Chapter 5
-6. Chapter 6
-7. Chapter 7
-8. Chapter 8
-9. Chapter 9
-10. Chapter 10
+1. Chapter 1. - The Jarlchester Mystery
+2. Chapter 2. - A Curious Coincidence
+3. Chapter 3. - Purely theoretical
+4. Chapter 4. - The Evidence of the Chemist's Assistant
+5. Chapter 5. - Dr. Japix Speaks
+6. Chapter 6. - Monsieur Judas is Confidential
+7. Chapter 7. - An Unwilling Bride
+8. Chapter 8. - Mr. Spolger Tells a Story
+9. Chapter 9. - A Terrible Suspicion
+10. Chapter 10. - The Missing Letters
 
 > 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/37f654ba75b3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

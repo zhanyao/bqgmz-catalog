@@ -1,7 +1,7 @@
 # Don Juan három éjszakája: Regény
 
-**作者** Biró, Lajos, 1880-1948 ｜ **国家/地区** 匈牙利 ｜ **体例** 题  
-**规模** 22 题 · 203,604 字 ｜ **来源** Project Gutenberg
+**作者** Biró, Lajos, 1880-1948 ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 12 章 · 203,604 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3e54de23f9ce/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（203,604 字）。 |
-| 分章依据 | 按「题」标记切分为 22 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,254 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-roman-bare），拼接正文 6,485 行。 |
+| 篇幅分布 | 平均每章 16,955 字；最长 II.（部2）（28,500 字），最短 I.（部3）（3,678 字）。 |
+| 起止 | 始于「I.」，止于「IV.（部3）」。 |
 | 原文溯源 | `cache/epub/62968/pg62968.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Don Juan három éjszakája
-2. Regény
-3. Irta Biró Lajos
-4. Budapest 1917
-5. Singer és Wolfner kiadása
-6. Budapesti Hirlap nyomdája – 15012
-7. AZ ELSŐ
-8. I.
-9. II.
-10. III.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. I.（部2）
+6. II.（部2）
+7. III.（部2）
+8. IV.（部2）
+9. I.（部3）
+10. II.（部3）
 
-> 共 22 题，[完整目录与正文 →](https://www.bqgmz.top/b/3e54de23f9ce/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/3e54de23f9ce/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

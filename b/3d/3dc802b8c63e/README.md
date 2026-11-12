@@ -1,7 +1,7 @@
 # Is Shakespeare Dead? From My Autobiography
 
 **作者** Twain, Mark, 1835-1910 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 8 章 · 101,145 字 ｜ **来源** Project Gutenberg
+**规模** 13 章 · 101,145 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3dc802b8c63e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,12 +11,12 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（101,145 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,643 字。 |
-| 起止 | 始于「CHAPTER I」，止于「Chapter XIII of _The Shakespeare Problem Restated_ bears the heading」。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 2,210 行。 |
+| 篇幅分布 | 平均每章 7,757 字；最长 CHAPTER VIII--Shakespeare as a Lawyer {2}（19,556 字），最短 CHAPTER XI（3,469 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XIII」。 |
 | 原文溯源 | `cache/epub/2431/pg2431.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 章）
+## 章节目录（前 10 章）
 
 1. CHAPTER I
 2. CHAPTER II
@@ -25,9 +25,11 @@
 5. CHAPTER V--"We May Assume"
 6. CHAPTER VI
 7. CHAPTER VII
-8. Chapter XIII of _The Shakespeare Problem Restated_ bears the heading
+8. CHAPTER VIII--Shakespeare as a Lawyer {2}
+9. CHAPTER IX
+10. CHAPTER X--The Rest of the Equipment
 
-> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/3dc802b8c63e/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/3dc802b8c63e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

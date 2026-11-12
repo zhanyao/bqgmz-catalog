@@ -1,7 +1,7 @@
 # Voyages du Capitaine Lemuel Gulliver, En Divers Pays Eloignes, Tome I de III
 
-**作者** Swift, Jonathan, 1667-1745 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 12 段 · 249,339 字 ｜ **来源** Project Gutenberg
+**作者** Swift, Jonathan, 1667-1745 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 14 章 · 249,339 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/484109fc8356/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（249,339 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,778 字；最长 Cette résolution paroitra peut être hardie & dangereuse, & j（39,781 字），最短 Je dormis quelques heures, mais d’un sommeil troublé à chaqu（9,722 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 5,102 行。 |
+| 篇幅分布 | 平均每章 17,464 字；最长 CHAPITRE I.（37,926 字），最短 CHAPITRE IV.（部2）（7,535 字）。 |
 | 原文溯源 | `cache/epub/61691/pg61691.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Cette résolution paroitra peut être hardie & dangereuse, & j
-2. Quand l’Empereur eut lu cet Inventaire d’un bout à l’autre,
-3. Le Palais de l’Empereur est au centre de la Ville, dans l’en
-4. QUoique je reserve la Description de cet Empire à un Traité
-5. Il faut que vous sachiez que le Conseil s’est assemblé plusi
-6. Cent Bœufs, trois cent Brebis, & autant de Mets que quatre c
-7. Environ à Midi un Domestique aporta le diné, qui consistoit
-8. L’Exercice fatiguant que j’étois obligé de faire chaque jour
-9. Par dessus la grande Boëte, dans laquelle j’étois porté
-10. Il ne se passoit point de jour que je ne regalasse la Cour d
+1. CHAPITRE I.
+2. CHAPITRE III.
+3. CHAPITRE V.
+4. CHAPITRE VI.
+5. CHAPITRE VII.
+6. CHAPITRE VIII.
+7. CHAPITRE I.（部2）
+8. CHAPITRE II.（部2）
+9. CHAPITRE III.（部2）
+10. CHAPITRE IV.（部2）
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/484109fc8356/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/484109fc8356/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

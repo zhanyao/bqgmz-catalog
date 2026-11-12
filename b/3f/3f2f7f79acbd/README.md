@@ -1,7 +1,7 @@
 # Memoir, Correspondence, and Miscellanies, From the Papers of Thomas Jefferson, Volume 2
 
-**作者** Jefferson, Thomas, 1743-1826; Randolph, Thomas Jefferson, 1792-1875 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 50 段 · 1,019,157 字 ｜ **来源** Project Gutenberg
+**作者** Jefferson, Thomas, 1743-1826; Randolph, Thomas Jefferson, 1792-1875 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 686 篇 · 1,019,157 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3f2f7f79acbd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,019,157 字）。 |
-| 分章依据 | 按「段」标记切分为 50 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,383 字；最长 Be so good as to present my respects to Mrs. Page and your f（39,806 字），最短 I must now trouble Congress with a petition on my own behalf（15,306 字）。 |
+| 分章依据 | 按「篇」标记切分为 686 篇（通用标记切分），拼接正文 22,012 行。 |
+| 篇幅分布 | 平均每篇 1,485 字。 |
 | 原文溯源 | `cache/epub/16782/pg16782.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Be so good as to present my respects to Mrs. Page and your f
-2. My letters to Mr. Jay will have informed you of the objects
-3. The commonwealth of Virginia, in gratitude for the services
-4. I wrote you last on the 9th of July; and since that, have re
-5. Head. I did not begin this lecture, my friend, with a view t
-6. We are led naturally to ask, where the progress of our sea b
-7. Your letters of August the 19th and October the 12th have co
-8. The enfranchising the port of Honfleur at the mouth of the S
-9. Nothing should be spared on our part, to attach this country
-10. The _Assemblée des Notables_ being an event in the history o
+1. [Illustration: Book Spines, 1829 set of Jefferson Papers]
+2. In your letter of October the 29th, you desired me to send you one of
+3. In one of your former letters, you expressed a wish to have one of the
+4. I could write you volumes on the improvements which I find made, and
+5. In my letter of March the 12th, I had the honor of explaining to you
+6. The Marquis of Lansdowne spoke of you in very friendly terms, and
+7. In another letter of this day, I stated to you what had passed with
+8. Some of the objects of the joint commission, with which we were honored
+9. *****
+10. I have put into the hands of Mr. Fulwar Skipwith for you, a packet
 
-> 共 50 段，[完整目录与正文 →](https://www.bqgmz.top/b/3f2f7f79acbd/)
+> 共 686 篇，[完整目录与正文 →](https://www.bqgmz.top/b/3f2f7f79acbd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The History of Cuba, vol. 3
 
 **作者** Johnson, Willis Fletcher, 1857-1931 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 19 章 · 565,449 字 ｜ **来源** Project Gutenberg
+**规模** 34 章 · 565,449 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/37efbcb4da2f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（565,449 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 29,760 字；最长 CHAPTER XVIII（60,196 字），最短 CHAPTER IX（14,100 字）。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-caps-sections），拼接正文 13,957 行。 |
+| 篇幅分布 | 平均每章 16,616 字；最长 CHAPTER XVIII（1）（55,046 字），最短 CHAPTER XI--180（457 字）。 |
 | 原文溯源 | `cache/epub/38139/pg38139.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. CHAPTER X
+1. CONTENTS
+2. CHAPTER I--1
+3. CHAPTER IV--49
+4. CHAPTER VII--116
+5. CHAPTER IX--145
+6. CHAPTER XI--180
+7. CHAPTER XII--200
+8. CHAPTER XV--271
+9. CHAPTER XVII--305
+10. CHAPTER I
 
-> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/37efbcb4da2f/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/37efbcb4da2f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Don't Think About It
 
-**作者** Stuart, William W. ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 5 题 · 16,767 字 ｜ **来源** Project Gutenberg
+**作者** Stuart, William W. ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 16,767 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3ccfc948c243/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（16,767 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,353 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 495 行。 |
+| 篇幅分布 | 平均每篇 16,767 字。 |
 | 原文溯源 | `cache/epub/60935/pg60935.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 1 篇）
 
 1. Don't Think About It
-2. By WILLIAM W. STUART
-3. Sniff. "No."
-4. Aunt Martha, in her sleep, said, "No. Oh, no!"
-5. End of Project Gutenberg's Don't Think About It, by William W. Stuart
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/3ccfc948c243/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/3ccfc948c243/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

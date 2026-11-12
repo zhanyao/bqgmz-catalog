@@ -1,7 +1,7 @@
 # Állatok, emberek és istenek =
 
-**作者** Ossendowski, Ferdynand Antoni, 1878-1945; Sajó, Aladár, 1869-1943 [Translator] ｜ **国家/地区** 匈牙利 ｜ **体例** 段  
-**规模** 18 段 · 369,396 字 ｜ **来源** Project Gutenberg
+**作者** Ossendowski, Ferdynand Antoni, 1878-1945; Sajó, Aladár, 1869-1943 [Translator] ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 10 章 · 369,396 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/444d2907ae61/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（369,396 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,522 字；最长 Időm nagyobb részét vadászással töltöttem el. Világos volt, （38,840 字），最短 – Elődjével való e társalgás után a Világ Királya összehívja（9,307 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 8,288 行。 |
+| 篇幅分布 | 平均每章 36,939 字。 |
 | 原文溯源 | `cache/epub/75960/pg75960.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Időm nagyobb részét vadászással töltöttem el. Világos volt,
-2. Néha teljesen kommunista falvakba érkeztünk. Hamar megtanult
-3. Az egész tábornak csak tizenhat fegyvere és három bombája vo
-4. – A feleségemnek két hónap óta minduntalan a szemével van ba
-5. Nem adhatok más címet, amikor az Ero folyótól Tibet határáig
-6. Alighogy a városba érkeztünk, mindjárt politikai szenvedélye
-7. Most nagy csoport lakást pillantottak meg, amelyek jurták va
-8. Mialatt a doktorok az ördöggel viaskodtak, a beteg emberek m
-9. Mi három tevét szereztünk és egy nagy csapat kínai kereskedő
-10. Ez a két pont volt a legközelebbi gyűlésen a mi munkánk alap
+1. FRANKLIN-TÁRSULAT KIADÁSA, BUDAPEST
+2. ELŐSZÓ.（1）
+3. ELŐSZÓ.（2）
+4. ELŐSZÓ.（3）
+5. ELŐSZÓ.（4）
+6. ELŐSZÓ.（5）
+7. HARMADIK RÉSZ. ÁZSIA VONAGLÓ SZÍVE.（1）
+8. HARMADIK RÉSZ. ÁZSIA VONAGLÓ SZÍVE.（2）
+9. HARMADIK RÉSZ. ÁZSIA VONAGLÓ SZÍVE.（3）
+10. ÖTÖDIK RÉSZ. A MISZTÉRIUMOK MISZTÉRIUMA. A VILÁG KIRÁLYA.
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/444d2907ae61/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/444d2907ae61/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Canada West
 
-**作者** Canada. Department of the Interior ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 50 题 · 167,506 字 ｜ **来源** Project Gutenberg
+**作者** Canada. Department of the Interior ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 7 篇 · 167,506 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/34f2e69a71da/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（167,506 字）。 |
-| 分章依据 | 按「题」标记切分为 50 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,350 字。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（auto-title-block），拼接正文 4,076 行。 |
+| 篇幅分布 | 平均每篇 15,760 字；最长 YOUR OPPORTUNITY（27,808 字），最短 Yield      Yield                 Yield     Yield（436 字）。 |
 | 原文溯源 | `cache/epub/35439/pg35439.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 篇）
 
-1. LAND REGULATIONS IN CANADA
-2. THE FOLLOWING IS A PLAN OF A TOWNSHIP
-3. CUSTOMS REGULATIONS
-4. FREIGHT REGULATIONS
-5. 9. Minimum charge on any shipment will be 100 lbs. at first-class rate.
-6. QUARANTINE OF SETTLERS' CATTLE
-7. UNITED STATES AGENTS.
-8. THE CANADA OF OPPORTUNITY]
-9. ANOTHER GOOD YEAR IN WESTERN CANADA
-10. Bushels Price per bushel
+1. Yield Yield Yield Yield
+2. Yield Yield Yield Yield
+3. Acre
+4. NORTHERN ALBERTA
+5. CENTRAL ALBERTA
+6. BRITISH COLUMBIA
+7. YOUR OPPORTUNITY
 
-> 共 50 题，[完整目录与正文 →](https://www.bqgmz.top/b/34f2e69a71da/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/34f2e69a71da/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

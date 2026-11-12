@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（736,967 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 73,696 字。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER X」。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 17,959 行。 |
+| 篇幅分布 | 平均每章 72,932 字。 |
 | 原文溯源 | `cache/epub/56865/pg56865.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. CHAPTER X
+1. BOOK I
+2. PREHISTORIC LONDON
+3. THE GEOLOGY
+4. Nearly a hundred years passed away befor
+5. ” Paternoster Row.
+6. Presently they arrived at London. They k
+7. The ravages of the Danes in the eighth a
+8. William Rufus followed his father’s exam
+9. “The artisans of the several crafts, the
+10. Bridge Gate, 125
 
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/37c9c9c85034/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Wesleyan Methodist Pulpit in Malvern Sermons Preached at the Opening Services of the Wesleyan Methodist Chapel, in 1866
 
-**作者** Punshon, William Morley, 1824-1881 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 9 题 · 164,260 字 ｜ **来源** Project Gutenberg
+**作者** Punshon, William Morley, 1824-1881 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 4 章 · 164,260 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/390acc220377/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（164,260 字）。 |
-| 分章依据 | 按「题」标记切分为 9 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 18,251 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-roman-title），拼接正文 3,194 行。 |
+| 篇幅分布 | 平均每章 39,906 字。 |
+| 起止 | 始于「I. You observe that in the text believers are presented as a spiritual」，止于「IV. All these elements of character in Christ were directed and」。 |
 | 原文溯源 | `cache/epub/24396/pg24396.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 题）
+## 章节目录（前 4 章）
 
-1. THE WESLEYAN METHODIST PULPIT IN MALVERN.
-2. PREFACE.
-3. KNOWLES KING.
-4. I.--AS IT IS A WORK OF DESTRUCTION.
-5. II.--AS IT IS A WORK OF DELIVERANCE.
-6. 2. _The devil_ "_had the power of death_."
-7. I. "The prophets have _enquired and searched diligently_."
-8. 2. _Their Conduct_. They "enquired and searched diligently."
-9. WARREN HALL AND CO., PRINTERS, CAMDEN ROAD, LONDON, N.W.
+1. I. You observe that in the text believers are presented as a spiritual
+2. II. LET US NOW CONTEMPLATE THE WORK OF JESUS, IN HIS DEATH, AS A WORK OF
+3. III. The mind of Christ is distinguished by its _sympathy_ and
+4. IV. All these elements of character in Christ were directed and
 
-> 共 9 题，[完整目录与正文 →](https://www.bqgmz.top/b/390acc220377/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/390acc220377/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

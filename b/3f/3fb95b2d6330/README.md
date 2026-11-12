@@ -1,7 +1,7 @@
 # Janet Hardy in Hollywood
 
-**作者** Wheeler, Ruthe S. ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 12 题 · 192,823 字 ｜ **来源** Project Gutenberg
+**作者** Wheeler, Ruthe S. ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 8 篇 · 192,823 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3fb95b2d6330/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（192,823 字）。 |
-| 分章依据 | 按「题」标记切分为 12 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 16,068 字。 |
+| 分章依据 | 按「篇」标记切分为 8 篇（auto-title-block），拼接正文 5,822 行。 |
+| 篇幅分布 | 平均每篇 24,011 字；最长 ON THE STAGE（67,667 字），最短 POSTPONED TRYOUTS（5,835 字）。 |
 | 原文溯源 | `cache/epub/42069/pg42069.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 篇）
 
-1. JANET HARDY IN HOLLYWOOD
-2. RUTHE S. WHEELER
-3. CONTENTS
-4. Janet Hardy in Hollywood
-5. Helen smiled. "You wouldn't accept a loan, would you?"
-6. Cora picked up her coat. "Come on, Margie. We've just wasted our time."
-7. The announcer beckoned to Henry Thorne. "Just a word, Mr. Thorne."
-8. Billy Fenstow looked aghast. "That sounds pretty bad, but we'll try it."
-9. Helen nodded wearily. "The picture is and we may be too."
-10. Janet blushed. "It was just luck."
+1. "THE CHINESE IMAGE"
+2. DESPERATE HOURS
+3. POSTPONED TRYOUTS
+4. BIG NEWS
+5. ON THE STAGE
+6. Hardy."
+7. WESTERN ACTION
+8. ON THE SCREEN
 
-> 共 12 题，[完整目录与正文 →](https://www.bqgmz.top/b/3fb95b2d6330/)
+> 共 8 篇，[完整目录与正文 →](https://www.bqgmz.top/b/3fb95b2d6330/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

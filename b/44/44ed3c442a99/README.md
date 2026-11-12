@@ -1,7 +1,7 @@
 # Giovanni Tolu, vol. 2/2
 
-**作者** Costa, Enrico, 1841-1909 ｜ **国家/地区** 意大利 ｜ **体例** 题  
-**规模** 63 题 · 300,568 字 ｜ **来源** Project Gutenberg
+**作者** Costa, Enrico, 1841-1909 ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 25 章 · 300,568 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/44ed3c442a99/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（300,568 字）。 |
-| 分章依据 | 按「题」标记切分为 63 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,770 字。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 8,889 行。 |
+| 篇幅分布 | 平均每章 10,356 字；最长 CAPITOLO XXV.（49,770 字），最短 CAPITOLO IX.（4,567 字）。 |
 | 原文溯源 | `cache/epub/76575/pg76575.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. ENRICO COSTA
-2. GIOVANNI TOLU
-3. Con Vignette di Dalsani
-4. Volume Secondo
-5. CAPITOLO XXI.
-6. CAPITOLO XXII.
-7. PARTE TERZA
-8. IL BANDITO DELLA NURRA
-9. CAPITOLO I.
-10. CAPITOLO II.
+1. CAPITOLO I.
+2. CAPITOLO II.
+3. CAPITOLO III.
+4. CAPITOLO IV.
+5. CAPITOLO V.
+6. CAPITOLO VI.
+7. CAPITOLO VII.
+8. CAPITOLO VIII.
+9. CAPITOLO IX.
+10. CAPITOLO X.
 
-> 共 63 题，[完整目录与正文 →](https://www.bqgmz.top/b/44ed3c442a99/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/44ed3c442a99/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

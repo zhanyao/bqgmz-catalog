@@ -1,7 +1,7 @@
 # The Farmer's Own Book: A treatise on the numerous diseases of the horse with an explanation of their symptoms, and the course of treatment to be pursued; also a treatise on the diseases of horned cattle
 
-**作者** Koogle, J. D. ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 9 段 · 189,206 字 ｜ **来源** Project Gutenberg
+**作者** Koogle, J. D. ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 157 章 · 189,206 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/44c458ef7ce4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（189,206 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,022 字；最长 The symptoms in this disease are feebleness, drowsiness, los（40,022 字），最短 The first thing is to clean the wound from all dirt and grav（9,176 字）。 |
+| 分章依据 | 按「章」标记切分为 157 章（auto-caps-sections），拼接正文 5,304 行。 |
+| 篇幅分布 | 平均每章 1,181 字；最长 INFORMATION HOW TO TREAT DANGEROUS DISEASES.（10,437 字），最短 ENLARGEMENT OF THE HOCK.（300 字）。 |
 | 原文溯源 | `cache/epub/54217/pg54217.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. The symptoms in this disease are feebleness, drowsiness, los
-2. Dissolve in a pint of milk warm water ¼ lb. of alum and give
-3. Commence to gentle him with your hand about the head, &c. Sh
-4. Thoroughwort is tonic, diaphoretic, and in large doses emeti
-5. Take 2 ounces Formentilla,
-6. The head should be perfectly cleaned of all dirt and dandruf
-7. One pound of green copperas, costing 6 cents, dissolved in 1
-8. Bleeding is a most useful and powerful remedy, in the cure o
-9. The first thing is to clean the wound from all dirt and grav
+1. PREFACE.
+2. DISEASES OF HORSES.
+3. THE POLL EVIL.
+4. REMEDY NO. 5.
+5. FLATULENT OR WIND COLIC.
+6. SYMPTOMS.
+7. REMEDY NO. 1.
+8. REMEDY NO. 2.
+9. SYMPTOMS.
+10. SYMPTOMS.
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/44c458ef7ce4/)
+> 共 157 章，[完整目录与正文 →](https://www.bqgmz.top/b/44c458ef7ce4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

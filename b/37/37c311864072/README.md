@@ -1,7 +1,7 @@
 # The Voice of Faith in the Valley of Achor: Vol. 1 [of 2] being a series of letters to several friends on religious subjects
 
-**作者** Church, J. (John), 1780?-1825? ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 11 段 · 231,731 字 ｜ **来源** Project Gutenberg
+**作者** Church, J. (John), 1780?-1825? ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 120 篇 · 231,731 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/37c311864072/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（231,731 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,066 字；最长 I was deeply afflicted when I heard of your sudden indisposi（39,897 字），最短 There was something you said to me at the place, which gave （11,535 字）。 |
+| 分章依据 | 按「篇」标记切分为 120 篇（通用标记切分），拼接正文 5,171 行。 |
+| 篇幅分布 | 平均每篇 1,928 字。 |
 | 原文溯源 | `cache/epub/58616/pg58616.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. I was deeply afflicted when I heard of your sudden indisposi
-2. I trust you are growing into an increasing acquaintance with
-3. These things I have found, felt, and known, and hope, throug
-4. I could quote a vast number more grand passages, to shew you
-5. I can never sufficiently thank you for your christian sympat
-6. You must think me very unkind, and seemingly negligent in wr
-7. The second chapter of Isaiah is a very grand and solemn part
-8. I feel much indebted to you for your good advice and kind at
-9. The pulling down the earthly house is all the misery, but it
-10. I trust the grace of our Lord Jesus Christ will reign triump
+1. MANY thanks for the loan of the invaluable books, containing the last
+2. After I had been in this furnace some weeks, in which I felt as others do
+3. But I do esteem it among my many special favors, that this did not
+4. trembles at my word.”
+5. I must just remark, that such blessed sensations as I have here
+6. I HAVE been much grieved to hear of your deep afflictions of body. I
+7. I really think we are often mistaken about our love to Christ; for we
+8. Amidst the severest trials I am wading through this week, I cannot forget
+9. May you, my dear friends be prepared to meet them, by an experimental
+10. IT would be very ungrateful in me to forget you, or to neglect writing to
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/37c311864072/)
+> 共 120 篇，[完整目录与正文 →](https://www.bqgmz.top/b/37c311864072/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The tower
 
-**作者** Yeats, W. B. (William Butler), 1865-1939 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 82 题 · 45,110 字 ｜ **来源** Project Gutenberg
+**作者** Yeats, W. B. (William Butler), 1865-1939 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 45,110 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3ee755f21299/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（45,110 字）。 |
-| 分章依据 | 按「题」标记切分为 82 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 550 字。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-toc-title-list），拼接正文 1,929 行。 |
+| 篇幅分布 | 平均每章 2,127 字。 |
 | 原文溯源 | `cache/epub/72985/pg72985.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE TOWER
-2. W. B. Yeats
-3. MACMILLAN AND CO., LIMITED
-4. ST. MARTIN’S STREET, LONDON
-5. CONTENTS
-6. Notes
-7. SAILING TO BYZANTIUM
-8. II
-9. III
-10. IV
+1. Sailing to Byzantium
+2. The Tower
+3. Meditations in Time of Civil War
+4. Nineteen Hundred and Nineteen
+5. The Wheel
+6. Youth and Age
+7. The New Faces
+8. A Prayer for My Son
+9. Two Songs from a Play
+10. Wisdom
 
-> 共 82 题，[完整目录与正文 →](https://www.bqgmz.top/b/3ee755f21299/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/3ee755f21299/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

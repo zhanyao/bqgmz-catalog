@@ -1,7 +1,7 @@
 # Markiisitar de Pompadour
 
-**作者** Duncker, Dora, 1855-1916; Seppänen, Rob. A., 1875-1920 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 35 题 · 494,511 字 ｜ **来源** Project Gutenberg
+**作者** Duncker, Dora, 1855-1916; Seppänen, Rob. A., 1875-1920 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 27 章 · 494,511 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3c5350fce40c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（494,511 字）。 |
-| 分章依据 | 按「题」标记切分为 35 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,128 字。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-roman-bare），拼接正文 13,512 行。 |
+| 篇幅分布 | 平均每章 18,309 字；最长 XXIII.（39,046 字），最短 XXI.（8,434 字）。 |
+| 起止 | 始于「I.」，止于「XXVII.」。 |
 | 原文溯源 | `cache/epub/74777/pg74777.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. MARKIISITAR DE POMPADOUR
-2. Kuvaus Ludvig XV:n rakastajattaresta
-3. DORA DUNCKER
-4. Suomentanut
-5. Rob. A. Seppänen
-6. I.
-7. II.
-8. III.
-9. IV.
-10. V.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 35 题，[完整目录与正文 →](https://www.bqgmz.top/b/3c5350fce40c/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/3c5350fce40c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

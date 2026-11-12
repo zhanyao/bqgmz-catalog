@@ -1,7 +1,7 @@
 # The Life and Adventures of Peter Wilkins, Complete (Volumes 1 and 2)
 
 **作者** Paltock, Robert, 1697-1767; Bullen, A. H. (Arthur Henry), 1857-1920 [Commentator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 30 章 · 641,459 字 ｜ **来源** Project Gutenberg
+**规模** 52 章 · 641,459 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3554556d803e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（641,459 字）。 |
-| 分章依据 | 按「章」标记切分为 30 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,381 字；最长 I could now hold out no longer; but, sta（87,942 字），最短 CHAPTER XVII.（5,912 字）。 |
+| 分章依据 | 按「章」标记切分为 52 章（auto-chapter），拼接正文 13,510 行。 |
+| 篇幅分布 | 平均每章 11,734 字；最长 CHAPTER XX.（部2）（24,100 字），最短 CHAPTER IX.（部2）（5,428 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXV.（部2）」。 |
 | 原文溯源 | `cache/epub/51967/pg51967.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/3554556d803e/)
+> 共 52 章，[完整目录与正文 →](https://www.bqgmz.top/b/3554556d803e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

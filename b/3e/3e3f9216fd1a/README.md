@@ -1,7 +1,7 @@
 # Women
 
-**作者** Tarkington, Booth, 1869-1946 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 9 题 · 372,327 字 ｜ **来源** Project Gutenberg
+**作者** Tarkington, Booth, 1869-1946 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 31 章 · 372,327 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3e3f9216fd1a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（372,327 字）。 |
-| 分章依据 | 按「题」标记切分为 9 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 41,369 字。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-roman-bare），拼接正文 9,469 行。 |
+| 篇幅分布 | 平均每章 11,853 字；最长 XXIX（34,288 字），最短 XXV（3,557 字）。 |
 | 原文溯源 | `cache/epub/65207/pg65207.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 题）
+## 章节目录（前 10 章）
 
-1. WOMEN
-2. CONTENTS
-3. PREAMBLE
-4. W O M E N
-5. “It’ll happen, just the same,” he assure
-6. Innocently, Mr. Dodge supposed this to b
-7. The moment he saw her, when she came int
-8. THE END
-9. TRANSCRIBER NOTES
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 9 题，[完整目录与正文 →](https://www.bqgmz.top/b/3e3f9216fd1a/)
+> 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/3e3f9216fd1a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

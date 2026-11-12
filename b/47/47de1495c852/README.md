@@ -1,7 +1,7 @@
 # Canyon de Chelly: The Story of Its Ruins and People
 
-**作者** Bradley, Zorro A., 1925-2010 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 15 题 · 53,499 字 ｜ **来源** Project Gutenberg
+**作者** Bradley, Zorro A., 1925-2010 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 53,499 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/47de1495c852/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（53,499 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,566 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 1,305 行。 |
+| 篇幅分布 | 平均每章 4,720 字。 |
 | 原文溯源 | `cache/epub/53631/pg53631.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. The Story of its Ruins and People
-2. Contents
-3. Discovery of the Ruins
-4. The Principal Ruins
-5. WHITE HOUSE
-6. ANTELOPE HOUSE
-7. STANDING COW
-8. BIG CAVE
-9. MUMMY CAVE
-10. The People of Canyon de Chelly
+1. Discovery of the Ruins
+2. The Principal Ruins
+3. White House
+4. Antelope House
+5. Standing Cow
+6. Big Cave
+7. Mummy Cave
+8. The People of Canyon de Chelly
+9. The Anasazi
+10. The Navajos
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/47de1495c852/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/47de1495c852/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

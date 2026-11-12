@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（54,878 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 3,048 字；最长 CHAPTER VII.     Of Gunnlaug in the East and the West.（5,983 字），最短 CHAPTER V.     Of Raven and his Kin.（1,147 字）。 |
-| 起止 | 始于「CHAPTER I.     Of Thorstein Egilson and his Kin.」，止于「CHAPTER XVIII.     The Death of Helga the Fair.」。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 1,680 行。 |
+| 篇幅分布 | 平均每章 3,030 字；最长 CHAPTER VII. Of Gunnlaug in the East and the West.（5,983 字），最短 CHAPTER V. Of Raven and his Kin.（1,147 字）。 |
+| 起止 | 始于「CHAPTER I. Of Thorstein Egilson and his Kin.」，止于「CHAPTER XVIII. The Death of Helga the Fair.」。 |
 | 原文溯源 | `cache/epub/24421/pg24421.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -32,4 +32,4 @@
 > 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/3a8b5c190c91/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Georgian Poetry 1911-1912
 
-**作者** Marsh, Edward Howard, Sir, 1872-1953 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 92 题 · 141,579 字 ｜ **来源** Project Gutenberg
+**作者** Marsh, Edward Howard, Sir, 1872-1953 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 29 章 · 141,579 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/48dedf13c80f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（141,579 字）。 |
-| 分章依据 | 按「题」标记切分为 92 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,538 字。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-toc-title-list），拼接正文 5,653 行。 |
+| 篇幅分布 | 平均每章 4,779 字。 |
 | 原文溯源 | `cache/epub/9484/pg9484.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. GEORGIAN POETRY
-2. DEDICATED
-3. TO
-4. ROBERT BRIDGES
-5. BY THE WRITERS
-6. AND THE EDITOR
-7. PREFATORY NOTE
-8. E.M.
-9. DUNSANY
-10. CONTENTS
+1. LASCELLES ABERCROMBIE
+2. The Sale of Saint Thomas
+3. GORDON BOTTOMLEY
+4. RUPERT BROOKE
+5. The Old Vicarage, Grantchester
+6. Dust
+7. The Fish
+8. Town and Country
+9. Dining-room Tea
+10. GILBERT K. CHESTERTON
 
-> 共 92 题，[完整目录与正文 →](https://www.bqgmz.top/b/48dedf13c80f/)
+> 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/48dedf13c80f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

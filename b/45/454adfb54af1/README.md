@@ -1,7 +1,7 @@
 # Science and Morals and Other Essays
 
-**作者** Windle, Bertram Coghill Alan, Sir, 1858-1929 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 11 段 · 220,726 字 ｜ **来源** Project Gutenberg
+**作者** Windle, Bertram Coghill Alan, Sir, 1858-1929 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 220,726 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/454adfb54af1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（220,726 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,066 字；最长 Dr. Marett has carefully examined into this matter, and his （39,797 字），最短 years in investigating. The man who sets out to make a（523 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-roman-title），拼接正文 4,889 行。 |
+| 篇幅分布 | 平均每章 23,729 字；最长 IV. SCIENCE IN "BONDAGE"（39,786 字），最短 VIII. CATHOLIC WRITERS AND SPONTANEOUS GENERATION（8,672 字）。 |
+| 起止 | 始于「I. SCIENCE AND MORALS」，止于「IX. A THEORY OF LIFE[36]」。 |
 | 原文溯源 | `cache/epub/24684/pg24684.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 9 章）
 
-1. Dr. Marett has carefully examined into this matter, and his
-2. It will be admitted by all conversant with the facts that re
-3. Finally the discovery was made that mankind will not for lon
-4. A large part of Loeb's book is devoted to a description of t
-5. Passing from the _imprimatur_ to a closer consideration of o
-6. First of all let us consider the case of Gabriel Fallopius,
-7. Perhaps this is not to be wondered at; for Parliament always
-8. He reported and showed to the court that there were remarkab
-9. "The grassy clods now calved, now half appeared
-10. Or again: "So far as the _creative_ power of energy is conce
+1. I. SCIENCE AND MORALS
+2. II. THEOPHOBIA AND NEMESIS
+3. III. WITHIN AND WITHOUT THE SYSTEM
+4. IV. SCIENCE IN "BONDAGE"
+5. V. SCIENCE AND THE WAR
+6. VI. HEREDITY AND "ARRANGEMENT"
+7. VII. "SPECIAL CREATION"
+8. VIII. CATHOLIC WRITERS AND SPONTANEOUS GENERATION
+9. IX. A THEORY OF LIFE[36]
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/454adfb54af1/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/454adfb54af1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

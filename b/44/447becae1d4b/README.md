@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（432,511 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,595 字；最长 Chapter 16. LEEHALLFAE（32,429 字），最短 Chapter 3. STARKNESS（7,016 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-toc-title-list），拼接正文 12,233 行。 |
+| 篇幅分布 | 平均每章 20,574 字；最长 Chapter 16. LEEHALLFAE（32,429 字），最短 Chapter 3. STARKNESS（7,016 字）。 |
 | 起止 | 始于「Chapter 1. THE SÉANCE」，止于「Chapter 21. MUSPEL」。 |
 | 原文溯源 | `cache/epub/1329/pg1329.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/447becae1d4b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

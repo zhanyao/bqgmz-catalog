@@ -1,7 +1,7 @@
 # The Ragged Trousered Philanthropists
 
-**作者** Tressell, Robert, 1870-1911 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 54 章 · 1,131,882 字 ｜ **来源** Project Gutenberg
+**作者** Tressell, Robert, 1870-1911 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 30 篇 · 1,131,882 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3a37ee79bf41/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,131,882 字）。 |
-| 分章依据 | 按「章」标记切分为 54 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,960 字；最长 Chapter 43（89,964 字），最短 Chapter 31（2,848 字）。 |
-| 起止 | 始于「Chapter 1」，止于「Chapter 54」。 |
+| 分章依据 | 按「篇」标记切分为 30 篇（通用标记切分），拼接正文 27,352 行。 |
+| 篇幅分布 | 平均每篇 37,689 字；最长 Preface（67,738 字），最短 The Deserter（2,848 字）。 |
 | 原文溯源 | `cache/epub/3608/pg3608.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. Chapter 1
-2. Chapter 2
-3. Chapter 3
-4. Chapter 4
-5. Chapter 5
-6. Chapter 6
-7. Chapter 7
-8. Chapter 8
-9. Chapter 9
-10. Chapter 10
+1. Preface
+2. The Financiers
+3. The Placard
+4. The Exterminating Machines
+5. The Long Hill（1）
+6. The Long Hill（2）
+7. True Freedom
+8. The Lodger（1）
+9. The Lodger（2）
+10. The Phrenologist
 
-> 共 54 章，[完整目录与正文 →](https://www.bqgmz.top/b/3a37ee79bf41/)
+> 共 30 篇，[完整目录与正文 →](https://www.bqgmz.top/b/3a37ee79bf41/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

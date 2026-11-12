@@ -1,7 +1,7 @@
 # Peggy-Alone
 
 **作者** Byrne, Mary Agnes; Craig, Anna B., 1875- [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 22 章 · 207,312 字 ｜ **来源** Project Gutenberg
+**规模** 26 章 · 207,312 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3bd7f26058d0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（207,312 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,423 字；最长 CHAPTER XXII（44,902 字），最短 CHAPTER VI（3,499 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXII」。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 6,419 行。 |
+| 篇幅分布 | 平均每章 7,940 字；最长 CHAPTER XXII（20,829 字），最短 CHAPTER XXVI（3,212 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXVII」。 |
 | 原文溯源 | `cache/epub/24431/pg24431.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/3bd7f26058d0/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/3bd7f26058d0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Life of Lord Byron, Vol. 4 With His Letters and Journals
 
-**作者** Moore, Thomas, 1779-1852 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 144 题 · 434,961 字 ｜ **来源** Project Gutenberg
+**作者** Moore, Thomas, 1779-1852 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 434,961 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/33f4f2fa617f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（434,961 字）。 |
-| 分章依据 | 按「题」标记切分为 144 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,020 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-caps-sections），拼接正文 10,807 行。 |
+| 篇幅分布 | 平均每章 48,329 字；最长 LAMARTINE.（1）（55,418 字），最短 LAMARTINE.（4）（12,254 字）。 |
 | 原文溯源 | `cache/epub/16549/pg16549.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. LIFE
-2. OF
-3. LORD BYRON:
-4. WITH HIS LETTERS AND JOURNALS.
-5. BY THOMAS MOORE, ESQ.
-6. IN SIX VOLUMES.--VOL. IV.
-7. NEW EDITION.
-8. LONDON: JOHN MURRAY, ALBEMARLE STREET. 1854.
-9. CONTENTS OF VOL. IV
-10. NOTICES
+1. SCENE II.（1）
+2. SCENE II.（2）
+3. SCENE II.（3）
+4. "'BYRON.'（1）
+5. "'BYRON.'（2）
+6. LAMARTINE.（1）
+7. LAMARTINE.（2）
+8. LAMARTINE.（3）
+9. LAMARTINE.（4）
 
-> 共 144 题，[完整目录与正文 →](https://www.bqgmz.top/b/33f4f2fa617f/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/33f4f2fa617f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

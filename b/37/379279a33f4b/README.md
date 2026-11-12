@@ -1,7 +1,7 @@
 # The Evolution of Man — Volume 2
 
-**作者** Haeckel, Ernst, 1834-1919; McCabe, Joseph, 1867-1955 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 32 章 · 534,329 字 ｜ **来源** Project Gutenberg
+**作者** Haeckel, Ernst, 1834-1919; McCabe, Joseph, 1867-1955 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 33 篇 · 534,329 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/379279a33f4b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（534,329 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,697 字。 |
-| 起止 | 始于「CHAPTER 2.16. STRUCTURE OF THE LANCELET AND THE SEA-SQUIRT.」，止于「CHAPTER 2.30. RESULTS OF ANTHROPOGENY.」。 |
+| 分章依据 | 按「篇」标记切分为 33 篇（auto-magazine），拼接正文 12,529 行。 |
+| 篇幅分布 | 平均每篇 16,164 字。 |
 | 原文溯源 | `cache/epub/6710/pg6710.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER 2.16. STRUCTURE OF THE LANCELET AND THE SEA-SQUIRT.
-2. CHAPTER 2.17. EMBRYOLOGY OF THE LANCELET AND THE SEA-SQUIRT.
-3. CHAPTER 2.18. DURATION OF THE HISTORY OF OUR STEM.
-4. CHAPTER 2.19. OUR PROTIST ANCESTORS.
-5. CHAPTER 2.20. OUR WORM-LIKE ANCESTORS.
-6. CHAPTER 2.21. OUR FISH-LIKE ANCESTORS.
-7. CHAPTER 2.22. OUR FIVE-TOED ANCESTORS.
-8. CHAPTER 2.23. OUR APE ANCESTORS.
-9. CHAPTER 2.24. EVOLUTION OF THE NERVOUS SYSTEM.
-10. CHAPTER 2.25. EVOLUTION OF THE SENSE-ORGANS.
+1. HUMAN STEM-HISTORY, OR PHYLOGENY
+2. FIGURE 2.277. THE DRILL-BABOON
+3. FIGURE 2.389. HUMAN EMBRYO
+4. FIGURES 2.390 TO 2.392. RUDIMENTARY KIDNEYS AND SEXUAL ORGANS
+5. CHAPTER 2.16. STRUCTURE OF THE LANCELET AND THE SEA-SQUIRT
+6. CHAPTER 2.17. EMBRYOLOGY OF THE LANCELET AND THE SEA-SQUIRT
+7. CHAPTER 2.18. DURATION OF THE HISTORY OF OUR STEM
+8. CHAPTER 2.19. OUR PROTIST ANCESTORS
+9. CHAPTER 2.20. OUR WORM-LIKE ANCESTORS
+10. STAGES 1 TO 5. PROTIST ANCESTORS. UNICELLULAR ORGANISMS
 
-> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/379279a33f4b/)
+> 共 33 篇，[完整目录与正文 →](https://www.bqgmz.top/b/379279a33f4b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

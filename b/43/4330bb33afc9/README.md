@@ -1,7 +1,7 @@
 # The Merrie Tales of Jacques Tournebroche
 
-**作者** France, Anatole, 1844-1924; Allinson, A. R. (Alfred Richard), 1852-1929 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 22 题 · 100,512 字 ｜ **来源** Project Gutenberg
+**作者** France, Anatole, 1844-1924; Allinson, A. R. (Alfred Richard), 1852-1929 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 100,512 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4330bb33afc9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（100,512 字）。 |
-| 分章依据 | 按「题」标记切分为 22 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,568 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 2,456 行。 |
+| 篇幅分布 | 平均每章 12,564 字。 |
 | 原文溯源 | `cache/epub/25407/pg25407.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. Produced by David Widger
-2. THE MERRIE TALES OF JACQUES TOURNEBROCHE
-3. AND CHILD LIFE IN TOWN AND COUNTRY
-4. By Anatole France
-5. John Lane Company, MCMXIX
-6. Copyright 1909
-7. John Lane Company
-8. THE MERRIE TALES OF JACQUES TOURNEBROCHE
-9. OLIVIER’S BRAG
-10. THE MIRACLE OF THE MAGPIE
+1. THE MERRIE TALES OF JACQUES TOURNEBROCHE
+2. OLIVIER’S BRAG
+3. III
+4. BROTHER JOCONDE
+5. FIVE FAIR LADIES OF PICARDY, OF POITOU, OF TOURAINE, OF LYONS, AND OF PARIS
+6. A GOOD LESSON WELL LEARNT
+7. SATAN’S TONGUE-PIE
+8. MADEMOISELLE DE DOUCINE’S NEW YEAR’S PRESENT
 
-> 共 22 题，[完整目录与正文 →](https://www.bqgmz.top/b/4330bb33afc9/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/4330bb33afc9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（70,068 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,009 字；最长 CHAPTER I. THE RESIGNATION（19,643 字），最短 CHAPTER VI. A FIGHT IN THE FLAMES（5,181 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-chapter），拼接正文 2,113 行。 |
+| 篇幅分布 | 平均每章 9,967 字；最长 CHAPTER I. THE RESIGNATION（19,348 字），最短 CHAPTER VI. A FIGHT IN THE FLAMES（5,181 字）。 |
 | 起止 | 始于「CHAPTER I. THE RESIGNATION」，止于「CHAPTER VII. THE RUNAWAY GAUNTLET」。 |
 | 原文溯源 | `cache/epub/78629/pg78629.txt`（Project Gutenberg） |
 
@@ -29,4 +29,4 @@
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/35444e66627d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

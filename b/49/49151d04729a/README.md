@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（322,087 字）。 |
-| 分章依据 | 按「章」标记切分为 33 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,760 字；最长 CHAPTER XXXIII. Edward as King.（26,815 字），最短 CHAPTER XXIX. To London.（3,346 字）。 |
+| 分章依据 | 按「章」标记切分为 33 章（auto-chapter），拼接正文 8,162 行。 |
+| 篇幅分布 | 平均每章 9,245 字；最长 CHAPTER XXXII. Coronation Day.（18,822 字），最短 CHAPTER I. The birth of the Prince and the Pauper.（1,149 字）。 |
 | 起止 | 始于「CHAPTER I. The birth of the Prince and the Pauper.」，止于「CHAPTER XXXIII. Edward as King.」。 |
 | 原文溯源 | `cache/epub/1837/pg1837.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 33 章，[完整目录与正文 →](https://www.bqgmz.top/b/49151d04729a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

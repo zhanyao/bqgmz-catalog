@@ -1,7 +1,7 @@
 # The Bush Boys: History and Adventures of a Cape Farmer and his Family
 
-**作者** Reid, Mayne, 1818-1883 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 103 题 · 394,883 字 ｜ **来源** Project Gutenberg
+**作者** Reid, Mayne, 1818-1883 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 34 章 · 394,883 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/43ab8ecbabac/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（394,883 字）。 |
-| 分章依据 | 按「题」标记切分为 103 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,833 字。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-caps-sections），拼接正文 9,560 行。 |
+| 篇幅分布 | 平均每章 11,614 字；最长 THE WILD-ASSES OF AFRICA.（34,933 字），最短 A TALK ABOUT LIONS.（5,870 字）。 |
 | 原文溯源 | `cache/epub/21237/pg21237.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. BY CAPTAIN MAYNE REID
-3. CHAPTER ONE.
-4. THE BOORS.
-5. CHAPTER TWO.
-6. THE "KRAAL."
-7. CHAPTER THREE.
-8. THE "SPRINGHAAN."
-9. CHAPTER FOUR.
-10. A TALK ABOUT LOCUSTS.
+1. CHAPTER TWO.
+2. THE "KRAAL."
+3. THE "SPRINGHAAN."
+4. A TALK ABOUT LOCUSTS.
+5. THE LOCUST-FLIGHT.
+6. "INSPANN AND TREK!"
+7. "WATER! WATER!"
+8. THE FATE OF THE HERO.
+9. A LION IN THE TRAP.
+10. A TALK ABOUT LIONS.
 
-> 共 103 题，[完整目录与正文 →](https://www.bqgmz.top/b/43ab8ecbabac/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/43ab8ecbabac/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

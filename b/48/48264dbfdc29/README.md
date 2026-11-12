@@ -1,7 +1,7 @@
 # Harper's Young People, November 8, 1881 An Illustrated Weekly
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 68 题 · 77,475 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 77,475 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/48264dbfdc29/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（77,475 字）。 |
-| 分章依据 | 按「题」标记切分为 68 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,139 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 2,260 行。 |
+| 篇幅分布 | 平均每章 5,959 字。 |
 | 原文溯源 | `cache/epub/49886/pg49886.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE TALKING LEAVES.[1]
-2. BY WILLIAM O. STODDARD.
-3. CHAPTER VI.
-4. THE ROCKS.
-5. BY CHARLES BARNARD.
-6. THE PRINCESS SUNNYLOCKS AND THE RUNAWAY SUNBEAM.
-7. BY LILLIE E. BARR.
-8. THE SURPRISING EXPERIENCE OF BEN BUTTLES.
-9. BY FRANK H. CONVERSE.
-10. AN ENGLISH PUG.
+1. VOL. III.--NO. 106. PUBLISHED BY HARPER & BROTHERS, NEW YORK. PRICE FOUR
+2. CHAPTER VI.
+3. THE ROCKS.
+4. THE PRINCESS SUNNYLOCKS AND THE RUNAWAY SUNBEAM.
+5. ALBERTO DAL M.
+6. ERNEST H.
+7. ELLA M.
+8. MAY P.
+9. MARIE LOUISE USHER,
+10. NORA L.
 
-> 共 68 题，[完整目录与正文 →](https://www.bqgmz.top/b/48264dbfdc29/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/48264dbfdc29/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

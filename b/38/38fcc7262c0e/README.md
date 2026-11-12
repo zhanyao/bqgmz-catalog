@@ -1,7 +1,7 @@
 # American Literary Centers (from Literature and Life)
 
-**作者** Howells, William Dean, 1837-1920 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 10 题 · 20,176 字 ｜ **来源** Project Gutenberg
+**作者** Howells, William Dean, 1837-1920 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 5 章 · 20,176 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/38fcc7262c0e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（20,176 字）。 |
-| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,017 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-roman-bare），拼接正文 440 行。 |
+| 篇幅分布 | 平均每章 3,809 字；最长 V.（7,481 字），最短 II.（2,047 字）。 |
+| 起止 | 始于「I.」，止于「V.」。 |
 | 原文溯源 | `cache/epub/3382/pg3382.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. Produced by David Widger
-2. LITERATURE AND LIFE--American Literary Centers
-3. AMERICAN LITERARY CENTRES
-4. I.
-5. II.
-6. III.
-7. IV.
-8. V.
-9. PG EDITOR'S BOOKMARKS:
-10. End of Project Gutenberg's American Literary Centers, by William Dean Howells
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
 
-> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/38fcc7262c0e/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/38fcc7262c0e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

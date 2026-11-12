@@ -1,7 +1,7 @@
 # Die andere Seite
 
-**作者** Kubin, Alfred, 1877-1959 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 121 题 · 345,615 字 ｜ **来源** Project Gutenberg
+**作者** Kubin, Alfred, 1877-1959 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 11 章 · 345,615 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3485c785aaec/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（345,615 字）。 |
-| 分章依据 | 按「题」标记切分为 121 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,856 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-caps-sections），拼接正文 7,780 行。 |
+| 篇幅分布 | 平均每章 31,419 字；最长 II.（68,124 字），最短 XIV.（1,960 字）。 |
+| 起止 | 始于「VI.」，止于「XIX.」。 |
 | 原文溯源 | `cache/epub/75988/pg75988.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Anmerkungen zur Transkription
-2. ALFRED KUBIN
-3. DIE ANDERE SEITE
-4. EIN PHANTASTISCHER ROMAN
-5. VON
-6. ALFRED KUBIN
-7. MIT 52 ABBILDUNGEN UND EINEM PLAN
-8. MÜNCHEN UND LEIPZIG BEI GEORG MÜLLER
-9. INHALTSVERZEICHNIS
-10. Seite
+1. VI.
+2. DIE REISE
+3. II.
+4. II.（1）
+5. II.（2）
+6. III.
+7. DIE AUSSENWELT（1）
+8. DIE AUSSENWELT（2）
+9. XIV.
+10. XV.
 
-> 共 121 题，[完整目录与正文 →](https://www.bqgmz.top/b/3485c785aaec/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/3485c785aaec/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

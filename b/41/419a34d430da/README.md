@@ -1,7 +1,7 @@
 # Fifty Years of Golf
 
 **作者** Hutchinson, Horace G. (Horace Gordon), 1859-1932 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 36 章 · 313,583 字 ｜ **来源** Project Gutenberg
+**规模** 37 章 · 313,583 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/419a34d430da/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（313,583 字）。 |
-| 分章依据 | 按「章」标记切分为 36 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,710 字；最长 CHAPTER XXXVI（36,030 字），最短 CHAPTER XXXIII（6,875 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXXVI」。 |
+| 分章依据 | 按「章」标记切分为 37 章（auto-chapter），拼接正文 6,955 行。 |
+| 篇幅分布 | 平均每章 8,319 字；最长 CHAPTER XXXVI（24,166 字），最短 CHAPTER XXXIII（6,875 字）。 |
 | 原文溯源 | `cache/epub/37394/pg37394.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/419a34d430da/)
+> 共 37 章，[完整目录与正文 →](https://www.bqgmz.top/b/419a34d430da/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

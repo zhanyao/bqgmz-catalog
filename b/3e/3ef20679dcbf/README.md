@@ -1,7 +1,7 @@
 # The little book of British quadrupeds
 
-**作者** May, W. ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 55 题 · 49,520 字 ｜ **来源** Project Gutenberg
+**作者** May, W. ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 46 章 · 49,520 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3ef20679dcbf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（49,520 字）。 |
-| 分章依据 | 按「题」标记切分为 55 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 900 字。 |
+| 分章依据 | 按「章」标记切分为 46 章（auto-toc-title-list），拼接正文 1,745 行。 |
+| 篇幅分布 | 平均每章 1,054 字；最长 The Sow（1,990 字），最短 The Boar（408 字）。 |
 | 原文溯源 | `cache/epub/72582/pg72582.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BY W. MAY.
-2. C. WHITTINGHAM, TOOKS COURT,
-3. CHANCERY LANE.
-4. CONTENTS.
-5. THE KYLOE OX.
-6. THE HORSE.
-7. THE RACE HORSE.
-8. THE CART HORSE.
-9. THE MULE.
-10. THE ASS.
+1. The Kyloe Ox
+2. The Horse
+3. The Race Horse
+4. The Cart Horse
+5. The Mule
+6. The Ass
+7. The Bull
+8. The Cow
+9. The Ram
+10. The Sheep
 
-> 共 55 题，[完整目录与正文 →](https://www.bqgmz.top/b/3ef20679dcbf/)
+> 共 46 章，[完整目录与正文 →](https://www.bqgmz.top/b/3ef20679dcbf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

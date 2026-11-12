@@ -1,7 +1,7 @@
 # Frijoles: A Hidden Valley in the New World
 
 **作者** Hendron, J. W. (Jerome William), 1912-; Thomas, Dorothy, 1898- [Editor]; Taylor, Jocelyn, 1899-1992 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 8 章 · 142,614 字 ｜ **来源** Project Gutenberg
+**规模** 9 章 · 142,614 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/46c02dd5371a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,12 +11,11 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（142,614 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,826 字；最长 CHAPTER IV（35,759 字），最短 CHAPTER VII（3,392 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER VIII」。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 3,330 行。 |
+| 篇幅分布 | 平均每章 15,399 字；最长 CHAPTER IV（35,759 字），最短 CHAPTER VII（3,392 字）。 |
 | 原文溯源 | `cache/epub/52997/pg52997.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 章）
+## 章节目录（前 9 章）
 
 1. CHAPTER I
 2. CHAPTER II
@@ -26,8 +25,9 @@
 6. CHAPTER VI
 7. CHAPTER VII
 8. CHAPTER VIII
+9. Appendix II, _The Pajarito Plateau and Its Ancient People_.
 
-> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/46c02dd5371a/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/46c02dd5371a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Priestess of the Flame
 
-**作者** Wright, Sewell Peaslee, 1897-1970 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 13 题 · 53,186 字 ｜ **来源** Project Gutenberg
+**作者** Wright, Sewell Peaslee, 1897-1970 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 2 部分 · 53,186 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3746273b4b0d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（53,186 字）。 |
-| 分章依据 | 按「题」标记切分为 13 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,091 字。 |
+| 分章依据 | 按「部分」标记切分为 2 部分（fallback-chunk），拼接正文 1,566 行。 |
+| 篇幅分布 | 平均每部分 26,593 字。 |
 | 原文溯源 | `cache/epub/29293/pg29293.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 2 部分）
 
-1. Priestess of the Flame
-2. By Sewell Peaslee Wright
-3. I felt my own mouth set grimly.
-4. I could cheerfully have kicked him.
-5. I kept my promise to Correy the next time Hendricks was on watch.
-6. I bowed, saying nothing.
-7. I nodded.
-8. I am leaving with Liane. I am sorry. It had to be.
-9. Hendricks."
-10. I nodded, and looked up at Liane.
+1. 第 1 部分
+2. 第 2 部分
 
-> 共 13 题，[完整目录与正文 →](https://www.bqgmz.top/b/3746273b4b0d/)
+> 共 2 部分，[完整目录与正文 →](https://www.bqgmz.top/b/3746273b4b0d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

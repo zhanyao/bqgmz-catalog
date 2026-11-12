@@ -1,7 +1,7 @@
 # Pomo Bear Doctors
 
-**作者** Barrett, S. A. (Samuel Alfred), 1879-1965 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 24 题 · 55,056 字 ｜ **来源** Project Gutenberg
+**作者** Barrett, S. A. (Samuel Alfred), 1879-1965 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 55,056 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3b2dc8547198/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（55,056 字）。 |
-| 分章依据 | 按「题」标记切分为 24 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,294 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-toc-title-list），拼接正文 1,424 行。 |
+| 篇幅分布 | 平均每章 3,582 字；最长 Origin Account（17,192 字），最短 Panther Doctors（699 字）。 |
 | 原文溯源 | `cache/epub/42979/pg42979.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Vol. 12, No. 11, pp. 443-465, plate 7 July 11, 1917
-2. POMO BEAR DOCTORS
-3. UNIVERSITY OF CALIFORNIA PUBLICATIONS
-4. DEPARTMENT OF ANTHROPOLOGY
-5. Cited as Univ. Calif. Publ. Am. Arch. Ethn. Price
-6. Vol. 12, No. 11, pp. 443-465, plate 7 July 11, 1917
-7. POMO BEAR DOCTORS
-8. BY S. A. BARRETT
-9. CONTENTS
-10. INTRODUCTION
+1. Introduction
+2. Origin Account
+3. Acquisition of Power
+4. Assistants
+5. Hiding Places
+6. The Magic Suit
+7. Weapons and their Use
+8. Rites Over the Suit
+9. Communication between Bear Doctors
+10. Panther Doctors
 
-> 共 24 题，[完整目录与正文 →](https://www.bqgmz.top/b/3b2dc8547198/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/3b2dc8547198/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

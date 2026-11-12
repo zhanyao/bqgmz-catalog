@@ -1,7 +1,7 @@
 # Poor Jack（#14222）
 
-**作者** Marryat, Frederick, 1792-1848 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 75 题 · 613,579 字 ｜ **来源** Project Gutenberg
+**作者** Marryat, Frederick, 1792-1848 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 37 篇 · 613,579 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3aba5a77a165/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（613,579 字）。 |
-| 分章依据 | 按「题」标记切分为 75 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,181 字。 |
+| 分章依据 | 按「篇」标记切分为 37 篇（通用标记切分），拼接正文 15,061 行。 |
+| 篇幅分布 | 平均每篇 16,551 字；最长 CHAPTER FORTY-ONE（49,459 字），最短 CHAPTER THREE（5,771 字）。 |
 | 原文溯源 | `cache/epub/14222/pg14222.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. POOR JACK
-2. CAPTAIN MARRYAT
-3. Works of Captain Marryat, Volume Ten
-4. With Illustrations
-5. LIST OF ILLUSTRATIONS
-6. VOLUME TEN
-7. POOR JACK
-8. CHAPTER ONE
-9. CHAPTER TWO
-10. CHAPTER THREE
+1. CHAPTER ONE
+2. CHAPTER TWO
+3. CHAPTER THREE
+4. CHAPTER FOUR
+5. CHAPTER FIVE
+6. CHAPTER SIX
+7. CHAPTER SEVEN
+8. CHAPTER EIGHT
+9. CHAPTER TEN
+10. CHAPTER ELEVEN
 
-> 共 75 题，[完整目录与正文 →](https://www.bqgmz.top/b/3aba5a77a165/)
+> 共 37 篇，[完整目录与正文 →](https://www.bqgmz.top/b/3aba5a77a165/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

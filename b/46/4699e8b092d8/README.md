@@ -1,7 +1,7 @@
 # French Reader on the Cumulative Method The story of Rodolphe and Coco the Chimpanzee
 
-**作者** Dreyspring, Adolphe, 1835-1906 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 418 题 · 293,070 字 ｜ **来源** Project Gutenberg
+**作者** Dreyspring, Adolphe, 1835-1906 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 78 章 · 293,070 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4699e8b092d8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（293,070 字）。 |
-| 分章依据 | 按「题」标记切分为 418 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 701 字。 |
+| 分章依据 | 按「章」标记切分为 78 章（auto-caps-sections），拼接正文 11,267 行。 |
+| 篇幅分布 | 平均每章 3,757 字；最长 VERB-DRILL.（58,188 字），最短 EQUALITY.（348 字）。 |
 | 原文溯源 | `cache/epub/29398/pg29398.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BY
-2. Repetitio mater studiorum
-3. PREFACE.
-4. CONTENTS.
-5. PAGE
-6. RODOLPHE, UN CONTE 7
-7. GRAMMATICAL REFERENCES WITH SYNOPTICAL TABLES 101
-8. ADVERBS, § 51 153
-9. CONJUNCTIONS. List of, § 53 155
-10. INTERJECTIONS. List of, § 54 156
+1. PREFACE.
+2. UN CONTE.
+3. VERB-DRILL MODEL.
+4. VERB-DRILL.
+5. VERB-DRILL
+6. VERB-DRILL.
+7. VERB-DRILL.
+8. VERB-DRILL.
+9. VERB-DRILL.
+10. VERB-DRILL.
 
-> 共 418 题，[完整目录与正文 →](https://www.bqgmz.top/b/4699e8b092d8/)
+> 共 78 章，[完整目录与正文 →](https://www.bqgmz.top/b/4699e8b092d8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

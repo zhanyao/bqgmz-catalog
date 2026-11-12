@@ -1,7 +1,7 @@
 # The Brooklyn Medical Journal. Vol. II. No. 2. Aug., 1888
 
-**作者** Various; Bailey, Fred. D. [Editor]; Butler, Glentworth Reeve, 1855-1926 [Editor]; Hunt, Joseph Hill, 1848-1911 [Editor]; Hutchins, Alexander, 1835-1906 [Editor]; Raymond, Joseph H. (Joseph Howard), 1845-1915 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 75 题 · 179,337 字 ｜ **来源** Project Gutenberg
+**作者** Various; Bailey, Fred. D. [Editor]; Butler, Glentworth Reeve, 1855-1926 [Editor]; Hunt, Joseph Hill, 1848-1911 [Editor]; Hutchins, Alexander, 1835-1906 [Editor]; Raymond, Joseph H. (Joseph Howard), 1845-1915 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 30 章 · 179,337 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/38a8eb3f23e2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（179,337 字）。 |
-| 分章依据 | 按「题」标记切分为 75 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,391 字。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-caps-sections），拼接正文 4,016 行。 |
+| 篇幅分布 | 平均每章 5,971 字；最长 THE BROOKLYN MEDICAL JOURNAL.（1）（55,032 字），最短 TRICHLORIDE OF IODINE.（468 字）。 |
 | 原文溯源 | `cache/epub/60493/pg60493.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. PUBLISHED MONTHLY BY THE MEDICAL SOCIETY OF THE COUNTY OF KINGS.
-2. VOL. II. BROOKLYN, N. Y., AUGUST, 1888. NO. 2.
-3. PAIN, WITH SPECIAL REFERENCE TO ITS DENTAL RELATIONS.
-4. BY WM. M. THALLON, M.D.
-5. BACTERIA, WITH A METHOD OF STAINING FOR DIAGNOSTIC PURPOSES.
-6. BY JOSEPH KETCHUM, ESQ.
-7. 1. Bacterium, or rod-like—three species.
-8. 2. Vibrio, snake-like and flexible—nine species.
-9. 3. Spirillum, or spiral, but inflexible—three species.
-10. 4. Spirochœte, spiral, but flexible—one species.
+1. THE BROOKLYN MEDICAL JOURNAL.（1）
+2. THE BROOKLYN MEDICAL JOURNAL.（2）
+3. THE FINANCIAL RESULTS OF MEDICAL PRACTICE.
+4. THE OPEN STREET-CAR WHISTLE.
+5. PROMPT TELEPHONE SERVICE.
+6. OFFICIAL ORTHOEPY.
+7. THE MEDICAL SOCIETY OF THE COUNTY OF KINGS.
+8. SCIENTIFIC BUSINESS.
+9. REPORTS OF COMMITTEES.
+10. NEW BUSINESS.
 
-> 共 75 题，[完整目录与正文 →](https://www.bqgmz.top/b/38a8eb3f23e2/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/38a8eb3f23e2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

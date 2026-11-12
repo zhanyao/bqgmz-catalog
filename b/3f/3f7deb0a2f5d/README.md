@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（120,939 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,994 字；最长 CHAPTER VIII.--TO SAVE BREVET.（19,190 字），最短 CHAPTER III.--A DELIGHTFUL DISCOVERY.（5,596 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 2,891 行。 |
+| 篇幅分布 | 平均每章 10,868 字；最长 CHAPTER VIII.--TO SAVE BREVET.（19,190 字），最短 CHAPTER III.--A DELIGHTFUL DISCOVERY.（5,596 字）。 |
 | 起止 | 始于「CHAPTER I.--TWO OLD CRONIES」，止于「CHAPTER XI.--A RED-LETTER AFTERNOON.」。 |
 | 原文溯源 | `cache/epub/54763/pg54763.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/3f7deb0a2f5d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

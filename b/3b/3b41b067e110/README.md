@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（373,353 字）。 |
-| 分章依据 | 按「章」标记切分为 29 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,874 字；最长 CHAPTER IV ~ NISÂN ISLAND; A TALE OF THE OLD TRADING DAYS（35,117 字），最短 CHAPTER IX ~ “DANDY,” THE SHIP'S DINGO（4,134 字）。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-chapter），拼接正文 8,335 行。 |
+| 篇幅分布 | 平均每章 12,872 字；最长 CHAPTER IV ~ NISÂN ISLAND; A TALE OF THE OLD TRADING DAYS（35,117 字），最短 CHAPTER IX ~ “DANDY,” THE SHIP'S DINGO（4,134 字）。 |
 | 起止 | 始于「CHAPTER I ~ PAUL, THE DIVER」，止于「CHAPTER XXIX ~ THE PATTERING OF THE MULLET」。 |
 | 原文溯源 | `cache/epub/24895/pg24895.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/3b41b067e110/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

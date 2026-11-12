@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（418,173 字）。 |
-| 分章依据 | 按「章」标记切分为 34 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,299 字；最长 CHAPTER XXI--JARRING COUNSELLORS（17,952 字），最短 CHAPTER XXXIV--CONCLUSION（3,101 字）。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-chapter），拼接正文 10,447 行。 |
+| 篇幅分布 | 平均每章 12,240 字；最长 CHAPTER XXI--JARRING COUNSELLORS（17,952 字），最短 CHAPTER XXXIV--CONCLUSION（2,662 字）。 |
 | 起止 | 始于「CHAPTER I--EASTERN SEAS」，止于「CHAPTER XXXIV--CONCLUSION」。 |
 | 原文溯源 | `cache/epub/48615/pg48615.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/46b2cdf487f4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

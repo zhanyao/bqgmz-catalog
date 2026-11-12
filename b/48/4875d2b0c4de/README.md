@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（307,794 字）。 |
-| 分章依据 | 按「章」标记切分为 39 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,892 字；最长 CHAPTER XXXIX. CONCLUSION.（18,128 字），最短 CHAPTER XXVI. CAPTAIN OF THE NINE.（2,729 字）。 |
+| 分章依据 | 按「章」标记切分为 39 章（auto-chapter），拼接正文 9,577 行。 |
+| 篇幅分布 | 平均每章 7,745 字；最长 CHAPTER XXXIX. CONCLUSION.（17,816 字），最短 CHAPTER XXVI. CAPTAIN OF THE NINE.（2,729 字）。 |
 | 起止 | 始于「CHAPTER I. COLONEL CARSON, OF CARSONVILLE.」，止于「CHAPTER XXXIX. CONCLUSION.」。 |
 | 原文溯源 | `cache/epub/60463/pg60463.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/4875d2b0c4de/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

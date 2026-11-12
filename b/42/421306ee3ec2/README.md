@@ -1,7 +1,7 @@
 # A Forgotten Hero; Or, Not for Him
 
-**作者** Holt, Emily Sarah, 1836-1893; Petherick, Horace, 1839-1919 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 30 题 · 236,783 字 ｜ **来源** Project Gutenberg
+**作者** Holt, Emily Sarah, 1836-1893; Petherick, Horace, 1839-1919 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 12 章 · 236,783 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/421306ee3ec2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（236,783 字）。 |
-| 分章依据 | 按「题」标记切分为 30 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,892 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 6,015 行。 |
+| 篇幅分布 | 平均每章 19,691 字；最长 CHAPTER NINE.（24,225 字），最短 CHAPTER ONE.（17,329 字）。 |
 | 原文溯源 | `cache/epub/23119/pg23119.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. A FORGOTTEN HERO, OR, NOT FOR HIM, BY EMILY SARAH HOLT.
-3. CHAPTER ONE.
-4. CASTLES IN THE AIR.
-5. CHAPTER TWO.
-6. THE MISTS CLEAR AWAY.
-7. CHAPTER THREE.
-8. ON THE THRESHOLD OF LIFE.
-9. The King laughed. "How can I tell thee? I never saw her."
-10. CHAPTER FOUR.
+1. CHAPTER ONE.
+2. CHAPTER TWO.
+3. CHAPTER THREE.
+4. CHAPTER FOUR.
+5. CHAPTER FIVE.
+6. CHAPTER SIX.
+7. CHAPTER SEVEN.
+8. CHAPTER EIGHT.
+9. CHAPTER NINE.
+10. CHAPTER TEN.
 
-> 共 30 题，[完整目录与正文 →](https://www.bqgmz.top/b/421306ee3ec2/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/421306ee3ec2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

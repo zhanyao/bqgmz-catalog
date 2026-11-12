@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（832,634 字）。 |
-| 分章依据 | 按「章」标记切分为 38 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,911 字；最长 CHAPTER XXVII（48,528 字），最短 CHAPTER XXXVIII—CONCLUSION（7,938 字）。 |
+| 分章依据 | 按「章」标记切分为 38 章（auto-chapter），拼接正文 21,005 行。 |
+| 篇幅分布 | 平均每章 21,793 字；最长 CHAPTER XXVII（48,528 字），最短 CHAPTER XXXVIII—CONCLUSION（7,938 字）。 |
 | 起止 | 始于「CHAPTER I」，止于「CHAPTER XXXVIII—CONCLUSION」。 |
 | 原文溯源 | `cache/epub/1260/pg1260.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/3a70fac8c1fa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

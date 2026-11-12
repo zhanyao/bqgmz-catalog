@@ -1,7 +1,7 @@
 # Europe Revised
 
 **作者** Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 25 章 · 422,282 字 ｜ **来源** Project Gutenberg
+**规模** 9 章 · 422,282 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/46359a91f0dd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（422,282 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,891 字；最长 Chapter XVII（24,938 字），最短 Chapter V（4,114 字）。 |
-| 起止 | 始于「Chapter I」，止于「Chapter XXV」。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-caps-sections），拼接正文 8,831 行。 |
+| 篇幅分布 | 平均每章 46,920 字；最长 TEA!（2）（55,853 字），最短 TEA!（3）（20,758 字）。 |
 | 原文溯源 | `cache/epub/4551/pg4551.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 9 章）
 
-1. Chapter I
-2. Chapter II
-3. Chapter III
-4. Chapter IV
-5. Chapter V
-6. Chapter VI
-7. Chapter VII
-8. Chapter VIII
-9. Chapter IX
-10. Chapter X
+1. NOTE（1）
+2. NOTE（2）
+3. NOTE（3）
+4. TEA!（1）
+5. TEA!（2）
+6. TEA!（3）
+7. EATEN（1）
+8. EATEN（2）
+9. EATEN（3）
 
-> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/46359a91f0dd/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/46359a91f0dd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

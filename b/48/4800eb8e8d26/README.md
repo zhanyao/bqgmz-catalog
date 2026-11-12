@@ -1,7 +1,7 @@
 # The Tourist's Guide through the Country of Caernarvon containing a short sketch of its History, Antiquities, &c.
 
-**作者** Williams, P. B. (Peter Bailey), 1763-1836 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 13 段 · 263,711 字 ｜ **来源** Project Gutenberg
+**作者** Williams, P. B. (Peter Bailey), 1763-1836 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 25 章 · 263,711 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4800eb8e8d26/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（263,711 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,285 字；最长 Gyffin, a Parish Church, about half a mile off, on the road （38,929 字），最短 {69}  _Caer_, the fortified Town; _yn Arvon_, in the Distric（3,462 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-caps-sections），拼接正文 6,215 行。 |
+| 篇幅分布 | 平均每章 10,548 字；最长 GALLIENUS, TETRICUS SENIOR, TETRICUS CÆSAR, CARAUSIUS, and ALECTUS.（63,554 字），最短 CARNARVONSHIRE_.（404 字）。 |
 | 原文溯源 | `cache/epub/45865/pg45865.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Gyffin, a Parish Church, about half a mile off, on the road
-2. The Slate Quarry is distant about six miles from Bangor, on
-3. It is probable, that after the traveller has examined the Ci
-4. — The Tower, that long hath stood
-5. We cannot quit this place without informing the stranger, (i
-6. The extent of the Parish is about five miles in length, and
-7. Llanberis, in the Commot of Isgorfai, and Hundred of Arfon,
-8. To that mighty King, who rashly undertook
-9. TRE’R CEIRI.—Across a hollow, from one summit of the Rivals
-10. “Sacred to the memory of Timothy Edwards, Esq. of Nanhoron,
+1. LORD LIEUTENANT, & CUSTOS HOTULORUM, OF THE COUNTY OF CAERNARVON
+2. CONSTABLE OF BEAUMARIS CASTLE, &c. &c.
+3. ADVERTISEMENT.
+4. CARNARVONSHIRE_.
+5. CONWAY.
+6. BANGOR.
+7. PIVS TI IX AVG ARAB
+8. MASON’S CARACTACUS.
+9. CARNARVON,（1）
+10. CARNARVON,（2）
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/4800eb8e8d26/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/4800eb8e8d26/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

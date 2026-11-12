@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（639,567 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 30,455 字；最长 CHAPTER XXI: OLD FRIENDS（43,766 字），最短 CHAPTER XVI: IN NERO'S PALACE（26,671 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 14,662 行。 |
+| 篇幅分布 | 平均每章 30,381 字；最长 CHAPTER XXI: OLD FRIENDS（43,766 字），最短 CHAPTER XVI: IN NERO'S PALACE（26,671 字）。 |
 | 起止 | 始于「CHAPTER I: A HOSTAGE」，止于「CHAPTER XXI: OLD FRIENDS」。 |
 | 原文溯源 | `cache/epub/7037/pg7037.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/477f059d5909/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

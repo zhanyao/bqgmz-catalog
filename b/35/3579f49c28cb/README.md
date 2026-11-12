@@ -1,7 +1,7 @@
 # Dissolving Views: Romanfragmente von Leo Wolfram.
 
-**作者** Prantner, Ferdinand, 1817-1871 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 27 题 · 430,745 字 ｜ **来源** Project Gutenberg
+**作者** Prantner, Ferdinand, 1817-1871 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 11 部分 · 430,745 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3579f49c28cb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（430,745 字）。 |
-| 分章依据 | 按「题」标记切分为 27 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 15,953 字。 |
+| 分章依据 | 按「部分」标记切分为 11 部分（fallback-chunk），拼接正文 9,654 行。 |
+| 篇幅分布 | 平均每部分 39,158 字；最长 第 6 部分（43,150 字），最短 第 11 部分（2,942 字）。 |
 | 原文溯源 | `cache/epub/54754/pg54754.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 部分）
 
-1. Anmerkungen zur Transkription
-2. Romanfragmente
-3. Seite
-4. Vorrede v
-5. Goldnebel 1
-6. Der Taschenteufel 44
-7. Zimmerreise 67
-8. Der Prior von Sankt Martin 143
-9. Konkurrenz 175
-10. Ein thätiger Freund 213
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 27 题，[完整目录与正文 →](https://www.bqgmz.top/b/3579f49c28cb/)
+> 共 11 部分，[完整目录与正文 →](https://www.bqgmz.top/b/3579f49c28cb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

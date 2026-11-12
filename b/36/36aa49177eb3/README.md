@@ -1,7 +1,7 @@
 # Les pirates chinois
 
-**作者** Loviot, Fanny ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 10 段 · 212,114 字 ｜ **来源** Project Gutenberg
+**作者** Loviot, Fanny ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 8 章 · 212,114 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/36aa49177eb3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（212,114 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,211 字；最长 Mais cette ville allait de jour en jour changer de physionom（39,843 字），最短 Après sept jours de navigation dans la mer Rouge, nous arriv（12,179 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 4,286 行。 |
+| 篇幅分布 | 平均每章 24,447 字；最长 CHAPITRE VI（54,223 字），最短 CHAPITRE IX（14,202 字）。 |
 | 原文溯源 | `cache/epub/75379/pg75379.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 章）
 
-1. Mais cette ville allait de jour en jour changer de physionom
-2. Notre passage en cette ville devait être signalé par un de c
-3. Un des Chinois qui avait tiré notre horoscope vint offrir au
-4. La brise était molle, et pendant cette journée nous avançâme
-5. Les dernières ténèbres fuyaient pour faire place à l’aurore.
-6. Le subrécargue prit la parole en me jetant un regard de repr
-7. Le lendemain matin, à l’approche du jour, toutes ces bêtes h
-8. Après être restée environ deux heures sur le pont, je rentra
-9. Nous avons parlé d’un navire qui s’était perdu sur la côte o
-10. Après sept jours de navigation dans la mer Rouge, nous arriv
+1. CHAPITRE II
+2. CHAPITRE III
+3. CHAPITRE IV
+4. CHAPITRE V
+5. CHAPITRE VI
+6. CHAPITRE VII
+7. CHAPITRE VIII
+8. CHAPITRE IX
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/36aa49177eb3/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/36aa49177eb3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

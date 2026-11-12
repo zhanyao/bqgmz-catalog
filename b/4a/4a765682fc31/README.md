@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（155,820 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,130 字；最长 Chapter 10: Crocodile Dundee（21,239 字），最短 Chapter 13: Surveying a Forest（3,130 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-toc-title-list），拼接正文 3,526 行。 |
+| 篇幅分布 | 平均每章 10,962 字；最长 Chapter 10: Crocodile Dundee（21,239 字），最短 Chapter 13: Surveying a Forest（3,130 字）。 |
 | 起止 | 始于「Chapter 1: A Fish Shop in Mapusa」，止于「Chapter 14: Chief Guest At Belgaum」。 |
 | 原文溯源 | `cache/epub/10347/pg10347.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/4a765682fc31/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

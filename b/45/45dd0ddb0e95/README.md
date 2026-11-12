@@ -1,7 +1,7 @@
 # Philip Rollo; or, the Scottish Musketeers, Vol. 2 (of 2)
 
 **作者** Grant, James, 1822-1887 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 48 章 · 556,431 字 ｜ **来源** Project Gutenberg
+**规模** 49 章 · 556,431 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/45dd0ddb0e95/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（556,431 字）。 |
-| 分章依据 | 按「章」标记切分为 48 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,592 字；最长 CHAPTER XXIII.（21,316 字），最短 CHAPTER III.（5,909 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XLVIII.」。 |
+| 分章依据 | 按「章」标记切分为 49 章（auto-chapter），拼接正文 13,579 行。 |
+| 篇幅分布 | 平均每章 11,316 字；最长 CHAPTER XXIII.（21,316 字），最短 NOTES.（4,267 字）。 |
 | 原文溯源 | `cache/epub/64670/pg64670.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 48 章，[完整目录与正文 →](https://www.bqgmz.top/b/45dd0ddb0e95/)
+> 共 49 章，[完整目录与正文 →](https://www.bqgmz.top/b/45dd0ddb0e95/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Harper's Young People, November 1, 1881 An Illustrated Weekly
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 74 题 · 75,819 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 75,819 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3454e47f8350/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（75,819 字）。 |
-| 分章依据 | 按「题」标记切分为 74 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,024 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 2,104 行。 |
+| 篇幅分布 | 平均每章 5,832 字。 |
 | 原文溯源 | `cache/epub/49862/pg49862.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE SURPRISING EXPERIENCE OF BEN BUTTLES.
-2. BY FRANK H. CONVERSE.
+1. VOL. III.--NO. 105. PUBLISHED BY HARPER & BROTHERS, NEW YORK. PRICE FOUR
+2. CENTS.
 3. THE HOME OF THE REINDEER.
-4. BY JOHN HABBERTON.
-5. THE TALKING LEAVES.[1]
-6. BY WILLIAM O. STODDARD.
-7. CHAPTER V.
-8. THE MAN WHO CARED FOR NOBODY.
-9. BY LILLIE E. BARR.
-10. BITS OF ADVICE.
+4. ABOUT USING ODD MINUTES.
+5. HOW TO INTRODUCE PEOPLE.
+6. HAUS.]
+7. ANECDOTES OF COUNTRY LIFE.
+8. GERTRUDE HESTER C.
+9. C. Y. P. R. U.
+10. E. LULU F.
 
-> 共 74 题，[完整目录与正文 →](https://www.bqgmz.top/b/3454e47f8350/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/3454e47f8350/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

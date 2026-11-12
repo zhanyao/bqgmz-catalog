@@ -1,7 +1,7 @@
 # The Letters of Lord Nelson to Lady Hamilton, Vol. I. With A Supplement Of Interesting Letters By Distinguished Characters
 
-**作者** Nelson, Horatio Nelson, Viscount, 1758-1805 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 113,948 字 ｜ **来源** Project Gutenberg
+**作者** Nelson, Horatio Nelson, Viscount, 1758-1805 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 113,948 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/385b8b59b11f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（113,948 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,789 字；最长 Yesterday, the subject turned on the cow-pox. A gentleman de（40,036 字），最短 God bless you, my dear Lady Hamilton; and, be assured, no ma（13,885 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-roman-bare），拼接正文 4,143 行。 |
+| 篇幅分布 | 平均每章 3,398 字；最长 VI.（12,186 字），最短 VII.（312 字）。 |
+| 起止 | 始于「I.」，止于「X.」。 |
 | 原文溯源 | `cache/epub/15469/pg15469.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. Yesterday, the subject turned on the cow-pox. A gentleman de
-2. Our weather has been cold these two days, but not bad. I hav
-3. The fleet are ready to come forth; but, they will not come f
-4. I sit down, my Dear Mrs. T. by desire of poor Thomson, to wr
-5. God bless you, my dear Lady Hamilton; and, be assured, no ma
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/385b8b59b11f/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/385b8b59b11f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

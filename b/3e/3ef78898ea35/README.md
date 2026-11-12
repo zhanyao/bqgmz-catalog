@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（186,031 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,943 字；最长 CHAPTER X—CHÂTEAU-THIERRY（23,412 字），最短 CHAPTER IX—“THE OLD VAN SEEZEUM ON ITS WAY”（5,194 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 4,787 行。 |
+| 篇幅分布 | 平均每章 10,757 字；最长 CHAPTER X—CHÂTEAU-THIERRY（23,412 字），最短 CHAPTER IX—“THE OLD VAN SEEZEUM ON ITS WAY”（5,194 字）。 |
 | 起止 | 始于「CHAPTER I—“WHAT OUTFIT, BUDDY?”」，止于「CHAPTER XVII—“FINEE! LA GUERRE FINEE!”」。 |
 | 原文溯源 | `cache/epub/57271/pg57271.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/3ef78898ea35/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

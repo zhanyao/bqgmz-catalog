@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（4,427 字）。 |
-| 分章依据 | 按「章」标记切分为 29 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 152 字。 |
-| 起止 | 始于「CHAPTER I.   IN THE CLUB」，止于「CHAPTER XXIX.   RACES AND A WIN」。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-chapter），拼接正文 529 行。 |
+| 篇幅分布 | 平均每章 27 字。 |
+| 起止 | 始于「CHAPTER I. IN THE CLUB」，止于「CHAPTER XXIX. RACES AND A WIN」。 |
 | 原文溯源 | `cache/epub/57485/pg57485.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -32,4 +32,4 @@
 > 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/33d2e955d9f1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

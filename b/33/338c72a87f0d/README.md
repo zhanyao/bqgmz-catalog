@@ -1,7 +1,7 @@
 # The Viking's Skull
 
 **作者** Carling, John R.; Cuneo, Cyrus, 1879-1916 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 20 章 · 469,240 字 ｜ **来源** Project Gutenberg
+**规模** 24 章 · 469,240 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/338c72a87f0d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（469,240 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,462 字；最长 CHAPTER I（75,246 字），最短 CHAPTER XX（12,325 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XX」。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 12,870 行。 |
+| 篇幅分布 | 平均每章 19,496 字；最长 CHAPTER XIX（部2）（34,725 字），最短 CHAPTER II（8,035 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XX（部2）」。 |
 | 原文溯源 | `cache/epub/60414/pg60414.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -22,14 +22,14 @@
 2. CHAPTER II
 3. CHAPTER III
 4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. CHAPTER X
+5. CHAPTER I（部2）
+6. CHAPTER II（部2）
+7. CHAPTER III（部2）
+8. CHAPTER IV（部2）
+9. CHAPTER V（部2）
+10. CHAPTER VI（部2）
 
-> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/338c72a87f0d/)
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/338c72a87f0d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
