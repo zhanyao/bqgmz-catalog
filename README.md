@@ -1,6 +1,6 @@
 # Biquge · Public-Domain Book Catalog
 
-**English** ｜ [简体中文](README.zh.md) ｜ [Français](README.fr.md) ｜ [Deutsch](README.de.md) ｜ [Suomi](README.fi.md)
+**English** ｜ [简体中文](README.zh.md) ｜ [Français](README.fr.md) ｜ [Deutsch](README.de.md) ｜ [Suomi](README.fi.md) ｜ [日本語](README.ja.md)
 
 **96,220 public-domain books, 118 languages, 2,808,551 chapters** — an open dataset of bibliographic metadata only (no full text). Every book has its own Markdown page with title, author, dynasty, language, genre, chapter and character counts, and source attribution, linking back to its reading page.
 
@@ -60,7 +60,7 @@ Field definitions: [DATA.md](DATA.md).
 ## Repository layout
 
 ```
-README.md                 English (default), plus README.zh / fr / de / fi
+README.md                 English (default), plus README.zh / fr / de / fi / ja
 b/<xx>/<id>/README.md     one page per book, xx = first two hex digits of workId (256 shards)
 list/lang/<code>/         index by language (→ country/region)
 list/style/<slug>/        index by chapter genre
