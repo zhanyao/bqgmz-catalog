@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Thet Oera Linda Bok, Naar een Handschrift uit de Dertiende Eeuw](../../../b/ee/eeef4a0d41ba/) | Ottema, J. G. (Jan Gerhardus), 1804-1879 [Translator] | 题 | 118 | 413,941 |
+| 1 | [Thet Oera Linda Bok, Naar een Handschrift uit de Dertiende Eeuw](../../../b/ee/eeef4a0d41ba/) | Ottema, J. G. (Jan Gerhardus), 1804-1879 [Translator] | 章 | 19 | 413,941 |

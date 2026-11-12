@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Libahunt: Draama wiies vaatuses](../../../b/1d/1d947c0ae9ee/) | Kitzberg, August, 1855-1927 | 段 | 3 | 64,168 |
+| 1 | [Libahunt: Draama wiies vaatuses](../../../b/1d/1d947c0ae9ee/) | Kitzberg, August, 1855-1927 | 章 | 3 | 64,168 |

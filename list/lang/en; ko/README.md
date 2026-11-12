@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Korean—English Dictionary](../../../b/d0/d07c10fcd760/) | Kuperman, Leon | 题 | 13 | 38,835 |
+| 1 | [Korean—English Dictionary](../../../b/d0/d07c10fcd760/) | Kuperman, Leon | 篇 | 20 | 38,835 |

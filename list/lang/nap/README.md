@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Il pastor fido in lingua napolitana](../../../b/b2/b2b84330c3ce/) | Guarini, Battista, 1538-1612; Basile, Domenico, active 17th century [Translator] | 题 | 64 | 175,484 |
+| 1 | [Il pastor fido in lingua napolitana](../../../b/b2/b2b84330c3ce/) | Guarini, Battista, 1538-1612; Basile, Domenico, active 17th century [Translator] | 场 | 5 | 175,484 |

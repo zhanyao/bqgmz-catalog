@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Florante Versión castellana del poema tagalo con un ensayo crítico](../../../b/f0/f04ec4e87ed9/) | Balagtas, Francisco, 1788-1862; De los Santos, Epifanio, 1871-1928 [Translator] | 段 | 8 | 170,413 |
+| 1 | [Florante Versión castellana del poema tagalo con un ensayo crítico](../../../b/f0/f04ec4e87ed9/) | Balagtas, Francisco, 1788-1862; De los Santos, Epifanio, 1871-1928 [Translator] | 篇 | 9 | 170,413 |

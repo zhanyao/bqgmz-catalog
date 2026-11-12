@@ -9,6 +9,7 @@
 | Project Gutenberg（gutenberg_full） | 公有领域（美国法） | 须保留其许可声明；本站正文尾部保留了 PG 许可证块 |
 | chinese-poetry（poetry） | 公有领域 | 诗词总集 |
 | scripta-sinica（scripta） | **CC BY-SA** | 汉籍电子文献资料库；引用须署名并以相同方式共享 |
+| 文硕阁（wenshuoge） | 公有领域 | 古籍原典；书目为抓取整理，正文以站点阅读本为准 |
 
 本仓库的书目数据按上述口径发布；引用时请注明来源库与本仓库地址。
 

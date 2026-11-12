@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [The Annals of the Cakchiquels](../../../b/39/39b99960ff09/) | Brinton, Daniel G. (Daniel Garrison), 1837-1899 [Editor]; Arana Xajilá, Francisco Hernández, 1502?-1581; Díaz Gebuta Quej, Francisco, active 16th century [Contributor] | 段 | 15 | 314,468 |
+| 1 | [The Annals of the Cakchiquels](../../../b/39/39b99960ff09/) | Brinton, Daniel G. (Daniel Garrison), 1837-1899 [Editor]; Arana Xajilá, Francisco Hernández, 1502?-1581; Díaz Gebuta Quej, Francisco, active 16th century [Contributor] | 章 | 9 | 314,468 |

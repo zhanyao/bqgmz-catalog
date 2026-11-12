@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Niederländische Volkslieder](../../../b/71/71df53583f81/) | Hoffmann von Fallersleben, August Heinrich, 1798-1874 [Compiler] | 题 | 217 | 447,588 |
+| 1 | [Niederländische Volkslieder](../../../b/71/71df53583f81/) | Hoffmann von Fallersleben, August Heinrich, 1798-1874 [Compiler] | 篇 | 284 | 447,588 |

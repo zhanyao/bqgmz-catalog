@@ -1,958 +1,1010 @@
-# 英美 · 公版古籍与 Gutenberg 书目（54,948 部）
+# 英美 · 公版古籍与 Gutenberg 书目（61,577 部）
 
 按**字数降序**排列。
 
-[← 返回首页](../../../../README.md) ｜ 第 **55 / 55** 页
+[← 返回首页](../../../../README.md) ｜ 第 **55 / 62** 页
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 54001 | ["To Invade New York...."](../../../../b/61/6114b36ba684/) | Lewis, Irwin; Summers, Leo, 1925-1985 [Illustrator] | 题 | 13 | 22,365 |
-| 54002 | [New England's rural winter](../../../../b/17/17e64e774f19/) | Murray, John Chick, 1860-1934 | 题 | 11 | 22,353 |
-| 54003 | [The Gray Nun](../../../../b/b7/b77799e7f814/) | Eschstruth, Nataly von, 1860-1939; Strachey, Lionel, 1864-1927 [Translator] | 题 | 8 | 22,339 |
-| 54004 | [Bryce Canyon National Park, Utah (1952)](../../../../b/99/994b6029bed5/) | United States. National Park Service | 题 | 16 | 22,320 |
-| 54005 | [Measure for a Loner](../../../../b/fc/fc5b22b481ba/) | Harmon, Jim, 1933-2010 | 题 | 24 | 22,318 |
-| 54006 | [Half past Alligator](../../../../b/03/03892ef44cb5/) | Colvin, Donald; Barth, Ernest Kurt, 1929-2001 [Illustrator] | 题 | 5 | 22,302 |
-| 54007 | [Prime Difference](../../../../b/43/43e248cd5e17/) | Nourse, Alan Edward, 1928-1992; Schoenherr, John, 1935-2010 [Illustrator] | 题 | 10 | 22,296 |
-| 54008 | [Trouble on Sun-side](../../../../b/87/876eb5015ad1/) | Tenneshaw, S. M.; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 6 | 22,293 |
-| 54009 | [A way of life](../../../../b/ce/ce537a53b791/) | Osler, William, Sir, 1849-1919 | 题 | 7 | 22,268 |
-| 54010 | [Index of the Project Gutenberg Works of Anthony Hope](../../../../b/fd/fdce783439f4/) | Hope, Anthony, 1863-1933; Widger, David, 1932-2021 [Editor] | 章 | 22 | 22,266 |
-| 54011 | [We Run From the Hunted!](../../../../b/57/571b79258db3/) | Marlowe, Stephen, 1928-2008; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 6 | 22,264 |
-| 54012 | [Appropriate Clothes for the High School Girl](../../../../b/bd/bda13db35bfe/) | Alexander, Virginia M., 1879-1949 | 题 | 18 | 22,244 |
-| 54013 | [Jupiter found](../../../../b/03/03cfa67cfd9a/) | Young, Robert F., 1915-1986; Finlay, Virgil, 1914-1971 [Illustrator] | 题 | 6 | 22,241 |
-| 54014 | [Santa Claus Gets His Wish: A Christmas Play in One Act For Young Children](../../../../b/cb/cb1fb8287427/) | Fisher, Blanche Proctor | 章 | 4 | 22,235 |
-| 54015 | [Jamieson](../../../../b/54/5419966a16dc/) | Doede, William R., 1918-2007; Gray [Illustrator] | 题 | 8 | 22,232 |
-| 54016 | [Water pollution—Wells](../../../../b/20/20aa6af670a7/) | Watson, Irving A. (Irving Allison), 1849-1918 | 题 | 12 | 22,226 |
-| 54017 | [Asteroid Justice](../../../../b/3c/3c96feb89df6/) | Thiessen, V. E.; Napoli, Vincent, 1907-1981 [Illustrator] | 题 | 12 | 22,214 |
-| 54018 | [Balloon observation, and instructions on the subject of work in the basket](../../../../b/77/77ffa032774d/) | United States. War Department. Division of Military Aeronautics | 章 | 3 | 22,207 |
-| 54019 | [The Nursery, August 1881, Vol. XXX A Monthly Magazine for Youngest Readers](../../../../b/a1/a1ce44eab5a6/) | Various | 题 | 39 | 22,181 |
-| 54020 | [A day with the poet Burns](../../../../b/d5/d503215248f7/) | Burns, Robert, 1759-1796 [Contributor]; Hardy, Dudley, 1867-1922 [Illustrator]; Haslehust, E. W., 1866-1949 [Illustrator]; Neatby, William James, 1860-1910 [Illustrator] | 题 | 9 | 22,179 |
-| 54021 | [Plain tales, chiefly intended for the use of charity schools](../../../../b/79/79ae21af67a4/) | Anonymous | 题 | 16 | 22,175 |
-| 54022 | [Trinity Site: 1945-1995. A National Historic Landmark, White Sands Missile Range, New Mexico](../../../../b/55/55f8493a31fe/) | White Sands Missile Range (N.M.). Public Affairs Office | 题 | 19 | 22,169 |
-| 54023 | [The Fourth-Dimensional Reaches of the Exposition: San Francisco, 1915](../../../../b/75/75311e780603/) | Williams, Cora Lenore, 1865-1937 | 题 | 8 | 22,166 |
-| 54024 | [The little merchant](../../../../b/7d/7d0e346815eb/) | Optic, Oliver, 1822-1897 | 题 | 10 | 22,163 |
-| 54025 | [Etiquette for Little Folks](../../../../b/8e/8e15e75acba2/) | Mackarness, Henry S., Mrs., 1826-1881 | 题 | 33 | 22,162 |
-| 54026 | [Mark Twain's Burlesque Autobiography](../../../../b/c3/c3d08c416f6c/) | Twain, Mark, 1835-1910 | 章 | 5 | 22,158 |
-| 54027 | [A New Subspecies of Slider Turtle (Pseudemys scripta) from Coahuila, México](../../../../b/41/4124e9942b45/) | Legler, John M. | 题 | 6 | 22,138 |
-| 54028 | [The Coming Night A Sermon Preached in Cromer Church, on Friday, June 12, 1857, on occasion of the death of Anna Gurney](../../../../b/e6/e69114941210/) | Hoare, Edward, 1812-1894 | 题 | 10 | 22,129 |
-| 54029 | [Problem on Balak](../../../../b/d2/d2a065276add/) | Aycock, Roger D., 1914-2004; Francis, Dick [Illustrator] | 题 | 5 | 22,113 |
-| 54030 | [The Dying Indian's Dream: A Poem](../../../../b/6b/6b94950f78c9/) | Rand, Silas Tertius, 1810-1889 | 题 | 17 | 22,098 |
-| 54031 | [Bulkies [Sweaters to Knit and Crochet]](../../../../b/a5/a556984d0581/) | American Thread Company | 题 | 43 | 22,089 |
-| 54032 | [The Bible, Douay-Rheims, Book 35: Amos The Challoner Revision](../../../../b/27/27a90f4ace37/) | — | 题 | 13 | 22,087 |
-| 54033 | [The picnic party](../../../../b/a1/a160ea597d69/) | Optic, Oliver, 1822-1897; Andrew, John, 1815-1870 [Engraver] | 题 | 10 | 22,076 |
-| 54034 | [Decision](../../../../b/87/875a7464f1af/) | Robinson, Frank M., 1926-2014; Smith, H. R. [Illustrator] | 题 | 8 | 22,065 |
-| 54035 | [The Tahquitch Maiden: A Tale of the San Jacintos](../../../../b/2a/2a3bcddfa755/) | Spalding, Phebe Estelle, 1859-1937; Oliver, Jean [Illustrator] | 题 | 6 | 22,057 |
-| 54036 | [Ignatz](../../../../b/0c/0c7e1db002f6/) | Goulart, Ron, 1933-2022 | 题 | 15 | 22,048 |
-| 54037 | [The Red Flower: Poems Written in War Time](../../../../b/49/496b274943f6/) | Van Dyke, Henry, 1852-1933 | 题 | 38 | 22,042 |
-| 54038 | [One Man's Poison](../../../../b/e0/e0f87f875f2d/) | Sheckley, Robert, 1928-2005; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 5 | 22,039 |
-| 54039 | ["Hear Ye the Rod, and Who Hath Appointed It" A Sermon for the Fast Day, October 7, 1857](../../../../b/a1/a1b8b07fa8ba/) | Cowan, James Galloway, 1826-1875 | 题 | 5 | 22,019 |
-| 54040 | [Star Performer](../../../../b/ef/ef4d68a7c14a/) | Shea, Robert, 1933-1994; Francis, Dick [Illustrator] | 题 | 8 | 22,002 |
-| 54041 | [Moo cow tales](../../../../b/9f/9fb3c61de4b8/) | Bland, Rosamund E. Nesbit (Rosamund Edith Nesbit), 1886-1950; Hardy, E. Stuart, 1865-1935 [Illustrator] | 题 | 8 | 21,993 |
-| 54042 | [How to Succeed](../../../../b/31/31f27bfe61e5/) | Dunigan, Rosetta | 题 | 14 | 21,971 |
-| 54043 | [The Hero（#35770）](../../../../b/00/006342287b04/) | Wilber, Elaine; Orban, Paul, 1896-1974 [Illustrator] | 题 | 6 | 21,970 |
-| 54044 | [Simple Plumbing Repairs for the Home and Farmstead](../../../../b/24/2444c2d5a11b/) | Anonymous | 题 | 30 | 21,950 |
-| 54045 | [Samantha among the Brethren — Volume 2](../../../../b/25/25e105af7dbe/) | Holley, Marietta, 1836-1926 | 章 | 4 | 21,950 |
-| 54046 | [The Freelancer](../../../../b/5e/5e58a1038107/) | Zacks, Robert; Ashman, William [Illustrator] | 题 | 10 | 21,948 |
-| 54047 | [A Working Plan for Colored Antituberculosis Leagues](../../../../b/a0/a03960201ec0/) | Wertenbaker, Charles Poindexter, 1860-1916 | 题 | 5 | 21,946 |
-| 54048 | [Too close to the forest](../../../../b/4c/4c4015203c45/) | Walton, Bryce, 1918-1988; Reynolds, Al | 题 | 5 | 21,941 |
-| 54049 | [Chain Reaction](../../../../b/95/9588ff501859/) | Ellanby, Boyd; Doktor [Illustrator] | 题 | 9 | 21,939 |
-| 54050 | [Color Blind](../../../../b/a5/a54ab3d9bd6e/) | Stearns, Charles A.; Wood, Wallace, 1927-1981 [Illustrator] | 题 | 6 | 21,928 |
-| 54051 | [The Graveyard of Space](../../../../b/dc/dc18e3592a8b/) | Marlowe, Stephen, 1928-2008; McCauley, Harold W. (Harold William), 1913-1977 [Illustrator] | 题 | 7 | 21,908 |
-| 54052 | [Breakdown](../../../../b/4f/4f2362fa2c69/) | Kastle, Herbert D., 1924-1987; Cowles [Illustrator] | 题 | 11 | 21,893 |
-| 54053 | [George Loves Gistla](../../../../b/8e/8ed09c7c6962/) | McKimmey, James, 1923-2011 | 题 | 5 | 21,891 |
-| 54054 | [Bigfoot Joe, and Others: Figments of Fancy](../../../../b/d6/d6d82dbe7d3f/) | Bedford-Jones, H. (Henry), 1887-1949 | 题 | 27 | 21,863 |
-| 54055 | [Time and the Woman](../../../../b/67/677480e0246c/) | Dewey, G. Gordon (George Gordon), 1906-1975 | 题 | 10 | 21,860 |
-| 54056 | [Harwood's Vortex](../../../../b/17/1752f6f7a35e/) | Silverberg, Robert, 1935- | 题 | 11 | 21,839 |
-| 54057 | [General Harmar's Campaign](../../../../b/7c/7c648991ef47/) | Public Library of Fort Wayne and Allen County | 题 | 12 | 21,816 |
-| 54058 | [Index of the Project Gutenberg Works of George Barr McCutcheon](../../../../b/3d/3df920698efe/) | McCutcheon, George Barr, 1866-1928; Widger, David, 1932-2021 [Editor] | 章 | 34 | 21,815 |
-| 54059 | [The immigration offices and statistics from 1857 to 1903](../../../../b/30/30ddac446599/) | Argentina. Ministerio de Agricultura | 章 | 3 | 21,808 |
-| 54060 | [Peter Merton's private mint](../../../../b/b7/b78f1ed6e6df/) | Ellison, Harlan, 1934-2018; Finlay, Virgil, 1914-1971 [Illustrator] | 题 | 8 | 21,806 |
-| 54061 | [Resurrection Seven](../../../../b/10/10a74e716579/) | Marlowe, Stephen, 1928-2008 | 题 | 10 | 21,773 |
-| 54062 | [The Drug](../../../../b/38/38fada8ead68/) | MacApp, C. C., 1917-1971; Martinez [Illustrator] | 题 | 8 | 21,772 |
-| 54063 | [Spool Knitting](../../../../b/fa/fa8a2328403a/) | McCormack, Mary A. | 题 | 41 | 21,752 |
-| 54064 | [The Plague](../../../../b/dc/dc8a92b45635/) | Keller, Teddy; Schoenherr, John, 1935-2010 [Illustrator] | 题 | 6 | 21,751 |
-| 54065 | [The rogue waveform](../../../../b/ae/ae1345789f7b/) | Stockheker, R. W. (Ralph Walter), 1908-2004; Orban, Paul, 1896-1974 [Illustrator] | 题 | 6 | 21,736 |
-| 54066 | [Summer Snow Storm](../../../../b/f2/f2a5ef43e166/) | Marlowe, Stephen, 1928-2008; Llewellyn [Illustrator] | 题 | 9 | 21,731 |
-| 54067 | [The Little Gray Lady 1909](../../../../b/5c/5cbaac375a7c/) | Smith, Francis Hopkinson, 1838-1915 | 题 | 7 | 21,683 |
-| 54068 | [One-Shot](../../../../b/b0/b072daa6a623/) | Blish, James, 1921-1975; Van Dongen, H. R., 1920-2010 [Illustrator] | 题 | 8 | 21,680 |
-| 54069 | [Problem Planet](../../../../b/ba/ba62121e6269/) | Winterbotham, R. R. (Russell Robert), 1904-1971; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 6 | 21,673 |
-| 54070 | [The Hitch Hikers](../../../../b/95/95820dd362ce/) | McCain, Vernon L. | 题 | 5 | 21,667 |
-| 54071 | [Prairie-Dog Town](../../../../b/ab/aba3fab717a0/) | Baum, L. Frank (Lyman Frank), 1856-1919; Barney, Maginel Wright, 1877-1966 [Illustrator] | 章 | 8 | 21,664 |
-| 54072 | [Great Lent: A School of Repentance. Its Meaning for Orthodox Christians](../../../../b/6f/6f475f438e58/) | Schmemann, Alexander, 1921-1983 | 题 | 35 | 21,656 |
-| 54073 | [What Price Peace?](../../../../b/6c/6cb239242f04/) | Libby, Frederick J. (Frederick Joseph), 1874-1970; National Council for Prevention of War (U.S.) | 题 | 23 | 21,634 |
-| 54074 | [The hyena](../../../../b/b4/b4b39715f50c/) | Howard, Robert E. (Robert Ervin), 1906-1936; Rankin, Hugh, 1878-1956 [Illustrator] | 题 | 6 | 21,611 |
-| 54075 | [21](../../../../b/80/801c619da141/) | Crane, Frank, 1861-1928 | 题 | 24 | 21,592 |
-| 54076 | [When a Man Comes to Himself](../../../../b/e8/e8701e593ad3/) | Wilson, Woodrow, 1856-1924 | 题 | 8 | 21,591 |
-| 54077 | [The Nursery, December 1877, Vol. XXII. No. 6 A Monthly Magazine for Youngest Readers](../../../../b/75/752924e937bd/) | Various | 题 | 35 | 21,577 |
-| 54078 | [Laments](../../../../b/d3/d3cf3938a4e2/) | Kochanowski, Jan, 1530-1584; Prall, Dorothea [Translator] | 题 | 28 | 21,574 |
-| 54079 | [Always a Qurono](../../../../b/bd/bd757719fc24/) | Harmon, Jim, 1933-2010; Ritter, Bob [Illustrator] | 题 | 6 | 21,558 |
-| 54080 | [The Venus Evil](../../../../b/72/722b5fb70b6f/) | Geier, Chester S., 1921-1990 | 题 | 5 | 21,544 |
-| 54081 | [Mammals from Tamaulipas, Mexico](../../../../b/18/184344ed2f21/) | Baker, Rollin H. (Rollin Harold), 1916-2007 | 题 | 31 | 21,531 |
-| 54082 | [The Bryd](../../../../b/16/163884814683/) | Loomis, Noel M., 1905-1969; Vestal, Herman B., 1916-2007 [Illustrator] | 题 | 6 | 21,528 |
-| 54083 | [The Deep One](../../../../b/67/674a0c0f4ff4/) | Ruzic, Neil P., 1930-2004; Dillon, Diane, 1933- [Illustrator]; Dillon, Leo, 1933-2012 [Illustrator] | 题 | 6 | 21,513 |
-| 54084 | [The Other Now](../../../../b/04/0428d1b73da4/) | Leinster, Murray, 1896-1975; Bard, Philip, 1912-1966 [Illustrator] | 题 | 5 | 21,502 |
-| 54085 | [Earthmen Ask No Quarter!](../../../../b/71/7129212439c5/) | Holden, Fox B., 1923-1973; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 5 | 21,499 |
-| 54086 | [Index of the Project Gutenberg Works of James Matthew Barrie](../../../../b/27/27c8c993d8c5/) | Barrie, J. M. (James Matthew), 1860-1937; Widger, David, 1932-2021 [Editor] | 章 | 36 | 21,497 |
-| 54087 | [Camp fires and camp cooking](../../../../b/92/920c26e504cd/) | Sanderson, James M. (James Monroe), 1817-1871 | 题 | 33 | 21,455 |
-| 54088 | [Asleep in Armageddon](../../../../b/f4/f43ec1d1bc69/) | Bradbury, Ray, 1920-2012 | 题 | 6 | 21,446 |
-| 54089 | [Montezuma National Forest, Colorado (1939)](../../../../b/3c/3c057e679bd4/) | United States. Forest Service. Rocky Mountain Region | 题 | 20 | 21,435 |
-| 54090 | [Assassin（#60907）](../../../../b/52/52cfc71e1142/) | Jones, Bascom | 题 | 10 | 21,414 |
-| 54091 | [A Madman on Board](../../../../b/14/1426a3d5868e/) | Silverberg, Robert, 1935- | 题 | 5 | 21,410 |
-| 54092 | [Counterweight](../../../../b/24/24b8edc360f1/) | Sohl, Jerry, 1913-2002 | 题 | 5 | 21,381 |
-| 54093 | [An eye for the ladies](../../../../b/9a/9a7da9a72106/) | Marlowe, Stephen, 1928-2008; Llewellyn [Illustrator] | 题 | 8 | 21,370 |
-| 54094 | [Cottontail Rabbits in Relation to Trees and Farm Crops](../../../../b/55/55b3d1bc98b7/) | Lantz, David E. (David Ernest), 1855-1918 | 题 | 25 | 21,331 |
-| 54095 | [Time in the Play of Hamlet](../../../../b/41/41236fe210d2/) | Vining, Edward Payson, 1847-1920 | 章 | 5 | 21,310 |
-| 54096 | [The One Hoss Shay With its Companion Poems How the Old Horse Won the Bet & The Broomstick Train](../../../../b/25/25bfddce5496/) | Holmes, Oliver Wendell, 1809-1894; Pyle, Howard, 1853-1911 [Illustrator] | 题 | 11 | 21,297 |
-| 54097 | [The Precious Name, Proofs of the Godhead, and a Hymn](../../../../b/52/52dcbd4d280c/) | Church, J. (John), 1780?-1825? | 题 | 17 | 21,279 |
-| 54098 | [Outcast of the Stars](../../../../b/2e/2e8d8bfbf6e5/) | Silverberg, Robert, 1935- | 题 | 8 | 21,278 |
-| 54099 | [A Life's Story, In Poetry. Other Poems](../../../../b/cc/cc854e3ef88f/) | Woodcock, Dennison | 题 | 6 | 21,236 |
-| 54100 | [A Sketch of how "The Diamond Anthem" was Sung around the World The 60th Anniversary of the Accession Day of Her Majesty Queen Victoria](../../../../b/2c/2c40073fb7dd/) | Cumberland, Barlow, 1846-1913 | 题 | 7 | 21,199 |
-| 54101 | [The Lonely Ones](../../../../b/37/373820c4a76f/) | Ludwig, Edward W., 1920-1990; Orban, Paul, 1896-1974 [Illustrator] | 题 | 9 | 21,193 |
-| 54102 | [Spacemen Die at Home](../../../../b/ad/adbd277bd4a9/) | Ludwig, Edward W., 1920-1990; Thorne [Illustrator] | 题 | 16 | 21,178 |
-| 54103 | [Index of the Project Gutenberg Works of Gilbert K. Chesterton](../../../../b/eb/eb3d0719568a/) | Chesterton, G. K. (Gilbert Keith), 1874-1936; Widger, David, 1932-2021 [Editor] | 章 | 15 | 21,151 |
-| 54104 | [Second Sight（#22997）](../../../../b/45/45463016a69c/) | Nourse, Alan Edward, 1928-1992 | 题 | 8 | 21,136 |
-| 54105 | [The Luckiest Man in Denv](../../../../b/81/810545bdb552/) | Kornbluth, C. M. (Cyril M.), 1923-1958; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 6 | 21,130 |
-| 54106 | [Horæ Nauseæ](../../../../b/9a/9a74803d6884/) | Peel, Lawrence, Sir, 1799-1884; Horace, 66 BCE-9 BCE [Contributor] | 章 | 8 | 21,109 |
-| 54107 | [Vassi](../../../../b/50/50809a086a4a/) | Lewis, Art; Ritter, Bob [Illustrator] | 题 | 19 | 21,083 |
-| 54108 | [A primal woman](../../../../b/f8/f83e2b76a3ed/) | Stacpoole, H. De Vere (Henry De Vere), 1863-1951 | 题 | 5 | 21,082 |
-| 54109 | [Natural History of the Salamander, Aneides hardii](../../../../b/f9/f9487ab30c0c/) | Johnston, Richard F.; Schad, G. A. | 题 | 14 | 21,069 |
-| 54110 | [The Prophetic Camera](../../../../b/4c/4c5d49c29cf7/) | McGreevey, John, 1922-2010 | 题 | 12 | 21,023 |
-| 54111 | [Desert Air 1905](../../../../b/45/453709f2d94a/) | Hichens, Robert, 1864-1950 | 题 | 8 | 21,008 |
-| 54112 | [Killer](../../../../b/9e/9e92cc4cfb0e/) | Gunn, James E., 1923-2020; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 10 | 21,005 |
-| 54113 | [Mushrooms of America, Edible and Poisonous](../../../../b/e3/e3a3c92ea4b9/) | Palmer, Julius A. (Julius Auboineau), 1840-1899 [Editor] | 题 | 17 | 20,999 |
-| 54114 | [The Story of Zephyr: A Christmas Story](../../../../b/27/2795e3ebe7e0/) | Smith, Jeanie Oliver Davidson, 1836-1925 | 章 | 8 | 20,980 |
-| 54115 | [Tubemonkey](../../../../b/a8/a8dea0b99ae0/) | Bixby, Jerome, 1923-1998; Vestal, Herman B., 1916-2007 [Illustrator] | 题 | 5 | 20,897 |
-| 54116 | [Descriptions of Three New Birds from the Belgian Congo Bulletin of the AMNH , Vol. XXXIV, Art. XVI, pp. 509-513, Oct. 20th, 1915](../../../../b/99/99c74198e377/) | Chapin, James Paul, 1889-1964 | 章 | 6 | 20,884 |
-| 54117 | [Free Trade with India An Enquiry into the True State of the Question at Issue Between His Majesty's Ministers, the Honorable the East India Company, and the Public at Large, on the Justice and Policy of a Free Trade to India](../../../../b/9b/9b51970d7544/) | Common sense (Writer), active 1813 | 题 | 8 | 20,883 |
-| 54118 | [The Hohokam Dig](../../../../b/05/0574a433d168/) | Pratt, Theodore, 1901-1969 | 题 | 11 | 20,873 |
-| 54119 | [The Editor's Relations with the Young Contributor (from Literature and Life)](../../../../b/fb/fbac6a188e9d/) | Howells, William Dean, 1837-1920 | 题 | 10 | 20,871 |
-| 54120 | [Geographic Distribution of the Pocket Mouse, Perognathus fasciatus](../../../../b/88/88a8b1b6a591/) | Jones, J. Knox, 1929-1992 | 题 | 8 | 20,852 |
-| 54121 | [Nice Girl with 5 Husbands](../../../../b/da/dab0f8e4dde6/) | Leiber, Fritz, 1910-1992; Bard, Philip, 1912-1966 [Illustrator] | 题 | 9 | 20,847 |
-| 54122 | [Happy Rain Night](../../../../b/51/5198b3dc1ea2/) | Evans, Dean, 1911-1963; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 6 | 20,837 |
-| 54123 | [In the shadows](../../../../b/5c/5cf9b803937c/) | Gray, David, 1838-1861; Ferguson, John, 1881-1928 [Author of introduction, etc.] | 题 | 39 | 20,832 |
-| 54124 | [My betrothed, and other poems](../../../../b/33/332b810b9e19/) | Magie, Lizzie, 1866-1948 | 题 | 7 | 20,822 |
-| 54125 | [Cigar-Box Dioramas: A "How-to-do-it" Handbook](../../../../b/52/5202f3474faf/) | Neal, Arminta | 题 | 13 | 20,809 |
-| 54126 | [Natural Gemstones](../../../../b/04/04f5beb62f5c/) | Geological Survey (U.S.) | 题 | 22 | 20,795 |
-| 54127 | [The Marriage of Heaven and Hell](../../../../b/74/74020cb65841/) | Blake, William, 1757-1827 | 题 | 25 | 20,794 |
-| 54128 | [Runaway（#29897）](../../../../b/31/317bedbe14a1/) | Samachson, Joseph, 1906-1980; Ashman, William [Illustrator] | 题 | 6 | 20,774 |
-| 54129 | [Lincoln's Use of the Bible](../../../../b/b2/b2442110d723/) | Jackson, S. Trevena, 1867-1945 | 题 | 6 | 20,772 |
-| 54130 | [Some Anomalies of the Short Story (from Literature and Life)](../../../../b/f8/f8914d909596/) | Howells, William Dean, 1837-1920 | 题 | 9 | 20,762 |
-| 54131 | [The Furious Rose](../../../../b/d1/d13f07b836e3/) | Evans, Dean, 1911-1963; Thorne [Illustrator] | 题 | 7 | 20,746 |
-| 54132 | [Jinx Ship to the Rescue](../../../../b/a2/a2b4667103ad/) | Coppel, Alfred, 1921-2004 | 题 | 11 | 20,744 |
-| 54133 | [A Thought For Tomorrow](../../../../b/1f/1fe0f8446f70/) | Gilbert, Robert E., 1924-1993; Stone, David [Illustrator] | 题 | 6 | 20,723 |
-| 54134 | [Death Star（#63419）](../../../../b/7e/7e77cd02dfa6/) | Pace, Tom, 1929-2008; Kiemle, H. W. (Henry William), 1908-1969 [Illustrator] | 题 | 5 | 20,700 |
-| 54135 | [The Chasers](../../../../b/6c/6c3b3335397c/) | Galouye, Daniel F., 1920-1976; Harrington [Illustrator] | 题 | 10 | 20,698 |
-| 54136 | [Defense Mech](../../../../b/1d/1d391332d91d/) | Bradbury, Ray, 1920-2012; Doolin, Joseph, 1896-1967 [Illustrator] | 题 | 12 | 20,686 |
-| 54137 | [Poetical Works Comprising Elegies, Sketches from Life, Pathetic, and Extempore Pieces](../../../../b/78/78ad597b9129/) | Parkerson, James | 题 | 10 | 20,671 |
-| 54138 | [The Silver Arrow](../../../../b/e8/e80cddf3ff89/) | Hubbard, Elbert, 1856-1915 | 题 | 6 | 20,670 |
-| 54139 | [Stranger From Space](../../../../b/85/85aee7e67ca5/) | Bok, Hannes, 1914-1964; Saaf, Art, 1921-2007 [Illustrator] | 题 | 10 | 20,611 |
-| 54140 | [The Doré Bible Gallery, Volume 5](../../../../b/eb/ebe9c4e15808/) | Doré, Gustave, 1832-1883 [Illustrator] | 题 | 16 | 20,586 |
-| 54141 | [Rodent Control Aided by Emergency Conservation Work](../../../../b/fb/fb8a23de06e5/) | Young, Stanley Paul, 1889-1969 | 题 | 22 | 20,566 |
-| 54142 | [A Fairy Tale in Two Acts Taken from Shakespeare (1763)](../../../../b/d4/d406707ddda1/) | Shakespeare, William, 1564-1616; Colman, George, 1732-1794; Garrick, David, 1717-1779 | 题 | 24 | 20,537 |
-| 54143 | [The Rescue of the Princess Winsome: A Fairy Play for Old and Young](../../../../b/18/189c357ce2c1/) | Johnston, Annie F. (Annie Fellows), 1863-1931; Bacon, Albion Fellows, 1865-1933 [Composer] | 章 | 12 | 20,533 |
-| 54144 | [The Nuts of Knowledge: Lyrical Poems Old and New](../../../../b/8b/8bee2894a7d6/) | Russell, George William, 1867-1935 | 题 | 33 | 20,510 |
-| 54145 | [Ride the Crepe Ring](../../../../b/c2/c2b946be8d6e/) | Marlowe, Stephen, 1928-2008; Fuqua, Robert, 1905-1959 [Illustrator] | 题 | 9 | 20,498 |
-| 54146 | [William Mackay on T. W. Robertson's Play "School"](../../../../b/8b/8b8193262d81/) | Mackay, William | 题 | 7 | 20,498 |
-| 54147 | [Picture stuff](../../../../b/f4/f4e1f053b285/) | Whitfield, Raoul, 1896-1945; Molt, William [Illustrator] | 题 | 7 | 20,495 |
-| 54148 | [Index of the Project Gutenberg Works of William Le Queux](../../../../b/dd/dd460228e2c7/) | Le Queux, William, 1864-1927; Widger, David, 1932-2021 [Editor] | 章 | 28 | 20,490 |
-| 54149 | [The Land of Heart's Desire（#5168）](../../../../b/ad/ad204d899ffb/) | Yeats, W. B. (William Butler), 1865-1939 | 题 | 11 | 20,475 |
-| 54150 | [Great Smoky Mountains National Park](../../../../b/b4/b4c271066e32/) | United States. National Park Service | 题 | 19 | 20,468 |
-| 54151 | [Whispers](../../../../b/4f/4f45596250bc/) | Brown, Paul Cameron, 1948- | 章 | 4 | 20,461 |
-| 54152 | [Don't Shoot](../../../../b/df/dff4542b5e60/) | Zacks, Robert; Ashman, William [Illustrator] | 题 | 7 | 20,455 |
-| 54153 | [The Bible, Douay-Rheims, Book 38: Micheas The Challoner Revision](../../../../b/0b/0b87addcb337/) | — | 题 | 11 | 20,454 |
-| 54154 | [Heist Job on Thizar](../../../../b/fc/fc8187a310b6/) | Garrett, Randall, 1927-1987; Finlay, Virgil, 1914-1971 [Illustrator] | 题 | 8 | 20,446 |
-| 54155 | [Index of the Project Gutenberg Works of Arnold Bennett](../../../../b/e0/e091f1d875ab/) | Bennett, Arnold, 1867-1931; Widger, David, 1932-2021 [Editor] | 章 | 40 | 20,430 |
-| 54156 | [The brave little maid of Goldau](../../../../b/f7/f73a2ebb7127/) | Jennings, Mary Elizabeth | 题 | 6 | 20,412 |
-| 54157 | [Children of the Cliff](../../../../b/b7/b7ac3170efdc/) | Wiley, Belle; Edick, Grace Willard, 1875-1954 | 章 | 10 | 20,410 |
-| 54158 | [Brown John's Body](../../../../b/27/27beef848ed1/) | Marks, Winston K. (Winston Kinney), 1915-1979 | 题 | 5 | 20,376 |
-| 54159 | [The Doré Bible Gallery, Volume 4](../../../../b/fd/fdea40a251f9/) | Doré, Gustave, 1832-1883 [Illustrator] | 题 | 14 | 20,364 |
-| 54160 | [East in the Morning](../../../../b/38/389058b91cd3/) | Fisher, David E., 1932-; Francis, Dick [Illustrator] | 题 | 6 | 20,364 |
-| 54161 | [Index of the Project Gutenberg Works of Grant Allen](../../../../b/3c/3c09baa68696/) | Allen, Grant, 1848-1899; Widger, David, 1932-2021 [Editor] | 章 | 46 | 20,363 |
-| 54162 | [The First One](../../../../b/73/733eb89d62cc/) | Kastle, Herbert D., 1924-1987; Van Dongen, H. R., 1920-2010 [Illustrator] | 题 | 11 | 20,362 |
-| 54163 | [Fresh Air Fiend](../../../../b/12/12ad37f7bcba/) | Neville, Kris, 1925-1980; Rogers, Karl [Illustrator] | 题 | 10 | 20,346 |
-| 54164 | [Home is Where You Left It](../../../../b/f7/f709f23f7de4/) | Marlowe, Stephen, 1928-2008 | 题 | 5 | 20,342 |
-| 54165 | [The Thought-Men of Mercury](../../../../b/40/4046dfe48789/) | Winterbotham, R. R. (Russell Robert), 1904-1971; Lynch, Don (Artist) [Illustrator] | 题 | 5 | 20,323 |
-| 54166 | [Let the Ants Try](../../../../b/d7/d771e60acb07/) | Pohl, Frederik, 1919-2013 | 题 | 7 | 20,303 |
-| 54167 | [Sweet Tooth](../../../../b/6d/6dd447752f18/) | Young, Robert F., 1915-1986; Nodel, Norman, 1922-2000 [Illustrator] | 题 | 8 | 20,296 |
-| 54168 | [History Repeats](../../../../b/70/70dbe122e883/) | Smith, George O. (George Oliver), 1911-1981; Martinez [Illustrator] | 题 | 18 | 20,253 |
-| 54169 | [A Letter to the Viscount Palmerston, M.P. &c. &c. &c. on the Monitorial System of Harrow School](../../../../b/b2/b2732d90a095/) | Vaughan, C. J. (Charles John), 1816-1897 | 题 | 5 | 20,247 |
-| 54170 | [The Doré Bible Gallery, Volume 1](../../../../b/53/53e113ebb09a/) | Doré, Gustave, 1832-1883 [Illustrator] | 题 | 15 | 20,235 |
-| 54171 | [The Manifestation of the Miraculous Medal A Brief Account of Its History and of the Establishment of the Association](../../../../b/34/34cfb6014a80/) | Association of the Miraculous Medal | 题 | 11 | 20,228 |
-| 54172 | [Magic（#73248）](../../../../b/79/7968c8ee6238/) | Stacpoole, H. De Vere (Henry De Vere), 1863-1951 | 题 | 10 | 20,228 |
-| 54173 | [A Tract for the Times: The Church and the Census](../../../../b/21/217a9710a460/) | Skinner, James, 1818-1881 | 题 | 6 | 20,209 |
-| 54174 | [A Lost Hero](../../../../b/14/145d1d549b95/) | Phelps, Elizabeth Stuart, 1844-1911; Ward, Herbert D. (Herbert Dickinson), 1861-1932; Merrill, Frank T., 1848-1923 [Illustrator] | 题 | 12 | 20,202 |
-| 54175 | [Last Days in a Dutch Hotel (from Literature and Life)](../../../../b/32/3289142505a2/) | Howells, William Dean, 1837-1920 | 题 | 11 | 20,184 |
-| 54176 | [American Literary Centers (from Literature and Life)](../../../../b/38/38fcc7262c0e/) | Howells, William Dean, 1837-1920 | 题 | 10 | 20,176 |
-| 54177 | [The Story of the Duchess of Cicogne and of Monsieur de Boulingrin 1920](../../../../b/83/835673cde826/) | France, Anatole, 1844-1924; May, J. Lewis (James Lewis), 1873-1961 [Editor]; Miall, Bernard, 1876-1953 [Editor]; Stewart, D. B. [Translator] | 章 | 6 | 20,174 |
-| 54178 | [The Desert Drum 1905](../../../../b/9e/9e6e0f9905bc/) | Hichens, Robert, 1864-1950 | 题 | 8 | 20,173 |
-| 54179 | [Unborn Tomorrow](../../../../b/7c/7c14a3f35fbd/) | Reynolds, Mack, 1917-1983; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 17 | 20,155 |
-| 54180 | [Index for Works of Bill Nye Hyperlinks to all Chapters of all Individual Ebooks](../../../../b/81/8197f9eb6eb1/) | Nye, Bill, 1850-1896; Widger, David, 1932-2021 [Editor] | 章 | 4 | 20,139 |
-| 54181 | [Lazarus Come Forth](../../../../b/ff/ffce65371a6a/) | Bradbury, Ray, 1920-2012; Potter, Ellis Wellington, 1920-1981 [Illustrator] | 题 | 10 | 20,130 |
-| 54182 | [Up in the garret](../../../../b/31/310d3e76afed/) | Ranger, Robin, 1827-1900 | 章 | 6 | 20,124 |
-| 54183 | [Mountain men](../../../../b/27/27fcfb8bd81c/) | Cunningham, Eugene, 1896-1957 | 章 | 3 | 20,108 |
-| 54184 | [Dead Man's Planet（#30773）](../../../../b/a3/a31ee6cf7deb/) | Samachson, Joseph, 1906-1980; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 6 | 20,095 |
-| 54185 | [For Love of the King: A Burmese Masque](../../../../b/cc/cc4583317ce9/) | Wilde, Oscar, 1854-1900 | 章 | 5 | 20,093 |
-| 54186 | [Pies Made with Pet Evaporated Milk](../../../../b/70/70afa085a04c/) | Pet Milk Company. Home Economics Department | 题 | 39 | 20,086 |
-| 54187 | [That Gospel Sermon on the Blessed Hope](../../../../b/08/08e43f653882/) | Moody, Dwight Lyman, 1837-1899 | 题 | 11 | 20,075 |
-| 54188 | [How deep the grooves](../../../../b/1c/1c5196f9b3a9/) | Farmer, Philip José, 1918-2009; Adkins, Dan, 1937-2013 [Illustrator] | 题 | 11 | 20,074 |
-| 54189 | [Jack Mason, the Old Sailor](../../../../b/61/61ae1cb30ab8/) | Woodworth, Francis C. (Francis Channing), 1812-1859 | 题 | 14 | 20,072 |
-| 54190 | [World Without Glamor](../../../../b/aa/aaa881a9f9ed/) | Marlowe, Stephen, 1928-2008; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 5 | 20,072 |
-| 54191 | [The History of Don Quixote, Volume 2, Part 42](../../../../b/35/358b915ecbde/) | Cervantes Saavedra, Miguel de, 1547-1616; Doré, Gustave, 1832-1883 [Illustrator]; Ormsby, John, 1829-1895 [Translator] | 章 | 3 | 20,070 |
-| 54192 | [The Happy Castaway](../../../../b/d4/d491d0a67f54/) | McDowell, Robert Emmett, 1914-1975; Anderson, Murphy, 1926-2015 [Illustrator] | 题 | 10 | 20,064 |
-| 54193 | [A Daughter of Japan](../../../../b/93/93640e7f0fd1/) | Bone, F. D. | 题 | 17 | 20,022 |
-| 54194 | [Scent Makes a Difference](../../../../b/a3/a38b64a4b439/) | Stamers, James; Francis, Dick [Illustrator] | 题 | 7 | 20,020 |
-| 54195 | [Vacation Verse](../../../../b/54/54acbad28017/) | MacKeracher, William M. (William Mackay), 1871-1913 | 题 | 17 | 19,997 |
-| 54196 | [Rogers-isms, the Cowboy Philosopher on the Peace Conference](../../../../b/cc/cc6389a5d3f1/) | Rogers, Will, 1879-1935 | 题 | 12 | 19,955 |
-| 54197 | [Dumbwaiter](../../../../b/dc/dc19f882354b/) | Stamers, James; Dillon, Diane, 1933- [Illustrator]; Dillon, Leo, 1933-2012 [Illustrator] | 题 | 11 | 19,951 |
-| 54198 | [The Time Snatcher](../../../../b/6b/6b9054ffaa0f/) | Garrett, Randall, 1927-1987 | 题 | 11 | 19,933 |
-| 54199 | [High Dragon Bump](../../../../b/2e/2e6cf71c1c25/) | Thompson, Don, 1935-1994; Orban, Paul, 1896-1974 [Illustrator] | 题 | 10 | 19,928 |
-| 54200 | [The genuine tryal of Dr. Nosmoth, a physician in Pekin](../../../../b/e0/e06e6a97d1fe/) | Anonymous | 题 | 8 | 19,916 |
-| 54201 | [John Jones's Dollar](../../../../b/ea/ea143e18a6a1/) | Keeler, Harry Stephen, 1890-1967 | 题 | 13 | 19,898 |
-| 54202 | [Dalrymple's Equation](../../../../b/82/822b0179ed30/) | Fairman, Paul W., 1909-1977; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 11 | 19,896 |
-| 54203 | [A Matter of Order](../../../../b/8a/8a8070d60de8/) | Holden, Fox B., 1923-1973; Finlay, Virgil, 1914-1971 [Illustrator] | 题 | 5 | 19,890 |
-| 54204 | [Thirty Degrees Cattywonkus](../../../../b/62/620d21df8a19/) | Bell, James | 题 | 13 | 19,884 |
-| 54205 | [Your Servant, Sir](../../../../b/69/694fc5f5e8a0/) | Boren, Sol; Orban, Paul, 1896-1974 [Illustrator] | 题 | 17 | 19,876 |
-| 54206 | [Tales and Novels of J. de La Fontaine — Volume 18](../../../../b/24/2498ff24943f/) | La Fontaine, Jean de, 1621-1695 | 题 | 5 | 19,851 |
-| 54207 | [Chants for the Boer](../../../../b/db/db985e0452aa/) | Miller, Joaquin, 1837-1913 | 题 | 17 | 19,844 |
-| 54208 | [The New Ideal in Education An Address Given Before the League of the Empire on July 16th, 1916](../../../../b/5d/5dc84ddfce07/) | Velimirović, Nikolaj, 1880-1956 | 题 | 15 | 19,842 |
-| 54209 | [Goma's Follicles](../../../../b/3c/3ca0906305fe/) | De Courcy, John; De Courcy, Dorothy | 题 | 10 | 19,834 |
-| 54210 | [Marsk Stig: a ballad](../../../../b/f9/f9611c80ff02/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 章 | 4 | 19,800 |
-| 54211 | [Poems（#62833）](../../../../b/9e/9e7bd86f7dec/) | Moore, Marianne, 1887-1972 | 题 | 27 | 19,797 |
-| 54212 | [Second census](../../../../b/32/32df46005683/) | Peterson, John Victor; Schoenherr, John, 1935-2010 [Illustrator] | 题 | 12 | 19,791 |
-| 54213 | [Less than Human](../../../../b/aa/aadbd7a5e8be/) | Blade, Zoë, 1981-; Frikki, Aiko [Illustrator] | 题 | 6 | 19,791 |
-| 54214 | [My First Picture Book With Thirty-six Pages of Pictures Printed in Colours by Kronheim](../../../../b/81/81c3b36dc9a7/) | Kronheim, Joseph Martin, 1810-1896 | 题 | 12 | 19,790 |
-| 54215 | [Notes on Philippine Birds Collected by Governor W. Cameron Forbes Bulletin of the Museum of Comparative Zoölogy at Harvard College, Vol. LXV. No. 4.](../../../../b/b4/b47af4018cd9/) | Bangs, Outram, 1862-1932 | 题 | 26 | 19,789 |
-| 54216 | [Sand dunes story](../../../../b/e1/e16d02408f42/) | Bessken, Donna P. (Donna Paul); Olson, Virgil J. [Editor]; Osborn, T. Forbes [Illustrator]; Stosser, Sylvia [Illustrator] | 题 | 10 | 19,772 |
-| 54217 | [Doctor Bolus and His Patients](../../../../b/94/94c1ef9c78e6/) | Unknown | 题 | 30 | 19,771 |
-| 54218 | [You Don't Walk Alone](../../../../b/b5/b57aeb400ba3/) | Robinson, Frank M., 1926-2014; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 12 | 19,760 |
-| 54219 | [Breeder Reaction](../../../../b/3f/3f511b3816bc/) | Marks, Winston K. (Winston Kinney), 1915-1979; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 6 | 19,760 |
-| 54220 | [The Last Letter](../../../../b/f4/f4fbbd1e8286/) | Leiber, Fritz, 1910-1992; Dillon, Diane, 1933- [Illustrator]; Dillon, Leo, 1933-2012 [Illustrator] | 题 | 5 | 19,748 |
-| 54221 | [Afternoon](../../../../b/e4/e40444d2e000/) | Verhaeren, Emile, 1855-1916; Murphy, Charles Royier, 1884- [Translator] | 题 | 39 | 19,745 |
-| 54222 | [The vampire cat](../../../../b/29/2959c5d2f604/) | Etten, Gerard Van | 章 | 12 | 19,741 |
-| 54223 | [The Tale of Bunny Cotton-Tail](../../../../b/65/651e2c6d3552/) | Smith, Laura Rountree, 1876-1924 | 章 | 7 | 19,736 |
-| 54224 | [Finders keepers](../../../../b/8d/8de4719972b9/) | Marlowe, Stephen, 1928-2008 | 题 | 5 | 19,736 |
-| 54225 | [An Account of the Extraordinary Medicinal Fluid, called Aether.](../../../../b/45/45a7f2b92989/) | Turner, Matthew, -1788? | 题 | 5 | 19,735 |
-| 54226 | [Disturbing Sun](../../../../b/f0/f0c0c2d7a53d/) | Richardson, Robert S. (Robert Shirley), 1902-1981; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 8 | 19,726 |
-| 54227 | [30 Tempting Spaghetti Meals: Easy, Economical, Delicious](../../../../b/8c/8c96d3f869bd/) | Campbell Soup Company | 题 | 10 | 19,705 |
-| 54228 | [The Tribute: A Panegyrical Poem](../../../../b/57/57f7dcde9ff3/) | Philo | 题 | 6 | 19,684 |
-| 54229 | [...So They Baked a Cake](../../../../b/d6/d6b5e9d61fee/) | Marks, Winston K. (Winston Kinney), 1915-1979; Beecham, Tom, 1926-2000 [Illustrator] | 题 | 5 | 19,675 |
-| 54230 | [The Vegans Were Curious](../../../../b/f4/f4ad3dc0ffbc/) | Marks, Winston K. (Winston Kinney), 1915-1979; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 6 | 19,655 |
-| 54231 | [Breath of Beelzebub](../../../../b/92/92be1459b613/) | Sternig, Larry, 1908-1999 | 题 | 11 | 19,653 |
-| 54232 | [Family Limitation](../../../../b/ea/eafb4be625fa/) | Sanger, Margaret, 1879-1966 | 题 | 14 | 19,646 |
-| 54233 | [The Poors](../../../../b/ea/ea2485822c26/) | Lorayne, Harry; Orban, Paul, 1896-1974 [Illustrator] | 题 | 5 | 19,632 |
-| 54234 | [Twelve poems](../../../../b/46/462a819457d0/) | Wharton, Edith, 1862-1937 | 题 | 7 | 19,616 |
-| 54235 | [Sketches of Fifteen Members of Worcester Fire Society](../../../../b/78/78f17af209ca/) | Davis, Isaac, 1799-1883 | 题 | 25 | 19,604 |
-| 54236 | [Blueblood](../../../../b/42/42c9d57e6b31/) | Harmon, Jim, 1933-2010; Wood, Wallace, 1927-1981 [Illustrator] | 题 | 17 | 19,598 |
-| 54237 | [Chambers's Journal of Popular Literature, Science, and Art, index for 1886](../../../../b/7a/7a77856c6072/) | Chambers, Robert, 1802-1871 [Editor]; Chambers, William, 1800-1883 [Editor] | 章 | 47 | 19,589 |
-| 54238 | [The Undersea Tube](../../../../b/82/822aa411b67e/) | Hansen, L. Taylor (Lucile Taylor), 1897-1976; Wessolowski, Hans Waldemar, 1894?-1948 [Illustrator] | 题 | 7 | 19,568 |
-| 54239 | [Picnic](../../../../b/c3/c3d5a6c5721e/) | Marlowe, Stephen, 1928-2008; Eberle, Joseph, 1926-2006 [Illustrator] | 题 | 15 | 19,562 |
-| 54240 | [Remember the Alamo!](../../../../b/bf/bf3d7e462e1a/) | Fehrenbach, T. R., 1925-2013; Schoenherr, John, 1935-2010 [Illustrator] | 题 | 9 | 19,521 |
-| 54241 | [Two Fishers, and Other Poems](../../../../b/9c/9c3fc83871ce/) | Palmer, Herbert E. (Herbert Edward), 1880-1961 | 题 | 29 | 19,513 |
-| 54242 | [Short Reasons for Communion with the Church of England Or, The Churchman's answer to the question, "Why are you a Member of the Established Church?"](../../../../b/fd/fdc519a17552/) | Biddulph, Thomas Tregenna, 1763-1838 | 题 | 12 | 19,510 |
-| 54243 | [Wichita](../../../../b/cf/cf3a1eb8b1da/) | Harvey, Fred | 题 | 33 | 19,485 |
-| 54244 | [The Eatonville anthology](../../../../b/9b/9b8094716b84/) | Hurston, Zora Neale, 1891-1960 | 题 | 7 | 19,415 |
-| 54245 | [Operation Distress](../../../../b/36/363ea9069024/) | Del Rey, Lester, 1915-1993; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 5 | 19,396 |
-| 54246 | [An enemy of peace](../../../../b/31/31ba3381e395/) | Silverberg, Robert, 1935-; Finlay, Virgil, 1914-1971 [Illustrator] | 题 | 9 | 19,371 |
-| 54247 | [The Keepsake or, Poems and Pictures for Childhood and Youth](../../../../b/15/1590e8bac9e7/) | Anonymous | 章 | 4 | 19,356 |
-| 54248 | [The Bay and Padie book](../../../../b/e2/e2f35eb65d6c/) | Maurice, Furnley, 1881-1942; Dobbs, Cyril [Illustrator]; Hamilton, Vera [Illustrator] | 题 | 35 | 19,350 |
-| 54249 | [Chatterton](../../../../b/be/be53ecafc22a/) | Lacy, Ernest, 1863-1916 | 题 | 10 | 19,348 |
-| 54250 | [Race and nationality](../../../../b/d3/d3573adf6b46/) | Boas, Franz, 1858-1942 | 题 | 12 | 19,347 |
-| 54251 | [The Space Between](../../../../b/7a/7a756e85b47a/) | Gilbert, Robert E., 1924-1993; Eberle, Joseph, 1926-2006 [Illustrator] | 题 | 6 | 19,327 |
-| 54252 | [Abraham Lincoln（#72505）](../../../../b/8c/8cedd9979d6e/) | Wilson, Woodrow, 1856-1924; Roosevelt, Theodore, 1858-1919 | 题 | 13 | 19,313 |
-| 54253 | [Tonto Cliff Dwellings Guide: Tonto National Monument, Arizona 11th Edition, Revised](../../../../b/6d/6d4a990974f7/) | Southwest Parks and Monuments Association; United States. National Park Service | 题 | 7 | 19,312 |
-| 54254 | [The Pirate Frog, and Other Tales](../../../../b/3d/3d3ef31863fd/) | Frisbie, W. A. (William Albert), 1867-1941; Bartholomew, Charles Lewis, 1869-1949 [Illustrator]; Bartholomew, Fred. R. [Illustrator] | 题 | 14 | 19,307 |
-| 54255 | [Mound State Monument, Moundville, Alabama](../../../../b/c9/c9a487390bab/) | Alabama Museum of Natural History | 题 | 17 | 19,297 |
-| 54256 | [Education of a Martian](../../../../b/b4/b405a291792f/) | Shallit, Joseph, 1915-1995; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 8 | 19,295 |
-| 54257 | [Lexington and Concord: A Camera Impression](../../../../b/f0/f081f3765204/) | Chamberlain, Samuel, 1895-1975 | 题 | 7 | 19,291 |
-| 54258 | [The Capgras Shift](../../../../b/5c/5ca0a4d8565c/) | Vaknin, Samuel, 1961- | 题 | 7 | 19,263 |
-| 54259 | [Title fight](../../../../b/88/88eaf268ae1f/) | Gault, William Campbell, 1910-1995 | 题 | 14 | 19,261 |
-| 54260 | [The Divine Comedy by Dante, Illustrated, Purgatory, Volume 1](../../../../b/d6/d60b8a9f6907/) | Dante Alighieri, 1265-1321; Doré, Gustave, 1832-1883 [Illustrator]; Cary, Henry Francis, 1772-1844 [Translator] | 章 | 4 | 19,258 |
-| 54261 | [The Works of Winston Churchill: A Linked Index of the Project Gutenberg Editions](../../../../b/a0/a026555688ee/) | Churchill, Winston, 1871-1947; Widger, David, 1932-2021 [Editor] | 章 | 49 | 19,239 |
-| 54262 | [The Flying Cuspidors](../../../../b/0b/0b03bc61654c/) | Francis, V. R. | 题 | 6 | 19,236 |
-| 54263 | [King of the Hill](../../../../b/f0/f0be8b1d30f8/) | Blish, James, 1921-1975; Griffith, Fuller [Illustrator] | 题 | 9 | 19,232 |
-| 54264 | [Index of the Project Gutenberg Works of Edmund Burke](../../../../b/a6/a6c3067ec5f4/) | Burke, Edmund, 1729-1797; Widger, David, 1932-2021 [Editor] | 章 | 9 | 19,198 |
-| 54265 | [A Little Fleet](../../../../b/57/579e61b5b1e1/) | Yeats, Jack B. (Jack Butler), 1871-1957 | 题 | 24 | 19,181 |
-| 54266 | [Samphire](../../../../b/02/02420a48e5ea/) | Powys, John Cowper, 1872-1963; Spicker, Frank, 1899-1963 [Illustrator] | 题 | 27 | 19,157 |
-| 54267 | [War-Chess, or the Game of Battle](../../../../b/70/7067fa7b204c/) | Richardson, Charles, of New York | 题 | 11 | 19,156 |
-| 54268 | [Shatter the Wall](../../../../b/c6/c63f63ea49f9/) | Van Scyoc, Sydney J., 1939-2023; West [Illustrator] | 题 | 12 | 19,148 |
-| 54269 | [The success machine](../../../../b/58/58ade1f92a1c/) | Slesar, Henry, 1927-2002 | 题 | 7 | 19,135 |
-| 54270 | [The Divine Comedy by Dante, Illustrated, Hell, Volume 05](../../../../b/49/49d59b46a115/) | Dante Alighieri, 1265-1321; Doré, Gustave, 1832-1883 [Illustrator]; Cary, Henry Francis, 1772-1844 [Translator] | 章 | 5 | 19,115 |
-| 54271 | [Space-Lane of No-Return](../../../../b/89/89f25edf1dd7/) | Whittington, George A.; Leydenfrost, Harry, 1923-2003 [Illustrator] | 题 | 6 | 19,097 |
-| 54272 | [The Well The Lady of the Barge and Others, Part 4.](../../../../b/f9/f94e1d160328/) | Jacobs, W. W. (William Wymark), 1863-1943; Greiffenhagen, Maurice, 1862-1931 [Illustrator]; Richards, Amy, active 1896-1918 [Illustrator] | 题 | 6 | 19,081 |
-| 54273 | [A Pictorial Guide to Mesa Verde National Park](../../../../b/0b/0b956a3872af/) | Hall, Ansel F. (Ansel Franklin), 1894-1962; Hoss, Della Taylor [Illustrator]; Winkler, Merrie [Illustrator] | 章 | 18 | 19,080 |
-| 54274 | [The oddly elusive brunette](../../../../b/6b/6bcfcf018bec/) | Peterson, John Victor; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 10 | 19,068 |
-| 54275 | [Rules of the Western Grammar School, Brompton](../../../../b/ac/ac39f5daef06/) | Western Grammar School (Brompton, England) | 章 | 7 | 19,057 |
-| 54276 | [The Song of Sixpence Picture Book](../../../../b/8a/8a6a0c3ca6e6/) | Crane, Walter, 1845-1915 | 题 | 9 | 19,020 |
-| 54277 | [The Love Sonnets of a Hoodlum](../../../../b/31/3155e21dd8db/) | Irwin, Wallace, 1876-1959; Burgess, Gelett, 1866-1951 [Author of introduction, etc.] | 题 | 29 | 19,002 |
-| 54278 | [The benefit of farting explain'd](../../../../b/75/751d03e7b7ff/) | Puff-indorst, Fart in hando; Swift, Jonathan, 1667-1745 [Dubious author] | 题 | 5 | 18,995 |
-| 54279 | [Heir Apparent](../../../../b/5d/5d39753b221a/) | Nourse, Alan Edward, 1928-1992; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 9 | 18,983 |
-| 54280 | [The Stoker and the Stars](../../../../b/4a/4a1a37b1d5c2/) | Budrys, Algis, 1931-2008; Van Dongen, H. R., 1920-2010 [Illustrator] | 题 | 7 | 18,980 |
-| 54281 | [The Model of a Judge](../../../../b/8c/8cde73d4ff4c/) | Samachson, Joseph, 1906-1980; Burchard [Illustrator] | 题 | 6 | 18,953 |
-| 54282 | [The White Comrade, and Other Poems](../../../../b/e1/e1e6968a9296/) | Hale, Katherine, 1878-1956 | 题 | 11 | 18,926 |
-| 54283 | [The Bible, Douay-Rheims, Book 69: 1 John The Challoner Revision](../../../../b/1d/1d00fd51d917/) | — | 题 | 9 | 18,916 |
-| 54284 | [Betty Crocker's Frosting Secrets Fancy Cake Decorating; New Cake-trimming Short Cuts; Fabulous Party Cake Ideas; Fun With Frostings](../../../../b/65/6506760f0859/) | Crocker, Betty | 题 | 31 | 18,911 |
-| 54285 | [Threlkeld's Daughter](../../../../b/69/69b5ae42f563/) | Bell, James | 题 | 12 | 18,893 |
-| 54286 | [Nightmare on the nose](../../../../b/f1/f185ed4f7b53/) | Smith, Evelyn E., 1922-2000 | 题 | 5 | 18,873 |
-| 54287 | [Menace From Vega](../../../../b/d8/d830d02a1909/) | Garrett, Randall, 1927-1987; Silverberg, Robert, 1935- | 题 | 6 | 18,865 |
-| 54288 | [The Little Red Bag](../../../../b/11/11496ccc2816/) | Sohl, Jerry, 1913-2002 | 题 | 13 | 18,860 |
-| 54289 | [Pere Marquette State Park](../../../../b/b1/b125928857e4/) | Illinois. Department of Conservation | 题 | 17 | 18,842 |
-| 54290 | [An Annotated Checklist of Nebraskan Bats](../../../../b/6a/6adc93bdebea/) | Webb, Olin L.; Jones, J. Knox, 1929-1992 | 题 | 23 | 18,821 |
-| 54291 | [San Francisco and the Nicaragua Canal](../../../../b/e4/e46f38674760/) | Merry, William L. (William Lawrence), 1842-1911 | 题 | 7 | 18,818 |
-| 54292 | [Emile Zola](../../../../b/ef/ef67c8bd6f39/) | Howells, William Dean, 1837-1920 | 题 | 6 | 18,813 |
-| 54293 | [Overlord of Colony Eight](../../../../b/2c/2c51c8537ac2/) | Silverberg, Robert, 1935- | 题 | 6 | 18,786 |
-| 54294 | [The Bride of Huitzil—An Aztec Legend](../../../../b/bd/bd6d32e78cf6/) | Allen, Hervey, 1889-1949; Wall, Bernhardt, 1872-1956 [Illustrator] | 题 | 5 | 18,781 |
-| 54295 | [Sonnets from the Crimea](../../../../b/7e/7e6f5db4b8ff/) | Mickiewicz, Adam, 1798-1855; Underwood, Edna Worthley, 1873-1961 [Translator] | 题 | 22 | 18,761 |
-| 54296 | [Index of the Project Gutenberg Works of Bret Harte](../../../../b/47/479271b7482c/) | Harte, Bret, 1836-1902; Widger, David, 1932-2021 [Editor] | 章 | 14 | 18,761 |
-| 54297 | [Thrills of a Bell Boy](../../../../b/77/77a9e4795b85/) | Kiser, Samuel E. (Samuel Ellsworth), 1862-1942; McCutcheon, John T. (John Tinney), 1870-1949 [Illustrator] | 题 | 33 | 18,737 |
-| 54298 | [Welcome to Paradise](../../../../b/61/619f4607854e/) | Donnelson, Allyn | 题 | 12 | 18,723 |
-| 54299 | [The Alien Dies at Dawn](../../../../b/83/83a076aa640e/) | Garrett, Randall, 1927-1987; Silverberg, Robert, 1935- | 题 | 5 | 18,689 |
-| 54300 | [The Girls from Fieu Dayol](../../../../b/16/16f5044497d3/) | Young, Robert F., 1915-1986 | 题 | 8 | 18,668 |
-| 54301 | [The social evolution of the Black South](../../../../b/78/78e14c6c788b/) | Du Bois, W. E. B. (William Edward Burghardt), 1868-1963 | 题 | 6 | 18,667 |
-| 54302 | [The Story of the Alphabet（#62374）](../../../../b/a1/a1e7cd0630af/) | Ege, Otto F., 1888-1951 | 题 | 11 | 18,649 |
-| 54303 | [The Marriage of William Durrant](../../../../b/3c/3c06ec0f5ae5/) | Cummings, Ray, 1887-1957 | 题 | 7 | 18,645 |
-| 54304 | [Accept no substitutes](../../../../b/5d/5d578001c69c/) | Sheckley, Robert, 1928-2005; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 7 | 18,640 |
-| 54305 | [Beast of prey](../../../../b/58/584e85aa4053/) | Williams, Jay, 1914-1978; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 6 | 18,633 |
-| 54306 | [Cacaos and chocolates in the United States of America](../../../../b/3b/3b9a40e2a87d/) | Professor Nemo | 题 | 19 | 18,619 |
-| 54307 | [Consignment](../../../../b/4f/4fc9899c9a92/) | Nourse, Alan Edward, 1928-1992 | 题 | 6 | 18,611 |
-| 54308 | [Index of the Project Gutenberg Works of Immanuel Kant](../../../../b/3c/3cb5fb99ee0e/) | Kant, Immanuel, 1724-1804; Widger, David, 1932-2021 [Editor] | 章 | 6 | 18,601 |
-| 54309 | [The Doré Bible Gallery, Volume 3](../../../../b/f9/f9dbcd3dca47/) | Doré, Gustave, 1832-1883 [Illustrator] | 题 | 15 | 18,589 |
-| 54310 | [The next-to-last laugh](../../../../b/40/4034f4cf7054/) | Whitfield, Raoul, 1896-1945; Molt, William [Illustrator] | 题 | 6 | 18,580 |
-| 54311 | [Johnny Nut and the Golden Goose](../../../../b/6c/6cf4a467aa72/) | Deulin, Charles, 1822-1877; Lynen, Amédée, 1852-1938 [Illustrator]; Lang, Andrew, 1844-1912 [Translator] | 章 | 11 | 18,563 |
-| 54312 | [Index of the Project Gutenberg Works of Mrs. Henry Wood](../../../../b/7b/7b8a20fee58e/) | Wood, Henry, Mrs., 1814-1887; Widger, David, 1932-2021 [Editor] | 章 | 95 | 18,558 |
-| 54313 | [The History of Don Quixote, Volume 2, Part 41](../../../../b/dd/dda23db9493c/) | Cervantes Saavedra, Miguel de, 1547-1616; Doré, Gustave, 1832-1883 [Illustrator]; Ormsby, John, 1829-1895 [Translator] | 章 | 3 | 18,540 |
-| 54314 | [The History of Don Quixote, Volume 1, Part 02](../../../../b/2f/2f18bc7c1fd0/) | Cervantes Saavedra, Miguel de, 1547-1616; Doré, Gustave, 1832-1883 [Illustrator]; Ormsby, John, 1829-1895 [Translator] | 章 | 3 | 18,527 |
-| 54315 | [Twenty](../../../../b/8a/8a7071db6a8e/) | Benson, Stella, 1892-1933 | 题 | 37 | 18,526 |
-| 54316 | [The woman obsession](../../../../b/52/52fc52e4538f/) | Gault, William Campbell, 1910-1995 | 题 | 14 | 18,493 |
-| 54317 | [Diagnosis](../../../../b/9d/9d56cd7ee764/) | Palmer, Ray, 1910-1977; McCauley, Harold W. (Harold William), 1913-1977 [Illustrator] | 题 | 8 | 18,481 |
-| 54318 | [The Incredible Life-Form](../../../../b/24/241207763766/) | Marks, Winston K. (Winston Kinney), 1915-1979 | 题 | 5 | 18,473 |
-| 54319 | [The Irish Peasant; Or, The History of Peter Lacy and His Wife Susan](../../../../b/dd/dd8a29fcd4b6/) | Religious Tract Society (Great Britain) | 题 | 6 | 18,469 |
-| 54320 | [Dream Town](../../../../b/73/73355bb33cdf/) | Slesar, Henry, 1927-2002 | 题 | 8 | 18,457 |
-| 54321 | [Index of the Project Gutenberg Works of Oliver Goldsmith](../../../../b/e1/e19eb70a907c/) | Goldsmith, Oliver, 1730?-1774; Widger, David, 1932-2021 [Editor] | 章 | 32 | 18,455 |
-| 54322 | [Over the Falls](../../../../b/ff/ff0326021f44/) | Taylor, Annie Edson, 1838-1921 | 题 | 30 | 18,453 |
-| 54323 | [Peace（#58735）](../../../../b/cc/cc3adc8c2657/) | Arkawy, Norman, 1927-2004; Henig, Stanley | 题 | 10 | 18,392 |
-| 54324 | [The Church Rate: A Dialogue Between a Churchman and a Dissenter](../../../../b/74/7492f97ba39f/) | Richings, B. (Benjamin), 1788?-1872 | 题 | 6 | 18,391 |
-| 54325 | [The Spinster 1905](../../../../b/a7/a74b253a52fa/) | Hichens, Robert, 1864-1950 | 题 | 11 | 18,356 |
-| 54326 | [A Dog's Tale](../../../../b/93/93fcc42c9e87/) | Twain, Mark, 1835-1910 | 章 | 3 | 18,354 |
-| 54327 | [Small voice, big man](../../../../b/05/05a0d5bdd9ea/) | Brown, Stewart Pierce; Schelling, George, 1938- [Illustrator] | 题 | 7 | 18,345 |
-| 54328 | [Catalogue of Rudimentary, Scientific, Educational, and Classical Works](../../../../b/fe/fe31db2413e1/) | James S. Virtue (Firm) | 题 | 6 | 18,331 |
-| 54329 | [The Sunlit Hours](../../../../b/24/242576c17f08/) | Verhaeren, Emile, 1855-1916; Murphy, Charles Royier, 1884- [Translator] | 题 | 36 | 18,329 |
-| 54330 | [Lair of the Dragonbird](../../../../b/23/2322a2676cd5/) | Silverberg, Robert, 1935- | 题 | 7 | 18,324 |
-| 54331 | [A Spray of Kentucky Pine Placed at the Feet of the Dead Poet James Whitcomb Riley](../../../../b/08/08b923a1c95d/) | Sherley, Douglass, 1857-1917 | 题 | 13 | 18,311 |
-| 54332 | [Tabby](../../../../b/26/264ff189c646/) | Marks, Winston K. (Winston Kinney), 1915-1979; Palais, Rudolph [Illustrator] | 题 | 8 | 18,309 |
-| 54333 | [Age of anxiety](../../../../b/52/522f90f6b539/) | Silverberg, Robert, 1935-; Schoenherr, John, 1935-2010 [Illustrator] | 题 | 6 | 18,307 |
-| 54334 | [Morgue Ship](../../../../b/7b/7b4ec74f66cf/) | Bradbury, Ray, 1920-2012; Doolin, Joseph, 1896-1967 [Illustrator] | 题 | 7 | 18,300 |
-| 54335 | [Extracts from Adam's Diary, translated from the original ms.](../../../../b/8d/8d327d06cf4d/) | Twain, Mark, 1835-1910 | 题 | 35 | 18,290 |
-| 54336 | [Index of the Project Gutenberg Works of Pelham Grenville Wodehouse](../../../../b/54/5460e2441754/) | Wodehouse, P. G. (Pelham Grenville), 1881-1975; Widger, David, 1932-2021 [Editor] | 章 | 30 | 18,290 |
-| 54337 | [The Arm Chair](../../../../b/2a/2a4fb848a10f/) | Unknown | 题 | 6 | 18,282 |
-| 54338 | [Perfect Answer](../../../../b/3d/3d33af2006b0/) | Stecher, L. J., Jr., 1918-1988; Francis, Dick [Illustrator] | 题 | 5 | 18,264 |
-| 54339 | [Shakespeare's daughters](../../../../b/b8/b8b0000f94fb/) | Trader, George Henry, 1865?-1951 | 题 | 21 | 18,235 |
-| 54340 | [The mystery of Deneb IV](../../../../b/94/947826ac77be/) | Silverberg, Robert, 1935-; Llewellyn [Illustrator] | 题 | 6 | 18,205 |
-| 54341 | [Head-Gear, Antique and Modern](../../../../b/80/8044094b9828/) | Wadleigh, R. H. [Editor] | 题 | 29 | 18,199 |
-| 54342 | [Index of the Project Gutenberg Works of Leon Tolstoy](../../../../b/92/92f9361165f2/) | Tolstoy, Leo, graf, 1828-1910; Widger, David, 1932-2021 [Editor] | 章 | 59 | 18,192 |
-| 54343 | [Alien](../../../../b/8a/8aa77dfaea08/) | Smith, George O. (George Oliver), 1911-1981; Swenson [Illustrator] | 题 | 5 | 18,184 |
-| 54344 | [Report by the Governor on a Visit to the Micmac Indians at Bay d'Espoir Colonial Reports, Miscellaneous. No. 54. Newfoundland](../../../../b/59/597eb902de63/) | MacGregor, William, 1846-1919 | 题 | 13 | 18,136 |
-| 54345 | [Poems of West & East](../../../../b/97/9777bcafee4c/) | Sackville-West, V. (Victoria), 1892-1962 | 题 | 29 | 18,132 |
-| 54346 | [The Big Leap](../../../../b/a4/a4275d8b4351/) | Fritch, Charles E., 1927-2012; Summers, Leo, 1925-1985 [Illustrator] | 题 | 8 | 18,131 |
-| 54347 | [Spanish Prisoners of War (from Literature and Life)](../../../../b/c5/c59b165f7069/) | Howells, William Dean, 1837-1920 | 题 | 8 | 18,124 |
-| 54348 | [In the Land of Dakota: A Little Book of North Dakota Verse](../../../../b/01/01a085310576/) | Winsted, Huldah Lucile | 题 | 26 | 18,099 |
-| 54349 | [Transactions of the American Society of Civil Engineers, Vol. LXX, Dec. 1910 Final Report of Special Committee on Rail Sections, Paper No. 1177](../../../../b/09/09a9ebea122e/) | Various | 题 | 8 | 18,094 |
-| 54350 | [Louisiana Beef Cattle](../../../../b/e4/e4f49c86b901/) | Stubbs, William Carter, 1846-1924 | 题 | 6 | 18,087 |
-| 54351 | [A Message From Our Sponsor](../../../../b/f7/f7c7dee73513/) | Slesar, Henry, 1927-2002 | 题 | 6 | 18,035 |
-| 54352 | [The old man's bag](../../../../b/75/75a5090eb51f/) | Crosland, T. W. H. (Thomas William Hodgson), 1865-1924; Monsell, J. R. [Illustrator] | 章 | 8 | 18,028 |
-| 54353 | [Book of brief narratives](../../../../b/35/3572ae5a6319/) | Pemmon, Frank [Editor] | 题 | 5 | 18,028 |
-| 54354 | [Miracle by Price](../../../../b/39/39e6db17054a/) | Cox, Irving E., Jr., 1917-2001 | 题 | 10 | 17,990 |
-| 54355 | [My Mother's Gold Ring: Founded on Fact Eighth Edition](../../../../b/d0/d05090457f28/) | Sargent, Lucius M. (Lucius Manlius), 1786-1867 | 题 | 5 | 17,978 |
-| 54356 | [Views of St. Paul's Cathedral, London](../../../../b/f2/f24189bfa609/) | Sparrow-Simpson, W. J. (William John), 1859-1952; Dovaston, Freeman [Photographer] | 题 | 19 | 17,947 |
-| 54357 | [Mary's Little Lamb: A Picture Guessing Story for Little Children](../../../../b/ea/ea8dd047ec79/) | Foster, Edith Francis | 题 | 13 | 17,935 |
-| 54358 | [The Mannion Court-Martial](../../../../b/67/67e691a211d7/) | Garrett, Randall, 1927-1987 | 题 | 5 | 17,932 |
-| 54359 | [All Day Wednesday](../../../../b/74/74188a70c5b4/) | Olin, Richard, 1934-; Schelling, George, 1938- [Illustrator] | 题 | 12 | 17,920 |
-| 54360 | [The Ways of a Worker of a Century Ago as Shown by the Diary of Joseph Lye, Shoemaker](../../../../b/1c/1cd977ae3fc2/) | Gannon, Fred A., 1881- | 题 | 15 | 17,914 |
-| 54361 | [Chain of Colonial Houses](../../../../b/65/65af62a4f65c/) | Anonymous | 题 | 23 | 17,913 |
-| 54362 | [The Bible, Douay-Rheims, Book 24: Canticle of Canticles The Challoner Revision](../../../../b/95/957b2869d260/) | — | 题 | 12 | 17,883 |
-| 54363 | [The World Turned Upside Down](../../../../b/67/67df544382cd/) | Clayton, Ellen C. (Ellen Creathorne), 1834-1900 | 题 | 12 | 17,870 |
-| 54364 | [The Monkey's Paw The Lady of the Barge and Others, Part 2.](../../../../b/c2/c24626ccbaf0/) | Jacobs, W. W. (William Wymark), 1863-1943; Greiffenhagen, Maurice, 1862-1931 [Illustrator]; Richards, Amy, active 1896-1918 [Illustrator] | 题 | 5 | 17,860 |
-| 54365 | [Tales and Novels of J. de La Fontaine — Volume 19](../../../../b/0a/0a8586d04af5/) | La Fontaine, Jean de, 1621-1695 | 题 | 5 | 17,836 |
-| 54366 | [The Bible, Douay-Rheims, Book 29: Lamentations of Jeremias The Challoner Revision](../../../../b/37/3725348f81ae/) | — | 题 | 10 | 17,807 |
-| 54367 | [Index of the Project Gutenberg Works of Joel Chandler Harris](../../../../b/3a/3ab4bb2cd15e/) | Harris, Joel Chandler, 1848-1908; Widger, David, 1932-2021 [Editor] | 章 | 14 | 17,803 |
-| 54368 | [Some Current Folk-Songs of the Negro](../../../../b/ad/ad6a5f2836c7/) | Thomas, W. H. (William Henry), 1880-1935 | 题 | 22 | 17,783 |
-| 54369 | [The Love Sonnets of a Car Conductor](../../../../b/39/3999c5b0f441/) | Irwin, Wallace, 1876-1959 | 题 | 29 | 17,748 |
-| 54370 | [Index of the Project Gutenberg Works of Jonathan Swift（#59708）](../../../../b/77/7706285e2867/) | Swift, Jonathan, 1667-1745; Widger, David, 1932-2021 [Editor] | 章 | 11 | 17,741 |
-| 54371 | [Zion National Park, Utah (1951)](../../../../b/68/682d3f5f3799/) | United States. National Park Service | 题 | 19 | 17,695 |
-| 54372 | [The Gently Orbiting Blonde](../../../../b/83/8377c0316569/) | Peterson, John Victor; Engle, Robert, 1928-1989 [Illustrator] | 题 | 9 | 17,689 |
-| 54373 | [Educational Work of the Boy Scouts](../../../../b/6f/6ffc6de0601d/) | Barclay, Lorne W. (Lorne Webster), 1885-1970 | 题 | 19 | 17,682 |
-| 54374 | [The Flying Doctor (Le Médecin Volant)](../../../../b/5e/5ef143b987de/) | Molière, 1622-1673; Wall, Charles Heron [Translator] | 章 | 13 | 17,680 |
-| 54375 | [Busy Brownies](../../../../b/42/4214f5aa9299/) | Veale, E.; Cox, Palmer, 1840-1924 [Illustrator] | 题 | 8 | 17,680 |
-| 54376 | [Index of the Project Gutenberg Works of William Butler Yeats](../../../../b/f8/f850f7b472de/) | Yeats, W. B. (William Butler), 1865-1939; Widger, David, 1932-2021 [Editor] | 章 | 5 | 17,680 |
-| 54377 | [Hold Back Tomorrow](../../../../b/12/12b2cedddaa3/) | Neville, Kris, 1925-1980; Marsh, W. L. [Illustrator] | 题 | 5 | 17,671 |
-| 54378 | [An Address to a Wealthy Libertine or, the Melancholy Effects of Seduction; with a Letter from an Unfortunate Farmer's Daughter, to her Parents in Norfolk](../../../../b/61/61638178cc86/) | Parkerson, James | 题 | 7 | 17,620 |
-| 54379 | ['Mid Pleasures and Palaces](../../../../b/95/953422564653/) | McKimmey, James, 1923-2011; Parsons, Philip B. [Illustrator] | 题 | 7 | 17,598 |
-| 54380 | [Of the Injustice of Counterfeiting Books From: Essays and Treaties on Moral, Political and various Philosophical Subjects](../../../../b/8c/8c790a52a52d/) | Kant, Immanuel, 1724-1804 | 题 | 8 | 17,583 |
-| 54381 | [Happy Hearts](../../../../b/89/89a82e7235af/) | Isle, June | 章 | 4 | 17,580 |
-| 54382 | [The Disembodied Man](../../../../b/45/45539c56c1d2/) | Jardine, Jack Owen, 1931-2009 | 题 | 8 | 17,571 |
-| 54383 | [The nothing](../../../../b/82/826b805fbed3/) | Herbert, Frank, 1920-1986; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 5 | 17,570 |
-| 54384 | [Not Fit for Children](../../../../b/af/afb001a1e42d/) | Smith, Evelyn E., 1922-2000; Francis, Dick [Illustrator] | 题 | 5 | 17,562 |
-| 54385 | [The Hated](../../../../b/9b/9b5e3dd0c5a9/) | Pohl, Frederik, 1919-2013; Francis, Dick [Illustrator] | 题 | 21 | 17,557 |
-| 54386 | [Over the Wire](../../../../b/6f/6f9f0e0ef625/) | Jones, Eugene | 题 | 5 | 17,546 |
-| 54387 | [Thomas Jefferson Brown](../../../../b/fa/fa65f9ee576d/) | Curwood, James Oliver, 1878-1927 | 题 | 8 | 17,544 |
-| 54388 | [Reminiscences of the Thirty-Fourth Regiment, Mass. Vol. Infantry](../../../../b/3a/3af814c6777a/) | Clark, William H., 1841?-1920 | 章 | 7 | 17,532 |
-| 54389 | [Puppet Government](../../../../b/fb/fb47f4333cf2/) | Revelle, George; Orban, Paul, 1896-1974 [Illustrator] | 题 | 10 | 17,478 |
-| 54390 | [Death Walks on Mars](../../../../b/32/32038100ed09/) | Ramm, Alan J. | 题 | 7 | 17,448 |
-| 54391 | [Jubilation, U.S.A.](../../../../b/2e/2ebe1489c302/) | Vandenburg, G. L. | 题 | 13 | 17,426 |
-| 54392 | [The Brochure Series of Architectural Illustration, Vol. 01, No. 12, December 1895 English Country Houses](../../../../b/63/633871b3a717/) | Various | 题 | 7 | 17,419 |
-| 54393 | [The Miserly Robot](../../../../b/47/474b78448658/) | Rice, R. J.; Becker [Illustrator] | 题 | 5 | 17,417 |
-| 54394 | [The Fall of Archy House](../../../../b/f3/f318d11ebea0/) | Harris, Tom W.; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 5 | 17,404 |
-| 54395 | [Scriptural and Hieroglyphic Observations which were foretold in the years of 1750 & 1792 To which is added a singular account of the emigration of the Jews in 1812](../../../../b/e0/e0f16ad5acf2/) | Moore, Francis | 题 | 6 | 17,402 |
-| 54396 | [Satellite Passage](../../../../b/8b/8b7ab0338eee/) | Thomas, Theodore L., 1920-2005 | 题 | 6 | 17,389 |
-| 54397 | [Life and Adventures of Frances Namon Sorcho The Only Woman Deep Sea Diver in the World](../../../../b/69/6908f1729d50/) | Captain Louis Sorcho Great Deep Sea Diving Co. | 题 | 14 | 17,383 |
-| 54398 | [Tales and Novels of J. de La Fontaine — Volume 22](../../../../b/ee/ee417b76e318/) | La Fontaine, Jean de, 1621-1695 | 题 | 6 | 17,379 |
-| 54399 | [The Useless Bugbreeders](../../../../b/2a/2ae778b85ea6/) | Stamers, James | 题 | 11 | 17,364 |
-| 54400 | [The Quantum Jump](../../../../b/0f/0f0c059d27d8/) | Wicks, Robert | 题 | 6 | 17,353 |
-| 54401 | [The Deeds Carillon and Carillon Park](../../../../b/4c/4c33698f271c/) | Anonymous | 题 | 7 | 17,347 |
-| 54402 | [Verses（#55807）](../../../../b/d5/d5f9d4dccfc0/) | Wharton, Edith, 1862-1937 | 题 | 17 | 17,335 |
-| 54403 | [Matthew on Money](../../../../b/d6/d63cb29df839/) | Keister, Lawrence | 题 | 12 | 17,328 |
-| 54404 | [The Worlds of Joe Shannon](../../../../b/c8/c85843f1a102/) | Robinson, Frank M., 1926-2014; Orban, Paul, 1896-1974 [Illustrator] | 题 | 6 | 17,314 |
-| 54405 | [Mutineer](../../../../b/cd/cdd95c69ff0f/) | Shea, Robert, 1933-1994 | 题 | 9 | 17,309 |
-| 54406 | [California Missions: A Guide to the Historic Trails of the Padres](../../../../b/58/58f57f377b69/) | Brown, Karl F. (Karl Frederick), 1900-1982?; Newcomb, Rexford, 1886-1968 [Author of introduction, etc.]; Ray, Floyd, 1894- [Photographer] | 题 | 6 | 17,308 |
-| 54407 | [Cactus Forest Drive, Saguaro National Monument](../../../../b/82/820e24d6598a/) | Anonymous | 题 | 11 | 17,290 |
-| 54408 | [The Birds of Lorrane](../../../../b/07/074b60362cb3/) | Doede, William R., 1918-2007; Burns [Illustrator] | 题 | 8 | 17,276 |
-| 54409 | [The man who was pale](../../../../b/f5/f57ae1e8e00e/) | Sharkey, Jack, 1931-1992; Summers, Leo, 1925-1985 [Illustrator] | 题 | 5 | 17,266 |
-| 54410 | [Prufrock and Other Observations](../../../../b/f5/f5484b566d94/) | Eliot, T. S. (Thomas Stearns), 1888-1965 | 题 | 23 | 17,235 |
-| 54411 | [The Laugh Maker](../../../../b/a6/a6c01ed07306/) | Curwood, James Oliver, 1878-1927; Hoskins, Gayle Porter, 1887-1962 [Illustrator] | 题 | 5 | 17,191 |
-| 54412 | [Sound of Terror](../../../../b/bd/bd534c070023/) | Berry, Don, 1932-2001; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 5 | 17,182 |
-| 54413 | [The last poems of Alice Meynell](../../../../b/69/6939d499b40d/) | Meynell, Alice, 1847-1922 | 题 | 17 | 17,170 |
-| 54414 | [E Being](../../../../b/d2/d2cfe9003e04/) | Stamers, James; Thall [Illustrator] | 题 | 6 | 17,164 |
-| 54415 | [Two New Pelycosaurs from the Lower Permian of Oklahoma](../../../../b/1b/1b515e3550e8/) | Fox, Richard C. | 题 | 13 | 17,161 |
-| 54416 | [The Jealousy of le Barbouillé (La Jalousie du Barbouillé)](../../../../b/74/74fa965daeb1/) | Molière, 1622-1673; Wall, Charles Heron [Translator] | 章 | 12 | 17,139 |
-| 54417 | [Tides: A Book of Poems](../../../../b/1d/1d33d19a8ae1/) | Drinkwater, John, 1882-1937 | 题 | 27 | 17,128 |
-| 54418 | [Counterfeit Money The "green goods" business exposed for the benefit of all who have dishonest inclinations.](../../../../b/4d/4d57524a199c/) | Anonymous | 题 | 6 | 17,122 |
-| 54419 | [A Greek Primer: For Beginners in New Testament Greek](../../../../b/6d/6d2598f2da09/) | Stearns, Wallace N. (Wallace Nelson), 1866- | 题 | 22 | 17,113 |
-| 54420 | [The Velveteen Rabbit](../../../../b/dc/dc2cb71d7923/) | Bianco, Margery Williams, 1881-1944 | 题 | 7 | 17,097 |
-| 54421 | [Friendly counsels for freedmen](../../../../b/40/40f6bca8a3c3/) | Waterbury, J. B. (Jared Bell), 1799-1876 | 题 | 22 | 17,092 |
-| 54422 | [Take a Can of Salmon](../../../../b/ad/ad5c68e4a1b8/) | United States. Bureau of Commercial Fisheries | 题 | 25 | 17,078 |
-| 54423 | [A Canadian Calendar: XII Lyrics](../../../../b/03/032c7fae2c8f/) | Sherman, Francis, 1871-1926 | 题 | 14 | 17,065 |
-| 54424 | [An Elephant for the Prinkip](../../../../b/ab/ab0c3ed12de6/) | Stecher, L. J., Jr., 1918-1988; Francis, Dick [Illustrator] | 题 | 9 | 17,050 |
-| 54425 | [The Holes and John Smith](../../../../b/a5/a533db01e387/) | Ludwig, Edward W., 1920-1990; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 10 | 17,033 |
-| 54426 | [Golden Deeds Stories from History](../../../../b/34/3428c7a93a0f/) | Anonymous | 题 | 13 | 17,028 |
-| 54427 | [The Standardized Man](../../../../b/73/734466f6d8b0/) | Bartholomew, Stephen | 题 | 8 | 17,001 |
-| 54428 | [Pioneer Auto Museum and Antique Town, Murdo, South Dakota](../../../../b/3a/3a05116b0710/) | Pioneer Auto Museum (Murdo, S.D.) | 题 | 8 | 16,990 |
-| 54429 | [The Doré Bible Gallery, Volume 9](../../../../b/dd/ddf3e2a907c6/) | Doré, Gustave, 1832-1883 [Illustrator] | 题 | 14 | 16,961 |
-| 54430 | [The Passenger](../../../../b/59/59d3a07723be/) | Harmon, Kenneth; Connell [Illustrator] | 题 | 5 | 16,949 |
-| 54431 | [The Big Bounce](../../../../b/27/27263e41e8de/) | Tevis, Walter S., 1928-1984 | 题 | 7 | 16,948 |
-| 54432 | [The Lathe of Morpheus; or, The dream song. A tribute to B.C. from E.M](../../../../b/00/00728281e814/) | E. M. | 章 | 6 | 16,913 |
-| 54433 | [The Bible, Douay-Rheims, Book 55: Galatians The Challoner Revision](../../../../b/6b/6b3e4ec11ac0/) | — | 题 | 10 | 16,893 |
-| 54434 | [Songs, Sonnets & Miscellaneous Poems](../../../../b/19/193abeaed484/) | Runciman, Thomas, 1841-1909 | 题 | 33 | 16,875 |
-| 54435 | [Tales and Novels of J. de La Fontaine — Volume 04](../../../../b/ca/cad8405924ce/) | La Fontaine, Jean de, 1621-1695 | 题 | 5 | 16,873 |
-| 54436 | [A Butterfly Chase](../../../../b/9e/9e945919a70a/) | Stahl, P.-J., 1814-1886; Frølich, Lorenz, 1820-1908 [Illustrator] | 题 | 28 | 16,865 |
-| 54437 | [Over the Brazier](../../../../b/1e/1efed77592fd/) | Graves, Robert, 1895-1985 | 题 | 27 | 16,865 |
-| 54438 | [Green Grew the Lasses](../../../../b/be/be39dce031d8/) | Wainwright, Ruth Laura; Francis, Dick [Illustrator] | 题 | 9 | 16,864 |
-| 54439 | [Has Anyone Here Seen Kelly?](../../../../b/b7/b7b57bc82eda/) | Walton, Bryce, 1918-1988; Orban, Paul, 1896-1974 [Illustrator] | 题 | 6 | 16,859 |
-| 54440 | [Milk Run](../../../../b/a1/a117abf9e0f6/) | Locke, Robert Donald | 题 | 5 | 16,825 |
-| 54441 | [The Duke of Gandia](../../../../b/bf/bff4700a241a/) | Swinburne, Algernon Charles, 1837-1909 | 章 | 4 | 16,800 |
-| 54442 | [Songs of Heroic Days](../../../../b/8f/8ff7e94effd6/) | O'Hagan, Thomas, 1855-1939 | 题 | 31 | 16,797 |
-| 54443 | [Bleekman's Planet](../../../../b/db/dbaa7ebe3efe/) | Garrett, Randall, 1927-1987; Silverberg, Robert, 1935-; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 10 | 16,773 |
-| 54444 | [The Vilbar Party](../../../../b/4d/4dcf0d2228aa/) | Smith, Evelyn E., 1922-2000; Kossin, Sandy [Illustrator] | 题 | 5 | 16,769 |
-| 54445 | [Don't Think About It](../../../../b/3c/3ccfc948c243/) | Stuart, William W. | 题 | 5 | 16,767 |
-| 54446 | [The Constitution of the Empire of Japan, 1889](../../../../b/39/3981fbdf8e0c/) | Japan | 章 | 7 | 16,763 |
-| 54447 | [A book of images](../../../../b/00/000fb30fd9e8/) | Horton, W. T. (William Thomas), 1864-1919 [Illustrator]; Yeats, W. B. (William Butler), 1865-1939 [Author of introduction, etc.] | 题 | 17 | 16,729 |
-| 54448 | [The Golgotha Dancers](../../../../b/3e/3efca24d1e1d/) | Wellman, Manly Wade, 1903-1986 | 题 | 5 | 16,725 |
-| 54449 | [Pueblo Bonito: Chaco Culture National Historic Park, New Mexico](../../../../b/10/108222cb3e0c/) | Southwest Parks and Monuments Association | 题 | 6 | 16,719 |
-| 54450 | [Little Pilgrim at Aunt Lou's](../../../../b/75/7515fd66de66/) | Church, Ella Rodman, 1831-1912 | 题 | 5 | 16,704 |
-| 54451 | [Tales and Novels of J. de La Fontaine — Volume 14](../../../../b/fc/fcd08a43ddef/) | La Fontaine, Jean de, 1621-1695 | 题 | 6 | 16,696 |
-| 54452 | [You'll Like It on Mars](../../../../b/ea/ea882cc7de7d/) | Harris, Tom W.; Berry, D. Bruce, 1924-1998 [Illustrator] | 题 | 5 | 16,644 |
-| 54453 | [A Hitch in Space](../../../../b/c9/c9b281ed1f52/) | Leiber, Fritz, 1910-1992; Dember, Sol, 1922-2011 [Illustrator]; Morrow, Gray, 1934-2001 [Illustrator] | 题 | 8 | 16,621 |
-| 54454 | [Subject to Change](../../../../b/d8/d871a5ada625/) | Goulart, Ron, 1933-2022; Harman [Illustrator] | 题 | 18 | 16,487 |
-| 54455 | [Emergency Childbirth A Reference Guide for Students of the Medical Self-help Training Course, Lesson No. 11](../../../../b/3d/3dc5cea164c0/) | United States. Office of Civil Defense; United States. Public Health Service | 题 | 18 | 16,486 |
-| 54456 | [Index of the Project Gutenberg Works of Nathaniel Hawthorne](../../../../b/00/006f6dbe4a76/) | Hawthorne, Nathaniel, 1804-1864; Widger, David, 1932-2021 [Editor] | 章 | 50 | 16,475 |
-| 54457 | [Index of the Project Gutenberg Works of Stanley J. Weyman](../../../../b/f6/f6015c93b348/) | Weyman, Stanley John, 1855-1928; Widger, David, 1932-2021 [Editor] | 章 | 46 | 16,468 |
-| 54458 | [Badger House Community: Trail Guide](../../../../b/17/17372c40d122/) | Mesa Verde Museum Association | 题 | 9 | 16,459 |
-| 54459 | [Index of the Project Gutenberg Works of Benjamin Disraeli](../../../../b/48/482b78f798e4/) | Disraeli, Benjamin, Earl of Beaconsfield, 1804-1881; Widger, David, 1932-2021 [Editor] | 章 | 89 | 16,447 |
-| 54460 | [Staccato Notes of a Vanished Summer (from Literature and Life)](../../../../b/a3/a389171969c5/) | Howells, William Dean, 1837-1920 | 题 | 9 | 16,434 |
-| 54461 | [The Bible, Douay-Rheims, Book 56: Ephesians The Challoner Revision](../../../../b/c2/c2dd8a97a311/) | — | 题 | 10 | 16,433 |
-| 54462 | [Death Wish](../../../../b/d3/d399707773dd/) | Sheckley, Robert, 1928-2005 | 题 | 6 | 16,419 |
-| 54463 | [New Apples in the Garden](../../../../b/65/65774b0e04da/) | Neville, Kris, 1925-1980; Schelling, George, 1938- [Illustrator] | 题 | 10 | 16,406 |
-| 54464 | [Irish Ned The Winnipeg Newsy](../../../../b/14/1490dbecb66b/) | Fea, Samuel, 1872-1943 | 章 | 6 | 16,380 |
-| 54465 | [Lost Mine Trail, Big Bend National Park, Texas](../../../../b/9e/9e1d218df836/) | Anonymous | 题 | 12 | 16,373 |
-| 54466 | [The unique story book](../../../../b/aa/aaaa628ff6b9/) | Anonymous | 题 | 7 | 16,304 |
-| 54467 | [Common Denominator](../../../../b/b3/b3ae909bdae9/) | MacDonald, John D. (John Dann), 1916-1986; Hunter, Don [Illustrator] | 题 | 5 | 16,292 |
-| 54468 | [Some Historic Trees](../../../../b/77/77f6586a51a0/) | Public Library of Fort Wayne and Allen County | 题 | 6 | 16,286 |
-| 54469 | [The Addicts](../../../../b/80/804863e8490f/) | Samachson, Joseph, 1906-1980; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 9 | 16,270 |
-| 54470 | [Pink Ears](../../../../b/6e/6eb85c7a8b07/) | Leinster, Murray, 1896-1975 | 题 | 5 | 16,265 |
-| 54471 | [The Odyssey of Sam Meecham](../../../../b/ea/ea1330825be2/) | Fritch, Charles E., 1927-2012 | 题 | 7 | 16,186 |
-| 54472 | [Cathay](../../../../b/d6/d6b937ca8c46/) | Pound, Ezra, 1885-1972; Li, Bai, 701-762 | 题 | 21 | 16,185 |
-| 54473 | [Patrol](../../../../b/04/0448ff951965/) | Hamling, William L., 1921-2017 | 题 | 5 | 16,120 |
-| 54474 | [Cincinnati's "Old Cunny": A Notorious Purveyor of Human Flesh](../../../../b/de/de4fea196fb4/) | Edwards, Linden F. (Linden Forest), 1899-1970; Public Library of Fort Wayne and Allen County | 题 | 11 | 16,106 |
-| 54475 | [The blowing away of Mr. Bushy Tail](../../../../b/ac/ac1029ceec4a/) | Davidson, Edith B.; Atwood, Clara E., 1874-1963 [Illustrator] | 题 | 8 | 16,095 |
-| 54476 | [The Skeleton On Round Island From "Mackinac And Lake Stories", 1899](../../../../b/30/30c7c8719b39/) | Catherwood, Mary Hartwell, 1847-1902 | 题 | 6 | 16,082 |
-| 54477 | [Pariah](../../../../b/0e/0e8715e986eb/) | Marlowe, Stephen, 1928-2008 | 题 | 5 | 16,045 |
-| 54478 | [The Twins, and How They Entertained the New Minister: A Farce](../../../../b/9b/9b2c3de224e2/) | Guptill, Elizabeth F. (Elizabeth Frances), 1870- | 章 | 3 | 16,006 |
-| 54479 | [Strange Alliance](../../../../b/0d/0d2986d28d3a/) | Walton, Bryce, 1918-1988; Beaumont, Charles, 1929-1967 [Illustrator] | 题 | 6 | 15,988 |
-| 54480 | [Colonel Sion S. Bass, 1827-1862](../../../../b/c6/c606c195c3c4/) | Public Library of Fort Wayne and Allen County | 题 | 5 | 15,964 |
-| 54481 | [Index of the Project Gutenberg Works of Anatole France](../../../../b/96/96a01bf8f56b/) | France, Anatole, 1844-1924; Widger, David, 1932-2021 [Editor] | 章 | 14 | 15,959 |
-| 54482 | [One Way](../../../../b/61/615b12e6fc21/) | De Ford, Miriam Allen, 1888-1975; Docktor, Irv, 1918-2008 [Illustrator] | 题 | 6 | 15,957 |
-| 54483 | [Dear Santa Claus](../../../../b/81/8175f85873a3/) | Various | 题 | 7 | 15,941 |
-| 54484 | [Letters to his mother, Ann Borrow, and other correspondents](../../../../b/c1/c10b2ee1ebbb/) | Borrow, George, 1803-1881; Wise, Thomas James, 1859-1937 [Editor] | 题 | 20 | 15,932 |
-| 54485 | [The Trial of William Tinkling Written by Himself at the Age of 8 Years](../../../../b/1b/1b0a9d9fda27/) | Dickens, Charles, 1812-1870; Pearse, Susan Beatrice, 1878-1980 [Illustrator] | 题 | 7 | 15,927 |
-| 54486 | [The agent](../../../../b/46/4636e1dd8d4e/) | Marlowe, Stephen, 1928-2008; Lawrence, Mort (Morton) [Illustrator]; Manso, Leo, 1914-1993 [Illustrator] | 题 | 7 | 15,911 |
-| 54487 | [Security Plan](../../../../b/ee/ee0db0a5d1fd/) | Farrell, Joseph; Wood, Wallace, 1927-1981 [Illustrator] | 题 | 9 | 15,842 |
-| 54488 | [Pollony Undiverted](../../../../b/20/20cb7a30a384/) | Van Scyoc, Sydney J., 1939-2023; Francis, Dick [Illustrator] | 题 | 19 | 15,731 |
-| 54489 | [The Living Museum, Vol. XV No. 6, October 1953](../../../../b/ce/ce5e61f6686d/) | Various; Eifert, Virginia S. (Virginia Snider), 1911-1966 [Editor] | 题 | 10 | 15,694 |
-| 54490 | [Every Man His Own Poet; Or, The Inspired Singer's Recipe Book](../../../../b/35/35c153385d1f/) | Mallock, W. H. (William Hurrell), 1849-1923 | 题 | 18 | 15,687 |
-| 54491 | [The Sunken Garden, and Other Poems](../../../../b/f5/f5ab11e6ff33/) | De la Mare, Walter, 1873-1956 | 题 | 28 | 15,644 |
-| 54492 | [Animal Children: The Friends of the Forest and the Plain](../../../../b/74/7485965951ac/) | Kirkwood, Edith Brown, 1875-1954; Ross, M. T. [Illustrator] | 题 | 5 | 15,623 |
-| 54493 | [Comments on the Taxonomy and Geographic Distribution of Some North American Rabbits](../../../../b/73/73a42ddbe2ff/) | Hall, E. Raymond (Eugene Raymond), 1902-1986; Kelson, Keith R. | 题 | 11 | 15,567 |
-| 54494 | [The Breadth, Freeness, and Yet Exclusiveness of the Gospel](../../../../b/4d/4d7c1aaaaabd/) | Hoare, Edward, 1812-1894 | 题 | 6 | 15,558 |
-| 54495 | [Skin Game](../../../../b/8b/8b49a38f8810/) | Fritch, Charles E., 1927-2012; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 5 | 15,557 |
-| 54496 | [The Fifteen Watt Tungsten Lamp](../../../../b/06/06bcb8985f3d/) | Anderson, Clair Elmore, 1886-1942 | 章 | 3 | 15,528 |
-| 54497 | [Caw! Caw! Or, The Chronicle of Crows, A Tale of the Spring-time](../../../../b/3e/3edc0d04805b/) | R. M.; Blackburn, Jemima, 1823-1909 [Illustrator] | 题 | 11 | 15,500 |
-| 54498 | [Field Mice as Farm and Orchard Pests](../../../../b/75/75f709109647/) | Lantz, David E. (David Ernest), 1855-1918 | 题 | 15 | 15,475 |
-| 54499 | [Clerical Subscription and the Act of Uniformity](../../../../b/b7/b7d397582cd1/) | Hoare, Edward, 1812-1894 | 题 | 8 | 15,469 |
-| 54500 | [Parking, unlimited](../../../../b/2a/2a60dee15d1d/) | Loomis, Noel M., 1905-1969 | 题 | 9 | 15,437 |
-| 54501 | [Billy in Bunbury](../../../../b/30/308ceabeb679/) | Royal Baking Powder Company | 题 | 15 | 15,434 |
-| 54502 | [The New Science of Controlled Breathing, Vol. 1 (of 2) The Secret of Strength, Energy and Beauty—Through Breath Control](../../../../b/3d/3d960f1ee392/) | Lankow, Edward | 题 | 10 | 15,402 |
-| 54503 | [A New Extinct Emydid Turtle from the Lower Pliocene of Oklahoma](../../../../b/4b/4bde2f7e129a/) | Galbreath, Edwin C. (Edwin Carter), 1913-1989 | 题 | 13 | 15,400 |
-| 54504 | [Pipistrellus cinnamomeus Miller 1902 Referred to the Genus Myotis](../../../../b/d3/d33be22baaeb/) | Hall, E. Raymond (Eugene Raymond), 1902-1986; Dalquest, Walter Woelber, 1917-2000 | 题 | 8 | 15,350 |
-| 54505 | [Tales and Novels of J. de La Fontaine — Volume 17](../../../../b/96/9687dcc57792/) | La Fontaine, Jean de, 1621-1695 | 题 | 5 | 15,326 |
-| 54506 | [Prisoner of War](../../../../b/15/156fc5d3747d/) | Garrett, Randall, 1927-1987 | 题 | 6 | 15,306 |
-| 54507 | [The Divine Comedy by Dante, Illustrated, Hell, Volume 10](../../../../b/1b/1bf422d3c95f/) | Dante Alighieri, 1265-1321; Doré, Gustave, 1832-1883 [Illustrator]; Cary, Henry Francis, 1772-1844 [Translator] | 章 | 4 | 15,264 |
-| 54508 | [Fossil Ice Crystals: An Instance of the Practical Value of "Pure Science"](../../../../b/20/2092b652696f/) | Udden, Johan August, 1859-1932 | 题 | 18 | 15,253 |
-| 54509 | [Volume of anecdotes](../../../../b/67/671f755aa3a2/) | Anonymous | 题 | 8 | 15,253 |
-| 54510 | [Sight Gag](../../../../b/45/45351fd6f23f/) | Janifer, Laurence M., 1933-2002; Schoenherr, John, 1935-2010 [Illustrator] | 题 | 5 | 15,229 |
-| 54511 | [Zero Hour（#64264）](../../../../b/d5/d5b640d39a65/) | Bradbury, Ray, 1920-2012; Elkan, Max, 1918-2000 [Illustrator] | 题 | 7 | 15,226 |
-| 54512 | [Army Pulse Radiation Facility](../../../../b/1b/1b8cb0861cb9/) | U.S. Army Ballistic Research Laboratory | 题 | 22 | 15,210 |
-| 54513 | [Unbegotten Child](../../../../b/bd/bd51dfbd1599/) | Marks, Winston K. (Winston Kinney), 1915-1979; Vidmer [Illustrator] | 题 | 5 | 15,198 |
-| 54514 | [Lake of Fire](../../../../b/3a/3a8cc2a22521/) | Long, Frank Belknap, 1903-1994; Vestal, Herman B., 1916-2007 [Illustrator] | 题 | 10 | 15,180 |
-| 54515 | [George Croghan](../../../../b/c2/c294d498836e/) | Public Library of Fort Wayne and Allen County | 题 | 5 | 15,179 |
-| 54516 | [ABC's of Science](../../../../b/9f/9ffe1e38e3c6/) | Oliver, Charles A. (Charles Alexander), 1858-1932 | 章 | 7 | 15,155 |
-| 54517 | [Which Shall Live—Men or Animals?](../../../../b/e2/e2db4e55dbab/) | Baynes, Ernest Harold, 1868-1925 | 题 | 10 | 15,151 |
-| 54518 | [The Hills of Home](../../../../b/8b/8b2da9e169e7/) | Coppel, Alfred, 1921-2004 | 题 | 6 | 15,123 |
-| 54519 | [The Divine Comedy by Dante, Illustrated, Hell, Volume 09](../../../../b/c7/c7a69a44f3bf/) | Dante Alighieri, 1265-1321; Doré, Gustave, 1832-1883 [Illustrator]; Cary, Henry Francis, 1772-1844 [Translator] | 章 | 4 | 15,108 |
-| 54520 | [Widger's Quotations from Project Gutenberg Edition of The Confessions of Jean Jacques Rousseau](../../../../b/28/281b9a00404a/) | Rousseau, Jean-Jacques, 1712-1778; Widger, David, 1932-2021 [Editor] | 题 | 5 | 15,049 |
-| 54521 | [Alien Equivalent](../../../../b/ec/ec7896e8218f/) | Smith, Richard Rein, 1930-; Vestal, Herman B., 1916-2007 [Illustrator] | 题 | 5 | 15,037 |
-| 54522 | [The Birds and the Bees](../../../../b/20/2051d2b91ec7/) | Fisher, David E., 1932- | 题 | 8 | 15,000 |
-| 54523 | [The Android Kill](../../../../b/51/51298a6792ea/) | Jakes, John, 1932-2023; Valigursky, Ed, 1926-2009 [Illustrator] | 题 | 5 | 14,987 |
-| 54524 | [Information for the Guidance of Field Men and Cooperators of the Bureau of Biological Survey Engaged in the Control of Injurious Rodents and Predatory Animals](../../../../b/56/5648ce0fdcc1/) | Redington, Paul G. (Paul Goodwin), 1878-1942; Young, Stanley Paul, 1889-1969 | 题 | 22 | 14,968 |
-| 54525 | [The yes men of Venus](../../../../b/46/46c45486f679/) | Goulart, Ron, 1933-2022; Summers, Leo, 1925-1985 [Illustrator] | 章 | 5 | 14,966 |
-| 54526 | [The New Science of Controlled Breathing, Vol. 2 (of 2) The Secret of Strength, Energy and Beauty—Through Breath Control](../../../../b/79/79a993196586/) | Lankow, Edward | 题 | 22 | 14,951 |
-| 54527 | [There Will Be School Tomorrow](../../../../b/9f/9f6b75f34be1/) | Thiessen, V. E. | 题 | 9 | 14,947 |
-| 54528 | [The infant moralist](../../../../b/d1/d1d8f669f166/) | Carnegie, Helena, Lady, 1865-1943; Jacob, Violet, 1863-1946 | 题 | 24 | 14,899 |
-| 54529 | [Japanese Swords](../../../../b/31/31781d8246c7/) | Yamanaka & Company | 题 | 6 | 14,892 |
-| 54530 | [Saint Ursula: I. The Story of St. Ursula. II. The Dream of St. Ursula.](../../../../b/2c/2cddcd04f0f0/) | Ruskin, John, 1819-1900 | 题 | 5 | 14,890 |
-| 54531 | [The unseen blushers](../../../../b/d0/d039a6297762/) | Bester, Alfred, 1913-1987; Morey, Leo, 1889-1965 [Illustrator] | 题 | 23 | 14,864 |
-| 54532 | [Quotes and Images From The Works of Mark Twain](../../../../b/ee/ee8763579b81/) | Twain, Mark, 1835-1910; Widger, David, 1932-2021 [Editor] | 题 | 25 | 14,854 |
-| 54533 | [Index of the PG Works of Voltaire in English](../../../../b/10/10f10ddb488e/) | Voltaire, 1694-1778; Widger, David, 1932-2021 [Editor] | 章 | 11 | 14,842 |
-| 54534 | [The Grasshopper Stories](../../../../b/cd/cd665ab85774/) | Leavitt, Elizabeth Davis; Doan, Maude Dewey, 1874-1947 [Illustrator] | 题 | 5 | 14,820 |
-| 54535 | [New West Indian Spiders Bulletin of the AMNH, Vol. XXXIII, Art. XLI, pp. 639-642](../../../../b/8e/8e4a67533fab/) | Banks, Nathan, 1868-1953; Leng, Charles W. (Charles William), 1859-1941 [Contributor]; Lutz, Frank Eugene, 1879-1943 [Contributor] | 章 | 7 | 14,817 |
-| 54536 | [Mr. Jacobs: A Tale of the Drummer, the Reporter, and the Prestidigitateur](../../../../b/e5/e56a30afa2bb/) | Bates, Arlo, 1850-1918 | 章 | 10 | 14,805 |
-| 54537 | [Her Letter, His Answer & Her Last Letter](../../../../b/bf/bf729d2b6ad4/) | Harte, Bret, 1836-1902; Keller, Arthur Ignatius, 1866-1924 [Illustrator] | 题 | 8 | 14,779 |
-| 54538 | [The Damned Thing 1898, From "In the Midst of Life"](../../../../b/78/78b32e6b2d8f/) | Bierce, Ambrose, 1842-1914? | 题 | 6 | 14,739 |
-| 54539 | [Foundling on Venus](../../../../b/d8/d88c2b904325/) | De Courcy, John; De Courcy, Dorothy | 题 | 5 | 14,716 |
-| 54540 | [The blonde from Barsoom](../../../../b/63/63a07423b1da/) | Young, Robert F., 1915-1986; Summers, Leo, 1925-1985 [Illustrator] | 题 | 5 | 14,715 |
-| 54541 | [Nalakihu-Citadel Trail, Wupatki National Monument, Arizona](../../../../b/68/68b16765a4d4/) | Southwest Parks and Monuments Association | 题 | 10 | 14,689 |
-| 54542 | [Orienting the House: A Study of the Placing of the House with Relation to the Sun's Rays](../../../../b/4c/4c88f5e68295/) | American Face Brick Association | 题 | 9 | 14,648 |
-| 54543 | [Your Time is Up](../../../../b/37/37e2c25fd603/) | Sheldon, Walter J., 1917-1996; Barth, Ernest Kurt, 1929-2001 [Illustrator] | 题 | 5 | 14,624 |
-| 54544 | [Glen Canyon Dam](../../../../b/8f/8fc7492b23a0/) | United States. Bureau of Reclamation | 题 | 9 | 14,623 |
-| 54545 | [The Pacifists](../../../../b/3c/3cb808cf90b0/) | Fritch, Charles E., 1927-2012 | 题 | 7 | 14,607 |
-| 54546 | [Girl of the Silver Sphere](../../../../b/5a/5ac7945bcde6/) | Haggard, J. Harvey (John Harvey), 1912-2001; Hardison [Illustrator] | 题 | 5 | 14,595 |
-| 54547 | [The Origins of Contemporary France, Complete Table of Contents](../../../../b/e2/e227c5daaeb7/) | Taine, Hippolyte, 1828-1893; Rom, Svend [Annotator]; Widger, David, 1932-2021 [Editor]; Durand, John, 1822-1908 [Translator] | 章 | 6 | 14,556 |
-| 54548 | [The Man Who Flew](../../../../b/64/64162e09dbf6/) | Cunningham, Charles D. | 题 | 8 | 14,549 |
-| 54549 | [Seller of the Sky](../../../../b/8d/8dc1324d2807/) | Dryfoos, Dave, 1915-2003; Orban, Paul, 1896-1974 [Illustrator] | 题 | 7 | 14,482 |
-| 54550 | [The Girl's Cabinet of Instructive and Moral Stories](../../../../b/67/67959044bc89/) | Hawks, Francis L. (Francis Lister), 1798-1866 | 题 | 15 | 14,460 |
-| 54551 | [Competition](../../../../b/e3/e3cbfb595c65/) | Causey, James, 1924-2003; Stone, David [Illustrator] | 题 | 15 | 14,441 |
-| 54552 | [Index of the Project Gutenberg Works of Frances Hodgson Burnett](../../../../b/84/84ce53a6e131/) | Burnett, Frances Hodgson, 1849-1924; Widger, David, 1932-2021 [Editor] | 章 | 54 | 14,432 |
-| 54553 | [Flight Through Tomorrow](../../../../b/8a/8a88a1673549/) | Coblentz, Stanton A. (Stanton Arthur), 1896-1982 | 题 | 5 | 14,431 |
-| 54554 | [The Galactic Ghost](../../../../b/0d/0d1fd87f8158/) | Reynolds, Mack, 1917-1983; Woromay, Lawrence, 1927-2007 [Illustrator] | 题 | 5 | 14,421 |
-| 54555 | [A pound of prevention](../../../../b/46/4625f0e00202/) | Edmondson, G. C., 1922-1995; Kluga, Richard [Illustrator] | 题 | 6 | 14,418 |
-| 54556 | [Office call](../../../../b/1e/1e0b04bd05bf/) | Fritch, Charles E., 1927-2012 | 题 | 7 | 14,411 |
-| 54557 | [Delicious Recipes: Including Toll House Chocolate Cookies](../../../../b/ad/ad1f515a0457/) | Nestlé | 题 | 5 | 14,366 |
-| 54558 | [Paying Off Deep Waters, Part 2.](../../../../b/8d/8d612cd64725/) | Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator] | 题 | 5 | 14,365 |
-| 54559 | [Woman's World](../../../../b/6f/6f7ea1a8a19f/) | Silverberg, Robert, 1935- | 题 | 7 | 14,319 |
-| 54560 | [The Eyes Have It（#30438）](../../../../b/a4/a4a9ea9e49e0/) | McKimmey, James, 1923-2011; Orban, Paul, 1896-1974 [Illustrator] | 题 | 7 | 14,302 |
-| 54561 | [Lorelei](../../../../b/67/67e5843323e3/) | De Vet, Charles V., 1911-1997 | 题 | 7 | 14,299 |
-| 54562 | [Poems（#17936）](../../../../b/7f/7f123744a3c2/) | Hensley, Sophia Margaretta, 1866-1913 | 题 | 25 | 14,277 |
-| 54563 | [Fountain Street](../../../../b/25/251d9e2e5731/) | Francoeur, Jazno; Francoeur, Robert L. [Commentator] | 题 | 26 | 14,239 |
-| 54564 | [Let's Use Soybeans](../../../../b/d3/d354c6c8ff41/) | University of Illinois (Urbana-Champaign campus). Extension Service in Agriculture and Home Economics | 题 | 5 | 14,232 |
-| 54565 | [Josiah's Secret: A Play](../../../../b/39/39f491c49bd8/) | Holley, Marietta, 1836-1926 | 章 | 3 | 14,216 |
-| 54566 | [Am I Still There?](../../../../b/78/788723be7ac7/) | Hall, James R.; Summers, Leo, 1925-1985 [Illustrator] | 题 | 5 | 14,189 |
-| 54567 | [How She Felt in Her First Corset, and Other Poems](../../../../b/15/15b803358a4e/) | Alderson, Matthew W., 1855-1924 | 章 | 4 | 14,146 |
-| 54568 | [Return-Loads Bureaus to Save Waste in Transportation](../../../../b/6c/6c36831c7e8b/) | United States. Council of National Defense. Highways Transport Committee | 题 | 14 | 14,075 |
-| 54569 | [Bedridden and the Winter Offensive Deep Waters, Part 8.](../../../../b/e4/e43a0e234a55/) | Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator] | 题 | 6 | 14,066 |
-| 54570 | [The Moral Picture Book](../../../../b/7c/7c7233b7e9aa/) | Anonymous | 题 | 7 | 14,055 |
-| 54571 | [Index of the Project Gutenberg Works of Baroness Orczy](../../../../b/d9/d904365457a7/) | Orczy, Emmuska Orczy, Baroness, 1865-1947; Widger, David, 1932-2021 [Editor] | 章 | 45 | 14,033 |
-| 54572 | [Solander's Radio Tomb](../../../../b/54/540e033bef04/) | Butler, Ellis Parker, 1869-1937 | 题 | 5 | 14,030 |
-| 54573 | [Zen](../../../../b/a6/a6462ea193da/) | Bixby, Jerome, 1923-1998; Ashman, William [Illustrator] | 题 | 10 | 14,012 |
-| 54574 | [Sugar and Spice: Comical Tales Comically Dressed](../../../../b/5f/5f7931d50ffe/) | Johnson, James | 题 | 13 | 14,004 |
-| 54575 | [Mimsy's Joke](../../../../b/3c/3c9607d97f92/) | Grimes, Millard | 题 | 5 | 13,987 |
-| 54576 | [Index of the Project Gutenberg Works of Alfred Henry Lewis](../../../../b/a9/a964ee5144b3/) | Lewis, Alfred Henry, 1857-1914; Widger, David, 1932-2021 [Editor] | 章 | 28 | 13,966 |
-| 54577 | [Party sweets](../../../../b/bb/bb718b99d6fa/) | Blake, Mary; Carnation Milk Products Company | 题 | 25 | 13,966 |
-| 54578 | [The Bible, Douay-Rheims, Book 66: James The Challoner Revision](../../../../b/88/8810661da640/) | — | 题 | 10 | 13,939 |
-| 54579 | [The Act of Incorporation and the By-Laws of the Massachusetts Homeopathic Medical Society](../../../../b/5b/5b8a4243120f/) | Massachusetts Homoeopathic Medical Society | 题 | 21 | 13,918 |
-| 54580 | [The angry house](../../../../b/d1/d197e8d84229/) | Smith, Richard Rein, 1930-; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 7 | 13,891 |
-| 54581 | [Monkey Jack and Other Stories](../../../../b/64/64df3b2e8c22/) | Cox, Palmer, 1840-1924 [Editor] | 题 | 13 | 13,871 |
-| 54582 | [Hints on Mountain-Lion Trapping](../../../../b/a3/a3e617805882/) | Young, Stanley Paul, 1889-1969 | 题 | 15 | 13,866 |
-| 54583 | [The Disguising at Hertford](../../../../b/47/472ff0f0272e/) | Lydgate, John, 1370?-1451? | 题 | 6 | 13,846 |
-| 54584 | [The Bible, Douay-Rheims, Book 67: 1 Peter The Challoner Revision](../../../../b/d0/d08a6a1cd118/) | — | 题 | 9 | 13,816 |
-| 54585 | [The Eagles Gather](../../../../b/27/272edbc54b4d/) | Kelleam, Joseph E. (Joseph Everidge), 1913-1975; Schneeman, Charles, 1912-1972 [Illustrator] | 题 | 5 | 13,798 |
-| 54586 | [Juvenile Delinquent](../../../../b/c1/c1747d6c592f/) | Ludwig, Edward W., 1920-1990; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 7 | 13,781 |
-| 54587 | [Bellingrath Gardens, Mobile, Alabama](../../../../b/5b/5b684286e072/) | Anonymous | 章 | 4 | 13,781 |
-| 54588 | [The statistomat pitch](../../../../b/1e/1e8c507dc3da/) | Davis, Chandler, 1926-2022; Schoenherr, John, 1935-2010 [Illustrator] | 题 | 7 | 13,673 |
-| 54589 | [The Bible, Douay-Rheims, Book 61: 1 Timothy The Challoner Revision](../../../../b/a6/a6739194d59d/) | — | 题 | 10 | 13,651 |
-| 54590 | [The Tale of the Pie and the Patty Pan](../../../../b/b8/b8fee5b381aa/) | Potter, Beatrix, 1866-1943 | 题 | 7 | 13,642 |
-| 54591 | [Heritage of the sea](../../../../b/65/659e0be1bd88/) | Bethel, W. R.; Graef, Robert A., 1879-1951 [Illustrator] | 题 | 5 | 13,642 |
-| 54592 | [Bay: A Book of Poems](../../../../b/70/70c8e98a1c0b/) | Lawrence, D. H. (David Herbert), 1885-1930 | 题 | 25 | 13,640 |
-| 54593 | [Chants for Socialists](../../../../b/37/3724fc78b749/) | Morris, William, 1834-1896 | 题 | 10 | 13,596 |
-| 54594 | [Reality Unlimited](../../../../b/ac/ac9eea00f664/) | Silverberg, Robert, 1935- | 题 | 8 | 13,596 |
-| 54595 | [The White Canoe, and Other Verse](../../../../b/f3/f3a4674a998d/) | Sullivan, Alan, 1868-1947 | 题 | 8 | 13,594 |
-| 54596 | [The Conuercyon of swerers (The Conversion of Swearers)](../../../../b/14/143042e2485e/) | Hawes, Stephen, -1523? | 题 | 5 | 13,594 |
-| 54597 | [Poems（#60237）](../../../../b/a6/a665e4d6aa6a/) | Bell, Clive, 1881-1964 | 题 | 20 | 13,570 |
-| 54598 | [Mosada: A dramatic poem](../../../../b/44/44add5fdc06b/) | Yeats, W. B. (William Butler), 1865-1939; Yeats, Jack B. (Jack Butler), 1871-1957 [Illustrator] | 章 | 3 | 13,540 |
-| 54599 | [The Crowded Colony](../../../../b/d5/d56c15d173f3/) | Bixby, Jerome, 1923-1998; Mayan, Earl, 1916-2009 [Illustrator] | 题 | 5 | 13,517 |
-| 54600 | [The Passionate Pilgrim](../../../../b/f3/f334a7c26ca4/) | Shakespeare, William, 1564-1616 | 题 | 18 | 13,495 |
-| 54601 | [Brknk's Bounty](../../../../b/bf/bf7071faaadc/) | Sohl, Jerry, 1913-2002; Kossin, Sandy [Illustrator] | 题 | 15 | 13,488 |
-| 54602 | [Childhood's happy home, and other verses](../../../../b/88/884ed7d66240/) | Kayhart, Lemuel, 1845-1926 | 题 | 18 | 13,484 |
-| 54603 | [The Secret of Kralitz](../../../../b/3e/3e5cb1530760/) | Kuttner, Henry, 1915-1958 | 题 | 5 | 13,465 |
-| 54604 | [Index of the Project Gutenberg Works of Thomas Dixon](../../../../b/f0/f00bbf618f0f/) | Dixon, Thomas, Jr., 1864-1946; Widger, David, 1932-2021 [Editor] | 章 | 37 | 13,456 |
-| 54605 | [The Indian's Hand 1892](../../../../b/9d/9dada7c088a3/) | Stoddard, Lorimer, 1864-1901 | 题 | 6 | 13,421 |
-| 54606 | [Stories and Tales of the Irish: A Linked Index to the Project Gutenberg Editions](../../../../b/2b/2b11167efdfb/) | Carleton, William, 1794-1869; Widger, David, 1932-2021 [Editor]; Flanery, M. L. [Illustrator] | 章 | 41 | 13,412 |
-| 54607 | [The Frugal Life: A Paradox](../../../../b/1e/1edf7e2c6a4d/) | Landi, Ortensio, 1512?-1553?; Axon, William E. A. (William Edward Armytage), 1846-1913 [Author of introduction, etc.] | 题 | 6 | 13,411 |
-| 54608 | [Tales and Novels of J. de La Fontaine — Volume 25](../../../../b/f6/f6a0d925ea14/) | La Fontaine, Jean de, 1621-1695 | 题 | 6 | 13,403 |
-| 54609 | [High Man](../../../../b/3d/3da9c91c0525/) | Clarke, Jay; Kossin, Sandy [Illustrator] | 题 | 11 | 13,362 |
-| 54610 | [Shapes of Greek Vases](../../../../b/9d/9db22921c46a/) | Metropolitan Museum of Art (New York, N.Y.) | 题 | 6 | 13,358 |
-| 54611 | [The Bible, Douay-Rheims, Book 58: Colossians The Challoner Revision](../../../../b/2f/2f740cb8b0d7/) | — | 题 | 8 | 13,357 |
-| 54612 | [Fables for the Times](../../../../b/60/60011494a266/) | Phillips, Henry Wallace, 1869-1930; Sullivant, T. S. (Thomas Starling), 1854-1926 [Illustrator] | 题 | 15 | 13,321 |
-| 54613 | [Colony Treatment of the Insane and Other Defectives](../../../../b/ae/aec42d7afe4d/) | Murphy, P. L. (Patrick Livingston), 1848-1907 | 题 | 8 | 13,318 |
-| 54614 | [The Semantic War](../../../../b/08/08fd934df80a/) | Clothier, Bill, 1921-2015; Wes [Illustrator] | 题 | 9 | 13,307 |
-| 54615 | [Wilde v Whistler Being an Acrimonious Correspondence on Art Between Oscar Wilde and James A McNeill Whistler](../../../../b/99/99f29709c009/) | Wilde, Oscar, 1854-1900; Whistler, James McNeill, 1834-1903 | 题 | 17 | 13,300 |
-| 54616 | [A Soldier's Home Is Battle](../../../../b/f5/f5cfebd36b00/) | Stone, Lowell | 题 | 5 | 13,298 |
-| 54617 | [Index of the Project Gutenberg Works of Lucy Maud Montgomery](../../../../b/78/78a15e2037e9/) | Montgomery, L. M. (Lucy Maud), 1874-1942; Widger, David, 1932-2021 [Editor] | 章 | 40 | 13,289 |
-| 54618 | [Praetor's Lunch](../../../../b/81/8146ea63c7cc/) | Dom | 题 | 21 | 13,279 |
-| 54619 | [Proof of the Pudding](../../../../b/ab/ab46d0a99b43/) | Sheckley, Robert, 1928-2005; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 10 | 13,215 |
-| 54620 | [Mystery at Mesa Flat](../../../../b/3f/3f034a87e24d/) | Jorgensen, Ivar; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 6 | 13,204 |
-| 54621 | [Mr. Chipfellow's Jackpot](../../../../b/ce/ce8a39f1fd84/) | Purcell, Dick | 题 | 5 | 13,197 |
-| 54622 | [Off Course](../../../../b/63/63b82ca93aef/) | Reynolds, Mack, 1917-1983; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 7 | 13,194 |
-| 54623 | [The noble lord](../../../../b/64/64bfc810fc1c/) | Wilde, Percival, 1887-1953 | 题 | 21 | 13,181 |
-| 54624 | [A Popular History of France from the Earliest Times A Linked Index to the Project Gutenberg Editions](../../../../b/3f/3ffa5b27068d/) | Guizot, François, 1787-1874; Widger, David, 1932-2021 [Editor]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]; Black, Robert, 1830?-1915 [Translator] | 章 | 41 | 13,179 |
-| 54625 | [Quotes and Images From The Short Stories of Maupassant](../../../../b/75/7573ba5c451e/) | Maupassant, Guy de, 1850-1893; Widger, David, 1932-2021 [Editor] | 题 | 21 | 13,158 |
-| 54626 | [Tales and Novels of J. de La Fontaine — Volume 02](../../../../b/34/34c77d2177a9/) | La Fontaine, Jean de, 1621-1695 | 题 | 5 | 13,156 |
-| 54627 | [A Christmas Sermon](../../../../b/39/396b351db3fc/) | Stevenson, Robert Louis, 1850-1894 | 题 | 7 | 13,154 |
-| 54628 | [Index of the Project Gutenberg Works of Herbert Allen Giles](../../../../b/84/841c0fbdc21c/) | Giles, Herbert Allen, 1845-1935; Widger, David, 1932-2021 [Editor] | 章 | 12 | 13,129 |
-| 54629 | [Christmas offering](../../../../b/18/1819afa78e76/) | Dimond, Elizabeth, Mrs. | 题 | 25 | 13,111 |
-| 54630 | [Vengeance on Mars!](../../../../b/90/907dabafa603/) | Bixby, Jerome, 1923-1998 | 题 | 6 | 13,050 |
-| 54631 | [Records of the Fossil Mammal Sinclairella, Family Apatemyidae, From the Chadronian and Orellan](../../../../b/85/853fd7037949/) | Clemens, William A. (William Alvin), 1932-2020 | 题 | 15 | 13,047 |
-| 54632 | [Mesa Verde: Junior Ranger Booklet](../../../../b/54/540d373e1c8e/) | United States. National Park Service | 题 | 21 | 13,046 |
-| 54633 | [Spruce Tree House Trail Guide: Mesa Verde National Park, Colorado](../../../../b/63/63f3763b84f9/) | Mesa Verde Museum Association; United States. National Park Service | 题 | 14 | 13,027 |
-| 54634 | [Shandy](../../../../b/b0/b0ea76af5b5d/) | Goulart, Ron, 1933-2022; Orban, Paul, 1896-1974 [Illustrator] | 题 | 18 | 13,002 |
-| 54635 | [The Bible, Douay-Rheims, Book 08: Ruth The Challoner Revision](../../../../b/cb/cbd28f0843e5/) | — | 题 | 8 | 12,987 |
-| 54636 | [The Business, As Usual](../../../../b/08/08c927a27c6d/) | Sharkey, Jack, 1931-1992 | 题 | 5 | 12,958 |
-| 54637 | [Index of the Project Gutenberg Works of E. W. Hornung](../../../../b/59/5952f8c0f6df/) | Hornung, E. W. (Ernest William), 1866-1921; Widger, David, 1932-2021 [Editor] | 章 | 28 | 12,940 |
-| 54638 | [The mermaid's prophecy, and other songs relating to Queen Dagmar](../../../../b/2d/2dd169b7cdf3/) | Borrow, George, 1803-1881; Wise, Thomas James, 1859-1937 [Editor] | 题 | 5 | 12,930 |
-| 54639 | [Tord of Hafsborough, and Other Ballads](../../../../b/97/97e2d7122d92/) | Borrow, George, 1803-1881; Wise, Thomas James, 1859-1937 [Editor] | 题 | 7 | 12,910 |
-| 54640 | [Hero From Yesterday](../../../../b/bb/bbb4c1ea8690/) | Garrett, Randall, 1927-1987; Silverberg, Robert, 1935-; Becker [Illustrator] | 题 | 7 | 12,909 |
-| 54641 | [Index of the Project Gutenberg Works of Robert Browning](../../../../b/30/30315e995b93/) | Browning, Robert, 1812-1889; Widger, David, 1932-2021 [Editor] | 章 | 22 | 12,897 |
-| 54642 | [Index of the Project Gutenberg Works of Irving Bacheller](../../../../b/d1/d18cbacf2e20/) | Bacheller, Irving, 1859-1950; Widger, David, 1932-2021 [Editor] | 章 | 45 | 12,854 |
-| 54643 | [Hugh Selwyn Mauberley](../../../../b/f1/f1d296a9fdd1/) | Pound, Ezra, 1885-1972 | 题 | 25 | 12,838 |
-| 54644 | [Planet of Dreams](../../../../b/d3/d318d064d02c/) | McKimmey, James, 1923-2011; Orban, Paul, 1896-1974 [Illustrator] | 题 | 6 | 12,827 |
-| 54645 | [Bimmie Says](../../../../b/37/376b12e2ac0d/) | Van Scyoc, Sydney J., 1939-2023 | 题 | 10 | 12,804 |
-| 54646 | [I'll Kill You Tomorrow](../../../../b/ad/ad1e223fb106/) | Huber, Helen; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 7 | 12,758 |
-| 54647 | [Probability](../../../../b/41/4128e3ad4825/) | Trimble, Louis, 1917-1988; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 10 | 12,747 |
-| 54648 | [The Bible, Douay-Rheims, Book 57: Philippians The Challoner Revision](../../../../b/ee/eeeb50f8ec1e/) | — | 题 | 8 | 12,729 |
-| 54649 | [The Ballad of Venus Nell](../../../../b/98/9876fdb57ee2/) | Bond, Nelson S., 1908-2006; Lynch, Don (Artist) [Illustrator] | 题 | 8 | 12,713 |
-| 54650 | [The Serpent Knight, and Other Ballads](../../../../b/f3/f3adad03126d/) | Borrow, George, 1803-1881; Wise, Thomas James, 1859-1937 [Editor] | 题 | 8 | 12,654 |
-| 54651 | [Julia Cary and her kitten](../../../../b/aa/aa2ce7c31013/) | Miller, M. E. (Mary Esther), 1826-1896 | 章 | 7 | 12,629 |
-| 54652 | [The reckoning](../../../../b/7d/7dc836716ad6/) | Wilde, Percival, 1887-1953 | 题 | 13 | 12,625 |
-| 54653 | [The Sloths of Kruvny](../../../../b/9e/9e9188fbf986/) | Fearing, Vern; Sharp, Henry, 1912-2019 [Illustrator]; Sussman, Arthur, 1927-2008 [Illustrator] | 题 | 9 | 12,584 |
-| 54654 | [The Doré Bible Gallery, Volume 7](../../../../b/fd/fdd02c372e00/) | Doré, Gustave, 1832-1883 [Illustrator] | 题 | 14 | 12,580 |
-| 54655 | [A New Hochelagan Burying-ground Discovered at Westmount on the Western Spur of Mount Royal, Montreal, July-September, 1898](../../../../b/56/568e17a372c5/) | Lighthall, W. D. (William Douw), 1857-1954 | 题 | 6 | 12,575 |
-| 54656 | [The Brother Avenged, and Other Ballads](../../../../b/26/268f1e454360/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 题 | 8 | 12,568 |
-| 54657 | [Report of the Several Works Connected with the Draining, Paving & Lighting the Parish of Saint Mary Abbotts, Kensington, 1856](../../../../b/f6/f6ceef0fbcc0/) | Broadbridge, James | 题 | 5 | 12,500 |
-| 54658 | [The Non-Electronic Bug](../../../../b/b9/b9b170b0b4ae/) | Mittleman, E.; Morrow, Gray, 1934-2001 [Illustrator] | 题 | 8 | 12,475 |
-| 54659 | [Anton's last dream](../../../../b/7f/7fe299284782/) | Baird, Edwin, 1886-1957; Brundage, Margaret, 1900-1976 [Illustrator] | 题 | 5 | 12,474 |
-| 54660 | [Bad Memory](../../../../b/03/03ba53e63c8f/) | Fahy, Patrick; Martin, Don, 1931-2000 [Illustrator] | 题 | 5 | 12,450 |
-| 54661 | [Queen Berngerd, The Bard and the Dreams, and Other Ballads](../../../../b/62/62cbf44c6907/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 题 | 6 | 12,446 |
-| 54662 | [Beyond Lies the Wub](../../../../b/cb/cb235b2df19c/) | Dick, Philip K., 1928-1982; Vestal, Herman B., 1916-2007 [Illustrator] | 题 | 5 | 12,437 |
-| 54663 | [The Last Gentleman](../../../../b/ad/adf7118f57e6/) | Magill, Rory; Speicher, Ted [Illustrator] | 题 | 8 | 12,418 |
-| 54664 | [Christmas on Wheels](../../../../b/fc/fc40486b5544/) | Allen, Willis Boyd, 1855-1938 | 题 | 5 | 12,412 |
-| 54665 | [Theft](../../../../b/b2/b2fc1a3ef61f/) | Venable, Bill; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 6 | 12,393 |
-| 54666 | [Barnstormer](../../../../b/53/538a3afa20fe/) | Harris, Tom W. | 题 | 6 | 12,370 |
-| 54667 | [An Ode Read August 15, 1907, at the dedication of the monument erected at Gloucester, Massachusetts, in commemoration of the founding of the Massachusetts Bay colony in the year sixteen hundred and twenty-three](../../../../b/f3/f3082f451f38/) | Cawein, Madison Julius, 1865-1914 | 题 | 21 | 12,350 |
-| 54668 | [A Message to Garcia Being a Preachment](../../../../b/cf/cf69003cf4d6/) | Hubbard, Elbert, 1856-1915 | 题 | 7 | 12,267 |
-| 54669 | [Old Rambling House](../../../../b/6c/6c5d20b4e798/) | Herbert, Frank, 1920-1986 | 题 | 16 | 12,262 |
-| 54670 | [Index of the Project Gutenberg Works of Amelia Barr](../../../../b/d7/d70605ff8c81/) | Barr, Amelia E., 1831-1919; Widger, David, 1932-2021 [Editor] | 章 | 18 | 12,252 |
-| 54671 | [Two Yellow-Birds](../../../../b/2f/2f1d9ff8b291/) | Anonymous | 题 | 5 | 12,200 |
-| 54672 | [Replace the horse](../../../../b/a1/a1a1e3d7cd80/) | Janifer, Laurence M., 1933-2002 | 题 | 6 | 12,196 |
-| 54673 | [English Poems, Volume 02 (of 2)](../../../../b/63/63166eb6cfb0/) | Pessoa, Fernando, 1888-1935 | 题 | 21 | 12,161 |
-| 54674 | [A study of mushrooms and mushroom spawn](../../../../b/5c/5cf1e8d98dfb/) | Jacob, Edward Henry | 题 | 6 | 12,150 |
-| 54675 | [A Father of Women, and Other Poems](../../../../b/51/51a1eded9783/) | Meynell, Alice, 1847-1922 | 题 | 16 | 12,113 |
-| 54676 | [The Riot Act](../../../../b/4b/4b43406a6c2d/) | Great Britain. Parliament | 题 | 13 | 12,070 |
-| 54677 | [Spoken For](../../../../b/51/513e57e805ae/) | Samachson, Joseph, 1906-1980; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 7 | 12,024 |
-| 54678 | [Signelil, A Tale from the Cornish, and Other Ballads](../../../../b/4b/4bb243e7de8a/) | Borrow, George, 1803-1881; Wise, Thomas James, 1859-1937 [Editor] | 题 | 6 | 11,993 |
-| 54679 | [Slovenly Betsy](../../../../b/a4/a429920e38bf/) | Hoffmann, Heinrich, 1809-1894 | 题 | 12 | 11,990 |
-| 54680 | [The Bible, Douay-Rheims, Book 40: Habacuc The Challoner Revision](../../../../b/fd/fd7a6998cd3d/) | — | 题 | 8 | 11,981 |
-| 54681 | [Series of plans of Boston showing existing ways and owners of property 1630-1635-1640-1645](../../../../b/2c/2c2429010c3c/) | Lamb, George; McGlenen, Edward W. (Edward Webster), 1855-1930 [Author of introduction, etc.] | 题 | 5 | 11,935 |
-| 54682 | [The Naughty Man; or, Sir Thomas Brown Love, Courtship and Marriage in High Life. A Poetical Satire](../../../../b/f1/f1567230e178/) | Bliss, Frank Chapman | 题 | 23 | 11,933 |
-| 54683 | [Cinderella（#77727）](../../../../b/19/190fb2556669/) | Neill, John R. (John Rea), 1877-1943 [Illustrator] | 题 | 5 | 11,920 |
-| 54684 | [No-Time-Land: A Story for Girls and Boys](../../../../b/af/afb5d5ac87be/) | Fulton, M. J. C. (Mary J. C.) | 章 | 3 | 11,845 |
-| 54685 | [Ennui](../../../../b/87/872d4731e932/) | Marlowe, Stephen, 1928-2008; Ross, Leslie (A. Leslie), 1910-1989 [Illustrator] | 题 | 8 | 11,807 |
-| 54686 | [The Aggravation of Elmer](../../../../b/d2/d288de8a42c8/) | Arthur, Robert, 1909-1969; Cavat [Illustrator] | 题 | 7 | 11,789 |
-| 54687 | [The Doré Bible Gallery, Volume 8](../../../../b/dd/dd26aa3a6281/) | Doré, Gustave, 1832-1883 [Illustrator] | 题 | 15 | 11,679 |
-| 54688 | [Children's Hour with Red Riding Hood and Other Stories](../../../../b/7b/7b610c31ff4b/) | Piper, Watty, pseud. [Editor] | 题 | 7 | 11,662 |
-| 54689 | [Love's crucifix](../../../../b/1a/1a5b91e0a4ba/) | Petrarca, Francesco, 1304-1374; Meynell, Alice, 1847-1922 [Author of introduction, etc.]; Robertson, W. Graham (Walford Graham), 1866-1948 [Illustrator]; Tobin, Agnes, 1864-1939 [Translator] | 题 | 14 | 11,661 |
-| 54690 | [The Adventures of Squirrel Fluffytail: A Picture Story-Book for Children](../../../../b/1e/1ea11a212e77/) | McKenna, Dolores; Bennett, Ruth H., 1883-1947 [Illustrator] | 题 | 12 | 11,649 |
-| 54691 | [Chambers's Edinburgh Journal, Volume 17, Index New Series, January-June 1852.](../../../../b/03/035c1863fa7b/) | Various; Chambers, Robert, 1802-1871 [Editor]; Chambers, William, 1800-1883 [Editor] | 题 | 16 | 11,605 |
-| 54692 | [The Altar at Midnight](../../../../b/43/43551dcddb51/) | Kornbluth, C. M. (Cyril M.), 1923-1958; Ashman, William [Illustrator] | 题 | 5 | 11,603 |
-| 54693 | [Humorists of the Pencil: Phil May](../../../../b/ff/fff764a5e8e3/) | May, Phil, 1864-1903 | 题 | 10 | 11,578 |
-| 54694 | [With a Vengeance](../../../../b/76/76e4bf6ade10/) | Woodley, J. B.; Knoth [Illustrator] | 题 | 6 | 11,572 |
-| 54695 | [Historic Court Memoirs of France: An Index](../../../../b/1a/1a7d75b8f265/) | Various; Widger, David, 1932-2021 [Editor] | 章 | 65 | 11,544 |
-| 54696 | [The History of Insects](../../../../b/9d/9da57cff07e3/) | Unknown | 题 | 21 | 11,528 |
-| 54697 | [Halftripper](../../../../b/72/725618361523/) | Reynolds, Mack, 1917-1983 | 题 | 7 | 11,506 |
-| 54698 | [Double Standard](../../../../b/04/0436cd001ebb/) | Coppel, Alfred, 1921-2004 | 题 | 17 | 11,486 |
-| 54699 | [The Frogs of Mars](../../../../b/db/db39826f15c8/) | Aycock, Roger D., 1914-2004 | 题 | 7 | 11,485 |
-| 54700 | [O May I Join the Choir Invisible! and Other Favorite Poems](../../../../b/1a/1aee1813e0d0/) | Eliot, George, 1819-1880; Browning, Elizabeth Barrett, 1806-1861; Browning, Robert, 1812-1889; Shelley, Percy Bysshe, 1792-1822 | 题 | 6 | 11,475 |
-| 54701 | [Ulf Van Yern, and Other Ballads](../../../../b/70/7057f7a29c5c/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 题 | 6 | 11,463 |
-| 54702 | [Index of the Project Gutenberg Works of Friedrich Nietzsche](../../../../b/d2/d2764152b721/) | Nietzsche, Friedrich Wilhelm, 1844-1900; Widger, David, 1932-2021 [Editor] | 章 | 21 | 11,415 |
-| 54703 | [Christmas Magic for All Your Gifts, Using "Scotch" Brand Tapes and "Sasheen" Brand Ribbon](../../../../b/85/85c339220373/) | Minnesota Mining and Manufacturing Company | 题 | 6 | 11,359 |
-| 54704 | [House Operator](../../../../b/ff/ff14180bc5c9/) | Garrett, Randall, 1927-1987; Silverberg, Robert, 1935- | 题 | 5 | 11,356 |
-| 54705 | [Two Weeks in August](../../../../b/46/46b01c44f51a/) | Robinson, Frank M., 1926-2014; MacIntyre, Elizabeth [Illustrator] | 题 | 7 | 11,289 |
-| 54706 | [Index of the Project Gutenberg Works of Robert Barr](../../../../b/c8/c8b1b47e4f3f/) | Barr, Robert, 1850-1912; Widger, David, 1932-2021 [Editor] | 章 | 36 | 11,229 |
-| 54707 | [Rules to be observed by masters and pilots of vessels, arriving at the port of Philadelphia, established by the health law, and regulations of the Board of Health, to which is annexed, a supplement to the health law, passed on the 2d day of April, 1821.](../../../../b/3f/3fb4b338bee7/) | Philadelphia. Board of health | 题 | 6 | 11,217 |
-| 54708 | [The Animals' Rebellion](../../../../b/1e/1ee2c2cf6532/) | Bingham, Clifton, 1859-1913; Thompson, G. H. (George Henry), 1853-1953 [Illustrator] | 题 | 7 | 11,171 |
-| 54709 | [Mollie Charane, and Other Ballads](../../../../b/03/0359cc3e6f63/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 题 | 9 | 11,126 |
-| 54710 | [Index of the Project Gutenberg Works of Walt Whitman](../../../../b/8f/8f7785cff1a6/) | Whitman, Walt, 1819-1892; Widger, David, 1932-2021 [Editor] | 章 | 35 | 11,121 |
-| 54711 | [Homemade candy—sweet and dandy](../../../../b/17/178d001a0993/) | CPC International. Best Foods Division | 题 | 14 | 11,089 |
-| 54712 | [Adventures in Elegance](../../../../b/7d/7d94bf5df517/) | Pie Filling Institute | 题 | 17 | 11,078 |
-| 54713 | [The Bible, Douay-Rheims, Book 34: Joel The Challoner Revision](../../../../b/35/353d7e59828b/) | — | 题 | 6 | 11,063 |
-| 54714 | [Extracts from the rules and minutes of the Free Christian Baptist General Conference of New Brunswick](../../../../b/75/758e18bd4877/) | Free Christian Baptist General Conference of New Brunswick | 题 | 9 | 11,053 |
-| 54715 | [Index of the Project Gutenberg Works of Alexander Pope](../../../../b/0a/0ab628abab24/) | Pope, Alexander, 1688-1744; Widger, David, 1932-2021 [Editor] | 章 | 24 | 11,052 |
-| 54716 | [Index of the Project Gutenberg Works of Lewis Carroll](../../../../b/39/39da6c04081f/) | Carroll, Lewis, 1832-1898; Widger, David, 1932-2021 [Editor] | 章 | 25 | 10,976 |
-| 54717 | [Index of the Project Gutenberg Works of Arthur Schopenhauer](../../../../b/52/52d830abbfa3/) | Schopenhauer, Arthur, 1788-1860; Widger, David, 1932-2021 [Editor] | 章 | 49 | 10,969 |
-| 54718 | [Once Upon a Monbeast...](../../../../b/dc/dc953e2d1d6f/) | Fritch, Charles E., 1927-2012 | 题 | 7 | 10,967 |
-| 54719 | [King Diderik and the fight between the Lion and Dragon, and Other Ballads](../../../../b/66/66bfe4d5c0ff/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 题 | 5 | 10,967 |
-| 54720 | [The History of Tom Thumb and Other Stories.](../../../../b/5d/5d22ba611f69/) | Anonymous | 题 | 5 | 10,955 |
-| 54721 | [The Next Logical Step](../../../../b/c1/c1da2d2987d3/) | Bova, Ben, 1932-2020; Schelling, George, 1938- [Illustrator] | 题 | 5 | 10,949 |
-| 54722 | [The Expedition to Birting's Land, and Other Ballads](../../../../b/3c/3cfd23b60916/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 题 | 6 | 10,936 |
-| 54723 | [Index of the Project Gutenberg Works of Henry Seton Merriman](../../../../b/73/73aaf9fbbe10/) | Merriman, Henry Seton, 1862-1903; Widger, David, 1932-2021 [Editor] | 章 | 45 | 10,927 |
-| 54724 | [A New Species of Frog (Genus Tomodactylus) from Western México](../../../../b/70/70445243e5b2/) | Webb, Robert G. (Robert Gravem), 1927-2018 | 题 | 7 | 10,926 |
-| 54725 | [The Members of the Established Church Vindicated from certain charges, direct or implied, in a letter addressed to them by the Rev. John Alexander, on the subject of Infant Education](../../../../b/96/960b0ebe4133/) | Geary, William | 题 | 6 | 10,913 |
-| 54726 | [A New Subspecies of Microtus montanus from Montana and Comments on Microtus canicaudus Miller](../../../../b/14/1498bcf02c60/) | Hall, E. Raymond (Eugene Raymond), 1902-1986; Kelson, Keith R. | 题 | 7 | 10,910 |
-| 54727 | [Grimmer and Kamper, The End of Sivard Snarenswayne, and Other Ballads](../../../../b/24/24abbe10c2c9/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 题 | 8 | 10,836 |
-| 54728 | [The Fireless Locomotive](../../../../b/6c/6cac557fc90d/) | Anonymous | 题 | 5 | 10,834 |
-| 54729 | [Tydore's Gift](../../../../b/d8/d89cdd4f4e67/) | Coppel, Alfred, 1921-2004 | 题 | 5 | 10,813 |
-| 54730 | [Index for Works of Rudyard Kipling Hyperlinks to all Chapters of all Individual Ebooks](../../../../b/fb/fbbcfdd71c37/) | Kipling, Rudyard, 1865-1936; Widger, David, 1932-2021 [Editor] | 章 | 15 | 10,802 |
-| 54731 | [The Stilled Patter](../../../../b/2b/2b98736fa91e/) | Gunn, James E., 1923-2020; Stallman, Emmanuel, 1927-1997 [Illustrator] | 题 | 5 | 10,776 |
-| 54732 | [Alf the Freebooter, Little Danneved and Swayne Trost, and Other Ballads](../../../../b/83/8376421cd069/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 题 | 5 | 10,765 |
-| 54733 | [Index of the Project Gutenberg Works of Frank E. Smedley](../../../../b/29/29b59225d600/) | Smedley, Frank E. (Frank Edward), 1818-1864; Widger, David, 1932-2021 [Editor] | 章 | 65 | 10,764 |
-| 54734 | [The Songs of Ranild](../../../../b/30/301c790ec61d/) | Borrow, George, 1803-1881; Wise, Thomas James, 1859-1937 [Editor] | 题 | 6 | 10,715 |
-| 54735 | [Plish and Plum](../../../../b/4c/4c2256d79690/) | Busch, Wilhelm, 1832-1908; Brooks, Charles Timothy, 1813-1883 [Translator] | 章 | 7 | 10,577 |
-| 54736 | [The satellite-keeper's daughter](../../../../b/06/064bde692379/) | Reinsberg, Mark, 1923-1981 | 题 | 9 | 10,554 |
-| 54737 | [The Subspecies of the Mexican Red-Bellied Squirrel, Sciurus aureogaster](../../../../b/f2/f2b47d13855c/) | Kelson, Keith R. | 题 | 7 | 10,522 |
-| 54738 | [Beauty and the Beast（#23311）](../../../../b/5d/5dc8d768066c/) | Unknown | 题 | 6 | 10,495 |
-| 54739 | [The Bible, Douay-Rheims, Book 44: Malachias The Challoner Revision](../../../../b/bc/bc71a3a383fe/) | — | 题 | 8 | 10,475 |
-| 54740 | [The Nightingale, the Valkyrie and Raven, and Other Ballads](../../../../b/d6/d677acff871e/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 题 | 6 | 10,432 |
-| 54741 | [The new book of Niagara: Scenes in summer and winter](../../../../b/f8/f8bfc017b582/) | Anonymous | 题 | 6 | 10,407 |
-| 54742 | [Jabberwock, Beware!](../../../../b/1c/1c8a889fd652/) | Sternbach, Richard A. | 题 | 5 | 10,405 |
-| 54743 | [Index for Works of Holman Day Hyperlinks to all Chapters of all Individual Ebooks](../../../../b/85/854277349219/) | Day, Holman, 1865-1935; Widger, David, 1932-2021 [Editor] | 章 | 31 | 10,267 |
-| 54744 | [The Coming of Lugh: A Celtic Wonder-Tale Retold](../../../../b/d5/d51decdf018f/) | Young, Ella, 1867-1956; Gonne, Maud, 1866-1953 [Illustrator] | 题 | 6 | 10,261 |
-| 54745 | [A Peep Into the Past](../../../../b/02/0226bf02a7ef/) | Beerbohm, Max, Sir, 1872-1956 | 题 | 5 | 10,260 |
-| 54746 | [Index for Works of Harold Frederic Hyperlinks to All Chapters of All Individual Ebooks](../../../../b/2a/2a5c849186c7/) | Frederic, Harold, 1856-1898; Widger, David, 1932-2021 [Editor] | 章 | 37 | 10,255 |
-| 54747 | [The Inquisitor](../../../../b/5d/5dca522e9728/) | Silverberg, Robert, 1935-; Garrett, Randall, 1927-1987 [Dubious author] | 题 | 5 | 10,252 |
-| 54748 | [Index of the Project Gutenberg Works of Frederic Remington](../../../../b/eb/eb4135c56515/) | Remington, Frederic, 1861-1909; Widger, David, 1932-2021 [Editor] | 章 | 27 | 10,243 |
-| 54749 | [Chiricahua National Monument (1958)](../../../../b/14/1479f82dfcfa/) | United States. National Park Service | 题 | 8 | 10,221 |
-| 54750 | [Struwwelpeter: Merry Stories and Funny Pictures](../../../../b/4b/4b21a1cccd94/) | Hoffmann, Heinrich, 1809-1894 | 题 | 14 | 10,210 |
-| 54751 | [Traumerei](../../../../b/0b/0b6caa71c2a9/) | Beaumont, Charles, 1929-1967; Remington [Illustrator] | 题 | 7 | 10,122 |
-| 54752 | [Gems of Poetry, for Girls and Boys](../../../../b/38/38d96597d449/) | Unknown | 题 | 11 | 10,093 |
-| 54753 | [Gramp](../../../../b/e1/e10cd3f0fe29/) | De Vet, Charles V., 1911-1997 | 题 | 8 | 10,061 |
-| 54754 | [The new gas from radium](../../../../b/6f/6f4af8addeb4/) | Rutherford, Ernest, 1871-1937; Brooks, Harriet, 1876-1933 | 题 | 5 | 10,057 |
-| 54755 | [A Chronological Table of the Catholic Primates of Ireland With the Years in Which They Succeeded to the Metropolitan Sees of Armagh, Dublin, Cashell and Tuam](../../../../b/dc/dc2208ca3e52/) | Murphy, John | 题 | 7 | 10,030 |
-| 54756 | [Back to Julie](../../../../b/0e/0ef3e15a1af9/) | Wilson, Richard, 1920-1987; Vidmer [Illustrator] | 题 | 6 | 9,988 |
-| 54757 | [The Bible, Douay-Rheims, Book 59: 1 Thessalonians The Challoner Revision](../../../../b/98/98a104755271/) | — | 题 | 9 | 9,943 |
-| 54758 | [The Divine Comedy by Dante, Illustrated, Hell, Volume 01](../../../../b/20/20b2330d6d25/) | Dante Alighieri, 1265-1321; Doré, Gustave, 1832-1883 [Illustrator]; Cary, Henry Francis, 1772-1844 [Translator] | 章 | 3 | 9,942 |
-| 54759 | [Political Application](../../../../b/a9/a9dea8014f46/) | Peterson, John Victor | 题 | 6 | 9,920 |
-| 54760 | [Dick and his cat](../../../../b/ae/aea3c093c86a/) | Ellis, Mary | 章 | 5 | 9,898 |
-| 54761 | [Ye book of Copperheads](../../../../b/12/1243a765b558/) | Leland, Charles Godfrey, 1824-1903; Leland, H. P. (Henry Perry), 1828-1868 | 题 | 7 | 9,878 |
-| 54762 | [The Divine Comedy by Dante, Illustrated, Hell, Volume 02](../../../../b/84/84d5aa63fea5/) | Dante Alighieri, 1265-1321; Doré, Gustave, 1832-1883 [Illustrator]; Cary, Henry Francis, 1772-1844 [Translator] | 章 | 3 | 9,815 |
-| 54763 | [A Brief History of the U. S. S. Imperator, One of the Two Largest Ships in the U. S. Navy.](../../../../b/cb/cb422bdf5826/) | Anonymous | 题 | 8 | 9,796 |
-| 54764 | [Under Blue Skies: Verses & Pictures](../../../../b/50/503e09146ec1/) | Brigham, Sarah Jeannette Lathbury, 1835-1929 | 题 | 16 | 9,795 |
-| 54765 | [George Washington Carver National Monument Junior Ranger Activity Book: The Scientist](../../../../b/a6/a664660e8a0c/) | United States. National Park Service | 题 | 11 | 9,781 |
-| 54766 | [Index of the Project Gutenberg Works of Jack London](../../../../b/e1/e1cfae58556e/) | London, Jack, 1876-1916; Widger, David, 1932-2021 [Editor] | 章 | 25 | 9,780 |
-| 54767 | [Let's Have a Party!](../../../../b/ed/ed6f5a93bf2a/) | Anonymous | 题 | 16 | 9,705 |
-| 54768 | [The Divine Comedy by Dante, Illustrated, Hell, Volume 04](../../../../b/b1/b14349e9635c/) | Dante Alighieri, 1265-1321; Doré, Gustave, 1832-1883 [Illustrator]; Cary, Henry Francis, 1772-1844 [Translator] | 章 | 3 | 9,666 |
-| 54769 | [The Bible, Douay-Rheims, Book 62: 2 Timothy The Challoner Revision](../../../../b/da/da6a18bf9ff0/) | — | 题 | 8 | 9,606 |
-| 54770 | [The Sentence and Affidavit of John Church, the Obelisk Preacher For an Attempt to Commit an Unnatural Crime on Adam Foreman, at Vauxhall. Together With Judge Bayley's Impressive Address to the Prisoner, at Full Length. At the Court of King's Bench, Nov. 24, 1817.](../../../../b/f8/f852ca03360c/) | Dowling, Joseph Augustus, -1829 | 题 | 9 | 9,605 |
-| 54771 | [Come into my parlor](../../../../b/63/63ffc4bdbf8a/) | Fritch, Charles E., 1927-2012; Orban, Paul, 1896-1974 [Illustrator] | 题 | 6 | 9,584 |
-| 54772 | [Classical Enigmas, Adapted to Every Month in the Year Composed from the English and Roman Histories, Heathen Mythology and Names of Famous Writers: Meant to Amuse Youths of All Ages, and at the Same Time Exert Their Memories, by Calling to Mind What They Have Read at Different Times](../../../../b/7a/7ae13b02136a/) | Ritson, Mrs. (Anne) | 题 | 15 | 9,557 |
-| 54773 | [Short Snorter](../../../../b/92/928b5f333736/) | Einstein, Charles, 1926-2007; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 10 | 9,505 |
-| 54774 | [Doorstep](../../../../b/85/851ad8493559/) | Laumer, Keith, 1925-1993; Ritter, Bob [Illustrator] | 题 | 7 | 9,471 |
-| 54775 | [The Bible, Douay-Rheims, Book 68: 2 Peter The Challoner Revision](../../../../b/40/40c39530de29/) | — | 题 | 7 | 9,455 |
-| 54776 | [Index of the Project Gutenberg Works of George Eliot](../../../../b/64/64a8ca79d6b6/) | Eliot, George, 1819-1880; Widger, David, 1932-2021 [Editor] | 章 | 55 | 9,418 |
-| 54777 | [The Divine Comedy by Dante, Illustrated, Hell, Volume 03](../../../../b/d2/d2f75558ce20/) | Dante Alighieri, 1265-1321; Doré, Gustave, 1832-1883 [Illustrator]; Cary, Henry Francis, 1772-1844 [Translator] | 章 | 3 | 9,401 |
-| 54778 | [Turnover Point](../../../../b/89/894b603e94aa/) | Coppel, Alfred, 1921-2004; Emshwiller, Ed, 1925-1990 [Illustrator] | 题 | 11 | 9,388 |
-| 54779 | [Favorite Nursery Rhymes](../../../../b/39/39f27f5b3d07/) | Anonymous; Betts, Ethel Franklin, 1877-1959 [Illustrator] | 题 | 13 | 9,387 |
-| 54780 | [The Song of the Flag: A National Ode](../../../../b/b1/b1de63a60e38/) | Mackay, Eric, 1851-1898 | 题 | 15 | 9,385 |
-| 54781 | [Bank of the Manhattan Company, Chartered 1799: A Progressive Commercial Bank](../../../../b/7a/7aa3eb508cda/) | Anonymous | 题 | 9 | 9,376 |
-| 54782 | [Pipestone National Monument: Junior Ranger Activity Booklet, Ages 8 and Up](../../../../b/36/36f30513f6b4/) | United States. National Park Service | 题 | 11 | 9,343 |
-| 54783 | [Guide to the Norris Geyser Basin](../../../../b/8e/8e6ebed97f8b/) | Algard, George A., 1941-2012 | 题 | 5 | 9,311 |
-| 54784 | [The Bible, Douay-Rheims, Book 41: Sophonias The Challoner Revision](../../../../b/16/16fb62a20afc/) | — | 题 | 7 | 9,293 |
-| 54785 | [Index of the Project Gutenberg Works of Edgar Rice Burroughs](../../../../b/34/344eb25002f6/) | Burroughs, Edgar Rice, 1875-1950; Widger, David, 1932-2021 [Editor] | 章 | 19 | 9,265 |
-| 54786 | [Translation of the Life of Omar ibn Said: Manuscript No. 1](../../../../b/42/4260e752b7e2/) | Said, Omar ibn, 1770?-1863; Bird, Isaac, 1793-1876 [Translator] | 题 | 5 | 9,230 |
-| 54787 | [Man-Trap](../../../../b/fd/fdc945432f9d/) | Annas, Hal; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 题 | 9 | 9,225 |
-| 54788 | [Index of the Project Gutenberg Works of Stephen Leacock](../../../../b/5f/5f0121020bc9/) | Leacock, Stephen, 1869-1944; Widger, David, 1932-2021 [Editor] | 章 | 6 | 9,205 |
-| 54789 | [Stories About Indians（#23570）](../../../../b/7d/7dd47afac224/) | Anonymous | 题 | 12 | 9,190 |
-| 54790 | [Example](../../../../b/3f/3f9bc0315c2a/) | Pace, Tom, 1929-2008 | 题 | 5 | 9,166 |
-| 54791 | [People Soup](../../../../b/d9/d9aa4660e03e/) | Arkin, Alan, 1934-2023; Johnson [Illustrator] | 题 | 8 | 9,164 |
-| 54792 | [Index of the Project Gutenberg Works of Samuel Merwin](../../../../b/40/407f85c6e781/) | Merwin, Samuel, 1874-1936; Widger, David, 1932-2021 [Editor] | 章 | 39 | 9,157 |
-| 54793 | [The Return of the Dead, and Other Ballads](../../../../b/35/35a38cad0712/) | Borrow, George, 1803-1881 [Translator]; Wise, Thomas James, 1859-1937 [Editor] | 题 | 5 | 9,148 |
-| 54794 | [Touch the sky](../../../../b/98/98167ced7544/) | Coppel, Alfred, 1921-2004; Finlay, Virgil, 1914-1971 [Illustrator] | 题 | 7 | 9,144 |
-| 54795 | [George Washington Carver National Monument Junior Ranger Activity Book: The Plant Doctor](../../../../b/dc/dcc6e64b3a66/) | United States. National Park Service | 题 | 7 | 9,114 |
-| 54796 | [They Also Serve](../../../../b/33/3325dbf54749/) | Westlake, Donald E., 1933-2008 | 题 | 7 | 9,082 |
-| 54797 | [Stories about Indians](../../../../b/9a/9a88777770bd/) | Anonymous | 题 | 14 | 9,063 |
-| 54798 | [Natural Bridges National Monument (1954)](../../../../b/22/222b9a2c4aae/) | United States. National Park Service | 题 | 9 | 9,034 |
-| 54799 | [Holes, Incorporated](../../../../b/82/8254a1afd4fa/) | Reynolds, L. Major; Marx, Hi [Illustrator] | 题 | 10 | 9,032 |
-| 54800 | [I'm a Stranger Here Myself](../../../../b/93/9331e4dc30de/) | Reynolds, Mack, 1917-1983 | 题 | 10 | 9,006 |
-| 54801 | [A treatise on grain stacking](../../../../b/d5/d5c31f74d4bb/) | De Lamater, John N., 1838-1916 | 题 | 15 | 8,989 |
-| 54802 | [A revised and illustrated treatise on grain stacking](../../../../b/96/966fc379e915/) | De Lamater, John N., 1838-1916 | 题 | 15 | 8,965 |
-| 54803 | [Atlas of ancient & classical geography](../../../../b/66/669caf5cbab5/) | Butler, Samuel, 1774-1839; Rhys, Ernest, 1859-1946 [Editor] | 题 | 8 | 8,965 |
-| 54804 | [The Bull Calf, and Other Tales](../../../../b/85/85012f31a2a2/) | Frost, A. B. (Arthur Burdett), 1851-1928 | 题 | 5 | 8,950 |
-| 54805 | [A Soldier's Life on the Western Frontier in 1813](../../../../b/a1/a11134fa22c3/) | Public Library of Fort Wayne and Allen County | 题 | 6 | 8,940 |
-| 54806 | [An Old Man's Prayer](../../../../b/5c/5c86b9e30f9b/) | Baker, George M. (George Melville), 1832-1890; Billings, Hammatt, 1818-1874 [Illustrator] | 题 | 6 | 8,915 |
-| 54807 | [Pneumonia: Its Care and Prevention](../../../../b/11/116744e7e94c/) | John Hancock Mutual Life Insurance Company. Life Conservation Service | 题 | 11 | 8,910 |
-| 54808 | [Thy Sea is Great, Our Boats are Small, and Other Hymns of To-Day](../../../../b/10/10fd3355dc3f/) | Van Dyke, Henry, 1852-1933 | 题 | 9 | 8,831 |
-| 54809 | [The huntress](../../../../b/fd/fda3c4a2fc28/) | Smith, Richard Rein, 1930-; Hunter, Mel, 1927-2004 [Illustrator] | 题 | 7 | 8,816 |
-| 54810 | [Manassas (Bull Run) National Battlefield Park [1953]](../../../../b/46/46a473380b1f/) | United States. National Park Service | 题 | 8 | 8,802 |
-| 54811 | [Cumberland Island: Junior Ranger Program Activity Guide for Ages 5-7](../../../../b/d3/d36272c00056/) | United States. National Park Service | 题 | 15 | 8,796 |
-| 54812 | [Wupatki National Monument, Arizona](../../../../b/17/178e94442bff/) | United States. National Park Service | 题 | 11 | 8,779 |
-| 54813 | [Index of the Project Gutenberg Works of August Strindberg](../../../../b/02/026b222e47e8/) | Strindberg, August, 1849-1912; Widger, David, 1932-2021 [Editor] | 章 | 5 | 8,709 |
-| 54814 | [Summit](../../../../b/ca/ca1c4159765d/) | Reynolds, Mack, 1917-1983 | 题 | 8 | 8,662 |
-| 54815 | [Pythias](../../../../b/1f/1f2396fcb180/) | Pohl, Frederik, 1919-2013; Hunter, Mel, 1927-2004 [Illustrator] | 题 | 10 | 8,643 |
-| 54816 | [The Illustrated Works of Gordon Home: A Linked Index to the Project Gutenberg Editions](../../../../b/a7/a72ba947180f/) | Home, Gordon, 1878-1969; Widger, David, 1932-2021 [Editor] | 章 | 25 | 8,589 |
-| 54817 | [Star Mother](../../../../b/78/7822e661eb7a/) | Young, Robert F., 1915-1986 | 题 | 5 | 8,554 |
-| 54818 | [A Few Remarks Concerning Makers of Singing Bird Boxes of the Eighteenth and Nineteenth Centuries](../../../../b/e1/e1d7659943e7/) | Pélissier, Georges, 1865-1931 | 题 | 16 | 8,502 |
-| 54819 | [Index of the Project Gutenberg Works of David H. Lawrence](../../../../b/44/442ef2132428/) | Lawrence, D. H. (David Herbert), 1885-1930; Widger, David, 1932-2021 [Editor] | 章 | 30 | 8,497 |
-| 54820 | [On the morning of Christ's nativity](../../../../b/79/79f0708f5f3a/) | Milton, John, 1608-1674; Seymour, Ralph Fletcher, 1876-1966 [Artist] | 题 | 6 | 8,479 |
-| 54821 | [Index of the Project Gutenberg Works of Coningsby Dawson](../../../../b/35/35e0589e266b/) | Dawson, Coningsby, 1883-1959; Widger, David, 1932-2021 [Editor] | 章 | 48 | 8,462 |
-| 54822 | [Lonesome Hearts](../../../../b/60/60a68a0b8c8e/) | Winterbotham, R. R. (Russell Robert), 1904-1971; Freas, Kelly, 1922-2005 [Illustrator] | 题 | 6 | 8,459 |
-| 54823 | [Diphtheria](../../../../b/44/448df981b04d/) | United States. Public Health Service | 题 | 11 | 8,411 |
-| 54824 | [As Long As You Wish](../../../../b/74/74f347047deb/) | O'Keefe, John; Van Dongen, H. R., 1920-2010 [Illustrator] | 题 | 7 | 8,408 |
-| 54825 | [Tumacacori National Monument, Arizona](../../../../b/17/173ccdddbfb2/) | United States. National Park Service | 题 | 8 | 8,361 |
-| 54826 | [Junior Park Ranger Program: Montezuma Castle and Tuzigoot National Monuments](../../../../b/7a/7aa3af636288/) | United States. National Park Service | 题 | 14 | 8,359 |
-| 54827 | [All Round the Year](../../../../b/7e/7e0ce6896c46/) | Nesbit, E. (Edith), 1858-1924; Brooke, Caris, 1844-1899; Smith, H. Bellingham [Illustrator] | 题 | 6 | 8,344 |
-| 54828 | [Index of the Project Gutenberg Works of Thomas Wentworth Higginson](../../../../b/79/795782dd0be3/) | Higginson, Thomas Wentworth, 1823-1911; Widger, David, 1932-2021 [Editor] | 章 | 13 | 8,320 |
-| 54829 | [Index of the Project Gutenberg Works of George Gibbs](../../../../b/8e/8e7953e2b3a5/) | Gibbs, George, 1870-1942; Widger, David, 1932-2021 [Editor] | 章 | 27 | 8,313 |
-| 54830 | [Zero Hour（#30476）](../../../../b/a3/a3f2733c5714/) | Blade, Alexander; Rognan, Lloyd, 1923-2005 [Illustrator] | 题 | 5 | 8,276 |
-| 54831 | [The Discovery of Radium Address by Madame M. Curie at Vassar College](../../../../b/78/78e7664e00e8/) | Curie, Marie, 1867-1934; Carter, Edna, 1872-1963 [Author of introduction, etc.] | 题 | 5 | 8,219 |
-| 54832 | [Index of the Project Gutenberg Works of Cornelius Tacitus](../../../../b/86/86bac5318e41/) | Tacitus, Cornelius, 56-117; Widger, David, 1932-2021 [Editor] | 章 | 6 | 8,137 |
-| 54833 | [The Ballad of Blaster Bill](../../../../b/f5/f5be4e67a093/) | Bond, Nelson S., 1908-2006; Lynch, Don (Artist) [Illustrator] | 题 | 7 | 8,092 |
-| 54834 | [The Talisman, from the Russian of Alexander Pushkin; With Other Pieces](../../../../b/a4/a49ef0647032/) | Borrow, George, 1803-1881; Mickiewicz, Adam, 1798-1855 [Contributor]; Pushkin, Aleksandr Sergeevich, 1799-1837 [Contributor] | 题 | 6 | 8,029 |
-| 54835 | [Index of the Project Gutenberg Works of Samuel Hopkins Adams](../../../../b/6c/6caacbf96e85/) | Adams, Samuel Hopkins, 1871-1958; Widger, David, 1932-2021 [Editor] | 章 | 22 | 8,021 |
-| 54836 | [The Bell Tone](../../../../b/5f/5f473dfb0654/) | Leftwich, Edmund Harry | 题 | 7 | 8,020 |
-| 54837 | [The Bible, Douay-Rheims, Book 39: Nahum The Challoner Revision](../../../../b/c7/c71a8d6001ad/) | — | 题 | 7 | 7,935 |
-| 54838 | [Index of the Project Gutenberg Works of Hugh Walpole](../../../../b/13/13e9d421dc52/) | Walpole, Hugh, 1884-1941; Widger, David, 1932-2021 [Editor] | 章 | 15 | 7,931 |
-| 54839 | [Plain Facts](../../../../b/1e/1e28f2e70ab0/) | Bauman, G. A. | 题 | 8 | 7,892 |
-| 54840 | [Index of the Project Gutenberg Works of William J. Locke](../../../../b/43/4368740895b0/) | Locke, William John, 1863-1930; Widger, David, 1932-2021 [Editor] | 章 | 28 | 7,861 |
-| 54841 | [The Doré Bible Gallery, Volume 6](../../../../b/07/0797c0e38ba6/) | Doré, Gustave, 1832-1883 [Illustrator] | 题 | 14 | 7,840 |
-| 54842 | [Index of the Project Gutenberg Works of Fyodor Dostoevsky](../../../../b/d4/d407e45a9626/) | Dostoyevsky, Fyodor, 1821-1881; Widger, David, 1932-2021 [Editor] | 章 | 17 | 7,828 |
-| 54843 | [Index of the Project Gutenberg Works of Booth Tarkington](../../../../b/34/343022ccfd0a/) | Tarkington, Booth, 1869-1946; Widger, David, 1932-2021 [Editor] | 章 | 35 | 7,819 |
-| 54844 | [Index of the Project Gutenberg Works of William Wood](../../../../b/2f/2fa2411ffea5/) | Wood, William, 1864-1947; Widger, David, 1932-2021 [Editor] | 章 | 12 | 7,817 |
-| 54845 | [Day of the Comet](../../../../b/11/113b2b2091e7/) | Jorgensen, Ivar | 题 | 5 | 7,784 |
-| 54846 | [Crash Beam](../../../../b/c7/c7b7a3d03bdf/) | Barrett, John; Vestal, Herman B., 1916-2007 [Illustrator] | 题 | 7 | 7,761 |
-| 54847 | [The Tale of Mrs. Tiggy-Winkle（#15137）](../../../../b/21/21744f4afe51/) | Potter, Beatrix, 1866-1943 | 题 | 6 | 7,709 |
-| 54848 | [Neptune speaks](../../../../b/1f/1fbcd74d85da/) | Pierce, Frank Richardson, 1881-1966; Rogers, Hubert, 1898-1982 [Illustrator] | 题 | 5 | 7,693 |
-| 54849 | [The Automatic Toy Works Manufacturers of the Best Novelties in Mechanical and Other Toys](../../../../b/06/06cce38cefd6/) | Automatic Toy Works, New York | 题 | 11 | 7,671 |
-| 54850 | [Time Fuze](../../../../b/99/99c347f84448/) | Garrett, Randall, 1927-1987; Orban, Paul, 1896-1974 [Illustrator] | 题 | 6 | 7,652 |
-| 54851 | [Index of the Project Gutenberg Works of Francis Bacon](../../../../b/6c/6c427a5811e3/) | Bacon, Francis, 1561-1626; Widger, David, 1932-2021 [Editor] | 章 | 15 | 7,613 |
-| 54852 | [The Bible, Douay-Rheims, Book 37: Jonas The Challoner Revision](../../../../b/1e/1e8043af9322/) | — | 题 | 8 | 7,564 |
-| 54853 | [Estes Park, Colorado](../../../../b/01/014f69a88ee3/) | Estes Park Chamber of Commerce | 题 | 9 | 7,534 |
-| 54854 | [Note for a time capsule](../../../../b/eb/ebbf9d9b24e2/) | Wellen, Edward, 1919-2011; Kluga, Richard [Illustrator] | 题 | 5 | 7,514 |
-| 54855 | [Index of the Project Gutenberg Works of Ralph Connor](../../../../b/2b/2b544cccbb7d/) | Connor, Ralph, 1860-1937; Widger, David, 1932-2021 [Editor] | 章 | 25 | 7,296 |
-| 54856 | [Armenia immolata](../../../../b/49/49fee4715f1e/) | Steele, Edward Strieby, 1850-1942 | 题 | 13 | 7,213 |
-| 54857 | [Index of the Project Gutenberg Works of Don Marquis](../../../../b/a6/a64eec3ca1de/) | Marquis, Don, 1878-1937; Widger, David, 1932-2021 [Editor] | 章 | 24 | 7,117 |
-| 54858 | [My robot](../../../../b/31/31d72c69b284/) | Slesar, Henry, 1927-2002 | 题 | 5 | 7,097 |
-| 54859 | [Jonah Christmas 1917](../../../../b/ac/acc3c211a958/) | Huxley, Aldous, 1894-1963 | 题 | 13 | 7,085 |
-| 54860 | [Index of the Project Gutenberg Works of Gustave Flaubert](../../../../b/34/34fa090695b7/) | Flaubert, Gustave, 1821-1880; Widger, David, 1932-2021 [Editor] | 章 | 20 | 6,932 |
-| 54861 | [History of Egypt, Chaldæa, Syria, Babylonia, and Assyria A Linked Index to the Project Gutenberg Editions](../../../../b/fd/fde20f13e820/) | Maspero, G. (Gaston), 1846-1916; Widger, David, 1932-2021 [Editor]; McClure, M. L., -1918 [Translator] | 章 | 8 | 6,879 |
-| 54862 | [Fishy-Winkle](../../../../b/d3/d371329e446a/) | Archer, Jean C. | 章 | 3 | 6,832 |
-| 54863 | [The Works of Louis Becke: A Linked Index to the Project Gutenberg Editions](../../../../b/52/52087fc3433c/) | Becke, Louis, 1855-1913; Widger, David, 1932-2021 [Editor] | 章 | 32 | 6,786 |
-| 54864 | [Mr. Loneliness](../../../../b/3a/3afa7e273fd1/) | Slesar, Henry, 1927-2002; Orban, Paul, 1896-1974 [Illustrator] | 题 | 6 | 6,780 |
-| 54865 | [The Bible, Douay-Rheims, Book 42: Aggeus The Challoner Revision](../../../../b/5c/5c5a8e39b74d/) | — | 题 | 6 | 6,777 |
-| 54866 | [The Bible, Douay-Rheims, Book 60: 2 Thessalonians The Challoner Revision](../../../../b/4f/4fcd7d146538/) | — | 题 | 7 | 6,714 |
-| 54867 | [Songs of the unblind Cupid](../../../../b/26/268d7be93616/) | Lloyd, J. Wm. (John William), 1857-1940 | 题 | 5 | 6,631 |
-| 54868 | [What to draw and how to draw it](../../../../b/98/9868f9841d10/) | Lutz, Edwin George, 1868-1951 | 题 | 8 | 6,604 |
-| 54869 | [U.S. Patent 4,293,314: Gelled Fuel-Air Explosive October 6, 1981.](../../../../b/13/13fde9d811c1/) | Stull, Bertram O. | 题 | 11 | 6,533 |
-| 54870 | [The Works of Charles James Lever An Index of the Project Gutenberg Works of Lever](../../../../b/cd/cd8e6daa934c/) | Lever, Charles, 1806-1872; Widger, David, 1932-2021 [Editor] | 章 | 85 | 6,532 |
-| 54871 | [The Plus Food for Minus Meals](../../../../b/4e/4e4227f560a2/) | Kellogg Company | 题 | 13 | 6,520 |
-| 54872 | [Index of the Project Gutenberg Works of Oscar Wilde](../../../../b/96/966aa255719f/) | Wilde, Oscar, 1854-1900; Widger, David, 1932-2021 [Editor] | 章 | 13 | 6,425 |
-| 54873 | [Index of the Project Gutenberg Works of Alfred Lord Tennyson](../../../../b/4c/4c9c0ae8d97f/) | Tennyson, Alfred Tennyson, Baron, 1809-1892; Widger, David, 1932-2021 [Editor] | 章 | 4 | 6,417 |
-| 54874 | [Fish Fry](../../../../b/11/11fd34f749aa/) | Marmor, Arnold, 1927-1978 | 题 | 5 | 6,350 |
-| 54875 | [Lily Speed-O-Weave: Luncheon Set No. 86](../../../../b/d0/d0707ff6c8ec/) | Lily Mills Company | 题 | 6 | 6,327 |
-| 54876 | [Watt's Songs Against Evil](../../../../b/5b/5beea10c6883/) | Watts, Isaac, 1674-1748 | 题 | 11 | 6,304 |
-| 54877 | [Nothing](../../../../b/fd/fd700e9cea54/) | Wollheim, Donald A., 1914-1990; Musacchia, John B., 1916-2004 [Illustrator] | 题 | 5 | 6,285 |
-| 54878 | [Index for Works of Robert W. Buchanan Hyperlinks to all Chapters of all Individual Ebooks](../../../../b/1e/1ee5b350ff7e/) | Buchanan, Robert Williams, 1841-1901; Widger, David, 1932-2021 [Editor] | 章 | 46 | 6,277 |
-| 54879 | [The Illustrated Works of Friedrich Schiller A Linked Index to the Project Gutenberg Editions](../../../../b/cd/cd43d487a7d0/) | Schiller, Friedrich, 1759-1805; Widger, David, 1932-2021 [Editor] | 章 | 24 | 6,204 |
-| 54880 | [Extensions of Known Ranges of Mexican Bats](../../../../b/02/029d7cb98e02/) | Anderson, Sydney, 1927-2018 | 题 | 6 | 6,199 |
-| 54881 | [The Scandalized Martians](../../../../b/5d/5df4b15d70f9/) | Marmor, Arnold, 1927-1978 | 题 | 6 | 6,139 |
-| 54882 | [The Tale of Squirrel Nutkin](../../../../b/9b/9bdc89f60466/) | Potter, Beatrix, 1866-1943 | 题 | 10 | 6,093 |
-| 54883 | [Old Fort Chartres on the Mississippi River](../../../../b/bd/bd25941da0fc/) | Faris, John T. (John Thomson), 1871-1949; Public Library of Fort Wayne and Allen County | 题 | 5 | 6,036 |
-| 54884 | [Index of the Project Gutenberg Works of Stephen Crane](../../../../b/94/94a314bea78f/) | Crane, Stephen, 1871-1900; Widger, David, 1932-2021 [Editor] | 章 | 33 | 6,013 |
-| 54885 | [Index for Works of Arthur Colton Hyperlinks to all Chapters in the Individual Ebooks](../../../../b/3e/3e1995bc55d1/) | Colton, Arthur, 1868-1943; Widger, David, 1932-2021 [Editor] | 章 | 35 | 5,943 |
-| 54886 | [Sonnets on Sundry Notes of Music](../../../../b/06/0648945789ad/) | Shakespeare, William, 1564-1616 | 题 | 8 | 5,909 |
-| 54887 | [The Bible, Douay-Rheims, Book 63: Titus The Challoner Revision](../../../../b/2f/2fab026768e0/) | — | 题 | 7 | 5,876 |
-| 54888 | [The Man Who Made the World](../../../../b/4f/4ff61412e82a/) | Matheson, Richard, 1926-2013 | 题 | 6 | 5,874 |
-| 54889 | [A History of England from Early Times: A Linked Index to the Project Gutenberg Editions](../../../../b/c7/c7c82e1876bc/) | Hume, David, 1711-1776; Farr, Edward; Nolan, E. H. (Edward Henry); Smollett, T. (Tobias), 1721-1771; Widger, David, 1932-2021 [Editor] | 章 | 49 | 5,871 |
-| 54890 | [The Killer（#65770）](../../../../b/be/bedd8b7949fb/) | Oliver, J. T. (Joseph Tombs), 1927-1988 | 题 | 5 | 5,862 |
-| 54891 | [Federal Stamp Taxes on Drafts, Checks and Promissory Notes, 1919](../../../../b/59/598b9dcb0bfc/) | Guaranty Trust Company of New York | 题 | 11 | 5,802 |
-| 54892 | [Index for Works of Neil Munro Hyperlinks to all Chapters of all Individual Ebooks](../../../../b/c7/c72a5bfefc24/) | Munro, Neil, 1864-1930; Widger, David, 1932-2021 [Editor] | 章 | 42 | 5,797 |
-| 54893 | [The Seven Great Monarchies of the Ancient Asian World A Linked Index to the Project Gutenberg Editions](../../../../b/7e/7ee17a5c88f9/) | Rawlinson, George, 1812-1902; Widger, David, 1932-2021 [Editor] | 章 | 23 | 5,785 |
-| 54894 | [The Child's Story-Book. Second Series—No. 4](../../../../b/4f/4f23176815ca/) | Anonymous | 题 | 9 | 5,761 |
-| 54895 | [Dog of St. Bernard and Other Stories](../../../../b/d7/d7f22603b0fb/) | Anonymous | 题 | 9 | 5,727 |
-| 54896 | [An A. B. C. of every-day people](../../../../b/d2/d28f45860a4f/) | Farrow, G. E. (George Edward), 1862-1919; Hassall, John, 1868-1948 [Illustrator] | 题 | 10 | 5,707 |
-| 54897 | [Marty the Martian](../../../../b/3b/3b1132928183/) | Marmor, Arnold, 1927-1978 | 题 | 5 | 5,667 |
-| 54898 | [Index of the Project Gutenberg Works of Herbert Spencer](../../../../b/d6/d6ee0958a5a8/) | Spencer, Herbert, 1820-1903; Widger, David, 1932-2021 [Editor] | 章 | 16 | 5,663 |
-| 54899 | [Index of the Project Gutenberg Works of George William Curtis](../../../../b/ae/aefc84157eab/) | Curtis, George William, 1824-1892; Widger, David, 1932-2021 [Editor] | 章 | 90 | 5,582 |
-| 54900 | [Bible Stories and Pictures. From the Old and New Testaments](../../../../b/9d/9d598bbf597a/) | Anonymous | 题 | 11 | 5,537 |
-| 54901 | [Index of the Project Gutenberg Works of Frank L. Packard](../../../../b/38/38b3b1e6e963/) | Packard, Frank L. (Frank Lucius), 1877-1942; Widger, David, 1932-2021 [Editor] | 章 | 24 | 5,534 |
-| 54902 | [The Works of Oliver Wendell Holmes: An Index of the Project Gutenberg Editions](../../../../b/7a/7a5382376c73/) | Holmes, Oliver Wendell, 1809-1894; Widger, David, 1932-2021 [Editor] | 章 | 36 | 5,533 |
-| 54903 | [My Book of Ten Fishes](../../../../b/fc/fc5869231230/) | Mendel, Rosalie G.; Frazee, Hazel [Illustrator] | 题 | 10 | 5,495 |
-| 54904 | [Field Trip](../../../../b/a7/a73876f55be1/) | Hunter, Gene | 题 | 5 | 5,325 |
-| 54905 | [D.C. Powered Timing Light Model 161.2158 for 12 Volt Ignition Systems Sears Owners Manual](../../../../b/45/45b34114d4b4/) | Sears, Roebuck and Company | 题 | 6 | 5,215 |
-| 54906 | [Molly O'Rigge Sit Ye Awhile and Tipple a Bit. The Delights of Wine. Caledonia! Native Land! The Warrior Bard. Beadle of the Parish.](../../../../b/a6/a6a0039c21d6/) | Unknown | 题 | 10 | 5,186 |
-| 54907 | [Rags (The Story Of A Dog)](../../../../b/55/55a1472c07f1/) | Niemann, Karen | 题 | 6 | 5,155 |
-| 54908 | [Index of the Project Gutenberg Works of M. M. Mangasarian](../../../../b/47/471e77515797/) | Mangasarian, M. M. (Mangasar Mugurditch), 1859-1943; Widger, David, 1932-2021 [Editor] | 章 | 7 | 5,078 |
-| 54909 | [Index for Works of Willis George Emerson Hyperlinks to all Chapters of all Individual Ebooks](../../../../b/4b/4bb127a015b3/) | Emerson, Willis George, 1856-1918; Widger, David, 1932-2021 [Editor] | 章 | 43 | 5,024 |
-| 54910 | [Index of the Project Gutenberg Works of George William Foote](../../../../b/54/5434805d952c/) | Foote, G. W. (George William), 1850-1915; Widger, David, 1932-2021 [Editor] | 章 | 17 | 5,017 |
-| 54911 | [Devils Postpile National Monument, California [1984]](../../../../b/11/116415903c02/) | United States. National Park Service | 题 | 8 | 4,984 |
-| 54912 | [Index of the Project Gutenberg Works of Bram Stoker](../../../../b/6a/6af143b7978a/) | Stoker, Bram, 1847-1912; Widger, David, 1932-2021 [Editor] | 章 | 27 | 4,922 |
-| 54913 | [Spies Die Hard!](../../../../b/c3/c343672e1f72/) | Marmor, Arnold, 1927-1978 | 题 | 7 | 4,878 |
-| 54914 | [Happy Days（#23614）](../../../../b/9a/9a7c76af19c4/) | Herford, Oliver, 1863-1935; Clay, John Cecil, 1875-1930 | 题 | 9 | 4,829 |
-| 54915 | [Original Short Stories, Complete, Volumes 1-13 An Index to All Stories](../../../../b/d3/d3fb8228fad8/) | Maupassant, Guy de, 1850-1893; Widger, David, 1932-2021 [Editor]; Henderson, A. E. [Translator]; McMaster, Albert Cohn [Translator]; Quesada, Louise Charlotte Garstin, 1864?- [Translator] | 章 | 5 | 4,748 |
-| 54916 | [Greetings from Longfellow](../../../../b/9b/9b557cb57410/) | Longfellow, Henry Wadsworth, 1807-1882 | 题 | 5 | 4,732 |
-| 54917 | [To Sup With the Devil](../../../../b/5e/5e9c2177ba8c/) | Scholnick, Myron I. | 题 | 5 | 4,653 |
-| 54918 | [Birthday Present](../../../../b/73/73f50c62e1d8/) | Marmor, Arnold, 1927-1978 | 题 | 6 | 4,622 |
-| 54919 | [English Translations of Works of Emile Zola An Index to the Project Gutenberg Works of Zola in English](../../../../b/44/444344cbb1aa/) | Zola, Émile, 1840-1902; Widger, David, 1932-2021 [Editor] | 章 | 32 | 4,621 |
-| 54920 | [Index of the Project Gutenberg Works of George Jacob Holyoake](../../../../b/6a/6a928a9f0370/) | Holyoake, George Jacob, 1817-1906; Widger, David, 1932-2021 [Editor] | 章 | 47 | 4,619 |
-| 54921 | [Spring Blossoms](../../../../b/fe/fe70fb110ff3/) | Anonymous | 题 | 9 | 4,568 |
-| 54922 | [Index of the Project Gutenberg Works of Lucius Annaeus Seneca](../../../../b/5d/5d425ad7ba09/) | Seneca, Lucius Annaeus, 5? BCE-65; Widger, David, 1932-2021 [Editor] | 章 | 22 | 4,562 |
-| 54923 | [The Smiler](../../../../b/5f/5f18030c4288/) | Hernhuter, Albert, 1934- | 题 | 6 | 4,518 |
-| 54924 | [Index for Works of Andrew Barton 'Banjo' Paterson Hyperlinks to all Chapters of all Individual Ebooks](../../../../b/33/33d2e955d9f1/) | Paterson, A. B. (Andrew Barton), 1864-1941; Widger, David, 1932-2021 [Editor] | 章 | 29 | 4,427 |
-| 54925 | [Hubbell Trading Post National Historic Site: Junior Ranger Workbook](../../../../b/79/792d68ed95ab/) | United States. National Park Service | 题 | 7 | 4,318 |
-| 54926 | [Tame Animals](../../../../b/6c/6ce10e095148/) | Anonymous | 题 | 8 | 4,268 |
-| 54927 | [Tales and Novels of J. de La Fontaine — Volume 10](../../../../b/bb/bb5d7a82fc22/) | La Fontaine, Jean de, 1621-1695 | 题 | 8 | 4,264 |
-| 54928 | [Moby Thesaurus List](../../../../b/05/05759e97a107/) | Ward, Grady, 1951- | 题 | 5 | 4,233 |
-| 54929 | [Index of the Project Gutenberg Works of Aleksandr Pushkin](../../../../b/9c/9c531e688494/) | Pushkin, Aleksandr Sergeevich, 1799-1837; Widger, David, 1932-2021 [Editor] | 章 | 14 | 4,221 |
-| 54930 | [Aladdin or The Wonderful Lamp](../../../../b/bf/bf6db86647af/) | Anonymous | 题 | 7 | 4,191 |
-| 54931 | [Index of the Project Gutenberg Works of Alexander Pushkin](../../../../b/2b/2bd6fb0435c4/) | Pushkin, Aleksandr Sergeevich, 1799-1837; Widger, David, 1932-2021 [Editor] | 章 | 14 | 4,162 |
-| 54932 | [The Project Gutenberg Works of John Lothrop Motley A Linked Index for: The Rise of the Dutch Republic; The History of the United Netherlands; The Life and Death of John of Barneveld](../../../../b/3a/3a0413f2acb9/) | Motley, John Lothrop, 1814-1877; Widger, David, 1932-2021 [Editor] | 章 | 48 | 4,008 |
-| 54933 | [Happy and Gay Marching Away](../../../../b/17/17d2c38a3ec9/) | Unknown | 题 | 7 | 3,851 |
-| 54934 | [Index for Works of Ruth Ogden Hyperlinks to all Chapters of all Individual Ebooks](../../../../b/71/7125388fabd3/) | Ogden, Ruth, 1853-1927; Widger, David, 1932-2021 [Editor] | 章 | 25 | 3,742 |
-| 54935 | [Index of the Project Gutenberg Works of Edna Ferber](../../../../b/c4/c49973d42c02/) | Ferber, Edna, 1885-1968; Widger, David, 1932-2021 [Editor] | 章 | 21 | 3,671 |
-| 54936 | [Index of the Project Gutenberg Works of George R. Sims](../../../../b/4d/4ddead30a704/) | Sims, George R. (George Robert), 1847-1922; Widger, David, 1932-2021 [Editor] | 章 | 69 | 3,606 |
-| 54937 | [Index of the Project Gutenberg Works of Vaughan Kester](../../../../b/63/63d47981fac0/) | Kester, Vaughan, 1869-1911; Widger, David, 1932-2021 [Editor] | 章 | 36 | 3,505 |
-| 54938 | [Index of the Project Gutenberg Works of Charlotte Perkins Gilman](../../../../b/02/025f1dd74cd1/) | Gilman, Charlotte Perkins, 1860-1935; Widger, David, 1932-2021 [Editor] | 章 | 14 | 3,196 |
-| 54939 | [Flowers from Shakespeare's Garden: A Posy from the Plays](../../../../b/e4/e4e13208f848/) | Crane, Walter, 1845-1915 [Illustrator]; Shakespeare, William, 1564-1616 | 章 | 5 | 3,192 |
-| 54940 | [Index of the Project Gutenberg Memoirs of Casanova](../../../../b/38/386a34d602f2/) | Casanova, Giacomo, 1725-1798; Widger, David, 1932-2021 [Editor] | 章 | 32 | 3,163 |
-| 54941 | [Index for Works of Mary Gaunt Hyperlinks to All Chapters of All Individual Ebooks](../../../../b/dd/dd1742970873/) | Gaunt, Mary, 1861-1942; Widger, David, 1932-2021 [Editor] | 章 | 25 | 2,962 |
-| 54942 | [The Mahogany Tree](../../../../b/5b/5b6c966db1fb/) | Thackeray, William Makepeace, 1811-1863; Dulac, Edmund, 1882-1953 [Illustrator] | 题 | 5 | 2,947 |
-| 54943 | [Index of the Project Gutenberg Works of Charles Bradlaugh](../../../../b/bc/bc338f0ac73d/) | Bradlaugh, Charles, 1833-1891; Widger, David, 1932-2021 [Editor] | 章 | 9 | 2,841 |
-| 54944 | [Index of the Project Gutenberg Works of James Joyce](../../../../b/d9/d9f22bb963cc/) | Joyce, James, 1882-1941; Widger, David, 1932-2021 [Editor] | 章 | 5 | 2,500 |
-| 54945 | [Index of the Project Gutenberg Works of Aldous Huxley](../../../../b/93/93638fca15e7/) | Huxley, Aldous, 1894-1963; Widger, David, 1932-2021 [Editor] | 章 | 30 | 2,451 |
-| 54946 | [Index of the Project Gutenberg Works of Walter Richard Cassels](../../../../b/c3/c3a1fb43e40d/) | Cassels, Walter Richard, 1826-1907; Widger, David, 1932-2021 [Editor] | 章 | 7 | 2,319 |
-| 54947 | [Index of the Project Gutenberg Works of Leonid Andreyev](../../../../b/9e/9ec3be844eb8/) | Andreyev, Leonid, 1871-1919; Widger, David, 1932-2021 [Editor] | 章 | 11 | 1,914 |
-| 54948 | [Frederick Hale, a biographical sketch](../../../../b/ce/ce18948142a9/) | Anonymous | 章 | 8 | 998 |
+| 54001 | [A Dissertation on Horses Wherein It is Demonstrated, by Matters of Fact, as Well as from the Principles of Philosophy, That Innate Qualities Do Not Exist, and That the Excellence of This Animal is Altogether Mechanical and Not in the Blood](../../../../b/e5/e5ddfba7c8a5/) | Osmer, William | 篇 | 40 | 39,219 |
+| 54002 | [Against Tetrarch](../../../../b/73/73a10e1e868e/) | Gilmour, A. A. O. | 篇 | 1 | 39,215 |
+| 54003 | [Proposals for Building, in Every County, a Working-Alms-House or Hospital as the Best Expedient to Perfect the Trade and Manufactory of Linnen Cloth](../../../../b/7a/7abea9080e92/) | Haines, Richard, 1633-1685 | 篇 | 3 | 39,207 |
+| 54004 | [The Great Drought](../../../../b/32/328b4213c66c/) | Meek, S. P. (Sterner St. Paul), 1894-1972 | 篇 | 1 | 39,202 |
+| 54005 | [A short sketch of the evidence for the abolition of the slave trade, delivered before a committee of the House of Commons](../../../../b/be/be58acf1952e/) | Crafton, William Bell | 篇 | 2 | 39,194 |
+| 54006 | [A Fine Day for Dying](../../../../b/d4/d4f3a0b1b625/) | Martin, John; Vestal, Herman B., 1916-2007 [Illustrator] | 篇 | 1 | 39,190 |
+| 54007 | [The Hunt Pack](../../../../b/84/845f588a7852/) | White, Samuel Alexander, 1885-1956 | 篇 | 1 | 39,189 |
+| 54008 | [The Lost Door](../../../../b/8a/8a8e4d5390c4/) | Quick, Dorothy, 1896-1962 | 篇 | 1 | 39,158 |
+| 54009 | [Mr. Blake's Walking-Stick: A Christmas Story for Boys and Girls](../../../../b/2f/2f7d6ff0359c/) | Eggleston, Edward, 1837-1902 | 章 | 22 | 39,157 |
+| 54010 | [Port Sunlight](../../../../b/27/2709d989eafb/) | Davison, T. Raffles (Thomas Raffles), 1853-1937 | 章 | 8 | 39,154 |
+| 54011 | [Historical sketch of the Fifteenth Regiment, New Jersey Volunteers First Brigade, First Division, Sixth Corps](../../../../b/d0/d0eec105af58/) | Campbell, Edward Livingston, 1833-1913 | 篇 | 30 | 39,146 |
+| 54012 | [The Veil, and Other Poems](../../../../b/7d/7d96a2e19f5d/) | De la Mare, Walter, 1873-1956 | 章 | 53 | 39,138 |
+| 54013 | [The Tattva-Muktavali](../../../../b/a1/a1d96f1b76be/) | Gaudapurnanandacakravarti, active 17th century; Cowell, Edward B. (Edward Byles), 1826-1903 [Translator] | 篇 | 7 | 39,133 |
+| 54014 | [Punch, or the London Charivari,  Volume 108, March 2nd 1895](../../../../b/56/56c35368b0f5/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 9 | 39,123 |
+| 54015 | [The Infamous Life of John Church, the St. George's Fields Preacher From His Infancy Up to His Trial and Conviction, With His Confession, Sent in a Letter to the Rev. Mr. L--, Two Days After His Attack on Adam Foreman, at Vauxhall, With Clerical Remarks by the Same Gentleman; to Which Is Added, His Love Epistles to E**** B****.   Together With Various Other Letters, Particularly One to Cook, of Vere-Street Notoriety.](../../../../b/2b/2b814dda0a4c/) | Anonymous | 章 | 7 | 39,121 |
+| 54016 | [Sketchbook of the Philadelphia & Boston Face Brick Co.](../../../../b/99/99175bdd9a8d/) | Philadelphia & Boston Face Brick Co. | 篇 | 74 | 39,111 |
+| 54017 | [Watch the Sky](../../../../b/f1/f193fb054abc/) | Schmitz, James H., 1911-1981 | 篇 | 1 | 39,101 |
+| 54018 | [Slavery: What it was, what it has done, what it intends to do Speech of Hon. Cydnor B. Tompkins, of Ohio](../../../../b/e6/e6e0ec89939b/) | Tompkins, Cydnor Bailey, 1810-1862 | 篇 | 1 | 39,100 |
+| 54019 | [Stephen H. Branch's Alligator, Vol. 1 no. 20, September 4, 1858](../../../../b/66/66db9b1148bc/) | Branch, Stephen H., 1813- [Editor] | 章 | 6 | 39,095 |
+| 54020 | [A Treatise of Cleanness in Meats and Drinks, of the Preparation of Food, the Excellency of Good Airs, and the Benefits of Clean Sweet Beds. Also of the Generation of Bugs, and Their Cure. To Which Is Added, a Short Discourse of the Pain in the Teeth, Shewing What Cause It Does Chiefly Proceed, and Also How to Prevent It.](../../../../b/73/7302bed4b1ef/) | Tryon, Thomas, 1634-1703 | 篇 | 1 | 39,095 |
+| 54021 | [The Philistine（#72688）](../../../../b/64/64828e88614a/) | Various; Hubbard, Elbert, 1856-1915 [Editor] | 章 | 6 | 39,093 |
+| 54022 | [Wanted: One Sane Man](../../../../b/22/22c3fdee7299/) | Robinson, Frank M., 1926-2014; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 章 | 2 | 39,090 |
+| 54023 | [The summer holidays](../../../../b/ca/cab79cf7fb6a/) | Amerel | 章 | 13 | 39,084 |
+| 54024 | [The Dances of Death Through the Various Stages of Human Life: Wherein the Capriciousness of that Tyrant is Exhibited](../../../../b/cd/cdd7c9c5dae7/) | Holbein, Hans, 1497-1543 [Illustrator]; Deuchar, David, 1743-1808 [Engraver] | 章 | 52 | 39,082 |
+| 54025 | [Punch, or the London Charivari, Vol. 105, August 19th 1893](../../../../b/cc/cc96107d740e/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 3 | 39,074 |
+| 54026 | [The Eye of Wilbur Mook](../../../../b/8a/8a4205d9fe90/) | Hickey, H. B., 1916-1987 | 篇 | 1 | 39,072 |
+| 54027 | [Afterglow](../../../../b/a4/a484b29f10aa/) | Dorr, Julia C. R. (Julia Caroline Ripley), 1825-1913 | 章 | 36 | 39,068 |
+| 54028 | [Carlo Dolci](../../../../b/1c/1c57e37aba7c/) | Hay, George, 1876-; Hare, T. Leman (Thomas Leman), 1872-1935 [Editor] | 章 | 3 | 39,065 |
+| 54029 | [The Raid of John Brown at Harper's Ferry as I Saw It](../../../../b/cc/cc1f459195d1/) | Leech, Samuel V., 1837-1916 | 篇 | 1 | 39,064 |
+| 54030 | [The Memoirs, Correspondence, and Miscellanies, From the Papers of Thomas Jefferson A Linked Index to the Project Gutenberg Editions](../../../../b/c3/c3ef8dd752c7/) | Jefferson, Thomas, 1743-1826; Randolph, Thomas Jefferson, 1792-1875 [Editor]; Widger, David, 1932-2021 [Editor] | 篇 | 22 | 39,058 |
+| 54031 | [The Novel on the Tram](../../../../b/d3/d3d76773228a/) | Pérez Galdós, Benito, 1843-1920; Wooff, Michael [Translator] | 章 | 7 | 39,058 |
+| 54032 | [No Charge for Alterations](../../../../b/d2/d2bcfb06acb8/) | Gold, H. L. (Horace Leonard), 1914-1996; Sharp, Henry, 1912-2019 [Illustrator] | 篇 | 1 | 39,047 |
+| 54033 | [Psychology and Social Practice](../../../../b/d9/d939c47f1513/) | Dewey, John, 1859-1952 | 篇 | 33 | 39,044 |
+| 54034 | [Royal fruit gelatin suggestions](../../../../b/5a/5aa33049c56b/) | Royal Baking Powder Company | 篇 | 5 | 39,032 |
+| 54035 | [An Authentick Account of the Measures and Precautions Used at Venice By the Magistrate of the Office of Health, for the Preservation of Publick Health](../../../../b/e5/e5a133d2eacc/) | Anonymous | 篇 | 1 | 39,031 |
+| 54036 | [The Travels and Extraordinary Adventures of Bob the Squirrel](../../../../b/39/398358d578f6/) | Anonymous | 篇 | 4 | 39,024 |
+| 54037 | [Prospector's Special](../../../../b/46/46d30503ac58/) | Sheckley, Robert, 1928-2005; Dillon, Diane, 1933- [Illustrator]; Dillon, Leo, 1933-2012 [Illustrator] | 篇 | 1 | 39,017 |
+| 54038 | [Poems（#37556）](../../../../b/59/59f1c7cabedb/) | Shanks, Edward, 1892-1953 | 章 | 7 | 39,016 |
+| 54039 | [Songs from Vagabondia](../../../../b/2b/2bf72cd93ce9/) | Carman, Bliss, 1861-1929; Hovey, Richard, 1864-1900 | 章 | 31 | 39,000 |
+| 54040 | [Punch, or the London Charivari, Vol. 104, March 18, 1893](../../../../b/8d/8d1091f2030b/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 章 | 8 | 38,991 |
+| 54041 | [A Lonely Flute](../../../../b/55/556d20ad3e61/) | Shepard, Odell, 1884-1967 | 章 | 35 | 38,980 |
+| 54042 | [The Mirror of Literature, Amusement, and Instruction. Volume 10, No. 291 - Supplement to Vol 10](../../../../b/57/573e7193e3e2/) | Various | 篇 | 1 | 38,969 |
+| 54043 | [Index of the Project Gutenberg Works of George Cruikshank](../../../../b/d1/d158ccebc824/) | Cruikshank, George, 1792-1878; Widger, David, 1932-2021 [Editor] | 章 | 2 | 38,960 |
+| 54044 | [The Great Round World and What Is Going On In It, Vol. 1, No. 32, June 17, 1897 A Weekly Magazine for Boys and Girls](../../../../b/04/04210bcccbbd/) | Various | 章 | 7 | 38,957 |
+| 54045 | [Punch, or the London Charivari, Volume 103, July 16, 1892](../../../../b/a3/a31dc1cd922c/) | Various | 篇 | 4 | 38,949 |
+| 54046 | [The O. S. U. Naturalist, Vol. 1, No. 1, November, 1900](../../../../b/b8/b84662785aec/) | Ohio State University. Biological Club | 章 | 8 | 38,939 |
+| 54047 | [A Question of Courage](../../../../b/86/863bcd21e934/) | Bone, Jesse F. (Jesse Franklin), 1916-2006; Finlay, Virgil, 1914-1971 [Illustrator] | 篇 | 1 | 38,934 |
+| 54048 | [The God in the Box](../../../../b/29/29b5252de241/) | Wright, Sewell Peaslee, 1897-1970 | 篇 | 1 | 38,925 |
+| 54049 | [Poems by Emily Dickinson, Series One](../../../../b/43/439a23cf9c8a/) | Dickinson, Emily, 1830-1886; Higginson, Thomas Wentworth, 1823-1911 [Editor]; Todd, Mabel Loomis, 1856-1932 [Editor] | 篇 | 6 | 38,922 |
+| 54050 | [Punch, or the London Charivari, Vol. 109, August 10, 1895](../../../../b/5e/5e417b51eaf0/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 4 | 38,919 |
+| 54051 | [Josiah's Alarm, and Abel Perry's Funeral](../../../../b/5f/5fee89596929/) | Holley, Marietta, 1836-1926 | 篇 | 3 | 38,916 |
+| 54052 | [The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1](../../../../b/b8/b87136187064/) | Hurlothrumbo; Guffey, George Robert, 1932- [Commentator] | 篇 | 6 | 38,910 |
+| 54053 | [The steeple-jack's instructor](../../../../b/06/062b8dfff03e/) | Murray, Clarence James | 章 | 19 | 38,908 |
+| 54054 | [Stephen H. Branch's Alligator, Vol. 1 no. 17, August 14, 1858](../../../../b/0d/0d809b63748b/) | Branch, Stephen H., 1813- [Editor] | 章 | 6 | 38,896 |
+| 54055 | [The Fantasy Fan, January 1934 The Fans' Own Magazine](../../../../b/3f/3f42652fe0c0/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 篇 | 4 | 38,892 |
+| 54056 | [One Against the Stars](../../../../b/f8/f84c9773ce44/) | Garson, Bill, 1917-2000; Doolin, Joseph, 1896-1967 [Illustrator] | 篇 | 1 | 38,892 |
+| 54057 | [The Asses of Balaam](../../../../b/70/70f693d2c315/) | Garrett, Randall, 1927-1987; Schoenherr, John, 1935-2010 [Illustrator] | 篇 | 1 | 38,885 |
+| 54058 | [The Chief Engineer](../../../../b/63/6387a6ad5b79/) | Abbott, Henry, 1850-1943 | 篇 | 1 | 38,883 |
+| 54059 | [Prehistoric Textile Fabrics Of The United States, Derived From Impressions On Pottery Third Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1881-82, Government Printing Office, Washington, 1884, pages 393-425](../../../../b/98/98653516d617/) | Holmes, William Henry, 1846-1933 | 篇 | 3 | 38,876 |
+| 54060 | [Little Ann, and Other Poems](../../../../b/62/6202beb57da9/) | Taylor, Jane, 1783-1824; Taylor, Ann, 1782-1866; Greenaway, Kate, 1846-1901 [Illustrator] | 章 | 42 | 38,868 |
+| 54061 | [The Ancient Monuments of North and South America, 2nd ed.](../../../../b/bc/bc8d7c293299/) | Rafinesque, C. S. (Constantine Samuel), 1783-1840 | 章 | 3 | 38,867 |
+| 54062 | [Michael McGrath, Postmaster](../../../../b/ee/eebf8e9aeb87/) | Connor, Ralph, 1860-1937 | 篇 | 1 | 38,856 |
+| 54063 | [Abraham Lincoln's Lost Speech, May 29, 1856 A Souvenir of the Eleventh Annual Lincoln Dinner of the Republican Club of the City of New York, at the Waldorf, February 12, 1897](../../../../b/93/938b8c29ede6/) | Lincoln, Abraham, 1809-1865; Whitney, Henry Clay, 1831-1905 [Transcriber] | 篇 | 5 | 38,847 |
+| 54064 | [The Origin of Finger-Printing](../../../../b/0e/0e94fc5f9511/) | Herschel, William James, 1833-1917 | 章 | 3 | 38,842 |
+| 54065 | [The Great Round World and What Is Going On In It, Vol. 1, No. 18, March 11, 1897 A Weekly Magazine for Boys and Girls](../../../../b/f7/f703067f730f/) | Various | 章 | 12 | 38,839 |
+| 54066 | [The Cost of Living Among Wage-Earners Fall River, Massachusetts, October, 1919, Research Report Number 22, November, 1919](../../../../b/37/37e764adcec0/) | National Industrial Conference Board | 章 | 18 | 38,835 |
+| 54067 | [Pictures and Stories from Uncle Tom's Cabin](../../../../b/1e/1e7eeb258770/) | Unknown; Stowe, Harriet Beecher, 1811-1896 | 章 | 3 | 38,835 |
+| 54068 | [Eddie](../../../../b/d5/d5c62f2ba3b8/) | Riley, Frank, 1915-1996; Orban, Paul, 1896-1974 [Illustrator] | 篇 | 1 | 38,835 |
+| 54069 | [Oat Meal: The War Winner](../../../../b/df/dfb1199043eb/) | Grieve, James Ritchie, 1840- | 篇 | 1 | 38,834 |
+| 54070 | ["95% perfect"](../../../../b/b0/b00175a3ac6b/) | Crosby, Everett Uberto, 1871-1960 | 篇 | 15 | 38,832 |
+| 54071 | [Hours of childhood, and other poems](../../../../b/b5/b52c877f880c/) | Anonymous | 章 | 36 | 38,823 |
+| 54072 | [Montgomery, the Capital City of Alabama: Her Resources and Advantages](../../../../b/b3/b3cf9d64c5fd/) | Montgomery Real Estate Agents' Association, Montgomery, Ala. | 章 | 13 | 38,820 |
+| 54073 | [Millais](../../../../b/64/64c91feabadb/) | Baldry, A. L. (Alfred Lys), 1858-1939; Hare, T. Leman (Thomas Leman), 1872-1935 [Editor] | 篇 | 1 | 38,819 |
+| 54074 | [None so deaf as those who won't hear](../../../../b/92/9243f13dc4e4/) | Curtis, Herbert Pelham | 部分 | 2 | 38,816 |
+| 54075 | [The Bitter Cry of Outcast London An Inquiry into the Condition of the Abject Poor](../../../../b/04/042aef883acd/) | Mearns, Andrew; Preston, William C. | 篇 | 23 | 38,811 |
+| 54076 | [Diary Written in the Provincial Lunatic Asylum](../../../../b/09/09755500d327/) | Pengilly, Mary Huestis | 篇 | 1 | 38,804 |
+| 54077 | [Punch, or the London Charivari, Vol. 109, October 12, 1895](../../../../b/e1/e17529ceeef6/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 6 | 38,800 |
+| 54078 | [Shoshone National Forest, Wyoming](../../../../b/a6/a6ee91f0e120/) | United States. Forest Service | 篇 | 13 | 38,793 |
+| 54079 | [York Minster](../../../../b/2c/2c4b7c55c154/) | Purey-Cust, Arthur P. (Arthur Perceval), 1828-; Ansted, Alexander, 1859-1948 [Illustrator] | 篇 | 1 | 38,789 |
+| 54080 | [Punch, or the London Charivari, Volume 102, February 20, 1892](../../../../b/0a/0a639b5dff80/) | Various | 篇 | 5 | 38,784 |
+| 54081 | [Punch, or the London Charivari, Vol. 104, April 29, 1893](../../../../b/aa/aa9a9b0e2109/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 5 | 38,777 |
+| 54082 | [Sketches in Egypt](../../../../b/d0/d0992170c87d/) | Gibson, Charles Dana, 1867-1944 | 章 | 4 | 38,771 |
+| 54083 | [The martyrdom of Nurse Cavell The life story of the victim of Germany's most barbarous crime](../../../../b/97/974fd418dcbc/) | Hill, William Thomson, 1875- | 章 | 13 | 38,749 |
+| 54084 | [Index of the Project Gutenberg Works of Fergus Hume](../../../../b/0e/0e944baada49/) | Hume, Fergus, 1859-1932; Widger, David, 1932-2021 [Editor] | 章 | 3 | 38,746 |
+| 54085 | [Poems（#27370）](../../../../b/64/64898e4f2ce8/) | Eddy, Mary Baker, 1821-1910 | 章 | 48 | 38,740 |
+| 54086 | [You Ask Anybody](../../../../b/c8/c854d2235643/) | Bower, B. M., 1871-1940 | 篇 | 1 | 38,740 |
+| 54087 | [Returning Home](../../../../b/57/57d9226cb54f/) | Trollope, Anthony, 1815-1882 | 篇 | 1 | 38,730 |
+| 54088 | [Index of the Project Gutenberg Works of Sir Winston Spencer Churchill](../../../../b/cf/cffb9c270c58/) | Churchill, Winston, 1874-1965; Widger, David, 1932-2021 [Editor] | 章 | 23 | 38,728 |
+| 54089 | [The Worst Joke in the World](../../../../b/d4/d4491e45e989/) | Holding, Elisabeth Sanxay, 1889-1955 | 章 | 5 | 38,726 |
+| 54090 | [Personal Experiences During the Chicago Fire, 1871](../../../../b/c9/c90ee41250e4/) | Loesch, Frank J. (Frank Joseph), 1852-1944 | 篇 | 1 | 38,725 |
+| 54091 | [The ordeal of Lancelot Biggs](../../../../b/28/28fe064d9630/) | Bond, Nelson S., 1908-2006 | 篇 | 1 | 38,717 |
+| 54092 | [History of the United Netherlands, 1588c](../../../../b/3c/3c07438c66f6/) | Motley, John Lothrop, 1814-1877 | 篇 | 1 | 38,716 |
+| 54093 | [The Ohio naturalist, Vol. 1, No. 3, January, 1901](../../../../b/8d/8d5d408bf867/) | Ohio State University. Biological Club | 章 | 6 | 38,710 |
+| 54094 | [The Night Has a Thousand Eyes](../../../../b/fc/fc09fd080a92/) | De Courcy, John; De Courcy, Dorothy; McWilliams, Al, 1916-1993 [Illustrator] | 篇 | 1 | 38,702 |
+| 54095 | [Thoughts, Moods and Ideals: Crimes of Leisure](../../../../b/ca/caf045b7bc5c/) | Lighthall, W. D. (William Douw), 1857-1954 | 章 | 7 | 38,701 |
+| 54096 | [Selections from Aunt Sammy's Radio Recipes and USDA Favorites](../../../../b/ad/ade27a681c5a/) | Van Deman, Ruth, 1888-1948; Yeatman, Fanny Walker, 1876-1962; Consumer and Food Economics Institute (U.S.) | 篇 | 24 | 38,699 |
+| 54097 | [His Maiesties Declaration, touching his Proceedings in the late Assemblie and Conuention of Parliament](../../../../b/7b/7befaba6118a/) | James I, King of England, 1566-1625 | 篇 | 19 | 38,695 |
+| 54098 | [Polite Satires: Containing The Unknown Hand, The Volcanic Island, Square Pegs](../../../../b/0c/0c72ceb63498/) | Bax, Clifford, 1886-1962 | 章 | 3 | 38,694 |
+| 54099 | [Punch, or the London Charivari, Vol. 109, August 3, 1895](../../../../b/15/154d5efc2f3c/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 3 | 38,685 |
+| 54100 | [Punch, or the London Charivari, Vol. 104, March 11, 1893](../../../../b/9a/9a9b5177e817/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 4 | 38,680 |
+| 54101 | [A Shropshire Lad](../../../../b/a7/a7a55d5e0ffe/) | Housman, A. E. (Alfred Edward), 1859-1936 | 章 | 63 | 38,679 |
+| 54102 | [On the Study of Zoology](../../../../b/bf/bf14ccfb91e1/) | Huxley, Thomas Henry, 1825-1895 | 篇 | 1 | 38,673 |
+| 54103 | [The Heptalogia](../../../../b/ff/ff4efc0c9984/) | Swinburne, Algernon Charles, 1837-1909 | 章 | 5 | 38,670 |
+| 54104 | [Instructions for the Management of Harvey's Sea Torpedo](../../../../b/dd/dd9f2bb83f0c/) | Harvey, Frederick | 章 | 18 | 38,658 |
+| 54105 | [Inside John Barth](../../../../b/fb/fbaec0ba99c9/) | Stuart, William W.; Dillon, Diane, 1933- [Illustrator]; Dillon, Leo, 1933-2012 [Illustrator] | 篇 | 3 | 38,653 |
+| 54106 | [Humanitarian Philosophy, 4th Edition](../../../../b/8f/8f8b8cffc5cf/) | Kusel, Emil Edward | 章 | 5 | 38,651 |
+| 54107 | [The History of Don Quixote, Volume 2, Part 40](../../../../b/92/929b03bc7e60/) | Cervantes Saavedra, Miguel de, 1547-1616; Doré, Gustave, 1832-1883 [Illustrator]; Ormsby, John, 1829-1895 [Translator] | 章 | 4 | 38,633 |
+| 54108 | [The Confessions of a Daddy](../../../../b/06/06fe770e19f2/) | Butler, Ellis Parker, 1869-1937; Cory, Fanny Y., 1877-1972 [Illustrator] | 篇 | 3 | 38,630 |
+| 54109 | [The Cholera Gazette, Vol. I. No. 5. Wednesday, August 8th, 1832.](../../../../b/5e/5eea1f60011c/) | Various | 篇 | 1 | 38,621 |
+| 54110 | [The Bible, Douay-Rheims, Book 65: Hebrews The Challoner Revision](../../../../b/0b/0b51f8312fa0/) | — | 篇 | 1 | 38,616 |
+| 54111 | [Getting Together](../../../../b/ab/ab4b2edc45c4/) | Hay, Ian, 1876-1952 | 章 | 7 | 38,614 |
+| 54112 | [Address delivered at the quarter-centennial celebration of the admission of Kansas as a state](../../../../b/2b/2b1b2c10a1cc/) | Martin, John Alexander, 1839-1889 | 章 | 18 | 38,611 |
+| 54113 | [Making Fermented Pickles](../../../../b/cb/cba600319600/) | LeFevre, Edwin | 篇 | 5 | 38,611 |
+| 54114 | [Punch, or the London Charivari, Volume 103, September 10, 1892](../../../../b/bb/bbef9e2aba63/) | Various | 篇 | 6 | 38,596 |
+| 54115 | [Poems（#52796）](../../../../b/43/433bfc3384c7/) | French, Nora May, 1881-1907 | 章 | 4 | 38,595 |
+| 54116 | [The Verse-Book of a Homely Woman](../../../../b/30/306424438cc5/) | Inchfawn, Fay, 1880-1978 | 章 | 28 | 38,570 |
+| 54117 | [Film Truth; November, 1920](../../../../b/20/2004b860c61f/) | Anonymous | 篇 | 3 | 38,568 |
+| 54118 | [Raiders of the universes](../../../../b/fb/fb06dcfcfa82/) | Wandrei, Donald, 1908-1987 | 篇 | 1 | 38,562 |
+| 54119 | [Darkey Ways in Dixie](../../../../b/d1/d1b8d66da09c/) | Richard, Margaret A. (Margaret Alice), 1870- | 章 | 43 | 38,556 |
+| 54120 | [Punch, or the London Charivari, Vol. 104, April 15, 1893](../../../../b/2d/2d0b8a222e91/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 19 | 38,554 |
+| 54121 | [Ajax, for example](../../../../b/27/277a4fcf9386/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 38,554 |
+| 54122 | [Tantalus](../../../../b/cc/ccb7c5793994/) | Schiller, F. C. S. (Ferdinand Canning Scott), 1864-1937 | 章 | 10 | 38,545 |
+| 54123 | [Taxonomy of the Chipmunks, Eutamias quadrivittatus and Eutamias umbrinus](../../../../b/d4/d4ff813f6e58/) | White, John A. | 篇 | 23 | 38,544 |
+| 54124 | [Evidently not](../../../../b/54/543204cfdb83/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 38,539 |
+| 54125 | [I'll dream of you](../../../../b/8d/8d5eb2f21a2c/) | Farrell, Henry, 1920-2006; Ruth, Rod, 1912-1987 [Illustrator] | 篇 | 1 | 38,531 |
+| 54126 | [State of the Union Addresses（#5020）](../../../../b/2d/2d0bdc48b663/) | Taylor, Zachary, 1784-1850 | 篇 | 1 | 38,522 |
+| 54127 | [Jemmy Stubbins, or the Nailer Boy Illustrations of the Law of Kindness](../../../../b/e5/e57fece9c88d/) | Burritt, Elihu, 1810-1879 [Editor] | 章 | 5 | 38,521 |
+| 54128 | [Punch, or the London Charivari, Vol. 107. August 4, 1894.](../../../../b/19/199ce314f474/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 3 | 38,520 |
+| 54129 | [The Canadian Entomologist, Vol. XII., No. 2, February 1880](../../../../b/fe/febca6c4eaa5/) | Various; Saunders, William, 1836-1914 [Editor] | 篇 | 5 | 38,509 |
+| 54130 | [The Rosary（#58213）](../../../../b/6e/6eff8d2157be/) | Anonymous | 章 | 15 | 38,505 |
+| 54131 | [Many Gods](../../../../b/da/da0283b6e6e8/) | Rice, Cale Young, 1872-1943 | 章 | 50 | 38,494 |
+| 54132 | [A Letter to the Right Hon. Lord Bexley containing a statement to the committee of the British and Foreign Bible Society, as to the relations of that institution, with France, the valleys of Piedmont, Switzerland and Germany](../../../../b/11/110199e87889/) | Cunningham, Francis, 1785-1863 | 篇 | 34 | 38,489 |
+| 54133 | [The Glory of Grace Effected by Weak Means Being the Substance of a Sermon, Preached on the Death of Samuel Church, Aged Twelve Years. On Sunday Evening, April 14, 1822, by J. Church, at the Surrey Tabernacle.](../../../../b/5a/5a9425665e7e/) | Church, J. (John), 1780?-1825? | 篇 | 22 | 38,488 |
+| 54134 | [Code（#73468）](../../../../b/e0/e06c1a098b5b/) | Paul, L. | 篇 | 1 | 38,487 |
+| 54135 | [Operation Haystack](../../../../b/0c/0c6c05317783/) | Herbert, Frank, 1920-1986; Van Dongen, H. R., 1920-2010 [Illustrator] | 篇 | 1 | 38,485 |
+| 54136 | [Free Thought and Official Propaganda](../../../../b/0e/0e9968723673/) | Russell, Bertrand, 1872-1970 | 篇 | 3 | 38,484 |
+| 54137 | [The Californiacs](../../../../b/cb/cb2121ee605d/) | Gillmore, Inez Haynes, 1873-1970 | 篇 | 1 | 38,478 |
+| 54138 | [Stephen H. Branch's Alligator, Vol. 1 no. 10, June 26, 1858](../../../../b/11/11d543efe3c7/) | Branch, Stephen H., 1813- [Editor] | 章 | 9 | 38,473 |
+| 54139 | [The Sisters' Tragedy, with Other Poems, Lyrical and Dramatic](../../../../b/7e/7eba2660c9f5/) | Aldrich, Thomas Bailey, 1836-1907 | 章 | 29 | 38,469 |
+| 54140 | [This is not a story](../../../../b/86/86ceaf406da4/) | Diderot, Denis, 1713-1784; Phalen, Peter [Translator] | 篇 | 1 | 38,449 |
+| 54141 | [Clever—?](../../../../b/1e/1eb8add0fbaf/) | Woodford, Jack, 1894-1971 | 章 | 5 | 38,440 |
+| 54142 | [For a Night of Love](../../../../b/51/51dea73c9dbe/) | Zola, Émile, 1840-1902 | 章 | 5 | 38,432 |
+| 54143 | [The natural and artificial disintegration of the elements An address by Professor Sir Ernest Rutherford](../../../../b/98/9816d86840ec/) | Rutherford, Ernest, 1871-1937 | 章 | 7 | 38,429 |
+| 54144 | [The Oppressed English](../../../../b/47/47997a25514b/) | Hay, Ian, 1876-1952 | 章 | 6 | 38,425 |
+| 54145 | [The Little Review, August 1916 (Vol. 3, No. 5)](../../../../b/d1/d11ad274ebc9/) | Various; Anderson, Margaret C., 1886-1973 [Editor] | 篇 | 4 | 38,424 |
+| 54146 | [I'll See You in My Dreams](../../../../b/e4/e47bd71a1103/) | Gault, William Campbell, 1910-1995; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 篇 | 1 | 38,422 |
+| 54147 | [The One Moss-Rose](../../../../b/dd/dd063f4a7328/) | Power, Philip Bennett, 1822-1899 | 篇 | 1 | 38,419 |
+| 54148 | [The Adventures of Tom Sawyer, Part 5.](../../../../b/64/64a2e2ce6016/) | Twain, Mark, 1835-1910 | 章 | 5 | 38,414 |
+| 54149 | [The Bucolics and Eclogues（#230）](../../../../b/09/098d0a7f6127/) | Virgil, 71 BCE-20 BCE | 篇 | 1 | 38,407 |
+| 54150 | [Anti-Slavery Monthly Reporter, March 1829](../../../../b/22/22251dd79c70/) | Society for the Mitigation and Gradual Abolition of Slavery Throughout the British Dominions; Macaulay, Zachary, 1768-1838 [Editor] | 篇 | 4 | 38,406 |
+| 54151 | [The Fantasy Fan, December 1933 The Fans' Own Magazine](../../../../b/12/12b6bdc6c98c/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 篇 | 7 | 38,401 |
+| 54152 | [Punch, or the London Charivari, Volume 104, January 14, 1893](../../../../b/48/482fcd21688a/) | Various | 篇 | 6 | 38,390 |
+| 54153 | [Punch, or the London Charivari, Volume 103, July 9, 1892](../../../../b/20/20442b754bba/) | Various | 篇 | 10 | 38,386 |
+| 54154 | [Parsifal: Story and Analysis of Wagner's Great Opera](../../../../b/8b/8b01bd0d97f9/) | Haweis, H. R. (Hugh Reginald), 1839-1901 | 章 | 3 | 38,377 |
+| 54155 | [Letters from a Cat Published by Her Mistress for the Benefit of All Cats and the Amusement of Little Children](../../../../b/94/94380f582aa3/) | Jackson, Helen Hunt, 1830-1885 | 章 | 7 | 38,362 |
+| 54156 | [Ike Harper's historical holiday](../../../../b/78/785877ed39e8/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 38,359 |
+| 54157 | [Decidedly Odd](../../../../b/e2/e2edee27b7ce/) | Balmer, Edwin, 1883-1959; MacHarg, William, 1872-1951 | 章 | 5 | 38,358 |
+| 54158 | [Kimiko, and Other Japanese Sketches](../../../../b/d0/d0bd610785b5/) | Hearn, Lafcadio, 1850-1904 | 章 | 9 | 38,352 |
+| 54159 | [The Ballotless Victim of One-Party Governments The American Negro Academy, Occasional Papers No. 16](../../../../b/2d/2da25460f1fe/) | Grimké, Archibald Henry, 1849-1930 | 篇 | 31 | 38,342 |
+| 54160 | [The Barnum & Bailey Greatest Show on Earth songster](../../../../b/b7/b78e5f3b9e51/) | Various | 篇 | 22 | 38,338 |
+| 54161 | [A World is Born](../../../../b/80/80214ed15256/) | Brackett, Leigh, 1915-1978 | 篇 | 1 | 38,337 |
+| 54162 | [The lost charm](../../../../b/90/90a3b1c4b378/) | Norton, Roy, 1869-1942 | 篇 | 1 | 38,326 |
+| 54163 | [Babies Are Such Fun to Dress: Sizes 6 Months to 4 Years Knit & Crochet](../../../../b/59/59b1dd5da52b/) | American Thread Company | 篇 | 3 | 38,325 |
+| 54164 | [The Junkmakers](../../../../b/4f/4f783e1ae869/) | Teichner, Albert; West [Illustrator] | 篇 | 1 | 38,324 |
+| 54165 | [A Letter to Lord Fielding. Suggested by the late proceedings at the New Church at Pantasa](../../../../b/7f/7f0474cedc54/) | Stone, George Luther | 章 | 2 | 38,313 |
+| 54166 | [Poison: A Farce](../../../../b/19/19c9ae48b374/) | Baker, George M. (George Melville), 1832-1890 | 篇 | 8 | 38,309 |
+| 54167 | [A Sermon, Delivered Before His Excellency Edward Everett, Governor, His Honor George Hull, Lieutenant Governor, the Honorable Council, and the Legislature of Massachusetts, on the Anniversary Election, January 2, 1839](../../../../b/c6/c60415a5679b/) | Hopkins, Mark, 1802-1887 | 篇 | 26 | 38,308 |
+| 54168 | [Songs of Hafiz](../../../../b/c4/c49c32e34de0/) | Ḥāfiẓ, active 14th century; Underwood, Edna Worthley, 1873-1961 [Translator] | 章 | 6 | 38,307 |
+| 54169 | [The Fantasy Fan, February 1934 The Fans' Own Magazine](../../../../b/e0/e0c63d5cc1d8/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 篇 | 5 | 38,293 |
+| 54170 | [Meddler's Moon](../../../../b/51/516b9564e106/) | Smith, George O. (George Oliver), 1911-1981; Napoli, Vincent, 1907-1981 [Illustrator] | 篇 | 1 | 38,293 |
+| 54171 | [Passage to Gomorrah](../../../../b/67/67c31bcc1a75/) | Young, Robert F., 1915-1986; Summers, Leo, 1925-1985 [Illustrator] | 篇 | 1 | 38,293 |
+| 54172 | [The Baptism of the Prince: A Sermon Preached ... on Sunday morning, Jan. 23, 1842, in anticipation of the baptism of His Royal Highness, the Prince of Wales.](../../../../b/50/5081e11f4fbe/) | Alexander, John, 1792-1868 | 篇 | 14 | 38,292 |
+| 54173 | [Dickory Dock](../../../../b/75/758c06e2a7ac/) | Meade, L. T., 1854-1914 | 章 | 3 | 38,292 |
+| 54174 | [The Letter of Petrus Peregrinus on the Magnet, A.D. 1269](../../../../b/13/13d0965be57c/) | Pierre, de Maricourt, active 13th century; Arnold, Brother, 1868-1928 [Translator]; Potamian, Brother, 1837-1917 [Author of introduction, etc.] | 章 | 11 | 38,290 |
+| 54175 | [Through Hell with Hiprah Hunt A Series of Pictures and Notes of Travel Illustrating the Adventures of a Modern Dante in the Infernal Regions; Also Other Pictures of the Same Subterranean World](../../../../b/dd/dd6f423a90e4/) | Young, Art, 1866-1943 | 篇 | 3 | 38,290 |
+| 54176 | [The Inca of Perusalem: An Almost Historical Comedietta](../../../../b/f9/f9d7af15f900/) | Shaw, Bernard, 1856-1950 | 篇 | 1 | 38,290 |
+| 54177 | [The Great Round World and What Is Going On In It, Vol. 1, No. 28, May 20, 1897 A Weekly Magazine for Boys and Girls](../../../../b/eb/eb62ceb9521d/) | Various | 篇 | 10 | 38,288 |
+| 54178 | [The Great Round World and What Is Going On In It, Vol. 1, No. 36, July 15, 1897 A Weekly Magazine for Boys and Girls](../../../../b/1f/1f6cbec62fce/) | Various; Bishop, Julia Truitt [Editor] | 篇 | 6 | 38,285 |
+| 54179 | [Problem in solid](../../../../b/65/65ad99cc8829/) | Smith, George O. (George Oliver), 1911-1981; Orban, Paul, 1896-1974 [Illustrator] | 篇 | 1 | 38,285 |
+| 54180 | ["The Murderous Tyranny of the Turks"](../../../../b/91/9165a88cb595/) | Toynbee, Arnold, 1889-1975; Bryce, James Bryce, Viscount, 1838-1922 [Author of introduction, etc.] | 章 | 15 | 38,284 |
+| 54181 | [The penny magazine of the Society for the Diffusion of Useful Knowledge, issue 31, September 29, 1832](../../../../b/9b/9b03de1de7a5/) | Knight, Charles, 1791-1873 [Editor] | 章 | 4 | 38,279 |
+| 54182 | [Diary of Samuel Pepys — Volume 71: January 1668-69](../../../../b/46/46ed409a50a4/) | Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator] | 篇 | 1 | 38,266 |
+| 54183 | [A Proposal Under Difficulties: A Farce](../../../../b/3b/3b45cc78def4/) | Bangs, John Kendrick, 1862-1922 | 篇 | 1 | 38,264 |
+| 54184 | [Zen Buddhism, and Its Relation to Art](../../../../b/c4/c4b472b0f9be/) | Waley, Arthur, 1889-1966 | 章 | 5 | 38,263 |
+| 54185 | [A Ryght Profytable Treatyse Compendiously Drawen Out Of Many and Dyvers Wrytynges Of Holy Men](../../../../b/f0/f06fdae311dc/) | Betson, Thomas | 篇 | 1 | 38,261 |
+| 54186 | [The Seven Wives of Bluebeard 1920](../../../../b/4d/4dccdd48d080/) | France, Anatole, 1844-1924; May, J. Lewis (James Lewis), 1873-1961 [Editor]; Miall, Bernard, 1876-1953 [Editor]; Stewart, D. B. [Translator] | 章 | 5 | 38,259 |
+| 54187 | [The Cheerful Cricket and Others](../../../../b/58/58c84ff349de/) | Marks, Jeannette Augustus, 1875-1964 | 篇 | 12 | 38,254 |
+| 54188 | [The Fantasy Fan, April 1934 The Fan's Own Magazine](../../../../b/91/913572ef5153/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 篇 | 4 | 38,243 |
+| 54189 | [Strange marriage customs](../../../../b/d3/d32e2d8d5ba4/) | Markun, Leo, 1901-1932; Haldeman-Julius, E. (Emanuel), 1888-1951 [Editor] | 篇 | 3 | 38,236 |
+| 54190 | [The Steam Fire Engine and the Old-time Fire Bell](../../../../b/93/934f4c9a3361/) | Anonymous | 篇 | 1 | 38,234 |
+| 54191 | [Bunzo Farewell](../../../../b/ba/baf79fe1834d/) | De Vet, Charles V., 1911-1997; Emshwiller, Ed, 1925-1990 [Illustrator] | 篇 | 1 | 38,232 |
+| 54192 | [Z](../../../../b/91/91d8f33f6ab4/) | Fontenay, Charles L., 1917-2007; Emshwiller, Ed, 1925-1990 [Illustrator] | 篇 | 1 | 38,222 |
+| 54193 | [Index of the Project Gutenberg Works of Charlotte M. Yonge](../../../../b/df/df63bca5b4b9/) | Yonge, Charlotte M. (Charlotte Mary), 1823-1901; Widger, David, 1932-2021 [Editor] | 章 | 2 | 38,221 |
+| 54194 | [The Impossible Voyage Home](../../../../b/df/dfb74ed08529/) | Wallace, F. L. (Floyd L.), 1915-2004; Francis, Dick [Illustrator] | 篇 | 1 | 38,207 |
+| 54195 | [The Prince and the Pauper, Part 6.](../../../../b/bf/bf08e836a827/) | Twain, Mark, 1835-1910 | 篇 | 1 | 38,191 |
+| 54196 | [The Wyandotte Convention: an address](../../../../b/b4/b4d5c2c2a418/) | Martin, John Alexander, 1839-1889 | 章 | 13 | 38,185 |
+| 54197 | [Conspiracy on Callisto](../../../../b/ab/abda493a5635/) | Pohl, Frederik, 1919-2013 | 篇 | 4 | 38,180 |
+| 54198 | [The Runaway Bunny](../../../../b/94/94cb6fd45b58/) | Smith, Laura Rountree, 1876-1924; Dulin, Dorothy, 1881-1953 [Illustrator] | 章 | 10 | 38,177 |
+| 54199 | [Fossil Forests of the Yellowstone National Park](../../../../b/43/430be75525af/) | Knowlton, Frank Hall, 1860-1926 | 章 | 12 | 38,171 |
+| 54200 | [The Method by Which the Causes of the Present and Past Conditions of Organic Nature Are to Be Discovered; the Origination of Living Beings Lecture III. (of VI.), "Lectures to Working Men", at the Museum of Practical Geology, 1863, on Darwin's Work: "Origin of Species"](../../../../b/fb/fbaedeaa65ff/) | Huxley, Thomas Henry, 1825-1895 | 篇 | 1 | 38,162 |
+| 54201 | [The Unity of the Church Essential to the Conversion of the World A Sermon, Preached Before the Directors and Friends of the London Missionary Society, During Their Anniversary in May, 1846, in the Church of St. Mary, Spital Square, London](../../../../b/bf/bf58bd9f78e1/) | Gwyther, James Henry Alexander, -1875 | 篇 | 1 | 38,154 |
+| 54202 | [The Caxtons: A Family Picture — Volume 06](../../../../b/d6/d63572a670b1/) | Lytton, Edward Bulwer Lytton, Baron, 1803-1873 | 章 | 8 | 38,152 |
+| 54203 | [Formula for murder](../../../../b/5b/5b7e247cf780/) | Rothman, Milton A., 1919-2001; Kluga, Richard [Illustrator] | 章 | 3 | 38,136 |
+| 54204 | [The Siksha-Patri of the Svami-Narayana Sect](../../../../b/c1/c12b90ced0cc/) | Monier-Williams, Monier, Sir, 1819-1899 [Translator] | 篇 | 4 | 38,130 |
+| 54205 | [Bailey's Dam](../../../../b/71/711246d2fa67/) | Smith, Steven D., 1951-; Castille, George J., 1950- | 篇 | 10 | 38,123 |
+| 54206 | [Punch, or the London Charivari, Vol. 104, April 22, 1893](../../../../b/3f/3f089b108cab/) | Various | 篇 | 3 | 38,120 |
+| 54207 | [The Complete Collection of Pictures and Songs](../../../../b/e6/e628ffeb4575/) | Caldecott, Randolph, 1846-1886 [Illustrator]; Dobson, Austin, 1840-1921 [Author of introduction, etc.]; Evans, Edmund, 1826-1905 [Engraver] | 章 | 15 | 38,119 |
+| 54208 | [An Illustrated Handbook of Mount Vernon, the Home of Washington](../../../../b/2d/2d2590b46fc2/) | Mount Vernon Ladies' Association of the Union | 章 | 27 | 38,118 |
+| 54209 | [Sanctuary: A Bird Masque](../../../../b/6f/6f129ee79856/) | MacKaye, Percy, 1875-1956; Ege, Arvia MacKaye, 1902-1989 [Contributor]; Genthe, Arnold, 1869-1942 [Photographer] | 章 | 10 | 38,118 |
+| 54210 | [Bird Houses Boys Can Build](../../../../b/87/87f6ed990ae3/) | Siepert, Albert Frederick, 1883- | 章 | 10 | 38,111 |
+| 54211 | [The Bible, Douay-Rheims, Book 43: Zacharias The Challoner Revision](../../../../b/49/49a478f7b35f/) | — | 篇 | 1 | 38,096 |
+| 54212 | [Joseph K. F. Mansfield, Brigadier General of the U.S. Army A Narrative of Events Connected with His Mortal Wounding at Antietam, Sharpsburg, Maryland, September 17, 1862](../../../../b/c3/c3331bc0737b/) | Gould, John Mead, 1839-1930 | 章 | 10 | 38,093 |
+| 54213 | [Primer of Ohio Archaeology: The Mound Builders and the Indians](../../../../b/4c/4ca89256b0d5/) | Shetrone, H. C., 1876-1954 | 章 | 22 | 38,092 |
+| 54214 | [The gray brotherhood](../../../../b/20/20d9f3d10b61/) | Leverage, Henry, 1885-1931 | 篇 | 1 | 38,085 |
+| 54215 | [The Prince and the Pauper, Part 8.](../../../../b/48/48067a42aacc/) | Twain, Mark, 1835-1910 | 篇 | 1 | 38,084 |
+| 54216 | [A Warwickshire Lad: The Story of the Boyhood of William Shakespeare](../../../../b/a9/a9c1d0ab23e7/) | Martin, George Madden, 1866-1946 | 章 | 13 | 38,075 |
+| 54217 | [The Statute of Anne](../../../../b/32/32c12238d884/) | Great Britain. Parliament | 篇 | 1 | 38,071 |
+| 54218 | [Stephen H. Branch's Alligator, Vol. 1 no. 11, July 3, 1858](../../../../b/28/28b8196019c6/) | Branch, Stephen H., 1813- [Editor] | 章 | 11 | 38,068 |
+| 54219 | [Star, Bright](../../../../b/df/df73dedb39e3/) | Clifton, Mark, 1906-1963; Stone, David [Illustrator] | 篇 | 1 | 38,055 |
+| 54220 | [The forward pass in football](../../../../b/b5/b58579f395b7/) | Berry, Elmer, 1879-1952 | 章 | 14 | 38,049 |
+| 54221 | [Two Christmas Celebrations](../../../../b/f9/f9452546b0eb/) | Parker, Theodore, 1810-1860 | 篇 | 1 | 38,041 |
+| 54222 | [Into the blue](../../../../b/d3/d39e01b32e49/) | Austin, F. Britten (Frederick Britten), 1885-1941 | 篇 | 1 | 38,039 |
+| 54223 | [The Vicomte de Bragelonne: The End and Beginning of an Era](../../../../b/1c/1cf163bb7200/) | Bursey, John | 篇 | 1 | 38,024 |
+| 54224 | [Punch, or the London Charivari, Volume 108, February 23, 1895](../../../../b/f6/f6d104d40a78/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 12 | 38,008 |
+| 54225 | [The Philistine（#71835）](../../../../b/25/253eb518b8cd/) | Various; Hubbard, Elbert, 1856-1915 [Editor] | 章 | 5 | 38,006 |
+| 54226 | [M. P.'s in Session: From Mr. Punch's Parliamentary Portrait Gallery](../../../../b/58/588ce1c9766b/) | Furniss, Harry, 1854-1925 | 篇 | 22 | 37,995 |
+| 54227 | [The dramatic instinct in children](../../../../b/d8/d86e2b22fa16/) | American Institute of Child Life | 章 | 6 | 37,995 |
+| 54228 | [Weymouth New Testament in Modern Speech, Hebrews](../../../../b/26/26a390dd1fc2/) | Weymouth, Richard Francis, 1822-1902 | 篇 | 1 | 37,989 |
+| 54229 | [Hunted Down: The Detective Stories of Charles Dickens](../../../../b/41/41cb6476e58f/) | Dickens, Charles, 1812-1870 | 章 | 5 | 37,987 |
+| 54230 | [Right off the Bat: Baseball Ballads](../../../../b/d6/d64b852f5a43/) | Kirk, William Frederick, 1877-1927; Martin, H. B. [Illustrator] | 章 | 34 | 37,985 |
+| 54231 | [The Nursery, No. 106, October, 1875. Vol. XVIII. A Monthly Magazine for Youngest Readers](../../../../b/81/81711d905d78/) | Various | 章 | 18 | 37,975 |
+| 54232 | [Borrowed feathers](../../../../b/a3/a305a0dadcf8/) | Lamb, Ruth, 1829-1916 | 章 | 4 | 37,975 |
+| 54233 | [The Islam of Mohamed](../../../../b/40/402ce7658f9d/) | Khuda Bukhsh, S. (Salahuddin), 1877-1931 | 篇 | 1 | 37,956 |
+| 54234 | [This World Must Die!](../../../../b/44/44a81e0697b5/) | Fyfe, H. B. (Horace Bowne), 1918-1997 | 篇 | 1 | 37,935 |
+| 54235 | [Knights in Armour](../../../../b/05/05bfb759f453/) | Woods, Edward S. (Edward Sydney), 1877-1953 | 章 | 5 | 37,934 |
+| 54236 | [The Golden-Breasted Kootoo, and Other Stories](../../../../b/de/de8d45cf30c7/) | Richards, Laura Elizabeth Howe, 1850-1943; Garrett, Edmund H. (Edmund Henry), 1853-1929 [Illustrator] | 章 | 5 | 37,919 |
+| 54237 | [Some Imagist Poets: An Anthology](../../../../b/31/31fe2ab4ef96/) | Aldington, Richard, 1892-1962; Fletcher, John Gould, 1886-1950; Flint, F. S. (Frank Stewart), 1885-1960; H. D. (Hilda Doolittle), 1886-1961; Lawrence, D. H. (David Herbert), 1885-1930; Lowell, Amy, 1874-1925 | 章 | 6 | 37,913 |
+| 54238 | [Hiawatha and the Iroquois Confederation A Study in Anthropology. A Paper Read at the Cincinnati Meeting of the American Association for the Advancement of Science, in August, 1881, under the Title of "A Lawgiver of the Stone Age."](../../../../b/22/2283e84363bf/) | Hale, Horatio, 1817-1896 | 篇 | 23 | 37,901 |
+| 54239 | [The King of Root Valley and his curious daughter](../../../../b/bd/bd3e32f8f1db/) | Reinick, Robert, 1805-1852; Oer, T. von [Illustrator]; Reinick, Robert, 1805-1852 [Illustrator] | 章 | 36 | 37,892 |
+| 54240 | [Seaward: An Elegy on the Death of Thomas William Parsons](../../../../b/76/76cd49412ea7/) | Hovey, Richard, 1864-1900 | 章 | 3 | 37,891 |
+| 54241 | [Linotype Manual Giving Detailed Instructions of the Proper Adjustment and Care of the Linotype](../../../../b/79/796486225109/) | Various | 章 | 36 | 37,889 |
+| 54242 | [How to become mentally superior](../../../../b/11/1183d84b1b49/) | Le Chatelier, Henri, 1850-1936; Haldeman-Julius, E. (Emanuel), 1888-1951 [Editor]; Oesper, Ralph E. (Ralph Edward), 1886-1977 [Translator] | 篇 | 5 | 37,882 |
+| 54243 | [Sketches New and Old, Part 6.](../../../../b/e3/e30ab9c7a083/) | Twain, Mark, 1835-1910 | 篇 | 7 | 37,879 |
+| 54244 | [An Atheist Manifesto](../../../../b/e4/e4eef988a325/) | Lewis, Joseph, 1889-1968 | 篇 | 1 | 37,875 |
+| 54245 | [The Story of a Robin](../../../../b/bb/bb9b9b60c5ec/) | Underwood, Agnes S. | 篇 | 1 | 37,849 |
+| 54246 | [Christmas on the briny](../../../../b/2f/2fbc32b78370/) | Christie, W. Bede (William Bede) | 篇 | 1 | 37,840 |
+| 54247 | [Catalogue of Practical and Scientific Books](../../../../b/bb/bb33831747ce/) | Henry Carey Baird & Co. | 章 | 2 | 37,836 |
+| 54248 | [Glaciers and Glaciation in Glacier National Park](../../../../b/a0/a0e2d0e82d3f/) | Dyson, James L. (James Lindsay), 1912-1967 | 篇 | 4 | 37,827 |
+| 54249 | [Aquarium](../../../../b/d1/d1860ccdd491/) | Acton, Harold, 1904-1994 | 章 | 31 | 37,825 |
+| 54250 | [He Walked Around the Horses](../../../../b/1b/1b9510b65172/) | Piper, H. Beam, 1904-1964; Cartier, Edd, 1914-2008 [Illustrator] | 篇 | 4 | 37,824 |
+| 54251 | [Âmona; The Child; And The Beast; And Others From "The Strange Adventure of James Shervinton, and Other Stories" - 1902](../../../../b/42/425c95a43990/) | Becke, Louis, 1855-1913 | 篇 | 3 | 37,821 |
+| 54252 | [Promoting Polecat Perkins](../../../../b/bc/bc42f2d3d479/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 37,821 |
+| 54253 | [The Dreamers And Other Poems](../../../../b/6d/6dce18a9c459/) | Garrison, Theodosia Pickering, 1874-1944 | 章 | 13 | 37,818 |
+| 54254 | [Captain John's Adventures; or, The Story of a Fatherless Boy](../../../../b/53/53e4a369c88c/) | Anonymous | 章 | 10 | 37,815 |
+| 54255 | [The Art of Aubrey Beardsley](../../../../b/19/1958c56adcdc/) | Symons, Arthur, 1865-1945; Beardsley, Aubrey, 1872-1898 [Illustrator] | 篇 | 28 | 37,805 |
+| 54256 | [The Arts and Crafts Movement](../../../../b/89/89d61ab955de/) | Cobden-Sanderson, T. J. (Thomas James), 1840-1922 | 篇 | 1 | 37,805 |
+| 54257 | [College prolongs infancy](../../../../b/5a/5af291e1c4bc/) | Kallen, Horace Meyer, 1882-1974 | 章 | 7 | 37,804 |
+| 54258 | [Punch, or the London Charivari, Volume 103, September 3, 1892](../../../../b/2a/2aa1a466e7f2/) | Various | 篇 | 3 | 37,804 |
+| 54259 | [The garden of desire](../../../../b/20/20b32d4f41ce/) | Underwood, Edna Worthley, 1873-1961 | 章 | 63 | 37,793 |
+| 54260 | [The Great Round World and What Is Going On In It, Vol. 1, No. 17, March 4, 1897 A Weekly Magazine for Boys and Girls](../../../../b/9a/9a493c59ee4f/) | Various | 篇 | 4 | 37,778 |
+| 54261 | [Original letters and biographic epitomes](../../../../b/18/18cb6cefe73b/) | Slater, J. Atwood (John Atwood), 1857-1935 | 篇 | 7 | 37,772 |
+| 54262 | [Making a garden of perennials](../../../../b/a0/a0a92a1695ea/) | Egan, W. C. (William Constantine), 1841-1930 | 章 | 11 | 37,759 |
+| 54263 | [A Century of Roundels](../../../../b/65/655e09d0d2d6/) | Swinburne, Algernon Charles, 1837-1909 | 部分 | 2 | 37,755 |
+| 54264 | [An Address to the People of New-England Representing the very great importance of attaching the Indians to their interest, not only by treating them justly and kindly, but by using proper endeavours to settle Christianity among them](../../../../b/4b/4b58c3566f8e/) | Hopkins, Samuel, 1693-1755 | 篇 | 38 | 37,749 |
+| 54265 | [The Overman](../../../../b/8b/8b3af7a5bdda/) | Sinclair, Upton, 1878-1968 | 篇 | 1 | 37,742 |
+| 54266 | [The Unnecessary Man](../../../../b/83/83d29f5474ac/) | Garrett, Randall, 1927-1987; Martinez [Illustrator] | 篇 | 1 | 37,740 |
+| 54267 | [The Sleeping-Car: A Farce](../../../../b/3d/3d3c959bff16/) | Howells, William Dean, 1837-1920 | 章 | 3 | 37,739 |
+| 54268 | [Lyrics & Legends of Christmas-Tide](../../../../b/e2/e2a4e3fc30fa/) | Scollard, Clinton, 1860-1932 | 章 | 44 | 37,738 |
+| 54269 | [Zephyrs](../../../../b/b7/b74a8fbeb043/) | Stiles, Kate R. | 章 | 33 | 37,737 |
+| 54270 | [Love and tea: A comedy-drama of colonial times in two acts](../../../../b/80/80dea6e151e3/) | See, Anna Phillips | 幕 | 3 | 37,727 |
+| 54271 | [B. C. 30,000](../../../../b/92/92e5b1fce4bf/) | Meek, S. P. (Sterner St. Paul), 1894-1972 | 篇 | 1 | 37,722 |
+| 54272 | [Geological Contemporaneity and Persistent Types of Life](../../../../b/bd/bdfcf34d5bd4/) | Huxley, Thomas Henry, 1825-1895 | 篇 | 1 | 37,719 |
+| 54273 | [Hand Grenades: A handbook on rifle and hand grenades](../../../../b/57/57861040059e/) | Ainslie, Graham Montgomery, 1883-1949 [Compiler] | 章 | 8 | 37,710 |
+| 54274 | [The Triple Marriage](../../../../b/2f/2f8e519ce9c0/) | Destouches, Néricault, 1680-1754; Morlock, Frank J. [Translator] | 篇 | 5 | 37,706 |
+| 54275 | [Swenson, Dispatcher](../../../../b/bd/bd0c55cce2f0/) | Miller, R. De Witt (Richard De Witt), 1910-1958; Francis, Dick [Illustrator] | 章 | 4 | 37,704 |
+| 54276 | [The Ideal](../../../../b/78/786580c245b8/) | Weinbaum, Stanley G. (Stanley Grauman), 1902-1935 | 篇 | 1 | 37,702 |
+| 54277 | [The Princess and the Physicist](../../../../b/c7/c7153e7f5fba/) | Smith, Evelyn E., 1922-2000; Kossin, Sandy [Illustrator] | 篇 | 1 | 37,702 |
+| 54278 | ["Martin of Nitendi"; and The River of Dreams 1901](../../../../b/39/395103a2acb3/) | Becke, Louis, 1855-1913 | 篇 | 4 | 37,701 |
+| 54279 | [The Frost Spirit, and other poems Part 1 From Volume II of The Works of John Greenleaf Whittier](../../../../b/75/75b9fed3da3e/) | Whittier, John Greenleaf, 1807-1892 | 章 | 2 | 37,701 |
+| 54280 | [No food with my meals](../../../../b/5b/5b84ac8a8176/) | Hurst, Fannie, 1889-1968 | 篇 | 1 | 37,698 |
+| 54281 | [W. & R. Chambers' Catalogue. - 1897 Books Suitable for Prizes and Presentation](../../../../b/49/4996354ab9b2/) | W. & R. Chambers Ltd. | 章 | 3 | 37,691 |
+| 54282 | [How He Lied to Her Husband](../../../../b/81/8133f1517302/) | Shaw, Bernard, 1856-1950 | 篇 | 1 | 37,686 |
+| 54283 | [The Helpful Hand of God](../../../../b/76/76f256bbe3cc/) | Godwin, Tom, 1915-1980; Barberis [Illustrator] | 篇 | 1 | 37,682 |
+| 54284 | [His Unquiet Ghost 1911](../../../../b/1c/1ca769465e72/) | Craddock, Charles Egbert, 1850-1922 | 篇 | 1 | 37,679 |
+| 54285 | [The missionary](../../../../b/1a/1a7a1506f1eb/) | Bone, Jesse F. (Jesse Franklin), 1916-2006; Emshwiller, Ed, 1925-1990 [Illustrator] | 篇 | 1 | 37,673 |
+| 54286 | [Soldier Boy](../../../../b/e2/e207f657742e/) | Shaara, Michael, 1929?-1988; Emshwiller, Ed, 1925-1990 [Illustrator] | 篇 | 1 | 37,672 |
+| 54287 | [New Milford. A memorial discourse, delivered in the Congregational church, New Milford, Conn., Sunday, July 9, 1876](../../../../b/09/09a698b09c80/) | Bonar, J. B. (James Blair), 1826-1905 | 篇 | 1 | 37,658 |
+| 54288 | [The Music Master](../../../../b/be/be170b345309/) | Wallace, F. L. (Floyd L.), 1915-2004 | 篇 | 1 | 37,657 |
+| 54289 | [Battlefield Church, Salop: an historical and descriptive sketch Together with some account of the battle of Shrewsbury, and foundation of the college or chantry](../../../../b/3d/3d90dac1bf69/) | Fletcher, W. G. D. (William George Dimock), 1851-1935 | 章 | 14 | 37,655 |
+| 54290 | [The Boston Dip: A Comedy, in One Act](../../../../b/18/1860a1d09e99/) | Baker, George M. (George Melville), 1832-1890 | 章 | 2 | 37,653 |
+| 54291 | [How to Use and Enjoy Your New Frigidaire Refrigerator](../../../../b/df/df319e1029b5/) | General Motors Corporation. Frigidaire Division | 篇 | 7 | 37,639 |
+| 54292 | [The Nursery "Alice"](../../../../b/7d/7dc0b42758fd/) | Carroll, Lewis, 1832-1898; Tenniel, John, 1820-1914 [Illustrator]; Thomson, E. Gertrude (Emily Gertrude) [Illustrator] | 章 | 14 | 37,638 |
+| 54293 | [John Hus: A brief story of the life of a martyr](../../../../b/38/3833180e1409/) | Dallmann, William, 1862-1952 | 章 | 20 | 37,636 |
+| 54294 | [Punch, or the London Charivari, Vol. 108, May 18th, 1895](../../../../b/f7/f76ce85c43b3/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 4 | 37,635 |
+| 54295 | [The Great Round World and What Is Going On In It, Vol. 1, No. 33, June 24, 1897 A Weekly Magazine for Boys and Girls](../../../../b/ff/ff364ca6cc28/) | Various; Bishop, Julia Truitt [Editor] | 篇 | 2 | 37,628 |
+| 54296 | [Cartoons by Sir John Tenniel, Selected from the Pages of "Punch"](../../../../b/d1/d1eb8c6c62eb/) | Tenniel, John, 1820-1914 | 部分 | 2 | 37,616 |
+| 54297 | [A Statement: On the Future of This Church](../../../../b/96/964da520edc7/) | Holmes, John Haynes, 1879-1964 | 篇 | 28 | 37,613 |
+| 54298 | [The Nursery, Volume 17, No. 101, May, 1875 A Monthly Magazine for Youngest Readers](../../../../b/98/98f160c2d785/) | Various | 章 | 17 | 37,610 |
+| 54299 | [The Fly Leaf, No. 5, Vol. 1, April 1896](../../../../b/75/7584cdbfc236/) | Various; Harte, Walter Blackburn, 1867-1899 [Editor] | 章 | 4 | 37,610 |
+| 54300 | [Thoracic and Coracoid Arteries In Two Families of Birds, Columbidae and Hirundinidae](../../../../b/9f/9f530301a747/) | Jenkinson, Marion Anne | 章 | 15 | 37,609 |
+| 54301 | [The Church In Politics—Americans Beware!](../../../../b/d5/d5d95897e02d/) | Mangasarian, M. M. (Mangasar Mugurditch), 1859-1943 | 篇 | 1 | 37,599 |
+| 54302 | ["America for Americans!" The Typical American, Thanksgiving Sermon](../../../../b/04/04c2085bdd37/) | Newman, John Philip, 1826-1899 | 篇 | 36 | 37,598 |
+| 54303 | [Critical Miscellanies (Vol. 3 of 3), Essay 8: France in the Eighteenth Century](../../../../b/71/71a803602890/) | Morley, John, 1838-1923 | 篇 | 25 | 37,596 |
+| 54304 | [Government and Rebellion A Sermon Delivered in the North Broad Street Presbyterian Church, Sunday Morning, April 28, 1861](../../../../b/83/832c5a430135/) | Adams, E. E. (Ezra Eastman), 1813-1871 | 章 | 6 | 37,593 |
+| 54305 | [Index of the Project Gutenberg Works of Henry Fielding](../../../../b/71/71c6f36bf163/) | Fielding, Henry, 1707-1754; Widger, David, 1932-2021 [Editor] | 章 | 4 | 37,590 |
+| 54306 | [Punch, or the London Charivari, Volume 104, March 4, 1893](../../../../b/fe/fe5744711434/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 4 | 37,589 |
+| 54307 | [The Abenaki Indians Their Treaties of 1713 & 1717, and a Vocabulary](../../../../b/16/167a6a3a324d/) | Kidder, Frederic, 1804-1885 | 章 | 3 | 37,570 |
+| 54308 | [Silhouettes](../../../../b/47/47a68aaeecdc/) | Symons, Arthur, 1865-1945 | 篇 | 1 | 37,565 |
+| 54309 | [The Abergeldie Winter Book](../../../../b/0f/0f87c6e4567b/) | Riego de la Branchardière, Eléonore | 章 | 9 | 37,535 |
+| 54310 | [Pictorial Photography in America 1921](../../../../b/17/17c34f85b55a/) | Pictorial Photographers of America; Dow, Arthur W. (Arthur Wesley), 1857-1922 [Commentator]; Moore, Henry Hoyt [Commentator]; White, Clarence H., 1871-1925 [Commentator] | 章 | 3 | 37,526 |
+| 54311 | [The Flowers of Evil](../../../../b/8a/8a17c066e8a0/) | Baudelaire, Charles, 1821-1867; Scott, Cyril, 1879-1970 [Translator] | 章 | 53 | 37,525 |
+| 54312 | [San Francisco in Ruins A Pictorial History of Eight Score Photo-Views of the Earthquake Effects, Flames' Havoc, Ruins Everywhere, Relief Camps](../../../../b/6e/6ef15557f9df/) | Givens, J. D. (James David), 1863- [Illustrator]; Allison, A. M. [Editor] | 篇 | 9 | 37,524 |
+| 54313 | [The Discovery of America by the Northmen, 985-1015](../../../../b/77/77e2b4da5ac4/) | Slafter, Edmund F. (Edmund Farwell), 1816-1906 | 篇 | 1 | 37,517 |
+| 54314 | [Collected Articles of Frederick Douglass](../../../../b/89/89bf9653ad7d/) | Douglass, Frederick, 1818-1895 | 篇 | 34 | 37,516 |
+| 54315 | [Robert Louis Stevenson（#3814）](../../../../b/01/01ddc58996f2/) | Simpson, E. Blantyre (Evelyn Blantyre), 1856-1920 | 章 | 2 | 37,513 |
+| 54316 | [Geographic Variation in the Harvest Mouse, Reithrodontomys megalotis, On the Central Great Plains And in Adjacent Regions](../../../../b/e0/e0ef57732261/) | Jones, J. Knox, 1929-1992; Mursaloglu, B. | 篇 | 6 | 37,503 |
+| 54317 | [History of the United Netherlands, 1587c](../../../../b/d1/d17753065d54/) | Motley, John Lothrop, 1814-1877 | 篇 | 1 | 37,499 |
+| 54318 | [The Slavery Question Speech of Hon. John M. Landrum, of La., Delivered in the House of Representatives, April 27, 1860](../../../../b/5c/5cbecbdf1b50/) | Landrum, John M. (John Morgan), 1815-1861 | 章 | 2 | 37,496 |
+| 54319 | [Big Pill](../../../../b/7d/7d52d1d78ec7/) | Gallun, Raymond Z. (Raymond Zinke), 1911-1994 | 篇 | 1 | 37,496 |
+| 54320 | [The Life of Col. James Gardiner](../../../../b/b5/b5f437f1526c/) | Religious Tract Society (Great Britain) | 篇 | 1 | 37,490 |
+| 54321 | [The Nursery, No. 107, November, 1875, Vol. XVIII. A Monthly Magazine for Youngest Readers](../../../../b/44/444bcfcfb7f4/) | Various | 章 | 13 | 37,489 |
+| 54322 | [A Vision of Venus; Or, A Midsummer-Night's Nightmare](../../../../b/8d/8d1d7546c818/) | Pleon, Harry | 幕 | 2 | 37,489 |
+| 54323 | [The Observers](../../../../b/e3/e363cd0478d8/) | Vandenburg, G. L. | 篇 | 1 | 37,489 |
+| 54324 | [The radio cop](../../../../b/d7/d7426433fa96/) | Whitman, Vic (Victor Sargent), 1901-1981; Soto, Rafael M. de, 1904-1992 [Illustrator] | 章 | 6 | 37,485 |
+| 54325 | [In Madeira Place 1887](../../../../b/97/9706664e693f/) | Chaplin, Heman White, 1847-1924 | 篇 | 1 | 37,484 |
+| 54326 | [A Child's Garden of Verses（#25610）](../../../../b/94/94494e755602/) | Stevenson, Robert Louis, 1850-1894; Robinson, Charles, 1870-1937 [Illustrator] | 章 | 61 | 37,482 |
+| 54327 | [Minna and Myself](../../../../b/86/86c7ea562475/) | Bodenheim, Maxwell, 1893-1954; Hecht, Ben, 1894-1964 [Contributor] | 章 | 4 | 37,481 |
+| 54328 | [The revolt in Arabia](../../../../b/69/690f0fff9241/) | Snouck Hurgronje, C. (Christiaan), 1857-1936; Gottheil, Richard J. H. (Richard James Horatio), 1862-1936 [Author of introduction, etc.] | 章 | 7 | 37,464 |
+| 54329 | [The Star of Satan](../../../../b/a9/a9fc7378ec04/) | Hasse, Henry, 1913-1977; Bok, Hannes, 1914-1964 [Illustrator] | 篇 | 1 | 37,462 |
+| 54330 | [Carnac's Folly, Volume 2.](../../../../b/73/7302249d1798/) | Parker, Gilbert, 1862-1932 | 篇 | 3 | 37,460 |
+| 54331 | [Volpla](../../../../b/eb/eb4db5735a23/) | Guin, Wyman, 1915-1989; Francis, Dick [Illustrator] | 篇 | 1 | 37,457 |
+| 54332 | [Object: matrimony](../../../../b/48/483bd4fbf09e/) | Glass, Montague, 1877-1934 | 章 | 6 | 37,455 |
+| 54333 | [The Fantasy Fan, Volume 1, Number 10, June 1934 The Fan's Own Magazine](../../../../b/a6/a65769cfd8c4/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 篇 | 5 | 37,451 |
+| 54334 | [The Supply at Saint Agatha's](../../../../b/e4/e40acdc53e00/) | Phelps, Elizabeth Stuart, 1844-1911; Smith, E. Boyd (Elmer Boyd), 1860-1943 [Illustrator]; Woodbury, Marcia Oakes, 1865-1913 [Illustrator] | 篇 | 1 | 37,451 |
+| 54335 | [Subspeciation in the Meadow Mouse, Microtus pennsylvanicus, in Wyoming, Colorado, and Adjacent Areas](../../../../b/44/44e303b466d3/) | Anderson, Sydney, 1927-2018 | 篇 | 31 | 37,449 |
+| 54336 | [Fifty Per Cent Prophet](../../../../b/06/065ff80232bd/) | Garrett, Randall, 1927-1987; Schoenherr, John, 1935-2010 [Illustrator] | 篇 | 1 | 37,439 |
+| 54337 | [Hitchhiker's Guide to the Internet](../../../../b/aa/aaa1273100b9/) | Krol, Ed, 1951- | 篇 | 20 | 37,429 |
+| 54338 | [Fifty-fifty with Bonnie](../../../../b/e2/e28f7dd8a270/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 37,429 |
+| 54339 | [Easy to Make Fashions: from Rochelle's Mohlon Orlon Acrylic Fiber. Volume B22.](../../../../b/93/93172c5458c2/) | Anonymous | 章 | 6 | 37,428 |
+| 54340 | [The Past and the Present Condition, and the Destiny, of the Colored Race: A Discourse Delivered at the Fifteenth Anniversary of the Female Benevolent Society of Troy, N. Y., Feb. 14, 1848](../../../../b/ca/cac8cb9ca184/) | Garnet, Henry Highland, 1815-1882; New York Female Benevolent Society [Other] | 篇 | 1 | 37,428 |
+| 54341 | [A Christmas Story Man in His Element: or, A New Way to Keep House](../../../../b/65/655908ec2357/) | Francis, Samuel W. (Samuel Ward), 1835-1886 | 章 | 2 | 37,423 |
+| 54342 | [Begin to Knit All the Basic Stitches; Easy Novelty Stitches; Quick Things to Make](../../../../b/e1/e1bc563f8999/) | American Thread Company | 章 | 24 | 37,421 |
+| 54343 | [The Baritone's Parish; or, "All Things to All Men"](../../../../b/61/61ca71ab014e/) | Ludlow, James M. (James Meeker), 1841-1932 | 篇 | 1 | 37,414 |
+| 54344 | [Sylvia](../../../../b/2b/2b05bfa8edd2/) | Adams, Adeline, 1859-1948 | 章 | 8 | 37,413 |
+| 54345 | [The Mirror of Literature, Amusement, and Instruction. Volume 12, No. 349, Supplement to Volume 12.](../../../../b/c4/c4fd7584cea8/) | Various | 篇 | 4 | 37,413 |
+| 54346 | [The Bakchesarian Fountain and Other Poems](../../../../b/36/3697398dfd2e/) | Pushkin, Aleksandr Sergeevich, 1799-1837 [Contributor]; Derzhavin, Gavriil Romanovich, 1743-1816 [Contributor] | 篇 | 41 | 37,410 |
+| 54347 | [Report of the National Library Service for the Year Ended 31 March 1958](../../../../b/7a/7a4328822c40/) | New Zealand. National Library Service | 章 | 5 | 37,409 |
+| 54348 | [The sky sheriff: The pioneer spirit lives again in the Texas Airplane Patrol](../../../../b/fc/fcb0e4fe894d/) | Burtis, Thomson, 1896-1971; Rosenmeyer, Bernard J., 1870-1943 [Illustrator] | 篇 | 1 | 37,409 |
+| 54349 | [Transfer Point](../../../../b/70/7008f4e529ca/) | Boucher, Anthony, 1911-1968; Pierre, Paul [Illustrator] | 篇 | 1 | 37,404 |
+| 54350 | [Punch, or The London Charivari, Vol. 62, January 20, 1872](../../../../b/1f/1fd876f4b10c/) | Various | 篇 | 4 | 37,402 |
+| 54351 | [Nibsy's Christmas](../../../../b/b3/b3d08f1e2d37/) | Riis, Jacob A. (Jacob August), 1849-1914 | 篇 | 3 | 37,400 |
+| 54352 | [The Philistine: a periodical of protest (Vol. III, No. 2, July 1896)](../../../../b/86/862389df52c4/) | Various; Hubbard, Elbert, 1856-1915 [Editor] | 章 | 13 | 37,396 |
+| 54353 | [Color](../../../../b/93/9394a33524e6/) | Cullen, Countee, 1903-1946 | 章 | 73 | 37,385 |
+| 54354 | [Beyond Light](../../../../b/a5/a557c956a2be/) | Bond, Nelson S., 1908-2006; Morey, Leo, 1889-1965 [Illustrator] | 篇 | 1 | 37,383 |
+| 54355 | [The Tapestried Chamber, and Death of the Laird's Jock](../../../../b/f1/f1711b51fcc0/) | Scott, Walter, 1771-1832 | 章 | 2 | 37,380 |
+| 54356 | [The Story of Scotch](../../../../b/6c/6c42fc4a91de/) | Mills, Enos A., 1870-1922 | 章 | 6 | 37,367 |
+| 54357 | [Oxford poetry, 1918](../../../../b/8d/8d82dfb418fb/) | Earp, T. W. (Thomas Wade), 1892-1958 [Editor]; Geach, E. F. A. [Editor]; Sayers, Dorothy L. (Dorothy Leigh), 1893-1957 [Editor] | 章 | 2 | 37,362 |
+| 54358 | ["The curse of drink"](../../../../b/ed/ed1ecfa0da2c/) | Tuttle, W. C. (Wilbur C.), 1883-1969; Warren, Jack [Illustrator] | 篇 | 1 | 37,362 |
+| 54359 | [Graveyard of Dreams](../../../../b/95/95a8317d66e9/) | Piper, H. Beam, 1904-1964 | 篇 | 3 | 37,352 |
+| 54360 | [The harp-weaver, and other poems](../../../../b/67/671c8b4fb179/) | Millay, Edna St. Vincent, 1892-1950 | 章 | 5 | 37,341 |
+| 54361 | [Punch, or the London Charivari, Volume 104, February 4, 1893](../../../../b/cf/cf182b4d7274/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 4 | 37,337 |
+| 54362 | [A Child's Garden of Verses（#28722）](../../../../b/57/570f3a4134af/) | Stevenson, Robert Louis, 1850-1894; Kirk, Maria Louise, 1860-1938 [Illustrator] | 章 | 64 | 37,333 |
+| 54363 | [Punch, or the London Charivari, Vol. 105, August 12th 1893](../../../../b/6c/6c4e3a15d381/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 7 | 37,333 |
+| 54364 | [Morality Without God A Lecture Delivered Before the Independent Religious Society](../../../../b/c7/c7bf305ea93b/) | Mangasarian, M. M. (Mangasar Mugurditch), 1859-1943 | 篇 | 1 | 37,331 |
+| 54365 | [The overlord's thumb](../../../../b/37/37e6fdfd946f/) | Silverberg, Robert, 1935-; Bowman, Bill [Illustrator] | 篇 | 1 | 37,328 |
+| 54366 | [Twenty Unsettled Miles in the Northeast Boundary [From the Report of the Council of the American Antiquarian Society, presented at the Annual Meeting held in Worcester, October 21, 1896]](../../../../b/0d/0d894d680bc4/) | Mendenhall, Thomas C. (Thomas Corwin), 1841-1924 | 篇 | 21 | 37,325 |
+| 54367 | [The air splasher](../../../../b/8a/8a3b9a182200/) | Watkins, Richard Howells | 篇 | 1 | 37,318 |
+| 54368 | [The Great Round World and What Is Going On In It, Vol. 1, No. 42, August 26, 1897 A Weekly Magazine for Boys and Girls](../../../../b/39/39a732ef4329/) | Various; Bishop, Julia Truitt [Editor] | 篇 | 5 | 37,297 |
+| 54369 | [Buzz a Buzz; Or, The Bees](../../../../b/f7/f7875305ebea/) | Busch, Wilhelm, 1832-1908; Cotton, William Charles, 1813-1879 [Translator] | 篇 | 10 | 37,295 |
+| 54370 | [The Trawler](../../../../b/ce/ceec885bd291/) | Connolly, James B. (James Brendan), 1868-1957 | 章 | 5 | 37,295 |
+| 54371 | [An Easter Disciple: The Chronicle of Quintus, the Roman Knight](../../../../b/68/68703bc7184b/) | Sanford, Arthur Benton, 1851-1933 | 章 | 6 | 37,294 |
+| 54372 | [English Church Architecture of the Middle Ages: An Elementary Handbook](../../../../b/11/11f002c2ca8c/) | Smith, A. Freeman, 1847-1932 | 篇 | 14 | 37,293 |
+| 54373 | [Making a Tennis Court](../../../../b/02/025f2c4747a2/) | Walsh, George E. | 章 | 8 | 37,292 |
+| 54374 | [The Christmas Dinner](../../../../b/f4/f4143691a618/) | Knapp, Shepherd, 1873-1946 | 篇 | 7 | 37,286 |
+| 54375 | [The Ambulance Made Two Trips](../../../../b/a7/a7e3d7b22532/) | Leinster, Murray, 1896-1975; Schoenherr, John, 1935-2010 [Illustrator] | 篇 | 1 | 37,282 |
+| 54376 | [Anthropology（#74049）](../../../../b/ec/ec0ba83ee7df/) | Boas, Franz, 1858-1942 | 篇 | 1 | 37,282 |
+| 54377 | [Sonnets and Poems](../../../../b/ba/ba0edb848286/) | Farjeon, Eleanor, 1881-1965 | 章 | 27 | 37,281 |
+| 54378 | [Dr. Hardhack's Prescription: A Play for Children in Four Acts](../../../../b/e2/e2168416d5d3/) | Rice, K. McDowell (Katharine McDowell); Stowe, Harriet Beecher, 1811-1896 | 幕 | 4 | 37,281 |
+| 54379 | [The Poems of Schiller — Second period](../../../../b/a6/a645e36266e8/) | Schiller, Friedrich, 1759-1805 | 篇 | 40 | 37,275 |
+| 54380 | [Home Range and Movements of the Eastern Cottontail in Kansas](../../../../b/3e/3e3850be9b09/) | Janes, Donald W. | 篇 | 9 | 37,272 |
+| 54381 | [Bessbrook and Its Linen Mills: A Short Narrative of a Model Temperance Town](../../../../b/48/48f6b36c3797/) | Ritchie, J. Ewing (James Ewing), 1820-1898 | 篇 | 27 | 37,259 |
+| 54382 | [A Short Discourse Concerning Pestilential Contagion, and the Methods to Be Used to Prevent It](../../../../b/08/087c27c48b24/) | Mead, Richard, 1673-1754 | 章 | 2 | 37,256 |
+| 54383 | [The Philistine（#71846）](../../../../b/17/17aa9502fed8/) | Various; Hubbard, Elbert, 1856-1915 [Editor] | 章 | 12 | 37,255 |
+| 54384 | [The Kansas University Science Bulletin, Vol. I, No. 2, February, 1902](../../../../b/7c/7c40d050d434/) | Various | 篇 | 1 | 37,249 |
+| 54385 | [The Final Figure](../../../../b/f4/f4c0290bd49e/) | Merwin, Sam, Jr., 1910-1996; Orban, Paul, 1896-1974 [Illustrator] | 篇 | 1 | 37,249 |
+| 54386 | [An epitome of astronomy, with the new discoveries including an account of the eídouraníon, or transparent orrery](../../../../b/4b/4b3de06dde27/) | Walker, William, 1766?-1816; Walker, A. (Adam), 1731?-1821 [Contributor] | 章 | 12 | 37,242 |
+| 54387 | [Punch, or the London Charivari, Vol. 62, Jan 13, 1872](../../../../b/2f/2fe7725954dd/) | Various | 篇 | 7 | 37,239 |
+| 54388 | [Willow Pollen](../../../../b/70/70be0c9b8766/) | Marks, Jeannette Augustus, 1875-1964 | 章 | 65 | 37,235 |
+| 54389 | [Glaciers of the Rockies and Selkirks, 2nd. ed. With Notes on Five Great Glaciers of the Canadian National Parks](../../../../b/1f/1f7fa987d21b/) | Coleman, A. P. (Arthur Philemon), 1852-1939; Wheeler, A. O. (Arthur Oliver), 1860-1945 [Contributor] | 篇 | 3 | 37,232 |
+| 54390 | [Laugh and play](../../../../b/fc/fcccfe07168a/) | Hardy, E. Stuart, 1865-1935 [Illustrator] | 篇 | 1 | 37,232 |
+| 54391 | [To the lights](../../../../b/60/60abe4e27ace/) | Norton, Roy, 1869-1942 | 篇 | 1 | 37,231 |
+| 54392 | [Punch, or the London Charivari, Volume 104, January 7, 1893](../../../../b/29/29833f7b8503/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 6 | 37,228 |
+| 54393 | [Briefless Ballads and Legal Lyrics Second Series](../../../../b/34/34e082c134ee/) | Williams, James, 1851-1911 | 章 | 3 | 37,224 |
+| 54394 | [Charity Case](../../../../b/13/1390bf4382cb/) | Harmon, Jim, 1933-2010; Francis, Dick [Illustrator] | 篇 | 1 | 37,224 |
+| 54395 | [Omaha Dwellings, Furniture and Implements Thirteenth Annual Report of the Beaurau of American Ethnology to the Secretary of the Smithsonian Institution 1891-1892, Government Printing Office, Washington, 1896, pages 263-288](../../../../b/ac/ac2c441da080/) | Dorsey, James Owen, 1848-1895 | 章 | 31 | 37,217 |
+| 54396 | [The Negro as a soldier](../../../../b/e4/e4912de6cad4/) | Fleetwood, Christian A. (Christian Abraham), 1840-1914 | 篇 | 4 | 37,211 |
+| 54397 | [The Forests of Mount Rainier National Park](../../../../b/13/135365ce2793/) | Allen, G. F. (Grenville F.), 1865-1924; United States. Department of the Interior [Other]; United States. Forest Service [Other] | 篇 | 3 | 37,208 |
+| 54398 | [The Acts of Uniformity: Their Scope and Effect](../../../../b/67/67021e5cb364/) | Lacey, T. A. (Thomas Alexander), 1853-1931 | 篇 | 1 | 37,208 |
+| 54399 | [The Little Pets of Arkkhan](../../../../b/01/01dd95fb6fcd/) | Garson, Bill, 1917-2000; Vestal, Herman B., 1916-2007 [Illustrator] | 篇 | 1 | 37,205 |
+| 54400 | [Punch, or the London Charivari, January 12th, 1895](../../../../b/2a/2aff86490ecd/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 3 | 37,198 |
+| 54401 | [Rhymes of a Roughneck](../../../../b/55/55934a5b2344/) | Cotter, Frank J., 1878-1948 | 章 | 18 | 37,197 |
+| 54402 | [Do the Dead Return? A True Story of Startling Seances in San Francisco](../../../../b/82/824463865992/) | Anonymous | 章 | 4 | 37,193 |
+| 54403 | [The Psilent Partner](../../../../b/a7/a74c7cb7240b/) | Staub, Edward S.; Peterson, John Victor | 章 | 6 | 37,188 |
+| 54404 | [The Fantasy Fan, November 1933 The Fans' Own Magazine](../../../../b/60/60249d7537f8/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 篇 | 8 | 37,182 |
+| 54405 | [The Adventure of the Cardboard Box](../../../../b/6c/6c1554f77b74/) | Doyle, Arthur Conan, 1859-1930 | 篇 | 1 | 37,178 |
+| 54406 | [University of California Library Handbook 1918-1919](../../../../b/d9/d98c24d25042/) | University of California (1868-1952). Library | 章 | 6 | 37,177 |
+| 54407 | [The Great Round World And What Is Going On In It, Vol. 1, No. 24, April 22, 1897 A Weekly Magazine for Boys and Girls](../../../../b/a7/a7ce48a0ca13/) | Various; Bishop, Julia Truitt [Editor] | 章 | 10 | 37,155 |
+| 54408 | [Examination of the Rev. Mr. Harris's scriptural researches on the licitness of the slave trade](../../../../b/85/85ff7c7fdc64/) | Ramsay, James, 1733-1789 | 篇 | 1 | 37,154 |
+| 54409 | [Selections from Cassell & Company](../../../../b/91/9130ab632c1f/) | Cassell & Company | 章 | 12 | 37,150 |
+| 54410 | [Women's wages](../../../../b/a4/a40e5f1eb624/) | Smart, William, 1853-1915 | 篇 | 1 | 37,144 |
+| 54411 | [Directions for Cooking by Troops, in Camp and Hospital Prepared for the Army of Virginia, and published by order of the Surgeon General, with essays on "taking food," and "what food."](../../../../b/97/97b60297a4c8/) | Nightingale, Florence, 1820-1910 | 章 | 8 | 37,141 |
+| 54412 | [The Grand Cañon of the Colorado](../../../../b/a1/a16b51d162b6/) | Muir, John, 1838-1914 | 篇 | 38 | 37,140 |
+| 54413 | [Thief of Mars](../../../../b/bb/bbd6dfbefff4/) | Hasse, Henry, 1913-1977; Bok, Hannes, 1914-1964 [Illustrator] | 篇 | 1 | 37,140 |
+| 54414 | [Ruffled Doilies](../../../../b/8c/8c442130aea9/) | American Thread Company | 篇 | 5 | 37,130 |
+| 54415 | [The Golden Threshold](../../../../b/ee/ee91e5650a7b/) | Naidu, Sarojini, 1879-1949; Symons, Arthur, 1865-1945 [Contributor] | 章 | 37 | 37,116 |
+| 54416 | [Moral Equivalent](../../../../b/fc/fc0edec74cc2/) | Neville, Kris, 1925-1980; Francis, Dick [Illustrator] | 篇 | 1 | 37,115 |
+| 54417 | [Ladies' old-fashioned shoes](../../../../b/76/761ae086d5da/) | Greig, T. Watson (Thomas Watson), 1837-1912 | 章 | 8 | 37,113 |
+| 54418 | [Vampires of Space](../../../../b/a3/a374f529b228/) | Wright, Sewell Peaslee, 1897-1970 | 篇 | 1 | 37,113 |
+| 54419 | [The Prince and the Pauper, Part 5.](../../../../b/71/715d9033b767/) | Twain, Mark, 1835-1910 | 篇 | 3 | 37,111 |
+| 54420 | [The Fly Leaf, No. 3, Vol. 1, February 1896 A Pamphlet Periodical of the New—the New Man, New Woman, New Ideas, Whimsies and Things](../../../../b/dc/dc707ded6b89/) | Various; Harte, Walter Blackburn, 1867-1899 [Editor] | 章 | 3 | 37,108 |
+| 54421 | [The Mirror of Literature, Amusement, and Instruction. Volume 19, No. 555, Supplementary Number](../../../../b/9d/9da44480d1f1/) | Various | 章 | 2 | 37,098 |
+| 54422 | [Songs of Womanhood](../../../../b/4e/4ecb013906e1/) | Alma-Tadema, Laurence, 1865?-1940 | 章 | 69 | 37,094 |
+| 54423 | [Christmas at Punkin Holler](../../../../b/db/db196a462acf/) | Guptill, Elizabeth F. (Elizabeth Frances), 1870- | 篇 | 1 | 37,094 |
+| 54424 | [The Mentor: The Mediterranean, Vol. 1, Num. 39, Serial No. 39, November 10, 1913](../../../../b/b3/b32de4bf67f4/) | Elmendorf, Dwight L. (Dwight Lathrop), 1859-1929 | 篇 | 17 | 37,093 |
+| 54425 | [A Collection of Seven and Fifty approved Receipts Good against the Plague Taken out of the five books of that renowned Dr. Don Alexes secrets, for the benefit of the poorer sort of people of these nations.](../../../../b/bc/bcc5b669fa7d/) | W. J.; Alessio, Piemontese, 1471?- | 章 | 56 | 37,091 |
+| 54426 | [Hair-Trigger Hollibaugh](../../../../b/e2/e28e34723e79/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 37,090 |
+| 54427 | [Punch, or the London Charivari, Volume 102, June 4, 1892](../../../../b/5f/5f6a6d07f83c/) | Various | 篇 | 6 | 37,084 |
+| 54428 | [The celestial blueprint](../../../../b/01/018d10fc19c0/) | Farmer, Philip José, 1918-2009 | 篇 | 4 | 37,084 |
+| 54429 | [Greasy luck](../../../../b/4c/4c4ecb6afb31/) | Grant, Gordon, 1875-1962; McFee, William, 1881-1966 [Author of introduction, etc.] | 章 | 17 | 37,080 |
+| 54430 | [A True Account of the Voyage of the Nottingham-Galley of London, John Dean Commander, from the River Thames to New-England](../../../../b/c0/c03fd05d0b49/) | Langman, Christopher; Mellen, Nicholas; White, George, sailor on the Nottingham galley | 篇 | 1 | 37,076 |
+| 54431 | [The Fantasy Fan, Volume 2, Number 4, December 1934](../../../../b/31/3182873e3a2f/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 篇 | 1 | 37,074 |
+| 54432 | [History of the United Netherlands, 1592](../../../../b/b2/b2109474b1c2/) | Motley, John Lothrop, 1814-1877 | 篇 | 1 | 37,074 |
+| 54433 | [The Philistine（#68405）](../../../../b/15/152429a35cc4/) | Various; Taber, Harry Persons, 1865-1951 [Editor] | 章 | 6 | 37,073 |
+| 54434 | [Madmen of Mars](../../../../b/3b/3b96175b2720/) | Fennel, Erik; Elkan, Max, 1918-2000 [Illustrator] | 篇 | 1 | 37,069 |
+| 54435 | [Punch, or the London Charivari, Volume 99, September 13, 1890](../../../../b/3d/3d11071b73bc/) | Various | 篇 | 5 | 37,048 |
+| 54436 | [Traditional Nursery Songs of England, With Pictures by Eminent Modern Artists](../../../../b/5c/5c846d396cb8/) | Cole, Henry, 1808-1882 [Editor] | 章 | 6 | 37,043 |
+| 54437 | [As a man thinketh](../../../../b/8a/8ade0f99af21/) | Allen, James, 1864-1912 | 章 | 7 | 37,033 |
+| 54438 | [Harper's Young People, 1882 Index An Illustrated Weekly](../../../../b/cd/cd57ac8ff64e/) | Various | 篇 | 27 | 37,030 |
+| 54439 | [The Great Round World and What Is Going On In It, Vol. 1, No. 16, February 25, 1897 A Weekly Magazine for Boys and Girls](../../../../b/d4/d42874e7b91c/) | Various | 篇 | 10 | 37,029 |
+| 54440 | [The town down the river](../../../../b/8f/8f02f7f0f7da/) | Robinson, Edwin Arlington, 1869-1935 | 章 | 35 | 37,024 |
+| 54441 | [The Uses of Italic A Primer of Information Regarding the Origin and Uses of Italic Letters](../../../../b/eb/eb54cfdde550/) | Hamilton, Frederick W. (Frederick William), 1860-1940 | 章 | 10 | 37,015 |
+| 54442 | [A Short List of the Publications of E. & F. N. Spon, Ltd. June 1901](../../../../b/a3/a31188123ba7/) | E. & F. N. Spon | 部分 | 2 | 37,011 |
+| 54443 | [The Sardonic Arm](../../../../b/8a/8a2c439ea661/) | Bodenheim, Maxwell, 1893-1954 | 章 | 10 | 36,986 |
+| 54444 | [Punch, or the London Charivari, Volume 104, January 21, 1893](../../../../b/fe/fe629889cae2/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 章 | 11 | 36,981 |
+| 54445 | [A.B.C. of Snap Shooting: Sporting, Exhibition, and Military](../../../../b/fb/fbadb73e37f1/) | Fletcher, Horace, 1849-1919 | 篇 | 5 | 36,978 |
+| 54446 | [Observations on the new constitution, and on the Federal and State conventions, by a Columbian patriot](../../../../b/15/159390c9e16b/) | Warren, Mercy Otis, 1728-1814; Towner, Lawrence W. (Lawrence William), 1921-1992 [Author of introduction, etc.]; Gerry, Elbridge, 1744-1814 [Dubious author] | 篇 | 14 | 36,976 |
+| 54447 | [The stainless steel rat（#70034）](../../../../b/d9/d9ac344fbea2/) | Harrison, Harry, 1925-2012; Freas, Kelly, 1922-2005 [Illustrator] | 篇 | 1 | 36,965 |
+| 54448 | [Consolation in Life and Death, Derived from the Life of Christ Being the substance of a sermon on the death of Mrs. Turner, preached at the Surrey Tabernacle, on Sunday evening, the 15th of August, 1824](../../../../b/5f/5f7c2021ae35/) | Church, J. (John), 1780?-1825? | 篇 | 23 | 36,961 |
+| 54449 | [Artful Anticks](../../../../b/6d/6d00a41b9b97/) | Herford, Oliver, 1863-1935 | 章 | 5 | 36,959 |
+| 54450 | [A time to die](../../../../b/49/49fe4614b795/) | Calin, Harold; Finlay, Virgil, 1914-1971 [Illustrator] | 篇 | 1 | 36,957 |
+| 54451 | [The penultimate trump](../../../../b/6c/6c8294d18c0d/) | Ettinger, R. C. W. (Robert C. W.), 1918-2011 | 篇 | 1 | 36,955 |
+| 54452 | [Olof Krarer, the Esquimaux Lady: A Story of Her Native Home](../../../../b/e8/e8f85d590843/) | Krarer, Olof, 1858-1935; Post, Albert S. [Editor] | 章 | 2 | 36,946 |
+| 54453 | [A Day Well Spent: A Farce, in One Act](../../../../b/d9/d97720e1f18e/) | Oxenford, John, 1812-1877 | 篇 | 11 | 36,935 |
+| 54454 | [The Beldonald Holbein](../../../../b/1d/1d5195d02036/) | James, Henry, 1843-1916 | 章 | 5 | 36,921 |
+| 54455 | [Gravy Train](../../../../b/e0/e024f391b327/) | Galouye, Daniel F., 1920-1976; Wood, Wallace, 1927-1981 [Illustrator] | 篇 | 3 | 36,894 |
+| 54456 | [The Great Round World and What Is Going On In It, Vol. 1, No. 39, August 5, 1897 A Weekly Magazine for Boys and Girls](../../../../b/7c/7c6da2aa166e/) | Various; Bishop, Julia Truitt [Editor] | 篇 | 5 | 36,879 |
+| 54457 | [New Tablecloths](../../../../b/13/13be0726d23c/) | American Thread Company | 篇 | 13 | 36,878 |
+| 54458 | [The Mentor: The Revolution, Vol. 1, Num. 43, Serial No. 43 The Story of America in Pictures](../../../../b/19/193d5ea56912/) | Hart, Albert Bushnell, 1854-1943 | 篇 | 14 | 36,874 |
+| 54459 | [The Life of Saint Columba, Abbot, and Apostle of the Northern Picts](../../../../b/2e/2ee35d3b06f1/) | Anonymous | 章 | 4 | 36,865 |
+| 54460 | [Fugitive Slave Law The Religious Duty of Obedience to Law : A Sermon by Ichabod S. Spencer Preached In The Second Presbyterian Church In Brooklyn, Nov. 24, 1850](../../../../b/f2/f266613b07e2/) | Spencer, Ichabod S. (Ichabod Smith), 1798-1854 | 篇 | 1 | 36,863 |
+| 54461 | [Speech of Mr. Cushing, of Massachusetts, on the Right of Petition, as Connected with Petitions for the Abolition of Slavery and the Slave Trade in the District of Columbia. In The House Of Representatives, January 25, 1836.](../../../../b/8f/8fdb294754d7/) | Cushing, Caleb, 1800-1879 | 篇 | 1 | 36,859 |
+| 54462 | [The Inner Beauty](../../../../b/a4/a4c3156749bb/) | Maeterlinck, Maurice, 1862-1949 | 篇 | 3 | 36,848 |
+| 54463 | [Punch, Or The London Charivari, Volume 102, March 26, 1892](../../../../b/dc/dcbb98bc6bb0/) | Various | 篇 | 5 | 36,843 |
+| 54464 | [Arms and Armor of the Pilgrims, 1620-1692](../../../../b/fc/fc53f1b06f9b/) | Peterson, Harold L. (Harold Leslie), 1922-1978 | 篇 | 7 | 36,838 |
+| 54465 | [Narrative of the Life and Adventures of Paul Cuffe, a Pequot Indian, During Thirty Years Spent at Sea, and in Travelling in Foreign Lands](../../../../b/12/1295e092e873/) | Cuffe, Paul, 1796?- | 篇 | 1 | 36,836 |
+| 54466 | [The psychology of the criminal](../../../../b/80/80d23c03458c/) | Markun, Leo, 1901-1932; Haldeman-Julius, E. (Emanuel), 1888-1951 [Editor] | 篇 | 4 | 36,832 |
+| 54467 | [From an Unseen Censor](../../../../b/f8/f89087d88d1e/) | Brown, Rosel George, 1926-1967; Dillon, Diane, 1933- [Illustrator]; Dillon, Leo, 1933-2012 [Illustrator] | 篇 | 1 | 36,830 |
+| 54468 | [Index of the Project Gutenberg works of Thomas Carlyle](../../../../b/4a/4af3c62c86aa/) | Carlyle, Thomas, 1795-1881; Widger, David, 1932-2021 [Editor] | 章 | 21 | 36,818 |
+| 54469 | [Bilingualism: Address delivered before the Quebec Canadian Club At Quebec, Tuesday, March 28th, 1916](../../../../b/1f/1f7ecb2c18a2/) | Belcourt, N. A. (Napoléon-Antoine), 1860-1932 | 篇 | 1 | 36,818 |
+| 54470 | [One Day More: A Play In One Act](../../../../b/1c/1ceb9aa67d48/) | Conrad, Joseph, 1857-1924 | 篇 | 1 | 36,811 |
+| 54471 | [If You Was a Moklin](../../../../b/a2/a2ac0763f58f/) | Leinster, Murray, 1896-1975; Rosenbaum, Harry [Illustrator] | 篇 | 1 | 36,807 |
+| 54472 | [Sweet Clover: Harvesting and Thrashing the Seed Crop](../../../../b/63/63e0809e889d/) | Coe, H. S., 1888-1918 | 章 | 8 | 36,806 |
+| 54473 | [133 Quicker Ways to Homemade, with Bisquick](../../../../b/d5/d572968556e4/) | Crocker, Betty | 篇 | 47 | 36,786 |
+| 54474 | [Waiting for an Omnibus in the Lowther Arcade on a Rainy Day: A Farce, in One Act](../../../../b/21/214da2aac4e1/) | Morton, John Maddison, 1811-1891 | 篇 | 8 | 36,783 |
+| 54475 | [The Only True Mother Goose Melodies Without Addition or Abridgement](../../../../b/25/25796ba1aa94/) | Unknown | 篇 | 11 | 36,776 |
+| 54476 | [The Salabue Stradivari](../../../../b/ce/ce0d6336c311/) | W.E. Hill & Sons; Harrison, Robert, 1820-1897 [Editor]; Slocombe, Shirley [Illustrator] | 章 | 5 | 36,772 |
+| 54477 | [Frank Reynolds, R.I.](../../../../b/07/076633015ff8/) | Johnson, A. E. (Alfred Edwin), 1879- | 篇 | 6 | 36,769 |
+| 54478 | [The House Fly and How to Suppress It](../../../../b/e4/e4c7f6441606/) | Howard, L. O. (Leland Ossian), 1857-1950; Bishopp, F. C. (Fred Corry), 1884-1970 | 章 | 18 | 36,761 |
+| 54479 | [Soldier Songs and Love Songs](../../../../b/dd/ddfe79730fe2/) | Laidlaw, A. H. (Alexander Hamilton), 1869-1908 | 章 | 36 | 36,758 |
+| 54480 | [The Mound Builders](../../../../b/ac/acd636d609af/) | Bryce, George, 1844-1931 | 篇 | 29 | 36,756 |
+| 54481 | [A Matter of Taste](../../../../b/c6/c61f68ac64ec/) | Stecher, L. J., Jr., 1918-1988; Ritter, Bob [Illustrator] | 篇 | 1 | 36,753 |
+| 54482 | [Out Around Rigel](../../../../b/6c/6c2e21e878ff/) | Wilson, Robert H., 1909-1998 | 篇 | 1 | 36,749 |
+| 54483 | [The Scriptures able to make us wise unto salvation](../../../../b/c2/c26b514394c8/) | Berrick, F. H. (Francis H.), 1823-1897 | 章 | 3 | 36,748 |
+| 54484 | [How to write Little Blue Books](../../../../b/57/5741dddd24cf/) | Smith, Lloyd E. (Lloyd Edwin), 1902-1971; Haldeman-Julius, E. (Emanuel), 1888-1951 [Editor] | 篇 | 7 | 36,745 |
+| 54485 | [When love's labor's lost](../../../../b/c5/c523e25802d7/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 36,744 |
+| 54486 | [The American Navy and Liberia An Address before the American Colonization Society, January 18, 1876](../../../../b/9d/9d0909bae6d4/) | Shufeldt, Robert Wilson, 1822-1895 | 篇 | 1 | 36,736 |
+| 54487 | [A Complete Edition of the Works of Nancy Luce](../../../../b/19/1915d96b2e21/) | Luce, Nancy, 1814-1890 | 章 | 4 | 36,730 |
+| 54488 | [Poems（#50043）](../../../../b/6b/6bc91bbad530/) | Maeterlinck, Maurice, 1862-1949; Miall, Bernard, 1876-1953 [Translator] | 篇 | 9 | 36,723 |
+| 54489 | [For Every Man A Reason](../../../../b/b4/b43f110af947/) | Wilkins, Patrick; Orban, Paul, 1896-1974 [Illustrator] | 篇 | 1 | 36,723 |
+| 54490 | [The Bibliomaniac](../../../../b/d4/d4019c35a230/) | Nodier, Charles, 1780-1844; Vallery-Radot, René, 1853-1933 [Author of introduction, etc.]; Leloir, Maurice, 1853-1940 [Illustrator]; Wright, Mabel Osgood, 1859-1934 [Translator] | 篇 | 3 | 36,720 |
+| 54491 | [The Satyricon — Volume 03: Encolpius and His Companions](../../../../b/c4/c4bc2977a594/) | Petronius Arbiter, 20-66; Firebaugh, W. C., 1882-1945 [Translator] | 章 | 19 | 36,719 |
+| 54492 | [Wall of Crystal, Eye of Night](../../../../b/15/157d7b595611/) | Budrys, Algis, 1931-2008; Francis, Dick [Illustrator] | 篇 | 3 | 36,718 |
+| 54493 | [Little Alice's Palace; or, The Sunny Heart](../../../../b/2b/2b4ee7c4f2e5/) | Anonymous | 章 | 9 | 36,713 |
+| 54494 | [Acid Rain and Our Nation's Capital: A Guide to Effects on Buildings and Monuments](../../../../b/ad/ad3131cb0194/) | McGee, E. S. | 篇 | 2 | 36,713 |
+| 54495 | [The peaceful atom](../../../../b/ec/ecdb5c831c79/) | Hunt, Bernice Kohn, 1920-; Onyshkewych, Zenowij, 1929-2018 [Illustrator] | 章 | 11 | 36,710 |
+| 54496 | [Total Per Cent Lambing Rules](../../../../b/91/9139a2ffc937/) | Boylan, Thomas | 章 | 15 | 36,707 |
+| 54497 | [The Crescent Moon（#6520）](../../../../b/1a/1a6b81cbd165/) | Tagore, Rabindranath, 1861-1941 [Translator] | 章 | 40 | 36,703 |
+| 54498 | [In Various Moods: Poems and Verses](../../../../b/a2/a2920a1bae75/) | Bacheller, Irving, 1859-1950 | 篇 | 153 | 36,702 |
+| 54499 | [Prodigal Weapon](../../../../b/67/67d99fb0e763/) | Garson, Bill, 1917-2000; Murphy, C. A. (Cornelius Anthony), 1898-1984 [Illustrator] | 篇 | 1 | 36,697 |
+| 54500 | [Sandhya](../../../../b/f1/f1f0b7d8f114/) | Mukerji, Dhan Gopal, 1890-1936 | 章 | 70 | 36,693 |
+| 54501 | [The Fly Leaf, No. 4, Vol. 1, March 1896](../../../../b/a6/a62d3e7f2b65/) | Various; Harte, Walter Blackburn, 1867-1899 [Editor] | 篇 | 9 | 36,688 |
+| 54502 | [The Fly Leaf, No. 2, Vol. 1, January 1896 A Pamphlet Periodical of the New—the New Man, New Woman, New Ideas, Whimsies and Things](../../../../b/e8/e8ed749de201/) | Various; Harte, Walter Blackburn, 1867-1899 [Editor] | 章 | 3 | 36,687 |
+| 54503 | [Impact](../../../../b/dc/dce0e25c5838/) | Cox, Irving E., Jr., 1917-2001 | 篇 | 1 | 36,684 |
+| 54504 | [The Ohio naturalist, Vol. 1, No. 4, February 1901](../../../../b/4f/4f276bb3bdb6/) | Ohio State University. Biological Club | 章 | 6 | 36,681 |
+| 54505 | [Out from the heart](../../../../b/01/01cfe28c7838/) | Allen, James, 1864-1912 | 章 | 7 | 36,676 |
+| 54506 | [Subspeciation in the Meadow Mouse, Microtus montanus, in Wyoming and Colorado](../../../../b/27/272ee5b13c47/) | Anderson, Sydney, 1927-2018 | 篇 | 1 | 36,675 |
+| 54507 | [A Child's Garden of Verses（#25611）](../../../../b/31/312e746e1247/) | Stevenson, Robert Louis, 1850-1894; Sowerby, Millicent, 1878-1967 [Illustrator] | 章 | 64 | 36,669 |
+| 54508 | [The Strange Little Girl: A Story for Children](../../../../b/ef/efee0455a293/) | V. M.; Tingley, Katherine Augusta Westcott, 1847-1929 [Commentator] | 章 | 13 | 36,664 |
+| 54509 | [William Harvey and the Discovery of the Circulation of the Blood](../../../../b/7f/7fd78f3ad684/) | Huxley, Thomas Henry, 1825-1895 | 篇 | 20 | 36,656 |
+| 54510 | [A Place in the Sun](../../../../b/3c/3c0a85dd28b1/) | Marlowe, Stephen, 1928-2008 | 篇 | 1 | 36,655 |
+| 54511 | [Index of the Project Gutenberg Works of Lord Byron](../../../../b/19/19a249bb1225/) | Byron, George Gordon Byron, Baron, 1788-1824; Widger, David, 1932-2021 [Editor] | 篇 | 6 | 36,654 |
+| 54512 | [Darwinism.  The Noachian Flood A lecture delivered before the Torquay Natural History Society, Jan. 31st, 1870](../../../../b/1c/1c0cb835c8b4/) | Stebbing, Thomas Roscoe Rede, 1835-1926 | 篇 | 27 | 36,650 |
+| 54513 | [The Great Round World and What Is Going On In It, Vol. 1, No. 35, July 8, 1897 A Weekly Magazine for Boys and Girls](../../../../b/1d/1d29e659c7ff/) | Various; Bishop, Julia Truitt [Editor] | 篇 | 4 | 36,646 |
+| 54514 | [The Big Fix!](../../../../b/07/0741ff4f8007/) | Wilson, Richard, 1920-1987; Engle, Robert, 1928-1989 [Illustrator] | 篇 | 1 | 36,621 |
+| 54515 | [The Promise of World Peace](../../../../b/59/599b25dcc52a/) | Universal House of Justice | 章 | 6 | 36,610 |
+| 54516 | [The Great Round World and What Is Going On In It, Vol. 1, No. 37, July 22, 1897 A Weekly Magazine for Boys and Girls](../../../../b/3f/3f14ed822afe/) | Various; Bishop, Julia Truitt [Editor] | 篇 | 5 | 36,610 |
+| 54517 | [Morley's Weapon](../../../../b/81/8173ffb8b83b/) | Barefoot, D. W.; Emshwiller, Ed, 1925-1990 [Illustrator] | 篇 | 3 | 36,597 |
+| 54518 | [A Fine Fix](../../../../b/7b/7b447e7c0e75/) | Noll, Ray C.; Van Dongen, H. R., 1920-2010 [Illustrator] | 篇 | 1 | 36,595 |
+| 54519 | [Kensington, Notting Hill, and Paddington](../../../../b/04/0483c6068574/) | An Old Inhabitant | 章 | 2 | 36,591 |
+| 54520 | [The Chemical Constituents of Piper Methysticum Or, The Chemical Constituents of the Active Principle of the Ava Root](../../../../b/d3/d3fcf9c2b63d/) | Ball, Alice A., 1892-1916 | 篇 | 13 | 36,590 |
+| 54521 | [The Hours of Fiammetta A Sonnet Sequence](../../../../b/54/54811a27804a/) | Taylor, Rachel Annand, 1876-1960 | 章 | 60 | 36,583 |
+| 54522 | [Vocation](../../../../b/ab/abaf2095104d/) | Smith, George O. (George Oliver), 1911-1981; Williams, A. (Arthur) [Illustrator] | 篇 | 1 | 36,582 |
+| 54523 | [Tippecanoe and cougars two](../../../../b/2a/2a725003473f/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 36,572 |
+| 54524 | [A Jolly Jingle-Book](../../../../b/14/14f18ec2803d/) | Chandler, Laura [Compiler] | 章 | 71 | 36,562 |
+| 54525 | [Wireless Possibilities](../../../../b/5e/5ed63326dfa2/) | Low, A. M. (Archibald Montgomery), 1888-1956 | 篇 | 6 | 36,561 |
+| 54526 | [Herbs and Apples](../../../../b/53/53d9d0f7e830/) | Whitney, Helen Hay, 1875-1944; Van Horn, Lucretia [Illustrator] | 章 | 65 | 36,558 |
+| 54527 | [Geographic Variation in the Pocket Gopher, Thomomys bottae, in Colorado](../../../../b/a2/a2320d22f3c4/) | Youngman, Phillip M., 1927- | 篇 | 5 | 36,556 |
+| 54528 | [Sketches by Seymour — Volume 01](../../../../b/d5/d58d2f438619/) | Seymour, Robert, 1798-1836 | 章 | 10 | 36,554 |
+| 54529 | [The Great Round World and What Is Going On In It, Vol. 1, No. 41, August 19, 1897 A Weekly Magazine for Boys and Girls](../../../../b/99/99902bec0a58/) | Various; Bishop, Julia Truitt [Editor] | 篇 | 8 | 36,553 |
+| 54530 | [The Day of the Boomer Dukes](../../../../b/10/100031c8bf58/) | Pohl, Frederik, 1919-2013; Emshwiller, Ed, 1925-1990 [Illustrator] | 章 | 5 | 36,544 |
+| 54531 | [The Contest in America](../../../../b/45/45c26224daa5/) | Mill, John Stuart, 1806-1873 | 篇 | 22 | 36,540 |
+| 54532 | [A Rough Diamond: A Comic Drama in One Act](../../../../b/ca/ca018f3b371b/) | Buckstone, John Baldwin, 1802-1879 | 篇 | 8 | 36,540 |
+| 54533 | [Why Go to College? An Address](../../../../b/88/8869361f85df/) | Palmer, Alice Freeman, 1855-1902 | 篇 | 28 | 36,539 |
+| 54534 | ['Jesus Himself'](../../../../b/bf/bf23a6058711/) | Murray, Andrew, 1828-1917 | 篇 | 1 | 36,530 |
+| 54535 | [The Future of English Poetry](../../../../b/48/4878f1e98240/) | Gosse, Edmund, 1849-1928 | 篇 | 10 | 36,527 |
+| 54536 | [Mr. Bennett and Mrs. Brown](../../../../b/dc/dccd307215a7/) | Woolf, Virginia, 1882-1941 | 篇 | 1 | 36,522 |
+| 54537 | [The Seven Plaits of Nettles, and other stories](../../../../b/65/6539d3cd7922/) | Vredenburg, Edric, 1860-; Bowley, May, 1864-1960 [Illustrator]; Cowham, Hilda, 1873-1964 [Illustrator]; Noyes Lewis, T., 1862-1946 [Illustrator] | 章 | 5 | 36,518 |
+| 54538 | [Student Body](../../../../b/7f/7f80b4128a52/) | Wallace, F. L. (Floyd L.), 1915-2004; Ashman, William [Illustrator] | 篇 | 1 | 36,515 |
+| 54539 | [Daybreak: A Story for Girls](../../../../b/e7/e76bd399b3bb/) | Sitwell, Florence Alice, 1858-1930 | 章 | 6 | 36,513 |
+| 54540 | [Life on the Mississippi, Part 5.](../../../../b/40/40c690b1aec3/) | Twain, Mark, 1835-1910 | 篇 | 5 | 36,513 |
+| 54541 | [Myths and Legends of Our Own Land — Volume 02 : the Isle of Manhattoes and nearby](../../../../b/8a/8a35172ab8c5/) | Skinner, Charles M. (Charles Montgomery), 1852-1907 | 章 | 15 | 36,511 |
+| 54542 | [State of the Union Addresses（#5011）](../../../../b/bb/bb1e1c9613dc/) | Adams, John, 1735-1826 | 篇 | 1 | 36,505 |
+| 54543 | [Fairies and Fusiliers](../../../../b/d7/d7e3dbb11078/) | Graves, Robert, 1895-1985 | 章 | 46 | 36,494 |
+| 54544 | [Types of canoes on Puget Sound](../../../../b/5a/5a13e044186e/) | Waterman, T. T. (Thomas Talbot), 1885-1936; Coffin, Geraldine | 章 | 13 | 36,490 |
+| 54545 | [Thy Name Is Woman](../../../../b/ae/ae38d3d20c62/) | Walton, Bryce, 1918-1988 | 篇 | 1 | 36,487 |
+| 54546 | [Poem Outlines](../../../../b/d2/d2620aeeaccd/) | Lanier, Sidney, 1842-1881 | 篇 | 57 | 36,476 |
+| 54547 | [The Flood（#7011）](../../../../b/f2/f21b8057eb48/) | Zola, Émile, 1840-1902 | 章 | 6 | 36,471 |
+| 54548 | [The Call of the Mountains, and Other Poems](../../../../b/a6/a6f34c01855d/) | Pickering, James E. | 章 | 22 | 36,463 |
+| 54549 | [The Great Round World and What Is Going On In It, Vol. 1, No. 29, May 27, 1897 A Weekly Magazine for Boys and Girls](../../../../b/6c/6c4fc9ac9092/) | Various | 章 | 9 | 36,455 |
+| 54550 | [Preview of Peril](../../../../b/9a/9a2c0bb9b6c3/) | Coppel, Alfred, 1921-2004; Houlihan, Raymond F., 1923-1991 [Illustrator] | 篇 | 1 | 36,448 |
+| 54551 | [Recipes from American National](../../../../b/5e/5e67946184c9/) | American National Insurance Company | 篇 | 13 | 36,447 |
+| 54552 | [Treatment of Cholera in the Royal Hospital, Haslar during the months of July and August, 1849, with remarks on the name and origin of the disease.](../../../../b/d5/d59bd7258d79/) | Wilson, John (Inspector of Naval Hospitals) | 章 | 5 | 36,439 |
+| 54553 | [American Languages, and Why We Should Study Them](../../../../b/b2/b2c80b9f8535/) | Brinton, Daniel G. (Daniel Garrison), 1837-1899 | 章 | 2 | 36,439 |
+| 54554 | [War paint](../../../../b/bd/bd20db592184/) | Winchester, Robert; Frederick, Ralph [Illustrator] | 篇 | 1 | 36,439 |
+| 54555 | [The Cosmic Bluff](../../../../b/3b/3bace781cfe1/) | Reynolds, Mack, 1917-1983; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 篇 | 1 | 36,431 |
+| 54556 | [A Drift from Redwood Camp](../../../../b/4a/4aca24763214/) | Harte, Bret, 1836-1902 | 篇 | 1 | 36,427 |
+| 54557 | [The Albany Depot : a Farce](../../../../b/d9/d9855d626db7/) | Howells, William Dean, 1837-1920 | 章 | 5 | 36,413 |
+| 54558 | [W. & R. Chambers's Books, Suitable for Prizes and Presentation [1892]](../../../../b/dd/ddfd85c90372/) | W. & R. Chambers Ltd. | 部分 | 2 | 36,413 |
+| 54559 | [Knitted and Crocheted Boutique](../../../../b/28/284a5fa78961/) | American Thread Company | 篇 | 3 | 36,409 |
+| 54560 | [The luck of the bean-rows, a fairy tale](../../../../b/7a/7a9767925552/) | Nodier, Charles, 1780-1844; Fraser, Claud Lovat, 1890-1921 [Illustrator] | 篇 | 1 | 36,407 |
+| 54561 | [The Miraculous Revenge](../../../../b/d9/d92bcb6e5d7a/) | Shaw, Bernard, 1856-1950; Haldeman-Julius, E. (Emanuel), 1888-1951 [Editor] | 篇 | 1 | 36,395 |
+| 54562 | [Brooks's Readers: First Year](../../../../b/6a/6a7390bdf758/) | Brooks, Stratton D. (Stratton Duluth), 1869-1949 | 章 | 3 | 36,392 |
+| 54563 | [Mrs. Turner's Cautionary Stories](../../../../b/90/90baa1cdb632/) | Turner, Mrs. (Elizabeth), -1846; Lucas, E. V. (Edward Verrall), 1868-1938 [Editor] | 章 | 72 | 36,388 |
+| 54564 | [The Old Castle and Other Stories](../../../../b/5d/5d73e6bd2fa7/) | Anonymous | 章 | 4 | 36,387 |
+| 54565 | [The Thompson-Houston System of Electric Lighting](../../../../b/8c/8c973c1f682f/) | Cory, H. T. (Harry Thomas), 1870-1955 | 篇 | 1 | 36,387 |
+| 54566 | [Slavery（#53904）](../../../../b/ef/ef2801073b6f/) | Baker, James L. (James Loring), 1813-1886 | 篇 | 1 | 36,384 |
+| 54567 | [Birds, Illustrated by Color Photography, Vol. 1, No. 1 January, 1897](../../../../b/65/656f7ee3a59a/) | Various | 章 | 9 | 36,381 |
+| 54568 | [A Man of Business](../../../../b/b1/b107bbae41ec/) | Balzac, Honoré de, 1799-1850; Bell, Clara, 1834-1927 [Translator] | 篇 | 1 | 36,381 |
+| 54569 | [The cynic's breviary: Maxims and anecdotes from Nicolas de Chamfort](../../../../b/df/df66cf1302c5/) | Chamfort, Sébastien-Roch-Nicolas, 1740?-1794; Hutchison, William G., 1873-1907 [Translator] | 篇 | 1 | 36,377 |
+| 54570 | [The Village Wife's Lament](../../../../b/a6/a622c33fbe45/) | Hewlett, Maurice, 1861-1923 | 章 | 6 | 36,373 |
+| 54571 | [The Tinker's Wedding](../../../../b/b6/b6a7d3b2bcfc/) | Synge, J. M. (John Millington), 1871-1909 | 章 | 5 | 36,372 |
+| 54572 | [Legends of the Pike's Peak Region; The Sacred Myths of the Manitou](../../../../b/70/70f5675b6092/) | Whitney, Ernest, 1858-1893; Alexander, William S.; Parrish, Thomas C. (Thomas Clarkson), 1846-1899 [Illustrator] | 章 | 2 | 36,372 |
+| 54573 | [Songs of a Red Cross nurse](../../../../b/f2/f2a705ea6840/) | More, Brookes, 1859-1942; Moynahan, T. J. [Illustrator] | 章 | 5 | 36,365 |
+| 54574 | [Evans of the Earth-Guard](../../../../b/d2/d206039d631e/) | Hamilton, Edmond, 1904-1977; Paul, Frank R. (Frank Rudolph), 1884-1963 [Illustrator]; Winter, Lumen Martin, 1908-1982 [Illustrator] | 篇 | 1 | 36,360 |
+| 54575 | [The Star Mouse](../../../../b/63/63305c067bd8/) | Brown, Fredric, 1906-1972; Lynch, Don (Artist) [Illustrator] | 篇 | 4 | 36,357 |
+| 54576 | [Civilization the Primal Need of the Race, and The Attitude of the American Mind Toward the Negro Intellect The American Negro Academy. Occasional Paper No. 3](../../../../b/6c/6ce8925ec180/) | Crummell, Alexander, 1819-1898 | 篇 | 1 | 36,345 |
+| 54577 | [Our Sabbaths in Danger A Sermon, deprecating the contemplated opening of the Crystal Palace on the Lord's-Day](../../../../b/22/22c31427a1b6/) | Moore, Daniel, 1809-1899 | 章 | 6 | 36,344 |
+| 54578 | [The process of gilding and bronzing picture frames](../../../../b/08/08b1c537f87d/) | Walker, Isaac H. | 章 | 3 | 36,331 |
+| 54579 | [Life on the Mississippi, Part 10.](../../../../b/d2/d20897692ab2/) | Twain, Mark, 1835-1910 | 篇 | 6 | 36,328 |
+| 54580 | [The cõforte of louers The Comfort of Lovers](../../../../b/ca/ca4b957a5419/) | Hawes, Stephen, -1523? | 篇 | 1 | 36,322 |
+| 54581 | [Cultural Exchange（#60743）](../../../../b/dc/dc10f9c187a1/) | Bone, Jesse F. (Jesse Franklin), 1916-2006 | 篇 | 1 | 36,320 |
+| 54582 | [The Methods and Scope of Genetics An inaugural lecture delivered 23 October 1908](../../../../b/e7/e7e1c6ec4207/) | Bateson, William, 1861-1926 | 章 | 3 | 36,316 |
+| 54583 | [The flying chance](../../../../b/7a/7a0f02d8b62b/) | McCreagh, Gordon, 1889-1953 | 章 | 6 | 36,313 |
+| 54584 | [The Impersonator](../../../../b/a5/a51ae44849b1/) | Wicks, Robert; Francis, Dick [Illustrator] | 篇 | 1 | 36,309 |
+| 54585 | [The Barbarians（#59447）](../../../../b/c9/c93f13dda102/) | Godwin, Tom, 1915-1980; Orban, Paul, 1896-1974 [Illustrator] | 篇 | 1 | 36,303 |
+| 54586 | [Observations on an Anonymous Pamphlet, Which Has Been Distributed in Lowestoft, and Its Neighbourhood, Entitled Reasons Why a Churchman May with Great Justice Refuse to Subscribe to the British and Foreign Bible Society](../../../../b/1b/1b58f7640978/) | Cunningham, Francis, 1785-1863 | 章 | 3 | 36,300 |
+| 54587 | [The Story of Slavery](../../../../b/be/be1794efaffa/) | Washington, Booker T., 1856-1915; Scott, Emmett J. (Emmett Jay), 1873-1957 [Contributor] | 篇 | 4 | 36,298 |
+| 54588 | [Captain Chaos（#62139）](../../../../b/49/49fbcd721043/) | Bond, Nelson S., 1908-2006; Lynch, Don (Artist) [Illustrator] | 篇 | 1 | 36,297 |
+| 54589 | [Index of the Project Gutenberg Works of Thackeray](../../../../b/bf/bfc10d3773af/) | Thackeray, William Makepeace, 1811-1863; Widger, David, 1932-2021 [Editor] | 章 | 4 | 36,285 |
+| 54590 | [Ambition](../../../../b/fd/fdcc5ea96f85/) | Bade, William L., 1928-2005; Woromay, Lawrence, 1927-2007 [Illustrator] | 篇 | 1 | 36,277 |
+| 54591 | [A Voyage in a Balloon (1852)](../../../../b/95/9584ce8a8a33/) | Verne, Jules, 1828-1905 | 篇 | 1 | 36,276 |
+| 54592 | [The Myth in Marriage](../../../../b/c9/c981909a20ac/) | Hubbard, Alice, 1861-1915 | 章 | 17 | 36,269 |
+| 54593 | [Code of the Mounted](../../../../b/09/092fa4922db9/) | Bruess, Floria Howe | 篇 | 1 | 36,265 |
+| 54594 | [Sordman the Protector](../../../../b/da/da5aefbfe9ae/) | Purdom, Tom, 1936-; Wood, Wallace, 1927-1981 [Illustrator] | 篇 | 1 | 36,253 |
+| 54595 | [Precipitations](../../../../b/c3/c331de4417ca/) | Scott, Evelyn, 1893-1963 | 章 | 116 | 36,251 |
+| 54596 | [The Child and the Curriculum](../../../../b/98/9891900e8c2d/) | Dewey, John, 1859-1952 | 篇 | 37 | 36,241 |
+| 54597 | [American Dangers and Duties](../../../../b/fd/fd8547211b63/) | Mayo, A. D. (Amory Dwight), 1823-1907 | 篇 | 35 | 36,238 |
+| 54598 | [Representative Plays by American Dramatists: 1765-1819](../../../../b/c0/c0c6b1fd2d56/) | Moses, Montrose Jonas, 1878-1934 [Editor] | 篇 | 10 | 36,228 |
+| 54599 | [Derelicts of Uranus](../../../../b/4b/4bfa6f48888a/) | Haggard, J. Harvey (John Harvey), 1912-2001; Forte, John R. (John Robert), 1918-1966 [Illustrator] | 章 | 5 | 36,223 |
+| 54600 | [Earth's Holocaust (From "Mosses from an Old Manse")](../../../../b/cf/cfbce28e1170/) | Hawthorne, Nathaniel, 1804-1864 | 篇 | 1 | 36,223 |
+| 54601 | [The Burston School Strike](../../../../b/44/4466dbf5e47b/) | Casey, 1864-1932 | 章 | 7 | 36,210 |
+| 54602 | [The Relics of General Chasse: A Tale of Antwerp](../../../../b/17/17b6d9303922/) | Trollope, Anthony, 1815-1882 | 篇 | 1 | 36,206 |
+| 54603 | [The Bible, Douay-Rheims, Book 15: 1 Esdras The Challoner Revision](../../../../b/e6/e621036a38cd/) | — | 篇 | 1 | 36,201 |
+| 54604 | [Devotional Poetry for the Children. Second Part](../../../../b/e0/e00cfe120f9f/) | Various | 篇 | 100 | 36,186 |
+| 54605 | [The Cat and the Mouse: A Book of Persian Fairy Tales](../../../../b/4a/4a74a67772f5/) | James, Hartwell [Editor]; Neill, John R. (John Rea), 1877-1943 [Illustrator] | 章 | 4 | 36,172 |
+| 54606 | [This Troubled World](../../../../b/d7/d74b50c0ed4f/) | Roosevelt, Eleanor, 1884-1962 | 章 | 4 | 36,172 |
+| 54607 | [Shaving Made Easy: What the Man Who Shaves Ought to Know](../../../../b/00/00e5fa39e03a/) | Anonymous | 章 | 16 | 36,167 |
+| 54608 | [Songs of Travel, and Other Verses](../../../../b/67/672728ef643a/) | Stevenson, Robert Louis, 1850-1894; Colvin, Sidney, 1845-1927 [Editor] | 篇 | 4 | 36,159 |
+| 54609 | [Twelve Causes of Dishonesty](../../../../b/0f/0f8d493255bd/) | Beecher, Henry Ward, 1813-1887 | 章 | 2 | 36,155 |
+| 54610 | [Subspeciation in Pocket Gophers of Kansas, [KU. Vol. 1 No. 11]](../../../../b/22/220bb295c3e9/) | Villa Ramírez, Bernardo, 1911-; Hall, E. Raymond (Eugene Raymond), 1902-1986 | 篇 | 6 | 36,144 |
+| 54611 | [A Stone and a Spear](../../../../b/ef/efdfcb3a27c8/) | Jones, Raymond F., 1915-1994; Bunch, John [Illustrator] | 篇 | 1 | 36,142 |
+| 54612 | [Elementary lathe practice](../../../../b/d3/d389b560c1cf/) | Palmateer, T. J. (Theron Josiaha), 1875-1955 | 篇 | 14 | 36,135 |
+| 54613 | [Buxton and its Medicinal Waters](../../../../b/d1/d1b0dbb74ce2/) | Gifford-Bennet, Robert Ottiwell, 1834-1902 | 章 | 8 | 36,130 |
+| 54614 | [The Leader](../../../../b/05/05b9d35b4a3c/) | Leinster, Murray, 1896-1975; Van Dongen, H. R., 1920-2010 [Illustrator] | 篇 | 1 | 36,122 |
+| 54615 | [Geographic Variation in the Pocket Gopher, Cratogeomys castanops, in Coahuila, México](../../../../b/bc/bc1c115224b3/) | Russell, Robert J.; Baker, Rollin H. (Rollin Harold), 1916-2007 | 篇 | 1 | 36,122 |
+| 54616 | [Worldwide Effects of Nuclear War: Some Perspectives](../../../../b/7c/7c8db2fe19d5/) | United States. Arms Control and Disarmament Agency | 章 | 15 | 36,119 |
+| 54617 | [Women As Sex Vendors Or, Why Women Are Conservative (Being a View of the Economic Status of Woman)](../../../../b/f9/f9f99d9bbb70/) | Tobias, R. B. (Roscoe Burdette), 1880-; Marcy, Mary, 1877-1922 | 章 | 4 | 36,117 |
+| 54618 | [The Mentor: The War of 1812 Volume 4, Number 3, Serial Number 103; 15 March, 1916.](../../../../b/68/684992e8789f/) | Hart, Albert Bushnell, 1854-1943 | 篇 | 16 | 36,112 |
+| 54619 | [The Trouble with Truth](../../../../b/81/814c43718b17/) | Grow, Julian F.; Lutjens [Illustrator] | 章 | 5 | 36,108 |
+| 54620 | [A Vindication of Natural Diet.](../../../../b/09/0979a3639145/) | Shelley, Percy Bysshe, 1792-1822 | 章 | 5 | 36,098 |
+| 54621 | [The Terror from the Depths](../../../../b/52/52c78c3d5554/) | Wright, Sewell Peaslee, 1897-1970 | 篇 | 1 | 36,092 |
+| 54622 | [Nerves of iron](../../../../b/36/36087bca90a4/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 36,085 |
+| 54623 | [The Mentor: The Contest for North America, Vol. 1, No. 35, Serial No. 35 The Story of America in Pictures](../../../../b/f1/f10823db336f/) | Hart, Albert Bushnell, 1854-1943 | 篇 | 11 | 36,084 |
+| 54624 | [The Empty Sleeve or, The Life and Hardships of Henry H. Meacham, in the Union Army](../../../../b/90/90a5e7f40ab3/) | Meacham, Henry H., 1834-1879 | 章 | 7 | 36,075 |
+| 54625 | [Ballads from the Danish and Original Verses](../../../../b/6b/6b79039af15e/) | Smith-Dampier, E. M. (Eleanor Mary‏) | 章 | 18 | 36,069 |
+| 54626 | [Early explorers of Plymouth Harbor, 1525-1619](../../../../b/95/95a08bd17b21/) | Howe, Henry F. (Henry Forbush), 1905-1977 | 篇 | 34 | 36,068 |
+| 54627 | [Two Dyaloges (c. 1549) Wrytten in laten by the famous clerke, D. Erasm[us] of Roterodame, one called Polyphemus or the gospeller, the other dysposyng of thynges and names, translated in to Englyshe by Edmonde Becke.](../../../../b/e2/e2643aafadc4/) | Erasmus, Desiderius, 1469-1536 | 篇 | 1 | 36,066 |
+| 54628 | [On reading in relation to literature](../../../../b/cb/cb6380019def/) | Hearn, Lafcadio, 1850-1904 | 篇 | 24 | 36,064 |
+| 54629 | [An account of the manner of inoculating for the small pox in the East Indies With some observations on the practice and mode of treating that disease in those parts](../../../../b/51/51e308784966/) | Holwell, J. Z. (John Zephaniah), 1711-1798 | 篇 | 29 | 36,039 |
+| 54630 | [Pennsylvania wild cats](../../../../b/02/025ce2b8a8e5/) | Shoemaker, Henry W. (Henry Wharton), 1880-1958 | 篇 | 8 | 36,037 |
+| 54631 | [An Ethnologist's View of History An Address Before the Annual Meeting of the New Jersey Historical Society, at Trenton, New Jersey, January 28, 1896](../../../../b/54/54980c7704f3/) | Brinton, Daniel G. (Daniel Garrison), 1837-1899 | 篇 | 1 | 36,035 |
+| 54632 | [Brothers in arms](../../../../b/f6/f64a8b66fcfa/) | Powell, E. Alexander (Edward Alexander), 1879-1957 | 篇 | 4 | 36,031 |
+| 54633 | [Old Coaching Days Some Incidents in the Life of Moses James Nobbs, the last of the Mail Coach Guards](../../../../b/20/2036f26a77f9/) | Nobbs, Moses James, 1817- | 章 | 9 | 36,029 |
+| 54634 | [The Great Round World And What Is Going On In It, Vol. 1. No. 23, April 15, 1897 A Weekly Magazine for Boys and Girls](../../../../b/bd/bd1dd47db3d5/) | Various; Bishop, Julia Truitt [Editor] | 篇 | 3 | 36,027 |
+| 54635 | [A Tour of Historic Richmond](../../../../b/6d/6d4718d2d7a1/) | Williams, Frances Leigh | 篇 | 33 | 36,026 |
+| 54636 | [Diary of Samuel Pepys — Volume 67: August 1668](../../../../b/f7/f7f1f962a2f1/) | Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator] | 篇 | 1 | 36,024 |
+| 54637 | [The Great Potlatch Riots](../../../../b/9c/9cb8bf30fd87/) | Lang, Allen Kim, 1928- | 篇 | 1 | 36,021 |
+| 54638 | [La Grande Breteche](../../../../b/5e/5e88cb757ed9/) | Balzac, Honoré de, 1799-1850; Bell, Clara, 1834-1927 [Translator]; Marriage, Ellen, 1865-1946 [Translator] | 篇 | 1 | 36,018 |
+| 54639 | [The Philistine（#71845）](../../../../b/53/53b274294a83/) | Various; Hubbard, Elbert, 1856-1915 [Editor] | 章 | 10 | 36,017 |
+| 54640 | [The Scape-Goat: A Farce in One Act](../../../../b/7e/7eb32acbff4e/) | Poole, John, 1786?-1872 | 篇 | 1 | 36,014 |
+| 54641 | [The Life of That Wonderful and Extraordinarily Heavy Man, Daniel Lambert From His Birth to the Moment of His Dissolution; With an Account of Men Noted for Their Corpulency, and Other Interesting Matter](../../../../b/ba/ba2dbfad40c2/) | Anonymous | 篇 | 1 | 36,013 |
+| 54642 | [Are Women People? A Book of Rhymes for Suffrage Times](../../../../b/3b/3be6d3cffe79/) | Miller, Alice Duer, 1874-1942 | 章 | 2 | 36,012 |
+| 54643 | [The House of the Trees & Other Poems](../../../../b/dd/dda44cc71dae/) | Wetherald, A. Ethelwyn, 1857-1940 | 章 | 10 | 35,998 |
+| 54644 | [A Song of the Open Road, and Other Verses](../../../../b/b0/b0298aa594fa/) | McQuilland, Louis J.; Chesterton, Cecil, 1879-1918 [Author of introduction, etc.]; Chesterton, G. K. (Gilbert Keith), 1874-1936 [Contributor]; Wilson, David [Illustrator] | 章 | 41 | 35,994 |
+| 54645 | [Icarus](../../../../b/70/70b04b8216a0/) | Russell, Bertrand, 1872-1970 | 章 | 8 | 35,982 |
+| 54646 | [Poems（#75489）](../../../../b/1a/1ab94ab44312/) | Bacon, Josephine Daskam, 1876-1961 | 章 | 2 | 35,977 |
+| 54647 | [Failure on Titan](../../../../b/81/81d26f6cbee9/) | Abernathy, Robert, 1924-1990 | 篇 | 1 | 35,976 |
+| 54648 | [The Life and Public Service of General Zachary Taylor: An Address](../../../../b/8a/8aad6ac89372/) | Lincoln, Abraham, 1809-1865; Barton, William E. (William Eleazar), 1861-1930 [Editor] | 篇 | 8 | 35,975 |
+| 54649 | [Attention Saint Patrick](../../../../b/a8/a873b554e27d/) | Leinster, Murray, 1896-1975; Bernklau [Illustrator] | 篇 | 1 | 35,967 |
+| 54650 | [Troubled Waters（#67550）](../../../../b/f3/f344811bbd53/) | Sinclair, Bertrand W., 1881-1972 | 篇 | 1 | 35,962 |
+| 54651 | [History of the Second Massachusetts Regiment of Infantry: A prisoner's diary A paper read at the officers' reunion in Boston, May 11, 1877](../../../../b/2f/2f0fb0b137c0/) | Quincy, Samuel M. (Samuel Miller), 1833-1887 | 篇 | 1 | 35,959 |
+| 54652 | [Representative Plays by American Dramatists: 1856-1911: Introduction and Bibliography](../../../../b/49/49a48ec428cd/) | Moses, Montrose Jonas, 1878-1934 | 章 | 14 | 35,955 |
+| 54653 | [The Templeton Teapot: A Farce in One Act](../../../../b/89/89c775406e2a/) | Strong, Grace Cooke | 章 | 5 | 35,955 |
+| 54654 | [The Vote That Made the President](../../../../b/3c/3c31888aec3a/) | Field, David Dudley, 1805-1894 | 章 | 8 | 35,951 |
+| 54655 | [English as she is spoke; or, a jest in sober earnest](../../../../b/7b/7b2a28e87da3/) | Fonseca, José da, 1788-1866; Carolino, Pedro | 篇 | 1 | 35,948 |
+| 54656 | [The Vitality of "Mormonism": An Address](../../../../b/de/de1eb0e1aa1c/) | Talmage, James E. (James Edward), 1862-1933 | 篇 | 1 | 35,944 |
+| 54657 | [The Adventures of Tom Sawyer, Part 6.](../../../../b/5c/5c25f8eb81ac/) | Twain, Mark, 1835-1910 | 章 | 5 | 35,942 |
+| 54658 | [Make It With Aunt Lydia's Heavy Rug Yarn](../../../../b/c3/c3ed8987180b/) | American Thread Company | 篇 | 17 | 35,941 |
+| 54659 | [More Cricket Songs](../../../../b/cf/cff3d61351ad/) | Gale, Norman, 1862-1942 | 篇 | 1 | 35,941 |
+| 54660 | [Double or Nothing](../../../../b/79/79721260daad/) | Sharkey, Jack, 1931-1992 | 篇 | 1 | 35,930 |
+| 54661 | [Poems for Pale People A Volume of Verse](../../../../b/be/bee4f9026b72/) | Ranck, Edwin Carty, 1879- | 篇 | 126 | 35,929 |
+| 54662 | [The Mirror of Literature, Amusement, and Instruction. Volume 14, No. 407, December 24, 1829](../../../../b/d5/d5333cf568ed/) | Various | 章 | 2 | 35,921 |
+| 54663 | [Break a Leg](../../../../b/f8/f8d5a12487df/) | Harmon, Jim, 1933-2010; Gaughan, Jack, 1930-1985 [Illustrator] | 篇 | 1 | 35,919 |
+| 54664 | [Punch, or the London Charivari, Volume 104, May 6, 1893](../../../../b/e0/e0f8308782e2/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 6 | 35,912 |
+| 54665 | [Stickeen](../../../../b/17/171fd2e12f00/) | Muir, John, 1838-1914 | 篇 | 30 | 35,910 |
+| 54666 | [Sun-Up, and Other Poems](../../../../b/35/35544ad04827/) | Ridge, Lola, 1873-1941 | 篇 | 5 | 35,910 |
+| 54667 | [A Plea for Old Cap Collier](../../../../b/db/db2f7e9fe6bc/) | Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944 | 篇 | 1 | 35,907 |
+| 54668 | [Pretty Tales for the Nursery](../../../../b/d6/d6f6dc0cdbe1/) | Thompson, Isabel; Gilbert, John, 1817-1897 [Illustrator] | 章 | 10 | 35,906 |
+| 54669 | [One Touch of Nature: A Petite Drama, in One Act](../../../../b/40/40a0c4b0252c/) | Webster, Benjamin, 1797-1882 | 篇 | 3 | 35,906 |
+| 54670 | [The Nursery, Volume 17, No. 100, April, 1875 A Monthly Magazine for Youngest Readers](../../../../b/a5/a5d06db08b40/) | Various | 章 | 15 | 35,905 |
+| 54671 | [Lynch Law in Georgia](../../../../b/4a/4aa53d575cd3/) | Wells-Barnett, Ida B., 1862-1931 | 章 | 4 | 35,904 |
+| 54672 | [The Stocking-Knitter's Manual: A Handy Book for the Work-Table](../../../../b/c2/c2fb24976230/) | Cupples, George, Mrs., 1839-1898 | 篇 | 5 | 35,901 |
+| 54673 | ["Seth"](../../../../b/1b/1b81287da8eb/) | Burnett, Frances Hodgson, 1849-1924 | 篇 | 1 | 35,899 |
+| 54674 | [New Mexico Magazine's A Taste of New Mexico Kitchens](../../../../b/82/82466f1cbe58/) | Anonymous | 章 | 54 | 35,897 |
+| 54675 | [Atoms in Agriculture: Applications of Nuclear Science to Agriculture (Revised)](../../../../b/98/98cba0589a11/) | Osborne, Thomas S. | 章 | 30 | 35,893 |
+| 54676 | [Micromegas](../../../../b/62/62e5d344ea85/) | Voltaire, 1694-1778; Phalen, Peter [Translator] | 章 | 7 | 35,891 |
+| 54677 | [Index of the Project Gutenberg Works of Alexis de Tocqueville](../../../../b/b2/b2749e3e264c/) | Tocqueville, Alexis de, 1805-1859; Widger, David, 1932-2021 [Editor] | 章 | 4 | 35,888 |
+| 54678 | [Repeat Performance](../../../../b/0e/0e07d68ef6a9/) | Phillips, Rog, 1909-1965 | 篇 | 1 | 35,882 |
+| 54679 | [Counter-Attack and Other Poems](../../../../b/23/23f0951bbca3/) | Sassoon, Siegfried, 1886-1967 | 章 | 7 | 35,879 |
+| 54680 | [World Beyond Pluto](../../../../b/e0/e085e4c653d2/) | Marlowe, Stephen, 1928-2008; Novick, Irving H., 1916-2004 [Illustrator] | 篇 | 1 | 35,879 |
+| 54681 | [Peachmonk](../../../../b/7a/7adf15f520ca/) | Eyerman, John, 1867-1945 | 章 | 8 | 35,878 |
+| 54682 | [Righteous plague](../../../../b/15/15fe45806b88/) | Abernathy, Robert, 1924-1990; Poulton, Peter, 1914-1972 [Illustrator] | 篇 | 1 | 35,875 |
+| 54683 | [1995 United States Congressional Address Book](../../../../b/b4/b44cd4b3ff3f/) | United States | 篇 | 2 | 35,873 |
+| 54684 | [The Bible, King James version, Book 15: Ezra](../../../../b/2a/2ac476ecd5a4/) | Anonymous | 篇 | 1 | 35,872 |
+| 54685 | [Punch, or the London Charivari, Vol. 108, April 20, 1895](../../../../b/38/38581444fd63/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 3 | 35,868 |
+| 54686 | [Gammer Gurton's Garland; Or, The Nursery Parnassus A Choice Collection of Pretty Songs and Verses for the Amusement of All Little Good Children Who Can Neither Read nor Run.](../../../../b/49/49ac3f22b767/) | Ritson, Joseph, 1752-1803 [Compiler] | 章 | 4 | 35,866 |
+| 54687 | [The dread Apache: That early-day scourge of the Southwest](../../../../b/7b/7bec95d2af7e/) | Freeman, Merrill Pingree, 1844-1915 | 篇 | 1 | 35,866 |
+| 54688 | [The Truce of God](../../../../b/58/58d6f9057b7a/) | Rinehart, Mary Roberts, 1876-1958; Sichel, Harold, 1881-1948 [Illustrator] | 篇 | 1 | 35,865 |
+| 54689 | [By the Aurelian Wall, and Other Elegies](../../../../b/8c/8c733a288e41/) | Carman, Bliss, 1861-1929 | 篇 | 18 | 35,857 |
+| 54690 | [Rhythm rides the rocket](../../../../b/48/48b0d465857d/) | Olsen, Bob, 1884-1956; Paul, Frank R. (Frank Rudolph), 1884-1963 [Illustrator] | 章 | 5 | 35,854 |
+| 54691 | [Georgie's Present, or, Tales of Newfoundland](../../../../b/12/1224b5922788/) | Brightwell, C. L. (Cecilia Lucy), 1811-1875 | 章 | 6 | 35,850 |
+| 54692 | [For the parson of Paradise](../../../../b/d9/d9bdc9914cc3/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 35,848 |
+| 54693 | [The Amateur](../../../../b/22/220fffd9d329/) | Davis, Richard Harding, 1864-1916 | 篇 | 1 | 35,838 |
+| 54694 | [Federal Bureau of Investigation FOIA Documents - Unidentified Flying Objects](../../../../b/c6/c6005af4991e/) | United States. Federal Bureau of Investigation | 篇 | 21 | 35,835 |
+| 54695 | [The Pearl of Peace; or, The Little Peacemaker](../../../../b/6f/6f4adb9b60fa/) | Leslie, Madeline, 1815-1893 | 章 | 16 | 35,832 |
+| 54696 | [The Caxtons: A Family Picture — Volume 04](../../../../b/23/2345aed42e8b/) | Lytton, Edward Bulwer Lytton, Baron, 1803-1873 | 章 | 6 | 35,827 |
+| 54697 | [A concise account of the principal works in stained glass that have been executed by Thomas Willement of London, Fellow of the Society of Antiquaries](../../../../b/61/618843a0352a/) | Willement, Thomas, 1786-1871 | 章 | 41 | 35,821 |
+| 54698 | [Gambler's World](../../../../b/14/1438d9334df8/) | Laumer, Keith, 1925-1993 | 章 | 5 | 35,820 |
+| 54699 | [Punch, Or The London Charivari, Volume 102, January 30, 1892](../../../../b/52/5263b376c747/) | Various | 篇 | 3 | 35,811 |
+| 54700 | [Conception Control and Its Effects on the Individual and the Nation](../../../../b/bb/bb86ad08dbc7/) | Barrett, Florence Elizabeth, 1867-1945 | 章 | 8 | 35,808 |
+| 54701 | [Compensation](../../../../b/6c/6c4c40ef6adc/) | Emerson, Ralph Waldo, 1803-1882 | 篇 | 1 | 35,808 |
+| 54702 | [An account of some kjoekkenmoeddings, or shell-heaps, in Maine and Massachusetts](../../../../b/4a/4aba024b5270/) | Wyman, Jeffries, 1814-1874 | 章 | 8 | 35,807 |
+| 54703 | [Jacquard Machines: Instruction Paper](../../../../b/fe/fe25f204018e/) | Nelson, H. William (Hector William), 1869- | 篇 | 5 | 35,798 |
+| 54704 | [A Collection of Scotch Proverbs](../../../../b/c3/c3cc583e7455/) | Stampoy, Pappity; Taylor, Archer, 1890-1973 [Author of introduction, etc.] | 篇 | 1 | 35,796 |
+| 54705 | [True Politeness: A Hand-book of Etiquette for Ladies](../../../../b/e6/e660b170627a/) | Anonymous | 章 | 182 | 35,795 |
+| 54706 | [A. V. Laider](../../../../b/f6/f6f751ade2d5/) | Beerbohm, Max, Sir, 1872-1956 | 篇 | 1 | 35,790 |
+| 54707 | [Rational Horse-Shoeing](../../../../b/e9/e9e9e8c7bbf6/) | Russell, John E. (John Edwards), 1834-1903 | 章 | 8 | 35,789 |
+| 54708 | [The Plague of Athens, which hapned in the second year of the Peloponnesian Warre First described in Greek by Thucydides; then in Latin by Lucretius. Now attempted in English](../../../../b/d4/d42e463c6d20/) | Sprat, Thomas, 1635-1713; Hobbes, Thomas, 1588-1679; Thucydides, 456? BCE-396 BCE | 章 | 30 | 35,783 |
+| 54709 | [World of the Mad](../../../../b/a0/a0e807ca281e/) | Anderson, Poul, 1926-2001; Raymond, Ramon [Illustrator] | 篇 | 1 | 35,782 |
+| 54710 | [The Miraculous Pitcher (From: "A Wonder-Book for Girls and Boys")](../../../../b/b5/b5a0c5b87e41/) | Hawthorne, Nathaniel, 1804-1864 | 章 | 3 | 35,781 |
+| 54711 | [Spices, Their Nature and Growth; The Vanilla Bean; A Talk on Tea](../../../../b/7f/7fae6314fc53/) | McCormick & Co. (Baltimore, Md.) | 篇 | 27 | 35,776 |
+| 54712 | [The Country's Need of Greater Railway Facilities and Terminals Address Delivered at the Annual Dinner of the Railway Business Association, New York City, December 19, 1912](../../../../b/7e/7e27d0f49960/) | Hill, James J. (James Jerome), 1838-1916 | 篇 | 35 | 35,775 |
+| 54713 | [Dough or Dynamite](../../../../b/7d/7dce013732ab/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 35,775 |
+| 54714 | [The Rocky Mountain Goat](../../../../b/b7/b728809753ef/) | Grant, Madison, 1865-1937 | 篇 | 3 | 35,766 |
+| 54715 | [The Fantasy Fan, Volume 1, Number 9, May 1934 The Fan's Own Magazine](../../../../b/ad/ade7b524c8ad/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 章 | 4 | 35,761 |
+| 54716 | [Gratitude](../../../../b/80/808fe98cdd4c/) | Norton, Roy, 1869-1942 | 篇 | 1 | 35,761 |
+| 54717 | [An Attempt to Explain the Origin and Meaning of the Early Interlaced Ornamentation Found on the Sculptured Stones of Scotland, Ireland, and the Isle of Man](../../../../b/82/8208211567fb/) | French, Gilbert J. (Gilbert James), 1804-1866 | 篇 | 38 | 35,760 |
+| 54718 | [The Mentor: Makers of Modern Opera, Vol. 1, Num. 47, Serial No. 47](../../../../b/48/48a84e7bab46/) | Krehbiel, Henry Edward, 1854-1923 | 篇 | 11 | 35,759 |
+| 54719 | [Profits from scrap](../../../../b/29/295d67b0c6c7/) | American Bureau of Engineering, Chicago | 篇 | 16 | 35,727 |
+| 54720 | [The Dakotan Languages, and Their Relations to Other Languages](../../../../b/95/95d1f8a2cc51/) | Williamson, A. W. (Andrew Woods), 1838-1905 | 章 | 8 | 35,726 |
+| 54721 | [Pied Piper of Mars](../../../../b/40/401506f3fe8c/) | Kummer, Frederic Arnold, 1913-1990; Leydenfrost, Alexander, 1888-1961 [Illustrator] | 篇 | 1 | 35,720 |
+| 54722 | [The Works of Edward Bulwer-Lytton: A Linked Index to the Project Gutenberg Editions](../../../../b/18/18b2e72d0ec4/) | Lytton, Edward Bulwer Lytton, Baron, 1803-1873; Widger, David, 1932-2021 [Editor] | 章 | 6 | 35,714 |
+| 54723 | [Three Days on the Ohio River](../../../../b/e5/e59e7959c0a3/) | Alcott, William A. (William Andrus), 1798-1859 | 章 | 15 | 35,696 |
+| 54724 | [Shakspere & Typography](../../../../b/7c/7c0052e952ea/) | Blades, William, 1824-1890 | 章 | 4 | 35,696 |
+| 54725 | [The Modern Traveller](../../../../b/ae/ae0db17a43dd/) | Belloc, Hilaire, 1870-1953; B. T. B. (Basil Temple Blackwood), 1870-1917 [Illustrator] | 章 | 14 | 35,695 |
+| 54726 | [The Mentor: Among the Ruins of Rome, Vol. 1, Num. 46, Serial No. 46](../../../../b/dd/ddef46f045d8/) | Botsford, George Willis, 1862-1917 | 篇 | 13 | 35,680 |
+| 54727 | [Mistake inside](../../../../b/89/89ac02e64f7d/) | Blish, James, 1921-1975; Finlay, Virgil, 1914-1971 [Illustrator] | 篇 | 1 | 35,672 |
+| 54728 | [The Cholera Gazette, Vol. I. No. 4. Wednesday, August 1st, 1832.](../../../../b/33/33cf33b5c6e6/) | Various | 篇 | 1 | 35,669 |
+| 54729 | [Judge Ben B. Lindsey on the child—the movie—and censorship](../../../../b/fa/fa9f8e5a43af/) | Lindsey, Ben B. (Ben Barr), 1869-1943 | 篇 | 24 | 35,663 |
+| 54730 | [Tomlinsoniana](../../../../b/77/77d47140c701/) | Lytton, Edward Bulwer Lytton, Baron, 1803-1873 | 章 | 23 | 35,661 |
+| 54731 | [Bird's nest, a fantasy in one act](../../../../b/be/be46b508e63c/) | Mygatt, Tracy D. (Tracy Dickinson), 1885-1973 | 章 | 26 | 35,657 |
+| 54732 | [The Professional Approach](../../../../b/d4/d43dc4550359/) | Harness, Charles L., 1915-2005; Thomas, Theodore L., 1920-2005; Schoenherr, John, 1935-2010 [Illustrator] | 篇 | 1 | 35,651 |
+| 54733 | [The magnificent profession](../../../../b/9c/9cb5ba9d8a7e/) | Thomas, Theodore L., 1920-2005; Hunter, Mel, 1927-2004 [Illustrator] | 篇 | 1 | 35,650 |
+| 54734 | [With The Eyes Shut 1898](../../../../b/a6/a6eb4d08a314/) | Bellamy, Edward, 1850-1898 | 篇 | 1 | 35,648 |
+| 54735 | [Georgia: Its History, Condition and Resources](../../../../b/e4/e49844f5e446/) | Drake, Samuel Adams, 1833-1905 | 篇 | 26 | 35,639 |
+| 54736 | [A Minniature ov Inglish Orthoggraphy](../../../../b/4c/4c3cabfb7ad8/) | Elphinston, James, 1721-1809 | 章 | 17 | 35,636 |
+| 54737 | [The Vicious Delinquents](../../../../b/7b/7bad81c9bd05/) | Reinsberg, Mark, 1923-1981; Berry, D. Bruce, 1924-1998 [Illustrator] | 篇 | 1 | 35,635 |
+| 54738 | [Little Frankie and His Cousin](../../../../b/72/72299531c50a/) | Leslie, Madeline, 1815-1893 | 章 | 7 | 35,631 |
+| 54739 | [Brightside Crossing](../../../../b/4b/4b8d52dbf46b/) | Nourse, Alan Edward, 1928-1992 | 篇 | 1 | 35,625 |
+| 54740 | [Acanthus and Wild Grape](../../../../b/80/80946e492504/) | Call, Frank Oliver, 1878-1956 | 章 | 5 | 35,618 |
+| 54741 | [The Skull](../../../../b/59/59903f60eb51/) | Dick, Philip K., 1928-1982 | 篇 | 1 | 35,616 |
+| 54742 | [The Divine Comedy by Dante, Illustrated, Purgatory, Volume 4](../../../../b/5f/5feff5e2bc25/) | Dante Alighieri, 1265-1321; Doré, Gustave, 1832-1883 [Illustrator]; Cary, Henry Francis, 1772-1844 [Translator] | 章 | 7 | 35,613 |
+| 54743 | [The rebellion of Constable Kitt](../../../../b/38/38bc2b92297f/) | Longstreth, T. Morris (Thomas Morris), 1886-1975; Kling, Wendell, 1908-1981 [Illustrator] | 篇 | 1 | 35,611 |
+| 54744 | [Sea Spray: Verses and Translations](../../../../b/5f/5f41fbb13c65/) | Rolleston, T. W. (Thomas William), 1857-1920 | 章 | 11 | 35,608 |
+| 54745 | [Holiday Frolics; Or, Endless Amusement for the Christmas Fireside Containing, the Most Astonishing Feats of Legerdemain, and Astounding Conjurings; Entertaining Experiments in Various Branches of Science; Tricks With Cards & Dice. Art of Making Fireworks; Together With an Excellent Collection of Puzzles, Conundrums, Riddles, Charades, &c. &c. The Whole Admirably Calculated to Beguile the Leisure Hours of Our Holiday Friends. Embellished With a Copper-plate Engraving](../../../../b/be/be42ef3ce9a9/) | Anonymous | 篇 | 4 | 35,601 |
+| 54746 | [A bull movement in Yellow Horse](../../../../b/ae/ae2d7e6144cc/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 35,601 |
+| 54747 | [The man who hated himself](../../../../b/05/05589627b6c9/) | Coburn, Walt, 1889-1971; Pyles, V. E. (Virgil Evans), 1891-1965 [Illustrator] | 篇 | 1 | 35,599 |
+| 54748 | [Catalysis](../../../../b/69/69bf9e636f74/) | Anderson, Poul, 1926-2001; Orban, Paul, 1896-1974 [Illustrator] | 篇 | 1 | 35,597 |
+| 54749 | [Fifty Birds of Town and City](../../../../b/fc/fc01d86a0208/) | Hines, Bob, 1912-1994; Anastasi, Peter A. | 章 | 25 | 35,590 |
+| 54750 | [Diary of Samuel Pepys — Volume 70: December 1668](../../../../b/6e/6eebbc917d02/) | Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator] | 篇 | 3 | 35,590 |
+| 54751 | [The Philistine（#68638）](../../../../b/12/12a075b0df19/) | Various; Taber, Harry Persons, 1865-1951 [Editor] | 章 | 4 | 35,589 |
+| 54752 | [Historical Guide to Old Charlottesville With mention of its statues and of Albemarle's shrines](../../../../b/4d/4d7c65e90bf9/) | Rawlings, Mary, 1873-1960 | 章 | 36 | 35,582 |
+| 54753 | [April Fools: A farce in one act for three male characters](../../../../b/2f/2f135cef6b2e/) | Chapman, W. F. | 章 | 7 | 35,580 |
+| 54754 | [The life-eater](../../../../b/4e/4e097e49da2c/) | Ward, Harold, 1879-1950; Brundage, Margaret, 1900-1976 [Illustrator]; Napoli, Vincent, 1907-1981 [Illustrator] | 篇 | 5 | 35,576 |
+| 54755 | [Wheels](../../../../b/a3/a3d428776cf9/) | Zuroy, Michael, 1918-2007; Emshwiller, Ed, 1925-1990 [Illustrator]; Freas, Kelly, 1922-2005 [Illustrator] | 篇 | 1 | 35,571 |
+| 54756 | [Reports on atrocities in the districts of Yalova and Guemlek and in the Ismid Peninsula](../../../../b/a7/a7200774908d/) | Inter-Allied Commission of Enquiry into Atrocities in Yalova and Guemlek | 章 | 3 | 35,570 |
+| 54757 | [Jupiter's Joke](../../../../b/37/37dd98ea4f52/) | Haley, A. L.; Freas, Kelly, 1922-2005 [Illustrator] | 篇 | 3 | 35,557 |
+| 54758 | [Early Double Monasteries A Paper read before the Heretics' Society on December 6th, 1914](../../../../b/1b/1be6bb288503/) | Stoney, Constance | 篇 | 1 | 35,549 |
+| 54759 | [Miss Mehetabel's Son](../../../../b/d9/d9cfebbcd2e3/) | Aldrich, Thomas Bailey, 1836-1907 | 篇 | 1 | 35,547 |
+| 54760 | [Some Stories of Old Ironsides](../../../../b/43/43fcfc4d9b63/) | Frost, Holloway Halstead, 1889-1935 | 篇 | 6 | 35,544 |
+| 54761 | [The Early Negro Convention Movement The American Negro Academy, Occasional Papers No. 9](../../../../b/09/096fdf702a03/) | Cromwell, John Wesley, 1846-1927 | 章 | 2 | 35,538 |
+| 54762 | [The Fourth Massachusetts Cavalry in the Closing Scenes of the War for the Maintenance of the Union, from Richmond to Appomatox](../../../../b/ac/acaae54a27ad/) | Arnold, William B. (William Bennet), 1848-1919; Bouvé, Edward T., 1841-1920; Pickett, La Salle Corbell, 1848-1931 | 篇 | 1 | 35,537 |
+| 54763 | [On the Ruin of Britain](../../../../b/c8/c800d5bf92ac/) | Gildas, 516?-570?; Giles, J. A. (John Allen), 1808-1884 [Translator] | 篇 | 1 | 35,536 |
+| 54764 | [Cobwebs from a Library Corner](../../../../b/9f/9fc7d04c29a7/) | Bangs, John Kendrick, 1862-1922 | 章 | 59 | 35,530 |
+| 54765 | [Derby Day in the Yukon, and Other Poems of the "Northland"](../../../../b/85/855246d939f5/) | Hayes, Kate Simpson, 1856-1945 | 章 | 19 | 35,528 |
+| 54766 | [The Great Round World and What Is Going On In It, Vol. 1, No. 15, February 18, 1897 A Weekly Magazine for Boys and Girls](../../../../b/66/663332c6b6d0/) | Various | 篇 | 8 | 35,527 |
+| 54767 | [A New Order of Fishlike Amphibia From the Pennsylvanian of Kansas](../../../../b/47/47bc57963fc0/) | Eaton, Theodore H. (Theodore Hildreth), 1907-1981; Stewart, Peggy Lou | 篇 | 6 | 35,525 |
+| 54768 | [Birds of a Feather](../../../../b/d7/d724f73dc85f/) | Silverberg, Robert, 1935-; Wood, Wallace, 1927-1981 [Illustrator] | 篇 | 1 | 35,525 |
+| 54769 | [Planet of No-Return](../../../../b/f2/f2d621165eaf/) | Peacock, Wilbur S., 1911-1979; Fox, Matt, 1906-1988 [Illustrator] | 篇 | 3 | 35,522 |
+| 54770 | [Bowery Life](../../../../b/20/20f7db3a00de/) | Connors, Chuck, 1852-1913 | 篇 | 3 | 35,517 |
+| 54771 | [The Broadway Anthology](../../../../b/ba/ba5fbae7bf3b/) | Bernays, Edward L., 1891-1995; Hoffenstein, Samuel, 1890?-1947; Kingsley, Walter J.; Pemberton, Murdock, 1888-1982 | 章 | 34 | 35,512 |
+| 54772 | [Madame Firmiani](../../../../b/d8/d8d02504a08b/) | Balzac, Honoré de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator] | 篇 | 1 | 35,508 |
+| 54773 | [Ebooks: Neither E, Nor Books Paper for the O'Reilly Emerging Technologies Conference, 2004](../../../../b/ea/ea4569b686a3/) | Doctorow, Cory, 1971- | 篇 | 1 | 35,503 |
+| 54774 | [The Fantasy Fan, Volume 1, Number 11, July 1934 The Fan's Own Magazine](../../../../b/d5/d5347a865152/) | Various; Hornig, Charles D., 1916-1999 | 章 | 5 | 35,499 |
+| 54775 | [A primary reader](../../../../b/8c/8c22c8614dc4/) | Smythe, E. Louise (Emma Louise), 1858-1915 | 章 | 12 | 35,494 |
+| 54776 | [Lancashire Songs](../../../../b/ac/ac8e219278cd/) | Waugh, Edwin, 1817-1890 | 章 | 23 | 35,491 |
+| 54777 | [The Frame Up](../../../../b/74/743f2949855c/) | Davis, Richard Harding, 1864-1916 | 篇 | 1 | 35,488 |
+| 54778 | [Milestones in the Mighty Age of Steam: The Grasshopper and the Corliss](../../../../b/e7/e7cc0f92e1d8/) | Anonymous | 篇 | 1 | 35,476 |
+| 54779 | [Three Articles on Metaphor](../../../../b/11/11a3577a097b/) | Society for Pure English; Clutton-Brock, A. (Arthur), 1868-1924 [Contributor]; Daryush, Elizabeth Bridges, 1887-1977 [Contributor]; Fowler, H. W. (Henry Watson), 1858-1933 [Contributor] | 篇 | 8 | 35,474 |
+| 54780 | [The History of Don Quixote, Volume 2, Part 32](../../../../b/85/85fda858d774/) | Cervantes Saavedra, Miguel de, 1547-1616; Doré, Gustave, 1832-1883 [Illustrator]; Ormsby, John, 1829-1895 [Translator] | 章 | 3 | 35,470 |
+| 54781 | [A Child's Garden of Verses（#25608）](../../../../b/4f/4f6c32c92d95/) | Stevenson, Robert Louis, 1850-1894; Gutmann, Bessie Pease, 1876-1960 [Illustrator] | 章 | 2 | 35,465 |
+| 54782 | [Betsy Baker! or, Too Attentive by Half; A Farce, in One Act](../../../../b/02/027340e64a21/) | Morton, John Maddison, 1811-1891 | 篇 | 1 | 35,463 |
+| 54783 | [Cerberus, the dog of Hades: The history of an idea](../../../../b/e4/e47f99f920bb/) | Bloomfield, Maurice, 1855-1928 | 章 | 17 | 35,451 |
+| 54784 | [The New Crystal Palace and the Christian Sabbath](../../../../b/18/1888343b9036/) | Weir, John | 章 | 5 | 35,448 |
+| 54785 | [Harper's Young People, 1880 Index An Illustrated Weekly](../../../../b/3f/3f0fd79fec7a/) | Various | 篇 | 5 | 35,443 |
+| 54786 | [The Raven（#17192）](../../../../b/35/3536f7508d2e/) | Poe, Edgar Allan, 1809-1849; Stedman, Edmund Clarence, 1833-1908 [Commentator]; Doré, Gustave, 1832-1883 [Illustrator] | 篇 | 1 | 35,430 |
+| 54787 | [Tedric](../../../../b/4b/4b1957711747/) | Smith, E. E. (Edward Elmer), 1890-1965; St. John, J. Allen (James Allen), 1872-1957 [Illustrator] | 篇 | 1 | 35,425 |
+| 54788 | [Men Without a World](../../../../b/ad/adc4e5ecc93c/) | Farrell, Joseph; Kiemle, H. W. (Henry William), 1908-1969 [Illustrator] | 篇 | 3 | 35,421 |
+| 54789 | [Disowned](../../../../b/f9/f996edee86b2/) | Endersby, Victor A., 1891-1988 | 篇 | 1 | 35,421 |
+| 54790 | [A Mississippi View of Race Relations in the South](../../../../b/b7/b7c4c2490e04/) | Rowland, Dunbar, 1864-1937 | 篇 | 1 | 35,419 |
+| 54791 | [Consumers' Cooperative Societies in New York State](../../../../b/a9/a9f448cca1fd/) | Consumers' League of New York City | 篇 | 6 | 35,414 |
+| 54792 | [Diary of Samuel Pepys — Volume 32: December 1664](../../../../b/19/1946e1e66b00/) | Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator] | 篇 | 5 | 35,413 |
+| 54793 | [The Ohio Naturalist, Vol. II, No. 1, November, 1901](../../../../b/3d/3da920c10c02/) | Ohio State University. Biological Club | 章 | 13 | 35,412 |
+| 54794 | [Bleedback](../../../../b/d5/d5a44ed3df0a/) | Marks, Winston K. (Winston Kinney), 1915-1979; Emshwiller, Ed, 1925-1990 [Illustrator] | 篇 | 1 | 35,405 |
+| 54795 | [Lex](../../../../b/b8/b80eb1839220/) | Haggert, W. T.; Wood, Wallace, 1927-1981 [Illustrator] | 章 | 2 | 35,399 |
+| 54796 | [...Or Your Money Back](../../../../b/4e/4e4c61be06d6/) | Garrett, Randall, 1927-1987 | 篇 | 1 | 35,398 |
+| 54797 | [Salomy Jane](../../../../b/0e/0edf076eb437/) | Harte, Bret, 1836-1902; Fisher, Harrison, 1875-1934 [Illustrator]; Keller, Arthur Ignatius, 1866-1924 [Illustrator] | 篇 | 4 | 35,397 |
+| 54798 | [Individuality From 'The Gods and Other Lectures'](../../../../b/13/137a9e90405c/) | Ingersoll, Robert Green, 1833-1899 | 篇 | 1 | 35,390 |
+| 54799 | [Advice on Fox-Hunting](../../../../b/2a/2a1ece2e34f7/) | Willoughby de Broke, Henry Verney, baron, 1844-1902; Willoughby de Broke, Richard Greville Verney, baron, 1869-1923 [Author of introduction, etc.] | 章 | 6 | 35,385 |
+| 54800 | [The Great Round World and What Is Going On In It, Vol. 1, No. 26, May 6, 1897 A Weekly Magazine for Boys and Girls](../../../../b/ad/ad092674cb3a/) | Various | 章 | 7 | 35,373 |
+| 54801 | [History of the 159th Regiment, N.Y.S.V.](../../../../b/1e/1e44ab4f22c0/) | Duffy, Edward, 1830-1899 | 篇 | 1 | 35,371 |
+| 54802 | [Raggety](../../../../b/c5/c5cccea79700/) | White, Mary Josephine; Berryman, Clifford Kennedy, 1869-1949 [Illustrator] | 篇 | 1 | 35,370 |
+| 54803 | [Assignment's End](../../../../b/c7/c7cf079574a8/) | Aycock, Roger D., 1914-2004; Docktor, Irv, 1918-2008 [Illustrator] | 篇 | 1 | 35,354 |
+| 54804 | [Billy and the Big Stick](../../../../b/20/208eea8ecad5/) | Davis, Richard Harding, 1864-1916 | 篇 | 1 | 35,346 |
+| 54805 | [The Mentor: Makers of American Art, Vol. 1, Num. 45, Serial No. 45](../../../../b/c6/c66996bcc127/) | Thompson Willing, J. | 篇 | 12 | 35,339 |
+| 54806 | [It Takes a Thief](../../../../b/33/33ac7b0efd67/) | Miller, Walter M., 1923-1996 | 篇 | 1 | 35,337 |
+| 54807 | [The BYU Solar Cooker/Cooler](../../../../b/e9/e9b2ce2425bc/) | Jones, Steven E., 1949- | 章 | 14 | 35,328 |
+| 54808 | [A Philanthropist](../../../../b/a5/a566f541a48d/) | Bacon, Josephine Daskam, 1876-1961 | 篇 | 1 | 35,327 |
+| 54809 | [Strange waters](../../../../b/15/15f39fdf6f36/) | Scott, Kingsbury, 1880-1943 | 篇 | 1 | 35,307 |
+| 54810 | [On the Existence of Active Oxygen Thesis Presented for the Attainment of the Degree of Doctor of Philosophy at the Johns Hopkins University](../../../../b/0d/0d6c50df1027/) | Keiser, Edward Harrison, 1861- | 章 | 6 | 35,304 |
+| 54811 | [Divine Songs](../../../../b/09/09ddb9153be0/) | Watts, Isaac, 1674-1748 | 篇 | 1 | 35,286 |
+| 54812 | [Ezra Pound: His Metric and Poetry](../../../../b/c8/c873ee7246a8/) | Eliot, T. S. (Thomas Stearns), 1888-1965 | 篇 | 40 | 35,285 |
+| 54813 | [Six Little Ducklings](../../../../b/b6/b65671f9b7c7/) | Pyle, Katharine, 1863-1938 | 章 | 7 | 35,274 |
+| 54814 | [A Port Said miscellany](../../../../b/5d/5d549d2c5600/) | McFee, William, 1881-1966 | 篇 | 4 | 35,272 |
+| 54815 | [Bolshevism: A Curse & Danger to the Workers](../../../../b/22/22c51044dae5/) | Lee, H. W. (Henry William), 1865-1932 | 篇 | 36 | 35,268 |
+| 54816 | [Baptism as taught in the Bible and the Prayer Book](../../../../b/30/301c3cb91e92/) | Hoare, Edward, 1812-1894 | 章 | 2 | 35,222 |
+| 54817 | [Encyclopaedia Britannica, 11th Edition, Volume 4, Appendix: Author List](../../../../b/86/8687feda6141/) | Various | 篇 | 90 | 35,215 |
+| 54818 | [Pushbutton War](../../../../b/59/59d3e272ea4d/) | Martino, Joseph Paul, 1931-; Schoenherr, John, 1935-2010 [Illustrator] | 篇 | 1 | 35,210 |
+| 54819 | [Bramble Brae](../../../../b/97/97ddbd708eda/) | Bridges, Robert, 1858-1941 | 章 | 58 | 35,199 |
+| 54820 | [It's Fun to Sew Aprons and Skirts](../../../../b/87/87377f33e44a/) | Johnson, Theta, 1916-2005 | 篇 | 4 | 35,184 |
+| 54821 | [October, and Other Poems; with Occasional Verses on the War](../../../../b/ee/ee76ddac82a5/) | Bridges, Robert, 1844-1930 | 章 | 3 | 35,184 |
+| 54822 | [Some imagist poets, 1917](../../../../b/7d/7dd31a82d66e/) | Aldington, Richard, 1892-1962; Fletcher, John Gould, 1886-1950; Flint, F. S. (Frank Stewart), 1885-1960; H. D. (Hilda Doolittle), 1886-1961; Lawrence, D. H. (David Herbert), 1885-1930; Lowell, Amy, 1874-1925 | 章 | 10 | 35,178 |
+| 54823 | [Heroes in Peace The 6th William Penn Lecture, May 9, 1920](../../../../b/b9/b9d1778a213e/) | Holmes, John Haynes, 1879-1964 | 篇 | 22 | 35,172 |
+| 54824 | [Our Union and Its Defenders An Oration, Delivered Before the Citizens of Burlington, N.J., on the Occasion of Their Celebration of the Eighty-Sixth Anniversary of Independence Day, July 4th, 1862](../../../../b/50/502dea6643be/) | Pugh, J. Howard (John Howard), 1827-1905 | 篇 | 24 | 35,171 |
+| 54825 | [The Homicidal Diary](../../../../b/0a/0a1e12c16e7d/) | Peirce, Earl | 篇 | 1 | 35,169 |
+| 54826 | [Star Pirate](../../../../b/7e/7ee0060652e5/) | Kummer, Frederic Arnold, 1913-1990; Eron, Dan [Illustrator] | 篇 | 1 | 35,169 |
+| 54827 | [The necessity of disinterment, under existing circumstances](../../../../b/81/81456a12d71c/) | Cooke, William, 1802-1834 | 篇 | 23 | 35,161 |
+| 54828 | [The Song of the Sword, and Other Verses](../../../../b/09/0919a7d38262/) | Henley, William Ernest, 1849-1903 | 章 | 29 | 35,133 |
+| 54829 | [Hymns from the Greek Office Books Together with Centos and Suggestions](../../../../b/8f/8f217652a839/) | Brownlie, John, 1857-1925 | 篇 | 4 | 35,124 |
+| 54830 | [Practical Points in Anesthesia](../../../../b/d5/d560511581df/) | Neef, Frederick-Emil | 章 | 13 | 35,114 |
+| 54831 | [The Witch-Maid, & Other Verses](../../../../b/5b/5b6f85461bed/) | Mackellar, Dorothea, 1885-1968 | 章 | 4 | 35,113 |
+| 54832 | [The singing leaves](../../../../b/cd/cdb057fed089/) | Peabody, Josephine Preston, 1874-1922 | 篇 | 3 | 35,112 |
+| 54833 | [Growing Crimson Clover](../../../../b/02/02f4cae71dc6/) | Kephart, L. W. (Leonard Wheeler), 1892-1988 | 篇 | 19 | 35,111 |
+| 54834 | [The Prince and the Pauper, Part 7.](../../../../b/53/535d2e79edef/) | Twain, Mark, 1835-1910 | 篇 | 1 | 35,106 |
+| 54835 | [The development of armor-piercing shells (with suggestions for their improvement)](../../../../b/2e/2e85727fdfab/) | De Zafra, Carlos, 1882-1967 | 篇 | 3 | 35,102 |
+| 54836 | [The Friendly Daemon, or the Generous Apparition Being a True Narrative of a Miraculous Cure, Newly Perform'd Upon That Famous Deaf and Dumb Gentleman, Dr. Duncan Campbel, by a Familiar Spirit That Appear'd to Him in a White Surplice, Like a Cathedral Singing Boy](../../../../b/0c/0c51efe5adda/) | Defoe, Daniel, 1661?-1731 | 章 | 2 | 35,082 |
+| 54837 | [The Mentor: Famous English Poets, Vol. 1, Num. 44, Serial No. 44](../../../../b/7f/7fb93e55ac72/) | Mabie, Hamilton Wright, 1846-1916 | 章 | 3 | 35,077 |
+| 54838 | [A Record of Study in Aboriginal American Languages](../../../../b/90/903d70646c2c/) | Brinton, Daniel G. (Daniel Garrison), 1837-1899 | 章 | 4 | 35,076 |
+| 54839 | [The little elves seeking the beautiful world](../../../../b/b6/b65f27b32b13/) | Warner, Lucy Hamilton; Bardwell, George Willis, 1868-1937 [Illustrator] | 章 | 6 | 35,072 |
+| 54840 | [So Many Worlds Away...](../../../../b/d5/d5ad946e17e1/) | Swain, Dwight V., 1915-1992; Terry, W. E. (Willis E.), 1921-1992 [Illustrator] | 篇 | 1 | 35,072 |
+| 54841 | [Wise or Otherwise](../../../../b/cf/cf5ada91ec62/) | Leavitt, Lydia; Leavitt, Thad. W. H. (Thaddeus William Henry), 1844?-1909 | 章 | 4 | 35,071 |
+| 54842 | [Bow-Wow and Mew-Mew](../../../../b/40/400028f6a9b1/) | Craik, Georgiana M. (Georgiana Marion), 1831-1895; Sindelar, Joseph C. (Joseph Charles), 1885- [Editor]; Hodge, Helen Geraldine [Illustrator] | 章 | 39 | 35,069 |
+| 54843 | [Quaint Epitaphs](../../../../b/9a/9a3ce04d9bb3/) | Various | 篇 | 10 | 35,059 |
+| 54844 | [The History of Whittington](../../../../b/3b/3b1f6449c768/) | Davies, William, Head-master of Carnarvon School | 章 | 14 | 35,058 |
+| 54845 | [Stephen H. Branch's Alligator, Vol. 1 no. 14, July 24, 1858](../../../../b/93/939fbfef0cc3/) | Branch, Stephen H., 1813- | 篇 | 5 | 35,055 |
+| 54846 | [George Sand（#36040）](../../../../b/71/71dd605bfeb6/) | McCarthy, Justin, 1830-1912 | 篇 | 11 | 35,051 |
+| 54847 | [Making a Poultry House](../../../../b/61/61b4f7615e52/) | Conover, Mary Roberts, 1880- | 章 | 9 | 35,037 |
+| 54848 | [Hell: Warm Words on the Cheerful and Comforting Doctrine of Eternal Damnation](../../../../b/83/83bf5af29a5b/) | Ingersoll, Robert Green, 1833-1899 | 篇 | 1 | 35,024 |
+| 54849 | [The Mentor: The Conquest of the Poles, Serial No. 37](../../../../b/34/34c64c0238d5/) | Peary, Robert E. (Robert Edwin), 1856-1920 | 篇 | 21 | 35,022 |
+| 54850 | [Weaved by Warner](../../../../b/43/436771418e7b/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 35,022 |
+| 54851 | [The man elephant](../../../../b/ea/ea37e2d18a67/) | James, Hartwell [Editor]; Neill, John R. (John Rea), 1877-1943 [Illustrator] | 章 | 5 | 35,020 |
+| 54852 | [Undertones](../../../../b/3e/3eb1366189f5/) | Cawein, Madison Julius, 1865-1914 | 章 | 4 | 35,018 |
+| 54853 | [The Fantasy Fan, Volume 2, Number 3, November 1934](../../../../b/51/51ea9dbb6070/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 篇 | 1 | 35,015 |
+| 54854 | [The Two Hundredth Anniversary of the Settlement of the Town of New Milford, Conn. June 17th, 1907 Address Delivered by Daniel Davenport, of Bridgeport, Conn.](../../../../b/52/52f2d78a4ece/) | Davenport, Daniel, 1773-1860 | 篇 | 1 | 35,013 |
+| 54855 | [The Glebe 1914/09 (Vol. 2, No. 2): Poems](../../../../b/a9/a91c7b59119d/) | Cronyn, George W. (George William), 1888-1969; Kreymborg, Alfred, 1883-1966 [Editor]; Man Ray, 1890-1976 [Editor] | 章 | 7 | 35,012 |
+| 54856 | [The Treaty With China, its Provisions Explained New York Tribune, Tuesday, August 28, 1868](../../../../b/bf/bf802da29435/) | Twain, Mark, 1835-1910 | 篇 | 10 | 35,005 |
+| 54857 | [The Dean's Watch](../../../../b/c7/c72e4aec5d4c/) | Erckmann-Chatrian; Fiske, Ralph Browning, 1870-1898 [Translator] | 篇 | 1 | 35,005 |
+| 54858 | [The Fantasy Fan, Volume 2, Number 6,  February 1935 The Fan's Own Magazine](../../../../b/cd/cd7b6fa2c48c/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 章 | 4 | 35,003 |
+| 54859 | [Marjorie's Three Gifts](../../../../b/ff/ffd4991196a2/) | Alcott, Louisa May, 1832-1888 | 篇 | 1 | 34,996 |
+| 54860 | [The Geology of D.A.R. State Park, Mt. Philo State Forest Park, Sand Bar State Park](../../../../b/44/444171c94654/) | Dodge, Harry W. | 篇 | 13 | 34,995 |
+| 54861 | [A Winter Nosegay: Being Tales for Children at Christmastide](../../../../b/71/71c3f41ce926/) | Crane, Walter, 1845-1915 | 篇 | 3 | 34,993 |
+| 54862 | [Evening Dress Farce](../../../../b/65/65cf55f67240/) | Howells, William Dean, 1837-1920 | 篇 | 1 | 34,985 |
+| 54863 | [Anguish Languish](../../../../b/72/72064240d03c/) | Chace, Howard L., 1897-1982; Doremus, Hal [Illustrator] | 篇 | 6 | 34,978 |
+| 54864 | [The Velvet Glove（#29471）](../../../../b/81/817709dfa1c7/) | Harrison, Harry, 1925-2012 | 篇 | 3 | 34,972 |
+| 54865 | [Making Good for Muley](../../../../b/e2/e2a8fb720fac/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 34,970 |
+| 54866 | [Golden rules of medical evidence](../../../../b/f3/f3d0b52f32a3/) | Atkinson, Stanley B. (Stanley Bean), 1873-1910 | 章 | 7 | 34,966 |
+| 54867 | [Blackboard Sketching](../../../../b/08/085f007d02ef/) | Whitney, Frederick, 1858-1949; Sargent, Walter, 1868-1929 [Author of introduction, etc.] | 篇 | 28 | 34,935 |
+| 54868 | [The Nursery, No. 169, January, 1881, Vol. XXIX A Monthly Magazine for Youngest Readers](../../../../b/2e/2e5211b1a81a/) | Various | 章 | 7 | 34,931 |
+| 54869 | [Old New England houses](../../../../b/ec/ec217c3bc1da/) | Robinson, Albert G. (Albert Gardner), 1855-1932 | 篇 | 1 | 34,931 |
+| 54870 | [Camps and Trails](../../../../b/e6/e60d91ecac51/) | Abbott, Henry, 1850-1943 | 篇 | 1 | 34,927 |
+| 54871 | [Rip Van Winkle（#64636）](../../../../b/9d/9d379a694732/) | Irving, Washington, 1783-1859; Merrill, Frank T., 1848-1923 [Illustrator] | 篇 | 1 | 34,917 |
+| 54872 | [With These Hands](../../../../b/b6/b60b4d07edd9/) | Kornbluth, C. M. (Cyril M.), 1923-1958 | 章 | 6 | 34,914 |
+| 54873 | [The Issue: The Case for Sinn Fein](../../../../b/d5/d570465a339c/) | Lector | 篇 | 4 | 34,895 |
+| 54874 | ['Twixt Earth and Stars: Poems](../../../../b/40/402fc084ba94/) | Hall, Radclyffe, 1886-1943 | 章 | 16 | 34,890 |
+| 54875 | [The Collaborators 1896](../../../../b/30/301f1b0f0733/) | Hichens, Robert, 1864-1950 | 篇 | 1 | 34,880 |
+| 54876 | [Occurrence of the Garter Snake, Thamnophis sirtalis, in the Great Plains and Rocky Mountains](../../../../b/3d/3dddd9b66e14/) | Fitch, Henry S. (Henry Sheldon), 1909-2009; Maslin, T. Paul | 篇 | 37 | 34,878 |
+| 54877 | [The Fly Leaf, No. 1, Vol. 1, December 1895 A Pamphlet Periodical of the New—the New Man, New Woman, New Ideas, Whimsies and Things](../../../../b/e8/e85eebb2e46b/) | Various; Harte, Walter Blackburn, 1867-1899 [Editor] | 篇 | 7 | 34,878 |
+| 54878 | [Cessions of Land by Indian Tribes to the United States: Illustrated by Those in the State of Indiana First Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1879-80, Government Printing Office, Washington, 1881, pages 247-262](../../../../b/f4/f49fd7658ef3/) | Royce, Charles C., 1845-1923 | 章 | 3 | 34,870 |
+| 54879 | [Oxford poetry, 1919](../../../../b/b9/b9443eb833b3/) | Earp, T. W. (Thomas Wade), 1892-1958 [Editor]; Sassoon, Siegfried, 1886-1967 [Editor]; Sayers, Dorothy L. (Dorothy Leigh), 1893-1957 [Editor] | 篇 | 1 | 34,870 |
+| 54880 | [The Baculum in the Chipmunks of Western North America](../../../../b/7f/7f9532cd61a1/) | White, John A. | 章 | 23 | 34,860 |
+| 54881 | [Our Town](../../../../b/b8/b83211937335/) | Bixby, Jerome, 1923-1998 | 篇 | 1 | 34,859 |
+| 54882 | [Bars and Shadows: The Prison Poems of Ralph Chaplin](../../../../b/49/49b690217297/) | Chaplin, Ralph, 1887-1961; Nearing, Scott, 1883-1983 [Author of introduction, etc.] | 章 | 6 | 34,856 |
+| 54883 | [A Duel in the Dark: An Original Farce, in One Act](../../../../b/5e/5e163f63fc33/) | Coyne, J. Stirling (Joseph Stirling), 1803-1868 | 篇 | 1 | 34,850 |
+| 54884 | [The Fantasy Fan, Volume 1, Number 12, August 1934 The Fan's Own Magazine](../../../../b/43/43b9fddfaae9/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 篇 | 1 | 34,847 |
+| 54885 | [Adventures of Huckleberry Finn, Chapters 01 to 05](../../../../b/e9/e9abcdd2ec1f/) | Twain, Mark, 1835-1910 | 章 | 5 | 34,845 |
+| 54886 | [Indirection](../../../../b/c6/c65235281933/) | Cole, Everett B., 1910-2001; Freas, Kelly, 1922-2005 [Illustrator] | 篇 | 6 | 34,843 |
+| 54887 | [The Twelve Tables](../../../../b/c4/c473246ec3dd/) | Coleman-Norton, Paul R. (Paul Robinson), 1898-1971 [Translator] | 篇 | 13 | 34,842 |
+| 54888 | [Venus is a Man's World](../../../../b/7e/7e455309b52b/) | Tenn, William, 1920-2010; Fawcette, Gene, 1920?-1988 [Illustrator] | 篇 | 1 | 34,839 |
+| 54889 | [The land beyond the mist](../../../../b/38/387d4ab3e7b6/) | Haycox, Ernest, 1899-1950 | 篇 | 1 | 34,838 |
+| 54890 | [The Man Who Stole A Meeting-House 1878, From "Coupon Bonds"](../../../../b/d0/d03eebbdfabb/) | Trowbridge, J. T. (John Townsend), 1827-1916 | 篇 | 1 | 34,829 |
+| 54891 | [Eyes of Youth A Book of Verse by Padraic Colum, Shane Leslie, Viola Meynell, Ruth Lindsay, Hugh Austin, Judith Lytton, Olivia Meynell, Maurice Healy, Monica Saleeby & Francis Meynell. With four early poems by Francis Thompson & a foreword by Gilbert K. Chesterton](../../../../b/13/13ba4caa592d/) | Various | 篇 | 119 | 34,827 |
+| 54892 | [The History of Don Quixote, Volume 1, Part 03](../../../../b/05/051cebd1456a/) | Cervantes Saavedra, Miguel de, 1547-1616; Doré, Gustave, 1832-1883 [Illustrator]; Ormsby, John, 1829-1895 [Translator] | 章 | 3 | 34,825 |
+| 54893 | [Bananas: Nature's Institution for the Promotion of Laziness](../../../../b/4b/4b21e2c0dbdd/) | Perry, Edward Wilkin | 篇 | 1 | 34,822 |
+| 54894 | [Thoughts Suggested by Mr. Froude's "Progress"](../../../../b/c0/c03e3cf04951/) | Warner, Charles Dudley, 1829-1900 | 篇 | 1 | 34,818 |
+| 54895 | [The Mentor: Historic Spots of America, Vol. 1, Num. 32, Serial No. 32](../../../../b/01/01173b3be69a/) | McElroy, Robert McNutt, 1872-1959 | 篇 | 14 | 34,806 |
+| 54896 | [The History of Don Quixote, Volume 2, Part 27](../../../../b/90/904173cc38c6/) | Cervantes Saavedra, Miguel de, 1547-1616; Doré, Gustave, 1832-1883 [Illustrator]; Ormsby, John, 1829-1895 [Translator] | 章 | 3 | 34,797 |
+| 54897 | [A Succinct View of the Importance and Practicability of Forming a Ship Canal across the Isthmus of Panama](../../../../b/27/27755c2154dc/) | Hill, H. R. | 篇 | 7 | 34,791 |
+| 54898 | [Sparing the family tree](../../../../b/7c/7c4b7b2c147c/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 34,791 |
+| 54899 | [Tolstoy's interpretation of money and property](../../../../b/bc/bc9d42c0a3b8/) | Stanoyevich, Milivoy S. (Milivoy Stoyan), 1882-1973 | 篇 | 1 | 34,786 |
+| 54900 | [The Napoleon of the People](../../../../b/4f/4ffb2bebc148/) | Balzac, Honoré de, 1799-1850; Bell, Clara, 1834-1927 [Translator]; Marriage, Ellen, 1865-1946 [Translator] | 篇 | 1 | 34,782 |
+| 54901 | [Fish Stories](../../../../b/51/5141eb5bca93/) | Abbott, Henry, 1850-1943 | 篇 | 1 | 34,775 |
+| 54902 | [The Glebe 1914/01 (Vol. 1, No. 4): Love of One's Neighbor](../../../../b/9a/9a80c27b121d/) | Andreyev, Leonid, 1871-1919; Kreymborg, Alfred, 1883-1966 [Editor]; Man Ray, 1890-1976 [Editor]; Seltzer, Thomas, 1875?-1943 [Translator] | 篇 | 1 | 34,773 |
+| 54903 | [The Adventures of Col. Daniel Boon Containing a Narrative of the Wars of Kentucke](../../../../b/ce/ceaf0365ce33/) | Filson, John, 1747?-1788 | 篇 | 1 | 34,769 |
+| 54904 | [A Discourse on the Evils of Dancing](../../../../b/4e/4ec5516cf5cd/) | Mesick, John F. | 篇 | 1 | 34,755 |
+| 54905 | [Army of the Cumberland and the Battle of Stone's River](../../../../b/f7/f7fb867570ef/) | Kniffin, G. C., 1831-1917 | 篇 | 20 | 34,749 |
+| 54906 | [The First Day of Spring](../../../../b/2a/2af47034f7dc/) | Wolf, Mari, 1927-; Emshwiller, Ed, 1925-1990 [Illustrator] | 篇 | 1 | 34,736 |
+| 54907 | [The Mentor: Spain and Gibraltar, Vol. 1, Num. 31, Serial No. 31, September 15, 1913](../../../../b/a8/a8a1ce1371bd/) | Elmendorf, Dwight L. (Dwight Lathrop), 1859-1929 | 篇 | 18 | 34,731 |
+| 54908 | [The Nursery, No. 103, July, 1875. Vol. XVIII. A Monthly Magazine for Youngest Readers](../../../../b/e7/e76e0acbb23b/) | Various | 篇 | 13 | 34,721 |
+| 54909 | [Survival](../../../../b/5c/5cdb4c0292d3/) | Wells, Basil, 1912-2003; Doolin, Joseph, 1896-1967 [Illustrator] | 篇 | 1 | 34,719 |
+| 54910 | [Yellowstone via Gallatin Gateway Montana](../../../../b/c2/c27c843d3374/) | Chicago, Milwaukee, St. Paul, and Pacific Railroad Company | 篇 | 3 | 34,717 |
+| 54911 | [The Best Nonsense Verses](../../../../b/b5/b574b8f4e564/) | Bacon, Josephine Daskam, 1876-1961 [Editor] | 篇 | 1 | 34,712 |
+| 54912 | [Shenandoah National Park, Virginia](../../../../b/29/29792fef0442/) | United States. National Park Service | 章 | 19 | 34,706 |
+| 54913 | [The Parenticide Club](../../../../b/5e/5ea66c881880/) | Bierce, Ambrose, 1842-1914? | 章 | 4 | 34,694 |
+| 54914 | [Everybody's Business Is Nobody's Business Or, Private Abuses, Public Grievances; Exemplified in the Pride, Insolence, and Exorbitant Wages of Our Women, Servants, Footmen, &c.](../../../../b/6e/6e9346258998/) | Defoe, Daniel, 1661?-1731 | 章 | 3 | 34,691 |
+| 54915 | [Adventures of Sonny Bear](../../../../b/2c/2cf75d73b22e/) | Fox, Frances Margaret, 1870-1959; Carr, Warner [Illustrator] | 章 | 11 | 34,683 |
+| 54916 | [Bluebeard; a musical fantasy](../../../../b/27/27ffd462a489/) | Wiggin, Kate Douglas Smith, 1856-1923 | 篇 | 4 | 34,681 |
+| 54917 | [How to read and correct proof](../../../../b/fb/fb07a6b6b724/) | Smith, Lloyd E. (Lloyd Edwin), 1902-1971; Haldeman-Julius, E. (Emanuel), 1888-1951 [Editor] | 章 | 5 | 34,665 |
+| 54918 | [The Sabbath at Home](../../../../b/15/150ba6804c8f/) | Andrews, Silas M. (Silas Milton), 1805-1881 | 章 | 5 | 34,663 |
+| 54919 | [An Uninvited Member: A Play for Girls in Two Scenes](../../../../b/0a/0ae718560b8c/) | Guptill, Elizabeth F. (Elizabeth Frances), 1870- | 篇 | 7 | 34,659 |
+| 54920 | [The cowboy and the lady and her pa](../../../../b/89/895e324ac93b/) | Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944; Allen, James E., 1894-1964 [Illustrator] | 篇 | 1 | 34,649 |
+| 54921 | [Voyager 1 Encounters Saturn](../../../../b/bc/bc80560f16f8/) | United States. National Aeronautics and Space Administration | 章 | 19 | 34,643 |
+| 54922 | [Mewanee, the Little Indian Boy](../../../../b/f7/f7148b5c3ac6/) | Wiley, Belle; Hubbard, Charles D. (Charles Daniel), 1876-1951 [Illustrator] | 章 | 10 | 34,641 |
+| 54923 | [Rosa Alchemica](../../../../b/77/77ac2ce9addb/) | Yeats, W. B. (William Butler), 1865-1939 | 章 | 5 | 34,640 |
+| 54924 | [General Max Shorter](../../../../b/79/79ba85dbedb6/) | Neville, Kris, 1925-1980 | 篇 | 3 | 34,639 |
+| 54925 | [Wise Men and a Mule](../../../../b/8f/8fb09f5e81d6/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 34,638 |
+| 54926 | [How to Settle Accounts with your Laundress: An Original Farce, in One Act](../../../../b/e0/e02867a1e26f/) | Coyne, J. Stirling (Joseph Stirling), 1803-1868 | 篇 | 1 | 34,632 |
+| 54927 | [Throwing-sticks in the National Museum Third Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1883-'84, Government Printing Office, Washington, 1890, pages 279-289](../../../../b/1d/1d6165e785be/) | Mason, Otis Tufton, 1838-1908 | 章 | 19 | 34,626 |
+| 54928 | [The First Book of Eskimos](../../../../b/1f/1f87dbf9738c/) | Brewster, Benjamin, 1907-1995; Koering, Ursula [Illustrator] | 篇 | 23 | 34,625 |
+| 54929 | [The Fantasy Fan, March 1934 The Fans' Own Magazine](../../../../b/ff/fff1771ed29b/) | Various; Hornig, Charles D., 1916-1999 [Editor] | 章 | 5 | 34,617 |
+| 54930 | [The Starbusters](../../../../b/cc/cc792f790729/) | Coppel, Alfred, 1921-2004; Vestal, Herman B., 1916-2007 [Illustrator] | 篇 | 1 | 34,613 |
+| 54931 | [My Garden Acquaintance](../../../../b/64/6471df4f3e51/) | Lowell, James Russell, 1819-1891 | 篇 | 23 | 34,611 |
+| 54932 | [Helped by a horse doctor](../../../../b/1c/1c36c82a5f11/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 34,607 |
+| 54933 | [The Last Laugh（#63986）](../../../../b/cf/cf4139c3abf7/) | Walton, Bryce, 1918-1988; Vestal, Herman B., 1916-2007 [Illustrator] | 篇 | 1 | 34,606 |
+| 54934 | [The Gostak and the Doshes](../../../../b/dc/dcb16bc999a6/) | Breuer, Miles J. (Miles John), 1889-1945; Morey, Leo, 1889-1965 [Illustrator] | 篇 | 1 | 34,605 |
+| 54935 | [Named right](../../../../b/62/629375651081/) | Caffrey, Andrew A. (Andrew Augustine), 1891-1970; Drew, John, 1885-1953 [Illustrator]; Pyles, V. E. (Virgil Evans), 1891-1965 [Illustrator] | 篇 | 1 | 34,600 |
+| 54936 | [Child Songs of Cheer](../../../../b/ea/eab1f919cc7b/) | Stein, Evaleen, 1863-1923; Inglis, Antoinette, 1880- [Illustrator] | 章 | 69 | 34,595 |
+| 54937 | [Watchbird](../../../../b/ab/ab67a852c96d/) | Sheckley, Robert, 1928-2005; Emshwiller, Ed, 1925-1990 [Illustrator] | 篇 | 1 | 34,595 |
+| 54938 | [4-1/2B, Eros](../../../../b/90/907307b4bfcb/) | Jameson, Malcolm, 1891-1945 | 篇 | 1 | 34,593 |
+| 54939 | [Aunt Milly's diamonds](../../../../b/a9/a90e1ed97c83/) | Lamb, Ruth, 1829-1916 | 章 | 7 | 34,582 |
+| 54940 | [A World Apart](../../../../b/13/13b87cc3e4b1/) | Merwin, Sam, Jr., 1910-1996 | 篇 | 1 | 34,573 |
+| 54941 | [The Conditions of Existence as Affecting the Perpetuation of Living Beings Lecture V. (of VI.), "Lectures to Working Men", at the Museum of Practical Geology, 1863, on Darwin's Work: "Origin of Species"](../../../../b/9b/9b0ff7ec7887/) | Huxley, Thomas Henry, 1825-1895 | 篇 | 34 | 34,568 |
+| 54942 | [The hen-punchers of Piperock](../../../../b/d6/d6878b1fba26/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 章 | 2 | 34,567 |
+| 54943 | [The Oversight](../../../../b/3e/3e3d84a86246/) | Breuer, Miles J. (Miles John), 1889-1945; Forte, John R. (John Robert), 1918-1966 [Illustrator] | 篇 | 1 | 34,566 |
+| 54944 | [A Difficult Problem 1900](../../../../b/71/712af36355c2/) | Green, Anna Katharine, 1846-1935 | 篇 | 1 | 34,554 |
+| 54945 | [The Divine Comedy by Dante, Illustrated, Paradise, Volume 2](../../../../b/4e/4ee3d8eb9594/) | Dante Alighieri, 1265-1321; Doré, Gustave, 1832-1883 [Illustrator]; Cary, Henry Francis, 1772-1844 [Translator] | 章 | 7 | 34,550 |
+| 54946 | [Songs of Three Counties, and Other Poems](../../../../b/be/be3d98b6352f/) | Hall, Radclyffe, 1886-1943; Cunninghame Graham, R. B. (Robert Bontine), 1852-1936 [Author of introduction, etc.] | 章 | 27 | 34,544 |
+| 54947 | [Punch, or the London Charivari, Vol. 108, March 16, 1895](../../../../b/9a/9ac82028005e/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 篇 | 4 | 34,537 |
+| 54948 | [The Glorious Law-Giver, and the Obedient Subject Being the Substance of a Sermon, on the Duty of All Believers to Commemorate the Death of the Redeemer, in the Lord's Supper. Intending to Set Forth the Authority of Christ; the Nature of the Ordinance; and a Description of the Persons Who Have a Right to Partake of the Same.](../../../../b/ec/ecba8ad2f1e4/) | Church, J. (John), 1780?-1825? | 篇 | 12 | 34,525 |
+| 54949 | [Regulations for the establishment and government of the Royal Military Asylum](../../../../b/2f/2fdcd1e282e2/) | Duke of York's Royal Military School | 章 | 19 | 34,523 |
+| 54950 | [Inaugural Presidential Address（#28000）](../../../../b/49/49a92d51fe4c/) | Obama, Barack, 1961- | 篇 | 9 | 34,520 |
+| 54951 | [The Sphere of Sleep](../../../../b/29/29b672160519/) | Geier, Chester S., 1921-1990 | 篇 | 1 | 34,515 |
+| 54952 | [Evolution（#52273）](../../../../b/2e/2ea5aa050b50/) | Hoare, Edward, 1812-1894 | 篇 | 1 | 34,512 |
+| 54953 | [Muley's morals](../../../../b/08/08e9d5194113/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 34,503 |
+| 54954 | [An Address Given in to the Late King James by the Titular Archbishop of Dublin From the General Meeting of the Romish Bishops and Clergy of Ireland, Held in May Last, by That King's Order. Wherein Several Things Relating to the Popish Designs upon These Three Kingdoms, Are Discovered. The Original Whereof Was Found in the Late King James's Closet, in the Castle of Dublin, at His Leaving That City: And the Copy Whereof Was Found in the Titular Archbishop's Lodgings. Now Publish'd with Reflections on Each Paragraph.](../../../../b/51/519d48f35910/) | Russell, Patrick, 1629-1692 [Contributor] | 章 | 15 | 34,500 |
+| 54955 | [Cows is cows](../../../../b/61/619741b82f56/) | Tuttle, W. C. (Wilbur C.), 1883-1969 | 篇 | 1 | 34,494 |
+| 54956 | [The Art of Drinking: A Historical Sketch](../../../../b/b0/b0ae655ab953/) | Gervinus, Georg Gottfried, 1805-1871 | 篇 | 19 | 34,493 |
+| 54957 | [Incidents in a Gipsy's Life](../../../../b/db/db5ed599fddb/) | Smith, George, 1830- | 篇 | 4 | 34,478 |
+| 54958 | [Charlie Newcomer](../../../../b/aa/aa8a1041b652/) | Stover, Wilbur B., 1866- | 章 | 8 | 34,475 |
+| 54959 | [Valentine and Orson: A Romantic Melo-Drame As Performed at the Theatre-Royal Covent-Garden](../../../../b/75/75c542c321b7/) | Dibdin, Thomas, 1771-1841 | 幕 | 2 | 34,464 |
+| 54960 | [Putting the Most Into Life](../../../../b/dc/dcd69ca5ca48/) | Washington, Booker T., 1856-1915 | 篇 | 1 | 34,454 |
+| 54961 | [The head hunters](../../../../b/1e/1e0da97ca461/) | Samachson, Joseph, 1906-1980; Pohl, Frederik, 1919-2013; Emshwiller, Ed, 1925-1990 [Illustrator] | 章 | 5 | 34,451 |
+| 54962 | [Asteroid of the Damned](../../../../b/f8/f872a50aa3ee/) | Wylie, Dirk, 1920-1949; Pohl, Frederik, 1919-2013 | 篇 | 1 | 34,443 |
+| 54963 | [Pioneer Surgery in Kentucky: A Sketch](../../../../b/e8/e839992dbff5/) | Yandell, David Wendel, 1826-1898 | 篇 | 1 | 34,440 |
+| 54964 | [The Headswoman](../../../../b/2d/2d08f118dff9/) | Grahame, Kenneth, 1859-1932; Foster, Marcia Lane, 1897-1983 [Illustrator] | 章 | 5 | 34,439 |
+| 54965 | [Down to Earth](../../../../b/9e/9eb13f072bff/) | Harrison, Harry, 1925-2012; Lutjens [Illustrator] | 篇 | 1 | 34,435 |
+| 54966 | [Cutie: A Warm Mamma](../../../../b/c0/c0e353efb632/) | Hecht, Ben, 1894-1964; Bodenheim, Maxwell, 1893-1954 | 篇 | 8 | 34,431 |
+| 54967 | [The Migrations of an American Boat Type](../../../../b/60/606013c1dc4a/) | Chapelle, Howard Irving, 1901-1975 | 篇 | 4 | 34,431 |
+| 54968 | [Of Vulgarity](../../../../b/2e/2ee4a1806e4c/) | Ruskin, John, 1819-1900 | 篇 | 1 | 34,424 |
+| 54969 | [Confidences: Talks With a Young Girl Concerning Herself](../../../../b/48/48c7bb0b14fc/) | Lowry, E. B. (Edith Belle), 1878-1945 | 章 | 8 | 34,419 |
+| 54970 | [For His Country, and Grandmother and the Crow](../../../../b/cc/cc51c01e7c85/) | Saunders, Marshall, 1861-1947 | 章 | 3 | 34,414 |
+| 54971 | [Stephen H. Branch's Alligator, Vol. 1 no. 05, May 22, 1858](../../../../b/04/0402e1cd4105/) | Branch, Stephen H., 1813- [Editor] | 章 | 4 | 34,413 |
+| 54972 | [Clay-shuttered doors](../../../../b/25/25c41d6d3e0b/) | Hull, Helen R. (Helen Rose), 1888-1971 | 篇 | 1 | 34,411 |
+| 54973 | [The Native Soil](../../../../b/a9/a93a18f28f84/) | Nourse, Alan Edward, 1928-1992 | 篇 | 1 | 34,407 |
+| 54974 | [A Mysterious Disappearance: A Farce](../../../../b/23/2380b2e55ee2/) | Baker, George M. (George Melville), 1832-1890 | 章 | 3 | 34,393 |
+| 54975 | [A Child's Garden of Verses（#136）](../../../../b/ea/ea6f0ab5c71b/) | Stevenson, Robert Louis, 1850-1894 | 章 | 64 | 34,385 |
+| 54976 | [Green Bays.  Verses and Parodies](../../../../b/4f/4fb72f7a72ed/) | Quiller-Couch, Arthur, 1863-1944 | 章 | 14 | 34,381 |
+| 54977 | [The Fall of the House of Usher](../../../../b/cf/cffe34936fee/) | Poe, Edgar Allan, 1809-1849 | 篇 | 25 | 34,379 |
+| 54978 | [The Crystal Crypt](../../../../b/19/197f60c5e8b4/) | Dick, Philip K., 1928-1982 | 篇 | 1 | 34,376 |
+| 54979 | [The Mirror of Literature, Amusement, and Instruction. Volume 10, No. 278, Supplementary Number (1828)](../../../../b/8a/8aca2c44a9e1/) | Various | 篇 | 1 | 34,376 |
+| 54980 | [Laboratory](../../../../b/6b/6bcbcf8e80e0/) | Bixby, Jerome, 1923-1998; Emshwiller, Ed, 1925-1990 [Illustrator] | 篇 | 1 | 34,370 |
+| 54981 | [The Disappearance of Lady Frances Carfax](../../../../b/2d/2d858d821c19/) | Doyle, Arthur Conan, 1859-1930 | 篇 | 1 | 34,359 |
+| 54982 | [The World English Bible (WEB): Ezra](../../../../b/0d/0d77f5ef8e99/) | Anonymous | 篇 | 5 | 34,355 |
+| 54983 | [A funeral sermon for the Rev. Joseph Kinghorn preached in St. Mary's Meeting-house, Norwich, on Sunday afternoon, September 9th, 1832](../../../../b/71/719f24c9f936/) | Alexander, John, 1792-1868 | 篇 | 25 | 34,353 |
+| 54984 | [Legend of Moulin Huet](../../../../b/a5/a540f5ecb538/) | Freeth, Lizzie A. | 章 | 5 | 34,351 |
+| 54985 | [Punch, or the London Charivari, Vol. 98, March 29, 1890](../../../../b/fa/fa2fee0af232/) | Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] | 章 | 7 | 34,345 |
+| 54986 | [George Walker at Suez](../../../../b/8c/8c5d9f7558d0/) | Trollope, Anthony, 1815-1882 | 篇 | 1 | 34,342 |
+| 54987 | [Ten Kittens](../../../../b/bd/bdada1de43c0/) | Puckett, G. A.; Walley, Helen [Illustrator] | 章 | 7 | 34,336 |
+| 54988 | [The Bush Fire, and Other Verses](../../../../b/44/44e830470c90/) | Lee, Ida, 1865-1943 | 章 | 16 | 34,314 |
+| 54989 | [The Great Round World And What Is Going On In It, Vol. 1. No. 21, April 1, 1897 A Weekly Magazine for Boys and Girls](../../../../b/e3/e3e3a52f41a9/) | Various; Bishop, Julia Truitt [Editor] | 篇 | 7 | 34,305 |
+| 54990 | [Influenza（#60087）](../../../../b/53/532618550e00/) | Provincial Board of Health of Ontario | 章 | 6 | 34,305 |
+| 54991 | [A Woman's Wartime Journal An account of the passage over a Georgia plantation of Sherman's army on the march to the sea, as recorded in the diary of Dolly Sumner Lunt](../../../../b/9f/9f60dae34871/) | Lunt, Dolly Sumner, 1817-1891; Street, Julian, 1879-1947 [Annotator] | 篇 | 31 | 34,303 |
+| 54992 | [The black kiss](../../../../b/a0/a0727bc0aa41/) | Bloch, Robert, 1917-1994; Kuttner, Henry, 1915-1958; Brundage, Margaret, 1900-1976 [Illustrator]; Finlay, Virgil, 1914-1971 [Illustrator] | 篇 | 3 | 34,288 |
+| 54993 | [The Limits of Atheism; Or, Why Should Sceptics Be Outlaws?](../../../../b/5a/5a24110d30e5/) | Holyoake, George Jacob, 1817-1906 | 章 | 2 | 34,284 |
+| 54994 | [Hooking Watermelons 1898](../../../../b/e6/e6cceb69ba41/) | Bellamy, Edward, 1850-1898 | 篇 | 1 | 34,282 |
+| 54995 | [Cousin Hatty's Hymns and Twilight Stories](../../../../b/b7/b78b61668056/) | Crosby, William, 1818-1907 [Publisher]; Nichols, H. P. [Publisher] | 章 | 53 | 34,275 |
+| 54996 | [The Passing of Mars: A Modern Morality Play](../../../../b/4e/4efceb64f053/) | Wilkinson, Marguerite, 1883-1928 | 篇 | 16 | 34,271 |
+| 54997 | [Additions to the List of the Birds of Louisiana](../../../../b/3c/3c5636512396/) | Lowery, George H., Jr., 1913-1978 | 篇 | 1 | 34,271 |
+| 54998 | [Amy Harrison; or, Heavenly Seed and Heavenly Dew](../../../../b/c7/c76ab3afc3c3/) | Unknown | 章 | 6 | 34,270 |
+| 54999 | [Poems（#56228）](../../../../b/bc/bc34af827760/) | Bass, Cora C., 1868-1928 | 章 | 46 | 34,263 |
+| 55000 | [Muskrat City](../../../../b/9a/9aff484d7314/) | Abbott, Henry, 1850-1943 | 篇 | 1 | 34,257 |
 
-[← 上一页](../p54/)
+[← 上一页](../p54/) ｜ [下一页 →](../p56/)

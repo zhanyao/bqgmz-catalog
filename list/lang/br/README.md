@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Sarmoniou an Aotrou Quere](../../../b/20/20464776cab5/) | Quéré, Jean; Jézégou, Christophe [Editor] | 题 | 99 | 387,502 |
+| 1 | [Sarmoniou an Aotrou Quere](../../../b/20/20464776cab5/) | Quéré, Jean; Jézégou, Christophe [Editor] | 章 | 21 | 387,502 |

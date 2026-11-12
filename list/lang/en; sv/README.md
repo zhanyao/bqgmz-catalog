@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Fritiofs Saga](../../../b/75/75e1305f3cab/) | Tegnér, Esaias, 1782-1846; Stomberg, Andrew A. (Andrew Adin), 1871-1943 [Editor] | 章 | 22 | 240,430 |
+| 1 | [Fritiofs Saga](../../../b/75/75e1305f3cab/) | Tegnér, Esaias, 1782-1846; Stomberg, Andrew A. (Andrew Adin), 1871-1943 [Editor] | 章 | 24 | 240,430 |

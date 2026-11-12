@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Aleutian Indian and English Dictionary Common Words in the Dialects of the Aleutian Indian Language as Spoken by the Oogashik, Egashik, Anangashuk and Misremie Tribes Around Sulima River and Neighboring Parts of the Alaska Peninsula](../../../b/8e/8ee913621661/) | Lee, Charles A. | 题 | 6 | 17,890 |
+| 1 | [Aleutian Indian and English Dictionary Common Words in the Dialects of the Aleutian Indian Language as Spoken by the Oogashik, Egashik, Anangashuk and Misremie Tribes Around Sulima River and Neighboring Parts of the Alaska Peninsula](../../../b/8e/8ee913621661/) | Lee, Charles A. | 篇 | 1 | 17,890 |

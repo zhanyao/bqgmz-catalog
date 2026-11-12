@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Báró Podmaniczky Pál és a norvég Biblia Elbeszélés a 18 nyelvü nagyapáról 77 nyelven és rovásírással](../../../b/78/788f6aed965f/) | Kutas, Ilona | 题 | 12 | 36,412 |
+| 1 | [Báró Podmaniczky Pál és a norvég Biblia Elbeszélés a 18 nyelvü nagyapáról 77 nyelven és rovásírással](../../../b/78/788f6aed965f/) | Kutas, Ilona | 篇 | 3 | 36,412 |

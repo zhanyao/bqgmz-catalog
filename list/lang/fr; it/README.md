@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [La Zaffetta: Raccolta di rarissimi opuscoli italiani degli XV e XVI secoli II](../../../b/ad/ad9482412422/) | Venier, Lorenzo, 1510-1550 | 段 | 3 | 65,026 |
+| 1 | [La Zaffetta: Raccolta di rarissimi opuscoli italiani degli XV e XVI secoli II](../../../b/ad/ad9482412422/) | Venier, Lorenzo, 1510-1550 | 篇 | 6 | 65,026 |

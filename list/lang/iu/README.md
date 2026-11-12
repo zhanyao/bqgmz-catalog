@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Litanaiit Liturgiillo attoraksat illagêktunut Labradoremẽtunut](../../../b/4d/4d5f2b0db419/) | Anonymous | 段 | 9 | 183,395 |
+| 1 | [Litanaiit Liturgiillo attoraksat illagêktunut Labradoremẽtunut](../../../b/4d/4d5f2b0db419/) | Anonymous | 章 | 2 | 183,395 |

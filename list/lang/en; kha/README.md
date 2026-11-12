@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [The Khasis](../../../b/1d/1d27ab536ef1/) | Gurdon, P. R. T. (Philip Richard Thornhagh), 1863-1942 | 章 | 9 | 425,476 |
+| 1 | [The Khasis](../../../b/1d/1d27ab536ef1/) | Gurdon, P. R. T. (Philip Richard Thornhagh), 1863-1942 | 章 | 8 | 425,476 |

@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Extracto de la gramatica mutsun](../../../b/d2/d2c9b8ce4d51/) | Arroyo de la Cuesta, Felipe, 1780-1842 | 段 | 3 | 74,308 |
+| 1 | [Extracto de la gramatica mutsun](../../../b/d2/d2c9b8ce4d51/) | Arroyo de la Cuesta, Felipe, 1780-1842 | 章 | 14 | 74,308 |

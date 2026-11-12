@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Minor Tibetan Texts: 1. The song of the Eastern Snow-mountain](../../../b/da/da1b9018e93d/) | Manen, Johan van, 1877-1943 [Editor] | 题 | 25 | 118,529 |
+| 1 | [Minor Tibetan Texts: 1. The song of the Eastern Snow-mountain](../../../b/da/da1b9018e93d/) | Manen, Johan van, 1877-1943 [Editor] | 章 | 4 | 118,529 |

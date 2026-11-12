@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Embéo e Majaró Lucas](../../../b/ae/ae75b4b887d5/) | Borrow, George, 1803-1881 [Translator] | 题 | 159 | 116,124 |
+| 1 | [Embéo e Majaró Lucas](../../../b/ae/ae75b4b887d5/) | Borrow, George, 1803-1881 [Translator] | 篇 | 23 | 116,124 |

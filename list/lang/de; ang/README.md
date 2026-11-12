@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Ælfrics Grammatik und Glossar](../../../b/84/84936d9fa165/) | Aelfric, Abbot of Eynsham, 955?-1020?; Zupitza, Julius, 1844-1895 [Editor] | 题 | 125 | 896,900 |
+| 1 | [Ælfrics Grammatik und Glossar](../../../b/84/84936d9fa165/) | Aelfric, Abbot of Eynsham, 955?-1020?; Zupitza, Julius, 1844-1895 [Editor] | 篇 | 360 | 896,900 |

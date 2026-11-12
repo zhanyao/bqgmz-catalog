@@ -6,5 +6,5 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Larawan: Mga Sugilanon ug Dinalídalí](../../../b/29/29b52f77f905/) | Rama, Vincente, 1887-1956 | 题 | 44 | 80,141 |
-| 2 | [Wala'y Igsoon.... (Sugilanon'g Binisaya)](../../../b/38/384f3a2e60ad/) | Irles, Juan Villagonzalo | 题 | 28 | 51,457 |
+| 1 | [Larawan: Mga Sugilanon ug Dinalídalí](../../../b/29/29b52f77f905/) | Rama, Vincente, 1887-1956 | 章 | 18 | 80,141 |
+| 2 | [Wala'y Igsoon.... (Sugilanon'g Binisaya)](../../../b/38/384f3a2e60ad/) | Irles, Juan Villagonzalo | 篇 | 9 | 51,457 |

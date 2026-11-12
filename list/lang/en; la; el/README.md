@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Monumentum Ancyranum: The Deeds of Augustus](../../../b/ff/ff67725e1f66/) | Augustus, Emperor of Rome, 64 BCE-14; Fairley, William, 1857-1918 [Editor] | 段 | 8 | 167,959 |
+| 1 | [Monumentum Ancyranum: The Deeds of Augustus](../../../b/ff/ff67725e1f66/) | Augustus, Emperor of Rome, 64 BCE-14; Fairley, William, 1857-1918 [Editor] | 篇 | 7 | 167,959 |

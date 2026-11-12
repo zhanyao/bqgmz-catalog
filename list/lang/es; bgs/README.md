@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Diccionario Bagobo-Español](../../../b/24/24eeef1b6bfc/) | Gisbert, Mateo | 题 | 6 | 92,390 |
+| 1 | [Diccionario Bagobo-Español](../../../b/24/24eeef1b6bfc/) | Gisbert, Mateo | 篇 | 70 | 92,390 |

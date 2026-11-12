@@ -6,5 +6,5 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [Diccionario Ingles-Español-Tagalog Con partes de la oracion y pronunciacion figurada](../../../b/c5/c53b090c8eff/) | Calderón, Sofronio G., 1878-1954? | 段 | 49 | 988,663 |
-| 2 | [Doctrina Christiana The first book printed in the Philippines, Manila, 1593.](../../../b/ae/aedcb922a6f3/) | Wolf, Edwin, 1911-1991 [Editor] | 题 | 18 | 133,533 |
+| 1 | [Diccionario Ingles-Español-Tagalog Con partes de la oracion y pronunciacion figurada](../../../b/c5/c53b090c8eff/) | Calderón, Sofronio G., 1878-1954? | 篇 | 91 | 988,663 |
+| 2 | [Doctrina Christiana The first book printed in the Philippines, Manila, 1593.](../../../b/ae/aedcb922a6f3/) | Wolf, Edwin, 1911-1991 [Editor] | 章 | 2 | 133,533 |

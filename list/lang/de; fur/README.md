@@ -6,4 +6,4 @@
 
 | # | 书名 | 作者 | 体例 | 章数 | 字数 |
 |---|---|---|---|---|---|
-| 1 | [West-östlicher Divan: Ten Lyrics with Friulian Translation](../../../b/90/909d58143deb/) | Goethe, Johann Wolfgang von, 1749-1832; Culos, Ermes Primiano [Translator] | 题 | 11 | 9,083 |
+| 1 | [West-östlicher Divan: Ten Lyrics with Friulian Translation](../../../b/90/909d58143deb/) | Goethe, Johann Wolfgang von, 1749-1832; Culos, Ermes Primiano [Translator] | 篇 | 37 | 9,083 |
