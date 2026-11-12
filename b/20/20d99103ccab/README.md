@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（310,682 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,898 字；最长 CHAPTER I. Introducing to the reader the chief personages of this（52,490 字），最短 CHAPTER XII. TREATS OF LOVE, AND PREPARES FOR DEATH.（7,309 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 6,909 行。 |
+| 篇幅分布 | 平均每章 23,774 字；最长 CHAPTER I. Introducing to the reader the chief personages of this（50,873 字），最短 CHAPTER XII. TREATS OF LOVE, AND PREPARES FOR DEATH.（7,309 字）。 |
 | 起止 | 始于「CHAPTER I. Introducing to the reader the chief personages of this」，止于「CHAPTER XIII. BEING A PREPARATION FOR THE END.」。 |
 | 原文溯源 | `cache/epub/1969/pg1969.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/20d99103ccab/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

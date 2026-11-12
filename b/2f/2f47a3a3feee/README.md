@@ -1,7 +1,7 @@
 # O. Henry Memorial Award prize stories of 1927
 
-**作者** Society of Arts and Sciences (U.S.) [Editor]; Williams, Blanche Colton, 1879-1944 [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 24 段 · 486,518 字 ｜ **来源** Project Gutenberg
+**作者** Society of Arts and Sciences (U.S.) [Editor]; Williams, Blanche Colton, 1879-1944 [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 486,518 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2f47a3a3feee/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（486,518 字）。 |
-| 分章依据 | 按「段」标记切分为 24 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,271 字；最长 Dickson, Harris, On the First Sand Bar (_S. E. P._, Jan. 15)（39,966 字），最短 “Everybody,” replied Flora cryptically. “There’s that sweet （6,008 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-toc-title-list），拼接正文 12,811 行。 |
+| 篇幅分布 | 平均每章 29,302 字；最长 FEAR. By James Warner Bellah（55,594 字），最短 THE KILLERS. By Ernest Hemingway（12,768 字）。 |
 | 原文溯源 | `cache/epub/76802/pg76802.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Dickson, Harris, On the First Sand Bar (_S. E. P._, Jan. 15)
-2. The short story has known better seasons, says a reader who,
-3. “When dat big _Titanic_ sunk down in de sea,
-4. Nick went out. As he shut the door he saw Ole Andreson, with
-5. Impelled almost as much by instinct as by the brief command
-6. Staring at the rain wall, Jukes listened to the just-audible
-7. Afterward, Hoyt came down the passage with him to his room--
-8. Hoyt took the roof at eighteen thousand feet and skirted the
-9. Abruptly, the cross wires of his centre section raced up to
-10. “My pearls,” said Babe, “are _old_. And my dress and my slip
+1. CHILD OF GOD. By Roark Bradford
+2. THE KILLERS. By Ernest Hemingway
+3. THE SCARLET WOMAN. By Louis Bromfield
+4. JUKES. By Bill Adams
+5. FEAR. By James Warner Bellah
+6. NIGHT CLUB. By Katharine Brush
+7. SINGING WOMAN. By Ada Jack Carver
+8. WITH GLORY AND HONOUR. By Elisabeth Cobb Chapman
+9. BULLDOG. By Roger Daniels
+10. HE MAN. By Marjory Stoneman Douglas
 
-> 共 24 段，[完整目录与正文 →](https://www.bqgmz.top/b/2f47a3a3feee/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/2f47a3a3feee/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（284,106 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 47,351 字；最长 CHAPTER VI TESTING THE ISSUE（79,737 字），最短 CHAPTER I A PATRIOT OF 1763（12,164 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 5,439 行。 |
+| 篇幅分布 | 平均每章 44,094 字；最长 CHAPTER VI TESTING THE ISSUE（62,106 字），最短 CHAPTER I A PATRIOT OF 1763（10,257 字）。 |
 | 起止 | 始于「CHAPTER I A PATRIOT OF 1763」，止于「CHAPTER VI TESTING THE ISSUE」。 |
 | 原文溯源 | `cache/epub/3093/pg3093.txt`（Project Gutenberg） |
 
@@ -28,4 +28,4 @@
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/322ad5ea830f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Il signor Io
 
-**作者** Farina, Salvatore, 1846-1918 ｜ **国家/地区** 意大利 ｜ **体例** 段  
-**规模** 7 段 · 145,551 字 ｜ **来源** Project Gutenberg
+**作者** Farina, Salvatore, 1846-1918 ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 10 章 · 145,551 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2b4b7635877e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（145,551 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,793 字；最长 Io baciai mia figlia in fronte per ringraziarla; ma essa rip（39,863 字），最短 «Sì, Marcantonio, vi è lo scetticismo dei deboli, che è comp（5,519 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-roman-title），拼接正文 3,930 行。 |
+| 篇幅分布 | 平均每章 100 字。 |
+| 起止 | 始于「I. — Il mio tempo presente » 9」，止于「X. — L’ultima idea del Signor Io » 177」。 |
 | 原文溯源 | `cache/epub/74389/pg74389.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. Io baciai mia figlia in fronte per ringraziarla; ma essa rip
-2. In quel tempo, giunse la notizia che in Russia era scoppiato
-3. Oggi Marcantonio Abate ha vacanza; egli depone dall’alba que
-4. Serafina dunque vive e canta; è sola al mondo, è povera, non
-5. — Tu credevi che non avessi a scoprire il segreto; infatti i
-6. Gli occhi di Marcantonio sono già padroni della scarsa luce,
-7. «Sì, Marcantonio, vi è lo scetticismo dei deboli, che è comp
+1. I. — Il mio tempo presente » 9
+2. II. — Il mio tempo passato » 23
+3. III. — Il mio avvenire » 69
+4. IV. — Invito al talamo di Marcantonio » 73
+5. V. — La gara — Fasi e catastrofe » 83
+6. VI. — Marcantonio gioca » 107
+7. VII. — «Sono qua!» » 115
+8. VIII. — Si parla di Lui » 127
+9. IX. — Deus ex machina » 149
+10. X. — L’ultima idea del Signor Io » 177
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/2b4b7635877e/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/2b4b7635877e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # La religieuse
 
-**作者** Diderot, Denis, 1713-1784; Assézat, Jules, 1832-1876 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 33 题 · 375,801 字 ｜ **来源** Project Gutenberg
+**作者** Diderot, Denis, 1713-1784; Assézat, Jules, 1832-1876 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 26 章 · 375,801 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2ea9a71bb18b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（375,801 字）。 |
-| 分章依据 | 按「题」标记切分为 33 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,387 字。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-caps-sections），拼接正文 8,748 行。 |
+| 篇幅分布 | 平均每章 14,453 字；最长 LA RELIGIEUSE（1）（55,465 字），最短 EXTRAIT DES REGISTRES.（412 字）。 |
 | 原文溯源 | `cache/epub/28827/pg28827.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LA RELIGIEUSE
-2. NOTICE PRÉLIMINAIRE
-3. LA RELIGIEUSE
-4. La supérieure ajouta: «Soeur Suzanne, voyez...»
-5. D'autres ajoutèrent: «_Amen_ sur l'apost
-6. «Mon enfant, me dit-elle, je vois que tu
-7. PRÉFACE-ANNEXE DE LA RELIGIEUSE[19]
-8. EXTRAIT DE LA CORRESPONDANCE LITTÉRAIRE DE GRIMM.
-9. ANNÉE 1770[20].
+1. NOTICE PRÉLIMINAIRE
+2. LA RELIGIEUSE（1）
+3. LA RELIGIEUSE（2）
+4. LA RELIGIEUSE（3）
+5. LA RELIGIEUSE（4）
+6. LA RELIGIEUSE（5）
+7. LA RELIGIEUSE（6）
+8. ANNÉE 1770[20].
+9. L'ÉCOLE ROYALE MILITAIRE.
 10. ON A RÉPONDU:
 
-> 共 33 题，[完整目录与正文 →](https://www.bqgmz.top/b/2ea9a71bb18b/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/2ea9a71bb18b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

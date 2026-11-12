@@ -1,7 +1,7 @@
 # The Suffrage Cook Book
 
-**作者** Kleber, L. O., Mrs. [Compiler] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 140,149 字 ｜ **来源** Project Gutenberg
+**作者** Kleber, L. O., Mrs. [Compiler] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 207 篇 · 140,149 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1980fcdfe9f4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（140,149 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,021 字。 |
+| 分章依据 | 按「篇」标记切分为 207 篇（auto-title-scan），拼接正文 6,248 行。 |
+| 篇幅分布 | 平均每篇 600 字。 |
 | 原文溯源 | `cache/epub/26323/pg26323.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 篇）
 
-1. No longer ought we to be called upon to be
-2. On a crisp winter morning a dish of nut scrapple is very app
-3. The improvement in flavor and freshness of cakes, breads and
-4. Very truly yours,
-5. 1 1/2 cups whitestock
-6. Nevertheless, the usual method of boiling the coffee is unsp
-7. Page 241, "leaves" changed to "loaves" (the loaves when bake
+1. Asparagus Soup
+2. Spinach Soup
+3. Crab Gumbo
+4. Tomato Soup
+5. Vegetable Soup
+6. Chestnut Soup
+7. Peanut Butter Broth
+8. Peanut Soup
+9. Mock Oyster Soup
+10. French Oyster Soup
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/1980fcdfe9f4/)
+> 共 207 篇，[完整目录与正文 →](https://www.bqgmz.top/b/1980fcdfe9f4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

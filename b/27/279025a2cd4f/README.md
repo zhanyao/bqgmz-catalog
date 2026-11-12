@@ -1,7 +1,7 @@
 # Arvid Kurck och hans samtida
 
-**作者** Lindman, Volmar, 1861-1939 ｜ **国家/地区** 瑞典 ｜ **体例** 题  
-**规模** 34 题 · 205,453 字 ｜ **来源** Project Gutenberg
+**作者** Lindman, Volmar, 1861-1939 ｜ **国家/地区** 瑞典 ｜ **体例** 章  
+**规模** 24 章 · 205,453 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/279025a2cd4f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（205,453 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,042 字。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-roman-bare），拼接正文 5,372 行。 |
+| 篇幅分布 | 平均每章 8,525 字；最长 VII.（19,970 字），最短 XX.（1,970 字）。 |
+| 起止 | 始于「I.」，止于「XXV.」。 |
 | 原文溯源 | `cache/epub/45330/pg45330.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. ARVID KURCK OCH HANS SAMTIDA.
-2. Skildringar från Finlands medeltid
-3. V. LINDMAN.
-4. INNEHÅLL:
-5. I.
-6. II.
-7. I denna afsikt återvände han nu till det torftiga hemmet.
-8. III.
-9. IV.
-10. I knektstugan.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/279025a2cd4f/)
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/279025a2cd4f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

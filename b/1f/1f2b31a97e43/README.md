@@ -1,7 +1,7 @@
 # Het eerste ontwerp voor de bedijking der Zuiderzee, 1848
 
-**作者** Kloppenburg, Jakob; Faddegon, Pieter, 1807-1889 ｜ **国家/地区** 荷兰 ｜ **体例** 段  
-**规模** 13 段 · 263,749 字 ｜ **来源** Project Gutenberg
+**作者** Kloppenburg, Jakob; Faddegon, Pieter, 1807-1889 ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 9 章 · 263,749 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1f2b31a97e43/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（263,749 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,288 字；最长 "Wij stellen ons een kanaal voor met groote sluizen, zoo gro（39,521 字），最短 +--------------------------------------------------------+（5,213 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-caps-sections），拼接正文 5,902 行。 |
+| 篇幅分布 | 平均每章 29,305 字；最长 VOORBERIGT.（3）（55,606 字），最短 No. 19. BINNENVAART, WETERING, BOEZEM EN RINGSLOTEN.（631 字）。 |
 | 原文溯源 | `cache/epub/42903/pg42903.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 9 章）
 
-1. "Wij stellen ons een kanaal voor met groote sluizen, zoo gro
-2. Nederland, hetwelk zijn aanzijn aan zijne bewoners verschuld
-3. De noodzakelijkheid gebiedt, dit werk niet te verzuimen. Ons
-4. Er zijn nog zeer vele zaken, die wij zouden kunnen bijbrenge
-5. De Spanjaarden waren voor de verovering van Amerika arbeidza
-6. Hoe vele duizende bunders land, binnen den omtrek van Amster
-7. Het is niet alleen in de hiervoren genoemde districten, maar
-8. Vele rekwesten van wolkammers zijn er ingediend, om bescherm
-9. Men weet, hoe gering het aantal sluisgangen te Halfweg en te
-10. Er zullen weinige jaren meer verloopen, of Rotterdam en Dord
+1. VOORBERIGT.（1）
+2. VOORBERIGT.（2）
+3. VOORBERIGT.（3）
+4. VOORBERIGT.（4）
+5. VOORBERIGT.（5）
+6. RAMING DER KOSTEN
+7. No. 6. UITWATERINGEN EN BESTAANDE REGTEN.
+8. No. 19. BINNENVAART, WETERING, BOEZEM EN RINGSLOTEN.
+9. No. 20. SLUIS- EN BRUG WERKEN.
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/1f2b31a97e43/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/1f2b31a97e43/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

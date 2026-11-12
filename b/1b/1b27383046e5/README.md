@@ -1,7 +1,7 @@
 # The Book of Shells Containing the Classes Mollusca, Conchifera, Cirrhipeda, Annulata, and Crustacea
 
-**作者** Society for Promoting Christian Knowledge (Great Britain). Committee of General Literature and Education ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 110 题 · 175,642 字 ｜ **来源** Project Gutenberg
+**作者** Society for Promoting Christian Knowledge (Great Britain). Committee of General Literature and Education ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 6 章 · 175,642 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1b27383046e5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（175,642 字）。 |
-| 分章依据 | 按「题」标记切分为 110 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,596 字。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 4,352 行。 |
+| 篇幅分布 | 平均每章 192 字。 |
 | 原文溯源 | `cache/epub/60961/pg60961.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 章）
 
-1. DESCRIBED IN THIS VOLUME]
-2. THE SECOND EDITION.
-3. M.DCCC.XXXVII.
-4. TO THE READER.
-5. CONTENTS.
-6. Class MOLLUSCA 14
-7. Class CONCHIFERA 57
-8. Class CIRRHIPEDA 91
-9. Class ANNULATA 97
-10. Class CRUSTACEA 115
+1. VOLUME I. (or in Nos. 1 to 6.)
+2. VOLUME II. (or in Nos. 7 to 12.)
+3. VOLUME III. (or in Nos. 13 to 18.)
+4. VOLUME IV. (or in Nos. 19 to 24.)
+5. VOLUME V. (or in Nos. 25 to 30.)
+6. VOLUME VI. (or in Nos. 31 to 36.)
 
-> 共 110 题，[完整目录与正文 →](https://www.bqgmz.top/b/1b27383046e5/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/1b27383046e5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

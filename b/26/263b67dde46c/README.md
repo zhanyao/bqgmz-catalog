@@ -1,7 +1,7 @@
 # Wise Saws and Modern Instances, Volume 1 (of 2)
 
-**作者** Cooper, Thomas, 1805-1892 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 25 题 · 297,350 字 ｜ **来源** Project Gutenberg
+**作者** Cooper, Thomas, 1805-1892 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 297,350 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/263b67dde46c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（297,350 字）。 |
-| 分章依据 | 按「题」标记切分为 25 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,894 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 6,792 行。 |
+| 篇幅分布 | 平均每章 29,735 字。 |
 | 原文溯源 | `cache/epub/55951/pg55951.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Transcriber's Note
-2. WORKS
-3. VOL. I.
-4. IN TWO VOLUMES.
-5. VOL. I.
-6. ADVERTISEMENT.
-7. PAGE
-8. THE BEGGARED GENTLEMAN, AND HIS CROOKED STICK 127
-9. THE MINISTER OF MERCY
-10. "Merrily we go, my man—
+1. TIM SWALLOW-WHISTLE, THE TAILOR;
+2. "EVERY DOG HAS HIS DAY."（1）
+3. "EVERY DOG HAS HIS DAY."（2）
+4. "EVERY DOG HAS HIS DAY."（3）
+5. "EVERY DOG HAS HIS DAY."（4）
+6. MINISTER OF MERCY.（1）
+7. MINISTER OF MERCY.（2）
+8. SONG:
+9. THE MANUAL OF HERALDRY:
+10. THE EPICURE'S ALMANACK;
 
-> 共 25 题，[完整目录与正文 →](https://www.bqgmz.top/b/263b67dde46c/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/263b67dde46c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（251,912 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,496 字；最长 CHAPTER XI. THE ANGLE OF REFLECTION.（14,951 字），最短 CHAPTER XXII. WHERE THE TIDE TURNED.（6,438 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 7,528 行。 |
+| 篇幅分布 | 平均每章 10,275 字；最长 CHAPTER XI. THE ANGLE OF REFLECTION.（14,951 字），最短 CHAPTER XXII. WHERE THE TIDE TURNED.（6,438 字）。 |
 | 起止 | 始于「CHAPTER I. A MYSTERIOUS FATALITY.」，止于「CHAPTER XXIV. THE LAST RESORT.」。 |
 | 原文溯源 | `cache/epub/62860/pg62860.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/2bca62a3dec3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

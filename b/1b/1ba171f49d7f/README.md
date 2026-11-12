@@ -1,7 +1,7 @@
 # Suomalaisia sankareita I: Historiallisia kertomuksia
 
-**作者** Ivalo, Santeri, 1866-1937; Wilkuna, Kyösti, 1879-1922 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 51 题 · 547,625 字 ｜ **来源** Project Gutenberg
+**作者** Ivalo, Santeri, 1866-1937; Wilkuna, Kyösti, 1879-1922 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 12 章 · 547,625 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1ba171f49d7f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（547,625 字）。 |
-| 分章依据 | 按「题」标记切分为 51 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,737 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-toc-title-list），拼接正文 12,299 行。 |
+| 篇幅分布 | 平均每章 45,578 字；最长 Arkimies sankarina.（132,280 字），最短 Erämaanlinnan puolustaja.（15,578 字）。 |
 | 原文溯源 | `cache/epub/56193/pg56193.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SUOMALAISIA SANKAREITA I
-2. Historiallisia kertomuksia
-3. Kirjoittaneet
-4. SANTERI IVALO ja KYÖSTI WILKUNA
-5. SISÄLLYS:
-6. ALKULAUSE.
-7. ENSIMÄINEN SUOMALAINEN AATELISMIES.
-8. MATTI KURKI.
-9. SOTAISA KIRKKORUHTINAS.
-10. PIISPA KONRAD BITZ.
+1. Alkulause.
+2. Omapäinen mies.
+3. Erämaanlinnan puolustaja.
+4. Suomalainen merisankari.
+5. Vesaisen kuolema.
+6. Arkimies sankarina.
+7. Taistelevain valtakuntain raossa.
+8. Hakkapeliittain päällikkö.
+9. Loistossa ja kurjuudessa.
+10. Juhlataistelu.
 
-> 共 51 题，[完整目录与正文 →](https://www.bqgmz.top/b/1ba171f49d7f/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/1ba171f49d7f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

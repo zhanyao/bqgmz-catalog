@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（428,363 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,772 字；最长 CHAPTER VI--THE FRENCH CLERGYMAN'S COUNSEL（56,096 字），最短 CHAPTER X--HE IS LEFT ON SHORE（14,391 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 8,341 行。 |
+| 篇幅分布 | 平均每章 26,767 字；最长 CHAPTER VI--THE FRENCH CLERGYMAN'S COUNSEL（56,096 字），最短 CHAPTER X--HE IS LEFT ON SHORE（14,391 字）。 |
 | 起止 | 始于「CHAPTER I--REVISITS ISLAND」，止于「CHAPTER XVI--SAFE ARRIVAL IN ENGLAND」。 |
 | 原文溯源 | `cache/epub/561/pg561.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/2b29f575bd0c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

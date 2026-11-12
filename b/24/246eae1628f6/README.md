@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（480,965 字）。 |
-| 分章依据 | 按「章」标记切分为 57 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,437 字；最长 CHAPTER XVII.--ON PROVIDENCE AS A MATCH-MAKER.（15,639 字），最短 CHAPTER II.--ON A GREAT HOPE.（4,661 字）。 |
+| 分章依据 | 按「章」标记切分为 57 章（auto-chapter），拼接正文 12,929 行。 |
+| 篇幅分布 | 平均每章 8,433 字；最长 CHAPTER XVII.--ON PROVIDENCE AS A MATCH-MAKER.（15,639 字），最短 CHAPTER I.--ON CERTAIN ABSTRACTIONS.（4,422 字）。 |
 | 起止 | 始于「CHAPTER I.--ON CERTAIN ABSTRACTIONS.」，止于「CHAPTER LVII.--ON THE REJECTED ADDRESSES.」。 |
 | 原文溯源 | `cache/epub/51947/pg51947.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 57 章，[完整目录与正文 →](https://www.bqgmz.top/b/246eae1628f6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Post-scriptum de ma vie
 
-**作者** Hugo, Victor, 1802-1885 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 49 题 · 258,462 字 ｜ **来源** Project Gutenberg
+**作者** Hugo, Victor, 1802-1885 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 5 章 · 258,462 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/28a3de41a265/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（258,462 字）。 |
-| 分章依据 | 按「题」标记切分为 49 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,274 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-roman-title），拼接正文 6,795 行。 |
+| 篇幅分布 | 平均每章 62 字。 |
+| 起止 | 始于「I. Shakespeare 63」，止于「V. Du génie 79」。 |
 | 原文溯源 | `cache/epub/63768/pg63768.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. POST-SCRIPTUM DE MA VIE
-2. DROITS RÉSERVÉS POUR TOUS PAYS Y COMPRIS LA SUÈDE ET LA NORVÈGE
-3. VICTOR HUGO
-4. L'Esprit
-5. Tas de pierres
-6. Utilité du Beau
-7. Tas de pierres
-8. II
-9. Le Goût
-10. Si les grands ont l'excès, les parfaits ont le défaut. _Deest aliquid._
+1. I. Shakespeare 63
+2. II. La Fontaine 73
+3. III. Voltaire 75
+4. IV. Beaumarchais 76
+5. V. Du génie 79
 
-> 共 49 题，[完整目录与正文 →](https://www.bqgmz.top/b/28a3de41a265/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/28a3de41a265/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

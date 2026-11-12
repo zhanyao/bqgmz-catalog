@@ -11,15 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（181,068 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,118 字；最长 CHAPTER I（80,786 字），最短 CHAPTER V（4,986 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER IX」。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 4,792 行。 |
+| 篇幅分布 | 平均每章 17,300 字；最长 PART I. BIOGRAPHICAL NOTES（39,377 字），最短 CHAPTER V（4,986 字）。 |
 | 原文溯源 | `cache/epub/70767/pg70767.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
 
-1. CHAPTER I
-2. CHAPTER II
+1. PART I. BIOGRAPHICAL NOTES
+2. PART II. EARLY EXPERIENCES
 3. CHAPTER III
 4. CHAPTER IV
 5. CHAPTER V
@@ -31,4 +30,4 @@
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/1e08017a376f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

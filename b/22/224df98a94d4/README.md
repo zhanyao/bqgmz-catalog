@@ -1,7 +1,7 @@
 # Schools of Gaul in the last century of the Western Empire
 
 **作者** Haarhoff, T. J. (Theodore Johannes), 1892-1971 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 7 章 · 517,265 字 ｜ **来源** Project Gutenberg
+**规模** 31 章 · 517,265 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/224df98a94d4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（517,265 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 73,895 字；最长 PART V（85,000 字），最短 PART I（62,762 字）。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-toc-title-list），拼接正文 13,203 行。 |
+| 篇幅分布 | 平均每章 12,620 字。 |
+| 起止 | 始于「1. The Limits of the Period」，止于「3. Ideals」。 |
 | 原文溯源 | `cache/epub/71150/pg71150.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 章）
+## 章节目录（前 10 章）
 
-1. PART I
-2. PART II
-3. and again:
-4. PART III
-5. PART IV
-6. PART V
-7. [829] ‘Litterarum quoque habuere dilectu
+1. 1. The Limits of the Period
+2. 2. Greek Influence
+3. 3. Celtic Influence
+4. 4. Germanic Influence
+5. 5. Romanization of Gaul
+6. 6. Roman Education in Gaul before the Fourth Century A.D.
+7. A. The General Prosperity of the Schools in the Fourth and
+8. Fifth Centuries
+9. B. _Inside the School
+10. (i) The Substance and Methods of Primary Education
 
-> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/224df98a94d4/)
+> 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/224df98a94d4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

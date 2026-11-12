@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（436,801 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,989 字；最长 CHAPTER 13. 1772 TO 1774. SECOND VOYAGE.（65,462 字），最短 CHAPTER 2. 1755 TO 1757. H.M.S. EAGLE.（11,279 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 9,344 行。 |
+| 篇幅分布 | 平均每章 22,780 字；最长 CHAPTER 13. 1772 TO 1774. SECOND VOYAGE.（65,462 字），最短 CHAPTER 19. APPRECIATION AND CHARACTER.（8,677 字）。 |
 | 起止 | 始于「CHAPTER 1. EARLY YEARS.」，止于「CHAPTER 19. APPRECIATION AND CHARACTER.」。 |
 | 原文溯源 | `cache/epub/10842/pg10842.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/258ada50b088/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

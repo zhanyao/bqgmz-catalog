@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（73,782 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 4,611 字；最长 CHAPTER XVI SPOTTY THE TURTLE WINS A RACE（8,379 字），最短 CHAPTER XV THE TAIL OF TOMMY TROUT WHO DID NOT MIND（2,431 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 2,012 行。 |
+| 篇幅分布 | 平均每章 4,570 字；最长 CHAPTER XVI SPOTTY THE TURTLE WINS A RACE（8,379 字），最短 CHAPTER XV THE TAIL OF TOMMY TROUT WHO DID NOT MIND（2,431 字）。 |
 | 起止 | 始于「CHAPTER I. MRS. REDWING'S SPECKLED EGG」，止于「CHAPTER XVI SPOTTY THE TURTLE WINS A RACE」。 |
 | 原文溯源 | `cache/epub/2557/pg2557.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/24ba7cfb74cb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

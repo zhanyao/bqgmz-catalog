@@ -1,7 +1,7 @@
 # Captain Billy's Whiz Bang, Vol. 2, No. 18, March, 1921 America's Magazine of Wit, Humor and Filosophy
 
-**作者** Various; Fawcett, W. H. (Wilford Hamilton), 1885-1940 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 76 题 · 61,855 字 ｜ **来源** Project Gutenberg
+**作者** Various; Fawcett, W. H. (Wilford Hamilton), 1885-1940 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 30 篇 · 61,855 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/28b3004c4794/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（61,855 字）。 |
-| 分章依据 | 按「题」标记切分为 76 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 813 字。 |
+| 分章依据 | 按「篇」标记切分为 30 篇（auto-title-scan），拼接正文 2,562 行。 |
+| 篇幅分布 | 平均每篇 1,825 字。 |
 | 原文溯源 | `cache/epub/57025/pg57025.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Captain Billy’s Whiz Bang, Vol. II. No. 18, March, 1921
-2. March, 1921 Vol. II. No. 18
-3. Goosey, Goosey Gander
-4. Discounting a Discount
-5. Too Much Smell
-6. A Carman’s Love Code
-7. A New Proposal
-8. Business Was Good
-9. Why He Needs Paper
-10. A Choice of Evils
+1. Too Much Smell
+2. Business Was Good
+3. Why He Needs Paper
+4. Sweet Kisses
+5. The Deadly Mouse
+6. For Private Circulation
+7. Baldheaded Bad Luck
+8. Embarrassing Moments
+9. What Daughter Learned
+10. Progress Is Our Motto
 
-> 共 76 题，[完整目录与正文 →](https://www.bqgmz.top/b/28b3004c4794/)
+> 共 30 篇，[完整目录与正文 →](https://www.bqgmz.top/b/28b3004c4794/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Capitan Riccardo
 
-**作者** Misasi, Nicola, 1850-1923 ｜ **国家/地区** 意大利 ｜ **体例** 题  
-**规模** 20 题 · 319,235 字 ｜ **来源** Project Gutenberg
+**作者** Misasi, Nicola, 1850-1923 ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 11 章 · 319,235 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2e921366aec0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（319,235 字）。 |
-| 分章依据 | 按「题」标记切分为 20 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 15,961 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-roman-bare），拼接正文 8,384 行。 |
+| 篇幅分布 | 平均每章 28,986 字；最长 I.（39,360 字），最短 VIII.（部2）（14,413 字）。 |
+| 起止 | 始于「I.」，止于「VIII.（部2）」。 |
 | 原文溯源 | `cache/epub/73311/pg73311.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. NICOLA MISASI
-2. Capitan Riccardo
-3. ROMANZO
-4. SÈGUITO DI
-5. PROPRIETÀ LETTERARIA
-6. I.
-7. I due armigeri intanto si erano avvicinati.
-8. II.
-9. III.
-10. PARTE SECONDA.
+1. I.
+2. II.
+3. III.
+4. I.（部2）
+5. II.（部2）
+6. III.（部2）
+7. IV.（部2）
+8. V.（部2）
+9. VI.（部2）
+10. VII.（部2）
 
-> 共 20 题，[完整目录与正文 →](https://www.bqgmz.top/b/2e921366aec0/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/2e921366aec0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

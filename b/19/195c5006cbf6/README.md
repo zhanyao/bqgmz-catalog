@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（255,819 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,628 字；最长 CHAPTER XXII: The Fiesta in Piñon（16,721 字），最短 CHAPTER V: A Strange Tangle（6,368 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 8,278 行。 |
+| 篇幅分布 | 平均每章 11,591 字；最长 CHAPTER XXII: The Fiesta in Piñon（16,721 字），最短 CHAPTER V: A Strange Tangle（6,368 字）。 |
 | 起止 | 始于「CHAPTER I: Shooting Scrape」，止于「CHAPTER XXII: The Fiesta in Piñon」。 |
 | 原文溯源 | `cache/epub/78717/pg78717.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/195c5006cbf6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

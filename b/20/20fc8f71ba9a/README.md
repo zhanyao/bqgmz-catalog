@@ -1,7 +1,7 @@
 # Les vivants et les morts
 
-**作者** Noailles, Anna de, 1876-1933 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 150 题 · 208,665 字 ｜ **来源** Project Gutenberg
+**作者** Noailles, Anna de, 1876-1933 ｜ **国家/地区** 法国 ｜ **体例** 部分  
+**规模** 6 部分 · 208,665 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/20fc8f71ba9a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（208,665 字）。 |
-| 分章依据 | 按「题」标记切分为 150 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,391 字。 |
+| 分章依据 | 按「部分」标记切分为 6 部分（fallback-chunk），拼接正文 7,273 行。 |
+| 篇幅分布 | 平均每部分 34,777 字；最长 第 2 部分（42,370 字），最短 第 6 部分（622 字）。 |
 | 原文溯源 | `cache/epub/22054/pg22054.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 部分）
 
-1. COMTESSE DE NOAILLES
-2. LES VIVANTS ET LES MORTS
-3. PARIS
-4. DU MÊME AUTEUR
-5. POESIES
-6. ROMANS
-7. COMTESSE DE NOAILLES
-8. PLATON.
-9. PARIS
-10. LES PASSIONS
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
 
-> 共 150 题，[完整目录与正文 →](https://www.bqgmz.top/b/20fc8f71ba9a/)
+> 共 6 部分，[完整目录与正文 →](https://www.bqgmz.top/b/20fc8f71ba9a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Three Voyages of Captain Cook Round the World. Vol. V. Being the First of the Third Voyage
 
-**作者** Cook, James, 1728-1779 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 752,096 字 ｜ **来源** Project Gutenberg
+**作者** Cook, James, 1728-1779 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 21 篇 · 752,096 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/19f62406740d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（752,096 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 68,372 字；最长 Besides walking frequently up into the c（96,788 字），最短 BOOK I.（3,211 字）。 |
+| 分章依据 | 按「篇」标记切分为 21 篇（通用标记切分），拼接正文 16,053 行。 |
+| 篇幅分布 | 平均每篇 30,206 字；最长 EMPLOYMENTS OF THE WOMEN AT THE FRIENDLY ISLANDS.—OF THE MEN.—（1）（56,911 字），最短 VARIOUS PREPARATIONS FOR THE VOYAGE.—OMAI’S BEHAVIOUR ON EMBARKING.—（15,444 字）。 |
 | 原文溯源 | `cache/epub/62095/pg62095.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. BOOK I.
-2. BOOK II.
-3. Both Pickersgill and Young having been o
-4. BOOK I.
-5. I had applied to the Chevalier de Borda,
-6. “The inhabitants of this place are, doub
-7. BOOK II.
-8. Besides walking frequently up into the c
-9. About one o’clock they began the _mai_,
-10. Of all the harbours and anchoring places
+1. VARIOUS PREPARATIONS FOR THE VOYAGE.—OMAI’S BEHAVIOUR ON EMBARKING.—
+2. PASSAGE OF THE RESOLUTION TO TENERIFFE.—RECEPTION THERE.—DESCRIPTION OF
+3. DEPARTURE FROM TENERIFFE.—DANGER OF THE SHIP NEAR BONAVISTA.—ISLE OF
+4. THE TWO SHIPS LEAVE THE CAPE OF GOOD HOPE.—TWO ISLANDS, NAMED PRINCE
+5. DEPARTURE FROM CHRISTMAS HARBOUR.—RANGE ALONG THE COAST, TO DISCOVER ITS
+6. PASSAGE FROM KERGUELEN’S TO VAN DIEMEN’S LAND.—ARRIVAL IN ADVENTURE
+7. THE PASSAGE FROM VAN DIEMEN’S LAND TO NEW ZEALAND.—EMPLOYMENTS IN QUEEN
+8. MR. ANDERSON’S REMARKS ON THE COUNTRY NEAR QUEEN CHARLOTTE’S SOUND.—THE
+9. PROSECUTION OF THE VOYAGE.—BEHAVIOUR OF THE TWO NEW ZEALANDERS ON
+10. THE DISCOVERY OF AN ISLAND CALLED WATEEOO.—ITS COASTS EXAMINED.—VISITS
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/19f62406740d/)
+> 共 21 篇，[完整目录与正文 →](https://www.bqgmz.top/b/19f62406740d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

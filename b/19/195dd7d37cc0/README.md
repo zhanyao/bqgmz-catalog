@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（260,566 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,611 字；最长 CHAPTER XIII.—A GAME OF HIDE-AND-SEEK.（40,063 字），最短 CHAPTER I.—ONOWAY HOUSE.（9,330 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 6,368 行。 |
+| 篇幅分布 | 平均每章 18,570 字；最长 CHAPTER XIII.—A GAME OF HIDE-AND-SEEK.（40,063 字），最短 CHAPTER I.—ONOWAY HOUSE.（8,753 字）。 |
 | 起止 | 始于「CHAPTER I.—ONOWAY HOUSE.」，止于「CHAPTER XIV.—GOOD-BYE TO ONOWAY HOUSE.」。 |
 | 原文溯源 | `cache/epub/36833/pg36833.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/195dd7d37cc0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

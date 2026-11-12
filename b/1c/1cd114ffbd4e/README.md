@@ -1,7 +1,7 @@
 # Highways and Byways in Lincolnshire
 
 **作者** Rawnsley, W. F. (Willingham Franklin), 1845-1927; Farquharson, Alexander Forrester, 1836-1906 [Contributor]; Griggs, Frederick Landseer Maur, 1876-1938 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 50 章 · 818,773 字 ｜ **来源** Project Gutenberg
+**规模** 43 章 · 818,773 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1cd114ffbd4e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（818,773 字）。 |
-| 分章依据 | 按「章」标记切分为 50 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,375 字。 |
+| 分章依据 | 按「章」标记切分为 43 章（auto-chapter），拼接正文 20,011 行。 |
+| 篇幅分布 | 平均每章 18,889 字；最长 APPENDIX I（45,681 字），最短 CHAPTER XV（4,403 字）。 |
 | 原文溯源 | `cache/epub/65921/pg65921.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 50 章，[完整目录与正文 →](https://www.bqgmz.top/b/1cd114ffbd4e/)
+> 共 43 章，[完整目录与正文 →](https://www.bqgmz.top/b/1cd114ffbd4e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

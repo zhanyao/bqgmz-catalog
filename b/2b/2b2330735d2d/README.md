@@ -1,7 +1,7 @@
 # Martyred Armenia
 
-**作者** Ghusayn, Fa'iz, 1883-1968 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 3 段 · 68,876 字 ｜ **来源** Project Gutenberg
+**作者** Ghusayn, Fa'iz, 1883-1968 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 5 篇 · 68,876 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2b2330735d2d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（68,876 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,958 字。 |
+| 分章依据 | 按「篇」标记切分为 5 篇（通用标记切分），拼接正文 1,521 行。 |
+| 篇幅分布 | 平均每篇 13,728 字；最长 THE NARRATIVE（30,021 字），最短 SLAUGHTER OF THE PROTESTANT, CHALDEAN, AND SYRIAC COMMUNITIES.--The（3,067 字）。 |
 | 原文溯源 | `cache/epub/19986/pg19986.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 5 篇）
 
-1. In the evening we arrived at Kara Jevren, and slept there ti
-2. Another informant told me that the Diarbekir authorities had
-3. If the Turkish Government were asked the reasons for which t
+1. FOREWORD
+2. THE NARRATIVE
+3. SLAUGHTER OF THE PROTESTANT, CHALDEAN, AND SYRIAC COMMUNITIES.--The
+4. SALE OF ARMENIAN EFFECTS, AND REMOVAL OF CROSSES FROM THE
+5. CONCLUSION
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/2b2330735d2d/)
+> 共 5 篇，[完整目录与正文 →](https://www.bqgmz.top/b/2b2330735d2d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

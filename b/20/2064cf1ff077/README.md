@@ -1,7 +1,7 @@
 # Syrjästäkatsojan tarina
 
-**作者** Brontë, Charlotte, 1816-1855; Tuulio, Tyyni, 1892-1991 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 87 题 · 1,029,878 字 ｜ **来源** Project Gutenberg
+**作者** Brontë, Charlotte, 1816-1855; Tuulio, Tyyni, 1892-1991 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 42 章 · 1,029,878 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2064cf1ff077/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,029,878 字）。 |
-| 分章依据 | 按「题」标记切分为 87 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,837 字。 |
+| 分章依据 | 按「章」标记切分为 42 章（auto-roman-bare），拼接正文 23,689 行。 |
+| 篇幅分布 | 平均每章 24,500 字；最长 XIV（58,309 字），最短 V（9,680 字）。 |
 | 原文溯源 | `cache/epub/48125/pg48125.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SYRJÄSTÄKATSOJAN TARINA
-2. Charlotte Bronté
-3. Suomentanut ["Villette"] Tyyni Haapanen-Tallgren
-4. SISÄLLYS:
-5. BRETTON
-6. II
-7. PAULIINA
-8. III
-9. LEIKKITOVERIT
-10. IV
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 87 题，[完整目录与正文 →](https://www.bqgmz.top/b/2064cf1ff077/)
+> 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/2064cf1ff077/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

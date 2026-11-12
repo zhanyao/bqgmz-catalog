@@ -1,7 +1,7 @@
 # Neljän merkit
 
-**作者** Doyle, Arthur Conan, 1859-1930; Wickstedt, Ida [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 10 段 · 211,113 字 ｜ **来源** Project Gutenberg
+**作者** Doyle, Arthur Conan, 1859-1930; Wickstedt, Ida [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 12 章 · 211,113 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2f0c4860a13e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（211,113 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,111 字；最长 "En ole vielä kertonut kaikkein kummallisinta. Noin kuusi vu（39,904 字），最短 "Mutta minä väsytän teitä, hyvät herrat, pitkällä kertomukse（10,864 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-toc-title-list），拼接正文 4,984 行。 |
+| 篇幅分布 | 平均每章 17,558 字；最长 Jonathan Smallin elämäkerta.（48,608 字），最短 Etsimismatkalla.（8,601 字）。 |
 | 原文溯源 | `cache/epub/52099/pg52099.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. "En ole vielä kertonut kaikkein kummallisinta. Noin kuusi vu
-2. "Isäni oli, kuten ehkä olette arvanneet, majoori John Sholto
-3. Sherlock Holmes otti lyhdyn ja meni edellä, kun Thaddeus Sho
-4. Polisi oli tullut sinne roskissa ja niissä saatoin miss Mors
-5. Kulkumme johti nyt pitkin Nine Elmsiä, kunnes tulimme Broder
-6. Ilon tunne valtasi minut huomatessani ettei hänessä näkynyt
-7. "Luonnollisesti ei. Ajattelin myöskin ett'ei vene olisi kauk
-8. "Kaikki on ohitse," vastasin minä. "Ei se ollutkaan mitään.
-9. "'Pohjoisimmissa maakunnissa elää eräs rajah, joka on hyvin
-10. "Mutta minä väsytän teitä, hyvät herrat, pitkällä kertomukse
+1. Luento ajatusopillisessa johtamistaidossa.
+2. Miss Morstanin asia.
+3. Etsimismatkalla.
+4. Pienen kaljupää-miehen historia.
+5. Murhenäytelmä Pondicherry Lodgessa.
+6. Sherlock Holmes mielityössään.
+7. Kreosooti-tynnyri.
+8. Apulaisjoukkomme.
+9. Odottamaton viivytys.
+10. Takaa-ajaminen.
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/2f0c4860a13e/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/2f0c4860a13e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

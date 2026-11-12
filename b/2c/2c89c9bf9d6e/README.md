@@ -1,7 +1,7 @@
 # Tales from Bohemia
 
-**作者** Stephens, Robert Neilson, 1867-1906 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 12 段 · 250,389 字 ｜ **来源** Project Gutenberg
+**作者** Stephens, Robert Neilson, 1867-1906 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 25 章 · 250,389 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2c89c9bf9d6e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（250,389 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,865 字；最长 He bought her marshmallows at a confectioner's booth, a fan （39,937 字），最短 _A Triangular Chase_（10,103 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-roman-title），拼接正文 6,789 行。 |
+| 篇幅分布 | 平均每章 9,678 字；最长 XXV. -- AN OPERATIC EVENING（19,747 字），最短 IX. -- HE BELIEVED THEM（3,119 字）。 |
+| 起止 | 始于「I. -- THE ONLY GIRL HE EVER LOVED」，止于「XXV. -- AN OPERATIC EVENING」。 |
 | 原文溯源 | `cache/epub/8869/pg8869.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. He bought her marshmallows at a confectioner's booth, a fan
-2. In the morning the professor's door stood ajar. I looked in.
-3. “The revival of a familiar burlesque on 'Faust' at the ----
-4. “Yes, but she took her time, and had all the necessaries of
-5. “Thanks, very much,” replied the tramp, continuing to walk w
-6. At six o'clock, usually, supper was hot, and Tom arrived thr
-7. In walked Aubrey Pilling. He came quietly to an unoccupied s
-8. “At fifteen there came an emancipation of mind and speech fr
-9. Pop made a guilty attempt to appear guileless, and told the
-10. Ernest Ruddle! the name on the manuscript! The man of the re
+1. I. -- THE ONLY GIRL HE EVER LOVED
+2. II. -- A BIT OF MELODY
+3. III. -- ON THE BRIDGE
+4. IV. -- THE TRIUMPH OF MOGLEY
+5. V. -- OUT OF HIS PAST
+6. VI. -- THE NEW SIDE PARTNER
+7. VII. -- THE NEEDY OUTSIDER
+8. VIII. -- TIME AND THE TOMBSTONE
+9. IX. -- HE BELIEVED THEM
+10. X. -- A VAGRANT
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/2c89c9bf9d6e/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/2c89c9bf9d6e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

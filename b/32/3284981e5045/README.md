@@ -11,23 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（22,290,472 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 1,060 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 659,787 行。 |
+| 篇幅分布 | 平均每章 17,500 字。 |
 | 原文溯源 | `cache/epub/70427/pg70427.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
 
-1. SECTION 2. And be it further enacted, That the Superior Court
-2. SECTION 3. And be it further enacted, That the Circuit Courts
-3. SECTION 4. And be it further enacted, That the commissioners
+1. CHAPTER 1. _Of the institution of the apostolic primacy in
+2. CHAPTER II. _On the perpetuation of the primacy of Peter in
+3. CHAPTER III. _On the force and character of the Primacy of
 4. SECTION 5. And be it further enacted, That it shall be the
 5. SECTION 6. And be it further enacted, That when a person held
 6. SECTION 7. And be it further enacted, That any person who
 7. SECTION 8. And be it further enacted, That the marshals, their
 8. SECTION 9. And be it further enacted, That, upon affidavit
-9. SECTION 10. And be it further enacted, That when any person
+9. appendix referred to.
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/3284981e5045/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

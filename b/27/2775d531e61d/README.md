@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（590,082 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 45,390 字；最长 In the same way the judges, who wrongful（72,678 字），最短 CHAPTER XI.（22,538 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 12,880 行。 |
+| 篇幅分布 | 平均每章 44,895 字；最长 notes something down. At last without having once looked him in the（94,394 字），最短 CHAPTER XI.（22,538 字）。 |
 | 原文溯源 | `cache/epub/43302/pg43302.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -31,4 +31,4 @@
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/2775d531e61d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

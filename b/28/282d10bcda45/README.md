@@ -1,7 +1,7 @@
 # The Story of Milan
 
 **作者** Noyes, Ella, 1863-1949; Noyes, Dora, 1864-1960 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 571,179 字 ｜ **来源** Project Gutenberg
+**规模** 17 章 · 571,179 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/282d10bcda45/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（571,179 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 35,698 字；最长 CHAPTER VII（62,109 字），最短 CHAPTER XV（23,508 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XVI」。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 12,235 行。 |
+| 篇幅分布 | 平均每章 33,277 字；最长 CHAPTER VII（62,109 字），最短 APPENDIX（16,750 字）。 |
 | 原文溯源 | `cache/epub/53961/pg53961.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/282d10bcda45/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/282d10bcda45/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

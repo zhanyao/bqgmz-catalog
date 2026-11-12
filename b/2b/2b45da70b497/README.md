@@ -1,7 +1,7 @@
 # Arianna
 
-**作者** Herczeg, Ferenc, 1863-1954 ｜ **国家/地区** 匈牙利 ｜ **体例** 题  
-**规模** 37 题 · 156,844 字 ｜ **来源** Project Gutenberg
+**作者** Herczeg, Ferenc, 1863-1954 ｜ **国家/地区** 匈牙利 ｜ **体例** 部分  
+**规模** 4 部分 · 156,844 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2b45da70b497/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（156,844 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,239 字。 |
+| 分章依据 | 按「部分」标记切分为 4 部分（fallback-chunk），拼接正文 4,523 行。 |
+| 篇幅分布 | 平均每部分 39,211 字。 |
 | 原文溯源 | `cache/epub/77409/pg77409.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 部分）
 
-1. HERCZEG FERENC MUNKÁI
-2. ARIANNA
-3. HERCZEG FERENC MUNKÁI
-4. Arianna
-5. Tizenhat elbeszélés
-6. BUDAPEST, 1904
-7. SINGER ÉS WOLFNER KIADÁSA
-8. HERCZEG FERENC
-9. Arianna
-10. Tizenhat elbeszélés
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/2b45da70b497/)
+> 共 4 部分，[完整目录与正文 →](https://www.bqgmz.top/b/2b45da70b497/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Wit of a Duck and Other Papers
 
-**作者** Burroughs, John, 1837-1921 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 101,698 字 ｜ **来源** Project Gutenberg
+**作者** Burroughs, John, 1837-1921 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 101,698 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2c92687ad17c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（101,698 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,339 字；最长 I do not think many animals show their kinship to us by（39,717 字），最短 There is one bird I seldom hear till June, and that is the（2,802 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-roman-bare），拼接正文 2,435 行。 |
+| 篇幅分布 | 平均每章 5,733 字。 |
 | 原文溯源 | `cache/epub/20448/pg20448.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. I do not think many animals show their kinship to us by
-2. How much business the crows seem to have apart from hunting
-3. Presently I saw the wren curtsying and gesticulating beneath
-4. One of our prettiest nest-builders is the junco or snowbird;
-5. There is one bird I seldom hear till June, and that is the
+1. I
+2. II
+3. III
+4. IV
+5. I（部2）
+6. II（部2）
+7. III（部2）
+8. V（部2）
+9. VI（部2）
+10. VII（部2）
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/2c92687ad17c/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/2c92687ad17c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

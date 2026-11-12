@@ -1,7 +1,7 @@
 # Entstehung des Deutschen Königthums
 
-**作者** Sybel, Heinrich von, 1817-1895 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 40 段 · 806,932 字 ｜ **来源** Project Gutenberg
+**作者** Sybel, Heinrich von, 1817-1895 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 541 篇 · 806,932 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/20b23bb6fedd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（806,932 字）。 |
-| 分章依据 | 按「段」标记切分为 40 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,173 字；最长 Die Hauptnahrung lieferte die Jagd, der Wald und vor Allem d（38,859 字），最短 Seite 12 Zeile 16 statt: vor, lies: =von=.（6,101 字）。 |
+| 分章依据 | 按「篇」标记切分为 541 篇（通用标记切分），拼接正文 15,410 行。 |
+| 篇幅分布 | 平均每篇 1,491 字。 |
 | 原文溯源 | `cache/epub/79605/pg79605.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Die Hauptnahrung lieferte die Jagd, der Wald und vor Allem d
-2. Bei dem hiemit charakterisirten Systeme gab es selbstverstän
-3. Die erste Frage, welche hier gewöhnlich erörtert zu werden p
-4. Wenn wir nun vorher bemerkten, daß eine Sippe, welche die He
-5. Wenn wir nun weiter beobachten, daß Homer[55] das griechisch
-6. Ueber die durchschnittliche Größe übrigens der Pagi der älte
-7. Es braucht an dieser Stelle nur einer Zusammenfassung der bi
-8. Um diese von dem richtigen Standpunkte aus zu fassen, wenden
-9. Also die nach Tacitus in _concilio_ erwählten Centrichter si
-10. Der Princeps wird, wenn eine Stelle vacant ist, in der Versa
+1. Anmerkungen zur Transkription:
+2. Die Rechtschreibung und Zeichensetzung des Buches wurden weitgehend
+3. Mancher Leser dieser Blätter mag sich wundern, lieber Freund, daß ich
+4. Von vielfacher sonstiger Arbeit in Anspruch genommen, bin ich nicht
+5. Die Germanen finden wir, bei dem Beginn unserer geschichtlichen
+6. Der römische Feldherr hat seine Forschungen über einen beträchtlichen
+7. Cäsar hat für dieselben die Bezeichnung _pagi_; ihre Wichtigkeit
+8. Eine hiervon abweichende Meinung hat nun erst in einigen neueren
+9. Zwei der wichtigsten Einwände gegen das Alter der räumlichen Verbände
+10. Betrachtet man die Mark im späteren Sinne als die älteste deutsche
 
-> 共 40 段，[完整目录与正文 →](https://www.bqgmz.top/b/20b23bb6fedd/)
+> 共 541 篇，[完整目录与正文 →](https://www.bqgmz.top/b/20b23bb6fedd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Life of Columbus
 
 **作者** Helps, Arthur, Sir, 1813-1875 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 15 章 · 256,310 字 ｜ **来源** Project Gutenberg
+**规模** 13 章 · 256,310 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1b0b63fcddb2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（256,310 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,087 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-toc-title-list），拼接正文 5,634 行。 |
+| 篇幅分布 | 平均每章 18,866 字；最长 CHAPTER I.（42,042 字），最短 CHAPTER XIII.（7,478 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XIII.」。 |
 | 原文溯源 | `cache/epub/15336/pg15336.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -20,15 +21,15 @@
 1. CHAPTER I.
 2. CHAPTER II.
 3. CHAPTER III.
-4. CHAPTER IV.
+4. First Voyage
 5. CHAPTER V.
 6. CHAPTER VI.
 7. CHAPTER VII.
 8. CHAPTER VIII.
-9. CHAPTER IX.
+9. Columbus's Third Voyage
 10. CHAPTER X.
 
-> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/1b0b63fcddb2/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/1b0b63fcddb2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

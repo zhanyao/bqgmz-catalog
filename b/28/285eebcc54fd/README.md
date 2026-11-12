@@ -1,7 +1,7 @@
 # Beyond the Yellow Fog
 
-**作者** McDowell, Robert Emmett, 1914-1975; Rubimor, 1922-1984 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 38 题 · 96,996 字 ｜ **来源** Project Gutenberg
+**作者** McDowell, Robert Emmett, 1914-1975; Rubimor, 1922-1984 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 96,996 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/285eebcc54fd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（96,996 字）。 |
-| 分章依据 | 按「题」标记切分为 38 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,552 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-bare），拼接正文 3,030 行。 |
+| 篇幅分布 | 平均每章 10,635 字；最长 V（13,118 字），最短 IV（8,492 字）。 |
 | 原文溯源 | `cache/epub/64323/pg64323.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. Beyond The Yellow Fog
-2. By EMMETT McDOWELL
-3. Trev said, "No trouble, Captain Cabot."
-4. The Captain frowned. "What's the trouble, Trev?"
-5. II
-6. Gavin drank and asked, "Well?"
-7. Gavin scowled. "Who are you?"
-8. He stood up, saying, "I'll think it over."
-9. X looked undecided.
-10. He gave the waiter a bill, saying, "Get me a table then, near the wall."
+1. II
+2. III
+3. IV
+4. V
+5. VI
+6. VII
+7. VIII
+8. IX
 
-> 共 38 题，[完整目录与正文 →](https://www.bqgmz.top/b/285eebcc54fd/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/285eebcc54fd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

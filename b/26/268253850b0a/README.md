@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（429,238 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 42,923 字；最长 CHAPTER IX（80,069 字），最短 Section LVI of “An Act for the better Ordering and Governing Negroes（15,346 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 10,533 行。 |
+| 篇幅分布 | 平均每章 42,355 字；最长 Notes and Queries.（77,057 字），最短 CHAPTER I（14,084 字）。 |
 | 原文溯源 | `cache/epub/67353/pg67353.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +26,9 @@
 7. CHAPTER VII
 8. CHAPTER VIII
 9. CHAPTER IX
-10. Section LVI of “An Act for the better Ordering and Governing Negroes
+10. Notes and Queries.
 
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/268253850b0a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

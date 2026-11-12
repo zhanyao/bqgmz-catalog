@@ -1,7 +1,7 @@
 # Four American Indians: King Philip, Pontiac, Tecumseh, Osceola
 
-**作者** Whitney, Edson Leone, 1861-; Perry, F. M. (Frances Melville) ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 12 段 · 246,484 字 ｜ **来源** Project Gutenberg
+**作者** Whitney, Edson Leone, 1861-; Perry, F. M. (Frances Melville) ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 85 章 · 246,484 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2b14754142e7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（246,484 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,540 字；最长 There he was left with nothing but a hatchet, a knife, and a（39,957 字），最短 General Jesup told the chiefs that he would urge the United （6,266 字）。 |
+| 分章依据 | 按「章」标记切分为 85 章（auto-roman-title），拼接正文 5,983 行。 |
+| 篇幅分布 | 平均每章 2,891 字。 |
+| 起止 | 始于「I. THE MEETING OF PONTIAC AND THE ENGLISH 53」，止于「XII. THE END（部7）」。 |
 | 原文溯源 | `cache/epub/25538/pg25538.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. There he was left with nothing but a hatchet, a knife, and a
-2. Everything seemed to go wrong. He tried to make peace with t
-3. In Michigan, where the Ottawa Indians lived, there were othe
-4. Pontiac had no lack of warriors, nevertheless he, as well as
-5. One tribe after another sent delegations to Major Gladwin to
-6. Tecumseh and his brothers were among those who escaped the s
-7. He made a speech of such passion and eloquence that the inte
-8. Tecumseh then hastened to the South, where he worked to good
-9. This was a band of Red Stick Indians who had left forever th
-10. "When I returned from Washington, all my warriors were scatt
+1. I. THE MEETING OF PONTIAC AND THE ENGLISH 53
+2. II. PONTIAC'S CHILDHOOD 59
+3. III. PONTIAC'S EDUCATION 62
+4. IV. THE CHIEF 66
+5. VI. THE SEVENTH OF MAY 74
+6. VII. HOSTILITIES BEGUN 79
+7. VIII. THE TWO LEADERS 84
+8. IX. THE SIEGE OF DETROIT 89
+9. X. IMPORTANT ENGAGEMENTS 95
+10. XI. THE END OF THE SIEGE 101
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/2b14754142e7/)
+> 共 85 章，[完整目录与正文 →](https://www.bqgmz.top/b/2b14754142e7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

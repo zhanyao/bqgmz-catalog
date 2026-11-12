@@ -1,7 +1,7 @@
 # Shelleyn runoja
 
-**作者** Shelley, Percy Bysshe, 1792-1822; Tuomikoski, Jaakko, 1885-1971 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 28 题 · 24,998 字 ｜ **来源** Project Gutenberg
+**作者** Shelley, Percy Bysshe, 1792-1822; Tuomikoski, Jaakko, 1885-1971 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 9 章 · 24,998 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/32745b63f072/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（24,998 字）。 |
-| 分章依据 | 按「题」标记切分为 28 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 892 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-num），拼接正文 1,405 行。 |
+| 篇幅分布 | 平均每章 1,888 字；最长 5（4,158 字），最短 3（412 字）。 |
 | 原文溯源 | `cache/epub/76161/pg76161.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. SHELLEYN RUNOJA
-2. Percy Bysshe Shelley
-3. Suomentanut
-4. JAAKKO TUOMIKOSKI
-5. SISÄLLYS
-6. LUKIJALLE
-7. J. T.
-8. ALASTORIN ALKUSÄKEET
-9. HYMNI SISÄISELLE KAUNEUDELLE
-10. MENNYT
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 1（部2）
+7. 2（部2）
+8. 3（部2）
+9. 4（部2）
 
-> 共 28 题，[完整目录与正文 →](https://www.bqgmz.top/b/32745b63f072/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/32745b63f072/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

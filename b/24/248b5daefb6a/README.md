@@ -1,7 +1,7 @@
 # The Heritage of the Desert: A Novel
 
-**作者** Grey, Zane, 1872-1939 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 18 段 · 365,375 字 ｜ **来源** Project Gutenberg
+**作者** Grey, Zane, 1872-1939 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 365,375 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/248b5daefb6a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（365,375 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,298 字；最长 “Your fever is gone,” said August Naab, with his hand on Har（39,961 字），最短 “Ah! Yes, I'm coming to that.” Naab bent his head over the l（5,002 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-roman-title），拼接正文 9,219 行。 |
+| 篇幅分布 | 平均每章 17,380 字；最长 X. RIDING THE RANGES（29,164 字），最短 XXI. MESCAL（6,614 字）。 |
+| 起止 | 始于「I. THE SIGN OF THE SUNSET」，止于「XXI. MESCAL」。 |
 | 原文溯源 | `cache/epub/1262/pg1262.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. “Your fever is gone,” said August Naab, with his hand on Har
-2. “Don't form any ideas of distance and size yet a while,” sai
-3. Naab had put Hare to bed on the unroofed porch of a log hous
-4. “This is Lookout Point,” said Naab. “I keep an Indian here a
-5. The sheep began to bleat. A rippling crash, a splintering of
-6. “If we get the pick of the lot it will be worth two weeks' w
-7. Silvermane snorted defiance from the cedar corral next morni
-8. The sheep had almost gained the victory; their keen noses we
-9. When he got to the fire he saw that it was not many hours ol
-10. It was intolerable for Hare to sit there in the evenings, to
+1. I. THE SIGN OF THE SUNSET
+2. II. WHITE SAGE
+3. III. THE TRAIL OF THE RED WALL
+4. IV. THE OASIS
+5. V. BLACK SAGE AND JUNIPER
+6. VI. THE WIND IN THE CEDARS
+7. VII. SILVERMANE
+8. VIII. THE BREAKER OF WILD MUSTANGS
+9. IX. THE SCENT OF DESERT-WATER
+10. X. RIDING THE RANGES
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/248b5daefb6a/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/248b5daefb6a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

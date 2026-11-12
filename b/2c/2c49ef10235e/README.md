@@ -1,7 +1,7 @@
 # A Lady's Life in the Rocky Mountains
 
-**作者** Bird, Isabella L. (Isabella Lucy), 1831-1904 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 16 段 · 335,233 字 ｜ **来源** Project Gutenberg
+**作者** Bird, Isabella L. (Isabella Lucy), 1831-1904 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 259 篇 · 335,233 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2c49ef10235e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（335,233 字）。 |
-| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,952 字；最长 I walked for nearly an hour, heated and hungry, when to my j（40,032 字），最短 The solitary ride to Evans's was very eerie.  It was very da（15,193 字）。 |
+| 分章依据 | 按「篇」标记切分为 259 篇（通用标记切分），拼接正文 6,751 行。 |
+| 篇幅分布 | 平均每篇 1,293 字。 |
 | 原文溯源 | `cache/epub/755/pg755.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. I walked for nearly an hour, heated and hungry, when to my j
-2. It gave me a strange sensation to embark upon the Plains. P
-3. The absence of a date shows my predicament. THEY have no ne
-4. At this great height, and most artistically situated, we cam
-5. It is not easy to sit down to write after ten hours of hard
-6. Unsaddling and picketing the horses securely, making the bed
-7. But still I have not answered the natural question,[15] "Wha
-8. The letter and newspaper fever has seized on every one. We
-9. "The Island Valley of Avillon" is left, but how shall I fina
-10. It was so odd and novel to have a beautiful bed room, hot wa
+1. Lake Tahoe--Morning in San Francisco--Dust--A Pacific
+2. A Temple of Morpheus--Utah--A "God-forgotten" town--A distressed
+3. A dateless day--"Those hands of yours"--A Puritan--Persevering
+4. A bronco mare--An accident--Wonderland--A sad story--The children of
+5. Personality of Long's Peak--"Mountain Jim"--Lake of the Lilies--A
+6. Estes Park--Big game--"Parks" in Colorado--Magnificent scenery--Flowers
+7. A white world--Bad traveling--A millionaire's home--Pleasant
+8. Tarryall Creek--The Red Range--Excelsior--Importunate pedlars--Snow and
+9. Deer Valley--Lynch law--Vigilance committees--The silver spruce--Taste
+10. The blight of mining--Green Lake--Golden
 
-> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/2c49ef10235e/)
+> 共 259 篇，[完整目录与正文 →](https://www.bqgmz.top/b/2c49ef10235e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

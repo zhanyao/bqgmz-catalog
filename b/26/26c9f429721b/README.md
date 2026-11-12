@@ -1,7 +1,7 @@
 # A Journey through Persia, Armenia, and Asia Minor, to Constantinople, in the Years 1808 and 1809 In Which is Included, Some Account of the Proceedings of His Majesty's Mission, under Sir Harford Jones, Bart. K. C. to the Court of Persia
 
-**作者** Morier, James Justinian, 1780?-1849 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 38 段 · 780,706 字 ｜ **来源** Project Gutenberg
+**作者** Morier, James Justinian, 1780?-1849 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 780,706 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/26c9f429721b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（780,706 字）。 |
-| 分章依据 | 按「段」标记切分为 38 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,544 字；最长 One piece of land in particular, forming an entrance to the （39,609 字），最短 The territory, therefore, of Bushire, and the neighbouring d（17,707 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-caps-sections），拼接正文 18,056 行。 |
+| 篇幅分布 | 平均每章 43,345 字；最长 11 E.（67,202 字），最短 APRIL, 1811.（3）（1,854 字）。 |
 | 原文溯源 | `cache/epub/51819/pg51819.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. One piece of land in particular, forming an entrance to the
-2. The territory, therefore, of Bushire, and the neighbouring d
-3. On the 19th of Oct. we received despatches from JAFFER ALI K
-4. It will be recollected that the _Nereide_, the _Sapphire_, a
-5. II. _Bushire_ (or more properly _Abuschahr_, for the former
-6. On the specific description of the animal I agree with SONNI
-7. The river that runs by _Daulakee_ meanders through the plain
-8. Walking forwards we came to a very extensive piece of sculpt
-9. Of all the mosques, the _Mesjid Ali_ (built in the Khalifat
-10. All this continued till the twilight had fairly expired; whe
+1. PREFACE.
+2. THE SYLPH--DEATH OF MR. COARE.
+3. 11 E.
+4. PRINCE’S PRESENT; DRESSES OF HONOR.（1）
+5. PRINCE’S PRESENT; DRESSES OF HONOR.（2）
+6. PRINCE’S PRESENT; DRESSES OF HONOR.（3）
+7. INTO THE CITY.
+8. HISTORY OF MIRZA ABUL HASSAN, ENVOY EXTRAORDINARY TO ENGLAND.
+9. CITY--PERSIAN DRESSES--CHARACTER.（1）
+10. CITY--PERSIAN DRESSES--CHARACTER.（2）
 
-> 共 38 段，[完整目录与正文 →](https://www.bqgmz.top/b/26c9f429721b/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/26c9f429721b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

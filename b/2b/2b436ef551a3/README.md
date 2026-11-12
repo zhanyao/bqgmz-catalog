@@ -1,7 +1,7 @@
 # Fors Clavigera (Volume 2 of 8) Letters to the workmen and labourers of Great Britain
 
-**作者** Ruskin, John, 1819-1900 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 56 题 · 301,502 字 ｜ **来源** Project Gutenberg
+**作者** Ruskin, John, 1819-1900 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 8 部分 · 301,502 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2b436ef551a3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（301,502 字）。 |
-| 分章依据 | 按「题」标记切分为 56 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,383 字。 |
+| 分章依据 | 按「部分」标记切分为 8 部分（fallback-chunk），拼接正文 6,793 行。 |
+| 篇幅分布 | 平均每部分 37,687 字；最长 第 5 部分（41,513 字），最短 第 8 部分（13,117 字）。 |
 | 原文溯源 | `cache/epub/61591/pg61591.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 部分）
 
-1. FORS CLAVIGERA.
-2. LETTERS
-3. FORS CLAVIGERA.
-4. LETTER XIII.
-5. JOHN RUSKIN.
-6. FORS CLAVIGERA.
-7. LETTER XIV.
-8. JOHN RUSKIN.
-9. NOTES AND CORRESPONDENCE.
-10. FORS CLAVIGERA.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
 
-> 共 56 题，[完整目录与正文 →](https://www.bqgmz.top/b/2b436ef551a3/)
+> 共 8 部分，[完整目录与正文 →](https://www.bqgmz.top/b/2b436ef551a3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（425,320 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,012 字；最长 CHAPTER XXI--WHY HIRAM LOOK WENT OUT OF THE CIRCUS BUSINESS（27,630 字），最短 CHAPTER XXV--AQUARIUS WHARFF SEES SOMETHING BESIDES HARD TIMES（7,698 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 11,213 行。 |
+| 篇幅分布 | 平均每章 17,006 字；最长 CHAPTER XXI--WHY HIRAM LOOK WENT OUT OF THE CIRCUS BUSINESS（27,630 字），最短 CHAPTER XXV--AQUARIUS WHARFF SEES SOMETHING BESIDES HARD TIMES（7,698 字）。 |
 | 起止 | 始于「CHAPTER I--“HARD-TIMES” WHARFF COCKS HIS NOSE TO SNIFF TROUBLE」，止于「CHAPTER XXV--AQUARIUS WHARFF SEES SOMETHING BESIDES HARD TIMES」。 |
 | 原文溯源 | `cache/epub/55340/pg55340.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/2e7429ccf03e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

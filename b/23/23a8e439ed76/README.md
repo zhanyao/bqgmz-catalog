@@ -1,7 +1,7 @@
 # Hindu Tales from the Sanskrit
 
 **作者** D'Anvers, N., 1844-1933 [Editor]; Mitra, Siddha Mohana, 1856-1925 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 181,390 字 ｜ **来源** Project Gutenberg
+**规模** 93 章 · 181,390 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/23a8e439ed76/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（181,390 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,670 字；最长 CHAPTER XVI（53,542 字），最短 CHAPTER IV（753 字）。 |
+| 分章依据 | 按「章」标记切分为 93 章（auto-chapter），拼接正文 4,434 行。 |
+| 篇幅分布 | 平均每章 1,926 字。 |
 | 原文溯源 | `cache/epub/11310/pg11310.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/23a8e439ed76/)
+> 共 93 章，[完整目录与正文 →](https://www.bqgmz.top/b/23a8e439ed76/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

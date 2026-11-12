@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（117,551 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,793 字；最长 CHAPTER IV--IN WHICH THE TRUTH TRESPASSES（19,192 字），最短 CHAPTER VI--IN WHICH A GHOST TRESPASSES（10,418 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-chapter），拼接正文 3,124 行。 |
+| 篇幅分布 | 平均每章 16,773 字；最长 CHAPTER IV--IN WHICH THE TRUTH TRESPASSES（19,192 字），最短 CHAPTER VI--IN WHICH A GHOST TRESPASSES（10,418 字）。 |
 | 起止 | 始于「CHAPTER I--IN WHICH A YOUNG MAN TRESPASSES」，止于「CHAPTER VII--IN WHICH THE AUTHOR TRESPASSES」。 |
 | 原文溯源 | `cache/epub/54101/pg54101.txt`（Project Gutenberg） |
 
@@ -29,4 +29,4 @@
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/2ab888e4580d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

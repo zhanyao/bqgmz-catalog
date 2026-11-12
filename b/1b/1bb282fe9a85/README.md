@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（397,145 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,367 字；最长 CHAPTER IV. ATROCITIES, DUELS, SUICIDES, AND EXECUTION OF GAMBLERS.（48,918 字），最短 CHAPTER XI. COCK-FIGHTING.（15,960 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 9,085 行。 |
+| 篇幅分布 | 平均每章 28,291 字；最长 CHAPTER IV. ATROCITIES, DUELS, SUICIDES, AND EXECUTION OF GAMBLERS.（48,918 字），最短 CHAPTER XI. COCK-FIGHTING.（15,960 字）。 |
 | 起止 | 始于「CHAPTER I. CHEVALIERS D'INDUSTRIE, OR POLITE SHARPERS.」，止于「CHAPTER XIV. AMUSING CARD TRICKS.(86)」。 |
 | 原文溯源 | `cache/epub/531/pg531.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/1bb282fe9a85/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

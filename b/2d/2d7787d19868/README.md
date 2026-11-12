@@ -1,7 +1,7 @@
 # Journeys Through Bookland, Vol. 3
 
-**作者** Sylvester, Charles Herbert ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 26 段 · 538,308 字 ｜ **来源** Project Gutenberg
+**作者** Sylvester, Charles Herbert ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 31 篇 · 538,308 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2d7787d19868/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（538,308 字）。 |
-| 分章依据 | 按「段」标记切分为 26 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,704 字；最长 "I'm sure you must be weary（39,718 字），最短 Roland only too willingly accepted the task, saying to Charl（17,978 字）。 |
+| 分章依据 | 按「篇」标记切分为 31 篇（通用标记切分），拼接正文 13,782 行。 |
+| 篇幅分布 | 平均每篇 17,326 字；最长 THE STORY OF ALADDIN, OR THE WONDERFUL LAMP（61,723 字），最短 THE SWISS FAMILY ROBINSON（603 字）。 |
 | 原文溯源 | `cache/epub/5902/pg5902.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. "I'm sure you must be weary
-2. The story as Defoe tells it is vividly written in what seems
-3. I soon found a way to convince him that I would do him no ha
-4. They were just going into the boat when Friday and the mate
-5. Days, months, years, and ages shall circle away,
-6. [Illustration: THE AGOUTI]
-7. "Really, Ernest," I said, "we are indebted to you. I will op
-8. By dint of downright hard work, we accomplished this, and I
-9. Taking an ample supply of everything we should require at Fa
-10. I led the way, sounding the ground as I advanced with a long
+1. ROLAND AT RONCESVALLES
+2. By LEWIS CARROLL
+3. By LEWIS CARROLL
+4. By WILLIAM ALLINGHAM
+5. INTRODUCTORY NOTE
+6. THE MAN FRIDAY
+7. CRUSOE AND THE PIRATES
+8. THE SWISS FAMILY ROBINSON
+9. THE SHIPWRECK AND LANDING
+10. EXCURSION AND SETTLEMENT
 
-> 共 26 段，[完整目录与正文 →](https://www.bqgmz.top/b/2d7787d19868/)
+> 共 31 篇，[完整目录与正文 →](https://www.bqgmz.top/b/2d7787d19868/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

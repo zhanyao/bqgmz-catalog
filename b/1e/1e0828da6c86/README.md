@@ -1,7 +1,7 @@
 # Lahjoitusmailla
 
-**作者** Ivalo, Santeri, 1866-1937 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 24 题 · 180,614 字 ｜ **来源** Project Gutenberg
+**作者** Ivalo, Santeri, 1866-1937 ｜ **国家/地区** 芬兰 ｜ **体例** 场  
+**规模** 4 场 · 180,614 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1e0828da6c86/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（180,614 字）。 |
-| 分章依据 | 按「题」标记切分为 24 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,525 字。 |
+| 分章依据 | 按「场」标记切分为 4 场（auto-local-act），拼接正文 5,269 行。 |
+| 篇幅分布 | 平均每场 44,984 字。 |
 | 原文溯源 | `cache/epub/76405/pg76405.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 场）
 
-1. LAHJOITUSMAILLA
-2. Historiallinen näytelmä. Neljä näytöstä kuutena kuvaelmana
-3. SANTERI INGMAN [Santeri Ivalo]
-4. HENKILÖT
-5. ENSIMMÄINEN NÄYTÖS.
-6. KAIJA. Hyvää iltaa, kirkkoherra, (Kirkkoherra ei heitä huomaa.)
-7. KIRKKOHERRA. Kiitos, poikani. (Rupee verkalleen postiaan avaamaan.)
-8. POSSE. Vaan antaa teidän kumminkin edelleen niillä asua
-9. HARSIA. Me lähdemme. Tulkaa miehet! (Menossa.)
-10. LAIHANEN (Nousee). Pitää joutua kuorman tekoon. (Menossa.)
+1. neljäs näytös kirkolla, toinen ja kolmas Nurmjärven syrjäkylässä.
+2. TOINEN NÄYTÖS.
+3. KOLMAS NÄYTÖS.
+4. NELJÄS NÄYTÖS.
 
-> 共 24 题，[完整目录与正文 →](https://www.bqgmz.top/b/1e0828da6c86/)
+> 共 4 场，[完整目录与正文 →](https://www.bqgmz.top/b/1e0828da6c86/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

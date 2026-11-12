@@ -1,7 +1,7 @@
 # Immortality proved by the testimony of sense
 
 **作者** Cummings, Abraham, 1755-1827 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 3 章 · 157,368 字 ｜ **来源** Project Gutenberg
+**规模** 4 章 · 157,368 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/32b736e5abf0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（157,368 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 52,456 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-chapter-fb），拼接正文 3,751 行。 |
+| 篇幅分布 | 平均每章 39,182 字。 |
 | 原文溯源 | `cache/epub/74156/pg74156.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 章）
+## 章节目录（前 4 章）
 
 1. SECTION I.
 2. SECTION II.
 3. SECTION III.
+4. notes were solemn and exceedingly delightful. Then we all went up, and
 
-> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/32b736e5abf0/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/32b736e5abf0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

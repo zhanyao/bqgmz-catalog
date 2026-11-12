@@ -1,7 +1,7 @@
 # Short story classics (Foreign), Vol. 3, German
 
-**作者** Patten, William, 1868-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 35 题 · 387,708 字 ｜ **来源** Project Gutenberg
+**作者** Patten, William, 1868-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 387,708 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2daf4972c973/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（387,708 字）。 |
-| 分章依据 | 按「题」标记切分为 35 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,077 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-caps-sections），拼接正文 9,451 行。 |
+| 篇幅分布 | 平均每章 43,078 字；最长 III（2）（57,556 字），最短 FRAU EMMA WIEGAND TO PROF. MAX WIEGAND.（2,372 字）。 |
 | 原文溯源 | `cache/epub/73630/pg73630.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. TRANSCRIBER’S NOTES:
-2. CONTENTS-VOLUME III
-3. PAGE
-4. II
-5. III
-6. IV
-7. VI
-8. VII
-9. FOOTNOTES:
-10. FOOTNOTES:
+1. III（1）
+2. III（2）
+3. III（3）
+4. III（4）
+5. FOOTNOTES:（1）
+6. FOOTNOTES:（2）
+7. FRAU EMMA WIEGAND TO PROF. MAX WIEGAND.
+8. FRAU EMMA WIEGAND TO PROF. MAX WIEGAND.
+9. notes boomed through the air. The incense wafted upward. “O vestis
 
-> 共 35 题，[完整目录与正文 →](https://www.bqgmz.top/b/2daf4972c973/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/2daf4972c973/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

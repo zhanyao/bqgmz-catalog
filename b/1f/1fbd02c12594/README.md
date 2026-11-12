@@ -1,7 +1,7 @@
 # Monsieur de Camors — Volume 3
 
-**作者** Feuillet, Octave, 1821-1890 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 9 章 · 133,564 字 ｜ **来源** Project Gutenberg
+**作者** Feuillet, Octave, 1821-1890 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 133,564 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1fbd02c12594/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（133,564 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,840 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（auto-title-block），拼接正文 3,340 行。 |
+| 篇幅分布 | 平均每篇 22,266 字。 |
 | 原文溯源 | `cache/epub/3945/pg3945.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 章）
+## 章节目录（前 4 篇）
 
-1. BOOK 3.
-2. CHAPTER XV
-3. CHAPTER XVI
-4. CHAPTER XVII
-5. CHAPTER XVIII
-6. CHAPTER XIX
-7. CHAPTER XX
-8. CHAPTER XXI
-9. CHAPTER XXII
+1. ONE GLEAM OF HOPE
+2. THE REPTILE TURNS TO STING
+3. THE FEATHER IN THE BALANCE
+4. THE CURTAIN FALLS
 
-> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/1fbd02c12594/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/1fbd02c12594/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

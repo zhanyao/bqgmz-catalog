@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（287,743 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 57,548 字；最长 CHAPTER V. THE YEARS OF FULFILMENT（86,163 字），最短 CHAPTER II. THE FIGHT FOR SELF-GOVERNMENT（39,885 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-chapter），拼接正文 5,524 行。 |
+| 篇幅分布 | 平均每章 57,238 字；最长 CHAPTER V. THE YEARS OF FULFILMENT（86,163 字），最短 CHAPTER II. THE FIGHT FOR SELF-GOVERNMENT（39,885 字）。 |
 | 起止 | 始于「CHAPTER I. THE FIRST FIFTY YEARS」，止于「CHAPTER V. THE YEARS OF FULFILMENT」。 |
 | 原文溯源 | `cache/epub/2835/pg2835.txt`（Project Gutenberg） |
 
@@ -27,4 +27,4 @@
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/2629d13ca565/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

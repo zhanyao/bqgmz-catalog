@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（161,436 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,968 字；最长 CHAPTER XXIV.--ON THE CHANCE.（15,067 字），最短 CHAPTER XXXVII.--ON THE DEFECTIVE LINK.（4,826 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 4,184 行。 |
+| 篇幅分布 | 平均每章 8,957 字；最长 CHAPTER XXIV.--ON THE CHANCE.（15,067 字），最短 CHAPTER XXXVII.--ON THE DEFECTIVE LINK.（4,757 字）。 |
 | 起止 | 始于「CHAPTER XX.--ON AN OAK SETTEE.」，止于「CHAPTER XXXVII.--ON THE DEFECTIVE LINK.」。 |
 | 原文溯源 | `cache/epub/51945/pg51945.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/1d2ba742401e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

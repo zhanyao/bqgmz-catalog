@@ -1,7 +1,7 @@
 # The Life of Abraham Lincoln for Young People, Told in Words of One Syllable
 
 **作者** Putnam, Harriet, 1862- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 14 章 · 108,355 字 ｜ **来源** Project Gutenberg
+**规模** 15 章 · 108,355 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/21a6d02ae49b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（108,355 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,739 字；最长 CHAPTER V.（14,104 字），最短 CHAPTER XII.（4,565 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XIV.」。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 2,845 行。 |
+| 篇幅分布 | 平均每章 7,085 字；最长 CHAPTER V.（14,104 字），最短 Notes of sym-pa-thy came to the U-ni-ted States from rul-ers of oth-er（723 字）。 |
 | 原文溯源 | `cache/epub/61251/pg61251.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/21a6d02ae49b/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/21a6d02ae49b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

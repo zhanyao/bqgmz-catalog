@@ -1,7 +1,7 @@
 # Los hermanos Plantagenet
 
-**作者** Fernández y González, Manuel, 1821-1888 ｜ **国家/地区** 西班牙 ｜ **体例** 段  
-**规模** 9 段 · 192,702 字 ｜ **来源** Project Gutenberg
+**作者** Fernández y González, Manuel, 1821-1888 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 18 章 · 192,702 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1d0567b41dfe/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（192,702 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,411 字；最长 --Y bien, prosiguió Adam Wast, la verdad de esos principios （39,898 字），最短 Detuvo en esto el vuelo de su pensamiento, porque Salisbury （12,744 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-roman-title），拼接正文 5,584 行。 |
+| 篇幅分布 | 平均每章 35 字。 |
+| 起止 | 始于「I. Los hermanos de la niebla, 5」，止于「XVIII. En que el rey encuentra otros dos hermanos, 227」。 |
 | 原文溯源 | `cache/epub/39113/pg39113.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. --Y bien, prosiguió Adam Wast, la verdad de esos principios
-2. --Mira, dijo Godofredo mostrándole un traje de una tela verd
-3. --Separarnos, ¿y por qué? ¿Cuando tras una larga ausencia vu
-4. Robín y Adam Wast salieron, el uno dando gritos espantosos,
-5. El capitán obedeció. Los cuatro jinetes, precedidos del capi
-6. --Señor, dijo con miedo, el príncipe Juan da un festín esta
-7. El rey meditó un momento; conoció sí, toda la infamia que se
-8. --Comprendo... Ricardo Espada-larga... Y bien, es pobre, sin
-9. Detuvo en esto el vuelo de su pensamiento, porque Salisbury
+1. I. Los hermanos de la niebla, 5
+2. II. El hermano del verdugo, 35
+3. III. Principios de aventura, 47
+4. IV. De lo que encontró Dik, cuando menos lo esperaba, 55
+5. V. Lady Ester, 67
+6. VI. Una traición involuntaria, 89
+7. VII. Un motín.-Un florín por una cabeza, 105
+8. VIII. Un instrumento roto, 115
+9. IX. Una sorpresa, 127
+10. X. Medidas preventivas, 137
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/1d0567b41dfe/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/1d0567b41dfe/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

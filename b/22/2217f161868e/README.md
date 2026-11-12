@@ -1,7 +1,7 @@
 # The Fairy Changeling and Other Poems
 
-**作者** Shorter, Dora Sigerson, 1866-1918 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 51 题 · 48,616 字 ｜ **来源** Project Gutenberg
+**作者** Shorter, Dora Sigerson, 1866-1918 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 50 章 · 48,616 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2217f161868e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（48,616 字）。 |
-| 分章依据 | 按「题」标记切分为 51 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 953 字。 |
+| 分章依据 | 按「章」标记切分为 50 章（auto-toc-title-list），拼接正文 2,350 行。 |
+| 篇幅分布 | 平均每章 923 字。 |
 | 原文溯源 | `cache/epub/30184/pg30184.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. NOTE
-2. CONTENTS
-3. THE FAIRY CHANGELING
-4. A BALLAD OF MARJORIE
-5. THE PRIEST'S BROTHER
-6. THE BALLAD OF THE LITTLE BLACK HOUND
-7. THE RAPE OF THE BARON'S WINE
-8. CEAN DUV DEELISH
-9. BANAGHER RHUE
-10. THE FAIR LITTLE MAIDEN
+1. A Ballad of Marjorie
+2. The Priest's Brother
+3. The Ballad of the Little Black Hound
+4. The Rape of the Baron's Wine
+5. Cean Duv Deelish
+6. Banagher Rhue
+7. The Fair Little Maiden
+8. At Christmas Time
+9. A Weeping Cupid
+10. The Lover
 
-> 共 51 题，[完整目录与正文 →](https://www.bqgmz.top/b/2217f161868e/)
+> 共 50 章，[完整目录与正文 →](https://www.bqgmz.top/b/2217f161868e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

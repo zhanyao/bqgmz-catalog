@@ -1,7 +1,7 @@
 # Peter Simple
 
-**作者** Marryat, Frederick, 1792-1848 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 76 题 · 749,053 字 ｜ **来源** Project Gutenberg
+**作者** Marryat, Frederick, 1792-1848 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 51 篇 · 749,053 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/24c78330ee0c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（749,053 字）。 |
-| 分章依据 | 按「题」标记切分为 76 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,855 字。 |
+| 分章依据 | 按「篇」标记切分为 51 篇（通用标记切分），拼接正文 16,890 行。 |
+| 篇幅分布 | 平均每篇 14,671 字；最长 A LONG CONVERSATION WITH MR. CHUCKS--THE ADVANTAGES OF HAVING A（46,489 字），最短 A LETTER FROM FATHER MCGRATH, WHO DIPLOMATISES--WHEN PRIEST MEETS（1,132 字）。 |
 | 原文溯源 | `cache/epub/21577/pg21577.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Produced by Nick Hodson of London, England
-2. PETER SIMPLE, BY CAPTAIN FREDERICK MARRYAT.
-3. CHAPTER ONE.
-4. CHAPTER TWO.
-5. CHAPTER THREE.
-6. CHAPTER FOUR.
-7. CHAPTER FIVE.
-8. I replied that I was fifteen.
-9. CHAPTER SIX.
-10. CHAPTER SEVEN.
+1. THE GREAT ADVANTAGE OF BEING THE FOOL OF THE FAMILY--MY DESTINY IS
+2. I AM TAUGHT ON A COLD MORNING, BEFORE BREAKFAST, HOW TO STAND FIRE, AND
+3. I AM INTRODUCED TO THE QUARTER-DECK, AND FIRST LIEUTENANT, WHO
+4. `SCANDALUM MAGNATUM' CLEARLY PROVED--I PROVE TO THE CAPTAIN THAT I
+5. "WALTER MONTEITH."
+6. WE POST UP TO PORTSDOWN FAIR--CONSEQUENCE OF DISTURBING A LADY AT
+7. A PRESS-GANG BEATEN OFF BY ONE WOMAN--DANGERS AT "SPITHEAD" AND
+8. O'BRIEN TAKES ME UNDER HIS PROTECTION--THE SHIP'S COMPANY ARE PAID, SO
+9. NEW THEORY OF MR. MUDDLE REMARKABLE FOR HAVING NO END TO IT--NOVEL
+10. THE FIRST LIEUTENANT PRESCRIBES FOR ONE OF HIS PATIENTS, HIS
 
-> 共 76 题，[完整目录与正文 →](https://www.bqgmz.top/b/24c78330ee0c/)
+> 共 51 篇，[完整目录与正文 →](https://www.bqgmz.top/b/24c78330ee0c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Counter-Attack and Other Poems
 
-**作者** Sassoon, Siegfried, 1886-1967 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 52 题 · 35,879 字 ｜ **来源** Project Gutenberg
+**作者** Sassoon, Siegfried, 1886-1967 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 35,879 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/23f0951bbca3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（35,879 字）。 |
-| 分章依据 | 按「题」标记切分为 52 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 689 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-roman-bare），拼接正文 1,431 行。 |
+| 篇幅分布 | 平均每章 452 字。 |
 | 原文溯源 | `cache/epub/8930/pg8930.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 章）
 
-1. Produced by John M. Wyrwas
-2. BY SIEGFRIED SASSOON
-3. TO ROBERT ROSS
-4. CONTENTS
-5. INTRODUCTION
-6. Sassoon the Man
-7. Sassoon the Poet
-8. CONSCRIPTS
-9. PRELUDE: THE TROOPS
-10. COUNTER-ATTACK
+1. I
+2. II
+3. III
+4. I（部2）
+5. II（部2）
+6. III（部2）
+7. IV（部2）
 
-> 共 52 题，[完整目录与正文 →](https://www.bqgmz.top/b/23f0951bbca3/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/23f0951bbca3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

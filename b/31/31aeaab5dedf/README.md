@@ -1,7 +1,7 @@
 # Le meurtre d'une âme
 
-**作者** Lesueur, Daniel, 1860-1921 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 21 段 · 434,701 字 ｜ **来源** Project Gutenberg
+**作者** Lesueur, Daniel, 1860-1921 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 16 章 · 434,701 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/31aeaab5dedf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（434,701 字）。 |
-| 分章依据 | 按「段」标记切分为 21 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,700 字；最长 Alors, pendant cette lugubre soirée d'hiver, il y eut, dans （39,975 字），最短 «_Le juge d'instruction, après quelques difficultés, finit p（14,296 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-roman-title），拼接正文 11,240 行。 |
+| 篇幅分布 | 平均每章 27 字。 |
+| 起止 | 始于「I. En l'Année terrible 1」，止于「XVI. La Révélation 398」。 |
 | 原文溯源 | `cache/epub/51083/pg51083.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Alors, pendant cette lugubre soirée d'hiver, il y eut, dans
-2. —«Mais oui,» reprit-il, en fixant sur elle un regard plus ex
-3. Cependant, les minutes s'écoulaient sans que le colonel ress
-4. Le volontaire garibaldien, devant la courtoisie tardive de s
-5. Ce fut une autre explosion, suivie de commentaires non moins
-6. —«Les circonstances nous ont aidés,» reprit le vieux gentilh
-7. —«Mon Dieu, Armande, le sujet ne laisse point d'être délicat
-8. Il l'attendit, les dents serrées, les ongles meurtrissant le
-9. —Et... où comptez-vous le faire élever désormais?...» demand
-10. Elle les avait liées, en effet, et par un sentiment qui n'ét
+1. I. En l'Année terrible 1
+2. II. Les Baisers tragiques 24
+3. III. L'Arrêt du Destin 43
+4. IV. L'Héritage d'un Héros 79
+5. V. Le Martyre d'une Mère 119
+6. VI. Le Loup et l'Agneau 145
+7. VII. Le Gouffre 172
+8. VIII. Une Ame sans frein 193
+9. IX. Le Fond de la Cassette 224
+10. X. Le Mort vivant 243
 
-> 共 21 段，[完整目录与正文 →](https://www.bqgmz.top/b/31aeaab5dedf/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/31aeaab5dedf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

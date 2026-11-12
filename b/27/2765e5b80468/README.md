@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,094,115 字）。 |
-| 分章依据 | 按「章」标记切分为 34 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 32,179 字；最长 CHAPTER XXIX（126,547 字），最短 CHAPTER XVII（3,506 字）。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-caps-sections），拼接正文 31,126 行。 |
+| 篇幅分布 | 平均每章 30,960 字；最长 FOOTNOTES:（68,107 字），最短 C. 49（346 字）。 |
 | 原文溯源 | `cache/epub/46063/pg46063.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. Liquid Peneüs was flowing,
-9. CHAPTER VIII
-10. CHAPTER IX
+1. FOOTNOTES:（1）
+2. FOOTNOTES:（2）
+3. FOOTNOTES:（3）
+4. FOOTNOTES:
+5. MYTHS OF THE GREAT DIVINITIES OF HEAVEN（1）
+6. MYTHS OF THE GREAT DIVINITIES OF HEAVEN（2）
+7. MYTHS OF THE GREAT DIVINITIES OF HEAVEN（3）
+8. FROM THE EARTH TO THE UNDERWORLD
+9. FOOTNOTES:
+10. THE SEA]
 
 > 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/2765e5b80468/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

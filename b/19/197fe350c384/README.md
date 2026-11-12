@@ -1,7 +1,7 @@
 # Home Life in Germany
 
 **作者** Sidgwick, Alfred, Mrs., 1854-1934 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 27 章 · 462,457 字 ｜ **来源** Project Gutenberg
+**规模** 28 章 · 462,457 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/197fe350c384/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（462,457 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,128 字；最长 CHAPTER XXVII（41,429 字），最短 CHAPTER I（9,232 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXVII」。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-chapter），拼接正文 10,359 行。 |
+| 篇幅分布 | 平均每章 16,471 字；最长 CHAPTER XXIV（26,627 字），最短 CHAPTER I（7,990 字）。 |
 | 原文溯源 | `cache/epub/28432/pg28432.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/197fe350c384/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/197fe350c384/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

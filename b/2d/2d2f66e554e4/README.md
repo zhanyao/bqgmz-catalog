@@ -1,7 +1,7 @@
 # The American Missionary — Volume 34, No. 10, October, 1880
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 105,556 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 9 篇 · 105,556 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2d2f66e554e4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（105,556 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,111 字；最长 Other influences than those that are merely ethnic and moral（39,838 字），最短 [Illustration: CAP THE HANDLE CONTAINS THE INK]（5,522 字）。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（通用标记切分），拼接正文 3,237 行。 |
+| 篇幅分布 | 平均每篇 11,685 字。 |
 | 原文溯源 | `cache/epub/55069/pg55069.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 9 篇）
 
-1. Other influences than those that are merely ethnic and moral
-2. Whether it would be advisable, even if the plan of a militar
-3. 9th. Seven miles further is Elkwa, with about seventy Indian
-4. Abington. S. C. 1
-5. [Illustration: CAP THE HANDLE CONTAINS THE INK]
+1. OUR ANNUAL MEETING—PARAGRAPHS 289
+2. COLORED CADETSHIP 302
+3. CONSTITUTION 317
+4. COMMUNICATIONS
+5. DONATIONS AND SUBSCRIPTIONS
+6. REV. L. C. LOCKWOOD
+7. REV. A. CONNET
+8. FOOTNOTE:
+9. INSTITUTIONS FOUNDED, FOSTERED OR SUSTAINED IN THE
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/2d2f66e554e4/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/2d2f66e554e4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

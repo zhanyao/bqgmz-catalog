@@ -1,7 +1,7 @@
 # A Prince of Cornwall A Story of Glastonbury and the West in the Days of Ina of Wessex
 
 **作者** Whistler, Charles W. (Charles Watts), 1856-1913 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 457,712 字 ｜ **来源** Project Gutenberg
+**规模** 18 章 · 457,712 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2493c66d76c6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（457,712 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,924 字；最长 CHAPTER XVII. HOW OSWALD FOUND A HOME, AND OF THE LAST PERIL OF OWEN THE（32,252 字），最短 CHAPTER IV. HOW THE LADY ELFRIDA SPOKE WITH OSWALD, AND OF THE MEETING WITH（21,494 字）。 |
-| 起止 | 始于「CHAPTER I. HOW OWEN OF CORNWALL WANDERED TO SUSSEX, AND WHY HE BIDED THERE.」，止于「CHAPTER XVII. HOW OSWALD FOUND A HOME, AND OF THE LAST PERIL OF OWEN THE」。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 12,015 行。 |
+| 篇幅分布 | 平均每章 25,086 字；最长 CHAPTER XVII. HOW OSWALD FOUND A HOME, AND OF THE LAST PERIL OF OWEN THE（31,918 字），最短 NOTES.（334 字）。 |
 | 原文溯源 | `cache/epub/13315/pg13315.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX. WHY IT WAS NOT GOOD FOR OWEN TO SLEEP IN THE MOONLIGHT.
 10. CHAPTER X. HOW THE EASTDEAN MANORS AND SOMEWHAT MORE PASSED FROM OSWALD TO
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/2493c66d76c6/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/2493c66d76c6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

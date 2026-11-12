@@ -1,7 +1,7 @@
 # A Plain Introduction to the Criticism of the New Testament, Vol. II.
 
 **作者** Scrivener, Frederick Henry Ambrose, 1813-1891 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 914,607 字 ｜ **来源** Project Gutenberg
+**规模** 20 章 · 914,607 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1d22b145f13d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（914,607 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 50,811 字；最长 CHAPTER XII. APPLICATION OF THE FOREGOIN（117,513 字），最短 CHAPTER I. ANCIENT VERSIONS.（8,342 字）。 |
-| 起止 | 始于「CHAPTER I. ANCIENT VERSIONS.」，止于「212 See a eulogistic yet discriminating」。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-toc-title-list），拼接正文 20,655 行。 |
+| 篇幅分布 | 平均每章 45,153 字。 |
 | 原文溯源 | `cache/epub/36549/pg36549.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I. ANCIENT VERSIONS.
-2. CHAPTER II. SYRIAC VERSIONS.
-3. CHAPTER III. THE LATIN VERSIONS.
-4. 25. Royal Library, A. I. 5. Bible [ix],
-5. CHAPTER IV. EGYPTIAN OR COPTIC VERSIONS.
-6. *4. Orient. 424, 4to, paper, Copt. Arab.
-7. CHAPTER V. THE OTHER VERSIONS OF THE NEW TESTAMENT.
-8. CHAPTER VI. ON THE CITATIONS FROM THE GREEK NEW TESTAMENT OR ITS VERSIONS
-9. CHAPTER VII. PRINTED EDITIONS AND CRITIC
-10. A second mass of materials, all Latin, a
+1. Chapter II. Syriac Versions.
+2. Chapter III. The Latin Versions.
+3. Chapter IV. Egyptian Or Coptic Versions.
+4. Chapter V. The Other Versions Of The New Testament.
+5. Chapter VI. On The Citations From The Greek New Testament Or Its Versions
+6. Made By Early Ecclesiastical Writers, Especially By The Christian Fathers.
+7. Chapter VII. Printed Editions and Critical Editions.
+8. Chapter VIII. Internal Evidence.
+9. Chapter IX. History Of The Text.
+10. Chapter X. Recent Views Of Comparative Criticism.
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/1d22b145f13d/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/1d22b145f13d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

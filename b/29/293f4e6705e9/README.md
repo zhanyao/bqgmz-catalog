@@ -1,7 +1,7 @@
 # Ninth Cavalry: One Hundred and Twenty-first Regiment Indiana Volunteers
 
-**作者** Comstock, Daniel Webster, 1840-1917 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 22 题 · 111,577 字 ｜ **来源** Project Gutenberg
+**作者** Comstock, Daniel Webster, 1840-1917 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 111,577 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/293f4e6705e9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（111,577 字）。 |
-| 分章依据 | 按「题」标记切分为 22 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,071 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 2,451 行。 |
+| 篇幅分布 | 平均每章 13,897 字；最长 J. B. HARROD,（49,125 字），最短 A VISIT TO THE WRECK.（865 字）。 |
 | 原文溯源 | `cache/epub/60363/pg60363.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. Ninth Cavalry
-2. NINTH CAVALRY
-3. One Hundred and Twenty-first Regiment
-4. Daniel Webster Comstock
-5. PREFACE.
-6. D. W. COMSTOCK.
-7. SULPHUR BRANCH TRESTLE.
-8. LYNNVILLE.
-9. THE REPUBLIC OF JONES.
-10. THE HOOD CAMPAIGN.
+1. J. B. HARROD,
+2. THE HOOD CAMPAIGN.
+3. NEAR FRANKLIN, TENNESSEE, DECEMBER 18, 1864.
+4. COL. JACKSON.
+5. WRECK OF THE SULTANA.
+6. WORK OF THE CREW OF THE GUN-BOAT ESSEX.
+7. A VISIT TO THE WRECK.
+8. STATEMENT OF PRIVATE FRED ALBACK, SECOND MICHIGAN CAVALRY.
 
-> 共 22 题，[完整目录与正文 →](https://www.bqgmz.top/b/293f4e6705e9/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/293f4e6705e9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Cyclopedia of Commerce, Accountancy, Business Administration, v. 05 (of 10)
 
-**作者** American School of Correspondence ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 15 段 · 305,917 字 ｜ **来源** Project Gutenberg
+**作者** American School of Correspondence ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 20 篇 · 305,917 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/28d1d8f531e7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（305,917 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,394 字；最长 In the form illustrated, columns are provided on the debit s（40,044 字），最短 loose-leaf sales sheet and invoices with columns for        （5,562 字）。 |
+| 分章依据 | 按「篇」标记切分为 20 篇（auto-title-block），拼接正文 9,987 行。 |
+| 篇幅分布 | 平均每篇 14,913 字；最长 ORDER WORK OF WHOLESALE GROCERS（44,466 字），最短 CLEARING HOUSE（576 字）。 |
 | 原文溯源 | `cache/epub/51676/pg51676.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. In the form illustrated, columns are provided on the debit s
-2. [Illustration:
-3. Manufacturers and jobbers of certain products also find it n
-4. =13.= Corporation books are seldom kept by single entry, but
-5. Accountants, bookkeepers, and mathematicians have long searc
-6. =29. Combined Pay-Roll and Check Register.= Many industries
-7. It is much more difficult to ascertain the value of the asse
-8. For the purchase, or for the sale, or for the purchase and
-9. The principal expense accounts of a brokerage firm are salar
-10. The French people do not, as a rule, form large companies li
+1. Foreword
+2. the Future
+3. EXERCISES
+4. SALES EXPENSE
+5. SHIPMENTS
+6. COMMISSION MERCHANTS' BOOKS
+7. DETERMINING THE PROFIT
+8. CHANGING PARTNERSHIP BOOKS TO DOUBLE ENTRY
+9. Manufactured Goods 5,290.00
+10. Balance _________
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/28d1d8f531e7/)
+> 共 20 篇，[完整目录与正文 →](https://www.bqgmz.top/b/28d1d8f531e7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

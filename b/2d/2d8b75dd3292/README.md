@@ -1,7 +1,7 @@
 # The Antiquary — Complete
 
-**作者** Scott, Walter, 1771-1832 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 40 段 · 817,582 字 ｜ **来源** Project Gutenberg
+**作者** Scott, Walter, 1771-1832 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 28 章 · 817,582 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2d8b75dd3292/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（817,582 字）。 |
-| 分章依据 | 按「段」标记切分为 40 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,439 字；最长 “This little collection of Stall tracts and ballads was form（38,947 字），最短 It may be worth while to mention that the incident of the su（16,487 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-toc-title-list），拼接正文 18,673 行。 |
+| 篇幅分布 | 平均每章 29,174 字。 |
 | 原文溯源 | `cache/epub/7005/pg7005.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. “This little collection of Stall tracts and ballads was form
-2. With “The Antiquary” most contemporary reviews of the novels
-3. Jonathan Oldenbuck, or Oldinbuck, by popular contraction Old
-4. This pithy motto he delivered, shaking his head, and giving
-5. The words of the old man fell upon Lovel’s ears, but without
-6. “He must find it convenient in historical investigation, I s
-7. “If you mean the observation as a sneer at my ancestry,” sai
-8. The sense of reprieve from approaching and apparently inevit
-9. This was the first intimation Miss Oldbuck had received that
-10. It is seldom that sleep, after such violent agitation, is ei
+1. VOLUME ONE
+2. INTRODUCTION
+3. CHAPTER FIRST.
+4. CHAPTER SECOND.
+5. CHAPTER THIRD.
+6. CHAPTER FOURTH.
+7. CHAPTER FIFTH.
+8. CHAPTER SIXTH.
+9. CHAPTER SEVENTH.
+10. CHAPTER EIGHTH.
 
-> 共 40 段，[完整目录与正文 →](https://www.bqgmz.top/b/2d8b75dd3292/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/2d8b75dd3292/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

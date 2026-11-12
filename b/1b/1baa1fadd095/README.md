@@ -1,7 +1,7 @@
 # Wrinkles in Electric Lighting
 
-**作者** Stephen, Vincent ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 61 题 · 100,179 字 ｜ **来源** Project Gutenberg
+**作者** Stephen, Vincent ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 6 篇 · 100,179 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1baa1fadd095/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（100,179 字）。 |
-| 分章依据 | 按「题」标记切分为 61 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,642 字。 |
+| 分章依据 | 按「篇」标记切分为 6 篇（通用标记切分），拼接正文 2,763 行。 |
+| 篇幅分布 | 平均每篇 15,839 字。 |
 | 原文溯源 | `cache/epub/35015/pg35015.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 篇）
 
-1. BY
-2. VINCENT STEPHEN.
-3. E. & F. N. SPON, 125, STRAND, LONDON.
-4. NEW YORK: 12, CORTLANDT STREET.
-5. INTRODUCTION.
-6. CONTENTS.
-7. THE ELECTRIC CURRENT, AND ITS PRODUCTION BY CHEMICAL MEANS. PAGE
-8. PRODUCTION OF ELECTRIC CURRENTS BY MECHANICAL MEANS.
-9. ELECTRIC LAMPS.
-10. LEADS.
+1. THE ELECTRIC CURRENT, AND ITS PRODUCTION BY CHEMICAL MEANS. PAGE Production of electric current in chemical battery--Current very weak--Current compared to circulation of the blood--Strength and volume of current--Pressure not sufficient without volume--Action of current is instantaneous--Resistance to the passage of the current--Copper the usual metal for conductors--Heat produced by current when wire is too small
+2. PRODUCTION OF ELECTRIC CURRENTS BY MECHANICAL MEANS. _Magneto-Electric Machines._ Current produced by mechanical means--Alternating current-- Magneto-electric machines--Shock produced by interruption of current--The current must be commutated--Description of commutator--Current, though alternating in the dynamo, is continuous in the circuit--Continuous current used for electro-plating
+3. _Dynamo-Electric Machines._ Current will magnetise an iron or steel bar--Permanent magnet-- Electro-magnet--Where the magneto and dynamo machines differ-- Armature of so-called continuous-current dynamo--Type of commutator--Commutator brushes--Current continuous in the circuit--Alternating-current dynamos--Current not commutated-- Intense magnetic field produced--Simplicity of Ferranti armature-- Large number of alternations of the current--Alternating current cannot be used to excite an electro-magnet--Exciter coupled on to same spindle as dynamo--Power of exciter if used alone
+4. ELECTRIC LAMPS. Production of electric light--Arc lights--Mechanism to regulate carbons--Some lamps suitable for alternating current--When carbons are consumed, light goes out--Arc lamps very complicated-- Jablochkoff candles--Arc formed between the carbons--Candles require alternating current--Incandescent lamps--Vacuum formed in lamps prevents combustion--Vacuum not perfect--Advantages of incandescent lamps for house and ship lighting--Unaffected by wind, and suitable for either continuous or alternating currents
+5. SHIP LIGHTING. Position for dynamo--Dynamo to be kept clean and cool--Quick-speed engines--Slow-speed engines with belts--Means of keeping belt on the pulley--Engine must work steadily--A good sensitive governor wanted--The belt must be kept tight--A handy belt-stretcher-- Friction gearing--Switch board near dynamo--Leads of different colours--Main leads and branch leads--Lamps held in frosted globes--Switches for each lamp--Lamps of various candle-powers-- Plan for lighting quarter-deck at times--Arrangement of temporary leads--Leads and lamps always ready, and easily fixed up--Lighting of ships' holds--Danger of fire with oil lamps--Arc lamps not suitable--Arrangement of leads for incandescent lamps-- Work carried on better, and pilfering of cargo prevented--Hold leads disconnected while at sea--Installation complete--Lights wanted as night approaches--Precautions before starting dynamo-- Lubrication must be perfect--Commutators and collectors require very little oil--Position of brushes--Start the engine--Switches not turned on; no current except from exciter--Testing work of exciter--Dynamos very powerful magnets--Look out for your watches--Switch on the lamps--Current is produced in large dynamo-- Difference of a few lamps compensated by governor--Turn all lamps on, and light up gradually--Inequality of light in different lamps--Weeding out of bad lamps--Lamps not to be run too bright-- No trouble with dynamo if oiling is attended to--Seizing--Oil must be thin--The dynamo must be kept clean--Little troubles with the lamps--No safety fuse--Effects of vibration of ship on lamps-- What to look to if a lamp is out.--Recapitulation--A current of 50 volts is hardly felt--Incandescent lights for side lights-- Mast-head light--Arc light should never be used--Present mast-head light quite powerful enough--On passenger steamers, side one blaze of light, and side lights barely visible--Speed of dynamo constant, but steam power used in proportion to number of lamps in use--No danger to life from electric current on board ship-- Binnacle lamps. Electric light not suitable--Dynamo if near a compass will affect it--Notes（1）
+6. SHIP LIGHTING. Position for dynamo--Dynamo to be kept clean and cool--Quick-speed engines--Slow-speed engines with belts--Means of keeping belt on the pulley--Engine must work steadily--A good sensitive governor wanted--The belt must be kept tight--A handy belt-stretcher-- Friction gearing--Switch board near dynamo--Leads of different colours--Main leads and branch leads--Lamps held in frosted globes--Switches for each lamp--Lamps of various candle-powers-- Plan for lighting quarter-deck at times--Arrangement of temporary leads--Leads and lamps always ready, and easily fixed up--Lighting of ships' holds--Danger of fire with oil lamps--Arc lamps not suitable--Arrangement of leads for incandescent lamps-- Work carried on better, and pilfering of cargo prevented--Hold leads disconnected while at sea--Installation complete--Lights wanted as night approaches--Precautions before starting dynamo-- Lubrication must be perfect--Commutators and collectors require very little oil--Position of brushes--Start the engine--Switches not turned on; no current except from exciter--Testing work of exciter--Dynamos very powerful magnets--Look out for your watches--Switch on the lamps--Current is produced in large dynamo-- Difference of a few lamps compensated by governor--Turn all lamps on, and light up gradually--Inequality of light in different lamps--Weeding out of bad lamps--Lamps not to be run too bright-- No trouble with dynamo if oiling is attended to--Seizing--Oil must be thin--The dynamo must be kept clean--Little troubles with the lamps--No safety fuse--Effects of vibration of ship on lamps-- What to look to if a lamp is out.--Recapitulation--A current of 50 volts is hardly felt--Incandescent lights for side lights-- Mast-head light--Arc light should never be used--Present mast-head light quite powerful enough--On passenger steamers, side one blaze of light, and side lights barely visible--Speed of dynamo constant, but steam power used in proportion to number of lamps in use--No danger to life from electric current on board ship-- Binnacle lamps. Electric light not suitable--Dynamo if near a compass will affect it--Notes（2）
 
-> 共 61 题，[完整目录与正文 →](https://www.bqgmz.top/b/1baa1fadd095/)
+> 共 6 篇，[完整目录与正文 →](https://www.bqgmz.top/b/1baa1fadd095/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

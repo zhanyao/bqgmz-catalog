@@ -1,7 +1,7 @@
 # Pride: One of the Seven Cardinal Sins
 
 **作者** Sue, Eugène, 1804-1857; Marcel, Adrian [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 38 章 · 846,240 字 ｜ **来源** Project Gutenberg
+**规模** 66 章 · 846,240 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2692fae66a30/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（846,240 字）。 |
-| 分章依据 | 按「章」标记切分为 38 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,269 字；最长 "I do, mademoiselle."（90,583 字），最短 CHAPTER XVIII.（6,684 字）。 |
+| 分章依据 | 按「章」标记切分为 66 章（auto-chapter），拼接正文 23,966 行。 |
+| 篇幅分布 | 平均每章 12,799 字；最长 CHAPTER XII.（部2）（18,292 字），最短 CHAPTER XVIII.（6,684 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXII.（部2）」。 |
 | 原文溯源 | `cache/epub/34345/pg34345.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/2692fae66a30/)
+> 共 66 章，[完整目录与正文 →](https://www.bqgmz.top/b/2692fae66a30/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

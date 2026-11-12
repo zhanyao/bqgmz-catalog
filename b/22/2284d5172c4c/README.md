@@ -1,7 +1,7 @@
 # The Great North-Western Conspiracy in All Its Startling Details
 
-**作者** Ayer, I. Winslow, 1826-1909 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 41 题 · 255,591 字 ｜ **来源** Project Gutenberg
+**作者** Ayer, I. Winslow, 1826-1909 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 15 篇 · 255,591 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2284d5172c4c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（255,591 字）。 |
-| 分章依据 | 按「题」标记切分为 41 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,233 字。 |
+| 分章依据 | 按「篇」标记切分为 15 篇（通用标记切分），拼接正文 5,079 行。 |
+| 篇幅分布 | 平均每篇 15,413 字；最长 INTERFERE BETWEEN BLACK DOGS."（48,533 字），最短 SECOND ATTEMPT--HINES IN COMMAND AGAIN--COPPERHEADS AGAIN TO BE THE MAIN（5,995 字）。 |
 | 原文溯源 | `cache/epub/8543/pg8543.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. THE GREAT NORTH-WESTERN CONSPIRACY IN ALL ITS STARTLING DETAILS.
-2. ILLUSTRATED WITH PORTRAITS OF LEADING CHARACTERS, ETC., ETC.
-3. INTRODUCTION.
-4. THE AUTHOR.
-5. CHAP.I.
-6. CHAP. II.
-7. CHAP. III.
-8. CHAP. IV.
-9. CHAP.V.
-10. CHAP. VI.
+1. ARENA OF THE REBELLION EXTENDED--SECRET ORGANIZATION--PLAN OF
+2. NEW ERA IN SECRET POLITICAL ORGANIZATIONS--PLEDGE TO "TAKE UP ARMS"
+3. INSIDE VIEW OF A LODGE OF THE SONS OF LIBERTY IN CHICAGO--OPEN
+4. TIME FIXED FOR THE UPRISING OR REVOLUTION--EXTENSIVE PREPARATIONS--DRILL
+5. TIME OF THE DEMOCRATIC NATIONAL CONVENTION--TREASON EVERYWHERE
+6. REBEL OFFICERS IN THE TEMPLES OF SONS OF LIBERTY--MURDERERS, BOUNTY
+7. THE REASONS WHY REBEL AGENTS WERE SENT TO CANADA, AND THEIR
+8. THE FIRST ATTEMPT TO RELEASE THE PRISONERS OF WAR AT CAMP DOUGLAS--THE
+9. SECOND ATTEMPT--HINES IN COMMAND AGAIN--COPPERHEADS AGAIN TO BE THE MAIN
+10. FIRST ATTEMPT OF THE REBELS TO CAPTURE UNITED STATES STEAMER MICHIGAN
 
-> 共 41 题，[完整目录与正文 →](https://www.bqgmz.top/b/2284d5172c4c/)
+> 共 15 篇，[完整目录与正文 →](https://www.bqgmz.top/b/2284d5172c4c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

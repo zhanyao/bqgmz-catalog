@@ -1,7 +1,7 @@
 # Caspar Hauser; oder, Die Trägheit des Herzens, Roman
 
-**作者** Wassermann, Jakob, 1873-1934 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 41 题 · 709,708 字 ｜ **来源** Project Gutenberg
+**作者** Wassermann, Jakob, 1873-1934 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 14 章 · 709,708 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1fe63d6ddbed/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（709,708 字）。 |
-| 分章依据 | 按「题」标记切分为 41 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 17,309 字。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-caps-sections），拼接正文 15,560 行。 |
+| 篇幅分布 | 平均每章 50,693 字；最长 SUI TEMPORIS（7）（55,739 字），最短 OCCULTA MORS._#（3,744 字）。 |
 | 原文溯源 | `cache/epub/25721/pg25721.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Caspar Hauser
-2. Jakob Wassermann
-3. Erste bis vierte Auflage
-4. Alle Rechte, insbesondere das der Übersetzung, vorbehalten
-5. Erster Teil
-6. Der fremde Jüngling
-7. Bericht Caspar Hausers, von Daumer aufgezeichnet
-8. Eine hohe amtliche Person wird Zeuge eines Schattenspiels
-9. Er blickte auch Hill lange an und sagte: »Heimweisen.«
-10. Der Spiegel spricht
+1. SUI TEMPORIS（1）
+2. SUI TEMPORIS（2）
+3. SUI TEMPORIS（3）
+4. SUI TEMPORIS（4）
+5. SUI TEMPORIS（5）
+6. SUI TEMPORIS（6）
+7. SUI TEMPORIS（7）
+8. SUI TEMPORIS（8）
+9. SUI TEMPORIS（9）
+10. SUI TEMPORIS（10）
 
-> 共 41 题，[完整目录与正文 →](https://www.bqgmz.top/b/1fe63d6ddbed/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/1fe63d6ddbed/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

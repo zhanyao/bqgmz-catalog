@@ -1,7 +1,7 @@
 # Au Coeur Frais de la Forêt: Roman
 
-**作者** Lemonnier, Camille, 1844-1913 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 13 段 · 260,428 字 ｜ **来源** Project Gutenberg
+**作者** Lemonnier, Camille, 1844-1913 ｜ **国家/地区** 法国 ｜ **体例** 部分  
+**规模** 7 部分 · 260,428 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1fcdeb36a7b6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（260,428 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,032 字。 |
+| 分章依据 | 按「部分」标记切分为 7 部分（fallback-chunk），拼接正文 6,280 行。 |
+| 篇幅分布 | 平均每部分 37,204 字；最长 第 1 部分（42,115 字），最短 第 7 部分（8,627 字）。 |
 | 原文溯源 | `cache/epub/65494/pg65494.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 7 部分）
 
-1. Je ne savais pas de qui je parlais; il monte du fond des ign
-2. --Pense un peu à ceci. Il y a des hommes qui travaillent aux
-3. Ce fut là la fin du travail; sous de bas ciels nébuleux, la
-4. Je lui ouvris les doigts, elle m’abandonna enfin la boucle e
-5. C’était la saison d’amour: il volait de petites plumes grise
-6. Il nous remplit d’effroi; nous ne pouvions douter que des ho
-7. On travailla jusqu’aux grosses neiges. Le gel n’arrêtait pas
-8. Des combes ravinèrent l’ondulation légère des futaies. Le ro
-9. --Celui-là n’aime pas parler, dit-elle. Mais voilà. Une fois
-10. Ma question monta ardente, inquiète, comme si tout à coup qu
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/1fcdeb36a7b6/)
+> 共 7 部分，[完整目录与正文 →](https://www.bqgmz.top/b/1fcdeb36a7b6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Negro: What is His Ethnological Status? 2nd Ed.
 
-**作者** Ariel, 1799-1883 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 106,472 字 ｜ **来源** Project Gutenberg
+**作者** Ariel, 1799-1883 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 50 篇 · 106,472 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/28ff7236164b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（106,472 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,294 字；最长 It appears (see Asiatic Miscel., p. 148, 4to), that Mizraim,（39,186 字），最短 The ways of God are _always consistent, when understood_, an（7,262 字）。 |
+| 分章依据 | 按「篇」标记切分为 50 篇（通用标记切分），拼接正文 1,985 行。 |
+| 篇幅分布 | 平均每篇 2,117 字。 |
 | 原文溯源 | `cache/epub/31302/pg31302.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 篇）
 
-1. It appears (see Asiatic Miscel., p. 148, 4to), that Mizraim,
-2. Noah was the tenth in generation from Adam and Eve. We have
-3. That Adam was especially endowed by his Creator, and by him
-4. But we have said before, that we intentionally selected Cana
-5. The ways of God are _always consistent, when understood_, an
+1. _What is his Ethnological Status? Is he the progeny of Ham? Is he a
+2. The intelligent will see at once, that the question of _slavery_, either
+3. These questions, or rather these assumptions, of the learned and
+4. We shall have frequent use of the term, "logic of facts," and now
+5. It will be admitted by all, and contradicted by none, that we now have
+6. Before proceeding with the examination of the subjects involved in the
+7. Having now disposed of these _fancies_, for they are nothing better, of
+8. The first question to which we now invite attention is: Do the
+9. Now to our question: Do the characteristics, which we have given of the
+10. We will begin with Shem, so as to find his race _now_ on earth, to see
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/28ff7236164b/)
+> 共 50 篇，[完整目录与正文 →](https://www.bqgmz.top/b/28ff7236164b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Karamazovin veljekset I
 
-**作者** Dostoyevsky, Fyodor, 1821-1881; Trast, V. K., 1878-1953 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 75 题 · 887,672 字 ｜ **来源** Project Gutenberg
+**作者** Dostoyevsky, Fyodor, 1821-1881; Trast, V. K., 1878-1953 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 45 章 · 887,672 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/303d9bfb9109/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（887,672 字）。 |
-| 分章依据 | 按「题」标记切分为 75 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,835 字。 |
+| 分章依据 | 按「章」标记切分为 45 章（auto-num），拼接正文 18,581 行。 |
+| 篇幅分布 | 平均每章 19,588 字；最长 2.（部6）（69,859 字），最短 2.（6,837 字）。 |
+| 起止 | 始于「1.」，止于「4.（部7）」。 |
 | 原文溯源 | `cache/epub/71662/pg71662.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. KARAMAZOVIN VELJEKSET I
-2. F. M. Dostojevski
-3. Suomentanut
-4. V. K. Trast
-5. SISÄLLYS:
-6. Tekijän esipuhe
-7. ENSIMMÄINEN OSA
-8. Ensimmäinen kirja: Erään perheen historia
-9. Toinen kirja: Sopimaton kokous
-10. Kolmas kirja: Hekumoitsijat
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 1.（部2）
+7. 2.（部2）
+8. 3.（部2）
+9. 4.（部2）
+10. 5.（部2）
 
-> 共 75 题，[完整目录与正文 →](https://www.bqgmz.top/b/303d9bfb9109/)
+> 共 45 章，[完整目录与正文 →](https://www.bqgmz.top/b/303d9bfb9109/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

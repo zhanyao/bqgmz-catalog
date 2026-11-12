@@ -1,7 +1,7 @@
 # Mythologia Fennica
 
-**作者** Ganander, Christfrid, 1741-1790 ｜ **国家/地区** 瑞典 ｜ **体例** 题  
-**规模** 13 题 · 181,749 字 ｜ **来源** Project Gutenberg
+**作者** Ganander, Christfrid, 1741-1790 ｜ **国家/地区** 瑞典 ｜ **体例** 部分  
+**规模** 5 部分 · 181,749 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1a13b965c7de/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（181,749 字）。 |
-| 分章依据 | 按「题」标记切分为 13 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,980 字。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 5,526 行。 |
+| 篇幅分布 | 平均每部分 36,349 字；最长 第 4 部分（41,992 字），最短 第 5 部分（13,963 字）。 |
 | 原文溯源 | `cache/epub/52445/pg52445.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 部分）
 
-1. ELLER
-2. MYTHOLOGIA
-3. FENNICA.
-4. Kongl. Maj:ts
-5. MYTHOLOGIA FENNICA
-6. FINNAR. Se _Winder, Wiliner, Aate, Joter_ --
-7. HELWETTI, Plågo-rummet för de osälla efter döden; dit, och til
-8. HIJJEN-RAKKI, En helfvetes hund, cerber, furie --
-9. I Pimendola smiddes äfven _troll-pilar_, som voro dödelige Pestskott.
-10. Se _Piru._
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 13 题，[完整目录与正文 →](https://www.bqgmz.top/b/1a13b965c7de/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/1a13b965c7de/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

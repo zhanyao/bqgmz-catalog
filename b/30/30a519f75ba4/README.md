@@ -1,7 +1,7 @@
 # The Son of Monte-Cristo
 
 **作者** Lermina, Jules, 1839-1915 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 66 章 · 479,326 字 ｜ **来源** Project Gutenberg
+**规模** 68 章 · 479,326 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/30a519f75ba4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（479,326 字）。 |
-| 分章依据 | 按「章」标记切分为 66 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,262 字；最长 CHAPTER LXVI.（24,598 字），最短 CHAPTER XLI.（1,569 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER LXVI.」。 |
+| 分章依据 | 按「章」标记切分为 68 章（auto-chapter），拼接正文 15,396 行。 |
+| 篇幅分布 | 平均每章 6,971 字；最长 CHAPTER LIII.（22,247 字），最短 CHAPTER XLI.（1,569 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER LXIX.」。 |
 | 原文溯源 | `cache/epub/26216/pg26216.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 66 章，[完整目录与正文 →](https://www.bqgmz.top/b/30a519f75ba4/)
+> 共 68 章，[完整目录与正文 →](https://www.bqgmz.top/b/30a519f75ba4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

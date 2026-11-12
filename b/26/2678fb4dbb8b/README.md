@@ -1,7 +1,7 @@
 # Pyrotechny
 
-**作者** Practicus ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 97 题 · 263,422 字 ｜ **来源** Project Gutenberg
+**作者** Practicus ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 46 章 · 263,422 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2678fb4dbb8b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（263,422 字）。 |
-| 分章依据 | 按「题」标记切分为 97 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,715 字。 |
+| 分章依据 | 按「章」标记切分为 46 章（auto-caps-sections），拼接正文 6,930 行。 |
+| 篇幅分布 | 平均每章 5,724 字；最长 TOURBILLONS—PLAIN AND BRILLIANT.（26,751 字），最短 PREPARATION OF TOUCH-PAPER.（379 字）。 |
 | 原文溯源 | `cache/epub/76038/pg76038.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LONDON:
-2. WARD, LOCK, AND TYLER, WARWICK HOUSE PATERNOSTER ROW, E.C.
-3. CONTENTS.
-4. INDEX.
-5. INDEX TO ILLUSTRATIONS IN THE TEXT.
-6. INDEX TO ILLUSTRATIONS IN SEPARATE PLATES, ON TINTED PAPER.
-7. PYROTECHNY.
-8. BY PRACTICUS.
-9. PREFATORY REMARKS.
-10. 3 tourbillons: 2 plain and 1 brilliant.
+1. CONTENTS.
+2. PREFATORY REMARKS 1–10
+3. PREFATORY REMARKS 1
+4. CRACKER MINES 180
+5. FIGURE PLATE
+6. PREFATORY REMARKS.
+7. SCALES AND WEIGHTS.
+8. SIEVES.
+9. ROCKETS.
+10. ROCKET-CASES.
 
-> 共 97 题，[完整目录与正文 →](https://www.bqgmz.top/b/2678fb4dbb8b/)
+> 共 46 章，[完整目录与正文 →](https://www.bqgmz.top/b/2678fb4dbb8b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

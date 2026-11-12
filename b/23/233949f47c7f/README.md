@@ -1,7 +1,7 @@
 # Memoir, Correspondence, and Miscellanies, From the Papers of Thomas Jefferson, Volume 4
 
-**作者** Jefferson, Thomas, 1743-1826; Randolph, Thomas Jefferson, 1792-1875 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 54 段 · 1,097,473 字 ｜ **来源** Project Gutenberg
+**作者** Jefferson, Thomas, 1743-1826; Randolph, Thomas Jefferson, 1792-1875 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 722 篇 · 1,097,473 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/233949f47c7f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,097,473 字）。 |
-| 分章依据 | 按「段」标记切分为 54 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,323 字；最长 I understood perfectly the expressions stated in the newspap（39,954 字），最短 January the 12th. General Samuel Smith says that Pickering, （16,090 字）。 |
-| 起止 | 始于「I understood perfectly the expressions stated in the newspap」，止于「I answered by recapitulating to him what had been my conduct」。 |
+| 分章依据 | 按「篇」标记切分为 722 篇（通用标记切分），拼接正文 23,070 行。 |
+| 篇幅分布 | 平均每篇 1,520 字。 |
 | 原文溯源 | `cache/epub/16784/pg16784.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. I understood perfectly the expressions stated in the newspap
-2. We wish to be on the closest terms of friendship with Naples
-3. Your letter of November the 26th came to hand May the 14th;
-4. Soon after this, General Phillips having joined Arnold with
-5. Two personages in Europe, of which your Majesty is one, have
-6. Yours of August the 7th, from Liberty, never got to my hands
-7. You heard in due time from London of the signature of a trea
-8. Such an editor too, would have to set his face against the d
-9. I have a grandson, the son of Mr. Randolph, now about fiftee
-10. I received yesterday your favor of the 11th. An error of the
+1. [Illustration: Book Spines, 1829 set of Jefferson Papers]
+2. The enclosed letter came to hand by yesterday’s post. You will be
+3. On further consideration as to the amendment to our constitution
+4. ‘Louisiana, as ceded by France to the United States, is made a part of
+5. ‘Florida also, whensoever it may be rightfully obtained, shall become
+6. I quote this for your consideration, observing that the less that is
+7. Your favor of the 3rd was delivered me at court; but we were much
+8. No apologies for writing or speaking to me freely are necessary. On the
+9. No one would more willingly than myself pay the just tribute due to
+10. Your favors of April the 6th and June the 27th were duly received, and
 
-> 共 54 段，[完整目录与正文 →](https://www.bqgmz.top/b/233949f47c7f/)
+> 共 722 篇，[完整目录与正文 →](https://www.bqgmz.top/b/233949f47c7f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

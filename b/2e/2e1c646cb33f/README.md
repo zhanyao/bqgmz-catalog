@@ -1,7 +1,7 @@
 # Adventures in Holland and at Waterloo; and Expedition to Portugal
 
-**作者** Knight, Thomas ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 125,839 字 ｜ **来源** Project Gutenberg
+**作者** Knight, Thomas ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 78 篇 · 125,839 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2e1c646cb33f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（125,839 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,973 字；最长 On our journey to Paris, we travelled at the rate of four le（37,906 字），最短 I now proceeded on my way to London. When I came into Newbur（7,088 字）。 |
+| 分章依据 | 按「篇」标记切分为 78 篇（通用标记切分），拼接正文 2,402 行。 |
+| 篇幅分布 | 平均每篇 1,610 字。 |
 | 原文溯源 | `cache/epub/57905/pg57905.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 篇）
 
-1. On our journey to Paris, we travelled at the rate of four le
-2. We proceeded on our way, and were driven by a squall into Mi
-3. As I was going through the town, after leaving the captain’s
-4. Before we arrived at the place where the guns had been taken
-5. On the 29th of September we had another general engagement.
-6. I now proceeded on my way to London. When I came into Newbur
+1. E-text prepared by the Online Distributed Proofreading Team
+2. the National Library of Australia. See
+3. _About thirty-three years ago_, THOMAS KNIGHT _(the author of this work)
+4. My father was a cabinet maker at Frome, in Somersetshire. I was bound
+5. The day after, we marched to Dover, and then went on to Deal, in all
+6. The next day we went to Ramsgate, and had hopes of passing a night
+7. Our rations were drawn from the town butchers and bakers, and our grog
+8. What with skating, sliding, and drinking “schnapps,” we spent our time
+9. Our field-days were as usual. We had a league further to go. I was very
+10. I went on guard on the 15th day of June: it came to my turn at eleven
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/2e1c646cb33f/)
+> 共 78 篇，[完整目录与正文 →](https://www.bqgmz.top/b/2e1c646cb33f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

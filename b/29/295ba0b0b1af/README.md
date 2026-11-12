@@ -1,7 +1,7 @@
 # The biography and typography of William Caxton, England's first printer
 
-**作者** Blades, William, 1824-1890 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 584,281 字 ｜ **来源** Project Gutenberg
+**作者** Blades, William, 1824-1890 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 32 篇 · 584,281 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/295ba0b0b1af/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（584,281 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 44,944 字；最长 ~In the name of GOD Amen.~ On the eleven（100,279 字），最短 CHAPTER VI.（9,491 字）。 |
+| 分章依据 | 按「篇」标记切分为 32 篇（通用标记切分），拼接正文 15,833 行。 |
+| 篇幅分布 | 平均每篇 17,344 字；最长 _THE MASTER PRINTER._（1）（56,414 字），最短 NO. 27.--FRATRIS LAURENTII GULIELMI DE SAONA MARGARITA ELOQUENTIÆ（992 字）。 |
 | 原文溯源 | `cache/epub/78654/pg78654.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII.
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. ~In the name of GOD Amen.~ On the eleven
+1. _BIRTHPLACE AND PARENTAGE._
+2. _AN APPRENTICESHIP._
+3. _CAXTON ABROAD._
+4. _LITERATURE IN THE FIFTEENTH CENTURY._
+5. _DEVELOPMENT._
+6. _COLARD MANSION._
+7. _CAXTON A PRINTER._
+8. _WESTMINSTER._
+9. _THE MASTER PRINTER._（1）
+10. _THE MASTER PRINTER._（2）
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/295ba0b0b1af/)
+> 共 32 篇，[完整目录与正文 →](https://www.bqgmz.top/b/295ba0b0b1af/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

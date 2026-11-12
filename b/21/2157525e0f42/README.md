@@ -1,7 +1,7 @@
 # The Life of Thomas, Lord Cochrane, Tenth Earl of Dundonald, Vol. II
 
 **作者** Dundonald, Thomas Barnes Cochrane, Earl of, 1814-1885; Bourne, H. R. Fox (Henry Richard Fox), 1837-1909 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 14 章 · 468,000 字 ｜ **来源** Project Gutenberg
+**规模** 15 章 · 468,000 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2157525e0f42/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（468,000 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 33,428 字；最长 CHAPTER XXX.（88,596 字），最短 CHAPTER XXIX.（9,946 字）。 |
-| 起止 | 始于「CHAPTER XVII.」，止于「CHAPTER XXX.」。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 9,648 行。 |
+| 篇幅分布 | 平均每章 30,704 字；最长 APPENDIX.（51,306 字），最短 CHAPTER XXIX.（9,946 字）。 |
 | 原文溯源 | `cache/epub/26067/pg26067.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER XXV.
 10. CHAPTER XXVI
 
-> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/2157525e0f42/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/2157525e0f42/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

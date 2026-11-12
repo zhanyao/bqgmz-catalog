@@ -1,0 +1,25 @@
+# A Child's Garden of Verses（#19722）
+
+**作者** Stevenson, Robert Louis, 1850-1894; Sheldon, Myrtle, 1893- [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 28,143 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/2a7741a1a1c3/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（28,143 字）。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 1,732 行。 |
+| 篇幅分布 | 平均每篇 28,143 字。 |
+| 原文溯源 | `cache/epub/19722/pg19722.txt`（Project Gutenberg） |
+
+## 章节目录（前 1 篇）
+
+1. A Child's Garden of Verses（#19722）
+
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/2a7741a1a1c3/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

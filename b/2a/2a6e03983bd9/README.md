@@ -1,7 +1,7 @@
 # Fjällbyfolk: Bilder från öfre Norrland
 
-**作者** Rieck-Müller, Maria, 1863-1955 ｜ **国家/地区** 瑞典 ｜ **体例** 段  
-**规模** 6 段 · 127,867 字 ｜ **来源** Project Gutenberg
+**作者** Rieck-Müller, Maria, 1863-1955 ｜ **国家/地区** 瑞典 ｜ **体例** 章  
+**规模** 9 章 · 127,867 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2a6e03983bd9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（127,867 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,311 字；最长 Det är som när snön kommer och lägger sig hvit och mjuk öfve（40,019 字），最短 Han sträckte på sig, så det knastrade och knäppte i torrhöet（7,674 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-toc-title-list），拼接正文 3,446 行。 |
+| 篇幅分布 | 平均每章 14,151 字；最长 Hustrumord（20,451 字），最短 Vid forsen（5,061 字）。 |
 | 原文溯源 | `cache/epub/54157/pg54157.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 9 章）
 
-1. Det är som när snön kommer och lägger sig hvit och mjuk öfve
-2. I detsamma kom tok-Johanna ut på stugubron.
-3. En gammal förgångskarl, som nog inte var så van att handskas
-4. -- »Vik hädan, satan!» -- skrek Paava med ögonen i gnistor o
-5. Inne i föjset hade Erika slagit första mjölkstäfvan i det st
-6. Han sträckte på sig, så det knastrade och knäppte i torrhöet
+1. I Obygden
+2. Erik Spelman
+3. Tok-Johanna
+4. En begrafning
+5. Vid forsen
+6. En lapphistoria
+7. Pell Pers-mor berättar
+8. Hustrumord
+9. Jan Persa och hans framfärd
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/2a6e03983bd9/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/2a6e03983bd9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

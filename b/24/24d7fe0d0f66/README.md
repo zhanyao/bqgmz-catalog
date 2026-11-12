@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（347,098 字）。 |
-| 分章依据 | 按「章」标记切分为 60 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,784 字；最长 CHAPTER LVII. HOMELESS AND ALONE.（14,918 字），最短 CHAPTER XLIV. A CRUEL ORDEAL.（2,210 字）。 |
+| 分章依据 | 按「章」标记切分为 60 章（auto-chapter），拼接正文 9,993 行。 |
+| 篇幅分布 | 平均每章 5,733 字；最长 CHAPTER LVII. HOMELESS AND ALONE.（14,918 字），最短 CHAPTER XLIV. A CRUEL ORDEAL.（2,210 字）。 |
 | 起止 | 始于「CHAPTER I. WHEN POVERTY ENTERS THE DOOR.」，止于「CHAPTER LX. CONCLUSION.」。 |
 | 原文溯源 | `cache/epub/66774/pg66774.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 60 章，[完整目录与正文 →](https://www.bqgmz.top/b/24d7fe0d0f66/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

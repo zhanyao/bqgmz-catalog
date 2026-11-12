@@ -1,7 +1,7 @@
 # The Plum Tree
 
-**作者** Phillips, David Graham, 1867-1911; Ashe, E. M. (Edmund Marion), 1867-1941 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 102 题 · 325,697 字 ｜ **来源** Project Gutenberg
+**作者** Phillips, David Graham, 1867-1911; Ashe, E. M. (Edmund Marion), 1867-1941 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 35 章 · 325,697 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/32476ff64596/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（325,697 字）。 |
-| 分章依据 | 按「题」标记切分为 102 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,193 字。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-roman-bare），拼接正文 7,964 行。 |
+| 篇幅分布 | 平均每章 9,263 字；最长 IV（19,865 字），最短 XVIII（1,879 字）。 |
 | 原文溯源 | `cache/epub/20449/pg20449.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE PLUM TREE
-2. March
-3. CONTENTS
-4. CHAPTER PAGE
-5. THE PLUM TREE
-6. HOW IT ALL BEGAN
-7. II
-8. AT THE COURT OF A SOVEREIGN
-9. He scowled. "Do you, or don't you?"
-10. I did not cheer up. An assemblyman got only a thousand a year.
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 102 题，[完整目录与正文 →](https://www.bqgmz.top/b/32476ff64596/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/32476ff64596/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

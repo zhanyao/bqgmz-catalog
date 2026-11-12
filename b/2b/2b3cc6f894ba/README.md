@@ -1,7 +1,7 @@
 # Luvattu maa（#50527）
 
-**作者** Bourget, Paul, 1852-1935; Colliander, Gertrud, 1860-1942 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 24 段 · 496,978 字 ｜ **来源** Project Gutenberg
+**作者** Bourget, Paul, 1852-1935; Colliander, Gertrud, 1860-1942 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 13 章 · 496,978 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2b3cc6f894ba/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（496,978 字）。 |
-| 分章依据 | 按「段」标记切分为 24 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,707 字；最长 Kaukaisilta tuntuivat nämä keskustelut ja muutkin senkaltais（38,079 字），最短 Rakkaus, joka ei järjen käskyjä noudata, kohotti silloin ään（11,687 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-roman-bare），拼接正文 9,544 行。 |
+| 篇幅分布 | 平均每章 38,204 字；最长 II（60,338 字），最短 XIII.（17,541 字）。 |
 | 原文溯源 | `cache/epub/50527/pg50527.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Kaukaisilta tuntuivat nämä keskustelut ja muutkin senkaltais
-2. Niinkö monta vuotta! Kokoontaitetuissa, vielä siteissä olevi
-3. -- "Tottelisin tietysti, jos voisin", oli Pauline vastannut
-4. Sellaisia puheita kuulee sadottain Parisissa pitkin päivää,
-5. Henkisellä olennollamme niinkuin ruumiillisellakin on
-6. -- "Olen jo sitä ajatellut", jatkoi rouva Scilly, "mutta tuo
-7. Mutta jos Francis'n onnistuikin hallita kasvojensa ilmettä,
-8. -- "On, sydäntäsärkevää", vastasi Francis, ja tuossa sanassa
-9. Niin, olihan Henriette surkuteltava, kun näin teeskentelemät
-10. Mutta velvollisuuden käsite, ainoa, joka voi lieventää eräit
+1. I
+2. II
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 24 段，[完整目录与正文 →](https://www.bqgmz.top/b/2b3cc6f894ba/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/2b3cc6f894ba/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

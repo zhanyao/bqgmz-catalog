@@ -1,7 +1,7 @@
 # Corporal Jacques of the Foreign Legion
 
-**作者** Stacpoole, H. De Vere (Henry De Vere), 1863-1951 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 26 题 · 142,820 字 ｜ **来源** Project Gutenberg
+**作者** Stacpoole, H. De Vere (Henry De Vere), 1863-1951 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 4 章 · 142,820 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/205374eaea61/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（142,820 字）。 |
-| 分章依据 | 按「题」标记切分为 26 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,493 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-roman-bare），拼接正文 3,833 行。 |
+| 篇幅分布 | 平均每章 35,267 字。 |
 | 原文溯源 | `cache/epub/66453/pg66453.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 章）
 
-1. SIR,
-2. CONTENTS
-3. Choc
-4. Quits
-5. Schneider
-6. The Little Prince
-7. Mansoor
-8. The Bird Cage
-9. The Son of Choc
-10. CORPORAL JACQUES
+1. I
+2. II
+3. III
+4. IV
 
-> 共 26 题，[完整目录与正文 →](https://www.bqgmz.top/b/205374eaea61/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/205374eaea61/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

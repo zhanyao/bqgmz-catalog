@@ -1,7 +1,7 @@
 # Sonnie-Boy's People
 
-**作者** Connolly, James B. (James Brendan), 1868-1957 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 63 题 · 327,201 字 ｜ **来源** Project Gutenberg
+**作者** Connolly, James B. (James Brendan), 1868-1957 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 327,201 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/292834c5c971/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（327,201 字）。 |
-| 分章依据 | 按「题」标记切分为 63 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,193 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-toc-title-list），拼接正文 8,701 行。 |
+| 篇幅分布 | 平均每章 31,325 字；最长 notes of the man, that was plain. Forty, or forty-five possibly, he was.（64,851 字），最短 THE LAST PASSENGER（9,159 字）。 |
 | 原文溯源 | `cache/epub/22185/pg22185.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. SONNIE-BOY'S PEOPLE
-2. SONNIE-BOY'S PEOPLE
-3. ILLUSTRATED
-4. Published September, 1913
-5. CONTENTS
-6. PAGE
-7. SONNIE-BOY'S PEOPLE 1
-8. TIM RILEY'S TOUCH 51
-9. IN THE ANCHOR WATCH 95
-10. CROSS COURSES 123
+1. TIM RILEY'S TOUCH
+2. IN THE ANCHOR WATCH
+3. CROSS COURSES
+4. LEARY OF THE "LIGONIER"
+5. HOW THEY GOT THE "HATTIE RENNISH"
+6. KILLORIN'S CARIBBEAN DAYS
+7. THE BATTLE-CRUISE OF THE "SVEND FOYN"
+8. THE LAST PASSENGER
+9. notes of the man, that was plain. Forty, or forty-five possibly, he was.
 
-> 共 63 题，[完整目录与正文 →](https://www.bqgmz.top/b/292834c5c971/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/292834c5c971/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

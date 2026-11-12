@@ -1,7 +1,7 @@
 # The Wind-Jammers
 
-**作者** Hains, T. Jenkins (Thornton Jenkins), 1866-1953 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 14 段 · 293,388 字 ｜ **来源** Project Gutenberg
+**作者** Hains, T. Jenkins (Thornton Jenkins), 1866-1953 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 293,388 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/242c267d2cff/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（293,388 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,956 字；最长 They were all Robinson’s followers. Taking some of the riggi（39,458 字），最短 “Like a miner on making his first find of gold, I trembled a（12,965 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-toc-title-list），拼接正文 7,459 行。 |
+| 篇幅分布 | 平均每章 18,277 字；最长 TO CLIPPERTON REEF（35,355 字），最短 THE TRANSMIGRATION OF AMOS JONES（7,916 字）。 |
 | 原文溯源 | `cache/epub/55274/pg55274.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. They were all Robinson’s followers. Taking some of the riggi
-2. It was a strange scene there in the cabin when Gonzales was
-3. “Well, I reckon I do, but what of him? He won’t turn up as l
-4. “‘Lay out on that yard!’ bawled Jensen, and we fought our wa
-5. “Go t’ell, then!” bawled Sangaan, and he walked to the keg f
-6. “I looked at Jackson and saw his face contracted into a frow
-7. “What wud ye loike us to do?” asked O’Hara.
-8. Camp saw that it was death in a hideous form to disobey. Bot
-9. The big man made no answer to this, but suddenly called his
-10. The gale held on all day, but nothing unusual occurred. At e
+1. THE EXECUTIVE OF THE RANDOLPH
+2. TIMBER NOGGINS
+3. OFF THE HORN: A TALE OF THE SOUTHERN OCEAN
+4. THE BLACK CREW OF COOPER’S HOLE
+5. JOHNNIE
+6. THE TREASURE OF TINIAN REEF
+7. THE LE MAIRE LIGHT
+8. THE BACKSLIDERS
+9. CAPTAIN CRAVEN’S COURAGE
+10. THE DEATH OF HUATICARA
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/242c267d2cff/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/242c267d2cff/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

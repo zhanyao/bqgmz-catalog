@@ -1,7 +1,7 @@
 # The Earth and its inhabitants, Volume 1: Europe. Greece, Turkey in Europe, Rumania, Servia, Montenegro, Italy, Spain, and Portugal.
 
-**作者** Reclus, Elisée, 1830-1905; Ravenstein, Ernest Georg, 1834-1913 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 53 段 · 1,064,139 字 ｜ **来源** Project Gutenberg
+**作者** Reclus, Elisée, 1830-1905; Ravenstein, Ernest Georg, 1834-1913 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 32 章 · 1,064,139 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2e5d91160348/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,064,139 字）。 |
-| 分章依据 | 按「段」标记切分为 53 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,078 字；最长 Innumerable changes such as these have been effected by man （39,419 字），最短 Tuscany, 239（2,810 字）。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-caps-sections），拼接正文 23,781 行。 |
+| 篇幅分布 | 平均每章 32,910 字；最长 TREATIES OF SAN STEFANO AND BERLIN.（64,670 字），最短 COLONIAL POSSESSIONS.（2,601 字）。 |
 | 原文溯源 | `cache/epub/54760/pg54760.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Innumerable changes such as these have been effected by man
-2. The valleys which radiate in all directions from the great c
-3. From an historical point of view a description of Europe sho
-4. Next to the fisheries, the preparation of sea salt constitut
-5. Greece is a small country, but the variety of its climate is
-6. Another lake basin lies to the south of the Zygos, between t
-7. The limestone rocks of the interior of the Peloponnesus abou
-8. Cythera of Laconia, a far larger island than either of those
-9. Ithaca of “divine Ulysses,” the modern Theaki, is separated
-10. The proximity and parallelism of the coasts of two continent
+1. 100. ROME . . . 276
+2. I.—GEOGRAPHICAL IMPORTANCE.
+3. V.—CLIMATE.
+4. I.—HYDROLOGY.
+5. I.—GENERAL ASPECTS.
+6. II.—CONTINENTAL GREECE.
+7. IV.—THE ISLANDS OF THE ÆGEAN SEA.
+8. II.—CRETE AND THE ISLANDS OF THE ARCHIPELAGO.（1）
+9. II.—CRETE AND THE ISLANDS OF THE ARCHIPELAGO.（2）
+10. V.—THE ILLYRIAN ALPS, BOSNIA, AND HERZEGOVINA.
 
-> 共 53 段，[完整目录与正文 →](https://www.bqgmz.top/b/2e5d91160348/)
+> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/2e5d91160348/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

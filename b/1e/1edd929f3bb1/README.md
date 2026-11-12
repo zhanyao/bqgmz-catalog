@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（571,135 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 33,596 字；最长 In going aboard the Vesta Walker had put（94,674 字），最短 CHAPTER X.（696 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-caps-sections），拼接正文 10,901 行。 |
+| 篇幅分布 | 平均每章 33,596 字；最长 THE DEFENCE OF RIVAS.（1）（55,745 字），最短 W. W.（732 字）。 |
 | 原文溯源 | `cache/epub/76898/pg76898.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. CHAPTER X.
+1. W. W.
+2. PREFACE.
+3. THE VESTA AND HER PASSENGERS.
+4. RIVAS, JUNE TWENTY-NINTH, 1855.（1）
+5. RIVAS, JUNE TWENTY-NINTH, 1855.（2）
+6. RIVAS, JUNE TWENTY-NINTH, 1855.（3）
+7. THE ADMINISTRATION OF RIVAS.
+8. THE COSTA RICAN INVASION.
+9. THE DEFECTION OF RIVAS.（1）
+10. THE DEFECTION OF RIVAS.（2）
 
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/1edd929f3bb1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

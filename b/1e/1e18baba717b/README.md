@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（704,060 字）。 |
-| 分章依据 | 按「章」标记切分为 61 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,541 字；最长 CHAPTER VI.--THREE GRACES.（22,292 字），最短 CHAPTER XXXIV.--GUILFOYLE REDIVIVUS.（4,794 字）。 |
+| 分章依据 | 按「章」标记切分为 61 章（auto-chapter），拼接正文 16,969 行。 |
+| 篇幅分布 | 平均每章 11,503 字；最长 CHAPTER VI.--THREE GRACES.（22,292 字），最短 CHAPTER XXXIV.--GUILFOYLE REDIVIVUS.（4,794 字）。 |
 | 起止 | 始于「CHAPTER I.--THE INVITATION.」，止于「CHAPTER LXI.--"FOR VALOUR."」。 |
 | 原文溯源 | `cache/epub/53874/pg53874.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 61 章，[完整目录与正文 →](https://www.bqgmz.top/b/1e18baba717b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

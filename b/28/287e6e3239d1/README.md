@@ -1,7 +1,7 @@
 # Satan
 
-**作者** Chafer, Lewis Sperry, 1871-1952 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 198,744 字 ｜ **来源** Project Gutenberg
+**作者** Chafer, Lewis Sperry, 1871-1952 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 5 部分 · 198,744 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/287e6e3239d1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（198,744 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,067 字；最长 Chapter XI.（37,266 字），最短 Chapter VI.（9,483 字）。 |
-| 起止 | 始于「Chapter I.」，止于「Chapter XI.」。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 4,015 行。 |
+| 篇幅分布 | 平均每部分 39,748 字；最长 第 4 部分（41,898 字），最短 第 5 部分（31,771 字）。 |
 | 原文溯源 | `cache/epub/12586/pg12586.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 5 部分）
 
-1. Chapter I.
-2. Chapter II.
-3. Chapter III.
-4. Chapter IV.
-5. Chapter V.
-6. Chapter VI.
-7. Chapter VII.
-8. Chapter VIII.
-9. Chapter IX.
-10. Chapter X
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/287e6e3239d1/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/287e6e3239d1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

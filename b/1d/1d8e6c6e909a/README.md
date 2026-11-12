@@ -1,7 +1,7 @@
 # Nedra
 
 **作者** McCutcheon, George Barr, 1866-1928; Fisher, Harrison, 1875-1934 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 35 章 · 353,287 字 ｜ **来源** Project Gutenberg
+**规模** 33 章 · 353,287 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1d8e6c6e909a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（353,287 字）。 |
-| 分章依据 | 按「章」标记切分为 35 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,093 字；最长 CHAPTER I（20,372 字），最短 CHAPTER XXXV（4,070 字）。 |
+| 分章依据 | 按「章」标记切分为 33 章（auto-chapter），拼接正文 9,293 行。 |
+| 篇幅分布 | 平均每章 10,666 字；最长 CHAPTER II（19,527 字），最短 CHAPTER XXXV（4,070 字）。 |
 | 起止 | 始于「CHAPTER I」，止于「CHAPTER XXXV」。 |
 | 原文溯源 | `cache/epub/13967/pg13967.txt`（Project Gutenberg） |
 
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/1d8e6c6e909a/)
+> 共 33 章，[完整目录与正文 →](https://www.bqgmz.top/b/1d8e6c6e909a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

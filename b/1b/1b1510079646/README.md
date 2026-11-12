@@ -1,7 +1,7 @@
 # Legendary Yorkshire
 
-**作者** Ross, Frederick, 1816-1893 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 11 段 · 233,807 字 ｜ **来源** Project Gutenberg
+**作者** Ross, Frederick, 1816-1893 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 233,807 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1b1510079646/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（233,807 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,255 字；最长 Midwinter had come, the period when the sun seemed to the Br（39,708 字），最短 At this time the belief in witchcraft was universally preval（14,695 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-toc-title-list），拼接正文 4,843 行。 |
+| 篇幅分布 | 平均每章 15,526 字；最长 THE BEATIFIED SISTERS OF BEVERLEY（19,710 字），最短 THE DRAGON OF WANTLEY（6,671 字）。 |
 | 原文溯源 | `cache/epub/53617/pg53617.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Midwinter had come, the period when the sun seemed to the Br
-2. He did not spend much time at his ancestral home in Ryedale,
-3. The conference was appointed to come off on the slopes of th
-4. That the valley was esteemed a place of peculiar sanctity in
-5. Cadwalla was utterly defeated and slain, and his vast army (
-6. A week passed away, and Bega, absorbed in her devotional exe
-7. At the end of the seventh and beginning of the eighth centur
-8. The family had for their crest a green dragon, and there was
-9. An angry altercation ensued, the lady, who possessed a high
-10. A little northward of the road from Bradford to Leeds, four
+1. THE ENCHANTED CAVE
+2. THE DOOMED CITY
+3. THE "WORM" OF NUNNINGTON
+4. THE DEVIL'S ARROWS
+5. THE GIANT ROAD-MAKER OF MULGRAVE
+6. THE VIRGIN'S HEAD OF HALIFAX
+7. THE DEAD ARM OF ST. OSWALD THE KING
+8. THE TRANSLATION OF ST. HILDA
+9. A MIRACLE OF ST. JOHN
+10. THE BEATIFIED SISTERS OF BEVERLEY
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/1b1510079646/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/1b1510079646/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

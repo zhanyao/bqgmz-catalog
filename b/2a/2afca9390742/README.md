@@ -1,7 +1,7 @@
 # Ultima Thule; or, A Summer in Iceland. vol. 1/2
 
 **作者** Burton, Richard Francis, Sir, 1821-1890 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 12 章 · 754,404 字 ｜ **来源** Project Gutenberg
+**规模** 46 章 · 754,404 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2afca9390742/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（754,404 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 62,867 字；最长 After seeing the humble wonders of Scall（97,377 字），最短 SECTION IV.（12,723 字）。 |
+| 分章依据 | 按「章」标记切分为 46 章（auto-toc-title-list），拼接正文 16,659 行。 |
+| 篇幅分布 | 平均每章 16,120 字。 |
 | 原文溯源 | `cache/epub/59584/pg59584.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. SECTION I. OF THULE.
-2. SECTION II.
-3. SECTION III.
-4. SECTION IV.
-5. SECTION V.
-6. SECTION VI.
-7. SECTION VII.
-8. SECTION VIII.
-9. SECTION IX.
-10. After seeing the humble wonders of Scall
+1. INTRODUCTION.
+2. SECTION I.
+3. Thule, Poetical and Rhetorical,
+4. Strabo, Mela, Pliny, Ptolemy,
+5. Thule, part of Great Britain,
+6. Thule = Scandia,
+7. Thule = Iceland,
+8. Thule (Etymology of),
+9. PHYSICAL GEOGRAPHY OF ICELAND.
+10. Genesis and Geology,
 
-> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/2afca9390742/)
+> 共 46 章，[完整目录与正文 →](https://www.bqgmz.top/b/2afca9390742/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

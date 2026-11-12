@@ -1,7 +1,7 @@
 # Wanderers of the Wolf-Moon
 
-**作者** Bond, Nelson S., 1908-2006; Ingels, Graham, 1915-1991 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 29 题 · 104,619 字 ｜ **来源** Project Gutenberg
+**作者** Bond, Nelson S., 1908-2006; Ingels, Graham, 1915-1991 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 104,619 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/31d4bee48a7e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（104,619 字）。 |
-| 分章依据 | 按「题」标记切分为 29 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,607 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-roman-bare），拼接正文 2,855 行。 |
+| 篇幅分布 | 平均每章 10,530 字；最长 X（19,978 字），最短 IX（5,061 字）。 |
 | 原文溯源 | `cache/epub/63048/pg63048.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. Wanderers of the Wolf Moon
-2. By NELSON S. BOND
-3. Greg said, "Why not?"
-4. His sister sniffed. "Nonsense! It's delightful."
-5. Malcolm said, "I don't know, sir."
-6. Greg nodded. "Yes, Miss Andrews."
-7. Greg said, "Yes."
-8. II
-9. Hannigan said, "Looks bad, don't it?"
-10. III
+1. II
+2. III
+3. IV
+4. V
+5. VI
+6. VII
+7. VIII
+8. IX
+9. X
 
-> 共 29 题，[完整目录与正文 →](https://www.bqgmz.top/b/31d4bee48a7e/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/31d4bee48a7e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Supermind
 
-**作者** Garrett, Randall, 1927-1987; Janifer, Laurence M., 1933-2002 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 9 题 · 334,009 字 ｜ **来源** Project Gutenberg
+**作者** Garrett, Randall, 1927-1987; Janifer, Laurence M., 1933-2002 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 334,009 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2018fe1806fb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（334,009 字）。 |
-| 分章依据 | 按「题」标记切分为 9 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 37,112 字；最长 Mark Phillips（74,387 字），最短 Supermind（366 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-num），拼接正文 10,235 行。 |
+| 篇幅分布 | 平均每章 20,851 字；最长 7（38,129 字），最短 16（6,280 字）。 |
 | 原文溯源 | `cache/epub/22342/pg22342.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 题）
+## 章节目录（前 10 章）
 
-1. Supermind
-2. Mark Phillips
-3. She waited a second. “I don’t know what
-4. He paused. A great light seemed to burst
-5. DISTRICT COURT RULES UNION HAS NO CASE
-6. 4. Efficient
-7. FIFTH SPLINTER GROUP FORMS IN DCA BATTLE
-8. LAWV OUSTS ‘ROWDIES’: AID MEETING CONTINUES
-9. RESIGNATIONS REACH NEW HIGH IN U.S. COLLEGE FACULTIES
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
 
-> 共 9 题，[完整目录与正文 →](https://www.bqgmz.top/b/2018fe1806fb/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/2018fe1806fb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（182,007 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,100 字；最长 CHAPTER 1 Queen Cross Patch Flits（14,484 字），最短 CHAPTER 16 Kuma’s Hand Is At Work Again（2,557 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 4,853 行。 |
+| 篇幅分布 | 平均每章 8,977 字；最长 CHAPTER 1 Queen Cross Patch Flits（12,183 字），最短 CHAPTER 16 Kuma’s Hand Is At Work Again（2,557 字）。 |
 | 起止 | 始于「CHAPTER 1 Queen Cross Patch Flits」，止于「CHAPTER 20 Peter Is Made A Prince Of Oz」。 |
 | 原文溯源 | `cache/epub/71273/pg71273.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/2c1e3ccb3ee0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

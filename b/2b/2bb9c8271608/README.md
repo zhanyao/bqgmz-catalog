@@ -1,7 +1,7 @@
 # Totem und Tabu Einige Übereinstimmungen im Seelenleben der Wilden und der Neurotiker
 
-**作者** Freud, Sigmund, 1856-1939 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 25 题 · 336,725 字 ｜ **来源** Project Gutenberg
+**作者** Freud, Sigmund, 1856-1939 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 4 章 · 336,725 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2bb9c8271608/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（336,725 字）。 |
-| 分章依据 | 按「题」标记切分为 25 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,469 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-roman-bare），拼接正文 6,986 行。 |
+| 篇幅分布 | 平均每章 83,081 字。 |
+| 起止 | 始于「I.」，止于「IV.」。 |
 | 原文溯源 | `cache/epub/37065/pg37065.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 章）
 
-1. TOTEM UND TABU
-2. DRITTE, UNVERÄNDERTE AUFLAGE
-3. VORWORT.
-4. Seite
-5. I. Die Inzestscheu 1
-6. II. Das Tabu und die Ambivalenz der Gefühlsregungen 25
-7. III. Animismus, Magie und Allmacht der Gedanken 100
-8. IV. Die infantile Wiederkehr des Totemismus 133
-9. I.
-10. DIE INZESTSCHEU.
+1. I.
+2. II.
+3. III.
+4. IV.
 
-> 共 25 题，[完整目录与正文 →](https://www.bqgmz.top/b/2bb9c8271608/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/2bb9c8271608/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

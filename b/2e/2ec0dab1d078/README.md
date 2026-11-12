@@ -1,7 +1,7 @@
 # Poems, Vol. IV
 
-**作者** Howard, Hattie ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 104,868 字 ｜ **来源** Project Gutenberg
+**作者** Howard, Hattie ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 87 章 · 104,868 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2ec0dab1d078/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（104,868 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,973 字；最长 The days are long and lonely,（40,028 字），最短 Sometimes I fear it makes me cry--（4,809 字）。 |
+| 分章依据 | 按「章」标记切分为 87 章（auto-toc-title-list），拼接正文 5,166 行。 |
+| 篇幅分布 | 平均每章 1,167 字；最长 THE ANTIQUARIAN,（2,790 字），最短 NOT GONE,（468 字）。 |
 | 原文溯源 | `cache/epub/19109/pg19109.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. The days are long and lonely,
-2. In every eye a tear-drop stood,
-3. The garden hose, obscured from view,
-4. And so, with each recurring spring,
-5. Sometimes I fear it makes me cry--
+1. "THE SALT OF THE EARTH,"
+2. NOT GONE,
+3. LET US GIVE THANKS,
+4. SONNET,
+5. A RAINY DAY,
+6. THE SUBWAY,
+7. THE APPLE TREE,
+8. TWO ROSES,
+9. THE TAXIDERMIST,
+10. EPITHALAMIUM,
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/2ec0dab1d078/)
+> 共 87 章，[完整目录与正文 →](https://www.bqgmz.top/b/2ec0dab1d078/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

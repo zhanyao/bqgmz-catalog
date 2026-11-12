@@ -1,7 +1,7 @@
 # Index of the Project Gutenberg Works of William Wood
 
 **作者** Wood, William, 1864-1947; Widger, David, 1932-2021 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 12 章 · 7,817 字 ｜ **来源** Project Gutenberg
+**规模** 2 章 · 7,817 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2fa2411ffea5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（7,817 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 651 字。 |
-| 起止 | 始于「CHAPTER I 	ENGLAND'S FIRST LOOK」，止于「CHAPTER XII 	DRAKE'S END」。 |
+| 分章依据 | 按「章」标记切分为 2 章（auto-part），拼接正文 384 行。 |
+| 篇幅分布 | 平均每章 3,576 字。 |
 | 原文溯源 | `cache/epub/59767/pg59767.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 2 章）
 
-1. CHAPTER I ENGLAND'S FIRST LOOK
-2. CHAPTER II HENRY VIII, KING OF THE ENGLISH SEA
-3. CHAPTER III LIFE AFLOAT IN TUDOR TIMES
-4. CHAPTER IV ELIZABETHAN ENGLAND
-5. CHAPTER V HAWKINS AND THE FIGHTING TRADERS
-6. CHAPTER VI DRAKE'S BEGINNING
-7. CHAPTER VII DRAKE'S 'ENCOMPASSMENT OF ALL THE WORLDE'
-8. CHAPTER VIII DRAKE CLIPS THE WINGS OF SPAIN
-9. CHAPTER IX DRAKE AND THE SPANISH ARMADA
-10. CHAPTER X 'THE ONE AND THE FIFTY-THREE'
+1. PART I�A CENTURY OF CHANGE (1814-1914)
+2. PART II�THE GREAT WAR (1914-1918)
 
-> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/2fa2411ffea5/)
+> 共 2 章，[完整目录与正文 →](https://www.bqgmz.top/b/2fa2411ffea5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

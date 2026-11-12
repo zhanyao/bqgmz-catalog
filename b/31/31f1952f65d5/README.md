@@ -1,7 +1,7 @@
 # Merrie England in the Olden Time, Vol. 2
 
 **作者** Daniel, George, 1789-1864; Cruikshank, Robert, 1789-1856 [Illustrator]; Gilks, Thomas [Illustrator]; Leech, John, 1817-1864 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 14 章 · 278,442 字 ｜ **来源** Project Gutenberg
+**规模** 15 章 · 278,442 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/31f1952f65d5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（278,442 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 19,888 字；最长 CHAPTER XIV.（44,444 字），最短 CHAPTER XI.（5,609 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XIV.」。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 8,730 行。 |
+| 篇幅分布 | 平均每章 18,546 字；最长 notes of a guitar.（39,950 字），最短 CHAPTER XIV.（4,494 字）。 |
 | 原文溯源 | `cache/epub/46332/pg46332.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/31f1952f65d5/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/31f1952f65d5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

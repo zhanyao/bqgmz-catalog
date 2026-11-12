@@ -1,7 +1,7 @@
 # Persuasion（#36777）
 
-**作者** Austen, Jane, 1775-1817; Letorsay, Madame [Translator] ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 32 题 · 235,563 字 ｜ **来源** Project Gutenberg
+**作者** Austen, Jane, 1775-1817; Letorsay, Madame [Translator] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 23 章 · 235,563 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2f7b90e32e30/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（235,563 字）。 |
-| 分章依据 | 按「题」标记切分为 32 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,361 字。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-chapter），拼接正文 5,797 行。 |
+| 篇幅分布 | 平均每章 9,799 字；最长 CHAPITRE XXIII（17,388 字），最短 CHAPITRE XIX（5,106 字）。 |
 | 原文溯源 | `cache/epub/36777/pg36777.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Au lecteur
-2. MISS AUSTEN
-3. PERSUASION
-4. Mme LETORSAY
-5. PERSUASION
-6. CHAPITRE PREMIER
-7. CHAPITRE II
-8. CHAPITRE III
-9. M. Shepherd répondit qu'il était noble, et Anna ajouta:
-10. CHAPITRE IV
+1. CHAPITRE II
+2. CHAPITRE III
+3. CHAPITRE IV
+4. CHAPITRE V
+5. CHAPITRE VI
+6. CHAPITRE VII
+7. CHAPITRE VIII
+8. CHAPITRE IX
+9. CHAPITRE X
+10. CHAPITRE XI
 
-> 共 32 题，[完整目录与正文 →](https://www.bqgmz.top/b/2f7b90e32e30/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/2f7b90e32e30/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

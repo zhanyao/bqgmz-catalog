@@ -1,7 +1,7 @@
 # Kamertjeszonde
 
-**作者** Heijermans, Herman, 1864-1924 ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 77 题 · 717,693 字 ｜ **来源** Project Gutenberg
+**作者** Heijermans, Herman, 1864-1924 ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 34 章 · 717,693 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2ebd66baf26c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（717,693 字）。 |
-| 分章依据 | 按「题」标记切分为 77 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,320 字。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-roman-bare），拼接正文 21,550 行。 |
+| 篇幅分布 | 平均每章 20,788 字。 |
+| 起止 | 始于「I.」，止于「XXII.（部2）」。 |
 | 原文溯源 | `cache/epub/71207/pg71207.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. KAMERTJESZONDE
-2. VIJFDE DRUK
-3. INLEIDEND WOORD TOT DEN EERSTEN DRUK.
-4. Hoogachtend
-5. 29 December 1896.
-6. Met verzekering mijner bijzondere Hoogachting
-7. VOORWOORD BIJ DEN 5DEN DRUK.
-8. INHOUD.
-9. I.
-10. GESTOORDE MELANKOLIE.
+1. I.
+2. II
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 77 题，[完整目录与正文 →](https://www.bqgmz.top/b/2ebd66baf26c/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/2ebd66baf26c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

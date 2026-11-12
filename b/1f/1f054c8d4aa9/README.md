@@ -1,7 +1,7 @@
 # Tartuffe; Or, The Hypocrite（#2027）
 
-**作者** Molière, 1622-1673; Page, Curtis Hidden, 1870-1946 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 8 章 · 81,198 字 ｜ **来源** Project Gutenberg
+**作者** Molière, 1622-1673; Page, Curtis Hidden, 1870-1946 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 幕  
+**规模** 5 幕 · 81,198 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1f054c8d4aa9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（81,198 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,149 字。 |
+| 分章依据 | 按「幕」标记切分为 5 幕（auto-act），拼接正文 3,964 行。 |
+| 篇幅分布 | 平均每幕 15,819 字；最长 ACT II（17,801 字），最短 ACT III（14,502 字）。 |
 | 原文溯源 | `cache/epub/2027/pg2027.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 章）
+## 章节目录（前 5 幕）
 
-1. SCENE I
-2. SCENE II
-3. SCENE III
-4. SCENE IV
-5. SCENE V
-6. SCENE VI
-7. SCENE VII
-8. SCENE VIII
+1. ACT I
+2. ACT II
+3. ACT III
+4. ACT IV
+5. ACT V
 
-> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/1f054c8d4aa9/)
+> 共 5 幕，[完整目录与正文 →](https://www.bqgmz.top/b/1f054c8d4aa9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

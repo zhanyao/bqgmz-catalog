@@ -1,7 +1,7 @@
 # Artturi Berkow
 
-**作者** Werner, E., 1838-1918; Mellin, Robert, 1826-1880 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 25 段 · 519,620 字 ｜ **来源** Project Gutenberg
+**作者** Werner, E., 1838-1918; Mellin, Robert, 1826-1880 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 12 部分 · 519,620 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1d4bd4ca53f9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（519,620 字）。 |
-| 分章依据 | 按「段」标记切分为 25 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,784 字；最长 -- Senpä kyllä uskon, sanoi vanhus säveästi; se on juuri sin（40,021 字），最短 -- Minä menen, sanoi hän vieläkin, mutta ei _yksi_ siellä ri（19,341 字）。 |
+| 分章依据 | 按「部分」标记切分为 12 部分（fallback-chunk），拼接正文 11,926 行。 |
+| 篇幅分布 | 平均每部分 43,301 字；最长 第 1 部分（44,408 字），最短 第 12 部分（34,884 字）。 |
 | 原文溯源 | `cache/epub/49430/pg49430.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. -- Senpä kyllä uskon, sanoi vanhus säveästi; se on juuri sin
-2. Helpompihan olikin näin kopeudella vaikuttaa isään kuin poik
-3. -- Anna nuoren isännän olla rauhassa! keskeytti hänen purnum
-4. Mutta tämä näkö, joka varmaan olisi hurmannut jok'ainoan hän
-5. -- Ohhoh, en tiennytkään, sanoi tirehtööri vähän hölmistynee
-6. Isä otti piipun suustansa ja puhalsi aika savun ilmaan.
-7. Artturi katseli, samoin kuin Eugeniakin, ääneti vaunu-akkuna
-8. Eugenia ei virkannut mitään. Heidän päällitse humisivat ja
-9. -- Hyvä sanoi Berkow lyhyesti. -- Menkää te edellä, me tulem
-10. Mihin määrään perintö semmoisen elämän ja semmoisen kylvön j
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 25 段，[完整目录与正文 →](https://www.bqgmz.top/b/1d4bd4ca53f9/)
+> 共 12 部分，[完整目录与正文 →](https://www.bqgmz.top/b/1d4bd4ca53f9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Yellow Pearl: A Story of the East and the West
 
-**作者** Teskey, Adeline M. (Adeline Margaret), -1924 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 14 题 · 124,506 字 ｜ **来源** Project Gutenberg
+**作者** Teskey, Adeline M. (Adeline Margaret), -1924 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 3 部分 · 124,506 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/30da8c117cee/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（124,506 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,893 字。 |
+| 分章依据 | 按「部分」标记切分为 3 部分（fallback-chunk），拼接正文 3,456 行。 |
+| 篇幅分布 | 平均每部分 41,502 字。 |
 | 原文溯源 | `cache/epub/57473/pg57473.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 部分）
 
-1. THE YELLOW PEARL
-2. A Story of the East and the West
-3. ADELINE M. TESKEY
-4. THE YELLOW PEARL
-5. ADELINE M. TESKEY
-6. THE YELLOW PEARL
-7. I shook my head, and he said:
-8. I stepped nearer, put my arm around her, and kissed her on the cheek.
-9. SEASIDE, _July 31st, 1----_
-10. I repeated the lines which I had heard them sing in the church.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/30da8c117cee/)
+> 共 3 部分，[完整目录与正文 →](https://www.bqgmz.top/b/30da8c117cee/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

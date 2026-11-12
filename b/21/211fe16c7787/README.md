@@ -1,7 +1,7 @@
 # Japhet in Search of a Father
 
-**作者** Marryat, Frederick, 1792-1848 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 102 题 · 642,008 字 ｜ **来源** Project Gutenberg
+**作者** Marryat, Frederick, 1792-1848 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 35 篇 · 642,008 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/211fe16c7787/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（642,008 字）。 |
-| 分章依据 | 按「题」标记切分为 102 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,294 字。 |
+| 分章依据 | 按「篇」标记切分为 35 篇（通用标记切分），拼接正文 15,673 行。 |
+| 篇幅分布 | 平均每篇 18,306 字；最长 WHEN AT THE LOWEST SPOKE OF FORTUNE'S WHEEL, ONE IS SURE TO RISE AS IT（1）（55,496 字），最短 IN WHICH MELCHIOR TALKS VERY MUCH LIKE AN ASTROLOGER, AND TIM AND I（6,788 字）。 |
 | 原文溯源 | `cache/epub/24470/pg24470.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Produced by Nick Hodson of London, England
-2. JAPHET IN SEARCH OF A FATHER, BY CAPTAIN FREDERICK MARRYAT.
-3. PART ONE, CHAPTER ONE.
-4. PART ONE, CHAPTER TWO.
-5. PART ONE, CHAPTER THREE.
-6. PART ONE, CHAPTER FOUR.
-7. PART ONE, CHAPTER FIVE.
-8. PART ONE, CHAPTER SIX.
-9. PART ONE, CHAPTER SEVEN.
-10. PART ONE, CHAPTER EIGHT.
+1. LIKE MOST OTHER CHILDREN, WHO SHOULD BE MY GODFATHER IS DECIDED BY
+2. LIKE ALL TYROS, I FIND THE RUDIMENTS OF LEARNING EXTREMELY DIFFICULT AND
+3. I PERFORM A WONDERFUL CURE UPON SAINT JOHN LONG'S PRINCIPLE, HAVING
+4. VERY MUCH PUZZLED WITH A NEW PATIENT, NEVERTHELESS TAKE MY DEGREE AT
+5. MY PRESCRIPTIONS VERY EFFECTIVE AND PALATABLE, BUT I LOSE MY PATIENT--
+6. LOOKING OUT FOR BUSINESS NOT EXACTLY MINDING YOUR OWN BUSINESS--THE LOSS
+7. WE TAKE A COACH, BUT THE DRIVER DOES NOT LIKE HIS FARE AND HITS US
+8. IN WHICH THE ADVENTURES IN THE WAGGON ARE CONTINUED, AND WE BECOME MORE
+9. IN WHICH THE READER IS INTRODUCED TO SEVERAL NEW AQUAINTANCES, AND ALL
+10. WHATEVER MAY BE THE OPINION OF THE READER, HE CANNOT ASSERT THAT WE ARE
 
-> 共 102 题，[完整目录与正文 →](https://www.bqgmz.top/b/211fe16c7787/)
+> 共 35 篇，[完整目录与正文 →](https://www.bqgmz.top/b/211fe16c7787/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

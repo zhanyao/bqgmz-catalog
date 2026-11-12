@@ -1,7 +1,7 @@
 # Het Leven der Dieren: Deel 2, Hoofdstuk 02: De Papegaaien; Hoofdstuk 03: De Duifvogels
 
-**作者** Brehm, Alfred Edmund, 1829-1884 ｜ **国家/地区** 荷兰 ｜ **体例** 段  
-**规模** 12 段 · 243,934 字 ｜ **来源** Project Gutenberg
+**作者** Brehm, Alfred Edmund, 1829-1884 ｜ **国家/地区** 荷兰 ｜ **体例** 部分  
+**规模** 6 部分 · 243,934 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/262b0094668e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（243,934 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,327 字；最长 De voortplanting der Papegaaien heeft plaats in de maanden, （39,554 字），最短 De aard en de gewoonten van de Woestijnhoenderen zijn（4,390 字）。 |
+| 分章依据 | 按「部分」标记切分为 6 部分（fallback-chunk），拼接正文 4,879 行。 |
+| 篇幅分布 | 平均每部分 40,655 字；最长 第 1 部分（42,948 字），最短 第 6 部分（29,669 字）。 |
 | 原文溯源 | `cache/epub/27945/pg27945.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 6 部分）
 
-1. De voortplanting der Papegaaien heeft plaats in de maanden,
-2. Alle Amazonen, van welker levenswijze berichten tot ons zijn
-3. Het naast verwant aan de vorige groep zijn de leden van de k
-4. De Vleermuispapegaaien (Coryllis of Loriculus), die door som
-5. Een der meest bekende vertegenwoordigers van het geslacht is
-6. Op Nieuw-Guinea en de naburige eilanden, vooral op Salawatti
-7. Tot dezelfde uitkomst leidt het onderzoek van de werktuigen
-8. De eerste van de vier onderfamiliën, waarin Reichenow de Dui
-9. Gevangen Woudduiven worden tamelijk tam en kunnen vele jaren
-10. De Tortels, die reeds van oudsher door de dichters als zinne
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/262b0094668e/)
+> 共 6 部分，[完整目录与正文 →](https://www.bqgmz.top/b/262b0094668e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

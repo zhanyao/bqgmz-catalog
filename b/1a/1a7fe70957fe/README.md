@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（402,499 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 36,590 字；最长 CHAPTER X（87,943 字），最短 CHAPTER IX（8,002 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「4. The mobility of a city population inc」。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 10,894 行。 |
+| 篇幅分布 | 平均每章 36,147 字；最长 bibliography was compiled, and whose contents could therefore not be（136,663 字），最短 CHAPTER X（3,226 字）。 |
 | 原文溯源 | `cache/epub/73285/pg73285.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -32,4 +31,4 @@
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/1a7fe70957fe/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

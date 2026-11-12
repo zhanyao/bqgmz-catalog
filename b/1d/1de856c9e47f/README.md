@@ -1,7 +1,7 @@
 # Storia di Milano, vol. 1
 
-**作者** Verri, Pietro, 1728-1797 ｜ **国家/地区** 意大利 ｜ **体例** 段  
-**规模** 31 段 · 631,462 字 ｜ **来源** Project Gutenberg
+**作者** Verri, Pietro, 1728-1797 ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 13 章 · 631,462 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1de856c9e47f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（631,462 字）。 |
-| 分章依据 | 按「段」标记切分为 31 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,369 字；最长 Attese quindi indefessamente a preparare la riforma della ta（39,272 字），最短 [554] Nuove leggi promulgate furono contra gli eretici, dei （10,816 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 12,347 行。 |
+| 篇幅分布 | 平均每章 48,574 字；最长 CAPITOLO III.（5）（59,787 字），最短 CAPITOLO X.（2）（15,176 字）。 |
 | 原文溯源 | `cache/epub/60497/pg60497.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Attese quindi indefessamente a preparare la riforma della ta
-2. Riferirò per ultimo alcune sue riflessioni sull'influenza de
-3. Altri furono di parere che altre città della Gallia e d'Albi
-4. Sanno gli eruditi che Costantino, temendo la troppo estesa p
-5. Il regno dei Goti durò sulla Italia per lo spazio di sessant
-6. Abbiamo una moneta di Carlo Magno coniata in Milano, e la co
-7. Erano già trascorsi quindici anni dacchè l'augusto Berengari
-8. Ma lasciamo qualche spazio fra gli orribili casi di quel sec
-9. Da Milano passò a Roma Ottone, che ben si merita il nome di
-10. Rimase così quasi sovrano Ariberto alla testa della sua citt
+1. CAPITOLO III.（1）
+2. CAPITOLO III.（2）
+3. CAPITOLO III.（3）
+4. CAPITOLO III.（4）
+5. CAPITOLO III.（5）
+6. CAPITOLO III.（6）
+7. CAPITOLO VII.（1）
+8. CAPITOLO VII.（2）
+9. CAPITOLO VII.（3）
+10. CAPITOLO X.（1）
 
-> 共 31 段，[完整目录与正文 →](https://www.bqgmz.top/b/1de856c9e47f/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/1de856c9e47f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Evangelical Lutheran hymn-book
 
-**作者** Lutheran Church--Missouri Synod ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 26 段 · 538,209 字 ｜ **来源** Project Gutenberg
+**作者** Lutheran Church--Missouri Synod ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 538,209 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2d67d3411616/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（538,209 字）。 |
-| 分章依据 | 按「段」标记切分为 26 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,700 字；最长 Luke 1, 46-55.（39,973 字），最短 Jesus, still lead on, 331（17,908 字）。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 28,768 行。 |
+| 篇幅分布 | 平均每篇 11,090 字。 |
 | 原文溯源 | `cache/epub/76498/pg76498.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 4 篇）
 
-1. Luke 1, 46-55.
-2. 5. And gently grant Thy blessing
-3. 6. Come near and bless us when we wake,
-4. Thee we adore, eternal Lord!
-5. 2. Jesus I will never leave
-6. 2. The Church from her dear Master
-7. 3. Now hear, ye bold transgressors,
-8. 3. Thanks for mercies past receive,
-9. 4. Let us, O Lord, be faithful
-10. 4. O Christ, turn not away from me,
+1. When the day of toil is done, When the race of life is run, Father, grant Thy wearied one Rest forevermore. 2. When the strife of sin is stilled, When the foe within is killed, Be Thy gracious word fulfilled, “Peace forevermore.” 3. When the darkness melts away At the breaking of the day, Bid us hail the cheering ray, Light forevermore. 4. When the heart, by sorrow tried, Feels at length its throbs subside, Bring us where all tears are dried, Joy forevermore. 5. When for vanished days we yearn, Days that never can return, Teach us in Thy love to learn Love forevermore. 6. When the breath of life is flown, When the grave must claim its own, Lord of life, be ours Thy crown,— Life forevermore. J. Ellerton, 1871. 10, 10, 5
+2. O how blest are ye whose toils are ended! Who through death have unto God ascended! Ye have arisen From the cares which keep us still in prison. 2. We are still as in a dungeon living, Still oppressed with sorrow and misgiving; Our undertakings Are but toils and troubles and heartbreakings. 3. Ye, meanwhile, are in your chambers sleeping, Quiet, and set free from all our weeping; No cross or sadness There can hinder your untroubled gladness. 4. Christ has wiped away your tears forever; Ye have that for which we still endeavor; To you are chanted Songs that ne’er to mortal ears were granted. 5. Ah! who would, then, not depart with gladness To inherit heaven for earthly sadness? Who here would languish Longer in bewailing and in anguish? 6. Come, O Christ, and loose the chains that bind us! Lead us forth and cast this world behind us! With Thee, th’ Anointed, Finds the soul its joy and rest appointed. S. Dach, 1635; H. W. Longfellow, tr., a. 8, 7, 6 l O’er the distant mountains breaking Comes the redd’ning dawn of day; Rise, my soul, from sleep awaking, Rise, and sing, and watch, and pray; |: ’Tis thy Savior, :| On His bright returning way. 2. O Thou long-expected, weary Waits my anxious soul for Thee; Life is dark, and earth is dreary, Where Thy light I do not see; |: O my Savior, :| When wilt Thou return to me? 3. Nearer is my soul’s salvation, Spent the night, the day at hand; Keep me in my lowly station, Watching for Thee, till I stand, |: O my Savior, :| In Thy bright, Thy promised land. 4. With my lamp well trimmed and burning, Swift to hear and loath to roam, Watching for Thy glad returning To restore me to my home. |: Come, my Savior, :| Thou hast promised: quickly come. J. S. B. Monsell, 1863, a. 8, 9, 8, 6, 6, 4, 8
+3. Wake, awake, for night is flying, The watchmen on the heights are crying: Awake, Jerusalem, arise! Midnight hears the welcome voices, And at the thrilling cry rejoices; O where are ye, ye virgins wise? The Bridegroom comes, awake! Your lamps with gladness take! Hallelujah! With bridal care Yourselves prepare To meet the Bridegroom, who is near! 2. Zion hears the watchmen singing, And all her heart with joy is springing, She wakes, she rises from her gloom; For her Lord comes down all glorious, The strong in grace, in truth victorious, Her Star is risen, her Light is come! Now come, Thou Blessed One, Lord Jesus, God’s own Son, Hail! Hosanna! The joyful call We answer all, And follow to the nuptial hall. 3. Glory unto Thee be given, By men and by the host of heaven, With harp and cymbal’s clearest tone; Of one pearl each shining portal, Where we are with the choir immortal Of angels round Thy dazzling throne. Nor eye hath seen, nor ear Hath yet attained to hear Such great glory; Therefore will we Eternally Sing hymns of joy and praise to Thee. Ph. Nicolai, 1599; Comp. tr. L. M. Let thoughtless thousands choose the road That leads the soul away from God; This happiness, dear Lord, be mine, To live and die entirely Thine. 2. On Christ, by faith, I fain would live, From Him my life, my all, receive, To Him devote my fleeting hours, Serve Him alone with all my powers. 3. Christ is my everlasting All; To Him I look, on Him I call; He will my every want supply In time and through eternity. 4. Soon will the Lord, my Life, appear; Soon shall I end my trials here, Leave sin and sorrow, death and pain; To live is Christ, to die is gain. 5. Soon will the saints in glory meet, Soon walk through every golden street, And sing on every blissful plain,— To live is Christ, to die is gain. J. Haskins, 1789. L. M. That day of wrath, that dreadful day, When heaven and earth shall pass away! What power shall be the sinner’s stay? How shall he meet that dreadful day? 2. When, shriveling like a parchèd scroll, The flaming heavens together roll; When louder yet, and yet more dread, Swells the high trump that wakes the dead: 3. Lord, on that day, that wrathful day, When man to Judgment wakes from clay, Be Thou the trembling sinner’s stay, Though heaven and earth shall pass away. Thomas of Celano, 13th cent.; Walter Scott, 1805, a. 8, 7, 8, 7, 8, 8
+4. The day is surely drawing near When God’s Son, the Anointed, Shall with great majesty appear As Judge of all appointed. All mirth and laughter then shall cease, When flames on flames will still increase, As the Apostle teacheth. 2. A trumpet loud shall then resound, And all the earth be shaken; Then all who in their graves are found Shall from their sleep awaken; But all that live shall in that hour By the Almighty’s boundless power Be changed at His commanding. 3. A book is opened then to all, A record truly telling What each hath done, both great and small, When he on earth was dwelling; And every heart be clearly seen, And all be known as they have been, In thoughts and words and actions. 4. Then woe to those who scorned the Lord And sought but carnal pleasures, Who here despised His precious Word And loved their earthly treasures! With shame and trembling they will stand And at the Judge’s stern command To Satan be delivered. 5. O Jesus, who my debt didst pay And for my sin wast smitten, Within the book of life, O may My name be also written! I will not doubt; I trust in Thee, From Satan Thou hast made me free And from all condemnation. 6. Therefore my Intercessor be, And for Thy bloody merit Declare my name from judgment free, With all who life inherit; That I may see Thee face to face With all Thy saints in that blest place Which Thou for us hast purchased. 7. O Jesus Christ, do not delay, But hasten our salvation! We often tremble on our way In fear and tribulation. Then hear us when we cry to Thee; Come, mighty Judge, and make us free From every evil! Amen. B. Ringwaldt, † 1599; P. A. Peter, 1880, tr., a. 8, 7, 8, 7, 8, 8
 
-> 共 26 段，[完整目录与正文 →](https://www.bqgmz.top/b/2d67d3411616/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/2d67d3411616/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

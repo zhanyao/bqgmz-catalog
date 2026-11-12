@@ -1,7 +1,7 @@
 # My experiences while out of my body
 
-**作者** Richmond, Cora L. V. (Cora Linn Victoria), 1840-1923 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 35 题 · 59,649 字 ｜ **来源** Project Gutenberg
+**作者** Richmond, Cora L. V. (Cora Linn Victoria), 1840-1923 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 28 篇 · 59,649 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/21ca092fee67/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（59,649 字）。 |
-| 分章依据 | 按「题」标记切分为 35 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,704 字。 |
+| 分章依据 | 按「篇」标记切分为 28 篇（通用标记切分），拼接正文 1,470 行。 |
+| 篇幅分布 | 平均每篇 2,123 字。 |
 | 原文溯源 | `cache/epub/74135/pg74135.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. AND
-2. My Return After Many Days
-3. DEDICATION
-4. PRIMARILY TO MY HEAVENLY GUIDES:
-5. TO THOSE BELOVED FRIENDS
-6. CORA L. V. RICHMOND.
-7. REV. CORA L. V. RICHMOND
-8. THE RELEASE
-9. THE VASTNESS OF THE SPIRIT REALM
-10. SENSES MERGED IN PERCEPTION
+1. PRIMARILY TO MY HEAVENLY GUIDES:
+2. TO THOSE BELOVED FRIENDS
+3. THE RELEASE
+4. SENSES MERGED IN PERCEPTION
+5. THE BODY IN CHARGE OF GUARDIANS
+6. A VAST CONGREGATION
+7. MINISTRATIONS OF SPIRITS
+8. THOUGHT-FORMS
+9. TIME NOT A FACTOR
+10. THE TRULY GREAT ARE HUMBLE
 
-> 共 35 题，[完整目录与正文 →](https://www.bqgmz.top/b/21ca092fee67/)
+> 共 28 篇，[完整目录与正文 →](https://www.bqgmz.top/b/21ca092fee67/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

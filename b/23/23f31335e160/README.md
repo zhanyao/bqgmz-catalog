@@ -1,7 +1,7 @@
 # The Old Willow Tree, and Other Stories
 
 **作者** Ewald, Carl, 1856-1908; Jacobs, Helen, 1888-1970 [Illustrator]; Lee, G. E. [Illustrator]; Teixeira de Mattos, Alexander, 1865-1921 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 148,151 字 ｜ **来源** Project Gutenberg
+**规模** 11 章 · 148,151 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/23f31335e160/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（148,151 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,815 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-num），拼接正文 4,508 行。 |
+| 篇幅分布 | 平均每章 13,079 字。 |
 | 原文溯源 | `cache/epub/31167/pg31167.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I _Page_
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. Now the farmer could not hear this, but
+1. 2
+2. 3
+3. 4
+4. 5
+5. 6
+6. 7
+7. 8
+8. 9
+9. 10
+10. 11
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/23f31335e160/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/23f31335e160/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

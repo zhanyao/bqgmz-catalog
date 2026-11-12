@@ -1,7 +1,7 @@
 # Rural Life and the Rural School
 
 **作者** Kennedy, Joseph, 1858-1937 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 15 章 · 221,139 字 ｜ **来源** Project Gutenberg
+**规模** 16 章 · 221,139 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2b50c93d5ad6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（221,139 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,742 字；最长 CHAPTER XV（24,079 字），最短 CHAPTER XIII（9,412 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XV」。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 4,864 行。 |
+| 篇幅分布 | 平均每章 13,292 字；最长 CHAPTER IX（17,099 字），最短 BIBLIOGRAPHY（8,754 字）。 |
 | 原文溯源 | `cache/epub/29600/pg29600.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/2b50c93d5ad6/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/2b50c93d5ad6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

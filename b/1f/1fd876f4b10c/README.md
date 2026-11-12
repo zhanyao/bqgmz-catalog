@@ -1,7 +1,7 @@
 # Punch, or The London Charivari, Vol. 62, January 20, 1872
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 21 题 · 37,402 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 37,402 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1fd876f4b10c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（37,402 字）。 |
-| 分章依据 | 按「题」标记切分为 21 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,781 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 1,118 行。 |
+| 篇幅分布 | 平均每篇 8,964 字。 |
 | 原文溯源 | `cache/epub/37639/pg37639.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 篇）
 
-1. COMPLIMENTS OF THE SEASON.
-2. CASE OF REAL DISTRESS.
-3. A DISTINGUISHED "FRIEND."
-4. HOME-RULE.
-5. OUR POCKET-BOOK AGAIN.
-6. EVENINGS FROM HOME.
-7. THE FOURTH R IN MERTHYR.
-8. SUCH A BOOK!
-9. HISTORIANS AND HERETICS.
-10. FROM GALWAY TO CANDY.
+1. A DISTINGUISHED "FRIEND."
+2. YOUR CIGAR OUT _PRO TEM_.?"
+3. FOR ME, DO YOU?"
+4. HERE!"
 
-> 共 21 题，[完整目录与正文 →](https://www.bqgmz.top/b/1fd876f4b10c/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/1fd876f4b10c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

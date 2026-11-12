@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（271,627 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,060 字；最长 CHAPTER XXV.—CROSS-CUTTING IN THE MINE.（15,491 字），最短 CHAPTER III.—THE BANNER FORCE.（6,650 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-chapter），拼接正文 7,079 行。 |
+| 篇幅分布 | 平均每章 9,894 字；最长 CHAPTER XXV.—CROSS-CUTTING IN THE MINE.（15,491 字），最短 CHAPTER I.—VANCE GILDER.（6,460 字）。 |
 | 起止 | 始于「CHAPTER I.—VANCE GILDER.」，止于「CHAPTER XXVII.—AT LAST!」。 |
 | 原文溯源 | `cache/epub/52458/pg52458.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/2472557aa418/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

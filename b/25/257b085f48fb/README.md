@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（245,378 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,815 字；最长 CHAPTER I--A RED LETTER DAY INDEED（14,445 字），最短 CHAPTER VIII--REFORMING A "PIRATE"（5,094 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 7,583 行。 |
+| 篇幅分布 | 平均每章 9,765 字；最长 CHAPTER I--A RED LETTER DAY INDEED（13,192 字），最短 CHAPTER VIII--REFORMING A "PIRATE"（5,094 字）。 |
 | 起止 | 始于「CHAPTER I--A RED LETTER DAY INDEED」，止于「CHAPTER XXV--WELCOME HOME」。 |
 | 原文溯源 | `cache/epub/36251/pg36251.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/257b085f48fb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

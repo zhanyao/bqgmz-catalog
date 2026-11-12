@@ -1,7 +1,7 @@
 # Maids, Wives, and Bachelors
 
-**作者** Barr, Amelia E., 1831-1919 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 38 题 · 267,829 字 ｜ **来源** Project Gutenberg
+**作者** Barr, Amelia E., 1831-1919 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 35 章 · 267,829 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/26c4869177db/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（267,829 字）。 |
-| 分章依据 | 按「题」标记切分为 38 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,048 字。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-toc-title-list），拼接正文 5,782 行。 |
+| 篇幅分布 | 平均每章 7,619 字；最长 Discontented Women（17,498 字），最短 A Good Word for Xanthippe（3,579 字）。 |
 | 原文溯源 | `cache/epub/32135/pg32135.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. MAIDS WIVES AND BACHELORS
-2. CONTENTS
-3. Maids and Bachelors
-4. The American Girl
-5. Dangerous Letter-Writing
-6. Flirts and Flirtation
-7. On Falling in Love
-8. Engaged To Be Married
-9. I venture to say the proportion would be very small indeed.
-10. The Ring Upon the Finger
+1. Maids and Bachelors
+2. The American Girl
+3. Dangerous Letter-Writing
+4. Flirts and Flirtation
+5. On Falling in Love
+6. Engaged To Be Married
+7. Shall our Daughters have Dowries?
+8. The Ring Upon the Finger
+9. Flirting Wives
+10. Mothers-in-Law
 
-> 共 38 题，[完整目录与正文 →](https://www.bqgmz.top/b/26c4869177db/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/26c4869177db/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

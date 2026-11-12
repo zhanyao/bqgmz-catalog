@@ -1,7 +1,7 @@
 # Les conversations d'Émilie
 
-**作者** Epinay, Louise Florence Pétronille Tardieu d'Esclavelles, marquise d', 1726-1783 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 10 段 · 215,421 字 ｜ **来源** Project Gutenberg
+**作者** Epinay, Louise Florence Pétronille Tardieu d'Esclavelles, marquise d', 1726-1783 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 201 章 · 215,421 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/25bf9b890008/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（215,421 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,542 字；最长 Non, mon enfant, il est tard, nous allons nous promener, & s（39,754 字），最短 Le souper fait, les Fées prirent congé de la compagnie, chac（15,601 字）。 |
+| 分章依据 | 按「章」标记切分为 201 章（auto-caps-sections），拼接正文 9,112 行。 |
+| 篇幅分布 | 平均每章 1,071 字；最长 LA MERE.（19,525 字），最短 LA MERE.（309 字）。 |
 | 原文溯源 | `cache/epub/77364/pg77364.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Non, mon enfant, il est tard, nous allons nous promener, & s
-2. «Un jour que Monsieur & Madame d’Orville se promenoient dans
-3. Je m’en suis bien apperçue; car l’autre jour en lisant l’his
+1. LA MERE.
+2. EMILIE.
+3. LA MERE.
 4. LA MERE.
-5. Cela est vrai. «Pour moi, disoit-il, si j’ai la vue un peu f
-6. Ah! il faut vous rassurer & vous montrer que j’ai toute cell
-7. C’est pour cela qu’il faut interroger votre conscience; il n
-8. «Vous voyez, ma fille, continua-t-elle, en adressant la paro
-9. De son côté, Reinette n’étoit point insensible au mérite du
-10. Le souper fait, les Fées prirent congé de la compagnie, chac
+5. LA MERE.
+6. EMILIE.
+7. EMILIE.
+8. LA MERE.
+9. LA MERE.
+10. LA MERE.
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/25bf9b890008/)
+> 共 201 章，[完整目录与正文 →](https://www.bqgmz.top/b/25bf9b890008/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

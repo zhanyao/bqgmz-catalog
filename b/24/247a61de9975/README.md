@@ -1,7 +1,7 @@
 # Letters to Persons Who Are Engaged in Domestic Service
 
-**作者** Beecher, Catharine Esther, 1800-1878 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 9 段 · 197,052 字 ｜ **来源** Project Gutenberg
+**作者** Beecher, Catharine Esther, 1800-1878 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 23 章 · 197,052 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/247a61de9975/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（197,052 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,894 字；最长 I will now tell you a little about the way this good man man（39,539 字），最短 Assort the clothes and put the white ones in soak over night（17,147 字）。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-toc-title-list），拼接正文 4,540 行。 |
+| 篇幅分布 | 平均每章 8,324 字。 |
 | 原文溯源 | `cache/epub/57985/pg57985.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. I will now tell you a little about the way this good man man
-2. Why is the office of a king or queen the most honourable of
-3. In all of these employments, a young woman has only one thin
-4. Another Apostle thus commands, by the authority of God, 1 Pe
-5. I would advise you, therefore, when you are deciding whether
-6. Another branch of good breeding relates to _table manners_.
-7. It is very unwise to be roving from one family to another. I
-8. The great art of good cooking is _taking care_. Take care th
-9. Assort the clothes and put the white ones in soak over night
+1. The station of domestics important, respectable, and
+2. state of things in this country
+3. of things in this country
+4. LETTER V.
+5. honourable and respectable
+6. LETTER VI.
+7. The importance of raising the respectability of the
+8. On the duties of subordination. Rules of the Bible.
+9. On Visiting, Company, and Religious Meetings. On going
+10. illustrate
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/247a61de9975/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/247a61de9975/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

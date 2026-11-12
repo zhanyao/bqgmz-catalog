@@ -1,7 +1,7 @@
 # The Long Dim Trail
 
-**作者** Hooker, Forrestine C. (Forrestine Cooper), 1867-1932 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 73 题 · 493,418 字 ｜ **来源** Project Gutenberg
+**作者** Hooker, Forrestine C. (Forrestine Cooper), 1867-1932 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 9 篇 · 493,418 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/300a6c69bf4f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（493,418 字）。 |
-| 分章依据 | 按「题」标记切分为 73 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,759 字。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（auto-title-block），拼接正文 12,523 行。 |
+| 篇幅分布 | 平均每篇 44,489 字；最长 and Donnie."（86,056 字），最短 CHAPTER SEVEN（5,702 字）。 |
 | 原文溯源 | `cache/epub/39937/pg39937.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 篇）
 
-1. THE LONG DIM TRAIL
-2. By FORRESTINE C. HOOKER
-3. Published by arrangement with Alfred A. Knopf
-4. PRINTED IN THE UNITED STATES OF AMERICA
-5. F. C. H.
-6. PART ONE
-7. CHAPTER ONE
-8. CHAPTER TWO
-9. CHAPTER THREE
-10. CHAPTER FOUR
+1. CHAPTER SEVEN
+2. CHAPTER EIGHT
+3. CHAPTER FOURTEEN
+4. CHAPTER TWENTY
+5. and Donnie."
+6. CHAPTER THIRTY-ONE
+7. CUTHBERT POWELL
+8. CHAPTER THIRTY-FOUR
+9. CHAPTER THIRTY-NINE
 
-> 共 73 题，[完整目录与正文 →](https://www.bqgmz.top/b/300a6c69bf4f/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/300a6c69bf4f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

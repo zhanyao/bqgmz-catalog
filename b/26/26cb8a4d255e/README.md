@@ -1,7 +1,7 @@
 # The Fourth "R"
 
-**作者** Smith, George O. (George Oliver), 1911-1981 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 64 题 · 298,847 字 ｜ **来源** Project Gutenberg
+**作者** Smith, George O. (George Oliver), 1911-1981 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 298,847 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/26cb8a4d255e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（298,847 字）。 |
-| 分章依据 | 按「题」标记切分为 64 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,669 字。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 8,038 行。 |
+| 篇幅分布 | 平均每章 16,579 字；最长 CHAPTER FOURTEEN（27,998 字），最短 CHAPTER THIRTEEN（4,462 字）。 |
 | 原文溯源 | `cache/epub/18602/pg18602.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE FOURTH "R"
-2. By George O. Smith
-3. First Dell printing--April 1979
-4. BOOK ONE:
-5. FUTURE IMPROMPTU
-6. CHAPTER ONE
-7. The stranger eyed the flames and shuddered. "In there?"
-8. Brennan shrugged. "I thought perhaps--"
-9. So was the word "Farewell."
-10. CHAPTER TWO
+1. BOOK ONE:
+2. CHAPTER TWO
+3. CHAPTER THREE
+4. CHAPTER FOUR
+5. CHAPTER FIVE
+6. CHAPTER SIX
+7. CHAPTER SEVEN
+8. CHAPTER EIGHT
+9. CHAPTER NINE
+10. CHAPTER TEN
 
-> 共 64 题，[完整目录与正文 →](https://www.bqgmz.top/b/26cb8a4d255e/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/26cb8a4d255e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

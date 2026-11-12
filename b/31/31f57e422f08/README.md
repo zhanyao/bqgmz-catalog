@@ -1,7 +1,7 @@
 # Ireland in Travail
 
 **作者** Loch, Joice NanKivell, 1893-1982; Loch, Sydney, 1889-1954 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 29 章 · 328,289 字 ｜ **来源** Project Gutenberg
+**规模** 30 章 · 328,289 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/31f57e422f08/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（328,289 字）。 |
-| 分章依据 | 按「章」标记切分为 29 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,320 字；最长 CHAPTER VII THE BIRTH OF SINN FEIN（20,820 字），最短 CHAPTER V WE SETTLE IN（3,071 字）。 |
-| 起止 | 始于「CHAPTER I 47--AGENT」，止于「CHAPTER XXIX LOOKING BACK」。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-chapter），拼接正文 8,862 行。 |
+| 篇幅分布 | 平均每章 10,837 字；最长 CHAPTER VII THE BIRTH OF SINN FEIN（20,820 字），最短 CHAPTER V WE SETTLE IN（3,071 字）。 |
 | 原文溯源 | `cache/epub/63334/pg63334.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX THE HUNGER STRIKE
 10. CHAPTER X BLOODY SUNDAY
 
-> 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/31f57e422f08/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/31f57e422f08/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

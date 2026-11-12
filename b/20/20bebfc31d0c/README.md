@@ -1,7 +1,7 @@
 # Beatrice（#24830）
 
-**作者** Haggard, H. Rider (Henry Rider), 1856-1925; Baarslag, C. [Translator] ｜ **国家/地区** 荷兰 ｜ **体例** 段  
-**规模** 25 段 · 511,201 字 ｜ **来源** Project Gutenberg
+**作者** Haggard, H. Rider (Henry Rider), 1856-1925; Baarslag, C. [Translator] ｜ **国家/地区** 荷兰 ｜ **体例** 部分  
+**规模** 13 部分 · 511,201 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/20bebfc31d0c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（511,201 字）。 |
-| 分章依据 | 按「段」标记切分为 25 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,448 字；最长 "En waarom denkt gij, dat ik een groot man zal worden?" vroe（39,480 字），最短 Nu was hij er. "Hoe is 't met Effie?" vroeg hij den knecht, （10,682 字）。 |
+| 分章依据 | 按「部分」标记切分为 13 部分（fallback-chunk），拼接正文 12,294 行。 |
+| 篇幅分布 | 平均每部分 39,323 字；最长 第 6 部分（42,281 字），最短 第 13 部分（6,612 字）。 |
 | 原文溯源 | `cache/epub/24830/pg24830.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. "En waarom denkt gij, dat ik een groot man zal worden?" vroe
-2. De toegesprokene beaamde dit, en de dikke man in een zwarten
-3. "En wat kwam mijnheer Davies hier op dit uur van den avond d
-4. Daarna herinnerde hij zich niets anders dan een ruischend ge
-5. Lady Honoria was toen achttien jaar en een schoonheid van he
-6. Zij luisterde naar die krachtige en ernstige stem, die later
-7. Beatrice aarzelde, en hernam toen: "Wij zijn een zonderling
-8. "En nu, broederen," zeide hij, "heb ik u over de Christelijk
-9. Intusschen liep Beatrice in een alles behalve geruste gemoed
-10. Het mag wel vermeld worden, dat Geoffrey's raad niet geheel
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 25 段，[完整目录与正文 →](https://www.bqgmz.top/b/20bebfc31d0c/)
+> 共 13 部分，[完整目录与正文 →](https://www.bqgmz.top/b/20bebfc31d0c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

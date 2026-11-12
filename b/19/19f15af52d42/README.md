@@ -1,7 +1,7 @@
 # Notes on the natural history of the Bell Rock
 
-**作者** Campbell, J. M. (John MacLean); Murdoch, James [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 9 段 · 191,158 字 ｜ **来源** Project Gutenberg
+**作者** Campbell, J. M. (John MacLean); Murdoch, James [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 153 篇 · 191,158 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/19f15af52d42/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（191,158 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,239 字；最长 The lights shown from lighthouses have all special character（38,715 字），最短 The horse in question had, with his driver, been employed in（11,036 字）。 |
+| 分章依据 | 按「篇」标记切分为 153 篇（通用标记切分），拼接正文 3,914 行。 |
+| 篇幅分布 | 平均每篇 1,244 字。 |
 | 原文溯源 | `cache/epub/73228/pg73228.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 篇）
 
-1. The lights shown from lighthouses have all special character
-2. The few boats which have been prosecuting the lobster fishin
-3. Boisterous weather prevailing for the greater part of this m
-4. Signs of uneasiness and unrest are now apparent amongst our
-5. Another fallacy common amongst fishing communities on the We
-6. Bright, sunny weather characterised the opening day of the y
-7. On the afternoon of the 16th, two days earlier than last yea
-8. Cooped indoors so long, one is glad to take advantage of the
-9. The horse in question had, with his driver, been employed in
+1. These desultory notes were originally undertaken at the instigation of
+2. At the termination of a nine years’ residence on the Rock, I have been
+3. In consequence probably of my connection of more than fifty years
+4. The origin, as well as the early history, of lighthouses is involved in
+5. The first lighthouse of any note of which we have authentic record
+6. Winstanley’s wooden structure to mark the Eddystone Rock off Plymouth
+7. The Commissioners of Northern Lighthouses accordingly resolved to erect
+8. The sanction of Government having to be procured before the erection of
+9. In a highly interesting lecture which the writer of the Notes delivered
+10. “In the centre of the floor stands the revolving machinery enclosed
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/19f15af52d42/)
+> 共 153 篇，[完整目录与正文 →](https://www.bqgmz.top/b/19f15af52d42/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Liverpool a few years since: by an old stager
 
 **作者** Aspinall, James, 1796?-1861 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 25 章 · 220,983 字 ｜ **来源** Project Gutenberg
+**规模** 26 章 · 220,983 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/3106832a07e5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（220,983 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,839 字；最长 CHAPTER I.（13,622 字），最短 CHAPTER IV.（5,973 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXV.」。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 4,349 行。 |
+| 篇幅分布 | 平均每章 8,169 字；最长 CHAPTER XXV.（11,786 字），最短 NOTES.（622 字）。 |
 | 原文溯源 | `cache/epub/40732/pg40732.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/3106832a07e5/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/3106832a07e5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

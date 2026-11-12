@@ -1,7 +1,7 @@
 # Three Years in Western China A Narrative of Three Journeys in Ssu-ch'uan, Kuei-chow, and Yün-nan
 
 **作者** Hosie, Alexander, Sir, 1853-1925 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 416,467 字 ｜ **来源** Project Gutenberg
+**规模** 13 章 · 416,467 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/30e41f5d5ff3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（416,467 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,029 字；最长 Sifan of Tzŭ-ta-ti.   Sifan of (?) Lu-ku（137,695 字），最短 CHAPTER V.（311 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 11,920 行。 |
+| 篇幅分布 | 平均每章 27,678 字；最长 CHAPTER XIII.（68,753 字），最短 CHAPTER I.（16,323 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XIII.」。 |
 | 原文溯源 | `cache/epub/44842/pg44842.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/30e41f5d5ff3/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/30e41f5d5ff3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

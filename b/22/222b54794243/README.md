@@ -1,7 +1,7 @@
 # By way of Cape Horn
 
-**作者** Stevenson, Paul Eve, 1868-1910 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 29 段 · 597,666 字 ｜ **来源** Project Gutenberg
+**作者** Stevenson, Paul Eve, 1868-1910 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 15 部分 · 597,666 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/222b54794243/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（597,666 字）。 |
-| 分章依据 | 按「段」标记切分为 29 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,609 字；最长 This was a glorious morning, with a fresh breeze from the so（38,864 字），最短 My wife and I were in our room a few minutes later discussin（16,800 字）。 |
+| 分章依据 | 按「部分」标记切分为 15 部分（fallback-chunk），拼接正文 12,421 行。 |
+| 篇幅分布 | 平均每部分 39,844 字；最长 第 13 部分（41,841 字），最短 第 15 部分（15,559 字）。 |
 | 原文溯源 | `cache/epub/75710/pg75710.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. This was a glorious morning, with a fresh breeze from the so
-2. We are now in the approximate position of the American iron
-3. Our fine breeze holds, but we are still hard on the wind; co
-4. Mr. Goggins has a stock phrase which is simply too absurd, w
-5. Although the American sailing ships have decreased in number
-6. For dinner to-day we had canned lobster, which came from the
-7. Last evening we were presented with a most exquisite panoram
-8. Meanwhile Karl remained where he fell, groaning, trying to s
-9. There was a vast deal of shouting and confusion on board all
-10. We thought that we had finished with the “Judas Dowes,” but
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 29 段，[完整目录与正文 →](https://www.bqgmz.top/b/222b54794243/)
+> 共 15 部分，[完整目录与正文 →](https://www.bqgmz.top/b/222b54794243/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

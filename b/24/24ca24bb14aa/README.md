@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（550,703 字）。 |
-| 分章依据 | 按「章」标记切分为 51 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,798 字；最长 CHAPTER I. THE CITY OF WYTHBURN.（25,372 字），最短 CHAPTER XXVI. “FOOL, DO NOT FLATTER.”（1,176 字）。 |
+| 分章依据 | 按「章」标记切分为 51 章（auto-chapter），拼接正文 15,812 行。 |
+| 篇幅分布 | 平均每章 10,723 字；最长 CHAPTER XLII. THE FATAL WITNESS.（24,796 字），最短 CHAPTER XXVI. “FOOL, DO NOT FLATTER.”（1,176 字）。 |
 | 起止 | 始于「CHAPTER I. THE CITY OF WYTHBURN.」，止于「CHAPTER LI. SIX MONTHS AFTER.」。 |
 | 原文溯源 | `cache/epub/14262/pg14262.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 51 章，[完整目录与正文 →](https://www.bqgmz.top/b/24ca24bb14aa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

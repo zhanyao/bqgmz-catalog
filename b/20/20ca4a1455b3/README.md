@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（832,810 字）。 |
-| 分章依据 | 按「章」标记切分为 34 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,494 字；最长 CHAPTER VIII. MR. O’KELLY’S TALE.--CONCLUDED（64,821 字），最短 CHAPTER XXVII. THE RECOVERY HOUSE（9,010 字）。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-chapter），拼接正文 18,222 行。 |
+| 篇幅分布 | 平均每章 23,767 字；最长 CHAPTER VIII. MR. O’KELLY’S TALE.--CONCLUDED（64,821 字），最短 CHAPTER XXVII. THE RECOVERY HOUSE（9,010 字）。 |
 | 起止 | 始于「CHAPTER I. THE “ATTWOOD.”」，止于「CHAPTER XXXIV. THE HERR. DIRECTOR KLUG.」。 |
 | 原文溯源 | `cache/epub/32424/pg32424.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/20ca4a1455b3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

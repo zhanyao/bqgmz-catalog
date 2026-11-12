@@ -1,7 +1,7 @@
 # The Robber Baron of Bedford Castle
 
-**作者** Foster, A. J.; Cuthell, Edith E., -1929 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 10 题 · 223,824 字 ｜ **来源** Project Gutenberg
+**作者** Foster, A. J.; Cuthell, Edith E., -1929 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 5 篇 · 223,824 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2750aea2a509/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（223,824 字）。 |
-| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 22,382 字。 |
+| 分章依据 | 按「篇」标记切分为 5 篇（auto-title-block），拼接正文 5,840 行。 |
+| 篇幅分布 | 平均每篇 23,306 字。 |
 | 原文溯源 | `cache/epub/44374/pg44374.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 篇）
 
-1. BY A. J. FOSTER AND E. E. CUTHELL
-2. The Robber Baron making his peace with the Church
-3. A wild chase through Ouse marshes
-4. The council at Northampton
-5. A desperate plunge
-6. Mother and son both made a deep obeisance, and Aliva continued:--
-7. But he added beneath his breath: "Would I were within at this moment!"
-8. And then another female voice went on,--
-9. Then a man's voice answered from below,--
-10. THE END.
+1. _*AT THE CASTLE OF EATON SOCON.*_
+2. Breaute's stables."
+3. _*THE KING IN COUNCIL.*_
+4. _*HEARD UNDERGROUND.*_
+5. London."
 
-> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/2750aea2a509/)
+> 共 5 篇，[完整目录与正文 →](https://www.bqgmz.top/b/2750aea2a509/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

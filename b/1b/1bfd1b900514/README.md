@@ -1,7 +1,7 @@
 # L'effrayante aventure
 
-**作者** Lermina, Jules, 1839-1915 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 11 段 · 228,943 字 ｜ **来源** Project Gutenberg
+**作者** Lermina, Jules, 1839-1915 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 17 章 · 228,943 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1bfd1b900514/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（228,943 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,813 字；最长 «Le temps et l'espace nous manquent pour nous expliquer plus（39,973 字），最短 Ne sachant rien, venant de la rive gauche, il ne comprenait （8,851 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-roman-bare），拼接正文 6,328 行。 |
+| 篇幅分布 | 平均每章 13,445 字；最长 V（部2）（25,213 字），最短 I（4,984 字）。 |
 | 原文溯源 | `cache/epub/18067/pg18067.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. «Le temps et l'espace nous manquent pour nous expliquer plus
-2. Un mur assez élevé entourait la propriété qui, au premier co
-3. --De la part de miss Redmore....
-4. --Dans un terrain vague du quartier des Carrières-d'Amérique
-5. Une première visite de la commission avait eu lieu, mais san
-6. --Vous êtes mécanicien? demanda M. Alavoine avec une légère
-7. --Jamais de la vie. J'y suis, j'y reste et qui sait? peut êt
-8. Mais là, il ne pouvait pas adresser le moindre reproche à ce
-9. --Maintenant, mon cher monsieur Bobby, je vais avoir l'honne
-10. Oh! il ne pensait plus alors au danger qu'il courait avec se
+1. I
+2. II
+3. III
+4. I（部2）
+5. II（部2）
+6. III（部2）
+7. IV（部2）
+8. V（部2）
+9. VI（部2）
+10. VII（部2）
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/1bfd1b900514/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/1bfd1b900514/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（109,799 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,099 字；最长 CHAPTER IX--THE STORM（15,358 字），最短 CHAPTER VIII--SETTING A DAY（1,959 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 3,564 行。 |
+| 篇幅分布 | 平均每章 6,089 字；最长 CHAPTER IX--THE STORM（15,358 字），最短 CHAPTER VIII--SETTING A DAY（1,959 字）。 |
 | 起止 | 始于「CHAPTER I--THE MEETING」，止于「CHAPTER XVIII--THE HOUSE WITH THE SHINGLED FRONT」。 |
 | 原文溯源 | `cache/epub/54103/pg54103.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/302d8fa3d595/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

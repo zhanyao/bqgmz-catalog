@@ -1,7 +1,7 @@
 # Missing men
 
-**作者** Starrett, Vincent, 1886-1974 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 5 题 · 45,528 字 ｜ **来源** Project Gutenberg
+**作者** Starrett, Vincent, 1886-1974 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 45,528 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/2fc3a394dadb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（45,528 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,105 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 1,207 行。 |
+| 篇幅分布 | 平均每篇 11,362 字。 |
 | 原文溯源 | `cache/epub/76476/pg76476.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 4 篇）
 
-1. MISSING MEN
-2. By VINCENT STARRETT
-3. I looked at Lavender when she had gone. “Well?” I said.
-4. I looked my distaste.
-5. I considered this in silence.
+1. WHEN AN IMPORTANT BROKER AND AN EMINENT ACTOR MYSTERIOUSLY AND
+2. —— II ——
+3. —— III ——
+4. —— IV ——
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/2fc3a394dadb/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/2fc3a394dadb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
