@@ -1,5 +1,7 @@
 # 笔趣阁 · 公版书籍书目数据集
 
+**简体中文** ｜ [English](README.en.md)
+
 **96,220 部公有领域书籍、118 个语种、2,808,551 章** —— 一个只有书目与结构、不含正文的开放数据集。每部书一个 Markdown 页，给出书名、作者、朝代、语种、体例、章数、字数与来源库，并回链在线阅读页。
 
 [在线阅读](https://www.bqgmz.top/) ｜ [全量书目 CSV](catalog/books.csv) ｜ [字段说明](DATA.md) ｜ [来源与许可](LICENSE.md) ｜ [按语种浏览](list/lang/) ｜ [按来源库浏览](list/lib/)
@@ -96,4 +98,4 @@ DATA.md / LICENSE.md      字段说明 / 来源与许可
 
 ---
 
-**English** — A catalog dataset of 96,220 public-domain books in 118 languages (2,808,551 chapters, ~24.6 billion characters), covering Chinese classical texts and the Project Gutenberg corpus. Metadata only — no full text. Every book has its own Markdown page with title, author, dynasty, genre, chapter and character counts, and source attribution. Read the full texts at [www.bqgmz.top](https://www.bqgmz.top/).
+**English** — A catalog dataset of 96,220 public-domain books in 118 languages (2,808,551 chapters, ~24.6 billion characters), covering Chinese classical texts and the Project Gutenberg corpus. Metadata only — no full text. See **[README.en.md](README.en.md)** for the full English version.
