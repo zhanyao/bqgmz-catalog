@@ -1,7 +1,7 @@
 # By-Ways of Bombay
 
-**作者** Edwardes, S. M. (Stephen Meredyth), 1873-1927 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 142,763 字 ｜ **来源** Project Gutenberg
+**作者** Edwardes, S. M. (Stephen Meredyth), 1873-1927 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 20 章 · 142,763 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/555a5dd05f36/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（142,763 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,394 字；最长 There are certain clubs in the city where a man may purchase（39,432 字），最短 So they passed down Ripon Road towards the heart of the City（2,965 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-roman-bare），拼接正文 2,958 行。 |
+| 篇幅分布 | 平均每章 7,048 字；最长 II.（12,251 字），最短 VII.（4,238 字）。 |
+| 起止 | 始于「I.」，止于「XX.」。 |
 | 原文溯源 | `cache/epub/10071/pg10071.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. There are certain clubs in the city where a man may purchase
-2. So in due course he installed himself with an ill grace upon
-3. Each occupant of the room has been provided with a tiny glas
-4. Stand with me at sundown opposite the gateway of the mosque
-5. Now at the ebb of the tide the dark people that dwelt upon t
-6. His entire stock-in-trade, including the ground coffee in hi
-7. So they passed down Ripon Road towards the heart of the City
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/555a5dd05f36/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/555a5dd05f36/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

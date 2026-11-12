@@ -1,7 +1,7 @@
 # The Moth Decides: A Novel
 
-**作者** Jewell, Edward Alden, 1888-1947 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 28 题 · 278,732 字 ｜ **来源** Project Gutenberg
+**作者** Jewell, Edward Alden, 1888-1947 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 24 章 · 278,732 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5bd18ba67ca2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（278,732 字）。 |
-| 分章依据 | 按「题」标记切分为 28 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,954 字。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-num），拼接正文 7,352 行。 |
+| 篇幅分布 | 平均每章 11,569 字；最长 8（16,983 字），最短 4（部2）（6,432 字）。 |
 | 原文溯源 | `cache/epub/61523/pg61523.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE MOTH DECIDES
-2. THE CHARMED CIRCLE
-3. THE WHITE KAMI
-4. THE MOTH DECIDES
-5. A NOVEL
-6. NEW YORK ALFRED · A · KNOPF MCMXXII
-7. MANUFACTURED IN THE UNITED STATES OF AMERICA
-8. CONTENTS
-9. PART ONE: THE ARRIVAL 11
-10. PART TWO: THE KISS 119
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 1（部2）
+10. 2（部2）
 
-> 共 28 题，[完整目录与正文 →](https://www.bqgmz.top/b/5bd18ba67ca2/)
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/5bd18ba67ca2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

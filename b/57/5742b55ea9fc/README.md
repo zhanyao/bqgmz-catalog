@@ -1,7 +1,7 @@
 # Die deutsche Dampfer-Expedition zum Nyassa-See.
 
-**作者** Prager, Max, 1854-1910 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 51 段 · 1,026,903 字 ｜ **来源** Project Gutenberg
+**作者** Prager, Max, 1854-1910 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 24 部分 · 1,026,903 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5742b55ea9fc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,026,903 字）。 |
-| 分章依据 | 按「段」标记切分为 51 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,135 字；最长 Leider nur zu bald sollten die schlimmen Folgen für die Expe（39,928 字），最短 Hat sich doch leider das vorzügliche deutsche Transportmater（5,637 字）。 |
+| 分章依据 | 按「部分」标记切分为 24 部分（fallback-chunk），拼接正文 19,883 行。 |
+| 篇幅分布 | 平均每部分 42,787 字；最长 第 4 部分（43,385 字），最短 第 24 部分（34,744 字）。 |
 | 原文溯源 | `cache/epub/75762/pg75762.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. Leider nur zu bald sollten die schlimmen Folgen für die Expe
-2. Man könnte sagen, eine ansehnliche Flotte repräsentirt hier
-3. An diesem Tage sahen wir zuerst wieder zwischen kleinen Bana
-4. Die Erfahrung, und namentlich das Festkommen der Fahrzeuge,
-5. Die Lebensbedingung der Termiten beruht auf dem Vorhandensei
-6. Ich hatte des Oefteren schon bemerkt, wie jähzornig veranlag
-7. Laut Bestimmung des Majors, der schon am 22. August mit dem
-8. Am 16. früh kam der »Herald« zurück, und während die Leichte
-9. Auf diese Nachricht hin, daß doch ein Fortkommen zu Wasser g
-10. Trotz der vorgerückten Stunde und dem Bedürfniß nach Ruhe re
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 51 段，[完整目录与正文 →](https://www.bqgmz.top/b/5742b55ea9fc/)
+> 共 24 部分，[完整目录与正文 →](https://www.bqgmz.top/b/5742b55ea9fc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

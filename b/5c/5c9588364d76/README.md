@@ -1,7 +1,7 @@
 # Elements of Surgery
 
-**作者** Liston, Robert, 1794-1847; Gross, Samuel D. (Samuel David), 1805-1884 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 82 段 · 1,661,223 字 ｜ **来源** Project Gutenberg
+**作者** Liston, Robert, 1794-1847; Gross, Samuel D. (Samuel David), 1805-1884 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 38 章 · 1,661,223 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5c9588364d76/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,661,223 字）。 |
-| 分章依据 | 按「段」标记切分为 82 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,258 字；最长 _Throbbing_, to a greater or less degree, is always felt in （39,279 字），最短 Each kind of tumour should be removed freely and early; the （17,161 字）。 |
+| 分章依据 | 按「章」标记切分为 38 章（auto-caps-sections），拼接正文 32,868 行。 |
+| 篇幅分布 | 平均每章 43,550 字；最长 SPINA VENTOSA.（65,648 字），最短 RICHMOND, VA.—SMITH, DRINKER & MORRIS:（441 字）。 |
 | 原文溯源 | `cache/epub/50640/pg50640.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. _Throbbing_, to a greater or less degree, is always felt in
-2. But the blood in inflammation also undergoes a change, obser
-3. Pure pus is heavier than water, of a yellowish-white colour,
-4. The most convenient and effectual mode of opening an abscess
-5. The period at which the symptoms of gangrene appear after an
-6. In gangrene arising from obstruction or injury of blood vess
-7. Furunculi, or Boils, most generally occur in unhealthy const
-8. The swelling is often irregular, being more protuberant at o
-9. The joints, like other parts of the body, are very often the
-10. In the above, and in many other cases, the shortening of the
+1. RICHMOND, VA.—SMITH, DRINKER & MORRIS:
+2. LOUISVILLE, KY.—JAMES MAXWELL, JR.
+3. TO THE AMERICAN EDITION.
+4. OF INFLAMMATION.（1）
+5. OF INFLAMMATION.（2）
+6. OF INFLAMMATION.（3）
+7. OF INFLAMMATION OF THE SEROUS MEMBRANES.
+8. OF THE SURFACES OF THE BONES.
+9. JOINTS.（1）
+10. JOINTS.（2）
 
-> 共 82 段，[完整目录与正文 →](https://www.bqgmz.top/b/5c9588364d76/)
+> 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/5c9588364d76/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

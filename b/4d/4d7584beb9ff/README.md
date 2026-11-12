@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（222,130 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,885 字；最长 CHAPTER I--THE COMRADES LEAVE WINTON（10,512 字），最短 CHAPTER XI--A LIVELY EVENING（8,185 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 6,677 行。 |
+| 篇幅分布 | 平均每章 8,816 字；最长 CHAPTER XIX--IMPORTANT DISCOVERIES（10,196 字），最短 CHAPTER XI--A LIVELY EVENING（8,185 字）。 |
 | 起止 | 始于「CHAPTER I--THE COMRADES LEAVE WINTON」，止于「CHAPTER XXV--CONCLUSION」。 |
 | 原文溯源 | `cache/epub/40585/pg40585.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/4d7584beb9ff/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Rabevel, ou le mal des ardents, Volume 2 (of 3)
 
-**作者** Fabre, Lucien, 1889-1952 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 14 题 · 295,324 字 ｜ **来源** Project Gutenberg
+**作者** Fabre, Lucien, 1889-1952 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 7 章 · 295,324 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5e2442014453/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（295,324 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 21,094 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-caps-sections），拼接正文 6,865 行。 |
+| 篇幅分布 | 平均每章 42,189 字；最长 CHAPITRE PREMIER（1）（55,949 字），最短 IL A ÉTÉ TIRÉ DE CET OUVRAGE, APRÈS IMPOSITIONS SPÉCIALES CENT HUIT（1,054 字）。 |
 | 原文溯源 | `cache/epub/74364/pg74364.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 章）
 
-1. LUCIEN FABRE
-2. Treizième Édition
-3. DU MÊME AUTEUR:
-4. Les Théories d’Einstein. (Payot, 1921)
-5. Vanikoro (Nouvelle Revue Française, 1923) Épuisé
-6. COPYRIGHT BY LIBRAIRIE GALLIMARD 1923
-7. CHAPITRE PREMIER
-8. CHAPITRE DEUXIÈME
-9. CHAPITRE TROISIÈME
-10. Adresser la réponse à notre bureau de Paris.»
+1. IL A ÉTÉ TIRÉ DE CET OUVRAGE, APRÈS IMPOSITIONS SPÉCIALES CENT HUIT
+2. CHAPITRE PREMIER（1）
+3. CHAPITRE PREMIER（2）
+4. CHAPITRE DEUXIÈME（1）
+5. CHAPITRE DEUXIÈME（2）
+6. CHAPITRE DEUXIÈME（3）
+7. CHAPITRE DEUXIÈME（4）
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/5e2442014453/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/5e2442014453/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

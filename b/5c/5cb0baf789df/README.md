@@ -1,7 +1,7 @@
 # Der Untergang des Abendlandes, Erster Band
 
-**作者** Spengler, Oswald, 1880-1936 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 58 段 · 1,173,634 字 ｜ **来源** Project Gutenberg
+**作者** Spengler, Oswald, 1880-1936 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 23 章 · 1,173,634 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5cb0baf789df/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,173,634 字）。 |
-| 分章依据 | 按「段」标记切分为 58 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,235 字；最长 Will man erfahren, in welcher Gestalt das Erlöschen der aben（39,587 字），最短 Dieses Werk bildet einen neuen Band der angesehenen und（12,309 字）。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-caps-sections），拼接正文 23,065 行。 |
+| 篇幅分布 | 平均每章 51,027 字；最长 VOM SINN DER ZAHLEN（17）（58,007 字），最短 OSWALD SPENGLER（943 字）。 |
 | 原文溯源 | `cache/epub/77042/pg77042.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Will man erfahren, in welcher Gestalt das Erlöschen der aben
-2. Es besteht eine tiefe Beziehung zwischen dem Verhalten gegen
-3. Von jedem Organismus wissen wir, daß Tempo, Gestalt und Daue
-4. Reden wir ohne weiteres von einer materialistischen und eine
-5. Was die römische Weltherrschaft betrifft, so ist sie ein +ne
-6. Ich liebe die Tiefe und Feinheit mathematischer und physikal
-7. [Footnote 5: Hat je eine hellenische Stadt auch nur +ein+
-8. 2. Stadium: „Cäsarismus“. Wachsender Naturalismus der politi
-9. Nun hat Kant den Besitz menschlichen Wissens nach Synthesen
-10. Alles aus antikem Geist Geborene ist also allein durch plast
+1. VOM SINN DER ZAHLEN（1）
+2. VOM SINN DER ZAHLEN（2）
+3. VOM SINN DER ZAHLEN（3）
+4. VOM SINN DER ZAHLEN（4）
+5. VOM SINN DER ZAHLEN（5）
+6. VOM SINN DER ZAHLEN（6）
+7. VOM SINN DER ZAHLEN（7）
+8. VOM SINN DER ZAHLEN（8）
+9. VOM SINN DER ZAHLEN（9）
+10. VOM SINN DER ZAHLEN（10）
 
-> 共 58 段，[完整目录与正文 →](https://www.bqgmz.top/b/5cb0baf789df/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/5cb0baf789df/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

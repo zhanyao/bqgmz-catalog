@@ -1,7 +1,7 @@
 # The Journal of Abnormal Psychology, Volume 10
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 162 题 · 789,288 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 45 篇 · 789,288 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/582424d00370/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（789,288 字）。 |
-| 分章依据 | 按「题」标记切分为 162 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,872 字。 |
+| 分章依据 | 按「篇」标记切分为 45 篇（auto-title-block），拼接正文 15,746 行。 |
+| 篇幅分布 | 平均每篇 17,439 字；最长 BY MEYER SOLOMON, M. D., CHICAGO（122,343 字），最短 SCIENTIFIC METHOD IN THE INTERPRETATION OF DREAMS[*]（345 字）。 |
 | 原文溯源 | `cache/epub/1226/pg1226.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Scanned by Charles Keller with OmniPage Professional OCR software
-2. The Journal of Abnormal Psychology
-3. ASSOCIATE EDITORS
-4. VOLUME X
-5. BOSTON
-6. Printed in the United States of America
-7. ORIGINAL ARTICLES--VOLUME X
-8. INDEX TO SUBJECTS
-9. THE JOURNAL OF ABNORMAL PSYCHOLOGY
-10. HYSTERIA AS A WEAPON IN MARITAL CONFLICTS
+1. Hospital Papers, 1914-5
+2. ANALYSIS OF A CASE OF SLEEPLESSNESS
+3. FEAR NEUROSIS (ANGST-NEUROSE)
+4. REVIEWS
+5. (Page VI.)
+6. BY G. STANLEY HALL
+7. ASPECTS OF DREAM LIFE[*]
+8. BY MEYER SOLOMON, M. D., CHICAGO
+9. INTRODUCTION
+10. THE DIALECTIC METHOD
 
-> 共 162 题，[完整目录与正文 →](https://www.bqgmz.top/b/582424d00370/)
+> 共 45 篇，[完整目录与正文 →](https://www.bqgmz.top/b/582424d00370/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

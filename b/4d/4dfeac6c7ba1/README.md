@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（788,188 字）。 |
-| 分章依据 | 按「章」标记切分为 45 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,515 字；最长 CHAPTER XI. TOO LATE.（33,392 字），最短 CHAPTER XXII. THE TUILERIES IN 1803（8,016 字）。 |
+| 分章依据 | 按「章」标记切分为 45 章（auto-chapter），拼接正文 18,608 行。 |
+| 篇幅分布 | 平均每章 17,412 字；最长 CHAPTER XI. TOO LATE.（33,392 字），最短 CHAPTER XXII. THE TUILERIES IN 1803（8,016 字）。 |
 | 起止 | 始于「CHAPTER I. MYSELF.」，止于「CHAPTER XLV. THE “VIVANDIÈRE OF THE FOURTH”」。 |
 | 原文溯源 | `cache/epub/31901/pg31901.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 45 章，[完整目录与正文 →](https://www.bqgmz.top/b/4dfeac6c7ba1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

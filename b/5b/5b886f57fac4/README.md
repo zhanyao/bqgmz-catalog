@@ -1,7 +1,7 @@
 # The Chemical History of a Candle
 
-**作者** Faraday, Michael, 1791-1867; Crookes, William, 1832-1919 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 179,721 字 ｜ **来源** Project Gutenberg
+**作者** Faraday, Michael, 1791-1867; Crookes, William, 1832-1919 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 179,721 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5b886f57fac4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（179,721 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,465 字；最长 You have the glittering beauty of gold and silver, and the s（38,798 字），最短 A lady, who honours me by her presence at these Lectures, ha（18,946 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-chapter），拼接正文 3,558 行。 |
+| 篇幅分布 | 平均每章 25,347 字；最长 LECTURE VI.（54,762 字），最短 NOTES.（4,985 字）。 |
 | 原文溯源 | `cache/epub/14474/pg14474.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 7 章）
 
-1. You have the glittering beauty of gold and silver, and the s
-2. Here is a platinum-wire, a body which does not change by hea
-3. By degrees we have learned how to modify the action of these
-4. It is certainly something combustible, but not combustible i
-5. So that is one way of opening out air into the two things of
-6. A lady, who honours me by her presence at these Lectures, ha
-7. This is, indeed, a very curious thing, which you can well re
-8. Let me now tell you briefly what Deville proposes to do. Fir
+1. LECTURE I.
+2. LECTURE II.
+3. LECTURE III.
+4. LECTURE IV.
+5. LECTURE V.
+6. LECTURE VI.
+7. NOTES.
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/5b886f57fac4/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/5b886f57fac4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Aventures de l'abbé de Choisy habillé en femme
 
-**作者** Choisy, abbé de, 1644-1724; Montifaud, Marc de, 1850- [Editor]; Hanriot, J. (Jules), 1853-1930 [Illustrator] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 6 段 · 133,714 字 ｜ **来源** Project Gutenberg
+**作者** Choisy, abbé de, 1644-1724; Montifaud, Marc de, 1850- [Editor]; Hanriot, J. (Jules), 1853-1930 [Illustrator] ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 7 篇 · 133,714 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5f4b18a7298c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（133,714 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,285 字；最长 --Oui dà! monsieur, j'en ai trouvé; j'avois un oncle conseil（39,323 字），最短 Notre coup d'essai devint la règle de notre vie, son plaisir（13,717 字）。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（通用标记切分），拼接正文 3,400 行。 |
+| 篇幅分布 | 平均每篇 17,603 字。 |
 | 原文溯源 | `cache/epub/54035/pg54035.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 7 篇）
 
-1. --Oui dà! monsieur, j'en ai trouvé; j'avois un oncle conseil
-2. Je tâchai de m'amuser; mon appartement étoit magnifique, mon
-3. J'étois venue toute seule sans la petite Dany. Le saint card
-4. Il y avoit dans mon village deux ou trois maisons de gentils
-5. Je ne répondis que par trois ou quatre pièces de Chambonnièr
-6. Notre coup d'essai devint la règle de notre vie, son plaisir
+1. PREMIÈRES INTRIGUES DE L'ABBÉ DE CHOISY SOUS LE NOM DE MADAME DE SANCY
+2. DEUXIÈME LETTRE
+3. LETTRE
+4. MONDORY[4]
+5. LA COMTESSE DES BARRES[5]
+6. BIBLIOGRAPHIE
+7. TABLE
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/5f4b18a7298c/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5f4b18a7298c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

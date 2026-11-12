@@ -1,7 +1,7 @@
 # Op het onheilspad
 
-**作者** Curwood, James Oliver, 1878-1927; Kroon, A. M. [Translator] ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 26 题 · 256,860 字 ｜ **来源** Project Gutenberg
+**作者** Curwood, James Oliver, 1878-1927; Kroon, A. M. [Translator] ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 17 章 · 256,860 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/54eea5a0deb2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（256,860 字）。 |
-| 分章依据 | 按「题」标记切分为 26 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,879 字。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 6,160 行。 |
+| 篇幅分布 | 平均每章 15,053 字；最长 HOOFDSTUK V.（23,801 字），最短 HOOFDSTUK IX.（8,062 字）。 |
 | 原文溯源 | `cache/epub/41238/pg41238.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Op het Onheilspad
-2. Op het Onheilspad
-3. James Oliver Curwood
-4. Hollandsche bewerking van A. M. KROON
-5. HOOFDSTUK I.
-6. HOOFDSTUK II.
-7. HOOFDSTUK III.
-8. HOOFDSTUK IV.
-9. HOOFDSTUK V.
-10. HOOFDSTUK VI.
+1. HOOFDSTUK I.
+2. HOOFDSTUK II.
+3. HOOFDSTUK III.
+4. HOOFDSTUK IV.
+5. HOOFDSTUK V.
+6. HOOFDSTUK VI.
+7. HOOFDSTUK VII.
+8. HOOFDSTUK VIII.
+9. HOOFDSTUK IX.
+10. HOOFDSTUK X.
 
-> 共 26 题，[完整目录与正文 →](https://www.bqgmz.top/b/54eea5a0deb2/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/54eea5a0deb2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

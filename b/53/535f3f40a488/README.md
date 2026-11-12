@@ -1,7 +1,7 @@
 # A Tramp's Notebook
 
-**作者** Roberts, Morley, 1857-1942 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 14 段 · 283,930 字 ｜ **来源** Project Gutenberg
+**作者** Roberts, Morley, 1857-1942 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 30 章 · 283,930 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/535f3f40a488/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（283,930 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,280 字；最长 Only a little way up, in my street for instance, it rapidly （38,249 字），最短 On the lofty sloping plains of Texas and Kansas the air is o（3,993 字）。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-toc-title-list），拼接正文 5,831 行。 |
+| 篇幅分布 | 平均每章 9,430 字；最长 SOME PORTUGUESE SKETCHES（22,891 字），最短 AMERICAN SHIPMASTERS（3,360 字）。 |
 | 原文溯源 | `cache/epub/25190/pg25190.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Only a little way up, in my street for instance, it rapidly
-2. Yet it was, take it altogether, an astonishingly fertile tri
-3. How hard I worked on that Sonoma County ranch I can hardly s
-4. I went across the Parade, which every morning is full of che
-5. The first experience I had in regard to gold mining was in B
-6. If few of our caricaturists have done Mr Kruger justice, the
-7. It was good to be at last in the tropics, deep into them, an
-8. But, after all, was it not said by folks who climbed to the
-9. And yet there is one beauty at Las Palmas, a beauty that non
-10. It was even now utterly dark. The huge bulwark of the Breith
+1. A WATCH-NIGHT SERVICE IN SAN FRANCISCO
+2. SOME PORTUGUESE SKETCHES
+3. A PONDICHERRY BOY
+4. A GRADUATE BEYOND SEAS
+5. MY FRIEND EL TORO
+6. BOOKS IN THE GREAT WEST
+7. A VISIT TO R. L. STEVENSON
+8. VELDT, PLAIN AND PRAIRIE
+9. NEAR MAFEKING
+10. BY THE FRASER RIVER
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/535f3f40a488/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/535f3f40a488/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

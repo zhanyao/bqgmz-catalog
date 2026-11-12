@@ -1,7 +1,7 @@
 # The Works of John Marston. Volume 3
 
-**作者** Marston, John, 1575?-1634; Bullen, A. H. (Arthur Henry), 1857-1920 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 7 章 · 451,065 字 ｜ **来源** Project Gutenberg
+**作者** Marston, John, 1575?-1634; Bullen, A. H. (Arthur Henry), 1857-1920 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 32 篇 · 451,065 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/638ac044086c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（451,065 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 64,437 字。 |
+| 分章依据 | 按「篇」标记切分为 32 篇（auto-magazine），拼接正文 16,833 行。 |
+| 篇幅分布 | 平均每篇 13,273 字。 |
 | 原文溯源 | `cache/epub/46312/pg46312.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 章）
+## 章节目录（前 10 篇）
 
-1. SCENE I.
-2. SCENE II.
-3. SCENE III.
-4. SCENE IV.
-5. SCENE V.
-6. Marry, God forefend! Martius swears he'l
-7. Do you so too, for see this bounteous sp
+1. MDCCCLXXXVII
+2. EASTWARD HO 1
+3. THE METAMORPHOSIS OF PYGMALION'S IMAGE,
+4. AND CERTAIN SATIRES 245
+5. ENTERTAINMENT OF ALICE, DOWAGER-COUNTESS
+6. CITY PAGEANT 405
+7. VERSES FROM CHESTER'S LOVE'S MARTYR 413
+8. COMMENDATORY VERSES PREFIXED TO BEN JONSON'S
+9. SEJANUS 444
+10. EASTWARD HO · ACT I
 
-> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/638ac044086c/)
+> 共 32 篇，[完整目录与正文 →](https://www.bqgmz.top/b/638ac044086c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

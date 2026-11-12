@@ -1,7 +1,7 @@
 # The Bostonians, Vol. II (of II)
 
-**作者** James, Henry, 1843-1916 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 32 题 · 373,970 字 ｜ **来源** Project Gutenberg
+**作者** James, Henry, 1843-1916 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 19 章 · 373,970 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5f8d6c499c3f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（373,970 字）。 |
-| 分章依据 | 按「题」标记切分为 32 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,686 字。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-roman-bare），拼接正文 8,181 行。 |
+| 篇幅分布 | 平均每章 19,669 字；最长 XXXVIII（29,109 字），最短 XXIX（8,895 字）。 |
 | 原文溯源 | `cache/epub/19718/pg19718.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE BOSTONIANS
-2. A NOVEL
-3. BY HENRY JAMES
-4. IN TWO VOLUMES
-5. VOL. II
-6. BOOK SECOND (_Continued_)
-7. XXIV
-8. Ransom hesitated a little. "Well, no, I don't think she is."
-9. XXV
-10. XXVI
+1. XXIV
+2. XXV
+3. XXVI
+4. XXVII
+5. XXVIII
+6. XXIX
+7. XXX
+8. XXXI
+9. XXXII
+10. XXXIII
 
-> 共 32 题，[完整目录与正文 →](https://www.bqgmz.top/b/5f8d6c499c3f/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/5f8d6c499c3f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

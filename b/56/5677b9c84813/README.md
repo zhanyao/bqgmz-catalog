@@ -1,7 +1,7 @@
 # Afloat at Last: A Sailor Boy's Log of His Life at Sea
 
-**作者** Hutcheson, John C. (John Conroy); Overend, William Heysham, 1851-1898 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 44 题 · 338,143 字 ｜ **来源** Project Gutenberg
+**作者** Hutcheson, John C. (John Conroy); Overend, William Heysham, 1851-1898 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 338,143 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5677b9c84813/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（338,143 字）。 |
-| 分章依据 | 按「题」标记切分为 44 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,685 字。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 7,989 行。 |
+| 篇幅分布 | 平均每章 19,787 字；最长 CHAPTER TEN.（27,179 字），最短 CHAPTER TWO.（13,391 字）。 |
 | 原文溯源 | `cache/epub/21104/pg21104.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. Afloat at Last
-3. BY JOHN CONROY HUTCHESON
-4. CHAPTER ONE.
-5. IN THE RECTORY GARDEN.
-6. I shook my head, however, as a sign of dissent to this proposition.
-7. I did not say anything, but father appeared to guess my thoughts.
-8. CHAPTER TWO.
-9. MY FRIEND THE BOATSWAIN.
-10. CHAPTER THREE.
+1. CHAPTER ONE.
+2. CHAPTER TWO.
+3. CHAPTER THREE.
+4. CHAPTER FOUR.
+5. CHAPTER FIVE.
+6. CHAPTER SIX.
+7. CHAPTER SEVEN.
+8. CHAPTER EIGHT.
+9. CHAPTER NINE.
+10. CHAPTER TEN.
 
-> 共 44 题，[完整目录与正文 →](https://www.bqgmz.top/b/5677b9c84813/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/5677b9c84813/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

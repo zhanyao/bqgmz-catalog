@@ -1,7 +1,7 @@
 # The Bible, Douay-Rheims, Book 31: Ezechiel The Challoner Revision
 
-**国家/地区** 英美 ｜ **体例** 题  
-**规模** 52 题 · 191,236 字 ｜ **来源** Project Gutenberg
+**国家/地区** 英美 ｜ **体例** 篇  
+**规模** 3 篇 · 191,236 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4f4ffca15a41/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（191,236 字）。 |
-| 分章依据 | 按「题」标记切分为 52 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,677 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（auto-title-block），拼接正文 5,523 行。 |
+| 篇幅分布 | 平均每篇 50,009 字。 |
 | 原文溯源 | `cache/epub/8331/pg8331.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 篇）
 
-1. THE HOLY BIBLE
-2. Translated from the Latin Vulgate
-3. With Annotations
-4. THE PROPHECY OF EZECHIEL
-5. Ezechiel Chapter 1
-6. Ezechiel Chapter 2
-7. Ezechiel Chapter 3
-8. Ezechiel Chapter 4
-9. Ezechiel Chapter 5
-10. Ezechiel Chapter 6
+1. Ezechiel Chapter 14
+2. Ezechiel Chapter 18
+3. Ezechiel Chapter 21
 
-> 共 52 题，[完整目录与正文 →](https://www.bqgmz.top/b/4f4ffca15a41/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/4f4ffca15a41/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

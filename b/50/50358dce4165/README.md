@@ -1,7 +1,7 @@
 # Als ich noch der Waldbauernbub war. Band 1 Für die Jugend ausgewählt aus den Schriften Roseggers vom Hamburger Jugendschriftenausschuß.
 
-**作者** Rosegger, Peter, 1843-1918; Lottig, William, 1867-1953 [Author of introduction, etc.] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 7 段 · 157,759 字 ｜ **来源** Project Gutenberg
+**作者** Rosegger, Peter, 1843-1918; Lottig, William, 1867-1953 [Author of introduction, etc.] ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 12 章 · 157,759 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/50358dce4165/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（157,759 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,537 字；最长 Jetzt ist es still, still in den Wolken, still auf der Erde （39,393 字），最短 Sobald jedoch die Leute merkten, es fiele bei dieser wiederh（17,948 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-toc-title-list），拼接正文 3,851 行。 |
+| 篇幅分布 | 平均每章 12,527 字；最长 Als ich zur Drachenbinderin ritt（19,501 字），最短 Dreihundert vierundsechzig und eine Nacht（8,005 字）。 |
 | 原文溯源 | `cache/epub/61998/pg61998.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. Jetzt ist es still, still in den Wolken, still auf der Erde
-2. Ich hatte bei herumziehenden Musikern, die vor unserer Haust
-3. »Willst den Hut mitnehmen für Deinen Vater?« fragte sie, »de
-4. Jedes von uns pflegte und hütete sein ihm zugeteiltes Gespon
-5. Wenn mein Vater beim Rasieren saß, wenn er seine Backen und
-6. Mein Vater sprang aus dem Bette, ich erhob ein Jammergeschre
-7. Sobald jedoch die Leute merkten, es fiele bei dieser wiederh
+1. Vom Urgroßvater, der auf der Tanne saß
+2. Ums Vaterwort
+3. Allerlei Spielzeug
+4. Wie der Meisensepp gestorben ist
+5. Wie ich dem lieben Herrgott mein Sonntagsjöppl schenkte
+6. Wie das Zicklein starb
+7. Dreihundert vierundsechzig und eine Nacht
+8. Als ich Bettelbub gewesen
+9. Als ich zur Drachenbinderin ritt
+10. Als dem kleinen Maxel das Haus niederbrannte
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/50358dce4165/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/50358dce4165/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

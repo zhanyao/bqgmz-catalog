@@ -1,7 +1,7 @@
 # Aune
 
-**作者** Hellén, Immi, 1861-1937 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 11 题 · 144,477 字 ｜ **来源** Project Gutenberg
+**作者** Hellén, Immi, 1861-1937 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 18 章 · 144,477 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/516878283baf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（144,477 字）。 |
-| 分章依据 | 按「题」标记切分为 11 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,134 字。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-num），拼接正文 3,994 行。 |
+| 篇幅分布 | 平均每章 8,020 字；最长 9（18,416 字），最短 5（2,469 字）。 |
 | 原文溯源 | `cache/epub/55449/pg55449.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. AUNE
-2. Nuorisolle
-3. Kirjoitti
-4. Immi Hellén
-5. Leena nousi sivelemään kalpeata poskea ja tummaa kähärää. -- --
-6. Se lämmittäisi pikku Annia ja varjelisi vilustumasta. -- -- --
-7. Onnellinen se, joka on päässyt sen salaisuuden perille! -- -- --
-8. Ja lämmitellä saavat sen loistossa vilua kärsineet. --
-9. Ja niin he lähtivät paluumatkalle. -- -- --
-10. Oi, hän oli ollut ja hän oli niin onnellinen! --
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
 
-> 共 11 题，[完整目录与正文 →](https://www.bqgmz.top/b/516878283baf/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/516878283baf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

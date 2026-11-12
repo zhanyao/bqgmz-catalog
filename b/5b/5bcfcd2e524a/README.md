@@ -1,7 +1,7 @@
 # Deseti brat
 
-**作者** Jurčič, Josip, 1844-1881 ｜ **国家/地区** 斯洛文尼亚 ｜ **体例** 段  
-**规模** 15 段 · 300,872 字 ｜ **来源** Project Gutenberg
+**作者** Jurčič, Josip, 1844-1881 ｜ **国家/地区** 斯洛文尼亚 ｜ **体例** 部分  
+**规模** 8 部分 · 300,872 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5bcfcd2e524a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（300,872 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,058 字；最长 Ko odgovora ne dobi, obrne se nazaj in pogleda za Mrtinom. N（39,452 字），最短 =III. Šestka= (zv. 16-21): Povest =Alvaredova družina=, posl（770 字）。 |
+| 分章依据 | 按「部分」标记切分为 8 部分（fallback-chunk），拼接正文 7,535 行。 |
+| 篇幅分布 | 平均每部分 37,609 字；最长 第 2 部分（41,451 字），最短 第 8 部分（11,565 字）。 |
 | 原文溯源 | `cache/epub/75797/pg75797.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 部分）
 
-1. Ko odgovora ne dobi, obrne se nazaj in pogleda za Mrtinom. N
-2. Ako je kdo sodil iz tega, kar smo dozdaj pravili o Kvasu, da
-3. In vendar Kerjavelj ni nič posebnega počenjal. Smolo bral, k
-4. “Tebi ne morem nič novega povedati, ti si že star, vse ti je
-5. _Pripis_: Ravno sem zgibal to kroniko mojih sreč in težav, k
-6. In nakremži se Kerjavelj in se namrda, nabere lice v čudovit
-7. “O kaj še! Sam pojdem od tukaj! Bojim se te pa ne, še tisto
-8. Prav sreča je bila, da je bil ravno stotnik Grašič k Marijan
-9. Saj ste si imeli obe veliko povedati. Danes se je prigodilo
-10. Bil je že komaj streljaj daleč na samotni stezi, ki je držal
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/5bcfcd2e524a/)
+> 共 8 部分，[完整目录与正文 →](https://www.bqgmz.top/b/5bcfcd2e524a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

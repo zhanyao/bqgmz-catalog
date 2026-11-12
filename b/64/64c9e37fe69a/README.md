@@ -1,7 +1,7 @@
 # Twenty years after
 
 **作者** Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 101 章 · 1,115,642 字 ｜ **来源** Project Gutenberg
+**规模** 71 章 · 1,115,642 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/64c9e37fe69a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,115,642 字）。 |
-| 分章依据 | 按「章」标记切分为 101 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,045 字。 |
+| 分章依据 | 按「章」标记切分为 71 章（auto-toc-title-list），拼接正文 34,935 行。 |
+| 篇幅分布 | 平均每章 15,658 字；最长 Chapter LXXII. End of the Port Wine Mystery.（200,186 字），最短 Chapter XL. Uncle and Nephew.（6,389 字）。 |
+| 起止 | 始于「Chapter I. The Shade of Cardinal Richelieu.」，止于「Chapter LXXII. End of the Port Wine Mystery.」。 |
 | 原文溯源 | `cache/epub/1259/pg1259.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. Chapter IX. The Abbé D’Herblay.
 10. Chapter X. Monsieur Porthos du Vallon de Bracieux de Pierrefonds.
 
-> 共 101 章，[完整目录与正文 →](https://www.bqgmz.top/b/64c9e37fe69a/)
+> 共 71 章，[完整目录与正文 →](https://www.bqgmz.top/b/64c9e37fe69a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

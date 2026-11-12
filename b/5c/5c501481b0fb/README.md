@@ -1,7 +1,7 @@
 # U.S. Copyright Renewals, 1953 January - June
 
-**作者** Library of Congress. Copyright Office ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 14 段 · 297,220 字 ｜ **来源** Project Gutenberg
+**作者** Library of Congress. Copyright Office ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 8 部分 · 297,220 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5c501481b0fb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（297,220 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,230 字；最长 Piano playing by harmony diagrams.（39,968 字），最短 In memoriam Ferruccio Busoni.（17,050 字）。 |
+| 分章依据 | 按「部分」标记切分为 8 部分（fallback-chunk），拼接正文 19,676 行。 |
+| 篇幅分布 | 平均每部分 37,152 字；最长 第 4 部分（40,171 字），最短 第 8 部分（16,969 字）。 |
 | 原文溯源 | `cache/epub/11807/pg11807.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 部分）
 
-1. Piano playing by harmony diagrams.
-2. CLITTY, WINIFRED HOWARD-
-3. Love in Greenwich Village. © 14May26,
-4. The man without a country, and other
-5. Brief burlesques and epigrams.
-6. Standard inventors contract with
-7. John Dos Passos' Manhattan transfer.
-8. MERRIAM (G. AND C.) COMPANY
-9. School and home. © 7Aug25, A861331.
-10. Black and white mileage map of
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/5c501481b0fb/)
+> 共 8 部分，[完整目录与正文 →](https://www.bqgmz.top/b/5c501481b0fb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

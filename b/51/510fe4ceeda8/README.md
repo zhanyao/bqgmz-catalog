@@ -1,7 +1,7 @@
 # Books and Bookmen（#1961）
 
-**作者** Lang, Andrew, 1844-1912 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 9 题 · 160,779 字 ｜ **来源** Project Gutenberg
+**作者** Lang, Andrew, 1844-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 14 章 · 160,779 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/510fe4ceeda8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（160,779 字）。 |
-| 分章依据 | 按「题」标记切分为 9 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 17,864 字。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-toc-title-list），拼接正文 3,411 行。 |
+| 篇幅分布 | 平均每章 11,309 字。 |
 | 原文溯源 | `cache/epub/1961/pg1961.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 题）
+## 章节目录（前 10 章）
 
-1. A. L
-2. PREFACE.
-3. CONTENTS.
-4. ILLUSTRATIONS.
-5. ELZEVIRS.
-6. ENVOY.
-7. ENVOI.
-8. ENVOY.
-9. FOOTNOTES
+1. ELZEVIRS
+2. BALLADE OF THE REAL AND IDEAL
+3. CURIOSITIES OF PARISH REGISTERS
+4. THE ROWFANT BOOKS
+5. TO F. L.
+6. SOME JAPANESE BOGIE-BOOKS
+7. GHOSTS IN THE LIBRARY
+8. LITERARY FORGERIES
+9. BIBLIOMANIA IN FRANCE
+10. OLD FRENCH TITLE-PAGES
 
-> 共 9 题，[完整目录与正文 →](https://www.bqgmz.top/b/510fe4ceeda8/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/510fe4ceeda8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

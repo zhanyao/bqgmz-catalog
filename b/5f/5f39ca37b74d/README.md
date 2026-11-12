@@ -1,7 +1,7 @@
 # The Agamemnon of Aeschylus Translated into English Rhyming Verse with Explanatory Notes
 
-**作者** Aeschylus, 526 BCE-457 BCE; Murray, Gilbert, 1866-1957 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 15 题 · 96,762 字 ｜ **来源** Project Gutenberg
+**作者** Aeschylus, 526 BCE-457 BCE; Murray, Gilbert, 1866-1957 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 82 篇 · 96,762 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5f39ca37b74d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（96,762 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,450 字。 |
+| 分章依据 | 按「篇」标记切分为 82 篇（auto-title-scan），拼接正文 3,219 行。 |
+| 篇幅分布 | 平均每篇 1,178 字。 |
 | 原文溯源 | `cache/epub/14417/pg14417.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Agamemnon
-2. TRANSLATED INTO ENGLISH RHYMING VERSE
-3. TENTH THOUSAND
-4. LONDON: GEORGE ALLEN & UNWIN LTD.
-5. RUSKIN HOUSE, 40 MUSEUM STREET, W.C.
-6. PREFACE
-7. AGAMEMNON
-8. CHARACTERS IN THE PLAY
-9. CHARACTERS MENTIONED IN THE PLAY
-10. PRIAM, _the aged King of Troy._
+1. GILBERT MURRAY
+2. TENTH THOUSAND
+3. PREFACE
+4. through suffering to Learn (pp. 7 f.)
+5. ordinance of Time.”[1]
+6. CHARACTERS IN THE PLAY
+7. Agamemnon.
+8. to Clytemnestra.
+9. Agamemnon.
+10. CHARACTERS MENTIONED IN THE PLAY
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/5f39ca37b74d/)
+> 共 82 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5f39ca37b74d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The history of the 9th (Scottish) Division, 1914-1919
 
-**作者** Ewing, John, M.C., 1883-1934; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 692,509 字 ｜ **来源** Project Gutenberg
+**作者** Ewing, John, M.C., 1883-1934; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 71 篇 · 692,509 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/649a037fec59/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（692,509 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 38,472 字；最长 Machine-Gun Companies, the 26th and 27th（80,769 字），最短 CHAPTER XI（18,771 字）。 |
+| 分章依据 | 按「篇」标记切分为 71 篇（auto-magazine），拼接正文 17,474 行。 |
+| 篇幅分布 | 平均每篇 9,753 字。 |
 | 原文溯源 | `cache/epub/75001/pg75001.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. CHAPTER X
+1. PREFACE
+2. I. TABLE SHOWING ORDER OF BATTLE OF THE NINTH (SCOTTISH)
+3. II. TABLE SHOWING THE PERIODS SPENT IN THE LINE 400
+4. III. LIST OF COMMANDERS AND STAFF 402
+5. IV. CASUALTIES OF THE NINTH DIVISION 409
+6. VI. SUMMARY OF WORK DONE BY SAPPERS AND PIONEERS IN
+7. VII. LIST SHOWING MATERIAL ISSUED AND SALVED BY THE ORDNANCE
+8. DEPARTMENT 415
+9. VIII. DIVISIONAL INSTITUTES AND CANTEENS 416
+10. INDEX 419
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/649a037fec59/)
+> 共 71 篇，[完整目录与正文 →](https://www.bqgmz.top/b/649a037fec59/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

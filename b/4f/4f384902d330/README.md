@@ -1,7 +1,7 @@
 # Der Sachsenspiegel: Eine Geschichte aus der Hohenstaufenzeit
 
-**作者** Wolff, Julius, 1834-1910; Schwormstädt, Felix, 1870-1938 [Illustrator] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 20 段 · 407,803 字 ｜ **来源** Project Gutenberg
+**作者** Wolff, Julius, 1834-1910; Schwormstädt, Felix, 1870-1938 [Illustrator] ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 10 部分 · 407,803 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4f384902d330/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（407,803 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,390 字；最长 »Nein, Herr Graf! Der übel verlaufene Rechtshandel meines Va（39,953 字），最短 Eine Geschichte aus dem Harzgau nennt Jul. Wolff anspruchslo（7,516 字）。 |
+| 分章依据 | 按「部分」标记切分为 10 部分（fallback-chunk），拼接正文 9,838 行。 |
+| 篇幅分布 | 平均每部分 40,780 字；最长 第 9 部分（43,023 字），最短 第 10 部分（22,128 字）。 |
 | 原文溯源 | `cache/epub/53553/pg53553.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. »Nein, Herr Graf! Der übel verlaufene Rechtshandel meines Va
-2. Mit einem zufriedenen Lächeln antwortete Gräfin Gerlinde auf
-3. »Nein, mich tätlich an ihm zu vergreifen hielt ich unter mei
-4. Mit der Ruhe und Sicherheit eines entschlossenen, zielbewußt
-5. Gräfin Gerlinde hatte es schon bald nach ihrem Einzuge auf d
-6. Das war der Freund, dem sein Besuch galt und mit dem er sich
-7. Eike nickte und führte die Gräfin zu Tische, denn Melissa wa
-8. Paragraph eins. So ein fahrender Ritter eine Trinkstube, Sch
-9. Nun war alles geklärt, jeder Zweifel gehoben, die Entscheidu
-10. Das Mahl ließ sich indessen ganz behaglich an. Graf Hoyer wa
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/4f384902d330/)
+> 共 10 部分，[完整目录与正文 →](https://www.bqgmz.top/b/4f384902d330/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

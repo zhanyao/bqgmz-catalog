@@ -1,7 +1,7 @@
 # Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume I)
 
-**作者** Neves, José Acúrsio das, 1766-1834 ｜ **国家/地区** 葡萄牙 ｜ **体例** 题  
-**规模** 58 题 · 266,332 字 ｜ **来源** Project Gutenberg
+**作者** Neves, José Acúrsio das, 1766-1834 ｜ **国家/地区** 葡萄牙 ｜ **体例** 章  
+**规模** 26 章 · 266,332 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5d3237bda862/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（266,332 字）。 |
-| 分章依据 | 按「题」标记切分为 58 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,591 字。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 6,324 行。 |
+| 篇幅分布 | 平均每章 9,619 字；最长 CAPITULO XVI.（19,222 字），最短 CAPITULO XXII.（5,835 字）。 |
 | 原文溯源 | `cache/epub/79564/pg79564.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. HISTORIA GERAL
-2. DA
-3. EM PORTUGAL,
-4. DA RESTAURAÇÃO DESTE REINO,
-5. ESCRITA
-6. POR
-7. JOSÉ ACCURSIO DAS NEVES.
-8. TOMO I.
-9. LISBOA. M. DCCCX.
-10. HISTORIA DA _INVASÃO DOS FRANCEZES._ EM PORTUGAL.
+1. CAPITULO I.
+2. CAPITULO II.
+3. CAPITULO III.
+4. CAPITULO IV.
+5. CAPITULO V.
+6. CAPITULO VI.
+7. CAPITULO VII.
+8. CAPITULO VIII.
+9. CAPITULO IX.
+10. CAPITULO X.
 
-> 共 58 题，[完整目录与正文 →](https://www.bqgmz.top/b/5d3237bda862/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/5d3237bda862/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

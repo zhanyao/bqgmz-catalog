@@ -1,7 +1,7 @@
 # The Blind Mother, and The Last Confession
 
-**作者** Caine, Hall, Sir, 1853-1931 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 19 题 · 131,847 字 ｜ **来源** Project Gutenberg
+**作者** Caine, Hall, Sir, 1853-1931 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 131,847 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/56e6b3b8678d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（131,847 字）。 |
-| 分章依据 | 按「题」标记切分为 19 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,939 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-bare），拼接正文 3,374 行。 |
+| 篇幅分布 | 平均每章 16,446 字；最长 I（部2）（28,771 字），最短 III（5,550 字）。 |
 | 原文溯源 | `cache/epub/35140/pg35140.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. The Blind Mother
-2. And
-3. The Last Confession
-4. BY HALL CAINE
-5. HALL CAINE'S BEST BOOKS
-6. THE BLIND MOTHER
-7. II
-8. III
-9. IV
-10. END OF "THE BLIND MOTHER"
+1. I
+2. II
+3. III
+4. IV
+5. I（部2）
+6. II（部2）
+7. III（部2）
+8. IV（部2）
 
-> 共 19 题，[完整目录与正文 →](https://www.bqgmz.top/b/56e6b3b8678d/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/56e6b3b8678d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

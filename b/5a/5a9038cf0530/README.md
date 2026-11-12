@@ -1,7 +1,7 @@
 # The homesteader
 
 **作者** Micheaux, Oscar, 1884-1951; Farrow, William McKnight, 1885-1967 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 20 章 · 639,468 字 ｜ **来源** Project Gutenberg
+**规模** 70 章 · 639,468 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5a9038cf0530/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（639,468 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 31,973 字。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XX」。 |
+| 分章依据 | 按「章」标记切分为 70 章（auto-chapter），拼接正文 17,191 行。 |
+| 篇幅分布 | 平均每章 9,053 字；最长 CHAPTER XI（部4）（19,836 字），最短 CHAPTER XII（部4）（3,927 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XX（部4）」。 |
 | 原文溯源 | `cache/epub/39238/pg39238.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/5a9038cf0530/)
+> 共 70 章，[完整目录与正文 →](https://www.bqgmz.top/b/5a9038cf0530/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

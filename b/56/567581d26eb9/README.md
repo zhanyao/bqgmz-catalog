@@ -1,7 +1,7 @@
 # Institutes of the Christian Religion (Vol. 2 of 2)
 
 **作者** Calvin, Jean, 1509-1564; Allen, John, 1771-1839 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 22 章 · 1,559,229 字 ｜ **来源** Project Gutenberg
+**规模** 20 章 · 1,559,229 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/567581d26eb9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,559,229 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 70,874 字；最长 CHAPTER I.（563,623 字），最短 xxv             1   2  183（19,650 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 38,343 行。 |
+| 篇幅分布 | 平均每章 51,060 字；最长 CHAPTER XVII.（137,840 字），最短 CHAPTER II.（25,483 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XX.」。 |
 | 原文溯源 | `cache/epub/64392/pg64392.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/567581d26eb9/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/567581d26eb9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

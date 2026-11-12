@@ -1,7 +1,7 @@
 # New Brooms
 
-**作者** Shores, Robert J. (Robert James), 1881-1934 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 10 段 · 207,931 字 ｜ **来源** Project Gutenberg
+**作者** Shores, Robert J. (Robert James), 1881-1934 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 6 章 · 207,931 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/55670691b125/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（207,931 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,793 字；最长 Had Louis the Little actually taken up François Villon from （39,501 字），最短 This activity upon the part of my publishers was not without（7,738 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-caps-sections），拼接正文 4,609 行。 |
+| 篇幅分布 | 平均每章 34,541 字；最长 BEDS FOR THE BAD（1）（55,905 字），最短 BEDS FOR THE BAD（3）（4,283 字）。 |
 | 原文溯源 | `cache/epub/65583/pg65583.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 6 章）
 
-1. Had Louis the Little actually taken up François Villon from
-2. Here is a secret, Mr. _Idler_, known to only a few: We never
-3. It is easy enough to see why an idea should fear to become a
-4. Alas! Sir, my youthful optimism was my undoing. I delayed my
-5. To what, Sir, is this country coming, when such things are p
-6. For our outward selves, our “every-day selves,” as we might
-7. My cousin, Robert Wasrich, is forever telling of the wealth
-8. As a boy I was of a confiding and trusting nature. I believe
-9. It was at this stage of our career, which is to say some thr
-10. This activity upon the part of my publishers was not without
+1. BEDS FOR THE BAD（1）
+2. BEDS FOR THE BAD（2）
+3. BEDS FOR THE BAD（3）
+4. OF LOOKING BACKWARD
+5. THE ABUSES OF ADVERSITY
+6. THE REWARD OF MERIT
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/55670691b125/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/55670691b125/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,22 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（336,432 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 42,054 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-part），拼接正文 9,621 行。 |
+| 篇幅分布 | 平均每章 41,846 字。 |
 | 原文溯源 | `cache/epub/70973/pg70973.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
 
-1. PART I
-2. PART II
-3. PART III
-4. PART IV
-5. PART V
-6. =Markets.=—Certain large cocoa-buying ce
-7. Where cotton is planted by natives, the
-8. Agege, 106, 109, 113
+1. PART III
+2. PART IV
+3. PART V（1）
+4. PART V（2）
+5. PART V（3）
+6. PART V（4）
+7. PART V（5）
+8. PART V（6）
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/63efb157128c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

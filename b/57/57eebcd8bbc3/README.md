@@ -1,7 +1,7 @@
 # Confederate wizards of the saddle
 
 **作者** Young, Bennett H. (Bennett Henderson), 1843-1919 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 24 章 · 861,717 字 ｜ **来源** Project Gutenberg
+**规模** 22 章 · 861,717 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/57eebcd8bbc3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（861,717 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 35,904 字；最长 CHAPTER I（77,337 字），最短 CHAPTER XXI（5,239 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 18,444 行。 |
+| 篇幅分布 | 平均每章 37,585 字；最长 CHAPTER IX（71,075 字），最短 CHAPTER XXI（5,239 字）。 |
 | 起止 | 始于「CHAPTER I」，止于「CHAPTER XXIV」。 |
 | 原文溯源 | `cache/epub/70204/pg70204.txt`（Project Gutenberg） |
 
@@ -21,15 +21,15 @@
 1. CHAPTER I
 2. CHAPTER II
 3. CHAPTER III
-4. Chapter IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. Chapter X
+4. CHAPTER V
+5. CHAPTER VI
+6. CHAPTER VII
+7. CHAPTER VIII
+8. CHAPTER IX
+9. CHAPTER XI
+10. CHAPTER XII
 
-> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/57eebcd8bbc3/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/57eebcd8bbc3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

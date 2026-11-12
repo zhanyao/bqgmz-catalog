@@ -11,21 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（405,639 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 57,948 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-chapter），拼接正文 9,198 行。 |
+| 篇幅分布 | 平均每章 56,244 字；最长 CHAPTER VI（120,500 字），最短 APPENDIX（10,634 字）。 |
 | 原文溯源 | `cache/epub/40924/pg40924.txt`（Project Gutenberg） |
 
 ## 章节目录（前 7 章）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
+1. SECTION I
+2. PART II
+3. PART III
 4. CHAPTER IV
 5. CHAPTER V
 6. CHAPTER VI
-7. After a few minutes the stone is withdra
+7. APPENDIX
 
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/604c4fa9dd91/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

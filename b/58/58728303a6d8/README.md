@@ -1,7 +1,7 @@
 # The Eureka Springs Story
 
-**作者** Rayburn, Otto Ernest, 1891-1960 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 154,917 字 ｜ **来源** Project Gutenberg
+**作者** Rayburn, Otto Ernest, 1891-1960 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 35 章 · 154,917 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/58728303a6d8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（154,917 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,131 字；最长 There was no Interstate Commerce Commission in those days to（39,937 字），最短 For recreation, we have the Harmon Playgrounds, equipped wit（15,060 字）。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-roman-bare），拼接正文 3,610 行。 |
+| 篇幅分布 | 平均每章 4,406 字；最长 X（10,726 字），最短 XXVII（1,854 字）。 |
 | 原文溯源 | `cache/epub/59099/pg59099.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. There was no Interstate Commerce Commission in those days to
-2. John Gaskins, the old bear hunter, seemed to think the water
-3. 1880 and 1881 were boom years for the new town. Cora Pinkley
-4. In Mill Hollow we have the famous Ozarka Spring, the only Eu
-5. Eureka Springs has had many distinguished visitors during it
-6. This homely verse, carved in stone above the fireplace in th
-7. For recreation, we have the Harmon Playgrounds, equipped wit
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/58728303a6d8/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/58728303a6d8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

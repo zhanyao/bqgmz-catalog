@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（326,581 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 13,607 字；最长 CHAPTER I. I LEAVE HOME（18,077 字），最短 CHAPTER III. I LEAVE HOME A THIRD TIME（9,261 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 7,019 行。 |
+| 篇幅分布 | 平均每章 13,585 字；最长 CHAPTER I. I LEAVE HOME（17,549 字），最短 CHAPTER III. I LEAVE HOME A THIRD TIME（9,261 字）。 |
 | 起止 | 始于「CHAPTER I. I LEAVE HOME」，止于「CHAPTER XXIV. THE END」。 |
 | 原文溯源 | `cache/epub/1274/pg1274.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/4ce0d93d263d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

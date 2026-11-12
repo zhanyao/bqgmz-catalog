@@ -1,7 +1,7 @@
 # Letters to Dead Authors（#1491）
 
-**作者** Lang, Andrew, 1844-1912 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 12 题 · 162,016 字 ｜ **来源** Project Gutenberg
+**作者** Lang, Andrew, 1844-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 162,016 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4d5a255a2f5f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（162,016 字）。 |
-| 分章依据 | 按「题」标记切分为 12 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,501 字。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-roman-bare），拼接正文 3,738 行。 |
+| 篇幅分布 | 平均每章 7,176 字；最长 IV.（8,981 字），最短 XXI.（2,600 字）。 |
+| 起止 | 始于「I.」，止于「XXII.」。 |
 | 原文溯源 | `cache/epub/1491/pg1491.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. TO
-2. MISS THACKERAY
-3. THESE EXERCISES
-4. IN THE ART OF DIPPING
-5. ARE DEDICATED
-6. PREFACE.
-7. CONTENTS.
-8. ABI, NEFASTE, QUAM CALCUS HUMUM SACRA EST,
-9. How often, studying in thy book, have I hummed to myself that of Horace—
-10. Thus, by God’s blessing, it befell thee
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 12 题，[完整目录与正文 →](https://www.bqgmz.top/b/4d5a255a2f5f/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/4d5a255a2f5f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

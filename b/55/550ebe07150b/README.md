@@ -1,7 +1,7 @@
 # Mr. Honey's Work Study Dictionary (English-German)
 
-**作者** Honig, Winfried ｜ **国家/地区** 其它语种 ｜ **体例** 题  
-**规模** 13 题 · 187,458 字 ｜ **来源** Project Gutenberg
+**作者** Honig, Winfried ｜ **国家/地区** 其它语种 ｜ **体例** 篇  
+**规模** 14 篇 · 187,458 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/550ebe07150b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（187,458 字）。 |
-| 分章依据 | 按「题」标记切分为 13 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,419 字。 |
+| 分章依据 | 按「篇」标记切分为 14 篇（auto-title-block），拼接正文 11,046 行。 |
+| 篇幅分布 | 平均每篇 12,968 字；最长 duration                           Dauer（33,830 字），最短 stoppage                           Unterbrechung, Anhalten（2,721 字）。 |
 | 原文溯源 | `cache/epub/3225/pg3225.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. History and Philosophy
-2. Act of Parliament Gesetz
-3. Labor Day Tag der Arbeit, 1. Mai
-4. Ministry of Labor Arbeitsministerium
-5. National Health Service staatlicher Gesundheitsdienst (Br.)
-6. National Insurance Sozialversicherung (Br.)
-7. National Insurance Contributions Sozialversicherungsbeträge (Br.)
-8. National Insurance Fund Sozialversicherungsfonds (Br.)
-9. Open University Fernuniversität (Br.)
-10. Trades Union Congress Spitzenverband der britischen Gewerkschaften
+1. accuracy Genauigkeit
+2. allocation Zuteilung, Zuweisung
+3. consumer Verbraucher, Konsument
+4. duration Dauer
+5. industry Industrie, Industriezweig
+6. job Arbeit, Arbeitsplatz, Arbeitsstelle
+7. link Verbindung, Verknüpfung
+8. man-hour Arbeiterstunde, Arbeitskräftestunde
+9. promotion Beförderung, Berufsförderung
+10. recipient Bezieher, Empfänger
 
-> 共 13 题，[完整目录与正文 →](https://www.bqgmz.top/b/550ebe07150b/)
+> 共 14 篇，[完整目录与正文 →](https://www.bqgmz.top/b/550ebe07150b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

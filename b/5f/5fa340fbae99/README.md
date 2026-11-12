@@ -1,7 +1,7 @@
 # L'Illustration, No. 3739, 31 Octobre 1914
 
-**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 27 题 · 59,769 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 15 篇 · 59,769 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5fa340fbae99/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（59,769 字）。 |
-| 分章依据 | 按「题」标记切分为 27 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,213 字。 |
+| 分章依据 | 按「篇」标记切分为 15 篇（通用标记切分），拼接正文 1,443 行。 |
+| 篇幅分布 | 平均每篇 3,911 字；最长 DANS LES CENDRES D'ARRAS（9,522 字），最短 DES VILLES OCCUPÉES（750 字）。 |
 | 原文溯源 | `cache/epub/55446/pg55446.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. L'ILLUSTRATION
-2. LES GRANDES HEURES
-3. LES BLESSÉS
-4. HENRI LAVEDAN.
-5. DANS LES CENDRES D'ARRAS
-6. GASTON CHÉRAU.
-7. LA PROTECTION DE COMPIÈGNE
-8. 20 octobre 1914.
-9. GABRIEL MOUREY,
-10. AUMONIERS MILITAIRES
+1. LES BLESSÉS
+2. DANS LES CENDRES D'ARRAS
+3. AUMONIERS MILITAIRES
+4. DEUX MINISTRES AUX ARMÉES
+5. DES VILLES OCCUPÉES
+6. LA CHUTE D'ANVERS
+7. LE BOMBARDEMENT DE PAPEETE
+8. LES TRANCHÉES ALLEMANDES
+9. DEUX AVIATEURS BLESSÉS AU-DESSUS DES LIGNES ALLEMANDES
+10. EN BELGIQUE
 
-> 共 27 题，[完整目录与正文 →](https://www.bqgmz.top/b/5fa340fbae99/)
+> 共 15 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5fa340fbae99/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

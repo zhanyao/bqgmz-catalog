@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（455,747 字）。 |
-| 分章依据 | 按「章」标记切分为 37 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,317 字；最长 CHAPTER XIII--“WILL YOU WALK INTO MY PARLOUR?”（22,881 字），最短 CHAPTER XVI--THE GIFT OF LOVE（4,626 字）。 |
+| 分章依据 | 按「章」标记切分为 37 章（auto-chapter），拼接正文 12,119 行。 |
+| 篇幅分布 | 平均每章 12,302 字；最长 CHAPTER XIII--“WILL YOU WALK INTO MY PARLOUR?”（22,881 字），最短 CHAPTER XVI--THE GIFT OF LOVE（4,626 字）。 |
 | 起止 | 始于「CHAPTER I--THE WANDER-FEVER」，止于「CHAPTER XXXVII--“AN HOUSE NOT MADE WITH HANDS”」。 |
 | 原文溯源 | `cache/epub/55928/pg55928.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 37 章，[完整目录与正文 →](https://www.bqgmz.top/b/5039625d49e8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

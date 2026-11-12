@@ -1,7 +1,7 @@
 # Half-hours with the Highwaymen - Vol 2 Picturesque Biographies and Traditions of the "Knights of the Road"
 
-**作者** Harper, Charles G. (Charles George), 1863-1943; Hardy, Paul, 1862-1942 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 18 段 · 373,548 字 ｜ **来源** Project Gutenberg
+**作者** Harper, Charles G. (Charles George), 1863-1943; Hardy, Paul, 1862-1942 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 30 章 · 373,548 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5be60e2112c7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（373,548 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,752 字；最长 The friends of the dead highwayman proved to the local world（39,831 字），最短 A slow-moving feeling of compassion for the unhappy wretch t（13,172 字）。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-toc-title-list），拼接正文 8,905 行。 |
+| 篇幅分布 | 平均每章 12,113 字；最长 DICK TURPIN（63,737 字），最短 PAUL LEWIS（2,035 字）。 |
 | 原文溯源 | `cache/epub/53112/pg53112.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. The friends of the dead highwayman proved to the local world
-2. That nobleman was Aubrey De Vere, twentieth and last Earl, t
-3. "To London," replied the knight; whereupon Whitney troubled
-4. "O'Brian, meeting with Dr. Clewer, who was try'd once and bu
-5. "Thou spawn of h—ll!" exclaimed Ogden, in a violent passion—
-6. It is pleasant to read of honest men occasionally coming to
-7. The consequences were the most serious known to the law. Wil
-8. Tracey was not one of your common highwaymen who expended th
-9. A week later, the same gang visited the house of a Mr. Sheld
-10. Mr. Major immediately made his loss known at the "Green Man,
+1. NEVISON: "SWIFT NICKS"
+2. JOHN COTTINGTON, _alias_ "MULLED SACK"
+3. THOMAS RUMBOLD
+4. "CAPTAIN" JAMES WHITNEY
+5. TWM SHON CATTI
+6. JOHN WITHERS AND WILLIAM EDWARDS
+7. PATRICK O'BRIAN
+8. JACK BIRD
+9. WILL OGDEN, JACK BRADSHAW, AND TOM REYNOLDS
+10. JACK OVET
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/5be60e2112c7/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/5be60e2112c7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

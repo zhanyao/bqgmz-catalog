@@ -1,7 +1,7 @@
 # La Sinjorino el la Maro
 
-**作者** Ibsen, Henrik, 1828-1906; Tangerud, Odd, 1919-2010 [Translator] ｜ **国家/地区** 世界语 ｜ **体例** 题  
-**规模** 11 题 · 114,322 字 ｜ **来源** Project Gutenberg
+**作者** Ibsen, Henrik, 1828-1906; Tangerud, Odd, 1919-2010 [Translator] ｜ **国家/地区** 世界语 ｜ **体例** 篇  
+**规模** 21 篇 · 114,322 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5ddabcf78bbe/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（114,322 字）。 |
-| 分章依据 | 按「题」标记切分为 11 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,392 字。 |
+| 分章依据 | 按「篇」标记切分为 21 篇（通用标记切分），拼接正文 6,004 行。 |
+| 篇幅分布 | 平均每篇 5,414 字。 |
 | 原文溯源 | `cache/epub/19182/pg19182.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Produced by William Walter Patterson and Andrew Sly
-2. Henrik Ibsen
-3. LA SINJORINO EL LA MARO
-4. Teatrajxo en kvin aktoj
-5. LA SINJORINO EL LA MARO
-6. ROLOJ:
-7. UNUA AKTO
-8. DUA AKTO
-9. TRIA AKTO
-10. KVARA AKTO
+1. (La domo de _doktoro Wangel_. Tegmentita verando maldekstre. Gxardeno
+2. (_Ballested_, mezagxa, vestita en malnova velurjako kaj kun
+3. (_Bolette Wangel_ venas sur la verandon tra la malfermita
+4. (Iom poste _Lyngstrand_ venas laux la vojo dekstre, kaj haltas
+5. (_Hilde_ elvenas kun la piedbenketo. _Bolette_ alportas pliajn
+6. (Li salutas kaj eliras tra la kradpordo. Preterpasante sur la vojo
+7. (_Sinjorino Ellida Wangel_, kun granda sxalo cxirkaux si kaj kun
+8. (_Lyngstrand_ venas sur la vojo de maldekstre kaj iras en la
+9. (Supre sur "La Videjo", arbustkovrita altajxo malantaux la urbo. Iom
+10. (_Junaj homoj_ el la urbo, _gesinjoroj_, venas pare de dekstre, kaj
 
-> 共 11 题，[完整目录与正文 →](https://www.bqgmz.top/b/5ddabcf78bbe/)
+> 共 21 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5ddabcf78bbe/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

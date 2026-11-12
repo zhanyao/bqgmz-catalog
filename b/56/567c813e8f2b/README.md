@@ -1,7 +1,7 @@
 # Acté
 
-**作者** Dumas, Alexandre, 1802-1870 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 24 题 · 328,459 字 ｜ **来源** Project Gutenberg
+**作者** Dumas, Alexandre, 1802-1870 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 18 篇 · 328,459 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/567c813e8f2b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（328,459 字）。 |
-| 分章依据 | 按「题」标记切分为 24 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,685 字。 |
+| 分章依据 | 按「篇」标记切分为 18 篇（通用标记切分），拼接正文 7,109 行。 |
+| 篇幅分布 | 平均每篇 18,213 字；最长 Chapitre XV（34,613 字），最短 Chapitre XIX（2,783 字）。 |
 | 原文溯源 | `cache/epub/18321/pg18321.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Produced by Chuck Greif and www.ebooksgratuits.com
-2. Alexandre Dumas
-3. ACTÉ
-4. Table des matières
-5. Préface
-6. Chapitre I
-7. Chapitre II
-8. Chapitre III
-9. Chapitre IV
-10. Chapitre V
+1. Chapitre I
+2. Chapitre II
+3. Chapitre III
+4. Chapitre IV
+5. Chapitre V
+6. Chapitre VI
+7. Chapitre VII
+8. Chapitre VIII
+9. Chapitre IX
+10. Chapitre X
 
-> 共 24 题，[完整目录与正文 →](https://www.bqgmz.top/b/567c813e8f2b/)
+> 共 18 篇，[完整目录与正文 →](https://www.bqgmz.top/b/567c813e8f2b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

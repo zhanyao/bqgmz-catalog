@@ -1,7 +1,7 @@
 # Ameisenbüchlein; oder, Anweisung zu einer vernünftigen Erziehung der Erzieher
 
-**作者** Salzmann, Christian Gotthilf, 1744-1811 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 48 题 · 220,896 字 ｜ **来源** Project Gutenberg
+**作者** Salzmann, Christian Gotthilf, 1744-1811 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 6 部分 · 220,896 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/65c8a92a6d98/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（220,896 字）。 |
-| 分章依据 | 按「题」标记切分为 48 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,602 字。 |
+| 分章依据 | 按「部分」标记切分为 6 部分（fallback-chunk），拼接正文 4,917 行。 |
+| 篇幅分布 | 平均每部分 36,816 字；最长 第 5 部分（43,491 字），最短 第 6 部分（6,643 字）。 |
 | 原文溯源 | `cache/epub/50691/pg50691.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 部分）
 
-1. AMEISENBÜCHLEIN
-2. Anweisung zu einer vernünftigen Erziehung der Erzieher
-3. CHRISTIAN GOTTHILF SALZMANN
-4. Mit Einleitung und Anmerkungen versehen von Ernst Schreck
-5. 1) Frohsinn, Gesundheit und ein heiteres Alter,
-6. 2) eigene Veredelung,
-7. 3) materieller Gewinn.
-8. 1) durch schlechtes Beispiel,
-9. 2) durch falsche Behandlungsart,
-10. 4) durch Nichtbefriedigung des Thätigkeitstriebes;
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
 
-> 共 48 题，[完整目录与正文 →](https://www.bqgmz.top/b/65c8a92a6d98/)
+> 共 6 部分，[完整目录与正文 →](https://www.bqgmz.top/b/65c8a92a6d98/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

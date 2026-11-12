@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（62,130 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,875 字；最长 CHAPTER III. A BATTLE OF WORDS.（13,632 字），最短 CHAPTER VI. A QUICK CHANGE.（4,990 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-chapter），拼接正文 1,544 行。 |
+| 篇幅分布 | 平均每章 8,836 字；最长 CHAPTER III. A BATTLE OF WORDS.（13,632 字），最短 CHAPTER VI. A QUICK CHANGE.（4,990 字）。 |
 | 起止 | 始于「CHAPTER I. READY FOR BUSINESS.」，止于「CHAPTER VII. FROM BAD TO WORSE.」。 |
 | 原文溯源 | `cache/epub/67475/pg67475.txt`（Project Gutenberg） |
 
@@ -29,4 +29,4 @@
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/655d28b1de33/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

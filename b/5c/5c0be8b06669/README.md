@@ -1,7 +1,7 @@
 # The Story of the Heavens
 
 **作者** Ball, Robert S. (Robert Stawell), 1840-1913 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 27 章 · 948,242 字 ｜ **来源** Project Gutenberg
+**规模** 28 章 · 948,242 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5c0be8b06669/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（948,242 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 35,120 字；最长 CHAPTER XXVII.（91,119 字），最短 CHAPTER VI.（7,619 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXVII.」。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-chapter），拼接正文 20,439 行。 |
+| 篇幅分布 | 平均每章 33,151 字；最长 CHAPTER II.（62,865 字），最短 CHAPTER VI.（7,619 字）。 |
 | 原文溯源 | `cache/epub/27378/pg27378.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/5c0be8b06669/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/5c0be8b06669/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

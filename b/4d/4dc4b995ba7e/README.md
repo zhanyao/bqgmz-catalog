@@ -1,7 +1,7 @@
 # The Renewal of Life; How and When to Tell the Story to the Young
 
-**作者** Morley, Margaret Warner, 1858-1923 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 160,022 字 ｜ **来源** Project Gutenberg
+**作者** Morley, Margaret Warner, 1858-1923 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 160,022 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4dc4b995ba7e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（160,022 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,860 字；最长 To meet this danger the mother can take certain precautions.（39,637 字），最短 The eggs are gray, spherical, about as large as sweet-pea se（19,341 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-roman-bare），拼接正文 3,714 行。 |
+| 篇幅分布 | 平均每章 9,894 字；最长 VI（28,060 字），最短 I（部2）（1,477 字）。 |
 | 原文溯源 | `cache/epub/26280/pg26280.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. To meet this danger the mother can take certain precautions.
-2. First let us examine the dry bean. It is hard, so hard that
-3. It may not be out of place here to say a few words about the
-4. The method of fertilization of the flowers satisfactorily ac
-5. The eggs are gray, spherical, about as large as sweet-pea se
-6. The question is often asked, whether country children are no
-7. The habits of self-reliance, self-control, and right thinkin
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/4dc4b995ba7e/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/4dc4b995ba7e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

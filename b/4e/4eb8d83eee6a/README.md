@@ -1,7 +1,7 @@
 # Elizabeth Montagu, the queen of the bluestockings, Volume 1 (of 2)
 
 **作者** Montagu, Mrs. (Elizabeth), 1718-1800; Climenson, Emily J. (Emily Jane), 1844-1921 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 9 章 · 534,364 字 ｜ **来源** Project Gutenberg
+**规模** 8 章 · 534,364 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4eb8d83eee6a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,11 +11,12 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（534,364 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 59,373 字；最长 CHAPTER V.（85,094 字），最短 CHAPTER VI.（43,722 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 15,885 行。 |
+| 篇幅分布 | 平均每章 55,049 字；最长 CHAPTER V.（85,094 字），最短 CHAPTER I.（36,256 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER VIII.」。 |
 | 原文溯源 | `cache/epub/70591/pg70591.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 章）
+## 章节目录（前 8 章）
 
 1. CHAPTER I.
 2. CHAPTER II.
@@ -25,9 +26,8 @@
 6. CHAPTER VI.
 7. CHAPTER VII.
 8. CHAPTER VIII.
-9. Heraclius, Prince, ii. 162
 
-> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/4eb8d83eee6a/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/4eb8d83eee6a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

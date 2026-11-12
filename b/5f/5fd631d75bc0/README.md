@@ -1,7 +1,7 @@
 # Koti: eli perhesuruja ja -iloja
 
-**作者** Bremer, Fredrika, 1801-1865; Suppanen, Alma, 1858-1937 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 14 题 · 715,589 字 ｜ **来源** Project Gutenberg
+**作者** Bremer, Fredrika, 1801-1865; Suppanen, Alma, 1858-1937 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 17 部分 · 715,589 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5fd631d75bc0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（715,589 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 51,113 字。 |
+| 分章依据 | 按「部分」标记切分为 17 部分（fallback-chunk），拼接正文 15,343 行。 |
+| 篇幅分布 | 平均每部分 42,093 字；最长 第 4 部分（44,341 字），最短 第 17 部分（9,575 字）。 |
 | 原文溯源 | `cache/epub/16333/pg16333.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 部分）
 
-1. KOTI
-2. ELI
-3. PERHESURUJA JA -ILOJA
-4. ENSIMMÄINEN OSASTO.
-5. «Jääkää kotiin illaksi» pyysi Elise seur
-6. TOINEN OSASTO.
-7. Petrea vastasi punastuen ettei hän -- «vielä ollut ostanut mitään.»
-8. Hyvin arvokkaasti Louise vastasi: «Hän istukoon!»
-9. Sinun!»
-10. KOLMAS OSASTO.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/5fd631d75bc0/)
+> 共 17 部分，[完整目录与正文 →](https://www.bqgmz.top/b/5fd631d75bc0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

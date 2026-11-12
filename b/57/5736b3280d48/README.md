@@ -1,7 +1,7 @@
 # Chroniques de J. Froissart, tome 02/13
 
-**作者** Froissart, Jean, 1338?-1410?; Luce, Siméon, 1833-1892 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 41 段 · 825,733 字 ｜ **来源** Project Gutenberg
+**作者** Froissart, Jean, 1338?-1410?; Luce, Siméon, 1833-1892 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 22 章 · 825,733 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5736b3280d48/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（825,733 字）。 |
-| 分章依据 | 按「段」标记切分为 41 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,139 字；最长 Le duc de Normandie met le siége devant le château d'Escaudœ（39,703 字），最短 Ensi ot en celle saison mesires Carles de Blois la ville et （4,942 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-caps-sections），拼接正文 18,837 行。 |
+| 篇幅分布 | 平均每章 37,533 字；最长 CHAPITRE XLVI.（9）（56,098 字），最短 CHAPITRE XLIX.（605 字）。 |
 | 原文溯源 | `cache/epub/50356/pg50356.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Le duc de Normandie met le siége devant le château d'Escaudœ
-2. Le siége durant devant Tournay, le comte de Hainaut ravage e
-3. Dans une dépêche d'Édouard III datée de Bruges le 9 juillet
-4. Le duc de Normandie, chef suprême de l'expédition, livre Cha
-5. Après la levée du siége d'Hennebont, Charles de Blois envoie
-6. § 99. Quant li rois de France eut oy recorder comment
-7. Et li dus de Normendie fu moult courouciés de
-8. Quant li contes oy ces parolles, se li sambla uns
-9. § 121. Chilz sièges fais et arrestés devant le cité de
-10. D'autre part, messires Wauflars de le Crois, qui
+1. 1340. OUVERTURE DES HOSTILITÉS ENTRE LES ROIS DE FRANCE ET
+2. D'ANGLETERRE (§§ 99 à 101).
+3. DE VALENCIENNES (§§ 102 à 107).
+4. NORMANDIE[135] (§§ 108 à 112).
+5. ÉDOUARD III ET SES ALLIÉS[158] (§§ 118 à 122).
+6. SEIGNEUR DE MONTMORENCY AU PONT-A-TRESSIN (§§ 127 à 132).
+7. 1341. VOYAGES DU COMTE DE MONTFORT EN ANGLETERRE, PUIS A
+8. CHAPITRE XLVI.（1）
+9. CHAPITRE XLVI.（2）
+10. CHAPITRE XLVI.（3）
 
-> 共 41 段，[完整目录与正文 →](https://www.bqgmz.top/b/5736b3280d48/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/5736b3280d48/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

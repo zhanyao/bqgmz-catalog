@@ -11,20 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（276,035 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 46,005 字；最长 PART V（74,794 字），最短 PART III（14,565 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 7,071 行。 |
+| 篇幅分布 | 平均每章 42,784 字；最长 PART II（102,040 字），最短 Appendix I, Bridge Report, 160-162.（5,965 字）。 |
 | 原文溯源 | `cache/epub/49972/pg49972.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
 
 1. PART I
 2. PART II
-3. 22. _Hamilton Avenue Extension._--The pr
-4. PART III
-5. PART IV
-6. PART V
+3. PART III
+4. PART IV
+5. PART V
+6. Appendix I, Bridge Report, 160-162.
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/53cda1d2142a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

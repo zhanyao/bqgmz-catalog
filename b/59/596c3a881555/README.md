@@ -1,7 +1,7 @@
 # In Story-land
 
-**作者** Harrison, Elizabeth, 1849-1927 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 161,201 字 ｜ **来源** Project Gutenberg
+**作者** Harrison, Elizabeth, 1849-1927 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 161,201 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/596c3a881555/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（161,201 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,150 字；最长 After a time she came to some rough rocks tumbled about in g（39,920 字），最短 Then by and by the people said, "our children must grow up l（1,115 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-toc-title-list），拼接正文 3,631 行。 |
+| 篇幅分布 | 平均每章 12,248 字；最长 PRINCE HARWEDA AND THE MAGIC PRISON（23,264 字），最短 THE LOVING CUP WHICH WAS MADE OF IRON（6,989 字）。 |
 | 原文溯源 | `cache/epub/33980/pg33980.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. After a time she came to some rough rocks tumbled about in g
-2. Ah, but they were a happy family! What if they did have to e
-3. "Indeed!" exclaimed Blessed-Eyes gladly, "You are just the m
-4. The king was so pleased to get the necklace that he at once
-5. Idothea told Menelaus that this strange father of hers would
-6. As they mounted higher and higher the landscape grew broader
-7. But Christopher Columbus had grown to be a very wise and tho
-8. Then by and by the people said, "our children must grow up l
+1. LITTLE BETA AND THE LAME GIANT
+2. THE LINE OF GOLDEN LIGHT; OR, THE LITTLE BLIND SISTER
+3. PRINCE HARWEDA AND THE MAGIC PRISON
+4. LITTLE BLESSED-EYES; OR, THE FAIRY'S BIRTHDAY GIFT
+5. THE FAIR WHITE CITY; OR, A STORY OF THE PAST, PRESENT, AND FUTURE
+6. THE LOVING CUP WHICH WAS MADE OF IRON
+7. HANS AND THE FOUR BIG GIANTS
+8. THE DISCONTENTED MILL WINDOW
+9. THE STRANGE STORY OF A WONDERFUL SEA-GOD
+10. THE VISION OF DANTE
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/596c3a881555/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/596c3a881555/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

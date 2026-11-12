@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（321,402 字）。 |
-| 分章依据 | 按「章」标记切分为 44 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,304 字；最长 CHAPTER XXXIII. A Royal Dresser and a Late Nester.（14,978 字），最短 CHAPTER III. Jenny Has a Good Word for Some Sparrows.（5,972 字）。 |
+| 分章依据 | 按「章」标记切分为 44 章（auto-chapter），拼接正文 7,814 行。 |
+| 篇幅分布 | 平均每章 7,202 字；最长 CHAPTER XXXIII. A Royal Dresser and a Late Nester.（14,978 字），最短 CHAPTER III. Jenny Has a Good Word for Some Sparrows.（5,972 字）。 |
 | 起止 | 始于「CHAPTER I. Jenny Wren Arrives.」，止于「CHAPTER XLV. Peter Sees Two Terrible Feathered Hunters.」。 |
 | 原文溯源 | `cache/epub/3074/pg3074.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 44 章，[完整目录与正文 →](https://www.bqgmz.top/b/628df084c35b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

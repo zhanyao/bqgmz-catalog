@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（300,353 字）。 |
-| 分章依据 | 按「章」标记切分为 37 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,117 字；最长 CHAPTER XXV--IN THE GRIP OF THE UNKNOWN（13,956 字），最短 CHAPTER XXVI--IN THE SUDDEN DARKNESS（3,678 字）。 |
+| 分章依据 | 按「章」标记切分为 37 章（auto-chapter），拼接正文 7,926 行。 |
+| 篇幅分布 | 平均每章 8,072 字；最长 CHAPTER XXV--IN THE GRIP OF THE UNKNOWN（13,956 字），最短 CHAPTER XXVI--IN THE SUDDEN DARKNESS（3,678 字）。 |
 | 起止 | 始于「CHAPTER I--THE COAST OF BARBARY」，止于「CHAPTER XXXVII--THE CALLING BEACON」。 |
 | 原文溯源 | `cache/epub/35518/pg35518.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 37 章，[完整目录与正文 →](https://www.bqgmz.top/b/65a38e26c601/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

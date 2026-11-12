@@ -11,14 +11,13 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（233,276 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,108 字；最长 CHAPTER XVI（21,719 字），最短 CHAPTER XIII（3,779 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXI」。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 5,860 行。 |
+| 篇幅分布 | 平均每章 11,083 字；最长 CHAPTER XVI（21,719 字），最短 CHAPTER XIII（3,779 字）。 |
 | 原文溯源 | `cache/epub/60169/pg60169.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I
+1. PART ONE
 2. CHAPTER II
 3. CHAPTER III
 4. CHAPTER IV
@@ -32,4 +31,4 @@
 > 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/5e8d1ddd4aff/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Esperanto Self-Taught with Phonetic Pronunciation
 
-**作者** Mann, William W. ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 90 题 · 200,482 字 ｜ **来源** Project Gutenberg
+**作者** Mann, William W. ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 200,482 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5c2ddde5a029/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（200,482 字）。 |
-| 分章依据 | 按「题」标记切分为 90 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,227 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-caps-sections），拼接正文 6,568 行。 |
+| 篇幅分布 | 平均每章 28,640 字；最长 IO           \|  KIO          \|  TIO         \|  ĈIO         \|  NENIO（67,662 字），最短 TRANSCRIBER'S NOTES（718 字）。 |
 | 原文溯源 | `cache/epub/23984/pg23984.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 章）
 
-1. MARLBOROUGH'S SELF-TAUGHT SERIES
-2. THIRD EDITION
-3. PRINTED IN GREAT BRITAIN
-4. PREFACE.
-5. WILLIAM W. MANN.
-6. CONTENTS.
-7. Preliminary Notes.--Accents, Vowels, Diphthongs, etc. 8
-8. Money.--Equivalent Values 127
-9. Weights and Measures; Postage 128
-10. THE ESPERANTO ALPHABET (WITH PHONETIC PRONUNCIATION).
+1. PRELIMINARY NOTES.（1）
+2. PRELIMINARY NOTES.（2）
+3. ELEMENTARY GRAMMAR.
+4. IO | KIO | TIO | ĈIO | NENIO
+5. FRENCH. ENGLISH. | GERMAN. ENGLISH. | ITALIAN. ENGLISH.
+6. POSTAGE.
+7. TRANSCRIBER'S NOTES
 
-> 共 90 题，[完整目录与正文 →](https://www.bqgmz.top/b/5c2ddde5a029/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/5c2ddde5a029/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

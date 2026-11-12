@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（30,030 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,006 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-chapter），拼接正文 998 行。 |
+| 篇幅分布 | 平均每章 5,978 字；最长 CANTO XXVI（9,409 字），最短 CANTO XXVIII（4,933 字）。 |
 | 原文溯源 | `cache/epub/8786/pg8786.txt`（Project Gutenberg） |
 
 ## 章节目录（前 5 章）
 
-1. Part 8
-2. CANTO XXIII
-3. CANTO XXIV
-4. CANTO XXV
-5. CANTO XXVI
+1. CANTO XXIII
+2. CANTO XXIV
+3. CANTO XXV
+4. CANTO XXVI
+5. CANTO XXVIII
 
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/62e31fe4eb89/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Household words, No. 19, August 3, 1850
 
-**作者** Dickens, Charles, 1812-1870 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 15 题 · 108,949 字 ｜ **来源** Project Gutenberg
+**作者** Dickens, Charles, 1812-1870 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 108,949 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/56eff5e311dd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（108,949 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,263 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（auto-symbol-●），拼接正文 2,418 行。 |
+| 篇幅分布 | 平均每篇 56 字。 |
 | 原文溯源 | `cache/epub/78184/pg78184.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 篇）
 
-1. CONDUCTED BY CHARLES DICKENS.
-2. N^{o.} 19.] SATURDAY, AUGUST 3, 1850. [PRICE 2_d._
-3. THE LAST OF A LONG LINE.
-4. IN TWO CHAPTERS.—CHAPTER I.
-5. THE CHEMISTRY OF A CANDLE.
-6. AN OLD HAUNT.
-7. THE HIPPOPOTAMUS.
-8. CHIPS.
-9. RAILWAY COMFORT
-10. IMPROVING A BULL.
+1. Fixed typos; non-standard spelling and dialect retained.
+2. Renumbered footnotes.
+3. Enclosed italics font in _underscores_.
+4. The caret (^) is used to indicate superscript, whether applied to a
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/56eff5e311dd/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/56eff5e311dd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

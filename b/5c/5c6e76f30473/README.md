@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（716,423 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 29,850 字；最长 CHAPTER XV. UNCLE JOHN SMITH.（51,076 字），最短 CHAPTER VI. A ROMANTIC TRAGEDY.（10,993 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 15,597 行。 |
+| 篇幅分布 | 平均每章 28,210 字；最长 CHAPTER XV. UNCLE JOHN SMITH.（51,076 字），最短 CHAPTER VI. A ROMANTIC TRAGEDY.（10,993 字）。 |
 | 起止 | 始于「CHAPTER I. UNDER THE SPANIARDS.」，止于「CHAPTER XXIV. INVASION OF THE RAILROAD.」。 |
 | 原文溯源 | `cache/epub/7984/pg7984.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/5c6e76f30473/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

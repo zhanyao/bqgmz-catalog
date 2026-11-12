@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（248,527 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,426 字；最长 CHAPTER XX. HOW ALEXANDER CAME TO HIS LIFE’S END AND WAS BURIED,（25,463 字），最短 CHAPTER V. HOW ALEXANDER GATHERED AN ARMY TOGETHER: HOW HE BUILT（8,319 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 5,513 行。 |
+| 篇幅分布 | 平均每章 12,127 字；最长 CHAPTER XX. HOW ALEXANDER CAME TO HIS LIFE’S END AND WAS BURIED,（25,000 字），最短 CHAPTER I. HOW ANECTANABUS WAS KING OF EGYPT, AND WHY HE FLED INTO（8,229 字）。 |
 | 起止 | 始于「CHAPTER I. HOW ANECTANABUS WAS KING OF EGYPT, AND WHY HE FLED INTO」，止于「CHAPTER XX. HOW ALEXANDER CAME TO HIS LIFE’S END AND WAS BURIED,」。 |
 | 原文溯源 | `cache/epub/64991/pg64991.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/562025befff1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

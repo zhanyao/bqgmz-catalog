@@ -1,7 +1,7 @@
 # Jerry; or, the sailor boy ashore
 
 **作者** Aimwell, Walter, 1822-1859 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 12 章 · 196,359 字 ｜ **来源** Project Gutenberg
+**规模** 29 章 · 196,359 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/501fab33c064/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（196,359 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,363 字；最长 CHAPTER I.（63,425 字），最短 CHAPTER II.（5,336 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XII.」。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-chapter），拼接正文 4,786 行。 |
+| 篇幅分布 | 平均每章 6,669 字。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XII.（部3）」。 |
 | 原文溯源 | `cache/epub/74467/pg74467.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/501fab33c064/)
+> 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/501fab33c064/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

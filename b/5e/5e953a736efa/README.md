@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（181,897 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,736 字；最长 CHAPTER IX. A JOURNEY.（10,916 字），最短 CHAPTER VI. WHAT THE ENVELOPE CONTAINED.（4,297 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-chapter），拼接正文 6,043 行。 |
+| 篇幅分布 | 平均每章 6,713 字；最长 CHAPTER IX. A JOURNEY.（10,916 字），最短 CHAPTER VI. WHAT THE ENVELOPE CONTAINED.（4,297 字）。 |
 | 起止 | 始于「CHAPTER I. INTRODUCES THE CRUMPS.」，止于「CHAPTER XXVII. CONCLUSION.」。 |
 | 原文溯源 | `cache/epub/4660/pg4660.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/5e953a736efa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

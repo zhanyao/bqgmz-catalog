@@ -1,7 +1,7 @@
 # The Little Black Princess: A True Tale of Life in the Never-Never Land
 
-**作者** Gunn, Jeannie, 1870-1961 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 116,819 字 ｜ **来源** Project Gutenberg
+**作者** Gunn, Jeannie, 1870-1961 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 13 篇 · 116,819 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5d4a5ab62fd7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,12 +11,12 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（116,819 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,986 字；最长 Chapter 8 A Walkabout（12,746 字），最短 Chapter 13 Bett-Bett Is Bush-Hungry（2,692 字）。 |
+| 分章依据 | 按「篇」标记切分为 13 篇（通用标记切分），拼接正文 3,021 行。 |
+| 篇幅分布 | 平均每篇 8,858 字；最长 Chapter 8 A Walkabout（12,746 字），最短 Chapter 13 Bett-Bett Is Bush-Hungry（2,692 字）。 |
 | 起止 | 始于「Chapter 1 Bett-Bett」，止于「Chapter 13 Bett-Bett Is Bush-Hungry」。 |
 | 原文溯源 | `cache/epub/57205/pg57205.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
 1. Chapter 1 Bett-Bett
 2. Chapter 2 Shimy Shirts
@@ -29,7 +29,7 @@
 9. Chapter 9 The Coronation Playabout
 10. Chapter 10 Looking-Out Lily-Root
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/5d4a5ab62fd7/)
+> 共 13 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5d4a5ab62fd7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

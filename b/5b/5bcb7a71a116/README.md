@@ -1,7 +1,7 @@
 # Travels and Adventures of Monsieur Violet
 
-**作者** Marryat, Frederick, 1792-1848 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 52 题 · 701,859 字 ｜ **来源** Project Gutenberg
+**作者** Marryat, Frederick, 1792-1848 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 35 章 · 701,859 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5bcb7a71a116/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（701,859 字）。 |
-| 分章依据 | 按「题」标记切分为 52 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,497 字。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-caps-sections），拼接正文 14,680 行。 |
+| 篇幅分布 | 平均每章 20,053 字；最长 CHAPTER THIRTEEN.（48,762 字），最短 "WILLIAM STAFFORD."（1,750 字）。 |
 | 原文溯源 | `cache/epub/21556/pg21556.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. MONSIEUR VIOLET, BY CAPTAIN FREDERICK MARRYAT.
-3. CHAPTER ONE.
-4. CHAPTER TWO.
-5. CHAPTER THREE.
-6. CHAPTER FOUR.
-7. CHAPTER FIVE.
-8. CHAPTER SIX.
-9. CHAPTER SEVEN.
-10. CHAPTER EIGHT.
+1. CHAPTER TWO.
+2. CHAPTER THREE.
+3. CHAPTER FOUR.
+4. CHAPTER FIVE.
+5. CHAPTER SIX.
+6. CHAPTER SEVEN.
+7. CHAPTER NINE.
+8. CHAPTER ELEVEN.
+9. CHAPTER THIRTEEN.
+10. CHAPTER SIXTEEN.
 
-> 共 52 题，[完整目录与正文 →](https://www.bqgmz.top/b/5bcb7a71a116/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/5bcb7a71a116/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

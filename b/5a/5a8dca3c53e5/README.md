@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（411,069 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,127 字；最长 CHAPTER XXI. THE SENTENCE（26,300 字），最短 CHAPTER III. DIANA SCHEMES（11,156 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 10,458 行。 |
+| 篇幅分布 | 平均每章 17,099 字；最长 CHAPTER XXI. THE SENTENCE（26,300 字），最短 CHAPTER III. DIANA SCHEMES（11,156 字）。 |
 | 起止 | 始于「CHAPTER I. POT-VALIANCE」，止于「CHAPTER XXIV. JUSTICE」。 |
 | 原文溯源 | `cache/epub/1457/pg1457.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/5a8dca3c53e5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

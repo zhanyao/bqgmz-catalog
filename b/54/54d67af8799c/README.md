@@ -1,7 +1,7 @@
 # History for ready reference, Volume 3, Greece to Nibelungen
 
-**作者** Larned, J. N. (Josephus Nelson), 1836-1913 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 676 题 · 4,375,607 字 ｜ **来源** Project Gutenberg
+**作者** Larned, J. N. (Josephus Nelson), 1836-1913 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 78 章 · 4,375,607 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/54d67af8799c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（4,375,607 字）。 |
-| 分章依据 | 按「题」标记切分为 676 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,472 字。 |
+| 分章依据 | 按「章」标记切分为 78 章（auto-part），拼接正文 118,202 行。 |
+| 篇幅分布 | 平均每章 56,097 字；最长 Volume III—Greece To Nibelungen Lied（6）（65,044 字），最短 Volume III—Greece To Nibelungen Lied（66）（23,050 字）。 |
 | 原文溯源 | `cache/epub/68302/pg68302.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. End Transcriber's Notes.]
-2. History For Ready Reference, Volume 3 of 6
-3. BY J. N. LARNED
-4. In Five Volumes
-5. Volume III—Greece To Nibelungen Lied
-6. MDCCCXCV
-7. Irish History, To follow page 1754
-8. The Seventh Century, On page 2073
-9. The Eighth Century, On page 2074
-10. SEE ATHENS: B. C. 489-480.
+1. Volume III—Greece To Nibelungen Lied（1）
+2. Volume III—Greece To Nibelungen Lied（2）
+3. Volume III—Greece To Nibelungen Lied（3）
+4. Volume III—Greece To Nibelungen Lied（4）
+5. Volume III—Greece To Nibelungen Lied（5）
+6. Volume III—Greece To Nibelungen Lied（6）
+7. Volume III—Greece To Nibelungen Lied（7）
+8. Volume III—Greece To Nibelungen Lied（8）
+9. Volume III—Greece To Nibelungen Lied（9）
+10. Volume III—Greece To Nibelungen Lied（10）
 
-> 共 676 题，[完整目录与正文 →](https://www.bqgmz.top/b/54d67af8799c/)
+> 共 78 章，[完整目录与正文 →](https://www.bqgmz.top/b/54d67af8799c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

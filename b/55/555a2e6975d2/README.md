@@ -1,7 +1,7 @@
 # Confessions Of Con Cregan, the Irish Gil Blas
 
 **作者** Lever, Charles, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 43 章 · 976,793 字 ｜ **来源** Project Gutenberg
+**规模** 33 章 · 976,793 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/555a2e6975d2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（976,793 字）。 |
-| 分章依据 | 按「章」标记切分为 43 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,716 字。 |
+| 分章依据 | 按「章」标记切分为 33 章（auto-chapter），拼接正文 22,324 行。 |
+| 篇幅分布 | 平均每章 29,320 字；最长 CHAPTER XXVII. GUAJUAQUALLA（57,508 字），最短 CHAPTER I. A PEEP AT MY FATHER（9,233 字）。 |
+| 起止 | 始于「CHAPTER I. A PEEP AT MY FATHER」，止于「CHAPTER XXXIV. CONCLUSION」。 |
 | 原文溯源 | `cache/epub/32060/pg32060.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -24,11 +25,11 @@
 5. CHAPTER V. A PEEP AT "HIGH AND LOW COMPANY"
 6. CHAPTER VI. VIEWS OF LIFE
 7. CHAPTER VII. A BOLD STROKE FOR AN OPENING IN THE WORLD
-8. CHAPTER VIII. A QUIET CHOP AT 'KILLEEN'S'
+8. CHAPTER VIII. A QUIET CHOP AT 'KILLEEN'S' AND A GLANCE AT A NEW
 9. CHAPTER IX. SIR DUDLEY BROUGHTON
 10. CHAPTER X. THE VOYAGE OUT
 
-> 共 43 章，[完整目录与正文 →](https://www.bqgmz.top/b/555a2e6975d2/)
+> 共 33 章，[完整目录与正文 →](https://www.bqgmz.top/b/555a2e6975d2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

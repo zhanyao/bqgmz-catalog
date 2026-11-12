@@ -1,7 +1,7 @@
 # L'Illustration, No. 3668, 14 Juin 1913
 
-**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 50 题 · 92,402 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 25 篇 · 92,402 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6333c2d264bf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（92,402 字）。 |
-| 分章依据 | 按「题」标记切分为 50 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,848 字。 |
+| 分章依据 | 按「篇」标记切分为 25 篇（通用标记切分），拼接正文 2,193 行。 |
+| 篇幅分布 | 平均每篇 3,663 字；最长 L'ART DE L'ENFANCE（7,501 字），最短 _UN ROMAN DE THEATRE_（344 字）。 |
 | 原文溯源 | `cache/epub/38883/pg38883.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Produced by Jeroen Hellingman et Rénald Lévesque
-2. L'Illustration, No. 3668, 14 Juin 1913
-3. M. PIERRE BAUDIN. V.-AMIRAL LE BRIS.
-4. COURRIER DE PARIS
-5. L'ART DE L'ENFANCE
-6. HENRI LAVEDAN.
-7. LE PRÉSIDENT DE LA RÉPUBLIQUE
-8. A TOULON
-9. LES FÊTES DE TOULON
-10. LE NOUVEAU GRAND TUNNEL SOUS LES ALPES
+1. _UN ROMAN DE THEATRE_
+2. L'ART DE L'ENFANCE
+3. A TOULON
+4. LES FÊTES DE TOULON
+5. LE LOETSCHBERG: DE SON PERCEMENT A SON INAUGURATION
+6. LES CONSÉQUENCES DE L'OUVERTURE DU LOETSCHBERG
+7. A L'ACADÉMIE DE FRANCE A ROME
+8. L'INCIDENT DU DERBY D'EPSOM
+9. L'ASSASSINAT DU GRAND VIZIR A CONSTANTINOPLE
+10. LE MATIN AU BOIS
 
-> 共 50 题，[完整目录与正文 →](https://www.bqgmz.top/b/6333c2d264bf/)
+> 共 25 篇，[完整目录与正文 →](https://www.bqgmz.top/b/6333c2d264bf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Invention of the Track Circuit The history of Dr. William Robinson's invention of the track circuit, the fundamental unit which made possible our present automatic block signaling and interlocking systems
 
 **作者** American Railway Association ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 3 章 · 127,202 字 ｜ **来源** Project Gutenberg
+**规模** 11 章 · 127,202 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/563a9150eb8d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（127,202 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 42,400 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 3,197 行。 |
+| 篇幅分布 | 平均每章 11,333 字。 |
 | 原文溯源 | `cache/epub/45179/pg45179.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 章）
+## 章节目录（前 10 章）
 
-1. Part II
-2. Part III
-3. Part IV
+1. RESOLUTION
+2. I
+3. THE INVENTION OF THE TRACK CIRCUIT
+4. Robinson's Patent
+5. THE TRACK CIRCUIT
+6. IV
+7. THE TRACK CIRCUIT IN GREAT BRITAIN AND ON THE CONTINENT,
+8. BY T. S. LASCELLES
+9. Some of the First Installations
+10. Track Circuits on the Continent
 
-> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/563a9150eb8d/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/563a9150eb8d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

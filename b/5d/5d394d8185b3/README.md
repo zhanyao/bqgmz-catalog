@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（218,466 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,738 字；最长 CHAPTER XII IN WHICH HERBERT BECOMES ACQUAINTED WITH SOME OF THE（11,006 字），最短 CHAPTER IV IN WHICH FORTUNE UNEXPECTEDLY FAVORS DAVID HARKINS（5,577 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 5,592 行。 |
+| 篇幅分布 | 平均每章 8,662 字；最长 CHAPTER XII IN WHICH HERBERT BECOMES ACQUAINTED WITH SOME OF THE（11,006 字），最短 CHAPTER IV IN WHICH FORTUNE UNEXPECTEDLY FAVORS DAVID HARKINS（5,577 字）。 |
 | 起止 | 始于「CHAPTER I IN WHICH A BULLY COMES TO GRIEF」，止于「CHAPTER XXV DEMONSTRATING THE TRUTH OF THE SAYING THAT ALL’S WELL THAT」。 |
 | 原文溯源 | `cache/epub/64386/pg64386.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/5d394d8185b3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

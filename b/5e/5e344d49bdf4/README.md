@@ -1,7 +1,7 @@
 # Anthony Trollope; His Work, Associates and Literary Originals
 
 **作者** Escott, T. H. S. (Thomas Hay Sweet), 1844-1924 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 683,307 字 ｜ **来源** Project Gutenberg
+**规模** 27 章 · 683,307 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5e344d49bdf4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（683,307 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 42,706 字；最长 CHAPTER XV（94,308 字），最短 CHAPTER VI（27,994 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-caps-sections），拼接正文 16,024 行。 |
+| 篇幅分布 | 平均每章 25,088 字；最长 BIBLIOGRAPHY                                                         309（4）（56,570 字），最短 AMERICAN ROYALTIES（436 字）。 |
 | 原文溯源 | `cache/epub/60100/pg60100.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. CHAPTER X
+1. FRESH AND DEAR, THIS MONOGRAPH
+2. PREFACE
+3. THE NOVELIST AND THE OFFICIAL IN THE MAKING
+4. THE IRELAND THAT TROLLOPE KNEW
+5. THE FIRST TWO IRISH NOVELS
+6. ESTABLISHMENT IN LONDON
+7. PEN AND PLATFORM POLITICS
+8. AMERICAN MISSIONS AND COLONIAL TOURS
+9. CLOSING ACQUAINTANCES, SCENES, AND BOOKS
+10. BIBLIOGRAPHY 309（1）
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/5e344d49bdf4/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/5e344d49bdf4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

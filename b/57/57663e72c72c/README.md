@@ -1,7 +1,7 @@
 # The Englishwoman in Russia
 
 **作者** A lady ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 21 章 · 551,610 字 ｜ **来源** Project Gutenberg
+**规模** 20 章 · 551,610 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/57663e72c72c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（551,610 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,267 字；最长 CHAPTER XX.（59,068 字），最短 CHAPTER II.（6,283 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 11,752 行。 |
+| 篇幅分布 | 平均每章 23,100 字；最长 CHAPTER XI.（49,512 字），最短 CHAPTER II.（6,283 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XX.」。 |
 | 原文溯源 | `cache/epub/58794/pg58794.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/57663e72c72c/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/57663e72c72c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（181,538 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,346 字；最长 CHAPTER X. REIGN OF KING OLAF THE SAINT.（40,230 字），最短 CHAPTER XIII. MAGNUS THE BLIND, HARALD GYLLE, AND MUTUAL EXTINCTION OF（2,047 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 3,541 行。 |
+| 篇幅分布 | 平均每章 11,176 字；最长 CHAPTER X. REIGN OF KING OLAF THE SAINT.（40,230 字），最短 CHAPTER XIII. MAGNUS THE BLIND, HARALD GYLLE, AND MUTUAL EXTINCTION OF（2,047 字）。 |
 | 起止 | 始于「CHAPTER I. HARALD HAARFAGR.」，止于「CHAPTER XVI. EPILOGUE.」。 |
 | 原文溯源 | `cache/epub/1932/pg1932.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/55b95ff39978/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

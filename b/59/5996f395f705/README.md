@@ -1,7 +1,7 @@
 # Death Makes a Mistake
 
-**作者** McGivern, William P., 1921-1982 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 5 题 · 28,589 字 ｜ **来源** Project Gutenberg
+**作者** McGivern, William P., 1921-1982 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 28,589 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5996f395f705/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（28,589 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,717 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 925 行。 |
+| 篇幅分布 | 平均每篇 28,589 字。 |
 | 原文溯源 | `cache/epub/32880/pg32880.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 1 篇）
 
-1. DEATH MAKES A MISTAKE
-2. By P. F. COSTELLO
-3. REGGIE VAN FIDDLER MAKES ESCAPE!
-4. Mr. Demise nodded. "I am one of his agents."
-5. Reggie winced. "You said it."
+1. Death Makes a Mistake
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/5996f395f705/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5996f395f705/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

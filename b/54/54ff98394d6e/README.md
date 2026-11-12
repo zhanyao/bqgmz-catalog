@@ -1,7 +1,7 @@
 # Le roman d'un jeune homme pauvre (Novel)
 
-**作者** Feuillet, Octave, 1821-1890 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 13 段 · 275,947 字 ｜ **来源** Project Gutenberg
+**作者** Feuillet, Octave, 1821-1890 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 222 篇 · 275,947 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/54ff98394d6e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（275,947 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,226 字；最长 -- A titre amical et officieux, oui, monsieur le marquis.（39,469 字），最短 Je n'eus pas achevé ces mots, que sa figure flétrie s'illumi（15,728 字）。 |
+| 分章依据 | 按「篇」标记切分为 222 篇（通用标记切分），拼接正文 7,208 行。 |
+| 篇幅分布 | 平均每篇 1,243 字。 |
 | 原文溯源 | `cache/epub/26815/pg26815.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. -- A titre amical et officieux, oui, monsieur le marquis.
-2. Là-dessus je me suis dirigé vers la Sorbonne, où j'ai assist
-3. "1° M. Laroque (Louis-Auguste), octogénaire, chef actuel de
-4. On a mis alors sur le tapis, dans un pêle-mêle charmant, tou
-5. -- Si monsieur veut parler de M. de Bévallan, il ne tient qu
-6. -- Je ne suis point folle, cousin, reprit-elle, quoi qu'on
-7. Nous arrivâmes enfin dans une clairière très étroite qui
-8. Quand elle eut repris un peu de sérieux, elle m'interrogea s
-9. Mademoiselle Marguerite n'eut pas plus tôt atteint la
-10. Je quittai cette infortunée avec un profond sentiment de
+1. Produced by Daniel Fromont
+2. Je cherche maintenant dans le passé avec une triste avidité
+3. Pendant mon enfance et ma première jeunesse, j'avais eu pour
+4. Tel était mon père dans le monde; mais, aussitôt rentré au
+5. Les sentiments de ma mère à l'égard de mon père me semblaient
+6. Ma mère avait été mariée à quinze ans, et je touchais ma
+7. J'étais alors un fat, très enflé de mon nom, de ma jeune
+8. Je n'apercevais portant dans la maison aucune animation
+9. Ses paupières bleuâtres se refermèrent, puis elle les rouvrit
+10. Ce fut par une sombre soirée de février que je revis les
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/54ff98394d6e/)
+> 共 222 篇，[完整目录与正文 →](https://www.bqgmz.top/b/54ff98394d6e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

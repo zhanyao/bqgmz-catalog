@@ -1,7 +1,7 @@
 # Harper's Round Table, November 3, 1896
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 129,350 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 19 章 · 129,350 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4e8442dd86c4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（129,350 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,558 字；最长 Bull-dog was well known among my hunters. They looked at it （39,575 字），最短 "History" asks: "What was it about Queen Victoria that was j（10,385 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-caps-sections），拼接正文 3,376 行。 |
+| 篇幅分布 | 平均每章 6,807 字；最长 AB INITIO.（41,037 字），最短 EARN A GOLD WATCH!（375 字）。 |
 | 原文溯源 | `cache/epub/59808/pg59808.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. Bull-dog was well known among my hunters. They looked at it
-2. The boy's only thought now was to force the gate, escape int
-3. The gymnasium had been arranged to represent a salon. The bo
-4. Here Sandboys looked gratefully at an invisible something--d
-5. There are but three ways to go northward. One runs from 59th
-6. "History" asks: "What was it about Queen Victoria that was j
+1. AB INITIO.
+2. STRIKING "PAY DIRT."
+3. THE NUT TRICK.
+4. BURN A LADY'S HANDKERCHIEF, BUT RETURN IT WHOLE AGAIN.
+5. THE BOWL TRICK.
+6. THE HAT OMELET.
+7. THE WONDERFUL CARAFE.
+8. THE NORMAL EYE.
+9. AND
+10. WATCH AND CHAIN FOR ONE DAY'S WORK.
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/4e8442dd86c4/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/4e8442dd86c4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

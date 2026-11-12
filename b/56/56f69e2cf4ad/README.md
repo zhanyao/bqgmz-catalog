@@ -1,7 +1,7 @@
 # Harper's Round Table, January 24, 1882
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 55 题 · 72,534 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 72,534 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/56f69e2cf4ad/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（72,534 字）。 |
-| 分章依据 | 按「题」标记切分为 55 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,318 字。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-caps-sections），拼接正文 2,177 行。 |
+| 篇幅分布 | 平均每章 4,533 字。 |
 | 原文溯源 | `cache/epub/52745/pg52745.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. A COUNTRY BOY IN WINTER.
-2. BY SARAH O. JEWETT.
+1. VOL. III.--NO. 117. PUBLISHED BY HARPER & BROTHERS, NEW YORK. PRICE FOUR
+2. CENTS.
 3. TODD AND KETCHUM'S "GRATE SHOW."
-4. BY ELLA RODMAN CHURCH.
-5. THE WAVES AT WORK.
-6. BY CHARLES BARNARD.
-7. ON CIGARETTE SMOKING.
-8. BY AN OLD SMOKER
-9. THE TALKING LEAVES.[1]
-10. BY WILLIAM O. STODDARD.
+4. THE WAVES AT WORK.
+5. ON CIGARETTE SMOKING.
+6. CHAPTER XVI.
+7. MR. THOMPSON AND THE BULL-FROG.
+8. BOY'S HEAD BY GREUZE.
+9. THE SCULLION WHO BECAME A SCULPTOR.
+10. MINA L. C.
 
-> 共 55 题，[完整目录与正文 →](https://www.bqgmz.top/b/56f69e2cf4ad/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/56f69e2cf4ad/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

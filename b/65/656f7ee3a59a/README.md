@@ -1,7 +1,7 @@
 # Birds, Illustrated by Color Photography, Vol. 1, No. 1 January, 1897
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 30 题 · 36,381 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 36,381 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/656f7ee3a59a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（36,381 字）。 |
-| 分章依据 | 按「题」标记切分为 30 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,212 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-caps-sections），拼接正文 1,128 行。 |
+| 篇幅分布 | 平均每章 4,042 字；最长 THE RESPLENDENT TROGON.（10,166 字），最短 W. E. WATT,（483 字）。 |
 | 原文溯源 | `cache/epub/30221/pg30221.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. FROM: THE PRESIDENT OF THE NATIONAL TEACHERS' ASSOCIATION.
-2. BIRDS
-3. BIRDS
-4. ILLUSTRATED BY COLOR PHOTOGRAPHY
-5. PREFACE.
-6. THE NONPAREIL.
-7. I am called the Nonpareil because there is no other bird equal to me.
-8. I live in a cage, eat seeds, and am very fond of flies and spiders.
-9. I take a bath every day and how I do make the water fly!
-10. THE RESPLENDENT TROGON.
+1. THE RESPLENDENT TROGON.
+2. THE MANDARIN DUCK.
+3. THE GOLDEN PHEASANT
+4. THE AUSTRALIAN GRASS PARRAKEET.
+5. THE COCK-OF-THE-ROCK.
+6. THE RED-RUMPED TANAGER.
+7. THE RED-RUMPED TANAGER.
+8. THE GOLDEN ORIOLE.
+9. W. E. WATT,
 
-> 共 30 题，[完整目录与正文 →](https://www.bqgmz.top/b/656f7ee3a59a/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/656f7ee3a59a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

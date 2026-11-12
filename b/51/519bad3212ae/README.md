@@ -1,7 +1,7 @@
 # My Boyhood
 
-**作者** Burroughs, John, 1837-1921 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 69 题 · 203,952 字 ｜ **来源** Project Gutenberg
+**作者** Burroughs, John, 1837-1921 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 34 章 · 203,952 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/519bad3212ae/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（203,952 字）。 |
-| 分章依据 | 按「题」标记切分为 69 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,955 字。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-caps-sections），拼接正文 4,312 行。 |
+| 篇幅分布 | 平均每章 5,998 字；最长 MY BOYHOOD, BY JOHN BURROUGHS（2）（55,624 字），最短 JOHN BURROUGHS.（303 字）。 |
 | 原文溯源 | `cache/epub/7280/pg7280.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. MY BOYHOOD
-2. By John Burroughs
-3. With A Conclusion By His Son Julian Burroughs
-4. FOREWORD
-5. JULIAN BURROUGHS.
-6. CONTENTS
-7. MY BOYHOOD By John Burroughs
-8. MY FATHER By Julian Burroughs
-9. WAITING
-10. MY BOYHOOD, BY JOHN BURROUGHS
+1. FOREWORD
+2. MY BOYHOOD, BY JOHN BURROUGHS（1）
+3. MY BOYHOOD, BY JOHN BURROUGHS（2）
+4. MY BOYHOOD, BY JOHN BURROUGHS（3）
+5. DEAR JULIAN,
+6. MY DEAR JULIAN,
+7. MY DEAR JULIAN,
+8. DEAR JULIAN,
+9. MY DEAR JULIAN,
+10. DEAR JULIAN,
 
-> 共 69 题，[完整目录与正文 →](https://www.bqgmz.top/b/519bad3212ae/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/519bad3212ae/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

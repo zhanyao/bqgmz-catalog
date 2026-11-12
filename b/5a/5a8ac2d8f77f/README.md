@@ -1,7 +1,7 @@
 # Kaarle ja Sigismund I: Protestanttiko vai katolinen? Historiallis-romanttinen kuvaus
 
-**作者** Stjernström, Louise, 1812-1907; Soini, Lauri, 1875-1919 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 37 题 · 370,515 字 ｜ **来源** Project Gutenberg
+**作者** Stjernström, Louise, 1812-1907; Soini, Lauri, 1875-1919 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 23 章 · 370,515 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5a8ac2d8f77f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（370,515 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,013 字。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-num），拼接正文 10,336 行。 |
+| 篇幅分布 | 平均每章 16,081 字；最长 4.（40,558 字），最短 11.（5,519 字）。 |
+| 起止 | 始于「1.」，止于「24.」。 |
 | 原文溯源 | `cache/epub/55810/pg55810.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. KAARLE JA SIGISMUND I: PROTESTANTTIKO VAI KATOLINEN?
-2. Historiallis-romanttinen kuvaus
-3. CARL BLINK [Louise Stjernström]
-4. Suomentanut Juho Ahava [Lauri Soini]
-5. SISÄLLYS:
-6. HEHKUA TUHAN ALLA.
-7. KOLMENKYMMENEN TÄHTEET.
-8. KATOLILAINENKO VAI LUTERILAINEN.
-9. TAISTELU AINOAN AUTUAAKSI TEKEVÄN KIRKON PUOLESTA.
-10. ENSIMÄINEN YHTEENTÖRMÄYS.
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 6.
+6. 7.
+7. 8.
+8. 9.
+9. 10.
+10. 11.
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/5a8ac2d8f77f/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/5a8ac2d8f77f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

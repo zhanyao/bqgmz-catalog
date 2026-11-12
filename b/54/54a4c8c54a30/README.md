@@ -1,7 +1,7 @@
 # A month in Switzerland
 
 **作者** Zincke, F. Barham (Foster Barham), 1817-1893 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 21 章 · 315,770 字 ｜ **来源** Project Gutenberg
+**规模** 18 章 · 315,770 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/54a4c8c54a30/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（315,770 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,036 字。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 7,119 行。 |
+| 篇幅分布 | 平均每章 16,401 字；最长 CHAPTER IV.（99,888 字），最短 CHAPTER IX.（6,576 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVIII.」。 |
 | 原文溯源 | `cache/epub/69990/pg69990.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/54a4c8c54a30/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/54a4c8c54a30/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,20 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（250,422 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 41,737 字；最长 Now all this applies to the atmosphere. （86,699 字），最短 PART II—THE EARTH.（735 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-part），拼接正文 5,610 行。 |
+| 篇幅分布 | 平均每章 41,166 字；最长 Part I, Sect. 8). Having passed the solstice, the sun begins to decline（2）（55,710 字），最短 Part I, Sect. 8). Having passed the solstice, the sun begins to decline（3）（14,033 字）。 |
 | 原文溯源 | `cache/epub/72521/pg72521.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
 
-1. PART I—THE CELESTIAL SPHERE.
-2. PART II—THE EARTH.
-3. PART III—THE SOLAR SYSTEM.
-4. PART IV—THE FIXED STARS.
-5. Now all this applies to the atmosphere.
-6. We now take up the various planets singl
+1. Part I, Sect. 8). Having passed the solstice, the sun begins to decline（1）
+2. Part I, Sect. 8). Having passed the solstice, the sun begins to decline（2）
+3. Part I, Sect. 8). Having passed the solstice, the sun begins to decline（3）
+4. PART III.（1）
+5. PART III.（2）
+6. PART IV.
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/64fbe27e8cdd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

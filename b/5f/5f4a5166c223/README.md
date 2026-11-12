@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（88,663 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,666 字；最长 CHAPTER IV.--I TALK WITH CALHOUN AND THE “OCTARARA” GOES EAST AND WEST.（13,980 字），最短 CHAPTER VII.--WE COME TO A RIVER CALLED ELIZABETH, AND TO ANOTHER CALLED（11,897 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-chapter），拼接正文 2,358 行。 |
+| 篇幅分布 | 平均每章 12,639 字；最长 CHAPTER IV.--I TALK WITH CALHOUN AND THE “OCTARARA” GOES EAST AND WEST.（13,980 字），最短 CHAPTER VII.--WE COME TO A RIVER CALLED ELIZABETH, AND TO ANOTHER CALLED（11,897 字）。 |
 | 起止 | 始于「CHAPTER I.--BENSON AND CREE--THE COMMODORE INN, FORE AND AFT; AND A」，止于「CHAPTER VII.--WE COME TO A RIVER CALLED ELIZABETH, AND TO ANOTHER CALLED」。 |
 | 原文溯源 | `cache/epub/48147/pg48147.txt`（Project Gutenberg） |
 
@@ -29,4 +29,4 @@
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/5f4a5166c223/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

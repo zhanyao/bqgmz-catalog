@@ -1,7 +1,7 @@
 # The Mormon Menace: The Confessions of John Doyle Lee, Danite
 
 **作者** Lee, John Doyle, 1812-1877; Lewis, Alfred Henry, 1857-1914 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 23 章 · 435,725 字 ｜ **来源** Project Gutenberg
+**规模** 24 章 · 435,725 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5d4b89d25d93/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（435,725 字）。 |
-| 分章依据 | 按「章」标记切分为 23 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,944 字；最长 CHAPTER XXIII - LEE NEARS THE END（31,186 字），最短 CHAPTER II - LEE BEGINS A CAREER（8,782 字）。 |
-| 起止 | 始于「CHAPTER I - THE STORMY YOUTH OF LEE」，止于「CHAPTER XXIII - LEE NEARS THE END」。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 10,603 行。 |
+| 篇幅分布 | 平均每章 17,241 字；最长 CHAPTER XVII - LEE IS TREATED BADLY BY THE BRETHREN（27,585 字），最短 CHAPTER I - THE STORMY YOUTH OF LEE（8,718 字）。 |
 | 原文溯源 | `cache/epub/23519/pg23519.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX - MORMONISM AND ITS ORIGIN
 10. CHAPTER X - LEE CASTS OUT DEVILS
 
-> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/5d4b89d25d93/)
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/5d4b89d25d93/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

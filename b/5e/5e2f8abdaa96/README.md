@@ -1,7 +1,7 @@
 # The Present Picture of New South Wales (1811)
 
-**作者** Mann, D. D. (David Dickinson), 1775?- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 4 章 · 206,564 字 ｜ **来源** Project Gutenberg
+**作者** Mann, D. D. (David Dickinson), 1775?- ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 5 部分 · 206,564 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5e2f8abdaa96/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（206,564 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 51,641 字。 |
-| 起止 | 始于「Chapter I.」，止于「Chapter IV. Hints for the Improvement of the Colony.」。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 4,505 行。 |
+| 篇幅分布 | 平均每部分 41,312 字；最长 第 1 部分（42,752 字），最短 第 5 部分（36,819 字）。 |
 | 原文溯源 | `cache/epub/15533/pg15533.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 章）
+## 章节目录（前 5 部分）
 
-1. Chapter I.
-2. Chapter II.
-3. Chapter III. Present State of the Colony.
-4. Chapter IV. Hints for the Improvement of the Colony.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/5e2f8abdaa96/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/5e2f8abdaa96/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

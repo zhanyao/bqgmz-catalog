@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（48,778 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,129 字；最长 CHAPTER V. THE KIRKS AT HOME（11,283 字），最短 CHAPTER VI. “IT IS THEIR NATURE TO.”（4,246 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 1,128 行。 |
+| 篇幅分布 | 平均每章 8,120 字；最长 CHAPTER V. THE KIRKS AT HOME（11,283 字），最短 CHAPTER VI. “IT IS THEIR NATURE TO.”（4,246 字）。 |
 | 起止 | 始于「CHAPTER I. TROUBLE NO. 1」，止于「CHAPTER VI. “IT IS THEIR NATURE TO.”」。 |
 | 原文溯源 | `cache/epub/1816/pg1816.txt`（Project Gutenberg） |
 
@@ -28,4 +28,4 @@
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/59c592c50583/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

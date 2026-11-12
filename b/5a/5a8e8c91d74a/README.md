@@ -1,7 +1,7 @@
 # Seven years in South Africa, volume 1 (of 2)
 
 **作者** Holub, Emil, 1847-1902; Frewer, Ellen E. (Ellen Elizabeth), 1848-1940 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 12 章 · 533,116 字 ｜ **来源** Project Gutenberg
+**规模** 11 章 · 533,116 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5a8e8c91d74a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（533,116 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 44,426 字；最长 CHAPTER XI.（74,780 字），最短 CHAPTER IX.（19,618 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 12,169 行。 |
+| 篇幅分布 | 平均每章 42,230 字；最长 CHAPTER V.（72,054 字），最短 CHAPTER IX.（19,618 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XI.」。 |
 | 原文溯源 | `cache/epub/74281/pg74281.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/5a8e8c91d74a/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/5a8e8c91d74a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

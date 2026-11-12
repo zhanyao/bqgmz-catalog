@@ -1,7 +1,7 @@
 # A List of C. Kegan Paul & Co.'s Publications [1879]
 
-**作者** C. Kegan Paul & Co. ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 61 题 · 70,571 字 ｜ **来源** Project Gutenberg
+**作者** C. Kegan Paul & Co. ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 32 篇 · 70,571 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/573afc069365/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（70,571 字）。 |
-| 分章依据 | 按「题」标记切分为 61 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,156 字。 |
+| 分章依据 | 按「篇」标记切分为 32 篇（通用标记切分），拼接正文 2,307 行。 |
+| 篇幅分布 | 平均每篇 2,158 字。 |
 | 原文溯源 | `cache/epub/62326/pg62326.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. THE NINETEENTH CENTURY.
-2. EDITED BY JAMES KNOWLES.
-3. Price 2_s._ 6_d._
-4. A LIST OF C. KEGAN PAUL & CO.’S PUBLICATIONS.
-5. THE CURATE OF SHYRE. Second Edition. 8vo. price 7_s._ 6_d._
-6. SERMONS. First Series. Ninth Edition. Crown 8vo. price 6_s._
-7. SERMONS. Second Series. Third Edition. Crown 8vo. price 7_s._
-8. The Report from above, separately sewed, price 21_s._
-9. THE HYDROLOGY OF SOUTHERN AFRICA. Demy 8vo. price 10_s._ 6_d._
-10. A Special Edition for Schools. Price 1_s._
+1. _ADAMS (A. L.) M.A., M.B., F.R.S., F.G.S._—FIELD AND FOREST RAMBLES OF A
+2. _ANDERSON (R. C.) C.E._—TABLES FOR FACILITATING THE CALCULATION OF EVERY
+3. _BROOKE (W. G.) M.A._—THE PUBLIC WORSHIP REGULATION ACT. With a
+4. _BURCKHARDT (Jacob)_—THE CIVILIZATION OF THE PERIOD OF THE RENAISSANCE IN
+5. _CARPENTER (W. B.) LL.D., M.D., F.R.S., &c._—THE PRINCIPLES OF MENTAL
+6. A GENERAL HISTORY OF GREECE FROM THE EARLIEST PERIOD TO THE
+7. _DAVIDSON (Rev. Samuel) D.D., LL.D._—THE NEW TESTAMENT, TRANSLATED FROM
+8. _DE TOCQUEVILLE (A.)_—CORRESPONDENCE AND CONVERSATIONS OF, WITH NASSAU
+9. _DREWRY (G. O.) M.D., and BARTLETT (H. C.) Ph.D., F.C.S._—CUP AND
+10. _GARDNER (J.) M.D._—LONGEVITY: THE MEANS OF PROLONGING LIFE AFTER MIDDLE
 
-> 共 61 题，[完整目录与正文 →](https://www.bqgmz.top/b/573afc069365/)
+> 共 32 篇，[完整目录与正文 →](https://www.bqgmz.top/b/573afc069365/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

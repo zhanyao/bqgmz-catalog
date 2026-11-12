@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（201,915 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,076 字；最长 CHAPTER XXV--THE FIGHT IN THE DARK（13,924 字），最短 CHAPTER VIII--A THRILLING CLIMAX（5,111 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 5,662 行。 |
+| 篇幅分布 | 平均每章 7,965 字；最长 CHAPTER XXV--THE FIGHT IN THE DARK（13,924 字），最短 CHAPTER VIII--A THRILLING CLIMAX（5,111 字）。 |
 | 起止 | 始于「CHAPTER I--TAKEN UNAWARES」，止于「CHAPTER XXV--THE FIGHT IN THE DARK」。 |
 | 原文溯源 | `cache/epub/35594/pg35594.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/520f84f66f1c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（292,227 字）。 |
-| 分章依据 | 按「章」标记切分为 29 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,076 字；最长 CHAPTER III. FATE（21,110 字），最短 CHAPTER XXVII. THE BABY（2,771 字）。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-chapter），拼接正文 9,488 行。 |
+| 篇幅分布 | 平均每章 10,049 字；最长 CHAPTER III. FATE（21,110 字），最短 CHAPTER XXVII. THE BABY（2,771 字）。 |
 | 起止 | 始于「CHAPTER I. A FRIENDLY WARNING」，止于「CHAPTER XXIX. THE NEW MAN」。 |
 | 原文溯源 | `cache/epub/1634/pg1634.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/50e0468a68df/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

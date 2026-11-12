@@ -1,7 +1,7 @@
 # Die Lobensteiner reisen nach Böhmen: Zwölf Novellen und Geschichten
 
-**作者** Döblin, Alfred, 1878-1957 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 32 题 · 327,236 字 ｜ **来源** Project Gutenberg
+**作者** Döblin, Alfred, 1878-1957 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 12 章 · 327,236 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/643500f1edc8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（327,236 字）。 |
-| 分章依据 | 按「题」标记切分为 32 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,226 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-toc-title-list），拼接正文 6,569 行。 |
+| 篇幅分布 | 平均每章 27,239 字；最长 Die Lobensteiner reisen nach Böhmen（115,640 字），最短 Der Riese Wenzel（6,896 字）。 |
 | 原文溯源 | `cache/epub/36779/pg36779.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Jens Sadowski
-2. Alfred Döblin
-3. Die Lobensteiner reisen nach Böhmen
-4. Zwölf Novellen und Geschichten
-5. Zweite Auflage
-6. München 1917 bei Georg Müller
-7. Inhalt
-8. Linie Dresden-Bukarest
-9. Er plumpste keuchend auf den Sitz ihr gegenüber: »Nun ruhe ich.«
-10. Und dann nach einer Pause: »Der gute Grigor ist freilich etwas zahm.«
+1. Linie Dresden-Bukarest
+2. Das Femgericht
+3. Die Schlacht, die Schlacht!
+4. Der Kaplan
+5. Die Nachtwandlerin
+6. Von der himmlischen Gnade
+7. Vom Hinzel und dem wilden Lenchen
+8. Der Riese Wenzel
+9. Das Krokodil
+10. Das Gespenst vom Ritthof
 
-> 共 32 题，[完整目录与正文 →](https://www.bqgmz.top/b/643500f1edc8/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/643500f1edc8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

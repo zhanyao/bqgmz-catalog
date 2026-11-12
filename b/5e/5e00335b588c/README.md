@@ -1,7 +1,7 @@
 # The Boy Allies with Marshal Foch; or, The Closing Days of the Great World War
 
-**作者** Hayes, Clair W. (Clair Wallace), 1887- ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 11 段 · 237,908 字 ｜ **来源** Project Gutenberg
+**作者** Hayes, Clair W. (Clair Wallace), 1887- ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 28 篇 · 237,908 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5e00335b588c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（237,908 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,628 字；最长 Nevertheless they entered the outskirts of the city with fir（40,046 字），最短 Hal hurried to his side.  His face was chalky white, but his（17,730 字）。 |
+| 分章依据 | 按「篇」标记切分为 28 篇（通用标记切分），拼接正文 7,905 行。 |
+| 篇幅分布 | 平均每篇 8,431 字；最长 *THE CAPTURE OF SEDAN*（23,178 字），最短 "WHEE-E-E-E-E-OU-O-O-O-O--BANG!"（6,614 字）。 |
 | 原文溯源 | `cache/epub/50166/pg50166.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Nevertheless they entered the outskirts of the city with fir
-2. "Rats!" said Chester. "You make me tired, both of you."
-3. "Major Paine!" he called.
-4. "Well, I didn't know. Your memory isn't as good as it used
-5. Chester realized that a second leap was out of the question
-6. "The kaiser has abdicated!"
-7. "It has been thoughtless of me to keep you gentlemen here al
-8. He turned on his heel and was gone.
-9. "Oh, I wouldn't go as far as to say that," said Chester. "I
-10. "Not for warlike purposes, at all events, I trust. Many than
+1. *GOOD NEWS*
+2. *THROUGH THE LINES*
+3. *AMONG THE ENEMY*
+4. *CHESTER IS INDISCREET*
+5. *AN ENEMY PLOT BARED*
+6. *AN ENCOUNTER*
+7. *THE ADVANCE*
+8. *TOWARD SEDAN*
+9. *THE BATTLE*
+10. *THE ADVANCE CONTINUES*
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/5e00335b588c/)
+> 共 28 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5e00335b588c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

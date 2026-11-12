@@ -1,7 +1,7 @@
 # A true & exact history of the island of Barbados
 
-**作者** Ligon, Richard, 1585?-1662 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 17 题 · 351,097 字 ｜ **来源** Project Gutenberg
+**作者** Ligon, Richard, 1585?-1662 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 9 部分 · 351,097 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/64a20e650fb0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（351,097 字）。 |
-| 分章依据 | 按「题」标记切分为 17 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 20,652 字。 |
+| 分章依据 | 按「部分」标记切分为 9 部分（fallback-chunk），拼接正文 7,734 行。 |
+| 篇幅分布 | 平均每部分 39,010 字；最长 第 2 部分（41,551 字），最短 第 9 部分（22,962 字）。 |
 | 原文溯源 | `cache/epub/70489/pg70489.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 部分）
 
-1. TRANSCRIBER’S NOTE
-2. BARBADOS.
-3. R. LIGON.
-4. At the time of new _Moon_, we finde both
-5. Now for the Masters, I have yet said but
-6. The Bonano with the fruit ripe
-7. Sum totall to each man 4 04 0
-8. The four that attend in the house to each of them
-9. Sum is 35 00 0
-10. For wages to our principall Overseer yearly 50 00 00
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
 
-> 共 17 题，[完整目录与正文 →](https://www.bqgmz.top/b/64a20e650fb0/)
+> 共 9 部分，[完整目录与正文 →](https://www.bqgmz.top/b/64a20e650fb0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

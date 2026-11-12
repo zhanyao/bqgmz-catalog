@@ -1,7 +1,7 @@
 # The dreadful dragon of Hay Hill
 
-**作者** Beerbohm, Max, Sir, 1872-1956 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 6 题 · 92,570 字 ｜ **来源** Project Gutenberg
+**作者** Beerbohm, Max, Sir, 1872-1956 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 92,570 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/56445066cea4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（92,570 字）。 |
-| 分章依据 | 按「题」标记切分为 6 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 15,428 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 2,138 行。 |
+| 篇幅分布 | 平均每篇 22,998 字。 |
 | 原文溯源 | `cache/epub/75341/pg75341.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 题）
+## 章节目录（前 4 篇）
 
-1. MAX BEERBOHM
-2. LONDON: WILLIAM HEINEMANN LTD.
-3. THE DREADFUL DRAGON OF HAY HILL
-4. FINIS
-5. FOOTNOTE:
-6. TRANSCRIBER’S NOTES:
+1. THE DREADFUL DRAGON OF HAY HILL（1）
+2. THE DREADFUL DRAGON OF HAY HILL（2）
+3. FINIS
+4. FOOTNOTE:
 
-> 共 6 题，[完整目录与正文 →](https://www.bqgmz.top/b/56445066cea4/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/56445066cea4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

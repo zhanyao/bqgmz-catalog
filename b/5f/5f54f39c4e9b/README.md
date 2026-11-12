@@ -1,7 +1,7 @@
 # The Constitutional Amendment: or, The Sunday, the Sabbath, the Change, and Restitution A discussion between W. H. Littlejohn, Seventh-day Adventist, and the editor of the Christian Statesman
 
-**作者** Littlejohn, Wolcott H., 1834-1916 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 23 段 · 467,742 字 ｜ **来源** Project Gutenberg
+**作者** Littlejohn, Wolcott H., 1834-1916 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 5 篇 · 467,742 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5f54f39c4e9b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（467,742 字）。 |
-| 分章依据 | 按「段」标记切分为 23 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,336 字；最长 To that they must be brought, again and again. Its import mu（39,548 字），最短 THE SEVENTH PART OF TIME; a sermon on the Sabbath Question. （7,315 字）。 |
+| 分章依据 | 按「篇」标记切分为 5 篇（auto-symbol-○），拼接正文 9,778 行。 |
+| 篇幅分布 | 平均每篇 62 字。 |
 | 原文溯源 | `cache/epub/61071/pg61071.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 5 篇）
 
-1. To that they must be brought, again and again. Its import mu
-2. Let us, therefore, with a proper sense of the modesty with w
-3. All the facts connected with the meeting could be expanded,
-4. That all these things could be true, and yet our friends be
-5. We have given not a little space to the argument against the
-6. 2. In the case of the islanders, their mistake in the select
-7. Furthermore, we have from the pen of our opponent himself th
-8. We come now to the record of the first day of the following
-9. Now we appeal to the candid reader in view of these facts, a
-10. Now let it be supposed that the crucifixion answered to the
+1. Missing or obscured punctuation was silently corrected.
+2. Typographical errors were silently corrected.
+3. Inconsistent spelling and hyphenation were made consistent only
+4. Text that was in italics is enclosed by underscores (_italics_).
+5. Footnotes have been moved to follow the sections in which they are
 
-> 共 23 段，[完整目录与正文 →](https://www.bqgmz.top/b/5f54f39c4e9b/)
+> 共 5 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5f54f39c4e9b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Der Findling. Zweiter Band.
 
-**作者** Verne, Jules, 1828-1905 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 34 题 · 316,821 字 ｜ **来源** Project Gutenberg
+**作者** Verne, Jules, 1828-1905 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 15 章 · 316,821 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/58482d96fdca/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（316,821 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,318 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-roman-bare），拼接正文 8,175 行。 |
+| 篇幅分布 | 平均每章 21,080 字；最长 IV.（28,640 字），最短 XI.（15,466 字）。 |
+| 起止 | 始于「I.」，止于「XV.」。 |
 | 原文溯源 | `cache/epub/46174/pg46174.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Seite
-2. I. Ihre Herrlichkeiten 1
-3. II. Im Laufe von vier Monaten 15
-4. III. In Trelingar-castle 28
-5. IV. Die Seen von Killarney 42
-6. V. Schäferhund und Jagdhund 64
-7. VI. Zwei zusammen achtzehn Jahre alt 82
-8. VII. Sieben Monate in Cork 99
-9. VIII. Ein erster Heizer 112
-10. IX. Eine Speculation Bobs 127
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/58482d96fdca/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/58482d96fdca/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

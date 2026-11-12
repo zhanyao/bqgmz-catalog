@@ -1,7 +1,7 @@
 # With my regiment
 
-**作者** Mills, Arthur, 1887-1955 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 9 段 · 195,561 字 ｜ **来源** Project Gutenberg
+**作者** Mills, Arthur, 1887-1955 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 195,561 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/52595a3875f3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（195,561 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,729 字；最长 Nearing Paris we began to pass hospital trains going west, a（39,768 字），最短 "I've got some across the way, too," he said, as the orderly（15,468 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-roman-title），拼接正文 4,455 行。 |
+| 篇幅分布 | 平均每章 9,011 字。 |
 | 原文溯源 | `cache/epub/73692/pg73692.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. Nearing Paris we began to pass hospital trains going west, a
-2. It did not take more than an hour or two to pick up the rudi
-3. Some evenings there seemed no sign of war, and one evening i
-4. Now, at last, if the Staff Captain's words were true, the mo
-5. Suddenly there was a dull report from a distant point in fro
-6. Later, when Goyle came, she ushered us all into the parlour
-7. The regiment was acting as advance guard to the brigade, so
-8. When the meal was over and we had had a smoke, we dispersed
-9. "I've got some across the way, too," he said, as the orderly
+1. I. TAKING OUT A DRAFT
+2. II. RAILHEAD AND BEYOND
+3. III. EARLY DAYS ON THE AISNE
+4. IV. IN BILLETS
+5. V. THE MOVE UP (1)
+6. VI. THE MOVE UP (2)
+7. VII. NEARING THE FIRING-LINE
+8. VIII. GETTING INTO ACTION
+9. IX. AN ATTACK AT DAWN
+10. X. THE RESERVE COMPANY
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/52595a3875f3/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/52595a3875f3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

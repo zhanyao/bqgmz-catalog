@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（298,299 字）。 |
-| 分章依据 | 按「章」标记切分为 29 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,286 字；最长 CHAPTER II--WINCHESTER（14,917 字），最短 CHAPTER XXIII--THE DREAD DECREE（7,612 字）。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-chapter），拼接正文 8,297 行。 |
+| 篇幅分布 | 平均每章 10,225 字；最长 CHAPTER II--WINCHESTER（14,917 字），最短 CHAPTER XXIII--THE DREAD DECREE（7,612 字）。 |
 | 起止 | 始于「CHAPTER I--THE MEETING IN THE FOREST」，止于「CHAPTER XXIX--BRINGING THE SUMMER HOME」。 |
 | 原文溯源 | `cache/epub/37405/pg37405.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/5a8261fd93ad/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

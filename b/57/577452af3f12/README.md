@@ -1,7 +1,7 @@
 # A Mechanico-Physiological Theory of Organic Evolution
 
 **作者** Nägeli, Carl, 1817-1891 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 3 章 · 75,909 字 ｜ **来源** Project Gutenberg
+**规模** 4 章 · 75,909 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/577452af3f12/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（75,909 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 25,303 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-part），拼接正文 1,765 行。 |
+| 篇幅分布 | 平均每章 18,906 字。 |
 | 原文溯源 | `cache/epub/33514/pg33514.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 章）
+## 章节目录（前 4 章）
 
-1. Part I. The Darwinian Theory. =Cloth, $2.00.=
-2. Part II. Post-Darwinian Questions: Heredity and Utility. =Cloth,
-3. Part III. Post-Darwinian Questions: Isolation and Physiological
+1. Part I. The Darwinian Theory. =Cloth, $2.00.=（1）
+2. Part I. The Darwinian Theory. =Cloth, $2.00.=（2）
+3. Part II. Post-Darwinian Questions: Heredity and Utility. =Cloth,
+4. Part III. Post-Darwinian Questions: Isolation and Physiological
 
-> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/577452af3f12/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/577452af3f12/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（238,945 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 19,912 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 5,925 行。 |
+| 篇幅分布 | 平均每章 18,166 字；最长 CHAPTER XI. THE MAGIC WAND（51,421 字），最短 CHAPTER 1（8,447 字）。 |
+| 起止 | 始于「CHAPTER 1」，止于「CHAPTER XII」。 |
 | 原文溯源 | `cache/epub/1650/pg1650.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Chapter I The Zodiac
-2. Chapter II The Constellations
-3. Chapter III The Spiritual Interpretation of the
-4. Chapter IV Astro-Theology
-5. Chapter V Astro-Mythology
-6. Chapter VI Symbolism
-7. Chapter IX Talismans
-8. Chapter X Ceremonial Magic
-9. Chapter XI Magic Wands
-10. Chapter XII The Tablets of Aeth in three
+1. CHAPTER 1
+2. CHAPTER II
+3. CHAPTER III. THE SPIRITUAL INTERPRETATION OF THE TWELVE HOUSES OF
+4. CHAPTER IV. ASTRO-THEOLOGY
+5. CHAPTER V. ASTRO-MYTHOLOGY
+6. CHAPTER VI. SYMBOLISM
+7. CHAPTER VII. ALCHEMY--PART I
+8. CHAPTER VIII. ALCHEMY-PART II
+9. CHAPTER IX. TALISMANS
+10. CHAPTER X. CEREMONIAL MAGIC
 
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/4ebac256dec8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Prisoners of Poverty: Women Wage-Workers, Their Trades and Their Lives
 
-**作者** Campbell, Helen, 1839-1918 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 15 段 · 303,124 字 ｜ **来源** Project Gutenberg
+**作者** Campbell, Helen, 1839-1918 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 14 章 · 303,124 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4d3db927b3bf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（303,124 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,208 字；最长 It was the old shoemaker, a patient, sad-eyed old Scotchman,（39,492 字），最短 It is a sober statement of facts by a thoughtful woman who h（2,976 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-caps-sections），拼接正文 6,401 行。 |
+| 篇幅分布 | 平均每章 21,651 字；最长 MORE METHODS OF PROSPEROUS FIRMS.（52,555 字），最短 BERKELEY'S PROBATION," ETC.（2,704 字）。 |
 | 原文溯源 | `cache/epub/34060/pg34060.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. It was the old shoemaker, a patient, sad-eyed old Scotchman,
-2. As the case then at present stands, for this firm, and for m
-3. "The law! Lord help them that think the law is going to see
-4. From the fig-leaf down, it would seem as if a portion of the
-5. "Franz cares only for America," she said. "Come with us some
-6. The words came with gasps between. It was plain that what sh
-7. Granted instantly that only the lowest order of worker must
-8. "'Then you'd better set about it at once,' she says, an' wit
-9. "Shure I foind things that interestin' that I'm in no haste
-10. Here and there the conditions of this form of labor are of t
+1. PREFACE.
+2. WORKER AND TRADE.
+3. THE CASE OF ROSE HAGGERTY.
+4. THE BARGAIN COUNTER.
+5. MORE METHODS OF PROSPEROUS FIRMS.
+6. BETWEEN THE RIVERS.
+7. ONE OF THE FUR-SEWERS.
+8. THE WIDOW MALONEY'S BOARDERS.
+9. AMONG THE SHOP-GIRLS.
+10. CHILD-WORKERS IN NEW YORK.
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/4d3db927b3bf/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/4d3db927b3bf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

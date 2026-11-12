@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（156,610 字）。 |
-| 分章依据 | 按「章」标记切分为 36 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 4,350 字；最长 CHAPTER XXXVI—THE OTHER ENDING（14,993 字），最短 CHAPTER XXXIV—ONE ENDING（1,001 字）。 |
+| 分章依据 | 按「章」标记切分为 36 章（auto-chapter），拼接正文 4,856 行。 |
+| 篇幅分布 | 平均每章 4,325 字；最长 CHAPTER XXXVI—THE OTHER ENDING（14,993 字），最短 CHAPTER XXXIV—ONE ENDING（1,001 字）。 |
 | 起止 | 始于「CHAPTER I—LAW AND THINGS」，止于「CHAPTER XXXVI—THE OTHER ENDING」。 |
 | 原文溯源 | `cache/epub/44485/pg44485.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/4f1c78f8cb9c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

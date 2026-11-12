@@ -1,7 +1,7 @@
 # Scientific American Supplement, No. 275, April 9, 1881
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 67 题 · 225,415 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 2 章 · 225,415 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5db7abba3e23/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（225,415 字）。 |
-| 分章依据 | 按「题」标记切分为 67 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,364 字。 |
+| 分章依据 | 按「章」标记切分为 2 章（auto-roman-title），拼接正文 4,795 行。 |
+| 篇幅分布 | 平均每章 47,113 字。 |
+| 起止 | 始于「III. _Transmission by Pressure Water_.--As transmission of power by」，止于「IV. _Transmission by Electricity._--However high the efficiency of an」。 |
 | 原文溯源 | `cache/epub/8195/pg8195.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 2 章）
 
-1. SCIENTIFIC AMERICAN SUPPLEMENT NO. 275
-2. NEW YORK, APRIL 9, 1881
-3. Scientific American established 1845
-4. TABLE OF CONTENTS.
-5. The Hotchkiss Revolving Gun
-6. Floating Pontoon Dock. 2 figures.--Improved floating pontoon dock
-7. Two Good Lawn Trees
-8. Cutting Sods for Lawns
-9. Telephony by Thermic Currents
-10. WHEAT AND WHEAT BREAD.
+1. III. _Transmission by Pressure Water_.--As transmission of power by
+2. IV. _Transmission by Electricity._--However high the efficiency of an
 
-> 共 67 题，[完整目录与正文 →](https://www.bqgmz.top/b/5db7abba3e23/)
+> 共 2 章，[完整目录与正文 →](https://www.bqgmz.top/b/5db7abba3e23/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

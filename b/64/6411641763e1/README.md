@@ -1,7 +1,7 @@
 # Songs of Action
 
-**作者** Doyle, Arthur Conan, 1859-1930 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 28 题 · 51,250 字 ｜ **来源** Project Gutenberg
+**作者** Doyle, Arthur Conan, 1859-1930 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 28 章 · 51,250 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6411641763e1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（51,250 字）。 |
-| 分章依据 | 按「题」标记切分为 28 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,830 字。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-toc-title-list），拼接正文 2,234 行。 |
+| 篇幅分布 | 平均每章 1,806 字。 |
 | 原文溯源 | `cache/epub/4295/pg4295.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SONGS OF ACTION
-2. BY A. CONAN DOYLE
-3. CONTENTS
-4. THE SONG OF THE BOW
-5. CREMONA
-6. THE STORMING PARTY
-7. THE FRONTIER LINE
-8. A FORGOTTEN TALE
-9. PENNARBY MINE
-10. A ROVER CHANTY
+1. THE SONG OF THE BOW
+2. CREMONA
+3. THE STORMING PARTY
+4. THE FRONTIER LINE
+5. CORPORAL DICK’S PROMOTION
+6. A FORGOTTEN TALE
+7. PENNARBY MINE
+8. A ROVER CHANTY
+9. A BALLAD OF THE RANKS
+10. A LAY OF THE LINKS
 
-> 共 28 题，[完整目录与正文 →](https://www.bqgmz.top/b/6411641763e1/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/6411641763e1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # La Caravana Pasa Obras Completas Vol. I
 
-**作者** Darío, Rubén, 1867-1916; Ghiraldo, Alberto, 1874-1946 [Author of introduction, etc.] ｜ **国家/地区** 西班牙 ｜ **体例** 题  
-**规模** 34 题 · 297,407 字 ｜ **来源** Project Gutenberg
+**作者** Darío, Rubén, 1867-1916; Ghiraldo, Alberto, 1874-1946 [Author of introduction, etc.] ｜ **国家/地区** 西班牙 ｜ **体例** 篇  
+**规模** 20 篇 · 297,407 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5637a8b0c3c5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（297,407 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,747 字。 |
+| 分章依据 | 按「篇」标记切分为 20 篇（通用标记切分），拼接正文 6,716 行。 |
+| 篇幅分布 | 平均每篇 14,836 字。 |
 | 原文溯源 | `cache/epub/58375/pg58375.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. LA CARAVANA PASA
-2. POR
-3. Rubén Darío
-4. PRÓLOGO
-5. Alberto GHIRALDO
-6. II
-7. III
-8. IV
-9. VI
-10. VII
+1. _RUBÉN DARÍO_
+2. II
+3. III
+4. IV
+5. VI
+6. VIII
+7. II
+8. III
+9. IV
+10. VI
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/5637a8b0c3c5/)
+> 共 20 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5637a8b0c3c5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

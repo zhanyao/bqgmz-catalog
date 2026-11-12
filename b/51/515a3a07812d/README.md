@@ -1,7 +1,7 @@
 # Andreas Vesalius, the Reformer of Anatomy
 
-**作者** Ball, James Moores, 1863-1929 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 35 题 · 155,816 字 ｜ **来源** Project Gutenberg
+**作者** Ball, James Moores, 1863-1929 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 3 篇 · 155,816 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/515a3a07812d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（155,816 字）。 |
-| 分章依据 | 按「题」标记切分为 35 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,451 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（auto-title-block），拼接正文 3,817 行。 |
+| 篇幅分布 | 平均每篇 33,742 字。 |
 | 原文溯源 | `cache/epub/63456/pg63456.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 篇）
 
-1. PREFACE
-2. JAMES MOORES BALL.
-3. TABLE OF CONTENTS
-4. LIST OF ILLUSTRATIONS
-5. INTRODUCTION
-6. The General Renaissance
-7. The Anatomical Renaissance
-8. Gabriel de Zerbi
-9. John Peyligk
-10. Magnus Hundt
+1. Magnus Hundt
+2. John Dryander
+3. John Philip Ingrassias
 
-> 共 35 题，[完整目录与正文 →](https://www.bqgmz.top/b/515a3a07812d/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/515a3a07812d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Italian Twins
 
-**作者** Perkins, Lucy Fitch, 1865-1937 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 25 题 · 85,816 字 ｜ **来源** Project Gutenberg
+**作者** Perkins, Lucy Fitch, 1865-1937 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 85,816 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4dd101cb7304/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（85,816 字）。 |
-| 分章依据 | 按「题」标记切分为 25 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,432 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 2,038 行。 |
+| 篇幅分布 | 平均每章 7,675 字；最长 CHAPTER TWO.（14,965 字），最短 APPENDIX.（2,578 字）。 |
 | 原文溯源 | `cache/epub/28426/pg28426.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. CHAPTER ONE.
-3. MORNING IN THE GRIFONI PALACE.
-4. CHAPTER TWO.
-5. IN THE PIAZZA.
-6. CHAPTER THREE.
-7. IN THE MOUNTAINS.
-8. CHAPTER FOUR.
-9. THEY LEARN TO DANCE.
-10. This was the song:--
+1. CHAPTER ONE.
+2. CHAPTER TWO.
+3. CHAPTER THREE.
+4. CHAPTER FOUR.
+5. CHAPTER FIVE.
+6. CHAPTER SIX.
+7. CHAPTER SEVEN.
+8. CHAPTER EIGHT.
+9. CHAPTER NINE.
+10. CHAPTER TEN.
 
-> 共 25 题，[完整目录与正文 →](https://www.bqgmz.top/b/4dd101cb7304/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/4dd101cb7304/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

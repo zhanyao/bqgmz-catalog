@@ -1,7 +1,7 @@
 # The Bible, Douay-Rheims, Book 42: Aggeus The Challoner Revision
 
-**国家/地区** 英美 ｜ **体例** 题  
-**规模** 6 题 · 6,777 字 ｜ **来源** Project Gutenberg
+**国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 6,777 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5c5a8e39b74d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（6,777 字）。 |
-| 分章依据 | 按「题」标记切分为 6 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,129 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 229 行。 |
+| 篇幅分布 | 平均每篇 6,777 字。 |
 | 原文溯源 | `cache/epub/8342/pg8342.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 题）
+## 章节目录（前 1 篇）
 
-1. THE HOLY BIBLE
-2. Translated from the Latin Vulgate
-3. With Annotations
-4. THE PROPHECY OF AGGEUS
-5. Aggeus Chapter 1
-6. Aggeus Chapter 2
+1. The Bible, Douay-Rheims, Book 42: Aggeus The Challoner Revision
 
-> 共 6 题，[完整目录与正文 →](https://www.bqgmz.top/b/5c5a8e39b74d/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5c5a8e39b74d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

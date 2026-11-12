@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（198,720 字）。 |
-| 分章依据 | 按「章」标记切分为 26 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,643 字；最长 CHAPTER III--THE "GOLDEN HIND"（12,283 字），最短 CHAPTER VI--Z64 SCORES（4,464 字）。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 5,265 行。 |
+| 篇幅分布 | 平均每章 7,592 字；最长 CHAPTER III--THE "GOLDEN HIND"（12,283 字），最短 CHAPTER VI--Z64 SCORES（4,464 字）。 |
 | 起止 | 始于「CHAPTER I--A STARTLING PROPOSITION」，止于「CHAPTER XXVI--"WELL PLAYED, SIR!"」。 |
 | 原文溯源 | `cache/epub/39488/pg39488.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/571a10efe8d8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

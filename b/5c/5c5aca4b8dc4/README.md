@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（190,053 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 19,005 字；最长 CHAPTER VII--Little Folks of the United States（45,607 字），最短 CHAPTER V--Little Folks of Labrador（3,152 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 4,448 行。 |
+| 篇幅分布 | 平均每章 18,656 字；最长 CHAPTER VII--Little Folks of the United States（45,607 字），最短 CHAPTER V--Little Folks of Labrador（3,152 字）。 |
 | 起止 | 始于「CHAPTER I--Little Folks of Iceland」，止于「CHAPTER X--Little Folks of the West Indies」。 |
 | 原文溯源 | `cache/epub/37280/pg37280.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/5c5aca4b8dc4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The romance of comets
 
-**作者** Proctor, Mary, 1862-1957 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 21 题 · 210,092 字 ｜ **来源** Project Gutenberg
+**作者** Proctor, Mary, 1862-1957 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 210,092 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5f98f8695c00/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（210,092 字）。 |
-| 分章依据 | 按「题」标记切分为 21 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,004 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 4,573 行。 |
+| 篇幅分布 | 平均每章 22,849 字；最长 CHAPTER SIX（37,650 字），最短 CHAPTER THREE（9,118 字）。 |
 | 原文溯源 | `cache/epub/75545/pg75545.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. THE ROMANCE OF COMETS
-2. The Romance of Comets
-3. ILLUSTRATED
-4. TO THE MEMORY OF
-5. PROFESSOR E. E. BARNARD
-6. MARY PROCTOR.
-7. DAYLIGHT COMET 1910 A
-8. COMET OF DONATI
-9. PHOTOGRAPH OF MOREHOUSE COMET, 1908 C
-10. THE GREAT DAYLIGHT COMET, SEPTEMBER, 1882
+1. CHAPTER ONE
+2. CHAPTER TWO
+3. CHAPTER THREE
+4. CHAPTER FOUR
+5. CHAPTER FIVE
+6. CHAPTER SIX
+7. CHAPTER SEVEN
+8. CHAPTER EIGHT
+9. CHAPTER NINE
 
-> 共 21 题，[完整目录与正文 →](https://www.bqgmz.top/b/5f98f8695c00/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/5f98f8695c00/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

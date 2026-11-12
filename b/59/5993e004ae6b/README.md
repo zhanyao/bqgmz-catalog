@@ -1,7 +1,7 @@
 # A Week's Tramp in Dickens-Land Together with Personal Reminiscences of the 'Inimitable Boz' Therein Collected
 
 **作者** Hughes, William R. (William Richard), 1830-1899; Kitton, Frederic George, 1856-1904 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 518,557 字 ｜ **来源** Project Gutenberg
+**规模** 14 章 · 518,557 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5993e004ae6b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（518,557 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 51,855 字；最长 "'Muggleton.'（91,542 字），最短 CHAPTER IV.（14,417 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 12,887 行。 |
+| 篇幅分布 | 平均每章 35,175 字；最长 CHAPTER III.（58,116 字），最短 CHAPTER I.（7,390 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XIV.」。 |
 | 原文溯源 | `cache/epub/31394/pg31394.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -24,11 +25,11 @@
 5. CHAPTER V.
 6. CHAPTER VI.
 7. CHAPTER VII.
-8. "You are perfectly right in your constru
-9. "'Muggleton.'
-10. There are two rooms in the chalet, each
+8. CHAPTER VIII.
+9. CHAPTER IX.
+10. CHAPTER X.
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/5993e004ae6b/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/5993e004ae6b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

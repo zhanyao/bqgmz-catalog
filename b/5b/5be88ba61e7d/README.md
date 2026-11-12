@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（337,460 字）。 |
-| 分章依据 | 按「章」标记切分为 34 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,925 字；最长 CHAPTER XXXII--ON THE ALTAR OF HIS COUNTRY（14,622 字），最短 CHAPTER V--UP IN THE ATTIC（5,857 字）。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-chapter），拼接正文 9,235 行。 |
+| 篇幅分布 | 平均每章 9,831 字；最长 CHAPTER XXXII--ON THE ALTAR OF HIS COUNTRY（14,622 字），最短 CHAPTER V--UP IN THE ATTIC（5,857 字）。 |
 | 起止 | 始于「CHAPTER I--ON THE ROAD TO PHILADELPHIA」，止于「CHAPTER XXXIV--HOME」。 |
 | 原文溯源 | `cache/epub/36740/pg36740.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/5be88ba61e7d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

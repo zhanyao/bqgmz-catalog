@@ -1,7 +1,7 @@
 # The home-life of Borneo head-hunters
 
-**作者** Furness, William Henry, 1866-1920 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 19 段 · 400,114 字 ｜ **来源** Project Gutenberg
+**作者** Furness, William Henry, 1866-1920 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 400,114 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/654b29020622/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（400,114 字）。 |
-| 分章依据 | 按「段」标记切分为 19 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,058 字；最长 To these songs an accompaniment is often played upon an inst（37,990 字），最短 The Punans are pure jungle-folk, and know very little about （18,723 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-toc-title-list），拼接正文 8,796 行。 |
+| 篇幅分布 | 平均每章 41,935 字；最长 ‘JAWA’ OR PEACE-MAKING（94,472 字），最短 TUBA FISHING（8,775 字）。 |
 | 原文溯源 | `cache/epub/71656/pg71656.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 9 章）
 
-1. To these songs an accompaniment is often played upon an inst
-2. One day, during my second visit to Borneo, I was sitting in
-3. It is not worth while to give in detail all the long fifteen
-4. When the morning meal was over, the strong young men of the
-5. By the time we had returned to our places in the veranda, af
-6. THE COLLECTION OF TROPHY-HEADS IS HUNG, AS USUAL, ABOVE THE
-7. One day, about two years after the murder, a Malay trader, w
-8. Long before the excited stir and confusion had subsided, we
-9. Ma Obat clearly knew his audience. I think he had really voi
-10. Juman, for the second time the important member of an expedi
+1. HOME-LIFE
+2. CEREMONIES AT THE NAMING OF A CHIEF’S SON
+3. EARLY TRAINING OF A HEAD-HUNTER
+4. A WAR EXPEDITION
+5. ‘JAWA’ OR PEACE-MAKING
+6. PERSONAL EMBELLISHMENT
+7. PERMANTONG, OR LALI, A BORNEAN SPECIES OF TABOO
+8. THE PUNANS
+9. TUBA FISHING
 
-> 共 19 段，[完整目录与正文 →](https://www.bqgmz.top/b/654b29020622/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/654b29020622/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

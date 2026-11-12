@@ -1,7 +1,7 @@
 # Megállt az óra
 
-**作者** Tormay, Cécile, 1876-1937 ｜ **国家/地区** 匈牙利 ｜ **体例** 题  
-**规模** 31 题 · 104,866 字 ｜ **来源** Project Gutenberg
+**作者** Tormay, Cécile, 1876-1937 ｜ **国家/地区** 匈牙利 ｜ **体例** 篇  
+**规模** 7 篇 · 104,866 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5785141e8dcd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（104,866 字）。 |
-| 分章依据 | 按「题」标记切分为 31 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,382 字。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（通用标记切分），拼接正文 2,679 行。 |
+| 篇幅分布 | 平均每篇 14,756 字；最长 MEGÁLLT AZ ÓRA（37,977 字），最短 AZ ERDEI HÁZ（6,227 字）。 |
 | 原文溯源 | `cache/epub/77751/pg77751.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 篇）
 
-1. Budapest, 1924
-2. Magyar Tudományos Társulatok Sajtóvállalata Rt
-3. Szabó T. István
-4. TORMAY CÉCILE
-5. MEGÁLLT AZ ÓRA
-6. NOVELLÁK
-7. BUDAPEST. 1924
-8. MEGÁLLT AZ ÓRA
-9. Mindjárt, pillanatig se tart…
-10. Fehér mohával belepett fekete város a süppedő hóban…
+1. MEGÁLLT AZ ÓRA
+2. AZ UTOLSÓ DEREGLYE
+3. A VÉN ZSIBÁRÚS SZERENCSÉJE
+4. A SÍRÓ EMBER MEG A NEVETŐ EMBER
+5. AZ ERDEI HÁZ
+6. A SORSFOLYÓ
+7. A SIKER
 
-> 共 31 题，[完整目录与正文 →](https://www.bqgmz.top/b/5785141e8dcd/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5785141e8dcd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

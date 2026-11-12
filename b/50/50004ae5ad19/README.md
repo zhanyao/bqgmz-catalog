@@ -1,7 +1,7 @@
 # Captures
 
-**作者** Galsworthy, John, 1867-1933 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 61 题 · 287,248 字 ｜ **来源** Project Gutenberg
+**作者** Galsworthy, John, 1867-1933 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 287,248 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/50004ae5ad19/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（287,248 字）。 |
-| 分章依据 | 按「题」标记切分为 61 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,708 字。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-toc-title-list），拼接正文 7,742 行。 |
+| 篇幅分布 | 平均每章 17,887 字；最长 A FEUD（51,766 字），最短 PHILANTHROPY（6,016 字）。 |
 | 原文溯源 | `cache/epub/65252/pg65252.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. CAPTURES
-2. BY THE SAME AUTHOR
-3. THE FORSYTE SAGA
-4. MOODS, SONGS, AND DOGGERELS
-5. ADDRESSES IN AMERICA
-6. CAPTURES
-7. JOHN GALSWORTHY
-8. First published 1923
-9. TO
-10. R. H. SAUTER
+1. A FEUD
+2. THE MAN WHO KEPT HIS FORM
+3. A HEDONIST
+4. TIMBER
+5. SANTA LUCIA
+6. BLACKMAIL
+7. THE BROKEN BOOT
+8. STROKE OF LIGHTNING
+9. VIRTUE
+10. CONSCIENCE
 
-> 共 61 题，[完整目录与正文 →](https://www.bqgmz.top/b/50004ae5ad19/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/50004ae5ad19/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

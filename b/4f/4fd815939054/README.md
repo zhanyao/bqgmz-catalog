@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（51,867 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,966 字。 |
-| 起止 | 始于「CHAPTER I.--_THE STRANGE VISITOR._」，止于「CHAPTER IV.--_A CHRISTMAS MORN._」。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-chapter），拼接正文 1,702 行。 |
+| 篇幅分布 | 平均每章 6,205 字。 |
+| 起止 | 始于「CHAPTER I.--_THE STRANGE VISITOR.」，止于「CHAPTER IV.--_A CHRISTMAS MORN.」。 |
 | 原文溯源 | `cache/epub/12944/pg12944.txt`（Project Gutenberg） |
 
 ## 章节目录（前 4 章）
 
-1. CHAPTER I.--_THE STRANGE VISITOR._
-2. CHAPTER II.--_A STRANGE STORY._
-3. CHAPTER III.--_WIDE AWAKE!_
-4. CHAPTER IV.--_A CHRISTMAS MORN._
+1. CHAPTER I.--_THE STRANGE VISITOR.
+2. CHAPTER II.--_A STRANGE STORY.
+3. CHAPTER III.--_WIDE AWAKE!
+4. CHAPTER IV.--_A CHRISTMAS MORN.
 
 > 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/4fd815939054/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

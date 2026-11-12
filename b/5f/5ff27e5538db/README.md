@@ -1,7 +1,7 @@
 # A Crime of the Under-seas
 
 **作者** Boothby, Guy, 1867-1905; Wood, Stanley L., 1866-1928 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 274,908 字 ｜ **来源** Project Gutenberg
+**规模** 10 章 · 274,908 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5ff27e5538db/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（274,908 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,146 字；最长 CHAPTER XII（87,156 字），最短 CHAPTER VII（8,133 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 6,734 行。 |
+| 篇幅分布 | 平均每章 15,927 字；最长 THE PHANTOM STOCKMAN（39,067 字），最短 CUPID AND PSYCHE（6,787 字）。 |
 | 原文溯源 | `cache/epub/36118/pg36118.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. CHAPTER X
+1. THE PHANTOM STOCKMAN
+2. THE TREASURE OF SACRAMENTO NICK
+3. INTO THE OUTER DARKNESS
+4. THE STORY OF TOMMY DODD AND "THE ROOSTER"
+5. QUOD ERAT DEMONSTRANDUM
+6. CUPID AND PSYCHE
+7. MISPLACED AFFECTIONS
+8. IN GREAT WATERS
+9. MR. ARISTOCRAT
+10. THIS MAN AND THIS WOMAN
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/5ff27e5538db/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/5ff27e5538db/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

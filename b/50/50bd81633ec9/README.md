@@ -1,7 +1,7 @@
 # Personal Poems I Part 1 from Volume IV of The Works of John Greenleaf Whittier
 
-**作者** Whittier, John Greenleaf, 1807-1892 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 40 题 · 60,130 字 ｜ **来源** Project Gutenberg
+**作者** Whittier, John Greenleaf, 1807-1892 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 147 篇 · 60,130 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/50bd81633ec9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（60,130 字）。 |
-| 分章依据 | 按「题」标记切分为 40 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,503 字。 |
+| 分章依据 | 按「篇」标记切分为 147 篇（auto-title-scan），拼接正文 2,592 行。 |
+| 篇幅分布 | 平均每篇 408 字。 |
 | 原文溯源 | `cache/epub/9581/pg9581.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. This eBook was produced by David Widger
-2. PERSONAL POEMS
-3. BY
-4. JOHN GREENLEAF WHITTIER
-5. CONTENTS
-6. PERSONAL POEMS
-7. A LAMENT
-8. TO THE MEMORY OF CHARLES B. STORRS,
-9. LINES
-10. TO ------,
+1. PERSONAL POEMS
+2. WORDSWORTH
+3. THE CROSS
+4. SAMUEL J. TILDEN
+5. JUNE ON THE MERRIMAC
+6. ONE OF THE SIGNERS
+7. THE WORSHIP OF NATURE
+8. A LAMENT
+9. Its blessing to our tears?"
+10. But holier and dearer our memories hold
 
-> 共 40 题，[完整目录与正文 →](https://www.bqgmz.top/b/50bd81633ec9/)
+> 共 147 篇，[完整目录与正文 →](https://www.bqgmz.top/b/50bd81633ec9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The History of the 33rd Divisional Artillery, in the War, 1914-1918.
 
 **作者** Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 437,777 字 ｜ **来源** Project Gutenberg
+**规模** 13 章 · 437,777 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5eeca190c4d9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（437,777 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,797 字；最长 CHAPTER X.（97,927 字），最短 CHAPTER I.（14,505 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 10,428 行。 |
+| 篇幅分布 | 平均每章 33,315 字；最长 CHAPTER III.（61,281 字），最短 CHAPTER XII.（7,761 字）。 |
 | 原文溯源 | `cache/epub/51776/pg51776.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/5eeca190c4d9/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/5eeca190c4d9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

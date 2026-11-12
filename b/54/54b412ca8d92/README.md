@@ -1,7 +1,7 @@
 # Like Another Helen（#66471）
 
 **作者** Grier, Sydney C., 1868-1933 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 21 章 · 828,989 字 ｜ **来源** Project Gutenberg
+**规模** 40 章 · 828,989 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/54b412ca8d92/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（828,989 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,475 字；最长 CHAPTER XXI.（81,201 字），最短 CHAPTER III.（29,093 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXI.」。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-chapter），拼接正文 19,190 行。 |
+| 篇幅分布 | 平均每章 20,630 字。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXI FOOTNOTES.（部2）」。 |
 | 原文溯源 | `cache/epub/66471/pg66471.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/54b412ca8d92/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/54b412ca8d92/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

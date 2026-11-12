@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（442,723 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 73,787 字。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 9,418 行。 |
+| 篇幅分布 | 平均每章 35,807 字。 |
 | 原文溯源 | `cache/epub/3742/pg3742.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
@@ -21,10 +21,10 @@
 2. CHAPTER II. OF THE ORIGIN OF THE PRESENT OLD GOVERNMENTS
 3. CHAPTER III. OF THE OLD AND NEW SYSTEMS OF GOVERNMENT
 4. CHAPTER IV. OF CONSTITUTIONS
-5. CHAPTER V. WAYS AND MEANS OF IMPROVING T
-6. On small and middling estates it is ligh
+5. CHAPTER V. WAYS AND MEANS OF IMPROVING THE CONDITION OF EUROPE
+6. APPENDIX
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/5d16a638fee8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（45,447 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,361 字。 |
-| 起止 | 始于「CHAPTER I.--THE MORMON'S DEPARTURE.」，止于「CHAPTER IV.--MARRIED AGAIN.」。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-chapter），拼接正文 1,504 行。 |
+| 篇幅分布 | 平均每章 11,168 字。 |
+| 起止 | 始于「CHAPTER I.--ELIZY.」，止于「CHAPTER IV. THE WANDERER'S RETURN.」。 |
 | 原文溯源 | `cache/epub/3273/pg3273.txt`（Project Gutenberg） |
 
 ## 章节目录（前 4 章）
 
-1. CHAPTER I.--THE MORMON'S DEPARTURE.
-2. CHAPTER II.--FUNERAL TRAPPINGS.
-3. CHAPTER III.--DUST TO DUST.
-4. CHAPTER IV.--MARRIED AGAIN.
+1. CHAPTER I.--ELIZY.
+2. CHAPTER II.--WAS MOSES Of NOBLE BIRTH?
+3. CHAPTER III.--THE PIRUT FOILED.
+4. CHAPTER IV. THE WANDERER'S RETURN.
 
 > 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/633e73eedb03/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Bride of the Tomb, and Queenie's Terrible Secret
 
 **作者** Miller, Alex. McVeigh, Mrs., 1850-1937 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 43 章 · 642,381 字 ｜ **来源** Project Gutenberg
+**规模** 83 章 · 642,381 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5702316c3a72/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（642,381 字）。 |
-| 分章依据 | 按「章」标记切分为 43 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,939 字。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XLIII.」。 |
+| 分章依据 | 按「章」标记切分为 83 章（auto-chapter），拼接正文 18,589 行。 |
+| 篇幅分布 | 平均每章 7,413 字；最长 CHAPTER XLIII.（部2）（16,724 字），最短 CHAPTER I.（部2）（3,525 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XLIII.（部2）」。 |
 | 原文溯源 | `cache/epub/42100/pg42100.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 43 章，[完整目录与正文 →](https://www.bqgmz.top/b/5702316c3a72/)
+> 共 83 章，[完整目录与正文 →](https://www.bqgmz.top/b/5702316c3a72/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

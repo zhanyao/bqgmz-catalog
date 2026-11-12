@@ -1,7 +1,7 @@
 # The books of Chronicles
 
 **作者** Elmslie, W. A. L. (William Alexander Leslie), 1885-1965; Kirkpatrick, A. F. (Alexander Francis), 1849-1940 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 36 章 · 867,105 字 ｜ **来源** Project Gutenberg
+**规模** 65 章 · 867,105 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5e096d720af2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（867,105 字）。 |
-| 分章依据 | 按「章」标记切分为 36 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,086 字。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXVI.」。 |
+| 分章依据 | 按「章」标记切分为 65 章（auto-chapter），拼接正文 25,709 行。 |
+| 篇幅分布 | 平均每章 11,428 字；最长 CHAPTER VI.（30,510 字），最短 CHAPTER XXVII.（部2）（3,289 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXVI.（部2）」。 |
 | 原文溯源 | `cache/epub/71811/pg71811.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/5e096d720af2/)
+> 共 65 章，[完整目录与正文 →](https://www.bqgmz.top/b/5e096d720af2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

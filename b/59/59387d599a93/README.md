@@ -1,7 +1,7 @@
 # Niilo Klimin maanalainen matka
 
-**作者** Holberg, Ludvig, 1684-1754 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 20 段 · 415,035 字 ｜ **来源** Project Gutenberg
+**作者** Holberg, Ludvig, 1684-1754 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 9 章 · 415,035 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/59387d599a93/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（415,035 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,751 字；最长 Nopeus, jolla putosin, oli pysynyt samallaisena hyvän hetken（39,407 字），最短 "Jospa sinulla olisikin aikaa kuullella minun ihmeellisiä ko（14,727 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-caps-sections），拼接正文 7,940 行。 |
+| 篇幅分布 | 平均每章 46,115 字；最长 YHDEKSÄS LUKU.（4）（55,739 字），最短 ABELININ LISÄYS.（1,546 字）。 |
 | 原文溯源 | `cache/epub/17127/pg17127.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 9 章）
 
-1. Nopeus, jolla putosin, oli pysynyt samallaisena hyvän hetken
-2. Mainittu nuori nainen oli neljä vuotta takaperin saanut niin
-3. Ylen murheillani riensin isäntäni luo ja rukoilin häntä, mit
-4. Heti kun olin saanut valtuuskirjani ja nimeni oli kirjoitett
-5. Semmoiset ovat pääpiirteet Pootualaisten opissa Jumalasta, s
-6. 12) Ruhtinaan tulee edistyttää yksimielisyyttä alammaistensa
-7. Sittekun kokonaista kaksi vuotta olin kurjeerina hyökkäillyt
-8. Tämä nurinperäinen järjestys tekee nurinperäiset lait tarpee
-9. Astuttuani tämän maan lävitse, tulin eräälle järvelle jonka
-10. Hetkisen perästä, kun minulla oli jotakin asiaa apteekkiin j
+1. KUUDES LUKU.（1）
+2. KUUDES LUKU.（2）
+3. KUUDES LUKU.（3）
+4. YHDEKSÄS LUKU.（1）
+5. YHDEKSÄS LUKU.（2）
+6. YHDEKSÄS LUKU.（3）
+7. YHDEKSÄS LUKU.（4）
+8. YHDEKSÄS LUKU.（5）
+9. ABELININ LISÄYS.
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/59387d599a93/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/59387d599a93/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（73,599 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,514 字；最长 CHAPTER I.（12,336 字），最短 CHAPTER III.（7,225 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER VII.」。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-chapter），拼接正文 1,701 行。 |
+| 篇幅分布 | 平均每章 10,418 字；最长 CHAPTER IV.（12,321 字），最短 CHAPTER III.（7,225 字）。 |
+| 起止 | 始于「CHAPTER I. An appreciation: The cause and history of Lakeland 5」，止于「CHAPTER VII.」。 |
 | 原文溯源 | `cache/epub/57188/pg57188.txt`（Project Gutenberg） |
 
 ## 章节目录（前 7 章）
 
-1. CHAPTER I.
+1. CHAPTER I. An appreciation: The cause and history of Lakeland 5
 2. CHAPTER II.
 3. CHAPTER III.
 4. CHAPTER IV.
@@ -29,4 +29,4 @@
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/6015663c155e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

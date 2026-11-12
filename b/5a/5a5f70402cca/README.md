@@ -1,7 +1,7 @@
 # Monsieur Beaucaire
 
-**作者** Tarkington, Booth, 1869-1946 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 10 题 · 58,586 字 ｜ **来源** Project Gutenberg
+**作者** Tarkington, Booth, 1869-1946 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 3 篇 · 58,586 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5a5f70402cca/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（58,586 字）。 |
-| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,858 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（auto-title-block），拼接正文 1,559 行。 |
+| 篇幅分布 | 平均每篇 14,688 字。 |
 | 原文溯源 | `cache/epub/1983/pg1983.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 篇）
 
-1. Produced by An Anonymous Volunteer and David Widger
-2. MONSIEUR BEAUCAIRE
-3. Chapter One
-4. M. Beaucaire flushed slightly. “You think I did not see?” he asked.
-5. Chapter Two
-6. Chapter Three
-7. Chapter Four
-8. M. Beaucaire stepped close to her. Her pale face twitched.
-9. Chapter Five
-10. Chapter Six
+1. Chapter Three
+2. Chapter Four
+3. Chapter Five
 
-> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/5a5f70402cca/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/5a5f70402cca/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（130,849 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,169 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-part），拼接正文 3,213 行。 |
+| 篇幅分布 | 平均每章 26,169 字；最长 PART IV.（1）（55,757 字），最短 Bibliography.（2,579 字）。 |
 | 原文溯源 | `cache/epub/73140/pg73140.txt`（Project Gutenberg） |
 
 ## 章节目录（前 5 章）
 
-1. PART I.
-2. PART II.
-3. PART III.
-4. PART IV.
-5. Fourthly, the affinity between two souls
+1. PART III.
+2. PART IV.（1）
+3. PART IV.（2）
+4. PART IV.（3）
+5. Bibliography.
 
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/63a334243fec/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

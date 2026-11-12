@@ -1,7 +1,7 @@
 # Charles the Bold, Last Duke of Burgundy, 1433-1477
 
 **作者** Putnam, Ruth, 1856-1931 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 21 章 · 580,404 字 ｜ **来源** Project Gutenberg
+**规模** 22 章 · 580,404 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/65432b5b6a05/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（580,404 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 27,638 字；最长 CHAPTER XXI（67,065 字），最短 CHAPTER IX（15,063 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXI」。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 14,412 行。 |
+| 篇幅分布 | 平均每章 26,079 字；最长 CHAPTER XXI（42,245 字），最短 CHAPTER IX（15,063 字）。 |
 | 原文溯源 | `cache/epub/14496/pg14496.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/65432b5b6a05/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/65432b5b6a05/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

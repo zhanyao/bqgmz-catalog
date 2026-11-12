@@ -1,7 +1,7 @@
 # Vergleichende Betrachtungen über neuere geometrische Forschungen
 
-**作者** Klein, Felix, 1849-1925 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 5 题 · 82,719 字 ｜ **来源** Project Gutenberg
+**作者** Klein, Felix, 1849-1925 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 7 章 · 82,719 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/55dd3b42f128/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（82,719 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 16,543 字。 |
-| 起止 | 始于「1. Die Gruppe der rationalen Umformungen.」，止于「3. Die ebene Mannigfaltigkeit.」。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-roman-title），拼接正文 1,753 行。 |
+| 篇幅分布 | 平均每章 3,361 字。 |
+| 起止 | 始于「I. Ueber den Gegensatz der synthetischen und analytischen Richtung in」，止于「VII. Zur Interpretation der binären Formen.」。 |
 | 原文溯源 | `cache/epub/38033/pg38033.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 7 章）
 
-1. 1. Die Gruppe der rationalen Umformungen.
-2. 2. Die Analysis situs.
-3. 3. Die Gruppe aller Puncttransformationen.
-4. 2. Die Mannigfaltigkeit von constantem Krümmungsmaße.
-5. 3. Die ebene Mannigfaltigkeit.
+1. I. Ueber den Gegensatz der synthetischen und analytischen Richtung in
+2. II. Trennung der heutigen Geometrie in Disciplinen.
+3. III. Ueber den Werth räumlicher Anschauung.
+4. IV. Ueber Mannigfaltigkeiten von beliebig vielen Dimensionen.
+5. V. Ueber die sogenannte Nicht-Euklidische Geometrie.
+6. VI. Liniengeometrie als Untersuchung einer Mannigfaltigkeit von
+7. VII. Zur Interpretation der binären Formen.
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/55dd3b42f128/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/55dd3b42f128/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

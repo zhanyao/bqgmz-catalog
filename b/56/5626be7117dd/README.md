@@ -1,7 +1,7 @@
 # British Royal Proclamations Relating to America, 1603-1783
 
-**作者** Great Britain. Sovereign; Brigham, Clarence S. (Clarence Saunders), 1877-1963 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 425 题 · 511,199 字 ｜ **来源** Project Gutenberg
+**作者** Great Britain. Sovereign; Brigham, Clarence S. (Clarence Saunders), 1877-1963 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 40 章 · 511,199 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/5626be7117dd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（511,199 字）。 |
-| 分章依据 | 按「题」标记切分为 425 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,202 字。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-caps-sections），拼接正文 12,124 行。 |
+| 篇幅分布 | 平均每章 12,558 字；最长 HABILIMENTS OF WARRE.（51,954 字），最短 FOOTNOTE:（359 字）。 |
 | 原文溯源 | `cache/epub/46167/pg46167.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. TRANSCRIBER'S NOTES
-2. PRINTED IN THE U.S.A.
-3. List of Abbreviations
-4. Royal Proclamations
-5. BY THE KING.
-6. GOD SAVE THE KING.
-7. THE ORDER.[2]
-8. FOOTNOTES:
-9. BY THE KING.
-10. A PROCLAMATION TOUCHING PASSENGERS.
+1. A PROCLAMATION FOR THE DUE AND SPEEDY EXECUTION OF THE STATUTE
+2. AGAINST ROGUES, VAGABONDS, IDLE, AND DISSOLUTE PERSONS.
+3. MAJESTIES DOMINIONS, ETC.
+4. FOOTNOTE:
+5. IN ENGLAND AND IRELAND, THE DOMINION OF WALES, AND TOWNE OF BARWICKE.
+6. ROGER NORTH, AND THOSE WHO ARE GONE FOORTH AS ADVENTURERS WITH HIM.
+7. ENGLAND IN AMERICA.
+8. A PROCLAMATION FOR SETLING THE PLANTATION OF VIRGINIA.
+9. A PROCLAMATION FOR THE ORDERING OF TOBACCO.
+10. HABILIMENTS OF WARRE.
 
-> 共 425 题，[完整目录与正文 →](https://www.bqgmz.top/b/5626be7117dd/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/5626be7117dd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

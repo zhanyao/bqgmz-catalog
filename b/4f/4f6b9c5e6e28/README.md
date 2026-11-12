@@ -1,7 +1,7 @@
 # Life and Conduct
 
 **作者** Lees, J. Cameron (James Cameron), 1834-1913 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 164,492 字 ｜ **来源** Project Gutenberg
+**规模** 17 章 · 164,492 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4f6b9c5e6e28/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（164,492 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,280 字；最长 CHAPTER XVI.（12,864 字），最短 CHAPTER XI.（9,094 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVI.」。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 3,771 行。 |
+| 篇幅分布 | 平均每章 9,542 字；最长 CHAPTER II.（11,523 字），最短 APPENDIX.（3,577 字）。 |
 | 原文溯源 | `cache/epub/22050/pg22050.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/4f6b9c5e6e28/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/4f6b9c5e6e28/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

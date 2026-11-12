@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（164,859 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 32,971 字；最长 Very likely, very likely, that is the wa（69,866 字），最短 ACT II.（8,469 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-toc-title-list），拼接正文 7,605 行。 |
+| 篇幅分布 | 平均每章 32,539 字；最长 THE UNICORN FROM THE STARS,（62,359 字），最短 THE COUNTESS CATHLEEN（3,478 字）。 |
 | 原文溯源 | `cache/epub/49610/pg49610.txt`（Project Gutenberg） |
 
 ## 章节目录（前 5 章）
 
-1. ACT I.
-2. ACT II.
-3. ACT III.
-4. ACT IV.
-5. Very likely, very likely, that is the wa
+1. THE COUNTESS CATHLEEN
+2. THE LAND OF HEART’S DESIRE
+3. THE UNICORN FROM THE STARS,
+4. THE COUNTESS CATHLEEN
+5. NOTES
 
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/571bb6ed337b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

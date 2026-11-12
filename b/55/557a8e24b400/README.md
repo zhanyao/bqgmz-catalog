@@ -1,7 +1,7 @@
 # La lucha por la vida: Mala hierba
 
-**作者** Baroja, Pío, 1872-1956 ｜ **国家/地区** 西班牙 ｜ **体例** 段  
-**规模** 16 段 · 322,468 字 ｜ **来源** Project Gutenberg
+**作者** Baroja, Pío, 1872-1956 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 9 章 · 322,468 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/557a8e24b400/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（322,468 字）。 |
-| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,154 字；最长 --¡Obrero! ¡Quia! Ojalá lo fueras. Hoy no eres más que un va（39,993 字），最短 CAP. IV.--La Navidad de Roberto.--Gente del（2,115 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 10,560 行。 |
+| 篇幅分布 | 平均每章 35,626 字；最长 CAPÍTULO VII（107,006 字），最短 CAPÍTULO VIII（11,146 字）。 |
 | 原文溯源 | `cache/epub/43033/pg43033.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 9 章）
 
-1. --¡Obrero! ¡Quia! Ojalá lo fueras. Hoy no eres más que un va
-2. --No eres como mi amanuense--le dijo, halagado por las manif
-3. Don Sergio le miró como una hiena; Peñalar pasó por su ancha
-4. Kate se divertía arreglando en aquel momento su armario. Ten
-5. La baronesa comprendió que al agente le faltaría tiempo para
-6. --¡Ah, usted no quiere perder tiempo! Pues váyase usted, hom
-7. A Manuel no le importaba mayormente aquello; pero le producí
-8. --Nada, quiero decirle qué clase de mujer es usted; quiero c
-9. --Rediós ¡con el sexo débil!--murmuró Jesús--. A esto le lla
-10. Comieron los tres el rancho sobrante en el cuartel de María
+1. CAPÍTULO I
+2. CAPÍTULO II
+3. CAPÍTULO III
+4. CAPÍTULO IV
+5. CAPÍTULO V
+6. CAPÍTULO VI
+7. CAPÍTULO VII
+8. CAPÍTULO VIII
+9. CAPÍTULO IX
 
-> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/557a8e24b400/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/557a8e24b400/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Headless Horseman: A Strange Tale of Texas
 
-**作者** Reid, Mayne, 1818-1883 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 216 题 · 979,159 字 ｜ **来源** Project Gutenberg
+**作者** Reid, Mayne, 1818-1883 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 64 章 · 979,159 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/57099a0b58bf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（979,159 字）。 |
-| 分章依据 | 按「题」标记切分为 216 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,533 字。 |
+| 分章依据 | 按「章」标记切分为 64 章（auto-caps-sections），拼接正文 26,644 行。 |
+| 篇幅分布 | 平均每章 15,299 字；最长 PROLOGUE.（39,189 字），最短 A SOLITARY STALKER.（5,463 字）。 |
 | 原文溯源 | `cache/epub/35587/pg35587.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. PROLOGUE.
-3. CHAPTER ONE.
-4. THE BURNT PRAIRIE.
-5. CHAPTER TWO.
-6. THE TRAIL OF THE LAZO.
-7. CHAPTER THREE.
-8. THE PRAIRIE FINGER-POST.
-9. CHAPTER FOUR.
-10. THE BLACK NORTHER.
+1. PROLOGUE.
+2. THE BLACK NORTHER.
+3. THE HOME OF THE HORSE-HUNTER.
+4. NOCTURNAL ANNOYANCES.
+5. THE CRAWL OF THE ALACRAN.
+6. THE FRONTIER FORT.
+7. CASA DEL CORVO.
+8. TAMING A WILD MARE.
+9. A PRAIRIE PIC-NIC.
+10. THE MANADA.
 
-> 共 216 题，[完整目录与正文 →](https://www.bqgmz.top/b/57099a0b58bf/)
+> 共 64 章，[完整目录与正文 →](https://www.bqgmz.top/b/57099a0b58bf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

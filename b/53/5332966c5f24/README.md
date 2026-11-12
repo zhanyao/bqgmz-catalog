@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（578,807 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 34,047 字；最长 CHAPTER XVII. SOME CHARACTER TYPES（91,143 字），最短 CHAPTER XVI. RELIGIOUS CHARACTERS. DISHARMONY IN CHARACTER（13,734 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 12,661 行。 |
+| 篇幅分布 | 平均每章 33,553 字；最长 CHAPTER XVII. SOME CHARACTER TYPES（91,143 字），最短 CHAPTER XVI. RELIGIOUS CHARACTERS. DISHARMONY IN CHARACTER（13,734 字）。 |
 | 起止 | 始于「CHAPTER I. THE ORGANIC BASIS OF CHARACTER」，止于「CHAPTER XVII. SOME CHARACTER TYPES」。 |
 | 原文溯源 | `cache/epub/1575/pg1575.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/5332966c5f24/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

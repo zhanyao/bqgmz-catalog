@@ -1,7 +1,7 @@
 # Le roman d'un jeune homme pauvre (Play)
 
-**作者** Feuillet, Octave, 1821-1890 ｜ **国家/地区** 法国 ｜ **体例** 章  
-**规模** 19 章 · 134,174 字 ｜ **来源** Project Gutenberg
+**作者** Feuillet, Octave, 1821-1890 ｜ **国家/地区** 法国 ｜ **体例** 场  
+**规模** 66 场 · 134,174 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/58d1a7b616df/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,11 +11,11 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（134,174 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,061 字；最长 SCENE XX.（55,555 字），最短 SCENE XV.（323 字）。 |
+| 分章依据 | 按「场」标记切分为 66 场（auto-scene），拼接正文 7,709 行。 |
+| 篇幅分布 | 平均每场 1,596 字。 |
 | 原文溯源 | `cache/epub/26816/pg26816.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 场）
 
 1. SCENE I.
 2. SCENE II.
@@ -26,9 +26,9 @@
 7. SCENE VII.
 8. SCENE VIII.
 9. SCENE IX.
-10. SCENE XI.
+10. SCENE I.（部2）
 
-> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/58d1a7b616df/)
+> 共 66 场，[完整目录与正文 →](https://www.bqgmz.top/b/58d1a7b616df/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

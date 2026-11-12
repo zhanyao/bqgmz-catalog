@@ -1,7 +1,7 @@
 # Abel Sánchez: Una Historia de Pasión
 
-**作者** Unamuno, Miguel de, 1864-1936 ｜ **国家/地区** 西班牙 ｜ **体例** 题  
-**规模** 59 题 · 131,807 字 ｜ **来源** Project Gutenberg
+**作者** Unamuno, Miguel de, 1864-1936 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 38 章 · 131,807 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/55c2e5400a21/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（131,807 字）。 |
-| 分章依据 | 按「题」标记切分为 59 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,234 字。 |
+| 分章依据 | 按「章」标记切分为 38 章（auto-roman-bare），拼接正文 4,643 行。 |
+| 篇幅分布 | 平均每章 3,446 字；最长 I（6,257 字），最短 X（1,151 字）。 |
 | 原文溯源 | `cache/epub/44512/pg44512.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. ABEL SÁNCHEZ
-2. UNA HISTORIA DE PASIÓN
-3. IMP. JOSÉ POVEDA.--PRÍNCIPE, 24.--MADRID
-4. ABEL SÁNCHEZ
-5. UNA HISTORIA DE PASIÓN
-6. ABEL SÁNCHEZ
-7. UNA HISTORIA DE PASIÓN
-8. II
-9. III
-10. IV
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 59 题，[完整目录与正文 →](https://www.bqgmz.top/b/55c2e5400a21/)
+> 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/55c2e5400a21/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

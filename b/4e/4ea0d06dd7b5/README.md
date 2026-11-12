@@ -1,7 +1,7 @@
 # Guy Mannering
 
 **作者** Scott, Walter, 1771-1832 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 57 章 · 823,466 字 ｜ **来源** Project Gutenberg
+**规模** 58 章 · 823,466 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/4ea0d06dd7b5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（823,466 字）。 |
-| 分章依据 | 按「章」标记切分为 57 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,446 字；最长 CHAPTER I.（38,109 字），最短 CHAPTER XXIV.（8,362 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER LVIII.」。 |
+| 分章依据 | 按「章」标记切分为 58 章（auto-chapter），拼接正文 19,189 行。 |
+| 篇幅分布 | 平均每章 13,696 字；最长 CHAPTER LV.（30,032 字），最短 CHAPTER LVIII.（6,432 字）。 |
 | 原文溯源 | `cache/epub/2590/pg2590.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 57 章，[完整目录与正文 →](https://www.bqgmz.top/b/4ea0d06dd7b5/)
+> 共 58 章，[完整目录与正文 →](https://www.bqgmz.top/b/4ea0d06dd7b5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

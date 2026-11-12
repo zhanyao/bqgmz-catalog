@@ -1,7 +1,7 @@
 # Coriolanus（#1131）
 
-**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 130,260 字 ｜ **来源** Project Gutenberg
+**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 14 篇 · 130,260 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/51ec03aa2382/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（130,260 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,710 字；最长 Hearke, our Drummes（40,006 字），最短 Volum. Nay, go not from vs thus:（11,814 字）。 |
+| 分章依据 | 按「篇」标记切分为 14 篇（通用标记切分），拼接正文 5,075 行。 |
+| 篇幅分布 | 平均每篇 9,304 字。 |
 | 原文溯源 | `cache/epub/1131/pg1131.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 篇）
 
-1. Hearke, our Drummes
-2. Cor. Menenius, euer, euer
-3. Corio. I wish I had a cause to seeke him there,
-4. Corio. What is the matter,
-5. Bru. The Gods haue well preuented it, and Rome
-6. Volum. Nay, go not from vs thus:
+1. Executive Director's Notes:
+2. In addition to the notes below, and so you will *NOT* think all
+3. As I understand it, the printers often ran out of certain words
+4. The answer is that they MAY have packed "liue" into a cliche at a
+5. You will find a lot of these kinds of "errors" in this text, as I
+6. So, please take this into account when reading the comments below
+7. The elongated S's have been changed to small s's and the
+8. Another thing that you should be aware of is that there are
+9. Captaines and
+10. The blood I drop, is rather Physicall
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/51ec03aa2382/)
+> 共 14 篇，[完整目录与正文 →](https://www.bqgmz.top/b/51ec03aa2382/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

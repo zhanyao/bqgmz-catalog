@@ -1,7 +1,7 @@
 # L'Illustration, No. 3261, 26 Août 1905
 
-**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 34 题 · 60,309 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 13 篇 · 60,309 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/62c3f15ab119/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（60,309 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,773 字。 |
+| 分章依据 | 按「篇」标记切分为 13 篇（通用标记切分），拼接正文 1,491 行。 |
+| 篇幅分布 | 平均每篇 4,000 字；最长 LES CORRESPONDANTS DE GUERRE EN MANDCHOURIE（18,442 字），最短 LA COUPE DES PYRÉNÉES（641 字）。 |
 | 原文溯源 | `cache/epub/35880/pg35880.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Produced by Jeroen Hellingman and Rénald Lévesque
-2. L'Illustration, No. 3261, 26 Août 1905
-3. AVEC CE NUMÉRO _Une Gravure hors texte_ EN COULEURS
-4. COURRIER DE PARIS
-5. JOURNAL D'UNE ÉTRANGÈRE
-6. SONIA.
-7. LE PARDON DES FLEURS D'AJONC _Voir les gravures, page 142._
-8. NOTES ET IMPRESSIONS
-9. M. WILLIAM BOUGUEREAU
-10. AVANT LA PREMIÈRE ASSEMBLÉE NATIONALE RUSSE: TYPES D'ÉLECTEURS.
+1. NOTES ET IMPRESSIONS
+2. DE FRANÇOIS-JOSEPH
+3. SÉPARATION
+4. M. WILLIAM BOUGUEREAU
+5. LE MONT-BLANC
+6. UN CENTENAIRE A VERJUX (SAONE-ET-LOIRE), VILLAGE NATAL DE Mme BOUCICAUT
+7. LA FÊTE DE LA PROMOTION D'AUSTERLITZ, A L'ÉCOLE DE SAINT-CYR
+8. LA COUPE DES PYRÉNÉES
+9. LES CORRESPONDANTS DE GUERRE EN MANDCHOURIE
+10. LA VICE-ROYAUTÉ DES INDES
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/62c3f15ab119/)
+> 共 13 篇，[完整目录与正文 →](https://www.bqgmz.top/b/62c3f15ab119/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

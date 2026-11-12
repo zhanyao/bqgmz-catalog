@@ -1,7 +1,7 @@
 # The Development of Religious Liberty in Connecticut
 
 **作者** Greene, M. Louise (Maria Louise) ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 631,617 字 ｜ **来源** Project Gutenberg
+**规模** 30 章 · 631,617 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/50e92817a647/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（631,617 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,476 字；最长 CHAPTER XI（78,223 字），最短 CHAPTER IX（13,900 字）。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-chapter），拼接正文 13,622 行。 |
+| 篇幅分布 | 平均每章 20,679 字；最长 CHAPTER XI（78,223 字），最短 CHAPTER IX. THE GREAT AWAKENING.（部2）（318 字）。 |
 | 原文溯源 | `cache/epub/7436/pg7436.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/50e92817a647/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/50e92817a647/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
