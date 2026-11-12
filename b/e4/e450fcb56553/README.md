@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（284,737 字）。 |
-| 分章依据 | 按「章」标记切分为 34 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,374 字；最长 CHAPTER XXXIV. MISCELLANEOUS（93,064 字），最短 CHAPTER XXX. JUVENILE COURTS（474 字）。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-chapter），拼接正文 8,657 行。 |
+| 篇幅分布 | 平均每章 5,705 字；最长 CHAPTER XXI. PROPERTY（19,738 字），最短 CHAPTER XXX. JUVENILE COURTS（474 字）。 |
 | 起止 | 始于「CHAPTER I. INTRODUCTION」，止于「CHAPTER XXXIV. MISCELLANEOUS」。 |
 | 原文溯源 | `cache/epub/35563/pg35563.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/e450fcb56553/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Argentina
 
 **作者** Hirst, W. A. (William Alfred), 1870-1948; Hume, Martin A. S. (Martin Andrew Sharp), 1843-1910 [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 23 章 · 474,866 字 ｜ **来源** Project Gutenberg
+**规模** 24 章 · 474,866 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d9cd04d8ceec/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（474,866 字）。 |
-| 分章依据 | 按「章」标记切分为 23 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,646 字；最长 CHAPTER I（46,752 字），最短 CHAPTER XIII（8,468 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXIII」。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 11,478 行。 |
+| 篇幅分布 | 平均每章 18,741 字；最长 CHAPTER XIV（29,474 字），最短 CHAPTER XIII（8,468 字）。 |
 | 原文溯源 | `cache/epub/40069/pg40069.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/d9cd04d8ceec/)
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/d9cd04d8ceec/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Cronica di Matteo Villani, vol. 4 A miglior lezione ridotta coll'aiuto de' testi a penna
 
-**作者** Villani, Matteo, -1363; Moutier, Ignazio [Editor] ｜ **国家/地区** 意大利 ｜ **体例** 题  
-**规模** 233 题 · 400,608 字 ｜ **来源** Project Gutenberg
+**作者** Villani, Matteo, -1363; Moutier, Ignazio [Editor] ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 35 章 · 400,608 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e219bde40eeb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（400,608 字）。 |
-| 分章依据 | 按「题」标记切分为 233 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,719 字。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-caps-sections），拼接正文 8,464 行。 |
+| 篇幅分布 | 平均每章 11,054 字；最长 CAP. CX.（52,470 字），最短 CAP. XLIV.（1,019 字）。 |
 | 原文溯源 | `cache/epub/69901/pg69901.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. CRONICA
-2. DI
-3. TOMO IV.
-4. LIBRO OTTAVO
-5. CAPITOLO PRIMO.
-6. CAP. II.
-7. CAP. III.
-8. CAP. IV.
-9. CAP. V.
-10. CAP. VI.
+1. CAPITOLO PRIMO.
+2. CAP. II.
+3. CAP. III.
+4. CAP. V.
+5. CAP. VIII.
+6. CAP. XII.
+7. CAP. XXV.
+8. CAP. XLIV.
+9. CAP. XLV.
+10. CAP. XLVI.
 
-> 共 233 题，[完整目录与正文 →](https://www.bqgmz.top/b/e219bde40eeb/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/e219bde40eeb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

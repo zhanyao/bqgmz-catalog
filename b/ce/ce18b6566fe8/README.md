@@ -1,7 +1,7 @@
 # Lippincott's Magazine of Popular Literature and Science, Vol. 26, November, 1880
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 6 章 · 404,657 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 20 篇 · 404,657 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ce18b6566fe8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（404,657 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 67,442 字；最长 But it is at the cathedral that the Revo（81,006 字），最短 CHAPTER XXXIV.（10,794 字）。 |
+| 分章依据 | 按「篇」标记切分为 20 篇（通用标记切分），拼接正文 8,354 行。 |
+| 篇幅分布 | 平均每篇 20,169 字；最长 MRS. MARCELLUS.                             Olive Logan（49,743 字），最短 THREE ROSES.                                Julia C.R. Dorr（515 字）。 |
 | 原文溯源 | `cache/epub/51453/pg51453.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER XXXIII.
-2. CHAPTER XXXIV.
-3. CHAPTER XXXV.
-4. But it is at the cathedral that the Revo
-5. In a few brief words Miss Gerard told he
-6. "The girls were first horrified, then th
+1. THE RUINS OF THE COLORADO VALLEY. Alfred Terry Bacon
+2. THE ARTS OF INDIA. Jennie J. Young
+3. CHAPTER XXXIII
+4. CHAPTER XXXIV
+5. CHAPTER XXXV
+6. A PIVOTAL POINT
+7. THE MISTAKES OF TWO PEOPLE. Margaret Bertha Wright
+8. LIMOGES, AND ITS PORCELAIN. George L. Catlin
+9. THREE ROSES. Julia C.R. Dorr
+10. THE PRACTICAL HISTORY OF A PLAY. William H. Rideing
 
-> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/ce18b6566fe8/)
+> 共 20 篇，[完整目录与正文 →](https://www.bqgmz.top/b/ce18b6566fe8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Under St Paul's: A Romance
 
 **作者** Dowling, Richard, 1846-1898 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 450,698 字 ｜ **来源** Project Gutenberg
+**规模** 64 章 · 450,698 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e1db371404d2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（450,698 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,511 字。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVII.」。 |
+| 分章依据 | 按「章」标记切分为 64 章（auto-chapter），拼接正文 13,008 行。 |
+| 篇幅分布 | 平均每章 7,025 字。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVII.（部5）」。 |
 | 原文溯源 | `cache/epub/42600/pg42600.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -27,9 +27,9 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
-10. CHAPTER X.
+10. CHAPTER I.（部2）
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/e1db371404d2/)
+> 共 64 章，[完整目录与正文 →](https://www.bqgmz.top/b/e1db371404d2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

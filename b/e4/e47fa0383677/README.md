@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（238,515 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,925 字；最长 CHAPTER XIX. MY GREAT HOUR（16,180 字），最短 CHAPTER VI. THE SOLE SURVIVOR（7,244 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 6,100 行。 |
+| 篇幅分布 | 平均每章 11,897 字；最长 CHAPTER XIX. MY GREAT HOUR（16,180 字），最短 CHAPTER VI. THE SOLE SURVIVOR（7,244 字）。 |
 | 起止 | 始于「CHAPTER I. LOVE ON THE OCEAN」，止于「CHAPTER XX. THE STATEMENT OF FRANCIS RATTRAY」。 |
 | 原文溯源 | `cache/epub/1703/pg1703.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/e47fa0383677/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

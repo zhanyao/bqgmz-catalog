@@ -1,0 +1,25 @@
+# 弟子規
+
+**作者** Li, Yuxiu, active 17th century-18th century ｜ **国家/地区** 中国 ｜ **体例** 篇  
+**规模** 1 篇 · 1,142 字 ｜ **来源** Project Gutenberg、chinese-poetry
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/d8c1ceab5ad6/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 2 个来源版本：Project Gutenberg（1,142 字）、chinese-poetry（1,105 字）。字节数 23,580 / 5,514，各版 SHA-256 不同，存在异文；在线阅读取 Project Gutenberg 本。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 83 行。 |
+| 篇幅分布 | 平均每篇 1,106 字。 |
+| 原文溯源 | `cache/epub/23823/pg23823.txt`（Project Gutenberg） |
+
+## 章节目录（前 1 篇）
+
+1. 弟子規
+
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d8c1ceab5ad6/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

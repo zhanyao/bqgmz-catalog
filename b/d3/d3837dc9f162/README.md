@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（629,914 字）。 |
-| 分章依据 | 按「章」标记切分为 29 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,721 字。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-toc-title-list），拼接正文 14,325 行。 |
+| 篇幅分布 | 平均每章 20,983 字。 |
 | 原文溯源 | `cache/epub/76209/pg76209.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
 1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER VI
-6. CHAPTER VII
-7. CHAPTER VIII
-8. CHAPTER IX
-9. CHAPTER X
-10. CHAPTER XII
+2. Motives of the voyage--Set off from St. Charles--Navigation of
+3. CHAPTER II
+4. Try our sails with success--Account of an extraordinary
+5. CHAPTER III
+6. Orison of the Osages--Discontents in our party--News of
+7. CHAPTER IV
+8. Council Bluffs--Blackbird Hills--Maha villages--Disappointment
+9. CHAPTER V
+10. Frightful rapids--News of Mr. Henry--A buffaloe--The
 
 > 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/d3837dc9f162/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

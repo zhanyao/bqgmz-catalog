@@ -1,7 +1,7 @@
 # Venezuela
 
 **作者** Dalton, Leonard V. (Leonard Victor), 1887-1914 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 451,178 字 ｜ **来源** Project Gutenberg
+**规模** 19 章 · 451,178 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/de10f5b92111/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（451,178 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 25,065 字；最长 CHAPTER XVIII（84,473 字），最短 CHAPTER IX（11,360 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XVIII」。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 11,446 行。 |
+| 篇幅分布 | 平均每章 22,934 字；最长 Appendix B is shipped through Ciudad Bolivar; these are mainly, of（80,473 字），最短 CHAPTER XVIII（4,000 字）。 |
 | 原文溯源 | `cache/epub/71020/pg71020.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/de10f5b92111/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/de10f5b92111/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

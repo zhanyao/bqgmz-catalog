@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（122,446 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,746 字；最长 CHAPTER IV.--THE DOCTOR SPEAKS.（16,577 字），最短 CHAPTER I.--THE FIRST NIGHT.（2,570 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 3,210 行。 |
+| 篇幅分布 | 平均每章 8,714 字；最长 CHAPTER IV.--THE DOCTOR SPEAKS.（16,577 字），最短 CHAPTER I.--THE FIRST NIGHT.（2,120 字）。 |
 | 起止 | 始于「CHAPTER I.--THE FIRST NIGHT.」，止于「CHAPTER XIV.--ALTER EGO.」。 |
 | 原文溯源 | `cache/epub/51986/pg51986.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/d0ebb369d6ba/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

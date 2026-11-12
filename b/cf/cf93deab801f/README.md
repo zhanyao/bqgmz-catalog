@@ -1,7 +1,7 @@
 # L'Illustration, No. 3667, 7 Juin 1913
 
-**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 41 题 · 107,203 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 14 篇 · 107,203 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cf93deab801f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（107,203 字）。 |
-| 分章依据 | 按「题」标记切分为 41 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,614 字。 |
+| 分章依据 | 按「篇」标记切分为 14 篇（通用标记切分），拼接正文 2,344 行。 |
+| 篇幅分布 | 平均每篇 7,619 字；最长 A 10.000 MÈTRES D'ALTITUDE（32,113 字），最短 NOGI DIVINISÉ（310 字）。 |
 | 原文溯源 | `cache/epub/38868/pg38868.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Produced by Jeroen Hellingman et Rénald Lévesque
-2. L'Illustration, No. 3667, 7 Juin 1913
-3. COURRIER DE PARIS
-4. L'ADORABLE MOMENT
-5. HENRI LAVEDAN.
-6. L'OEUVRE DE PEARY
-7. CHARLES RABOT.
-8. MARINE D'AUTREFOIS ET D'AUJOURD'HUI
-9. UN SOUVENIR DU MARIAGE DE BERLIN
-10. NOGI DIVINISÉ
+1. L'ADORABLE MOMENT
+2. L'OEUVRE DE PEARY
+3. MARINE D'AUTREFOIS ET D'AUJOURD'HUI
+4. NOGI DIVINISÉ
+5. HITO WA BUSHI, HASSA WA SAKURA
+6. LA PAIX ENTRE LA TURQUIE ET LES ÉTATS DES BALKANS.--Les
+7. LE PALAIS DE L'ELYSÉE
+8. L'HISTOIRE DE L'ELYSÉE
+9. L'ELYSÉE EN 1913
+10. A 10.000 MÈTRES D'ALTITUDE
 
-> 共 41 题，[完整目录与正文 →](https://www.bqgmz.top/b/cf93deab801f/)
+> 共 14 篇，[完整目录与正文 →](https://www.bqgmz.top/b/cf93deab801f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

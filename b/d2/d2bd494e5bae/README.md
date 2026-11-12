@@ -1,7 +1,7 @@
 # Der Wobbly
 
-**作者** Traven, B., 1882-1969 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 10 题 · 338,702 字 ｜ **来源** Project Gutenberg
+**作者** Traven, B., 1882-1969 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 42 章 · 338,702 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d2bd494e5bae/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（338,702 字）。 |
-| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 33,870 字。 |
+| 分章依据 | 按「章」标记切分为 42 章（auto-num），拼接正文 8,004 行。 |
+| 篇幅分布 | 平均每章 8,030 字；最长 3（部2）（14,983 字），最短 19（974 字）。 |
 | 原文溯源 | `cache/epub/76111/pg76111.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. DER WOBBLY
-2. COPYRIGHT, 1926, BY B. TRAVEN, TAMAULIPAS (MEXIKO)
-3. Plötzlich rief er: „A snake! A snake!“
-4. Da sagte Sam: „Jetzt lege ich mich schlafen.“
-5. Ja, sehen Sie, Gale, das ist die Geschichte, die wahre Geschichte.“
-6. Er stand auf und sagte: „Ich werde es mir überlegen.“
-7. Endlich sagte Osuna: „Es ist elf, ich glaube wir gehen.“
-8. Er zog seine Uhr und sagte: „Es ist gleich zwölf.“
-9. Osuna ging gleich auf ihn zu: „Was sagen Sie?“
-10. Anmerkungen zur Transkription
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
 
-> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/d2bd494e5bae/)
+> 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/d2bd494e5bae/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

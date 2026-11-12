@@ -1,7 +1,7 @@
 # The Pansy Magazine, June 1886
 
-**作者** Various; Pansy, 1841-1930 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 127,573 字 ｜ **来源** Project Gutenberg
+**作者** Various; Pansy, 1841-1930 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 15 篇 · 127,573 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e08f15559516/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（127,573 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,262 字；最长 "Seems to me you are beginning early to teach her your pecul（39,896 字），最短 9. The volumes of the magazines begin as follows: WIDE（7,571 字）。 |
+| 分章依据 | 按「篇」标记切分为 15 篇（通用标记切分），拼接正文 3,780 行。 |
+| 篇幅分布 | 平均每篇 8,384 字。 |
 | 原文溯源 | `cache/epub/45408/pg45408.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 篇）
 
-1. "Seems to me you are beginning early to teach her your pecul
-2. Over the top of the tallest hill,
-3. "We have done that," said his wife with a laugh, "now, what
-4. _Clara_ from Nova Scotia. A five-year-old Pansy blooming in
-5. "Mrs. Marlow was well pleased that her daughter should have
-6. 9. The volumes of the magazines begin as follows: WIDE
+1. GIRLS
+2. "ONLY A CHILD'S PRATTLE."
+3. "BUT" AND "WILL."
+4. DEAR PANSIES:
+5. DEAR PANSIES:
+6. DEAR PANSY:
+7. DEAR PANSY:
+8. DEAR PANSY:
+9. DEAR PANSY:
+10. DEAR PANSY:
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/e08f15559516/)
+> 共 15 篇，[完整目录与正文 →](https://www.bqgmz.top/b/e08f15559516/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

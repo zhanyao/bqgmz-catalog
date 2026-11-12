@@ -1,7 +1,7 @@
 # Stormy Voyage Sandy Steele Adventures #3
 
-**作者** Leckie, Robert, 1920-2001 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 150,544 字 ｜ **来源** Project Gutenberg
+**作者** Leckie, Robert, 1920-2001 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 150,544 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e376075a3ef5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（150,544 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,506 字；最长 Mr. Steele smiled. “That’s the spirit, son,” he said. “Now, （39,914 字），最短 Both Sandy and Sam had to laugh again at the capering little（10,572 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 4,385 行。 |
+| 篇幅分布 | 平均每章 9,327 字；最长 CHAPTER FIVE（13,125 字），最短 CHAPTER SIXTEEN（2,782 字）。 |
 | 原文溯源 | `cache/epub/50238/pg50238.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. Mr. Steele smiled. “That’s the spirit, son,” he said. “Now,
-2. For a long second, there was a silence in the little cabin,
-3. The _James Kennedy_ was once more making for the Soo.
-4. Here was not only the cause of the fire. Here was proof of w
-5. The captain bobbed his head in unhappy assent. The _James Ke
-6. “And why are we out on Lake Erie instead of being berthed in
-7. Both Sandy and Sam had to laugh again at the capering little
+1. CHAPTER ONE
+2. CHAPTER TWO
+3. CHAPTER THREE
+4. CHAPTER FOUR
+5. CHAPTER FIVE
+6. CHAPTER SIX
+7. CHAPTER SEVEN
+8. CHAPTER EIGHT
+9. CHAPTER NINE
+10. CHAPTER TEN
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/e376075a3ef5/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/e376075a3ef5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

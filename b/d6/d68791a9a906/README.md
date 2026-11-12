@@ -1,7 +1,7 @@
 # Diet and Health; With Key to the Calories
 
-**作者** Peters, Lulu Hunt, 1873-1930 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 95,595 字 ｜ **来源** Project Gutenberg
+**作者** Peters, Lulu Hunt, 1873-1930 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 95,595 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d68791a9a906/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（95,595 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,898 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-num），拼接正文 3,448 行。 |
+| 篇幅分布 | 平均每章 7,217 字；最长 13（19,093 字），最短 10（1,151 字）。 |
 | 原文溯源 | `cache/epub/15069/pg15069.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 10 章）
 
-1. VITAMINES: Health preservers. Vital substances necessary for
-2. But he was exceedingly fond of fish, and while on a fishing
-3. You may be hungry at first, but you will soon become accusto
-4. Then came our withdrawal from Albania and release from duty.
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/d68791a9a906/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/d68791a9a906/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

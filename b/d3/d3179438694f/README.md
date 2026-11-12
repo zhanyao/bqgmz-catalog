@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（362,720 字）。 |
-| 分章依据 | 按「章」标记切分为 42 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,636 字；最长 CHAPTER XLII. THE LAST OF THE DEMON.（42,635 字），最短 CHAPTER XXXII. A STRANGE STORY.（6,633 字）。 |
+| 分章依据 | 按「章」标记切分为 42 章（auto-chapter），拼接正文 12,080 行。 |
+| 篇幅分布 | 平均每章 8,512 字；最长 CHAPTER XLII. THE LAST OF THE DEMON.（41,922 字），最短 CHAPTER XXXII. A STRANGE STORY.（6,633 字）。 |
 | 起止 | 始于「CHAPTER I. THE MARK ON THE TREE.」，止于「CHAPTER XLII. THE LAST OF THE DEMON.」。 |
 | 原文溯源 | `cache/epub/58940/pg58940.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/d3179438694f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

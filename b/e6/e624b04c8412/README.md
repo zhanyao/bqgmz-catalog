@@ -1,7 +1,7 @@
 # Philosophical Letters: or, modest Reflections upon some Opinions in Natural Philosophy
 
-**作者** Newcastle, Margaret Cavendish, Duchess of, 1624?-1674 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 169 题 · 700,396 字 ｜ **来源** Project Gutenberg
+**作者** Newcastle, Margaret Cavendish, Duchess of, 1624?-1674 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 157 章 · 700,396 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e624b04c8412/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（700,396 字）。 |
-| 分章依据 | 按「题」标记切分为 169 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,144 字。 |
+| 分章依据 | 按「章」标记切分为 157 章（auto-roman-bare），拼接正文 15,137 行。 |
+| 篇幅分布 | 平均每章 4,391 字；最长 XXXIII.（部4）（20,707 字），最短 XXV.（部4）（1,287 字）。 |
+| 起止 | 始于「I.」，止于「XXXIII.（部4）」。 |
 | 原文溯源 | `cache/epub/53679/pg53679.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. OR,
-2. M. N.
-3. TO THE MOST FAMOUS UNIVERSITY OF CAMBRIDGE.
-4. Your most obliged Servant
-5. A PREFACE TO THE READER.
-6. M. N.
-7. I.
-8. MADAM,
-9. M. N.
-10. II.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 169 题，[完整目录与正文 →](https://www.bqgmz.top/b/e624b04c8412/)
+> 共 157 章，[完整目录与正文 →](https://www.bqgmz.top/b/e624b04c8412/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

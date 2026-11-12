@@ -1,7 +1,7 @@
 # Lost Lenore: The Adventures of a Rolling Stone
 
-**作者** Reid, Mayne, 1818-1883 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 131 题 · 634,911 字 ｜ **来源** Project Gutenberg
+**作者** Reid, Mayne, 1818-1883 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 52 章 · 634,911 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e41a0acc05b7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（634,911 字）。 |
-| 分章依据 | 按「题」标记切分为 131 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,846 字。 |
+| 分章依据 | 按「章」标记切分为 52 章（auto-caps-sections），拼接正文 16,296 行。 |
+| 篇幅分布 | 平均每章 12,209 字；最长 SAILOR BILL'S LIFE YARN.（69,657 字），最短 THE ROLLING STONE AT REST.（3,533 字）。 |
 | 原文溯源 | `cache/epub/35443/pg35443.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. FAMILY AFFAIRS.
-3. A SUDDEN CHANGE OF CHARACTER.
-4. STORMY JACK.
-5. I obeyed this interpretation of his signal, and resumed my task.
-6. A CHANGE OF CALLING.
-7. I approved of the plan, and joyfully agreed to give it a trial.
-8. I was at that hour the happiest boy in New Orleans.
-9. GOD HELP US!
-10. I did not like to believe that Stormy had wilfully deserted me.
+1. A CHANGE OF CALLING.
+2. ONCE MORE UPON THE OCEAN!
+3. CHOOSING A HORSE.
+4. A FRUITLESS SEARCH.
+5. AN ENCOUNTER WITH A COWARD.
+6. A RECKONING UP.
+7. ONCE MORE FRIENDS.
+8. LOVE AND POVERTY.
+9. ON HORSEBACK ONCE MORE.
+10. OLD JOHNSON.
 
-> 共 131 题，[完整目录与正文 →](https://www.bqgmz.top/b/e41a0acc05b7/)
+> 共 52 章，[完整目录与正文 →](https://www.bqgmz.top/b/e41a0acc05b7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Lyman's History of old Walla Walla County,  Vol. 2 Embracing Walla Walla, Columbia, Garfield and Asotin counties
 
-**作者** Lyman, William Denison, 1852-1920 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 61 段 · 1,231,909 字 ｜ **来源** Project Gutenberg
+**作者** Lyman, William Denison, 1852-1920 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 114 章 · 1,231,909 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d6ceebca0692/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,231,909 字）。 |
-| 分章依据 | 按「段」标记切分为 61 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,195 字；最长 Dr. Frank C. Robinson was very young when the family went to（38,941 字），最短 Mr. Baumeister was a charter member of Enterprise Lodge, I. （10,713 字）。 |
+| 分章依据 | 按「章」标记切分为 114 章（auto-caps-sections），拼接正文 26,023 行。 |
+| 篇幅分布 | 平均每章 10,805 字；最长 CALDER H. WHITEMAN.（47,398 字），最短 JOHN G. PAINE.（1,291 字）。 |
 | 原文溯源 | `cache/epub/46808/pg46808.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Dr. Frank C. Robinson was very young when the family went to
-2. Judge Sharpstein was married in 1854 to Miss Sarah J. Park,
-3. Lewis McMorris was one of the family who went to Illinois an
-4. A man who has contributed to the upbuilding of a city in one
-5. Charles L. Whitney was reared in Pennsylvania and after atte
-6. Mr. Fair was married in 1908 to Miss Nellie Virginia Gregg,
-7. Elmer L. Woods, who resides on section 7, township 9 north,
-8. Charles F. Kibler, one of the prominent farmers and stockmen
-9. Having completed a short college course at Pacific Universit
-10. Charles Plucker was one of the honored citizens of the Walla
+1. DORSEY S. BAKER, M. D.
+2. C. R. ROGG.
+3. DAVID B. FERREL.
+4. HARVEY McDONALD.
+5. FRANK KIBLER.
+6. MICHAEL MARTIN.
+7. RAYMOND RINGOLD REES.
+8. ZIBA DIMMICK.
+9. EDWARD H. NIXON.
+10. IRA D. BRUNTON.
 
-> 共 61 段，[完整目录与正文 →](https://www.bqgmz.top/b/d6ceebca0692/)
+> 共 114 章，[完整目录与正文 →](https://www.bqgmz.top/b/d6ceebca0692/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

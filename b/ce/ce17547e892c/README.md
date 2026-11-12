@@ -1,7 +1,7 @@
 # Essays on the Greek Romances
 
-**作者** Haight, Elizabeth Hazelton, 1872-1964 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 9 题 · 319,806 字 ｜ **来源** Project Gutenberg
+**作者** Haight, Elizabeth Hazelton, 1872-1964 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 319,806 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ce17547e892c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（319,806 字）。 |
-| 分章依据 | 按「题」标记切分为 9 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 35,534 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-bare），拼接正文 7,408 行。 |
+| 篇幅分布 | 平均每章 36,152 字；最长 VII（61,630 字），最短 I（19,140 字）。 |
 | 原文溯源 | `cache/epub/47022/pg47022.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 题）
+## 章节目录（前 8 章）
 
-1. FIRST EDITION
-2. PRINTED IN THE UNITED STATES OF AMERICA
-3. Men are pictured fighting and in their close array
-4. And as the conflict joined and Chaereas
-5. “At length Hydaspes said to Sisimithres,
-6. Lucian’s early life is pictured in a bri
-7. FOOTNOTES
-8. INDEX
-9. Transcriber’s Notes
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
 
-> 共 9 题，[完整目录与正文 →](https://www.bqgmz.top/b/ce17547e892c/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/ce17547e892c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

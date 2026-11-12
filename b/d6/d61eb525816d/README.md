@@ -1,7 +1,7 @@
 # Worauf freuen wir uns jetzt? Fröhliche Geschichten
 
-**作者** Müller-Partenkirchen, Fritz, 1875-1942 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 5 段 · 102,979 字 ｜ **来源** Project Gutenberg
+**作者** Müller-Partenkirchen, Fritz, 1875-1942 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 9 篇 · 102,979 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d61eb525816d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（102,979 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,595 字；最长 Geht die Türe auf: „Lieber Schwiegersohn -- meine Tochter sc（39,767 字），最短 „Erzählungen aus Krieg und Frieden, die sowohl den Ernst und（2,922 字）。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（通用标记切分），拼接正文 3,029 行。 |
+| 篇幅分布 | 平均每篇 9,907 字；最长 Morgan（24,724 字），最短 Jod（2,968 字）。 |
 | 原文溯源 | `cache/epub/63108/pg63108.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 9 篇）
 
-1. Geht die Türe auf: „Lieber Schwiegersohn -- meine Tochter sc
-2. Sie machte mir über eine halbe Stunde Spaß. Dann kamen wir a
-3. Die knappste Antwort erfolgte auf die Anfrage an Professor
-4. Morgan wässerte und wässerte, wurde aber dadurch nur noch re
-5. „Erzählungen aus Krieg und Frieden, die sowohl den Ernst und
+1. Der Rauchtisch
+2. Der Familienaufsatz
+3. Der Hunderter
+4. Der Spohrer
+5. Die Rundfrage
+6. Das Kugelzimmer
+7. Schmuckel
+8. Jod
+9. Morgan
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/d61eb525816d/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d61eb525816d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Helden
 
-**作者** Shaw, Bernard, 1856-1950 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 21 题 · 131,500 字 ｜ **来源** Project Gutenberg
+**作者** Shaw, Bernard, 1856-1950 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 3 篇 · 131,500 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d0fc88633e77/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（131,500 字）。 |
-| 分章依据 | 按「题」标记切分为 21 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,261 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（通用标记切分），拼接正文 3,476 行。 |
+| 篇幅分布 | 平均每篇 43,591 字。 |
 | 原文溯源 | `cache/epub/6004/pg6004.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 篇）
 
-1. HELDEN
-2. Komödie in drei Akten
-3. George Bernard Shaw
-4. PERSONEN
-5. ERSTER AKT
-6. Louka: Jawohl, gnädige Frau. [Sie schließt sie.]
-7. Katharina: Geh zu Bett, Liebling, und denk nicht daran. [Geht ab.]
-8. Louka [nachlässig]: Gute Nacht. [Sie stolziert ab.]
-9. ZWEITER AKT
-10. Nicola: Sehr wohl, gnädiger Herr! [Er geht nach dem Stallhofe zu.]
+1. ERSTER AKT
+2. ZWEITER AKT
+3. DRITTER AKT
 
-> 共 21 题，[完整目录与正文 →](https://www.bqgmz.top/b/d0fc88633e77/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d0fc88633e77/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

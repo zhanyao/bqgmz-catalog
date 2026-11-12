@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（393,111 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 49,138 字；最长 CHAPTER VII（68,107 字），最短 CHAPTER I（37,028 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「22. 'The office of the woman is to make」。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 8,839 行。 |
+| 篇幅分布 | 平均每章 48,333 字；最长 CHAPTER III（60,047 字），最短 CHAPTER I（30,582 字）。 |
 | 原文溯源 | `cache/epub/13144/pg13144.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
@@ -25,9 +24,9 @@
 5. CHAPTER V
 6. CHAPTER VI
 7. CHAPTER VII
-8. 22. 'The office of the woman is to make
+8. notes on illustrations for an account of the famous landscape roll
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/df54dcc06e12/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

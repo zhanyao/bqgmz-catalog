@@ -1,7 +1,7 @@
 # Moran of the Lady Letty
 
-**作者** Norris, Frank, 1870-1902 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 16 题 · 203,065 字 ｜ **来源** Project Gutenberg
+**作者** Norris, Frank, 1870-1902 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 203,065 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cedf421ca10a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（203,065 字）。 |
-| 分章依据 | 按「题」标记切分为 16 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 12,691 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-roman-title），拼接正文 5,167 行。 |
+| 篇幅分布 | 平均每章 15,611 字；最长 VIII. A RUN FOR LAND（32,064 字），最短 XIV. THE OCEAN IS CALLING FOR YOU（8,464 字）。 |
+| 起止 | 始于「I. SHANGHAIED」，止于「XIV. THE OCEAN IS CALLING FOR YOU」。 |
 | 原文溯源 | `cache/epub/321/pg321.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by John Hamm
-2. MORAN OF THE LADY LETTY
-3. I. SHANGHAIED
-4. II. A NAUTICAL EDUCATION.
-5. III. THE LADY LETTY
-6. IV. MORAN
-7. V. A Girl Captain
-8. VI. A SEA MYSTERY
-9. VII. BEACH-COMBERS
-10. VIII. A RUN FOR LAND
+1. I. SHANGHAIED
+2. II. A NAUTICAL EDUCATION.
+3. III. THE LADY LETTY
+4. IV. MORAN
+5. V. A Girl Captain
+6. VI. A SEA MYSTERY
+7. VII. BEACH-COMBERS
+8. VIII. A RUN FOR LAND
+9. X. A BATTLE
+10. XI. A CHANGE IN LEADERS
 
-> 共 16 题，[完整目录与正文 →](https://www.bqgmz.top/b/cedf421ca10a/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/cedf421ca10a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

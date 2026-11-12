@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（527,285 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,091 字；最长 CHAPTER II--THE GROUNDNUT COLONY（46,506 字），最短 CHAPTER XX--WITH A COMPANION（9,884 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 11,091 行。 |
+| 篇幅分布 | 平均每章 21,049 字；最长 CHAPTER II--THE GROUNDNUT COLONY（46,506 字），最短 CHAPTER XX--WITH A COMPANION（9,884 字）。 |
 | 起止 | 始于「CHAPTER I--SONS OF THE SEA WIFE」，止于「CHAPTER XXV--THE LAND OF OPPORTUNITIES」。 |
 | 原文溯源 | `cache/epub/54400/pg54400.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/dfc03051dff0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

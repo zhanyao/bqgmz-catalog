@@ -1,7 +1,7 @@
 # Aspects of Modern Oxford, by a Mere Don
 
-**作者** Godley, A. D. (Alfred Denis), 1856-1925; Crawford, T. Hamilton (Thomas Hamilton), 1860-1948 [Illustrator]; Lorimer, John Henry, 1856-1936 [Illustrator]; Speed, Lancelot, 1860-1931 [Illustrator]; Stamp, E. [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 113,918 字 ｜ **来源** Project Gutenberg
+**作者** Godley, A. D. (Alfred Denis), 1856-1925; Crawford, T. Hamilton (Thomas Hamilton), 1860-1948 [Illustrator]; Lorimer, John Henry, 1856-1936 [Illustrator]; Speed, Lancelot, 1860-1931 [Illustrator]; Stamp, E. [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 88 篇 · 113,918 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e28e433c2870/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（113,918 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,783 字；最长 His own reason of existence is not so obvious.  It was, as w（37,457 字），最短 Eleven: no more men, thank goodness. Tobacco and my lecture （14,147 字）。 |
+| 分章依据 | 按「篇」标记切分为 88 篇（通用标记切分），拼接正文 2,352 行。 |
+| 篇幅分布 | 平均每篇 1,294 字。 |
 | 原文溯源 | `cache/epub/39525/pg39525.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 篇）
 
-1. His own reason of existence is not so obvious. It was, as w
-2. He who is responsible for the proper conduct of a gang of re
-3. Here in Oxford, though we still respect a 'First,' and thoug
-4. That the British public, with so much to think about, should
-5. Eleven: no more men, thank goodness. Tobacco and my lecture
+1. [Illustration: Cover art]
+2. A Ball at Christchurch. _By T. H. Crawford_
+3. Fellows of Colleges who travel on the continent of Europe have, from
+4. Fellows themselves fare no better, and are left in an--if
+5. For even at home the general uneducated public, taking but a passing
+6. It may be a truism, but it is nevertheless true--according to a phrase
+7. By a curious reverse of circumstances the collegian and the '_scholaris
+8. We have it on the authority of historians that the original collegiate
+9. Whip 'em and wallop 'em, Solomon said'
+10. Details have altered since then, but the general scheme of college
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/e28e433c2870/)
+> 共 88 篇，[完整目录与正文 →](https://www.bqgmz.top/b/e28e433c2870/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

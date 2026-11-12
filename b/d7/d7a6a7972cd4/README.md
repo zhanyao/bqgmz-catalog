@@ -1,7 +1,7 @@
 # An Attic Philosopher in Paris — Complete
 
 **作者** Souvestre, Émile, 1806-1854 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 5 章 · 207,268 字 ｜ **来源** Project Gutenberg
+**规模** 12 章 · 207,268 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d7a6a7972cd4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（207,268 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 41,453 字；最长 CHAPTER IX. THE FAMILY OF MICHAEL AROUT（82,582 字），最短 CHAPTER VIII. MISANTHROPY AND REPENTANCE（14,144 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 4,941 行。 |
+| 篇幅分布 | 平均每章 16,974 字；最长 CHAPTER XI. MORAL USE OF INVENTORIES（22,369 字），最短 BOOK 1.（12,133 字）。 |
 | 原文溯源 | `cache/epub/3999/pg3999.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 章）
+## 章节目录（前 10 章）
 
-1. BOOK 2.
-2. CHAPTER VI. UNCLE MAURICE
-3. CHAPTER VII. THE PRICE OF POWER AND THE WORTH OF FAME
-4. CHAPTER VIII. MISANTHROPY AND REPENTANCE
-5. CHAPTER IX. THE FAMILY OF MICHAEL AROUT
+1. BOOK 1.
+2. CHAPTER II. THE CARNIVAL
+3. CHAPTER III. WHAT WE MAY LEARN BY LOOKING OUT OF WINDOW
+4. CHAPTER IV. LET US LOVE ONE ANOTHER
+5. CHAPTER V. COMPENSATION
+6. CHAPTER VI. UNCLE MAURICE
+7. CHAPTER VII. THE PRICE OF POWER AND THE WORTH OF FAME
+8. CHAPTER VIII. MISANTHROPY AND REPENTANCE
+9. CHAPTER IX. THE FAMILY OF MICHAEL AROUT
+10. CHAPTER X. OUR COUNTRY
 
-> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/d7a6a7972cd4/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/d7a6a7972cd4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

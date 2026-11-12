@@ -1,7 +1,7 @@
 # Wanderings in New South Wales, Batavia, Pedir Coast, Singapore, and China, Vol. 2 (of 2)
 
 **作者** Bennett, George, 1804-1893 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 435,055 字 ｜ **来源** Project Gutenberg
+**规模** 10 章 · 435,055 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ce7fef64d16f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（435,055 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 33,465 字；最长 CHAPTER XII.（105,032 字），最短 CHAPTER VI.（15,464 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「I placed this specimen in one of the hen」。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 8,980 行。 |
+| 篇幅分布 | 平均每章 40,740 字；最长 CHAPTER VIII.（3）（55,558 字），最短 THE INHABITANT OF THE NAUTILUS POMPILIUS.（5,257 字）。 |
 | 原文溯源 | `cache/epub/73903/pg73903.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII.
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. CHAPTER X.
+1. CHAPTER VIII.（1）
+2. CHAPTER VIII.（2）
+3. CHAPTER VIII.（3）
+4. CHAPTER VIII.（4）
+5. CHAPTER VIII.（5）
+6. CHAPTER VIII.（6）
+7. ALKALINE SALTS.
+8. THE ALBATROSS.
+9. THE INHABITANT OF THE NAUTILUS POMPILIUS.
+10. ON THE HABITS OF THE VIVERRA MUSSUNGA, OR JAVA CAT.
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/ce7fef64d16f/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/ce7fef64d16f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

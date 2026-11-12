@@ -1,7 +1,7 @@
 # The Cruise of the "Scandal", and other stories
 
-**作者** Bridges, Victor, 1878-1972 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 94 题 · 324,320 字 ｜ **来源** Project Gutenberg
+**作者** Bridges, Victor, 1878-1972 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 14 章 · 324,320 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cc8b88dcf7dc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（324,320 字）。 |
-| 分章依据 | 按「题」标记切分为 94 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,450 字。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-toc-title-list），拼接正文 10,074 行。 |
+| 篇幅分布 | 平均每章 23,012 字；最长 The Cruise of the "_Scandal_"（47,117 字），最短 A Bit of Old Chelsea（7,992 字）。 |
 | 原文溯源 | `cache/epub/66968/pg66968.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE CRUISE OF THE "SCANDAL"
-2. AND OTHER STORIES
-3. BY
-4. VICTOR BRIDGES
-5. V. B.
-6. PREFACE TO THE AMERICAN EDITION
-7. VICTOR BRIDGES.
-8. CONTENTS
-9. The Cruise of the "_Scandal_"
-10. The Man with the Chin
+1. The Cruise of the "_Scandal_"
+2. The Man with the Chin
+3. Tony and His Conscience
+4. With the Conquering Turkey
+5. The Later Edition
+6. The Ordeal by Water
+7. The Strange Adventure of Mr. Bates
+8. A Bit of Old Chelsea
+9. The Microbe
+10. Full-back for England
 
-> 共 94 题，[完整目录与正文 →](https://www.bqgmz.top/b/cc8b88dcf7dc/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/cc8b88dcf7dc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

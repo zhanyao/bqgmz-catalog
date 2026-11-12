@@ -1,7 +1,7 @@
 # In the Tennessee mountains
 
-**作者** Craddock, Charles Egbert, 1850-1922 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 16 段 · 331,936 字 ｜ **来源** Project Gutenberg
+**作者** Craddock, Charles Egbert, 1850-1922 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 331,936 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/de2a6c3b9158/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（331,936 字）。 |
-| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,746 字；最长 The door closed at last, and he slowly resumed his way along（39,805 字），最短 There was a short silence. Mind travels far in such interval（11,712 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-toc-title-list），拼接正文 7,114 行。 |
+| 篇幅分布 | 平均每章 41,437 字；最长 DRIFTING DOWN LOST CREEK（81,462 字），最短 ELECTIONEERIN' ON BIG INJUN MOUNTING（27,758 字）。 |
 | 原文溯源 | `cache/epub/74759/pg74759.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 章）
 
-1. The door closed at last, and he slowly resumed his way along
-2. After a long time the snow slipped gradually from the mounta
-3. Always she got a night's lodging at the house of one or anot
-4. In Evander's admiration of knowledge and all its infinite ra
-5. There was an angry exclamation from Josiah, and Wray laughed
-6. He went out into the enveloping mountain mist with the sound
-7. The weeks had worn deep into November. Chevis and Varney wer
-8. The presence of voters in this lonely region was further att
-9. He could now see, through the long vista of the road, the op
-10. Cleaver took little note, at this period, of those who came
+1. DRIFTING DOWN LOST CREEK
+2. A-PLAYIN' OF OLD SLEDGE AT THE SETTLEMINT
+3. THE STAR IN THE VALLEY
+4. ELECTIONEERIN' ON BIG INJUN MOUNTING
+5. THE ROMANCE OF SUNRISE ROCK
+6. THE DANCIN' PARTY AT HARRISON'S COVE
+7. OVER ON THE T'OTHER MOUNTING
+8. THE "HARNT" THAT WALKS CHILHOWEE
 
-> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/de2a6c3b9158/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/de2a6c3b9158/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

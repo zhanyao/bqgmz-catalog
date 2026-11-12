@@ -1,0 +1,34 @@
+# Lustra of Ezra Pound
+
+**作者** Pound, Ezra, 1885-1972; Li, Bai, 701-762; Fenollosa, Ernest, 1853-1908 [Contributor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 89 章 · 53,901 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/e15ad7fec606/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（53,901 字）。 |
+| 分章依据 | 按「章」标记切分为 89 章（auto-toc-title-list），拼接正文 2,900 行。 |
+| 篇幅分布 | 平均每章 583 字。 |
+| 原文溯源 | `cache/epub/55564/pg55564.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. Tenzone
+2. The Condolence
+3. The Garret
+4. The Garden
+5. Ortus
+6. Salutation
+7. The Spring
+8. Albâtre
+9. Causa
+10. A Pact
+
+> 共 89 章，[完整目录与正文 →](https://www.bqgmz.top/b/e15ad7fec606/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

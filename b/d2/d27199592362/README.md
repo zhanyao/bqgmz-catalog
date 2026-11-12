@@ -1,7 +1,7 @@
 # Le Tour du Monde; De Tolède à Grenade Journal des voyages et des voyageurs; 2e Sem. 1905
 
-**作者** Various; Charton, Édouard, 1807-1890 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 9 段 · 194,944 字 ｜ **来源** Project Gutenberg
+**作者** Various; Charton, Édouard, 1807-1890 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 15 篇 · 194,944 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d27199592362/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（194,944 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,660 字；最长 C'est à elles que Cervantès fait allusion quand il parle des（39,485 字），最短 Les petites filles sont charmantes.                         （14,741 字）。 |
+| 分章依据 | 按「篇」标记切分为 15 篇（通用标记切分），拼接正文 5,492 行。 |
+| 篇幅分布 | 平均每篇 12,856 字。 |
+| 起止 | 始于「IV. La fièvre jaune à Grand-Bassam. -- Deuils nombreux. --」，止于「IV. -- Les «cigarrales». -- Le pont San Martino et son（2）」。 |
 | 原文溯源 | `cache/epub/30512/pg30512.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 篇）
 
-1. C'est à elles que Cervantès fait allusion quand il parle des
-2. Depuis sa transformation, la vieille synagogue a subi bien d
-3. Philippe Vigarni, dit de Bourgogne, a composé les stalles de
-4. Après avoir juré de respecter les privilèges de la ville et
-5. Il est bien entendu que Vélasquez n'a rien à voir avec ce po
-6. À mesure qu'en venant de Tolède on s'avance vers Cordoue, on
-7. D'ailleurs, on ne tarda pas à créer à Paris, près de la port
-8. Dans une autre rue, les charrons avaient accumulé leurs roue
-9. Les petites filles sont charmantes.
+1. IV. La fièvre jaune à Grand-Bassam. -- Deuils nombreux. --
+2. I. -- Moscou. -- Une déception. -- Le Kreml, acropole
+3. VI. -- Heures de retour. -- Dans l'Oural. -- La
+4. III. -- En Baloutchistan. -- Le Makran: la côte du golfe
+5. V. -- Le Seistan: son histoire. -- Le delta du Helmand. --
+6. II. -- Le monastère d'Horezu. -- Excursion à Bistritza. --
+7. II. -- Rencontre sur la route. -- Le beau cavalier. -- Un
+8. I. -- De Tachkent à Prjevalsk. -- La ville de Tachkent. --
+9. I. -- Géographie et histoire de l'Ikongo. -- Les Tanala. --
+10. I. -- L'aspect de la Castille. -- Les troupeaux en
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/d27199592362/)
+> 共 15 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d27199592362/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

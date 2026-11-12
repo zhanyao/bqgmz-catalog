@@ -1,7 +1,7 @@
 # In the Whirl of the Rising
 
-**作者** Mitford, Bertram, 1855-1914 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 71 题 · 363,439 字 ｜ **来源** Project Gutenberg
+**作者** Mitford, Bertram, 1855-1914 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 20 章 · 363,439 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d1e0ba0e164c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（363,439 字）。 |
-| 分章依据 | 按「题」标记切分为 71 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,118 字。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 9,364 行。 |
+| 篇幅分布 | 平均每章 17,604 字；最长 CHAPTER TWENTY.（143,212 字），最短 CHAPTER TWO.（9,666 字）。 |
 | 原文溯源 | `cache/epub/32894/pg32894.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. PROLOGUE.
-3. CHAPTER ONE.
-4. THE MOPANI FOREST.
-5. CHAPTER TWO.
-6. A PIONEER FARM.
-7. CHAPTER THREE.
-8. TAKING IN THE STRANGER.
-9. CHAPTER FOUR.
-10. PETERS--PROSPECTOR.
+1. CHAPTER ONE.
+2. CHAPTER TWO.
+3. CHAPTER THREE.
+4. CHAPTER FOUR.
+5. CHAPTER FIVE.
+6. CHAPTER SIX.
+7. CHAPTER SEVEN.
+8. CHAPTER EIGHT.
+9. CHAPTER NINE.
+10. CHAPTER TEN.
 
-> 共 71 题，[完整目录与正文 →](https://www.bqgmz.top/b/d1e0ba0e164c/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/d1e0ba0e164c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

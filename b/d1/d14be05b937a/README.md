@@ -1,7 +1,7 @@
 # The Demi-gods
 
 **作者** Stephens, James, 1882-1950 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 204,122 字 ｜ **来源** Project Gutenberg
+**规模** 35 章 · 204,122 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d14be05b937a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,16 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（204,122 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,701 字；最长 CHAPTER XII（76,476 字），最短 CHAPTER II（3,090 字）。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-chapter），拼接正文 6,335 行。 |
+| 篇幅分布 | 平均每章 5,805 字。 |
 | 原文溯源 | `cache/epub/46558/pg46558.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
+1. BOOK I
+2. BOOK II
+3. BOOK III
+4. BOOK IV
 5. CHAPTER V
 6. CHAPTER VI
 7. CHAPTER VII
@@ -28,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/d14be05b937a/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/d14be05b937a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Diary of the Besieged Resident in Paris
 
 **作者** Labouchere, Henry Du Pré, 1831-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 613,336 字 ｜ **来源** Project Gutenberg
+**规模** 20 章 · 613,336 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/deb0d05f3458/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（613,336 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 34,074 字；最长 CHAPTER XVII.（66,474 字），最短 CHAPTER IV（21,580 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 11,849 行。 |
+| 篇幅分布 | 平均每章 30,454 字；最长 CHAPTER XVII.（63,055 字），最短 CHAPTER XX.（8,581 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XX.」。 |
 | 原文溯源 | `cache/epub/19263/pg19263.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/deb0d05f3458/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/deb0d05f3458/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

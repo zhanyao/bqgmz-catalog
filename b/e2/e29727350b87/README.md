@@ -1,7 +1,7 @@
 # Bhagavadgita — Des Erhabenen Sang Religiöse Stimmen der Völker: Die Religion des alten Indien II
 
-**作者** Schroeder, Leopold von, 1851-1920 [Translator] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 7 段 · 143,841 字 ｜ **来源** Project Gutenberg
+**作者** Schroeder, Leopold von, 1851-1920 [Translator] ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 9 篇 · 143,841 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e29727350b87/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（143,841 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,548 字；最长 Krishna ist die große Gestalt, die im Mittelpunkte der Bhaga（38,655 字），最短 [157] Diese beiden Verse, 27 und 28, sind ein klassischer Au（4,639 字）。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（auto-title-block），拼接正文 3,248 行。 |
+| 篇幅分布 | 平均每篇 15,850 字；最长 EINLEITUNG（48,512 字），最短 DER ERHABENE SPRACH（4,460 字）。 |
 | 原文溯源 | `cache/epub/33186/pg33186.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 9 篇）
 
-1. Krishna ist die große Gestalt, die im Mittelpunkte der Bhaga
-2. Du redest gut, allein du klagst um die, die nicht beklagensw
-3. Wer, nicht auf Tatenfrucht bedacht, die pflichtgemäße Tat vo
-4. So schau denn die Gestalten mein hundert- und tausendfältig
-5. Furchtlosigkeit, Wesensreinheit, in Wissensandacht Festigkei
-6. I. Von Mohammed bis Ghazali (VII.-XII. Jahrhundert). (Vergri
-7. [157] Diese beiden Verse, 27 und 28, sind ein klassischer Au
+1. EINLEITUNG
+2. ARJUNA SPRACH
+3. DER ERHABENE SPRACH
+4. DER ERHABENE SPRACH
+5. DER ERHABENE SPRACH
+6. DER ERHABENE SPRACH
+7. DER ERHABENE SPRACH
+8. ARJUNA SPRACH
+9. Bände
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/e29727350b87/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/e29727350b87/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

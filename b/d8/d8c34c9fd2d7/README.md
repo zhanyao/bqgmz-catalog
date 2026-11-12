@@ -1,7 +1,7 @@
 # A View of Society and Manners in France, Switzerland, and Germany, Vol. 1 (of 2) With Anecdotes Relating to Some Eminent Characters
 
-**作者** Moore, John, 1729-1802 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 72 题 · 290,361 字 ｜ **来源** Project Gutenberg
+**作者** Moore, John, 1729-1802 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 40 章 · 290,361 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d8c34c9fd2d7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（290,361 字）。 |
-| 分章依据 | 按「题」标记切分为 72 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,032 字。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-caps-sections），拼接正文 6,985 行。 |
+| 篇幅分布 | 平均每章 7,255 字；最长 LETTER XXXVI.（21,260 字），最短 STATUA STATUÆ.（419 字）。 |
 | 原文溯源 | `cache/epub/58516/pg58516.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BY JOHN MOORE, M.D.
-2. IN TWO VOLUMES.
-3. VOL. I.
-4. HOR.
-5. ADVERTISEMENT.
-6. TO HIS GRACE
-7. DOUGLAS,
-8. MY LORD DUKE,
-9. I have the honour to be, with the most respectful and cordial regard,
-10. YOUR GRACE’S
+1. MDCCLXXXI.
+2. ADVERTISEMENT.
+3. MY LORD DUKE,
+4. LETTER I.
+5. LETTER II.
+6. LETTER III.
+7. LETTER IV.
+8. LETTER VI.
+9. LETTER VIII.
+10. LETTER IX.
 
-> 共 72 题，[完整目录与正文 →](https://www.bqgmz.top/b/d8c34c9fd2d7/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/d8c34c9fd2d7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

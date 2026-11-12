@@ -1,7 +1,7 @@
 # A Raw Recruit's War Experiences
 
 **作者** Nickerson, Ansel D., -1896 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 62,882 字 ｜ **来源** Project Gutenberg
+**规模** 20 章 · 62,882 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ccf6aa1c8e4d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（62,882 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,288 字；最长 CHAPTER I.（11,951 字），最短 CHAPTER IX.（3,786 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER X.」。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 1,385 行。 |
+| 篇幅分布 | 平均每章 3,029 字。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER X.（部2）」。 |
 | 原文溯源 | `cache/epub/32031/pg32031.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/ccf6aa1c8e4d/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/ccf6aa1c8e4d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

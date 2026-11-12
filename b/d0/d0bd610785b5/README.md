@@ -1,7 +1,7 @@
 # Kimiko, and Other Japanese Sketches
 
-**作者** Hearn, Lafcadio, 1850-1904 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 12 题 · 38,352 字 ｜ **来源** Project Gutenberg
+**作者** Hearn, Lafcadio, 1850-1904 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 38,352 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d0bd610785b5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（38,352 字）。 |
-| 分章依据 | 按「题」标记切分为 12 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,196 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-roman-bare），拼接正文 949 行。 |
+| 篇幅分布 | 平均每章 4,199 字；最长 IV（部2）（12,319 字），最短 III（部2）（1,542 字）。 |
 | 原文溯源 | `cache/epub/41579/pg41579.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. KIMIKO AND OTHER JAPANESE SKETCHES
-2. By LAFCADIO HEARN
-3. KIMIKO
-4. II
-5. III
-6. IV
-7. THE NUN OF THE TEMPLE OF AMIDA
-8. II
-9. III
-10. IV
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. I（部2）
+7. II（部2）
+8. III（部2）
+9. IV（部2）
 
-> 共 12 题，[完整目录与正文 →](https://www.bqgmz.top/b/d0bd610785b5/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/d0bd610785b5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

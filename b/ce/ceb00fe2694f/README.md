@@ -1,7 +1,7 @@
 # In a Syrian Saddle
 
 **作者** Goodrich-Freer, A. (Ada), 1865-1931 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 368,613 字 ｜ **来源** Project Gutenberg
+**规模** 16 章 · 368,613 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ceb00fe2694f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（368,613 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 36,861 字；最长 CHAPTER VIII（105,343 字），最短 CHAPTER III（12,804 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 9,432 行。 |
+| 篇幅分布 | 平均每章 21,488 字；最长 CHAPTER II（31,005 字），最短 CHAPTER III（12,804 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER VIII（部2）」。 |
 | 原文溯源 | `cache/epub/57207/pg57207.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -25,10 +26,10 @@
 6. CHAPTER VI
 7. CHAPTER VII
 8. CHAPTER VIII
-9. Apart, however, from the stimulus of its
-10. Chariton, St, 15
+9. CHAPTER I（部2）
+10. CHAPTER II（部2）
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/ceb00fe2694f/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/ceb00fe2694f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

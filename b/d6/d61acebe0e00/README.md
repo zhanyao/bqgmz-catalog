@@ -1,7 +1,7 @@
 # The Young Scout: The Story of a West Point Lieutenant
 
 **作者** Ellis, Edward Sylvester, 1840-1916 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 19 章 · 293,378 字 ｜ **来源** Project Gutenberg
+**规模** 27 章 · 293,378 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d61acebe0e00/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（293,378 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,440 字；最长 Since the Apache was too cautious to be （75,197 字），最短 CHAPTER XV.（7,367 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-chapter），拼接正文 7,629 行。 |
+| 篇幅分布 | 平均每章 10,816 字；最长 CHAPTER XVIII.（35,948 字），最短 CHAPTER XV.（7,367 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXVII.」。 |
 | 原文溯源 | `cache/epub/57699/pg57699.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/d61acebe0e00/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/d61acebe0e00/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Chronica de el-rei D. Affonso V (Vol. II)
 
-**作者** Pina, Rui de, 1440-1521 ｜ **国家/地区** 葡萄牙 ｜ **体例** 题  
-**规模** 69 题 · 204,130 字 ｜ **来源** Project Gutenberg
+**作者** Pina, Rui de, 1440-1521 ｜ **国家/地区** 葡萄牙 ｜ **体例** 章  
+**规模** 61 章 · 204,130 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d42a8c0558fc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（204,130 字）。 |
-| 分章依据 | 按「题」标记切分为 69 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,958 字。 |
+| 分章依据 | 按「章」标记切分为 61 章（auto-chapter），拼接正文 4,483 行。 |
+| 篇幅分布 | 平均每章 3,339 字；最长 CAPITULO CXXXVIII（14,135 字），最短 CAPITULO CXI（626 字）。 |
 | 原文溯源 | `cache/epub/21911/pg21911.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BIBLIOTHECA DE CLASSICOS PORTUGUEZES
-2. PROPRIETARIO E FUNDADOR
-3. Bibliotheca de Classicos Portuguezes
-4. Proprietario e fundador--Mello d'Azevedo
-5. CHRONICA DE EL-REI D. AFFONSO V
-6. POR
-7. VOL. II
-8. CAPITULO LXXX
-9. CAPITULO LXXXI
-10. CAPITULO LXXXII
+1. CAPITULO LXXX
+2. CAPITULO LXXXI
+3. CAPITULO LXXXII
+4. CAPITULO LXXXIII
+5. CAPITULO LXXXIV
+6. CAPITULO LXXXV
+7. CAPITULO LXXXVI
+8. CAPITULO LXXXVII
+9. CAPITULO LXXXVIII
+10. CAPITULO LXXXIX
 
-> 共 69 题，[完整目录与正文 →](https://www.bqgmz.top/b/d42a8c0558fc/)
+> 共 61 章，[完整目录与正文 →](https://www.bqgmz.top/b/d42a8c0558fc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

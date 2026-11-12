@@ -1,7 +1,7 @@
 # The Eclipse of Faith; Or, A Visit to a Religious Sceptic
 
-**作者** Rogers, Henry, 1806-1877 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 33 段 · 673,133 字 ｜ **来源** Project Gutenberg
+**作者** Rogers, Henry, 1806-1877 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 17 部分 · 673,133 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e2633bdde185/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（673,133 字）。 |
-| 分章依据 | 按「段」标记切分为 33 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,397 字；最长 I repeat, that the people of England will never yield to Rom（39,359 字），最短 It was a painful question; but I was resolved I would have n（12,465 字）。 |
+| 分章依据 | 按「部分」标记切分为 17 部分（fallback-chunk），拼接正文 14,243 行。 |
+| 篇幅分布 | 平均每部分 39,596 字；最长 第 8 部分（42,274 字），最短 第 17 部分（307 字）。 |
 | 原文溯源 | `cache/epub/16866/pg16866.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. I repeat, that the people of England will never yield to Rom
-2. I imagine that a feeling a little resembling this, though fr
-3. July 2. Mr. Fellowes arrived this day about noon. He is abou
-4. "If you think," said the other, "(the substance of your reli
-5. I told him I was afraid I must run the risk of appearing in
-6. "I am afraid that will not excuse their absurdity, because,
-7. "Yes; but each of those great souls who have stimulated the
-8. July 9. Mr. Fellowes returned this morning. We had a very pl
-9. "They would do so," cries Mr. Parker; but unhappily, though
-10. No, no; few but Mr. Parker will affirm that the various reli
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 33 段，[完整目录与正文 →](https://www.bqgmz.top/b/e2633bdde185/)
+> 共 17 部分，[完整目录与正文 →](https://www.bqgmz.top/b/e2633bdde185/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

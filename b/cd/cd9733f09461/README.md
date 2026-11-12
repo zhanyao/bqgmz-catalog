@@ -1,7 +1,7 @@
 # Appletons' Popular Science Monthly, August 1899 Volume LV
 
-**作者** Various; Youmans, William Jay, 1838-1901 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 17 段 · 350,468 字 ｜ **来源** Project Gutenberg
+**作者** Various; Youmans, William Jay, 1838-1901 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 31 篇 · 350,468 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cd9733f09461/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（350,468 字）。 |
-| 分章依据 | 按「段」标记切分为 17 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,615 字；最长 III. EDUCATION.--Within the past four years several States--（37,591 字），最短 =Chemistry Teaching in Grammar and High Schools.=--At the fo（11,588 字）。 |
+| 分章依据 | 按「篇」标记切分为 31 篇（auto-magazine），拼接正文 7,288 行。 |
+| 篇幅分布 | 平均每篇 11,305 字。 |
 | 原文溯源 | `cache/epub/45938/pg45938.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. III. EDUCATION.--Within the past four years several States--
-2. Ten years ago the Hon. Edwin Reed, of Boston, Massachusetts,
-3. During the winter of 1886-'87 Prof. W. M. Davis delivered a
-4. At the second meeting of the association it was the illustri
-5. When the painter Juan Luna attracted so much attention with
-6. The second set comprised experiments on the so-called "memor
-7. For comparison with the above figures, the following statist
-8. But Dr. Ammon has shown more. By comparison with the skulls
-9. Another pupil, W. R., two years younger, illustrates a diffe
-10. In passing from the tariff, or duties on imports, to the int
+1. PROFESSOR OF SOCIOLOGY IN COLUMBIA UNIVERSITY
+2. VI. REFUSAL OF EMPLOYMENT TO PERSONS KNOWN TO BE HABITUAL USERS OF
+3. IX. REMOVE ALL DUTIES, TAXES, IMPOSTS, OR BURDENS OF ANY SORT ON FOOD
+4. [Illustration: ON THE RIGHT, BUILDING OF THE BOSTON SOCIETY OF NATURAL
+5. OF TECHNOLOGY.]
+6. USED BY CLASSES OF THE TEACHERS' SCHOOL OF SCIENCE.]
+7. AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE
+8. DIRECTOR OF THE UNITED STATES GEOLOGICAL SURVEY
+9. PRESIDENT OF THE JEWISH HISTORICAL SOCIETY
+10. PART II
 
-> 共 17 段，[完整目录与正文 →](https://www.bqgmz.top/b/cd9733f09461/)
+> 共 31 篇，[完整目录与正文 →](https://www.bqgmz.top/b/cd9733f09461/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

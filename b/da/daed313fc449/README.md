@@ -1,7 +1,7 @@
 # Der Gang nach der Himmelpforte
 
-**作者** Friederich, Ferdinand, 1798-1874 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 14 题 · 70,838 字 ｜ **来源** Project Gutenberg
+**作者** Friederich, Ferdinand, 1798-1874 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 12 章 · 70,838 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/daed313fc449/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（70,838 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,059 字；最长 II.（8,328 字），最短 Inhalt（631 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-roman-bare），拼接正文 1,634 行。 |
+| 篇幅分布 | 平均每章 5,850 字；最长 II.（8,328 字），最短 XI.（3,318 字）。 |
+| 起止 | 始于「I.」，止于「XII.」。 |
 | 原文溯源 | `cache/epub/73835/pg73835.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Inhalt
-2. I.
-3. II.
-4. III.
-5. IV.
-6. V.
-7. VI.
-8. VII.
-9. VIII.
-10. IX.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/daed313fc449/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/daed313fc449/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The American Bee Journal. Volume XVII No. 11, March 1881
 
-**作者** Various; Newman, Thomas G. (Thomas Gabriel), 1833-1903 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 126 题 · 97,236 字 ｜ **来源** Project Gutenberg
+**作者** Various; Newman, Thomas G. (Thomas Gabriel), 1833-1903 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 97,236 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d95709608a22/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（97,236 字）。 |
-| 分章依据 | 按「题」标记切分为 126 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 771 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 3,124 行。 |
+| 篇幅分布 | 平均每章 11,985 字。 |
 | 原文溯源 | `cache/epub/59152/pg59152.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. TERMS OF SUBSCRIPTION:
-2. CHAS. DADANT.
-3. REV. W. BALLENTINE, A. M.
-4. H. L. PENFIELD.
-5. H. L. JEFFREY.
-6. REV. L. L. LANGSTROTH.
-7. WM. F. CLARKE.
-8. F. P. BOUTEILLER.
-9. G. W. DEMAREE.
-10. W. A. PRYAL.
+1. H. W. FUNK.（1）
+2. H. W. FUNK.（2）
+3. NEW YORK.
+4. SPECIAL NOTICES.
+5. RATES FOR ADVERTISING.
+6. FLAT-BOTTOM COMB FOUNDATION,
+7. SCROLL SAWS
+8. ☞CHEAP FOR CASH. ☜
 
-> 共 126 题，[完整目录与正文 →](https://www.bqgmz.top/b/d95709608a22/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/d95709608a22/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

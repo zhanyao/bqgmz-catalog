@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（294,571 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,327 字；最长 CHAPTER VII. The Outbreak Of The War With Spain（26,523 字），最短 CHAPTER IX. The Blockade Of Cuba（10,601 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 5,704 行。 |
+| 篇幅分布 | 平均每章 17,292 字；最长 CHAPTER VII. The Outbreak Of The War With Spain（26,523 字），最短 CHAPTER IX. The Blockade Of Cuba（10,601 字）。 |
 | 起止 | 始于「CHAPTER I. The Monroe Doctrine」，止于「CHAPTER XVII. World Relationships」。 |
 | 原文溯源 | `cache/epub/3157/pg3157.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/e3e84059d16d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

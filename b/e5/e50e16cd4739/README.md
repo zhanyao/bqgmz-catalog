@@ -1,7 +1,7 @@
 # L'homme sauvage et Julius Pingouin
 
-**作者** Boutet, Frédéric, 1874-1941 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 30 题 · 244,246 字 ｜ **来源** Project Gutenberg
+**作者** Boutet, Frédéric, 1874-1941 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 8 章 · 244,246 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e50e16cd4739/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（244,246 字）。 |
-| 分章依据 | 按「题」标记切分为 30 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,141 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 6,342 行。 |
+| 篇幅分布 | 平均每章 30,530 字；最长 HARANGUE PRONONCÉE PAR LE CAPITAINE JULIUS PINGOUIN（1）（55,456 字），最短 C......（1,490 字）。 |
 | 原文溯源 | `cache/epub/73865/pg73865.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. FRÉDÉRIC BOUTET
-2. DU MÊME AUTEUR
-3. L’Homme Sauvage
-4. RÉSUMÉ HISTORIQUE AVEC REPRODUCTION DES DOCUMENTS ORIGINAUX
-5. L’HOMME SAUVAGE
-6. DU QUAI BOIS-L’ENCRE
-7. LE CARNET DE MAITRE CORMORAN
-8. ULTIMATUM.
-9. CORMORAN, _huissier-greffier_.»
-10. CORMORAN, _huissier-greffier_.»
+1. «L’ON VOUS REND VOTRE ŒUVRE.»（1）
+2. «L’ON VOUS REND VOTRE ŒUVRE.»（2）
+3. CONDITIONS GÉNÉRALES
+4. C......
+5. RÉPONSE DU GOUVERNEMENT A L’ULTIMATUM DE L’HOMME SAUVAGE.
+6. CARNYBY.
+7. HARANGUE PRONONCÉE PAR LE CAPITAINE JULIUS PINGOUIN（1）
+8. HARANGUE PRONONCÉE PAR LE CAPITAINE JULIUS PINGOUIN（2）
 
-> 共 30 题，[完整目录与正文 →](https://www.bqgmz.top/b/e50e16cd4739/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/e50e16cd4739/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

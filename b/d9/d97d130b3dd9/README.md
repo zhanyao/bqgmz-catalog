@@ -1,7 +1,7 @@
 # Der zerstörte Tasso: Ausgewählte Gedichte
 
-**作者** Bruckner, Ferdinand, 1891-1958 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 70 题 · 37,406 字 ｜ **来源** Project Gutenberg
+**作者** Bruckner, Ferdinand, 1891-1958 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 5 章 · 37,406 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d97d130b3dd9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（37,406 字）。 |
-| 分章依据 | 按「题」标记切分为 70 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 534 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-roman-bare），拼接正文 1,845 行。 |
+| 篇幅分布 | 平均每章 7,296 字；最长 V.（15,375 字），最短 I.（317 字）。 |
+| 起止 | 始于「I.」，止于「V.」。 |
 | 原文溯源 | `cache/epub/52092/pg52092.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. Bücherei »Der jüngste Tag«, Bd. 62/63
-2. Gedruckt Ende 1918 bei E. Haberland in Leipzig
-3. INHALT
-4. OHNMACHT UND AUFRUHR
-5. STOSZGEBETE
-6. I.
-7. II.
-8. III.
-9. DER DICHTER
-10. I.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
 
-> 共 70 题，[完整目录与正文 →](https://www.bqgmz.top/b/d97d130b3dd9/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/d97d130b3dd9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

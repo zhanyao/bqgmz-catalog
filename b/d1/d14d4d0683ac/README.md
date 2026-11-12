@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（833,756 字）。 |
-| 分章依据 | 按「章」标记切分为 63 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 13,234 字；最长 CHAPTER LIV. MR. WOTHERSPOON’S DÉJEUNER À LA FOURCHETTE.（24,368 字），最短 CHAPTER LI. MONEY AND MATRIMONY.（4,409 字）。 |
+| 分章依据 | 按「章」标记切分为 63 章（auto-chapter），拼接正文 20,495 行。 |
+| 篇幅分布 | 平均每章 13,190 字；最长 CHAPTER LIV. MR. WOTHERSPOON’S DÉJEUNER À LA FOURCHETTE.（24,368 字），最短 CHAPTER LI. MONEY AND MATRIMONY.（4,409 字）。 |
 | 起止 | 始于「CHAPTER I. OUR HERO AND CO.—A SLEEPING PARTNER.」，止于「CHAPTER LXIII. A STARTLING ANNOUNCEMENT.」。 |
 | 原文溯源 | `cache/epub/44822/pg44822.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 63 章，[完整目录与正文 →](https://www.bqgmz.top/b/d14d4d0683ac/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

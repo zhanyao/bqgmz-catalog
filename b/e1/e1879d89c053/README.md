@@ -1,7 +1,7 @@
 # The Gold Coast Regiment in the East African Campaign
 
 **作者** Clifford, Hugh Charles, Sir, 1866-1941 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 391,430 字 ｜ **来源** Project Gutenberg
+**规模** 19 章 · 391,430 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e1879d89c053/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（391,430 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,746 字；最长 CHAPTER XVIII（57,838 字），最短 CHAPTER I（14,235 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XVIII」。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 9,551 行。 |
+| 篇幅分布 | 平均每章 20,456 字；最长 APPENDIX I（44,341 字），最短 CHAPTER I（11,471 字）。 |
 | 原文溯源 | `cache/epub/52522/pg52522.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/e1879d89c053/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/e1879d89c053/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

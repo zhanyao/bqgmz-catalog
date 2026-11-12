@@ -1,7 +1,7 @@
 # La femme et le pantin: roman espagnol
 
-**作者** Louÿs, Pierre, 1870-1925 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 6 段 · 121,882 字 ｜ **来源** Project Gutenberg
+**作者** Louÿs, Pierre, 1870-1925 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 16 章 · 121,882 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e127ea69afbb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（121,882 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,313 字；最长 «J’aime mon pays, reprit-il. J’aime ses montagnes et ses pla（39,913 字），最短 André jeta sur elle un regard qui voyait toute une destinée;（1,846 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-roman-bare），拼接正文 3,467 行。 |
+| 篇幅分布 | 平均每章 7,555 字；最长 III（13,363 字），最短 NOTES:（888 字）。 |
 | 原文溯源 | `cache/epub/26868/pg26868.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. «J’aime mon pays, reprit-il. J’aime ses montagnes et ses pla
-2. Les plus vêtues n’avaient que leur chemise autour du corps (
-3. Et je l’aimais! Oh! que je l’aimais, mon Dieu! j’en étais ve
-4. Tous la connaissaient par son nom. J’entendais des «Conchita
-5. Elle avait repris sa voix railleuse et son sourire particuli
-6. André jeta sur elle un regard qui voyait toute une destinée;
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/e127ea69afbb/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/e127ea69afbb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

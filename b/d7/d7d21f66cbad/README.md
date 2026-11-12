@@ -1,7 +1,7 @@
 # Rambles and Studies in Greece
 
 **作者** Mahaffy, J. P. (John Pentland), 1839-1919 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 649,863 字 ｜ **来源** Project Gutenberg
+**规模** 16 章 · 649,863 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d7d21f66cbad/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（649,863 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 38,227 字；最长 CHAPTER XI.（56,851 字），最短 CHAPTER XIV.（23,314 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 12,845 行。 |
+| 篇幅分布 | 平均每章 35,853 字；最长 CHAPTER XI.（56,851 字），最短 CHAPTER XIV.（23,314 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVI.」。 |
 | 原文溯源 | `cache/epub/35298/pg35298.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/d7d21f66cbad/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/d7d21f66cbad/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

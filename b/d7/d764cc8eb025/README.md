@@ -1,7 +1,7 @@
 # Deux et deux font cinq (2 + 2 = 5) oeuvres anthumes
 
-**作者** Allais, Alphonse, 1854-1905 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 90 题 · 286,440 字 ｜ **来源** Project Gutenberg
+**作者** Allais, Alphonse, 1854-1905 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 8 篇 · 286,440 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d764cc8eb025/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（286,440 字）。 |
-| 分章依据 | 按「题」标记切分为 90 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,182 字。 |
+| 分章依据 | 按「篇」标记切分为 8 篇（auto-title-block），拼接正文 10,072 行。 |
+| 篇幅分布 | 平均每篇 34,280 字；最长 »UNE GARDEUSE DE HANNETONS.»（70,099 字），最短 L'OISEUSE CORRESPONDANCE（3,503 字）。 |
 | 原文溯源 | `cache/epub/23444/pg23444.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 篇）
 
-1. ALPHONSE ALLAIS
-2. DERNIÈRES NOUVEAUTÉS
-3. Envoi franco du Catalogue complet de la Librairie Paul Ollendorff
-4. ÉMILE COLIN--IMPRIMERIE DE LAGNY
-5. DU MÊME AUTEUR
-6. POLYTYPIE
-7. ET DAUDET?
-8. ANTIBUREAUCRATIE
-9. CORRESPONDANCE ET CORRESPONDANCES
-10. LE MYSTÈRE DE LA SAINTE-TRINITÉ DEVANT LA JEUNESSE CONTEMPORAINE
+1. CORRESPONDANCE ET CORRESPONDANCES
+2. LE SEUL PÉDICURE SÉRIEUX DE NICE
+3. DRESSAGE
+4. SAINTE-BELLONE
+5. UNE VRAIE POIRE
+6. L'OISEUSE CORRESPONDANCE
+7. »UNE GARDEUSE DE HANNETONS.»
+8. NOTES SUR LA CÔTE D'AZUR
 
-> 共 90 题，[完整目录与正文 →](https://www.bqgmz.top/b/d764cc8eb025/)
+> 共 8 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d764cc8eb025/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

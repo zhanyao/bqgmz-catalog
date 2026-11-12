@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（101,546 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,231 字；最长 CHAPTER VI. A Downward Path.（11,950 字），最短 CHAPTER XI. Adjusted.（4,931 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 2,912 行。 |
+| 篇幅分布 | 平均每章 9,183 字；最长 CHAPTER VI. A Downward Path.（11,950 字），最短 CHAPTER XI. Adjusted.（4,931 字）。 |
 | 起止 | 始于「CHAPTER I. Will He Come Home?」，止于「CHAPTER XI. Adjusted.」。 |
 | 原文溯源 | `cache/epub/78931/pg78931.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/dfb6a256faef/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

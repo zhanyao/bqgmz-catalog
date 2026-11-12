@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（454,590 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 30,306 字；最长 CHAPTER 15: RETROSPECT AND PROSPECT（61,386 字），最短 CHAPTER 2: THE BAB:(3) THE FORERUNNER（17,731 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 11,804 行。 |
+| 篇幅分布 | 平均每章 29,143 字；最长 CHAPTER 15: RETROSPECT AND PROSPECT（54,399 字），最短 CHAPTER 1: THE GLAD TIDINGS（16,096 字）。 |
 | 起止 | 始于「CHAPTER 1: THE GLAD TIDINGS」，止于「CHAPTER 15: RETROSPECT AND PROSPECT」。 |
 | 原文溯源 | `cache/epub/19241/pg19241.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/d6404c7e7adf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（353,663 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 32,151 字；最长 CHAPTER XXIV.（47,485 字），最短 CHAPTER XXV.（23,761 字）。 |
-| 起止 | 始于「CHAPTER XV.」，止于「CHAPTER XXV.」。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 8,769 行。 |
+| 篇幅分布 | 平均每章 32,088 字；最长 CHAPTER XXIV.（47,485 字），最短 CHAPTER XXV.（23,604 字）。 |
+| 起止 | 始于「CHAPTER XV. Hadumoth」，止于「CHAPTER XXV.」。 |
 | 原文溯源 | `cache/epub/35847/pg35847.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER XV.
+1. CHAPTER XV. Hadumoth
 2. CHAPTER XVI.
 3. CHAPTER XVII.
 4. CHAPTER XVIII.
@@ -32,4 +32,4 @@
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/cf46c443e96b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

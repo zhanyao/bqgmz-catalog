@@ -1,7 +1,7 @@
 # The Die Varieties of the Nesbitt Series of United States Envelopes
 
-**作者** Berthold, Victor Maximilian, 1856-1932 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 133,136 字 ｜ **来源** Project Gutenberg
+**作者** Berthold, Victor Maximilian, 1856-1932 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 27 章 · 133,136 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d96655260ed2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（133,136 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,189 字；最长 [Illustration: IX.]（39,716 字），最短 Given a certain specimen, he first ascertains the knife, sec（13,522 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-caps-sections），拼接正文 5,365 行。 |
+| 篇幅分布 | 平均每章 4,848 字；最长 VAR. 12.（21,701 字），最短 HEAD VI.（488 字）。 |
 | 原文溯源 | `cache/epub/40002/pg40002.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. [Illustration: IX.]
-2. Variety 27:--THE HORIZONTAL BAR OF THE FINAL STROKE OF "N"
-3. Measure 10 mm. from the top of the highest ray of the left s
-4. Those who possess a number of Jackson dies cannot have faile
-5. "POST" 8 mm. "U" wide slanting to left, and far from left ov
-6. Given a certain specimen, he first ascertains the knife, sec
+1. ADDENDA, 105
+2. INTRODUCTION
+3. THE 1853-55 SERIES.
+4. TEN HEADS--TWELVE VARIETIES.
+5. HEAD III.
+6. HEAD VI.
+7. HEAD VII.
+8. HEAD IX.
+9. HEAD X.
+10. HEAD XII.
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/d96655260ed2/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/d96655260ed2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

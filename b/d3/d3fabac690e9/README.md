@@ -1,7 +1,7 @@
 # Bible Romances, First Series
 
-**作者** Foote, G. W. (George William), 1850-1915 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 11 段 · 220,548 字 ｜ **来源** Project Gutenberg
+**作者** Foote, G. W. (George William), 1850-1915 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 12 章 · 220,548 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d3fabac690e9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（220,548 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,049 字；最长 About 1,656 years after God created Adam, and placed him in （39,961 字），最短 Lot was the father of his own grandchildren; his daughters w（543 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-toc-title-list），拼接正文 4,493 行。 |
+| 篇幅分布 | 平均每章 18,360 字；最长 THE TEN PLAGUES;（19,256 字），最短 BALAAM'S ASS.（17,167 字）。 |
 | 原文溯源 | `cache/epub/30209/pg30209.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. About 1,656 years after God created Adam, and placed him in
-2. This apple grew on the Tree of Knowledge, which God planted
-3. Every reader will at once perceive how similar this is to th
-4. One day Moses was keeping his father-in-law's flock near Mou
-5. That the Lord, or some other supernatural power, caused the
-6. According to Herodotus, the Egyptian army, which formed a di
-7. How was their language "confounded?" Did God destroy their v
-8. Poor Balaam, however, did not reflect that as the Lord had c
-9. When we read that Pan fought with the Greeks against the Per
-10. Now Adam and Eve, when Cain fled after the murder of Abel, w
+1. THE CREATION STORY.
+2. NOAH'S FLOOD.
+3. EVE AND THE APPLE.
+4. THE BIBLE DEVIL.
+5. THE TEN PLAGUES;
+6. JONAH AND THE WHALE.
+7. THE WANDERING JEWS.
+8. THE TOWER OF BABEL.
+9. BALAAM'S ASS.
+10. GOD'S THIEVES IN CANAAN.
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/d3fabac690e9/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/d3fabac690e9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

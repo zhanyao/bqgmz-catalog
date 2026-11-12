@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（222,080 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,189 字；最长 HYDRAULICS（58,041 字），最短 CHAPTER VII. THE EAR. HOW WE HEAR. SOUND AND SOUND WAVES. THE VOCAL（7,425 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 5,045 行。 |
+| 篇幅分布 | 平均每章 19,269 字；最长 appendix contains definitions of units and terms used in the text.（69,259 字），最短 CHAPTER VII. THE EAR. HOW WE HEAR. SOUND AND SOUND WAVES. THE VOCAL（7,425 字）。 |
 | 原文溯源 | `cache/epub/66702/pg66702.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +26,9 @@
 7. CHAPTER VII. THE EAR. HOW WE HEAR. SOUND AND SOUND WAVES. THE VOCAL
 8. CHAPTER VIII. THE TELEPHONE TRANSMITTER AND RECEIVER. THE PHOTO PHONE.
 9. CHAPTER IX. THE WIRELESS TELEPHONE.
-10. CHAPTER X. REMARKS. THEORY. ACCOMPLISHME
+10. CHAPTER X. REMARKS. THEORY. ACCOMPLISHMENTS. MAXWELL'S HERTZ'S DISCOVERY.
 
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/ccb72db4b2e7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

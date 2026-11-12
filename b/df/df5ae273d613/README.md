@@ -1,7 +1,7 @@
 # Só
 
-**作者** Nobre, António Pereira, 1867-1900 ｜ **国家/地区** 葡萄牙 ｜ **体例** 段  
-**规模** 4 段 · 94,836 字 ｜ **来源** Project Gutenberg
+**作者** Nobre, António Pereira, 1867-1900 ｜ **国家/地区** 葡萄牙 ｜ **体例** 部分  
+**规模** 3 部分 · 94,836 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/df5ae273d613/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（94,836 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,709 字。 |
+| 分章依据 | 按「部分」标记切分为 3 部分（fallback-chunk），拼接正文 4,324 行。 |
+| 篇幅分布 | 平均每部分 31,612 字。 |
 | 原文溯源 | `cache/epub/17193/pg17193.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 3 部分）
 
-1. Aqui, no meio d'esta fria soledade,
-2. Que manhã! E não quereres vir...
-3. Morreu, Vae a dormir, vae a sonhar... Deixal-a!
-4. Quando cheguei, aqui, Santo Deus! como eu vinha!
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/df5ae273d613/)
+> 共 3 部分，[完整目录与正文 →](https://www.bqgmz.top/b/df5ae273d613/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

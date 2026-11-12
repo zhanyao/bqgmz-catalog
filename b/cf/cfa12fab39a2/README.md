@@ -1,7 +1,7 @@
 # Modern Painters, Volume 3 (of 5)
 
 **作者** Ruskin, John, 1819-1900 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 642,685 字 ｜ **来源** Project Gutenberg
+**规模** 19 章 · 642,685 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cfa12fab39a2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（642,685 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 35,704 字；最长 CHAPTER XIV.（70,878 字），最短 CHAPTER II.（12,564 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVIII.」。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 13,722 行。 |
+| 篇幅分布 | 平均每章 32,885 字；最长 CHAPTER XIV.（70,878 字），最短 CHAPTER II.（12,564 字）。 |
 | 原文溯源 | `cache/epub/38923/pg38923.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/cfa12fab39a2/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/cfa12fab39a2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

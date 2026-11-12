@@ -1,7 +1,7 @@
 # Misalliance
 
-**作者** Shaw, Bernard, 1856-1950 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 20 题 · 143,947 字 ｜ **来源** Project Gutenberg
+**作者** Shaw, Bernard, 1856-1950 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 8 篇 · 143,947 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/dd49ae13431c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（143,947 字）。 |
-| 分章依据 | 按「题」标记切分为 20 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,197 字。 |
+| 分章依据 | 按「篇」标记切分为 8 篇（auto-magazine），拼接正文 4,291 行。 |
+| 篇幅分布 | 平均每篇 17,993 字。 |
 | 原文溯源 | `cache/epub/943/pg943.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 篇）
 
-1. Produced by Ron Burkey, and Amy Thomte
-2. MISALLIANCE
-3. MISALLIANCE
-4. BENTLEY. I--
-5. BENTLEY. Oh, let him alone--
-6. BENTLEY. Oh, very simple. His father--
-7. HYPATIA. Thats just it. I'm fed up with--
-8. HYPATIA. _[startled]_ Bentley's friend? _[Bentley nods]._
-9. PERCIVAL. But if everybody went on in this way--
-10. PERCIVAL. Miss Tarleton--
+1. MISALLIANCE
+2. BENTLEY. I--
+3. LORD SUMMERHAYS. What?
+4. MRS TARLETON. Who?
+5. LORD SUMMERHAYS. No
+6. TARLETON. Eh?
+7. HYPATIA. Why?
+8. LORD SUMMERHAYS. Oh!
 
-> 共 20 题，[完整目录与正文 →](https://www.bqgmz.top/b/dd49ae13431c/)
+> 共 8 篇，[完整目录与正文 →](https://www.bqgmz.top/b/dd49ae13431c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

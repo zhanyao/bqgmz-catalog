@@ -1,7 +1,7 @@
 # Social Forces in England and America
 
-**作者** Wells, H. G. (Herbert George), 1866-1946 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 24 段 · 495,651 字 ｜ **来源** Project Gutenberg
+**作者** Wells, H. G. (Herbert George), 1866-1946 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 28 章 · 495,651 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e25a202db552/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（495,651 字）。 |
-| 分章依据 | 按「段」标记切分为 24 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,652 字；最长 The development of these waterplanes is an important step to（39,422 字），最短 We have already had some very astonishing suggestions in thi（15,686 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-toc-title-list），拼接正文 9,879 行。 |
+| 篇幅分布 | 平均每章 17,616 字；最长 THE AMERICAN POPULATION（76,577 字），最短 TRAFFIC AND REBUILDING（5,751 字）。 |
 | 原文溯源 | `cache/epub/64186/pg64186.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. The development of these waterplanes is an important step to
-2. I have but the knowledge of the man in the street in these t
-3. Hitherto, in Great Britain at any rate, the working man has
-4. But indeed this thing is actually happening. The older type
-5. But however thwarted and crippled our public imagination may
-6. I gather from a valuable publication called _Secret Remedies
-7. But the general effect of history is to present these phases
-8. A considerable proportion of the socialist movement remains,
-9. I would like to underline in the most emphatic way that it i
-10. No doubt we must be armed to-day, but every penny we divert
+1. THE COMING OF BLÉRIOT
+2. MY FIRST FLIGHT
+3. OFF THE CHAIN
+4. OF THE NEW REIGN
+5. WILL THE EMPIRE LIVE?
+6. THE LABOUR UNREST
+7. SOCIAL PANACEAS
+8. SYNDICALISM OR CITIZENSHIP?
+9. THE GREAT STATE
+10. THE COMMON SENSE OF WARFARE
 
-> 共 24 段，[完整目录与正文 →](https://www.bqgmz.top/b/e25a202db552/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/e25a202db552/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

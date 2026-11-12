@@ -1,7 +1,7 @@
 # Heikki Helmikangas
 
-**作者** Sissala, Eero, 1851-1909 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 44 题 · 441,258 字 ｜ **来源** Project Gutenberg
+**作者** Sissala, Eero, 1851-1909 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 12 章 · 441,258 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e4c2c14f7342/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（441,258 字）。 |
-| 分章依据 | 按「题」标记切分为 44 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,028 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-caps-sections），拼接正文 10,157 行。 |
+| 篇幅分布 | 平均每章 36,771 字；最长 KAHDEKSAS LUKU.（1）（55,583 字），最短 YHDEKSÄSKOLMATTA LUKU.（4,457 字）。 |
 | 原文溯源 | `cache/epub/20905/pg20905.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Tapio Riikonen
-2. HEIKKI HELMIKANGAS
-3. Eero Sissala
-4. SISÄLLYS:
-5. LUKIJALLE.
-6. ENSIMMÄINEN LUKU.
-7. TOINEN LUKU.
-8. KOLMAS LUKU.
-9. NELJÄS LUKU.
-10. VIIDES LUKU.
+1. ENSIMMÄINEN LUKU.
+2. NELJÄS LUKU.（1）
+3. NELJÄS LUKU.（2）
+4. KAHDEKSAS LUKU.（1）
+5. KAHDEKSAS LUKU.（2）
+6. KAHDEKSAS LUKU.（3）
+7. KAHDEKSAS LUKU.（4）
+8. KAHDEKSAS LUKU.（5）
+9. KAHDESKOLMATTA LUKU.
+10. KAHDEKSASKOLMATTA LUKU.
 
-> 共 44 题，[完整目录与正文 →](https://www.bqgmz.top/b/e4c2c14f7342/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/e4c2c14f7342/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

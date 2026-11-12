@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（353,411 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 19,633 字；最长 CHAPTER II. ENTER GINGER（37,097 字），最短 CHAPTER VII. SOME MEDITATIONS ON SUCCESS（4,226 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 10,028 行。 |
+| 篇幅分布 | 平均每章 19,630 字；最长 CHAPTER II. ENTER GINGER（37,097 字），最短 CHAPTER VII. SOME MEDITATIONS ON SUCCESS（4,226 字）。 |
 | 起止 | 始于「CHAPTER I. SALLY GIVES A PARTY」，止于「CHAPTER XVIII. JOURNEY'S END」。 |
 | 原文溯源 | `cache/epub/7464/pg7464.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/d64fd0835503/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

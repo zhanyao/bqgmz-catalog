@@ -1,7 +1,7 @@
 # The battle of Harlem Heights
 
-**作者** Emmet, Thomas Addis, 1828-1919 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 11 题 · 28,787 字 ｜ **来源** Project Gutenberg
+**作者** Emmet, Thomas Addis, 1828-1919 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 28,787 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d1d5034fc2a7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（28,787 字）。 |
-| 分章依据 | 按「题」标记切分为 11 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,617 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 623 行。 |
+| 篇幅分布 | 平均每篇 28,787 字。 |
 | 原文溯源 | `cache/epub/78798/pg78798.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 1 篇）
 
-1. THE BATTLE OF HARLEM HEIGHTS
-2. DR. EMMET’S REPLY.
-3. THOS. ADDIS EMMET, M. D.
-4. NEW YORK CITY.
-5. POSTSCRIPT, 4
-6. T. A. E.
-7. DR. EMMET’S REJOINDER.
-8. REPRINTED FROM THE MAGAZINE OF HISTORY, JANUARY, 1907.
-9. From Lamb’s History of the City of New York, Vol. II, p. 129.]
-10. THOS. ADDIS EMMET, M. D.
+1. The battle of Harlem Heights
 
-> 共 11 题，[完整目录与正文 →](https://www.bqgmz.top/b/d1d5034fc2a7/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d1d5034fc2a7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

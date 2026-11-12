@@ -1,7 +1,7 @@
 # Drei Abhandlungen zur Sexualtheorie
 
-**作者** Freud, Sigmund, 1856-1939 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 13 题 · 209,317 字 ｜ **来源** Project Gutenberg
+**作者** Freud, Sigmund, 1856-1939 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 5 部分 · 209,317 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d75bd75e9849/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（209,317 字）。 |
-| 分章依据 | 按「题」标记切分为 13 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 16,101 字。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 4,454 行。 |
+| 篇幅分布 | 平均每部分 41,863 字；最长 第 2 部分（43,177 字），最短 第 5 部分（37,229 字）。 |
 | 原文溯源 | `cache/epub/39938/pg39938.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 部分）
 
-1. FÜNFTE, UNVERÄNDERTE AUFLAGE.
-2. Verlags-Nr. 2724
-3. Seite
-4. I. Die sexuellen Abirrungen 1
-5. II. Die infantile Sexualität 38
-6. III. Die Umgestaltungen der Pubertät 71
-7. I.
-8. 1. Abweichungen in Bezug auf das Sexualobjekt.
-9. 2. Abweichungen in bezug auf das Sexualziel.
-10. 3. Allgemeines über alle Perversionen.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 13 题，[完整目录与正文 →](https://www.bqgmz.top/b/d75bd75e9849/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/d75bd75e9849/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

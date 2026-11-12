@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（787,039 字）。 |
-| 分章依据 | 按「章」标记切分为 66 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,924 字；最长 CHAPTER LII.--WHAT SHALL WE BELIEVE AND DO TO BE SAVED?（48,561 字），最短 CHAPTER XI.--THE JEWISH BIBLE.（1,023 字）。 |
+| 分章依据 | 按「章」标记切分为 66 章（auto-chapter），拼接正文 16,308 行。 |
+| 篇幅分布 | 平均每章 11,802 字；最长 CHAPTER LII.--WHAT SHALL WE BELIEVE AND DO TO BE SAVED?（48,561 字），最短 CHAPTER XI.--THE JEWISH BIBLE.（1,023 字）。 |
 | 起止 | 始于「CHAPTER I.--THE SIGNS OF THE TIMES.」，止于「CHAPTER LXVI.--RELIGIOUS RECONSTRUCTION; OR, THE MORAL NECESSITY FOR A」。 |
 | 原文溯源 | `cache/epub/43550/pg43550.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 66 章，[完整目录与正文 →](https://www.bqgmz.top/b/e4460ebd6b24/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

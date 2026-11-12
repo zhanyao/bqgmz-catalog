@@ -1,7 +1,7 @@
 # Les Mémoires d'un âne.
 
-**作者** Ségur, Sophie, comtesse de, 1799-1874 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 56 题 · 251,757 字 ｜ **来源** Project Gutenberg
+**作者** Ségur, Sophie, comtesse de, 1799-1874 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 26 章 · 251,757 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d89dddfb77cd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（251,757 字）。 |
-| 分章依据 | 按「题」标记切分为 56 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,495 字。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-roman-bare），拼接正文 6,945 行。 |
+| 篇幅分布 | 平均每章 9,647 字；最长 XXIII（21,342 字），最短 II（3,057 字）。 |
 | 原文溯源 | `cache/epub/12783/pg12783.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. La Comtesse de Ségur
-2. LES MÉMOIRES D'UN ÂNE
-3. À MON PETIT MAITRE
-4. M. HENRI DE SÉGUR
-5. CADICHON, Âne savant._
-6. LE MARCHE
-7. II
-8. LA POURSUITE
-9. III
-10. LES NOUVEAUX MAITRES
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 56 题，[完整目录与正文 →](https://www.bqgmz.top/b/d89dddfb77cd/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/d89dddfb77cd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

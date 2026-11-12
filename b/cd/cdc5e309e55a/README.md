@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（299,554 字）。 |
-| 分章依据 | 按「章」标记切分为 44 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,808 字；最长 CHAPTER XLIV--CLUB SNOBS（14,659 字），最短 CHAPTER XLI--CLUB SNOBS（3,925 字）。 |
+| 分章依据 | 按「章」标记切分为 44 章（auto-chapter），拼接正文 6,411 行。 |
+| 篇幅分布 | 平均每章 6,676 字；最长 CHAPTER XLIV--CLUB SNOBS（14,659 字），最短 CHAPTER XLI--CLUB SNOBS（3,925 字）。 |
 | 起止 | 始于「CHAPTER I--THE SNOB PLAYFULLY DEALT WITH」，止于「CHAPTER XLIV--CLUB SNOBS」。 |
 | 原文溯源 | `cache/epub/2686/pg2686.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 44 章，[完整目录与正文 →](https://www.bqgmz.top/b/cdc5e309e55a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

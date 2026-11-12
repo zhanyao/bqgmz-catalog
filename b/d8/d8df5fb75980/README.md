@@ -1,7 +1,7 @@
 # The Otterbein Hymnal For Use in Public and Social Worship
 
-**作者** Lorenz, Edmund S. (Edmund Simon), 1854-1942 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 636 题 · 325,620 字 ｜ **来源** Project Gutenberg
+**作者** Lorenz, Edmund S. (Edmund Simon), 1854-1942 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 9 部分 · 325,620 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d8df5fb75980/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（325,620 字）。 |
-| 分章依据 | 按「题」标记切分为 636 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 511 字。 |
+| 分章依据 | 按「部分」标记切分为 9 部分（fallback-chunk），拼接正文 17,417 行。 |
+| 篇幅分布 | 平均每部分 36,180 字；最长 第 3 部分（40,440 字），最短 第 9 部分（7,605 字）。 |
 | 原文溯源 | `cache/epub/16455/pg16455.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 部分）
 
-1. THE
-2. OTTERBEIN HYMNAL
-3. FOR USE IN
-4. PREPARED BY
-5. EDMUND S. LORENZ.
-6. DAYTON, OHIO:
-7. UNITED BRETHREN PUBLISHING HOUSE,
-8. MUSICAL.
-9. LITERARY.
-10. PROF. J.P. LANDIS, D.D., PH.D.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
 
-> 共 636 题，[完整目录与正文 →](https://www.bqgmz.top/b/d8df5fb75980/)
+> 共 9 部分，[完整目录与正文 →](https://www.bqgmz.top/b/d8df5fb75980/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

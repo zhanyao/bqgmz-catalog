@@ -1,7 +1,7 @@
 # Tulisieluja
 
-**作者** Francé, Annie, 1886-1971 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 18 题 · 290,587 字 ｜ **来源** Project Gutenberg
+**作者** Francé, Annie, 1886-1971 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 11 章 · 290,587 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d8e8d41a3a86/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（290,587 字）。 |
-| 分章依据 | 按「题」标记切分为 18 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 16,143 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-roman-title），拼接正文 8,013 行。 |
+| 篇幅分布 | 平均每章 26,395 字；最长 III. LUONTO.（36,527 字），最短 XI. ELÄMÄ.（6,971 字）。 |
+| 起止 | 始于「I. SIVISTYS.」，止于「XI. ELÄMÄ.」。 |
 | 原文溯源 | `cache/epub/75109/pg75109.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. TULISIELUJA
-2. Tulevaisuudenromaani
-3. ANNIE HARRAR
-4. Suomennos saksasta
-5. SISÄLLYS
-6. I. SIVISTYS.
-7. II. MENNEISYYS.
-8. Mutta Lilith voivotti: "Hän ei ole lainkaan miellyttävä."
-9. III. LUONTO.
-10. IV. VAROITUS.
+1. I. SIVISTYS.
+2. II. MENNEISYYS.
+3. III. LUONTO.
+4. IV. VAROITUS.
+5. V. YLPEYS.
+6. VI. HÄTÄ.
+7. VII. TOIVO.
+8. VIII. ILMESTYSKIRJA.
+9. IX. PAKOKAUHU.
+10. X. PAKO.
 
-> 共 18 题，[完整目录与正文 →](https://www.bqgmz.top/b/d8e8d41a3a86/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/d8e8d41a3a86/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

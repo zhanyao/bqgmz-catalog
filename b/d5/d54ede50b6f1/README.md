@@ -1,7 +1,7 @@
 # Lo catalanisme
 
-**作者** Almirall, Valentí, 1841-1904 ｜ **国家/地区** 加泰罗尼亚 ｜ **体例** 段  
-**规模** 23 段 · 478,708 字 ｜ **来源** Project Gutenberg
+**作者** Almirall, Valentí, 1841-1904 ｜ **国家/地区** 加泰罗尼亚 ｜ **体例** 篇  
+**规模** 15 篇 · 478,708 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d54ede50b6f1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（478,708 字）。 |
-| 分章依据 | 按「段」标记切分为 23 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,813 字；最长 Suposem que hi ha un extranger ilustrat y esparvillat, pero （39,905 字），最短 Las grans regions, donchs, deurian ser las pedras angulars d（18,436 字）。 |
+| 分章依据 | 按「篇」标记切分为 15 篇（通用标记切分），拼接正文 9,403 行。 |
+| 篇幅分布 | 平均每篇 31,894 字；最长 ## Dimensions del estat（1）（55,415 字），最短 ## Ventatjas positivas del estat compost（3）（12,526 字）。 |
 | 原文溯源 | `cache/epub/73278/pg73278.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Suposem que hi ha un extranger ilustrat y esparvillat, pero
-2. Veritat es que tan brillants fets s'entelan moltas vegadas a
-3. Precisament lo sentiment catalanista s'apoya y llegitima en
-4. Y es tant mes digna d'atenció aqueixa sobrietat severa, en q
-5. La pintura que acabem de fer de la nostra situació, motiva y
-6. Tal constancia en la restauració y propagació de la llengua
-7. No hem passat encara del comensament de las justas queixas,
-8. Per sa elasticitat, lo sistema particularista es lo que més
-9. La observació constant dels fets nos diu que en lo terreno p
-10. Lo positivisme més científich y filosófich, donchs, es aquel
+1. ## Estat actual de la nació espanyola
+2. ## Lo carácter castellá
+3. ## Lo carácter catalá
+4. ## Lo Renaixement
+5. ## Agravis y reclamacions（1）
+6. ## Agravis y reclamacions（2）
+7. ## La llibertat
+8. ## La igualtat
+9. ## Dimensions del estat（1）
+10. ## Dimensions del estat（2）
 
-> 共 23 段，[完整目录与正文 →](https://www.bqgmz.top/b/d54ede50b6f1/)
+> 共 15 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d54ede50b6f1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

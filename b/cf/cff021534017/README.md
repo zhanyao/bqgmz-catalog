@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（357,253 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,694 字；最长 CHAPTER VIII.（74,937 字），最短 CHAPTER VII.（26,055 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 8,832 行。 |
+| 篇幅分布 | 平均每章 36,680 字；最长 appendix containing Addison's Critique upon the Paradise Lost, and Dr.（88,290 字），最短 CHAPTER VII.（26,055 字）。 |
 | 原文溯源 | `cache/epub/16757/pg16757.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
@@ -25,9 +25,9 @@
 6. CHAPTER VI.
 7. CHAPTER VII.
 8. CHAPTER VIII.
-9. ---- Another edition. According to the a
+9. appendix containing Addison's Critique upon the Paradise Lost, and Dr.
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/cff021534017/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

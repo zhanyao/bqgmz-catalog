@@ -1,7 +1,7 @@
 # Michelangelo（#69303）
 
-**作者** Strutt, Edward C. ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 88,159 字 ｜ **来源** Project Gutenberg
+**作者** Strutt, Edward C. ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 9 篇 · 88,159 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/dba64eef25cc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（88,159 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,039 字。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（通用标记切分），拼接正文 2,088 行。 |
+| 篇幅分布 | 平均每篇 9,588 字；最长 THE ART OF MICHELANGELO（30,027 字），最短 FAMA . OMNIBUS . NOTISSIMO（688 字）。 |
 | 原文溯源 | `cache/epub/69303/pg69303.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 9 篇）
 
-1. Michelangelo was greatly disappointed in his hopes of obtain
-2. He had evidently warmed to his work, and it is melancholy to
-3. We have said that Michelangelo stands alone. Of other artis
-4. The _tondo_ representing _The Holy Family_, now in the Tribu
+1. THE LIFE OF MICHELANGELO
+2. FIRST FLORENTINE PERIOD
+3. THE TRAGEDY OF THE TOMB
+4. THE SISTINE CHAPEL
+5. SECOND FLORENTINE PERIOD
+6. THE LAST JUDGMENT
+7. ST. PETER'S
+8. FAMA . OMNIBUS . NOTISSIMO
+9. THE ART OF MICHELANGELO
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/dba64eef25cc/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/dba64eef25cc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

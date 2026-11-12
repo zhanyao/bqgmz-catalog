@@ -1,7 +1,7 @@
 # Kaksi kansanrunokokoelmaa viime vuosisadalta ynnä "Suru-Runot Suomalaiset"
 
-**作者** Niemi, Aukusti Robert, 1869-1931 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 94 题 · 121,438 字 ｜ **来源** Project Gutenberg
+**作者** Niemi, Aukusti Robert, 1869-1931 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 3 章 · 121,438 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/daaaf84ff16c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（121,438 字）。 |
-| 分章依据 | 按「题」标记切分为 94 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,291 字。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-roman-bare），拼接正文 5,414 行。 |
+| 篇幅分布 | 平均每章 40,429 字。 |
+| 起止 | 始于「I.」，止于「III.」。 |
 | 原文溯源 | `cache/epub/52474/pg52474.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 章）
 
-1. KAKSI KANSANRUNOKOKOELMAA VIIME VUOSISADALTA
-2. YNNÄ
-3. Julkaissut
-4. A. R. Niemi
-5. I.
-6. XXXIII. Anopin wastaus.
-7. XXXIV. _Historiolae_.
-8. XXXVII. _Prooemium_.
-9. 1. Raudan Synnystä.
-10. 2. Kärmehen Synnystä.
+1. I.
+2. II.
+3. III.
 
-> 共 94 题，[完整目录与正文 →](https://www.bqgmz.top/b/daaaf84ff16c/)
+> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/daaaf84ff16c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

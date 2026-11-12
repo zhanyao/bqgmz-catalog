@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（196,721 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,590 字；最长 CHAPTER I. AT GILLRAY’s GRAVE.（69,574 字），最短 CHAPTER VIII. THE END.（987 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 4,130 行。 |
+| 篇幅分布 | 平均每章 17,354 字；最长 CHAPTER IV. THE TRIUMPH OF BACCHUS.（30,789 字），最短 CHAPTER VIII. THE END.（987 字）。 |
 | 起止 | 始于「CHAPTER I. AT GILLRAY’s GRAVE.」，止于「CHAPTER VIII. THE END.」。 |
 | 原文溯源 | `cache/epub/44742/pg44742.txt`（Project Gutenberg） |
 
@@ -30,4 +30,4 @@
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/e07e60d397e5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

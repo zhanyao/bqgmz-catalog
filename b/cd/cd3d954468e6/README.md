@@ -1,7 +1,7 @@
 # The Life and Labors of Elias Hicks
 
 **作者** Wilbur, Henry Watson, 1851-1914; Bond, Elizabeth Powell, 1841-1926 [Contributor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 25 章 · 362,907 字 ｜ **来源** Project Gutenberg
+**规模** 26 章 · 362,907 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cd3d954468e6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（362,907 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,516 字；最长 CHAPTER XXV.（46,748 字），最短 CHAPTER III.（5,662 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXV.」。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 8,727 行。 |
+| 篇幅分布 | 平均每章 13,468 字；最长 CHAPTER XXV.（32,871 字），最短 CHAPTER III.（5,662 字）。 |
 | 原文溯源 | `cache/epub/50374/pg50374.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/cd3d954468e6/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/cd3d954468e6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # A Book of Scoundrels
 
-**作者** Whibley, Charles, 1859-1930 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 41 题 · 264,013 字 ｜ **来源** Project Gutenberg
+**作者** Whibley, Charles, 1859-1930 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 264,013 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e3264054d738/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（264,013 字）。 |
-| 分章依据 | 按「题」标记切分为 41 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,439 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-caps-sections），拼接正文 5,271 行。 |
+| 篇幅分布 | 平均每章 17,600 字；最长 INTRODUCTION（1）（55,099 字），最短 THE MAN IN THE GREY SUIT（734 字）。 |
 | 原文溯源 | `cache/epub/1632/pg1632.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by An Anonymous Volunteer and David Widger
-2. A BOOK OF SCOUNDRELS
-3. By Charles Whibley
-4. To the Greeks FOOLISHNESS
-5. CONTENTS
-6. INTRODUCTION
-7. CAPTAIN HIND
-8. RALPH BRISCOE
+1. THE MAN IN THE GREY SUIT
+2. INTRODUCTION（1）
+3. INTRODUCTION（2）
+4. II--JONATHAN WILD
+5. (MOLL CUTPURSE AND JONATHAN WILD)
+6. RALPH BRISCOE
+7. II--SIXTEEN-STRING JACK
+8. (GILDEROY AND SIXTEEN-STRING JACK)
 9. THOMAS PURENEY
-10. VAUX
+10. I--JACK SHEPPARD
 
-> 共 41 题，[完整目录与正文 →](https://www.bqgmz.top/b/e3264054d738/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/e3264054d738/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

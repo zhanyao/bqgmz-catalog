@@ -1,7 +1,7 @@
 # Last and first men
 
-**作者** Stapledon, Olaf, 1886-1950 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 79 题 · 583,742 字 ｜ **来源** Project Gutenberg
+**作者** Stapledon, Olaf, 1886-1950 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 74 章 · 583,742 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e50a1bf7ba5c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（583,742 字）。 |
-| 分章依据 | 按「题」标记切分为 79 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,389 字。 |
+| 分章依据 | 按「章」标记切分为 74 章（auto-toc-title-list），拼接正文 11,480 行。 |
+| 篇幅分布 | 平均每章 7,861 字。 |
 | 原文溯源 | `cache/epub/79003/pg79003.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. First published 1930
-2. P R E F A C E 11
-3. I N T R O D U C T I O N, by One of the Last Men 15
-4. O. S.
-5. By One of the Last Men
-6. T H E C H R O N I C L E
-7. I _Balkan Europe_
-8. 1. THE EUROPEAN WAR AND AFTER
-9. 2. THE ANGLO-FRENCH WAR
-10. 3. EUROPE AFTER THE ANGLO-FRENCH WAR
+1. P R E F A C E
+2. I N T R O D U C T I O N, by One of the Last Men
+3. I B A L K A N E U R O P E
+4. 1 The European War and After
+5. 2 The Anglo-French War
+6. 3 Europe after the Anglo-French War
+7. 4 The Russo-German War
+8. II E U R O P E ’ S D O W N F A L L
+9. 1 Europe and America
+10. 2 The Origins of a Mystery
 
-> 共 79 题，[完整目录与正文 →](https://www.bqgmz.top/b/e50a1bf7ba5c/)
+> 共 74 章，[完整目录与正文 →](https://www.bqgmz.top/b/e50a1bf7ba5c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

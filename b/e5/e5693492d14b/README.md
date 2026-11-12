@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（300,191 字）。 |
-| 分章依据 | 按「章」标记切分为 34 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,829 字；最长 CHAPTER II. THE SIXTH SENSE（16,013 字），最短 CHAPTER XVIII. WHAT HAPPENED TO HARLEY--CONTINUED（4,425 字）。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-chapter），拼接正文 8,209 行。 |
+| 篇幅分布 | 平均每章 8,805 字；最长 CHAPTER II. THE SIXTH SENSE（16,013 字），最短 CHAPTER XVIII. WHAT HAPPENED TO HARLEY--CONTINUED（4,425 字）。 |
 | 起止 | 始于「CHAPTER I. A CLIENT FOR PAUL HARLEY」，止于「CHAPTER XXXIV. NICOL BRINN’S STORY (CONCLUDED)」。 |
 | 原文溯源 | `cache/epub/1159/pg1159.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/e5693492d14b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

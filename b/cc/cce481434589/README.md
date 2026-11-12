@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,578,192 字）。 |
-| 分章依据 | 按「章」标记切分为 64 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,659 字；最长 CHAPTER LII.（43,169 字），最短 CHAPTER LIII.（8,111 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER LXIV.」。 |
+| 分章依据 | 按「章」标记切分为 64 章（auto-chapter），拼接正文 39,147 行。 |
+| 篇幅分布 | 平均每章 24,581 字；最长 CHAPTER LII.（43,169 字），最短 CHAPTER LXIV.（7,101 字）。 |
+| 起止 | 始于「CHAPTER I. I AM BORN 1」，止于「CHAPTER LXIV.」。 |
 | 原文溯源 | `cache/epub/43111/pg43111.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
+1. CHAPTER I. I AM BORN 1
 2. CHAPTER II.
 3. CHAPTER III.
 4. CHAPTER IV.
@@ -32,4 +32,4 @@
 > 共 64 章，[完整目录与正文 →](https://www.bqgmz.top/b/cce481434589/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

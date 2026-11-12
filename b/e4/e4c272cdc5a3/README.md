@@ -1,7 +1,7 @@
 # Carriages & Coaches: Their History & Their Evolution
 
-**作者** Straus, Ralph, 1882-1950 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 20 段 · 405,719 字 ｜ **来源** Project Gutenberg
+**作者** Straus, Ralph, 1882-1950 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 405,719 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e4c272cdc5a3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（405,719 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,285 字；最长 Coming to the Romans, we find a far greater variety of vehic（39,770 字），最短 Westminster, 43, 55 n., 90;（5,136 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-caps-sections），拼接正文 10,806 行。 |
+| 篇幅分布 | 平均每章 36,883 字。 |
 | 原文溯源 | `cache/epub/46216/pg46216.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Coming to the Romans, we find a far greater variety of vehic
-2. While, however, the wretched state into which the roads were
-3. “For whereas,” he says, “within our memories, our Nobility a
-4. In the print just mentioned there is shown a second coach, w
-5. The drivers of these first hackneys wore large coats with se
-6. “The valetudinarian,” he writes, “is carried in a chair,
-7. “In the Imperial mews at Vienna,” says Thrupp, “are four
-8. A few days later he gave orders for some “new sort of varnis
-9. These coaches were of two distinct patterns. There were the
-10. “When our _Stratford_ Tub,” writes Ned Ward, “by the
+1. MODERN AMERICAN STATION WAGON ” ” 274
+2. MODERN AMERICAN BUGGY ” ” 274（1）
+3. MODERN AMERICAN BUGGY ” ” 274（2）
+4. MODERN AMERICAN BUGGY ” ” 274（3）
+5. MODERN AMERICAN BUGGY ” ” 274（4）
+6. MODERN AMERICAN BUGGY ” ” 274（5）
+7. “WILLIAM X FORD（1）
+8. “WILLIAM X FORD（2）
+9. “WILLIAM X FORD（3）
+10. FOOTNOTES
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/e4c272cdc5a3/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/e4c272cdc5a3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

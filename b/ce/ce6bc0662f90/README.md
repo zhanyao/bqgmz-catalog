@@ -1,7 +1,7 @@
 # Through Timbuctu and across the great Sahara
 
 **作者** Haywood, A. H. W. (Austin Hubert Wightwick), 1879?-1965 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 25 章 · 519,919 字 ｜ **来源** Project Gutenberg
+**规模** 26 章 · 519,919 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ce6bc0662f90/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（519,919 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,796 字；最长 CHAPTER VIII（26,733 字），最短 CHAPTER III（12,076 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXV」。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 11,560 行。 |
+| 篇幅分布 | 平均每章 19,709 字；最长 CHAPTER VIII（26,733 字），最短 CHAPTER XXV（4,223 字）。 |
 | 原文溯源 | `cache/epub/70221/pg70221.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/ce6bc0662f90/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/ce6bc0662f90/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

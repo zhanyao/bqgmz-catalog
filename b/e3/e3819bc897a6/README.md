@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（280,457 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,697 字；最长 CHAPTER XV—AHOY! FOR THE STARS AND STRIPES AGAIN（39,833 字），最短 CHAPTER XIV—A HIGHWAYMAN IN DISGUISE（10,757 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 7,618 行。 |
+| 篇幅分布 | 平均每章 18,636 字；最长 CHAPTER XV—AHOY! FOR THE STARS AND STRIPES AGAIN（39,833 字），最短 CHAPTER XIV—A HIGHWAYMAN IN DISGUISE（10,757 字）。 |
 | 起止 | 始于「CHAPTER I—THE ALEXANDERS」，止于「CHAPTER XV—AHOY! FOR THE STARS AND STRIPES AGAIN」。 |
 | 原文溯源 | `cache/epub/37429/pg37429.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/e3819bc897a6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

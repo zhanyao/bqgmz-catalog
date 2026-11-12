@@ -1,7 +1,7 @@
 # All about the Klondyke gold mines
 
-**作者** Knox, J. Armoy (John Armoy), 1851-1906; Pratt, J. G. ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 102,239 字 ｜ **来源** Project Gutenberg
+**作者** Knox, J. Armoy (John Armoy), 1851-1906; Pratt, J. G. ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 102,239 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d25291e5e32c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（102,239 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,447 字；最长 Orr sold out his claim for $20,000, and the men who bought i（39,851 字），最短 The standing and character of all companies and syndicates s（2,245 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-caps-sections），拼接正文 2,666 行。 |
+| 篇幅分布 | 平均每章 4,647 字；最长 THE SEARCH FOR IT PAST AND PRESENT.（11,031 字），最短 "CASEY."（592 字）。 |
 | 原文溯源 | `cache/epub/35824/pg35824.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. Orr sold out his claim for $20,000, and the men who bought i
-2. "The yellow metal is not found in paying quantity in the mai
-3. "The trip was an interesting one, but very dangerous. Many m
-4. The New York Herald is authority for the statement that few
-5. The standing and character of all companies and syndicates s
+1. THE KLONDYKE.
+2. THE SEARCH FOR IT PAST AND PRESENT.
+3. THE STORIES OF SOME MINERS.
+4. POOR YESTERDAY--ROLLING IN WEALTH TO-DAY.
+5. ARRIVAL OF THE SECOND TREASURE SHIP FROM THE FROZEN KLONDYKE.
+6. RICHER THAN SINBAD'S VALLEY OF DIAMONDS.
+7. THOUSANDS JOIN THE EXODUS.
+8. THERE ARE MORE WHERE THEY CAME FROM.
+9. CHOICE OF TWO ROUTES.
+10. ENCOUNTERS WITH THE ICE AND SNOW IN THE PASSES TO THE UPPER YUKON.
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/d25291e5e32c/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/d25291e5e32c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

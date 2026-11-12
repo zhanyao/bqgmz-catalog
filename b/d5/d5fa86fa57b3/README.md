@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（546,923 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 34,182 字；最长 CHAPTER X.  THE DRAMA OF THE GOSPELS（62,445 字），最短 CHAPTER XII.  JESUS AND OTHER CHRISTS（22,371 字）。 |
-| 起止 | 始于「CHAPTER I. THE WHOLE TRUTH」，止于「CHAPTER XVI.  THINGS THAT REMAIN」。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 11,244 行。 |
+| 篇幅分布 | 平均每章 33,113 字；最长 CHAPTER X. THE DRAMA OF THE GOSPELS（62,445 字），最短 CHAPTER I. THE WHOLE TRUTH（21,046 字）。 |
+| 起止 | 始于「CHAPTER I. THE WHOLE TRUTH」，止于「CHAPTER XVI. THINGS THAT REMAIN」。 |
 | 原文溯源 | `cache/epub/39268/pg39268.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -32,4 +32,4 @@
 > 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/d5fa86fa57b3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

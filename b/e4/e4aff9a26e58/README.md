@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（211,984 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,635 字；最长 CHAPTER XIX. A CLOSE CALL（17,659 字），最短 CHAPTER VIII. ON COMPANY DRILL（4,132 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 5,529 行。 |
+| 篇幅分布 | 平均每章 9,503 字；最长 CHAPTER XIX. A CLOSE CALL（17,659 字），最短 CHAPTER VIII. ON COMPANY DRILL（4,132 字）。 |
 | 起止 | 始于「CHAPTER I. GOING TO WAR--SI KLEGG'S COMPLETE EQUIPMENT」，止于「CHAPTER XXII. A NIGHT OF SONG」。 |
 | 原文溯源 | `cache/epub/31771/pg31771.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/e4aff9a26e58/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

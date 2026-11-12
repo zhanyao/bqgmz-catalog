@@ -1,7 +1,7 @@
 # The Crown Jewels of England
 
 **作者** Younghusband, G. J. (George John), 1859-1944; Davenport, Cyril, 1848-1941 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 175,369 字 ｜ **来源** Project Gutenberg
+**规模** 11 章 · 175,369 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d78ffe2c4419/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（175,369 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,536 字；最长 CHAPTER X（33,363 字），最短 CHAPTER V（5,488 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER X」。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 4,855 行。 |
+| 篇幅分布 | 平均每章 15,478 字；最长 CHAPTER III（29,699 字），最短 CHAPTER V（5,488 字）。 |
 | 原文溯源 | `cache/epub/78796/pg78796.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/d78ffe2c4419/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/d78ffe2c4419/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（227,553 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,222 字；最长 CHAPTER IX--THE ATTACK ON CIUDAD BOLIVAR（20,425 字），最短 CHAPTER IV--SIMPLE SUBTRACTION（7,774 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 5,666 行。 |
+| 篇幅分布 | 平均每章 14,013 字；最长 CHAPTER IX--THE ATTACK ON CIUDAD BOLIVAR（20,425 字），最短 CHAPTER I--JAGUAR AND HYDROPLANE（7,053 字）。 |
 | 起止 | 始于「CHAPTER I--JAGUAR AND HYDROPLANE」，止于「CHAPTER XVI--THE END OF A REVOLUTION」。 |
 | 原文溯源 | `cache/epub/39151/pg39151.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/d655937e8d65/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

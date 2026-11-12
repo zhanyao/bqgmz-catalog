@@ -1,7 +1,7 @@
 # Wild Flowers Worth Knowing
 
-**作者** Blanchan, Neltje, 1865-1918; Dickinson, Asa Don, 1876-1960 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 214 题 · 351,102 字 ｜ **来源** Project Gutenberg
+**作者** Blanchan, Neltje, 1865-1918; Dickinson, Asa Don, 1876-1960 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 128 章 · 351,102 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d75b360c521b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（351,102 字）。 |
-| 分章依据 | 按「题」标记切分为 214 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,640 字。 |
+| 分章依据 | 按「章」标记切分为 128 章（auto-toc-title-list），拼接正文 9,689 行。 |
+| 篇幅分布 | 平均每章 2,679 字。 |
 | 原文溯源 | `cache/epub/8866/pg8866.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BY NELTJE BLANCHAN
-2. PREFACE
-3. CONTENTS
-4. Preface, and Editor’s Note
-5. COLOR KEY
-6. GENERAL INDEX OF NAMES
-7. WILD FLOWERS
-8. WATER-PLANTAIN FAMILY _(Alismaceae)_
-9. Broad-leaved Arrow-head
-10. ARUM FAMILY _(Araceae)_
+1. WATER-PLANTAIN FAMILY _(Alismaceae)
+2. Broad-leaved Arrow-head
+3. ARUM FAMILY _(Araceae)
+4. Jack-in-the-Pulpit;
+5. Skunk Cabbage
+6. SPIDERWORT FAMILY _(Commelinaceae)
+7. Virginia or Common Day-flower
+8. PICKEREL-WEED FAMILY _(Pontederiaceae)
+9. Pickerel Weed
+10. LILY FAMILY _(Liliaceae)
 
-> 共 214 题，[完整目录与正文 →](https://www.bqgmz.top/b/d75b360c521b/)
+> 共 128 章，[完整目录与正文 →](https://www.bqgmz.top/b/d75b360c521b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

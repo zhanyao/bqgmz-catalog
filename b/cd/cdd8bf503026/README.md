@@ -1,7 +1,7 @@
 # Cuchulain, the Hound of Ulster
 
 **作者** Hull, Eleanor, 1860-1935; Reid, Stephen, 1873-1948 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 30 章 · 344,580 字 ｜ **来源** Project Gutenberg
+**规模** 31 章 · 344,580 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cdd8bf503026/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（344,580 字）。 |
-| 分章依据 | 按「章」标记切分为 30 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,486 字；最长 CHAPTER XXVI（22,263 字），最短 CHAPTER XIX（5,001 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXX」。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-chapter），拼接正文 8,034 行。 |
+| 篇幅分布 | 平均每章 10,808 字；最长 CHAPTER XXVI（22,263 字），最短 CHAPTER I（2,606 字）。 |
 | 原文溯源 | `cache/epub/52963/pg52963.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/cdd8bf503026/)
+> 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/cdd8bf503026/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

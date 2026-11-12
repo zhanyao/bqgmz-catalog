@@ -1,7 +1,7 @@
 # The women of the Mayflower and women of Plymouth colony
 
-**作者** Noyes, Ethel J. R. C. (Ethel Jane Russell Chesebrough); Minor, Anne Rogers [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 10 段 · 206,747 字 ｜ **来源** Project Gutenberg
+**作者** Noyes, Ethel J. R. C. (Ethel Jane Russell Chesebrough); Minor, Anne Rogers [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 16 篇 · 206,747 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d8b840ce894f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（206,747 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,674 字；最长 With their former experience in mind, they anticipated a lon（39,583 字），最短 From Mary (Allerton) and Thomas Cushman came America’s famou（6,479 字）。 |
+| 分章依据 | 按「篇」标记切分为 16 篇（auto-magazine），拼接正文 4,355 行。 |
+| 篇幅分布 | 平均每篇 12,897 字。 |
 | 原文溯源 | `cache/epub/70031/pg70031.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. With their former experience in mind, they anticipated a lon
-2. While the history of these Pilgrims may be told, and has bee
-3. At Southampton the companies of each ship mingled on shore a
-4. But first must be built the store-house to hold all their be
-5. The summer thus ushered in, brought its herbs for salad and
-6. Ships and more letters, one bringing truly joyful news that,
-7. In addition to the many personal interests connected with Ed
-8. Across the street, in the governor’s house, Alice Bradford h
-9. The coldest winter Plymouth has ever known has frozen the ha
-10. From Mary (Allerton) and Thomas Cushman came America’s famou
+1. FOREWORD
+2. THE GREAT NORTH ROAD 11
+3. THE SWORD OF THE SPIRIT 23
+4. UNDER THE LINDENS OF LEYDEN 35
+5. THE FIRE OF FAITH 55
+6. THE FIRST STREET 83
+7. THE BRIDE SHIP 119
+8. BENEATH THE PINES OF PLYMOUTH 131
+9. THE GREAT NORTH ROAD
+10. THE SWORD OF THE SPIRIT
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/d8b840ce894f/)
+> 共 16 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d8b840ce894f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

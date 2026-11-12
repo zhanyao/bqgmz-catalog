@@ -1,7 +1,7 @@
 # Die ungleichen Schalen: Fünf einaktige Dramen
 
-**作者** Wassermann, Jakob, 1873-1934 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 74 题 · 196,124 字 ｜ **来源** Project Gutenberg
+**作者** Wassermann, Jakob, 1873-1934 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 5 章 · 196,124 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/dc20601adbc2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（196,124 字）。 |
-| 分章依据 | 按「题」标记切分为 74 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,650 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-toc-title-list），拼接正文 11,789 行。 |
+| 篇幅分布 | 平均每章 39,132 字；最长 Lord Hamiltons Bekehrung（45,922 字），最短 Gentz und Fanny Elßler（31,723 字）。 |
 | 原文溯源 | `cache/epub/19940/pg19940.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. Die ungleichen Schalen
-2. Fünf einaktige Dramen
-3. Jakob Wassermann
-4. S. Fischer, Verlag, Berlin
-5. Inhalt
-6. Rasumowsky
-7. Sag dem Grafen --
-8. Kerl, die Wichtigkeit --
-9. Hab strengen Befehl von Seiner gräflichen Gnaden --
-10. Schwatz nicht, Alter, tu, was man dir befiehlt. (Rodion ab.)
+1. Rasumowsky
+2. Gentz und Fanny Elßler
+3. Der Turm von Frommetsfelden
+4. Lord Hamiltons Bekehrung
+5. Hockenjos
 
-> 共 74 题，[完整目录与正文 →](https://www.bqgmz.top/b/dc20601adbc2/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/dc20601adbc2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

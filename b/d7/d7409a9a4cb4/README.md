@@ -1,7 +1,7 @@
 # The seals and whales of the British seas
 
-**作者** Southwell, Thomas, 1831-1901 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 168,034 字 ｜ **来源** Project Gutenberg
+**作者** Southwell, Thomas, 1831-1901 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 168,034 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d7409a9a4cb4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（168,034 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,004 字；最长 With this object in view, an Act was passed in 1875, in whic（39,771 字），最短 “Lubbock’s volume, written five-and-thirty years ago, has lo（8,193 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 3,825 行。 |
+| 篇幅分布 | 平均每章 12,484 字；最长 SPERM WHALE, OR CACHELOT.（35,545 字），最短 THE HUMP-BACKED WHALE.（1,615 字）。 |
 | 原文溯源 | `cache/epub/77840/pg77840.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. With this object in view, an Act was passed in 1875, in whic
-2. According to Bell, this species inhabits the “temperate nort
-3. The following table of the British Cetacea will serve to ind
-4. In addition to the British Right-Whales mentioned at the com
-5. In the table on the next page I have endeavoured to give the
-6. Speaking of those specimens which have now and then been cas
-7. The rounded, compact form of this species gives the idea of
-8. “Lubbock’s volume, written five-and-thirty years ago, has lo
+1. PINNIPEDIA.
+2. THE RINGED, OR MARBLED SEAL.
+3. | SUB-ORDER. FAMILY. SUB-FAMILY. GENERA. |
+4. THE ATLANTIC RIGHT-WHALE.
+5. THE HUMP-BACKED WHALE.
+6. THE COMMON RORQUAL.
+7. | | | BALEEN. | |
+8. SPERM WHALE, OR CACHELOT.
+9. THE GRAMPUS, OR KILLER.
+10. RISSO’S GRAMPUS.
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/d7409a9a4cb4/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/d7409a9a4cb4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

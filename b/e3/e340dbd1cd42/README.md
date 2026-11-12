@@ -1,7 +1,7 @@
 # Cluthe's Advice to the Ruptured
 
-**作者** Cluthe Rupture Institute ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 15 题 · 158,301 字 ｜ **来源** Project Gutenberg
+**作者** Cluthe Rupture Institute ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 7 篇 · 158,301 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e340dbd1cd42/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（158,301 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,553 字。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（auto-title-block），拼接正文 5,434 行。 |
+| 篇幅分布 | 平均每篇 18,853 字；最长 His Rupture+（31,679 字），最短 Work or Business（3,304 字）。 |
 | 原文溯源 | `cache/epub/19933/pg19933.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 篇）
 
-1. BY
-2. Chas. Cluthe & Sons
-3. CLUTHE RUPTURE INSTITUTE
-4. TABLE OF CONTENTS
-5. Why So Few People Know of Anything That Will Do Any Good
-6. Rupture has kept lots of business and professional men down--
-7. Day After Day We Have Dealt With Every Form and Condition of Rupture
-8. The Cruel Spring Truss
-9. But if the man went out to a good _physician_--
-10. But if the man with poor eyesight goes to an _oculist_--
+1. Work or Business
+2. [Sidenote: Give Entire Time To Attending Cases By Mail]
+3. [Sidenote: Thousands Have Died Under The Surgeon's Knife]
+4. [Sidenote: Like Buying Shoes]
+5. His Rupture+
+6. +Cured While Doing Heavy Work+
+7. +Couldn't Work Until He Got Cluthe Truss+
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/e340dbd1cd42/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/e340dbd1cd42/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

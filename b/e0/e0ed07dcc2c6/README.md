@@ -1,7 +1,7 @@
 # The Golden Age（#53250）
 
-**作者** Grahame, Kenneth, 1859-1932; Moony, R. J. E. [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 32 题 · 177,952 字 ｜ **来源** Project Gutenberg
+**作者** Grahame, Kenneth, 1859-1932; Moony, R. J. E. [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 177,952 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e0ed07dcc2c6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（177,952 字）。 |
-| 分章依据 | 按「题」标记切分为 32 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,561 字。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-toc-title-list），拼接正文 4,155 行。 |
+| 篇幅分布 | 平均每章 9,730 字；最长 ‘LUSISTI SATIS’（16,220 字），最短 WHAT THEY TALKED ABOUT（5,648 字）。 |
 | 原文溯源 | `cache/epub/53250/pg53250.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE GOLDEN AGE
-2. THE GOLDEN AGE
-3. KENNETH GRAHAME
-4. With Illustrations in Colour by R. J. E. Moony
-5. CONTENTS
-6. ILLUSTRATIONS
-7. FACING PAGE
-8. PROLOGUE: THE OLYMPIANS
-9. A HOLIDAY
-10. A WHITE-WASHED UNCLE
+1. PROLOGUE: THE OLYMPIANS
+2. A HOLIDAY
+3. A WHITE-WASHED UNCLE
+4. ALARUMS AND EXCURSIONS
+5. THE FINDING OF THE PRINCESS
+6. SAWDUST AND SIN
+7. ‘YOUNG ADAM CUPID’
+8. THE BURGLARS
+9. A HARVESTING
+10. SNOWBOUND
 
-> 共 32 题，[完整目录与正文 →](https://www.bqgmz.top/b/e0ed07dcc2c6/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/e0ed07dcc2c6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

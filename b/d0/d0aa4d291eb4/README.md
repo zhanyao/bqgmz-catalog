@@ -1,7 +1,7 @@
 # L'art roman dans le Sud-Manche
 
-**作者** Lebert, Marie ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 10 段 · 212,215 字 ｜ **来源** Project Gutenberg
+**作者** Lebert, Marie ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 45 篇 · 212,215 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d0aa4d291eb4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（212,215 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,221 字；最长 Une porte romane est ouverte dans la base sud de la tour. So（39,956 字），最短 [086] Saint-Léonard-de-Vains. Le prieuré fut vendu en 1793, （12,036 字）。 |
+| 分章依据 | 按「篇」标记切分为 45 篇（auto-title-block），拼接正文 5,470 行。 |
+| 篇幅分布 | 平均每篇 4,693 字。 |
 | 原文溯源 | `cache/epub/27041/pg27041.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Une porte romane est ouverte dans la base sud de la tour. So
-2. [1] Cité par: Renault. Le canton de Bréhal, in: Annuaire du
-3. Pour le portail occidental, une archivolte sculptée de dents
-4. Sur la tour carrée s’élève une flèche octogonale dont les an
-5. Le décor est peint à même l’enduit à la chaux posé au préala
-6. La bourgade connut les invasions normandes au 9e siècle. Apr
-7. L’église, régulièrement orientée (d’ouest en est), est formé
-8. Seul le choeur d’Yquelon est surmonté d’une voûte en croisée
-9. [012] Bréville. La base de la tour (côté sud) et sa porte ro
-10. [086] Saint-Léonard-de-Vains. Le prieuré fut vendu en 1793,
+1. I. VERSION COURTE
+2. 2. SAINT-MARTIN-LE-VIEUX
+3. = Emplacement
+4. = Extérieur
+5. 3. BREVILLE
+6. = Emplacement
+7. = Histoire
+8. 4. YQUELON
+9. 5. SAINT-PAIR-SUR-MER
+10. = Emplacement
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/d0aa4d291eb4/)
+> 共 45 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d0aa4d291eb4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

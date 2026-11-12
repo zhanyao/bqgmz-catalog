@@ -1,7 +1,7 @@
 # L'Illustration, No. 3665, 24 Mai 1913
 
-**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 40 题 · 89,383 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 3 篇 · 89,383 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d387bf65f2db/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（89,383 字）。 |
-| 分章依据 | 按「题」标记切分为 40 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,234 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（auto-title-block），拼接正文 2,015 行。 |
+| 篇幅分布 | 平均每篇 29,604 字。 |
 | 原文溯源 | `cache/epub/38778/pg38778.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 篇）
 
-1. Produced by Jeroen Hellingman et Rénald Lévesque
-2. 2° L'ILLUSTRATION ÉCONOMIQUE ET FINANCIÈRE.
-3. COURRIER DE PARIS
-4. SUR LES REMPARTS.
-5. HENRI LAVEDAN.
-6. M. MARCEL BASCHET A L'INSTITUT
-7. GUSTAVE BABIN.
-8. L'ILE D'ADA-KALEH
-9. LES MANOEUVRES NAVALES
-10. LES HÉROS DU POLE SUD
+1. DE L'EXPÉDITION SCOTT
+2. L'ASCENSION DU PLATEAU POLAIRE
+3. LES ECLAIREURS A L'HOTEL DE VILLE
 
-> 共 40 题，[完整目录与正文 →](https://www.bqgmz.top/b/d387bf65f2db/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d387bf65f2db/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The History of Miss Betsy Thoughtless
 
 **作者** Haywood, Eliza Fowler, 1693?-1756 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 24 章 · 1,034,873 字 ｜ **来源** Project Gutenberg
+**规模** 92 章 · 1,034,873 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d7a4a85b96c9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,034,873 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 43,119 字。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXIV」。 |
+| 分章依据 | 按「章」标记切分为 92 章（auto-chapter），拼接正文 22,727 行。 |
+| 篇幅分布 | 平均每章 11,232 字；最长 CHAPTER XIV（20,282 字），最短 CHAPTER VII（部2）（6,310 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXIV（部4）」。 |
 | 原文溯源 | `cache/epub/46346/pg46346.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/d7a4a85b96c9/)
+> 共 92 章，[完整目录与正文 →](https://www.bqgmz.top/b/d7a4a85b96c9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

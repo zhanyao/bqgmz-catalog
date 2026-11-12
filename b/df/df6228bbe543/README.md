@@ -1,7 +1,7 @@
 # Histoire de la civilisation égyptienne des origines à la conquête d'Alexandre
 
-**作者** Jéquier, Gustave, 1868-1946 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 19 段 · 387,132 字 ｜ **来源** Project Gutenberg
+**作者** Jéquier, Gustave, 1868-1946 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 6 章 · 387,132 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/df6228bbe543/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（387,132 字）。 |
-| 分章依据 | 按「段」标记切分为 19 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,375 字；最长 Pendant ce temps, d'autres savants, comme de Rougé et Chabas（39,966 字），最短 Le «_Sheikh-el-beled_» statue en bois de l'Ancien Empire（9,996 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 10,484 行。 |
+| 篇幅分布 | 平均每章 50,404 字；最长 CHAPITRE VII（75,460 字），最短 CHAPITRE II（22,677 字）。 |
 | 原文溯源 | `cache/epub/43924/pg43924.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 6 章）
 
-1. Pendant ce temps, d'autres savants, comme de Rougé et Chabas
-2. [Illustration: _Fig. 7._ Ptah (d'après BUDGE, _Pap. of Ani_,
-3. [Illustration: _Fig. 13._ Les enfants d'Horus (d'après BUDGE
-4. Dans les mêmes régions, en bordure de la vallée, à la lisièr
-5. Comme je l'ai dit plus haut, les anthropologistes sont encor
-6. Dans ces deux groupes de souverains, la seule figure qui se
-7. Le premier de ces titres, celui dans lequel le faucon surmon
-8. Ici commence une période très obscure, pour laquelle Manétho
-9. Les successeurs de Snefrou reprirent ce modèle de monument f
-10. Le roi n'est pas seul à assumer le pouvoir, il a sous ses or
+1. CHAPITRE II
+2. CHAPITRE III
+3. CHAPITRE IV
+4. CHAPITRE V
+5. CHAPITRE VI
+6. CHAPITRE VII
 
-> 共 19 段，[完整目录与正文 →](https://www.bqgmz.top/b/df6228bbe543/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/df6228bbe543/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

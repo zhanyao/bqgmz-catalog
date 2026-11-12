@@ -1,7 +1,7 @@
 # King Leopold's Soliloquy: A Defense of His Congo Rule
 
-**作者** Twain, Mark, 1835-1910 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 14 题 · 61,517 字 ｜ **来源** Project Gutenberg
+**作者** Twain, Mark, 1835-1910 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 61,517 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e2dcecc2c5d9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（61,517 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,394 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 1,506 行。 |
+| 篇幅分布 | 平均每篇 15,114 字。 |
 | 原文溯源 | `cache/epub/62739/pg62739.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 篇）
 
-1. KING LEOPOLD’S SOLILOQUY
-2. SECOND EDITION
-3. King Leopold’s Soliloquy
-4. All [_shouting out_]: “_Nkoto! Nkoto!_” (“Very many! Very many!”)
-5. FROM PHOTOGRAPH, IKOKO, CONGO STATE
-6. A CZAR—1905
-7. FROM PHOTOGRAPHS, CONGO STATE
-8. FROM PHOTOGRAPH, IKOKO, CONGO STATE
-9. AN ORIGINAL MISTAKE
-10. SUPPLEMENTARY
+1. BY SAMUEL L. CLEMENS
+2. FOOT AND HAND OF CHILD DISMEMBERED BY SOLDIERS, BROUGHT TO
+3. SUPPLEMENTARY
+4. OUGHT KING LEOPOLD TO BE HANGED?[4]
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/e2dcecc2c5d9/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/e2dcecc2c5d9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

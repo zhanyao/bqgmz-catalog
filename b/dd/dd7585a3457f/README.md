@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（345,737 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,595 字；最长 Reduction of conflict in industry is the（59,509 字），最短 CHAPTER I（10,046 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 7,027 行。 |
+| 篇幅分布 | 平均每章 26,404 字；最长 notes, and commodities which could be sold to other countries, made up（105,045 字），最短 CHAPTER I（7,568 字）。 |
 | 原文溯源 | `cache/epub/29489/pg29489.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -31,4 +31,4 @@
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/dd7585a3457f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

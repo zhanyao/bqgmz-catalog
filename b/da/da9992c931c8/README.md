@@ -1,7 +1,7 @@
 # Verdadera historia de los sucesos de la conquista de la Nueva-España (2 de 3)
 
-**作者** Díaz del Castillo, Bernal, 1496-1584 ｜ **国家/地区** 西班牙 ｜ **体例** 题  
-**规模** 67 题 · 634,200 字 ｜ **来源** Project Gutenberg
+**作者** Díaz del Castillo, Bernal, 1496-1584 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 56 章 · 634,200 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/da9992c931c8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（634,200 字）。 |
-| 分章依据 | 按「题」标记切分为 67 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,465 字。 |
+| 分章依据 | 按「章」标记切分为 56 章（auto-chapter），拼接正文 13,453 行。 |
+| 篇幅分布 | 平均每章 11,302 字；最长 CAPÍTULO CLXVI.（37,075 字），最短 CAPÍTULO CXXIII.（1,456 字）。 |
 | 原文溯源 | `cache/epub/64946/pg64946.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. NOTA DE TRANSCRIPCIÓN
-2. TOMO II.
-3. CONQUISTA DE LA NUEVA-ESPAÑA
-4. POR
-5. BERNAL DIAZ DEL CASTILLO.
-6. CAPÍTULO CXII.
-7. CAPÍTULO CXIII.
-8. CAPÍTULO CXIV.
-9. CAPÍTULO CXV.
-10. CAPÍTULO CXVI.
+1. CAPÍTULO CXII.
+2. CAPÍTULO CXIII.
+3. CAPÍTULO CXIV.
+4. CAPÍTULO CXV.
+5. CAPÍTULO CXVI.
+6. CAPÍTULO CXVII.
+7. CAPÍTULO CXVIII.
+8. CAPÍTULO CXIX.
+9. CAPÍTULO CXX.
+10. CAPÍTULO CXXI.
 
-> 共 67 题，[完整目录与正文 →](https://www.bqgmz.top/b/da9992c931c8/)
+> 共 56 章，[完整目录与正文 →](https://www.bqgmz.top/b/da9992c931c8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Histoire de France 1415-1440 (Volume 6/19)
 
-**作者** Michelet, Jules, 1798-1874 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 23 段 · 469,451 字 ｜ **来源** Project Gutenberg
+**作者** Michelet, Jules, 1798-1874 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 12 篇 · 469,451 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cc7db3da74bf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（469,451 字）。 |
-| 分章依据 | 按「段」标记切分为 23 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,410 字；最长 L'Église en avait besoin, d'abord pour détacher des lollards（39,771 字），最短 Les Anglais avaient beau se retirer, la France continuait de（9,012 字）。 |
+| 分章依据 | 按「篇」标记切分为 12 篇（通用标记切分），拼接正文 10,598 行。 |
+| 篇幅分布 | 平均每篇 29,068 字；最长 --SUITE--（1）（55,498 字），最短 CHARLES VII.--HENRI VI, 1422-1429.--SIÉGE（363 字）。 |
 | 原文溯源 | `cache/epub/42186/pg42186.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. L'Église en avait besoin, d'abord pour détacher des lollards
-2. Du côté des Français, c'était autre chose. On s'occupait à f
-3. C'est un Béranger un peu faible, peut-être; toujours bienvei
-4. Les enfants des rues jouaient avec les cadavres. Le corps du
-5. Le roi d'Angleterre, occupé d'organiser le pays conquis, acc
-6. [Note 152: La sentence rendue par le roi de France, «de l'av
-7. Depuis un siècle, l'Angleterre accusait la France de ne voul
-8. Le menu commun de Paris criait: «Ah! très-cher prince, jamai
-9. Si l'on veut que l'auteur ou le dernier rédacteur de l'Imita
-10. Ce qui fait la force de ce livre, c'est qu'avec cette noble
+1. --SUITE--（1）
+2. --SUITE--（2）
+3. J. 573._]（1）
+4. J. 573._]（2）
+5. J. 573._]（3）
+6. J. 573._]（4）
+7. J. 573._]（5）
+8. L'ANGLETERRE: L'ÉTAT, L'ÉGLISE.--AZINCOURT, 1415 1
+9. MORT DU CONNÉTABLE D'ARMAGNAC, MORT DU DUC DE
+10. SUITE.--CONCILE DE CONSTANCE, 1414-1418.--MORT DE HENRI V ET
 
-> 共 23 段，[完整目录与正文 →](https://www.bqgmz.top/b/cc7db3da74bf/)
+> 共 12 篇，[完整目录与正文 →](https://www.bqgmz.top/b/cc7db3da74bf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

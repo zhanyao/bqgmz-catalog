@@ -1,7 +1,7 @@
 # Book of Wise Sayings Selected Largely from Eastern Sources
 
-**作者** Clouston, W. A. (William Alexander), 1843-1896 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 107,938 字 ｜ **来源** Project Gutenberg
+**作者** Clouston, W. A. (William Alexander), 1843-1896 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 171 篇 · 107,938 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cf4fd86441f4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（107,938 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,587 字；最长 All kinds of beauty do not inspire love: there is a kind of （39,959 字），最短 Children, 379.（7,860 字）。 |
+| 分章依据 | 按「篇」标记切分为 171 篇（通用标记切分），拼接正文 6,630 行。 |
+| 篇幅分布 | 平均每篇 627 字。 |
 | 原文溯源 | `cache/epub/21130/pg21130.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 篇）
 
-1. All kinds of beauty do not inspire love: there is a kind of
-2. If a man conquer in battle a thousand times a thousand men,
-3. Very distasteful is excessive fame
-4. There is nothing more becoming a wise man than to make choic
-5. Children, 379.
+1. Cynics may ask, how many have profited by the innumerable proverbs
+2. When a man has reached middle-age he generally feels with tenfold
+3. May we not find the "whole duty of man" condensed into a few brief
+4. In the following small selection of aphorisms, a considerable
+5. The ordinary reader will probably be somewhat surprised to discover
+6. Among English writers of aphorisms Francis Bacon, Lord Verulam, is
+7. It only remains to add that, bearing in mind that a great collection
+8. The enemies which rise within the body, hard to be overcome--thy
+9. Knowledge is destroyed by associating with the base; with equals
+10. Every moment that a man may be in want of employment, than such I
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/cf4fd86441f4/)
+> 共 171 篇，[完整目录与正文 →](https://www.bqgmz.top/b/cf4fd86441f4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

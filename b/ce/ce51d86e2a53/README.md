@@ -1,7 +1,7 @@
 # The Red Lottery Ticket
 
-**作者** Du Boisgobey, Fortuné, 1821-1891 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 15 题 · 231,970 字 ｜ **来源** Project Gutenberg
+**作者** Du Boisgobey, Fortuné, 1821-1891 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 231,970 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ce51d86e2a53/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（231,970 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 15,464 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-bare），拼接正文 5,673 行。 |
+| 篇幅分布 | 平均每章 28,974 字；最长 III.（55,721 字），最短 VIII.（8,564 字）。 |
+| 起止 | 始于「I.」，止于「IX.」。 |
 | 原文溯源 | `cache/epub/40491/pg40491.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. XIII.
-2. THE RED LOTTERY TICKET.
-3. BY FORTUNÉ DU BOISGOBEY.
-4. THE RED LOTTERY TICKET.
-5. I.
-6. II.
-7. III.
-8. III.
-9. V.
-10. VI.
+1. I.
+2. II.
+3. III.
+4. V.
+5. VI.
+6. VII.
+7. VIII.
+8. IX.
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/ce51d86e2a53/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/ce51d86e2a53/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

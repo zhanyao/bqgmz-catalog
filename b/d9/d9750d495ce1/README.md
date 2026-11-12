@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（602,408 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,825 字；最长 CHAPTER XXXII. THE SHE-WOLF TO HER LAIR.（35,212 字），最短 CHAPTER XXVII. ALMA SPEAKS.（5,965 字）。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-chapter），拼接正文 14,194 行。 |
+| 篇幅分布 | 平均每章 18,410 字；最长 CHAPTER XXXII. THE SHE-WOLF TO HER LAIR.（34,764 字），最短 CHAPTER XXVII. ALMA SPEAKS.（5,965 字）。 |
 | 起止 | 始于「CHAPTER I. THE SURRENDER OF THE WORLD-THRONE.」，止于「CHAPTER XXXII. THE SHE-WOLF TO HER LAIR.」。 |
 | 原文溯源 | `cache/epub/54096/pg54096.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/d9750d495ce1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

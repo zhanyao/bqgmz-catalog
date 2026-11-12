@@ -1,0 +1,34 @@
+# Ye butcher, ye baker, ye candlestick-maker
+
+**作者** Seaver, Robert, 1873-1922 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 22 篇 · 7,222 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/d2269bfcd70d/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（7,222 字）。 |
+| 分章依据 | 按「篇」标记切分为 22 篇（auto-title-scan），拼接正文 557 行。 |
+| 篇幅分布 | 平均每篇 327 字。 |
+| 原文溯源 | `cache/epub/73649/pg73649.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 篇）
+
+1. By Robert Seaver
+2. All Rights Reserved
+3. Ye Contents
+4. Ye Housewife
+5. Ye Baker
+6. Ye Doctor
+7. Ye Town Crier
+8. Ye Tythingman
+9. Ye Pirate
+10. Ye Pedagogue
+
+> 共 22 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d2269bfcd70d/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

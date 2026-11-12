@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（239,813 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 19,984 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 6,456 行。 |
+| 篇幅分布 | 平均每章 17,480 字；最长 CHAPTER VIII（43,673 字），最短 CHAPTER X（6,899 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XII」。 |
 | 原文溯源 | `cache/epub/48391/pg48391.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.--EARLY HISTORY OF THE COPENHAGEN FACTORY.
-2. CHAPTER IV.--FIGURE SUBJECTS AND GROUPS (1780-1820).
-3. CHAPTER V.--THE _FLORA DANICA_ SERVICE (1790-1802).
-4. CHAPTER VI.--EARLY BLUE-AND-WHITE UNDERGLAZE PAINTED.
-5. CHAPTER VII.--THE SUCCESSORS OF MÜLLER (1820-1880).
-6. CHAPTER VIII.--THE MODERN RENAISSANCE.
-7. CHAPTER IX.--FIGURE SUBJECTS AND GROUPS (RENAISSANCE PERIOD).
-8. CHAPTER X.--CRYSTALLINE GLAZES.
-9. CHAPTER XI.--COPENHAGEN ART FAIENCE.
-10. CHAPTER XII.--THE FACTORY TO-DAY.
+1. CHAPTER I
+2. CHAPTER II
+3. CHAPTER III
+4. CHAPTER IV
+5. CHAPTER V
+6. CHAPTER VI
+7. CHAPTER VII
+8. CHAPTER VIII
+9. CHAPTER IX
+10. CHAPTER X
 
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/d21021cc7f33/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

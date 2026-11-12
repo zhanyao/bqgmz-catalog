@@ -1,7 +1,7 @@
 # The Westward Movement
 
-**作者** Barstow, Charles L. (Charles Lester), 1867-1951 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 137 题 · 269,212 字 ｜ **来源** Project Gutenberg
+**作者** Barstow, Charles L. (Charles Lester), 1867-1951 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 269,212 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/de13ff6ad886/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（269,212 字）。 |
-| 分章依据 | 按「题」标记切分为 137 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,965 字。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-caps-sections），拼接正文 5,975 行。 |
+| 篇幅分布 | 平均每章 12,747 字；最长 THE FIRST SCHOOL AT ALTO.（1）（55,019 字），最短 THE WEST CONTINUED TO GROW DOWN STREAM, NOT UP.（514 字）。 |
 | 原文溯源 | `cache/epub/46513/pg46513.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE WESTWARD MOVEMENT
-2. CENTURY READINGS
-3. IN
-4. UNITED STATES HISTORY
-5. D. APPLETON-CENTURY CO.
-6. CENTURY READINGS IN UNITED STATES HISTORY
-7. PRINTED IN U. S. A.
-8. CONTENTS
-9. PAGE
-10. BEGINNINGS OF THE WESTWARD MOVEMENT _S. E. Forman_ 3
+1. THE BEGINNINGS OF OHIO.
+2. WHAT WAS THAT WEST?
+3. HOW HE FINDS THE WATERWAYS EASY AS PATHS WESTWARD.
+4. OTHER DISTANCES, OTHER CUSTOMS, OTHER VALUES.
+5. THE WEST CONTINUED TO GROW DOWN STREAM, NOT UP.
+6. HAVING THE MISSISSIPPI FOR ITS ROAD, THE WEST IS CONTENT.
+7. HOW MUCH RICHER WAS THIS WEST THAN DREAMED.
+8. THE WESTERNER RAISES MORE THAN HE CAN EAT.
+9. THE UP-STREAM MAN.
+10. STEAM HELPS THE UP-STREAM JOURNEYINGS.
 
-> 共 137 题，[完整目录与正文 →](https://www.bqgmz.top/b/de13ff6ad886/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/de13ff6ad886/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

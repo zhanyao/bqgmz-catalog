@@ -1,7 +1,7 @@
 # Indian Fairy Tales（#7128）
 
-**作者** Jacobs, Joseph, 1854-1916 [Compiler]; Batten, John Dickson, 1860-1932 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 115 题 · 312,092 字 ｜ **来源** Project Gutenberg
+**作者** Jacobs, Joseph, 1854-1916 [Compiler]; Batten, John Dickson, 1860-1932 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 29 章 · 312,092 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d2127ebba076/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（312,092 字）。 |
-| 分章依据 | 按「题」标记切分为 115 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,713 字。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-roman-title），拼接正文 7,825 行。 |
+| 篇幅分布 | 平均每章 1,309 字。 |
+| 起止 | 始于「I. THE LION AND THE CRANE.」，止于「XXIX. THE PIGEON AND THE CROW.」。 |
 | 原文溯源 | `cache/epub/7128/pg7128.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. INDIAN FAIRY TALES
-2. Selected and Edited by
-3. JOSEPH JACOBS
-4. Editor of "Folk Lore"
-5. Illustrated by John D. Batten
-6. This is No. 147_
-7. Preface
-8. JOSEPH JACOBS.
-9. Contents
-10. PAGE
+1. I. THE LION AND THE CRANE.
+2. II. PRINCESS LABAM.
+3. III. LAMBIKIN.
+4. IV. PUNCHKIN.
+5. V. THE BROKEN POT.
+6. VI. THE MAGIC FIDDLE.
+7. VII. THE CRUEL CRANE OUTWITTED.
+8. VIII. LOVING LAILI.
+9. IX. THE TIGER, THE BRAHMAN, AND THE JACKAL.
+10. X. THE SOOTHSAYER'S SON.
 
-> 共 115 题，[完整目录与正文 →](https://www.bqgmz.top/b/d2127ebba076/)
+> 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/d2127ebba076/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

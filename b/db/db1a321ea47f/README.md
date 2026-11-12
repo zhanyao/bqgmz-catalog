@@ -1,7 +1,7 @@
 # The Industrial Condition of Women and Girls in Honolulu: A Social Study
 
-**作者** Blascoer, Frances, 1873-1938 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 6 章 · 138,683 字 ｜ **来源** Project Gutenberg
+**作者** Blascoer, Frances, 1873-1938 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 29 篇 · 138,683 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/db1a321ea47f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（138,683 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,113 字。 |
+| 分章依据 | 按「篇」标记切分为 29 篇（通用标记切分），拼接正文 3,430 行。 |
+| 篇幅分布 | 平均每篇 4,773 字；最长 THE CANNERIES（12,258 字），最短 FRANCES BLASCOER（900 字）。 |
 | 原文溯源 | `cache/epub/60735/pg60735.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 章）
+## 章节目录（前 10 篇）
 
-1. SECTION 1. The term “establishment” where used in this Act shall mean
-2. SECTION 2. No minor under the age of sixteen years, and no female shall
-3. SECTION 3. No minor under sixteen years and no female shall be employed
-4. SECTION 4. Retail mercantile establishments shall be exempt from the
-5. SECTION 5. Any person, firm or corporation violating any provision of
-6. SECTION 6. This Act shall be in force and effect from and after the date
+1. FRANCES BLASCOER
+2. PREFACE
+3. FOREWORD
+4. TO THE BOARD OF TRUSTEES OF KAIULANI HOME FOR GIRLS
+5. GENERAL STATEMENT
+6. CONSTRUCTIVE SUGGESTIONS
+7. YEAR BY FIVE DRY-GOODS SHOPS.[1]
+8. AN HAWAIIAN SHOP
+9. PROPOSED TRADE SCHOOL
+10. VOCATIONAL AND EMPLOYMENT BUREAU
 
-> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/db1a321ea47f/)
+> 共 29 篇，[完整目录与正文 →](https://www.bqgmz.top/b/db1a321ea47f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

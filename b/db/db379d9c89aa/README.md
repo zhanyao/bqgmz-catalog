@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（208,009 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,112 字；最长 CHAPTER VIII: CLUES（36,877 字），最短 CHAPTER IV: RANGE FUNERAL（6,087 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 6,671 行。 |
+| 篇幅分布 | 平均每章 23,060 字；最长 CHAPTER VIII: CLUES（36,877 字），最短 CHAPTER IV: RANGE FUNERAL（6,087 字）。 |
 | 起止 | 始于「CHAPTER I: WEDDING NIGHT」，止于「CHAPTER IX: THE INQUEST」。 |
 | 原文溯源 | `cache/epub/70457/pg70457.txt`（Project Gutenberg） |
 
@@ -31,4 +31,4 @@
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/db379d9c89aa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Come Out of the Kitchen! A Romance
 
-**作者** Miller, Alice Duer, 1874-1942; Meylan, Paul Julian, 1882-1961 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 9 段 · 199,423 字 ｜ **来源** Project Gutenberg
+**作者** Miller, Alice Duer, 1874-1942; Meylan, Paul Julian, 1882-1961 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 199,423 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cccb65438a74/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（199,423 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,158 字；最长 When Tucker came down dressed for dinner, he found Crane was（39,993 字），最短 At this moment a step was heard on the stairs and Tucker, dr（19,203 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-roman-bare），拼接正文 6,093 行。 |
+| 篇幅分布 | 平均每章 15,257 字；最长 VI（19,724 字），最短 III（8,860 字）。 |
 | 原文溯源 | `cache/epub/33145/pg33145.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. When Tucker came down dressed for dinner, he found Crane was
-2. "Just what I did--pretended. But I'll never have to pretend
-3. "But I should be so glad to have you offer me advice, sir. I
-4. "Oh, my powers!" cried Burton. "What has been happening now?
-5. The desire to make others happy is not a crime, yet Crane fe
-6. "Give the hat back!" cried Mrs. Falkener. "What good will th
-7. "She's worked so hard, and she wouldn't take a tip," she sai
-8. As Jane-Ellen entered at this moment to take away the soup-p
-9. At this moment a step was heard on the stairs and Tucker, dr
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/cccb65438a74/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/cccb65438a74/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

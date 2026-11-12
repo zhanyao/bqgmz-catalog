@@ -1,7 +1,7 @@
 # Annals and Antiquities of Rajasthan, v. 2 of 3 or the Central and Western Rajput States of India
 
 **作者** Tod, James, 1782-1835; Crooke, William, 1848-1923 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 19 章 · 1,447,937 字 ｜ **来源** Project Gutenberg
+**规模** 27 章 · 1,447,937 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e45849f909dc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,447,937 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 76,207 字。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-part），拼接正文 33,651 行。 |
+| 篇幅分布 | 平均每章 53,525 字；最长 BOOK IV—_Continued（8）（57,230 字），最短 BOOK VII（4）（27,694 字）。 |
 | 原文溯源 | `cache/epub/57375/pg57375.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER 1
-2. CHAPTER 2
-3. CHAPTER 3
-4. CHAPTER 4
-5. CHAPTER 5
-6. CHAPTER 6
-7. CHAPTER 7
-8. CHAPTER 8
-9. CHAPTER 9
-10. CHAPTER 10
+1. Volume III.
+2. BOOK IV—_Continued（1）
+3. BOOK IV—_Continued（2）
+4. BOOK IV—_Continued（3）
+5. BOOK IV—_Continued（4）
+6. BOOK IV—_Continued（5）
+7. BOOK IV—_Continued（6）
+8. BOOK IV—_Continued（7）
+9. BOOK IV—_Continued（8）
+10. BOOK IV—_Continued（9）
 
-> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/e45849f909dc/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/e45849f909dc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

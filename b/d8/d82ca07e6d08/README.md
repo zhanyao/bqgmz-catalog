@@ -1,7 +1,7 @@
 # Poems（#45643）
 
-**作者** Tree, Iris, 1897-1968 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 59 题 · 90,108 字 ｜ **来源** Project Gutenberg
+**作者** Tree, Iris, 1897-1968 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 99 章 · 90,108 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d82ca07e6d08/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（90,108 字）。 |
-| 分章依据 | 按「题」标记切分为 59 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,527 字。 |
+| 分章依据 | 按「章」标记切分为 99 章（auto-toc-title-list），拼接正文 3,737 行。 |
+| 篇幅分布 | 平均每章 871 字。 |
 | 原文溯源 | `cache/epub/45643/pg45643.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. CONTENTS
-2. ROCKETS AND ASHES
-3. A ROSE 32
-4. BLACK VELVET 38
-5. NERVES 39
-6. THE COMPLEX LIFE 44
-7. MOODS 48
-8. SMOKE
-9. ZEPPELINS 58
-10. HOLY RUSSIA 65
+1. ROCKETS AND ASHES
+2. "YOU PREACH TO ME OF LAWS, YOU TIE MY LIMBS"
+3. "WE ARE THE CARETAKERS OF EMPTY HOUSES"
+4. "FROM FAR AWAY THE LOST ADVENTURES GLEAM"
+5. "GIVE ME, O GOD, THE POWER OF LAUGHTER STILL"
+6. "WINDING DOWN THE STREET IN WEARIED GAIETY"
+7. "I COULD EXPLAIN"
+8. "I FEEL IN ME A MANIFOLD DESIRE"
+9. "SILENCE"
+10. "I SHOULD LIKE TO SAY TO THE WORLD"
 
-> 共 59 题，[完整目录与正文 →](https://www.bqgmz.top/b/d82ca07e6d08/)
+> 共 99 章，[完整目录与正文 →](https://www.bqgmz.top/b/d82ca07e6d08/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

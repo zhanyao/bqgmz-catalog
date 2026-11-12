@@ -11,18 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（199,076 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 49,769 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-chapter），拼接正文 5,416 行。 |
+| 篇幅分布 | 平均每章 48,567 字。 |
 | 原文溯源 | `cache/epub/43232/pg43232.txt`（Project Gutenberg） |
 
 ## 章节目录（前 4 章）
 
-1. Part I. Preparation by Authors.
-2. Part II. Preparation by Draftsmen.
-3. Part III. Processes of Reproducing Illus
-4. N. for north, NE. for northeast, NNE. fo
+1. PART I. PREPARATION BY AUTHORS.
+2. PART II. PREPARATION BY DRAFTSMEN.
+3. PART III. PROCESSES OF REPRODUCING ILLUSTRATIONS.
+4. APPENDIX.
 
 > 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/dba76c0e6094/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

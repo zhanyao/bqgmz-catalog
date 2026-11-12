@@ -1,7 +1,7 @@
 # L'Illustration, No. 0003, 18 Mars 1843
 
-**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 7 段 · 155,258 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 17 章 · 155,258 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cf41c9877276/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（155,258 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,179 字；最长 _Le National de l'Ouest_ annonce que le commerce de Nantes s（39,982 字），最短 DISCOURS SUR L'ÉTUDE DE LA PHILOSOPHIE NATURELLE; par sir JO（15,200 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-caps-sections），拼接正文 3,454 行。 |
+| 篇幅分布 | 平均每章 9,132 字；最长 LETTRE DEUXIÈME.（31,791 字），最短 PLAN D'UNE RÉORGANISATION DISCIPLINAIRE DES CLASSES INDUSTRIELLES DE（441 字）。 |
 | 原文溯源 | `cache/epub/33590/pg33590.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. _Le National de l'Ouest_ annonce que le commerce de Nantes s
-2. Un fâcheux incident, survenu l'année dernière, a provoqué à
-3. Il termina ses jours dans cette exaltation de principe parti
-4. _Charles VI_, ainsi qu'on a déjà pu s'en convaincre, est con
-5. Les deux reines partirent, accompagnées de M Prez de Castro,
-6. Le rapport de la commission chargée de faire une enquête sur
-7. DISCOURS SUR L'ÉTUDE DE LA PHILOSOPHIE NATURELLE; par sir JO
+1. DESTRUCTION DE POINTE-A-PITRE.
+2. A MADAME***.
+3. LETTRE DEUXIÈME.
+4. VI.]
+5. II.
+6. AUX INVALIDES..
+7. OUVERTURE DU SALON.
+8. PREMIÈRE VISITE AU SALON--COUP D'OEIL GÉNÉRAL.
+9. BULLETIN BIBLIOGRAPHIQUE ÉTRANGER.
+10. EXTRAIT DU CATALOGUE GÉNÉRAL DU COMPTOIR CENTRAL DE LA LIBRAIRIE.
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/cf41c9877276/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/cf41c9877276/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

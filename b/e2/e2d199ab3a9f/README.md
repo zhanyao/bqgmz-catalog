@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（440,789 字）。 |
-| 分章依据 | 按「章」标记切分为 41 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,750 字；最长 CHAPTER III -- BARON OF DOOM（20,126 字），最短 CHAPTER XXXIX -- BETRAYED BY A BALLAD（4,390 字）。 |
+| 分章依据 | 按「章」标记切分为 41 章（auto-chapter），拼接正文 10,591 行。 |
+| 篇幅分布 | 平均每章 10,721 字；最长 CHAPTER III -- BARON OF DOOM（20,126 字），最短 CHAPTER XXXIX -- BETRAYED BY A BALLAD（4,390 字）。 |
 | 起止 | 始于「CHAPTER I -- COUNT VICTOR COMES TO A STRANGE COUNTRY」，止于「CHAPTER XLI -- CONCLUSION」。 |
 | 原文溯源 | `cache/epub/21333/pg21333.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 41 章，[完整目录与正文 →](https://www.bqgmz.top/b/e2d199ab3a9f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

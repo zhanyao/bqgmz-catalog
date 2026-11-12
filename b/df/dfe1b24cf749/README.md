@@ -1,7 +1,7 @@
 # Stories of the Cave People
 
-**作者** Marcy, Mary, 1877-1922 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 128,547 字 ｜ **来源** Project Gutenberg
+**作者** Marcy, Mary, 1877-1922 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 128,547 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/dfe1b24cf749/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（128,547 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,424 字；最长 They reached the pit safely. The bear still growled savagely（39,824 字），最短 And when ill befell the Cave People, One Ear told them it ha（8,598 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-roman-bare），拼接正文 3,400 行。 |
+| 篇幅分布 | 平均每章 5,659 字；最长 IV（12,782 字），最短 IX（部2）（440 字）。 |
 | 原文溯源 | `cache/epub/59922/pg59922.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. They reached the pit safely. The bear still growled savagely
-2. In an instant The Fish was upon him, but Laughing Boy rolled
-3. At those points where the ground rose higher than the surrou
-4. Also there were unknown dangers, and Tall grew ill with a fe
-5. Up to the appearance of the Dart or Arrow Throwers, with the
-6. And when ill befell the Cave People, One Ear told them it ha
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/dfe1b24cf749/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/dfe1b24cf749/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

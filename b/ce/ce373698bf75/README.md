@@ -1,7 +1,7 @@
 # Thaddeus of Warsaw
 
 **作者** Porter, Jane, 1776-1850 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 50 章 · 897,446 字 ｜ **来源** Project Gutenberg
+**规模** 51 章 · 897,446 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ce373698bf75/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（897,446 字）。 |
-| 分章依据 | 按「章」标记切分为 50 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,948 字；最长 CHAPTER L.（54,991 字），最短 CHAPTER XLI.（6,806 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER L.」。 |
+| 分章依据 | 按「章」标记切分为 51 章（auto-chapter），拼接正文 21,038 行。 |
+| 篇幅分布 | 平均每章 17,061 字；最长 CHAPTER XLV.（35,850 字），最短 CHAPTER XLI.（6,806 字）。 |
 | 原文溯源 | `cache/epub/6566/pg6566.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 50 章，[完整目录与正文 →](https://www.bqgmz.top/b/ce373698bf75/)
+> 共 51 章，[完整目录与正文 →](https://www.bqgmz.top/b/ce373698bf75/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

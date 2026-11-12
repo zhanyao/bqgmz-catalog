@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（786,173 字）。 |
-| 分章依据 | 按「章」标记切分为 37 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,247 字；最长 CHAPTER X.—ON THE NILE.（41,811 字），最短 CHAPTER III.—EGYPT OF TO-DAY.（7,381 字）。 |
+| 分章依据 | 按「章」标记切分为 37 章（auto-chapter），拼接正文 16,707 行。 |
+| 篇幅分布 | 平均每章 20,883 字；最长 CHAPTER X.—ON THE NILE.（41,811 字），最短 CHAPTER III.—EGYPT OF TO-DAY.（7,381 字）。 |
 | 起止 | 始于「CHAPTER I.—AT THE GATES OF THE EAST.」，止于「CHAPTER XXXVII.—“EASTWARD HO!”」。 |
 | 原文溯源 | `cache/epub/52212/pg52212.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 37 章，[完整目录与正文 →](https://www.bqgmz.top/b/d5c4ce477428/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（176,539 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,033 字；最长 CHAPTER XVI. AT LAST.（70,650 字），最短 CHAPTER XV. “SOFT AS ZEPHYR.”（2,406 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 5,104 行。 |
+| 篇幅分布 | 平均每章 10,682 字；最长 CHAPTER XVI. AT LAST.（70,461 字），最短 CHAPTER XV. “SOFT AS ZEPHYR.”（2,406 字）。 |
 | 起止 | 始于「CHAPTER I. A SHORT HEAT.」，止于「CHAPTER XVI. AT LAST.」。 |
 | 原文溯源 | `cache/epub/66587/pg66587.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/cf9d88a4f554/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

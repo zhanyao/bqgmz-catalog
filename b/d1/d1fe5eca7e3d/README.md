@@ -1,7 +1,7 @@
 # Siam: Land of Free Men
 
-**作者** Deignan, H. G. (Herbert Girton), 1906-1968 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 15 题 · 42,914 字 ｜ **来源** Project Gutenberg
+**作者** Deignan, H. G. (Herbert Girton), 1906-1968 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 9 篇 · 42,914 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d1fe5eca7e3d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（42,914 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,860 字。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（通用标记切分），拼接正文 988 行。 |
+| 篇幅分布 | 平均每篇 4,665 字；最长 KINGDOM OF AYUTHIA（10,025 字），最短 PREHISTORY（1,516 字）。 |
 | 原文溯源 | `cache/epub/44679/pg44679.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 篇）
 
-1. SIAM--LAND OF FREE MEN
-2. CONTENTS
-3. ILLUSTRATIONS
-4. PLATES
-5. TEXT FIGURE
-6. 1. Map of Siam
-7. SIAM--LAND OF FREE MEN
-8. GEOGRAPHY
-9. PEOPLES
-10. PREHISTORY
+1. (WITH 8 PLATES)
+2. GEOGRAPHY
+3. PEOPLES
+4. PREHISTORY
+5. KINGDOM OF SUKHOTHAI-SAWANKHALOK
+6. KINGDOM OF AYUTHIA
+7. KINGDOM OF TONBURI
+8. KINGDOM OF SIAM
+9. THAILAND
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/d1fe5eca7e3d/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d1fe5eca7e3d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

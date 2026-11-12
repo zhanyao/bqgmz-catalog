@@ -1,7 +1,7 @@
 # Entre terre et mer
 
-**作者** Conrad, Joseph, 1857-1924; Jean-Aubry, G. (Georges), 1882-1950 [Translator] ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 28 题 · 384,133 字 ｜ **来源** Project Gutenberg
+**作者** Conrad, Joseph, 1857-1924; Jean-Aubry, G. (Georges), 1882-1950 [Translator] ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 12 篇 · 384,133 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e3101750b14c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（384,133 字）。 |
-| 分章依据 | 按「题」标记切分为 28 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,719 字。 |
+| 分章依据 | 按「篇」标记切分为 12 篇（通用标记切分），拼接正文 8,932 行。 |
+| 篇幅分布 | 平均每篇 31,878 字；最长 VI（66,982 字），最短 NOTE DE L’AUTEUR（5,525 字）。 |
 | 原文溯源 | `cache/epub/77214/pg77214.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. JOSEPH CONRAD
-2. ŒUVRES COMPLÈTES DE JOSEPH CONRAD
-3. D’ANDRÉ GIDE ET G. JEAN-AUBRY
-4. EN PRÉPARATION
-5. LA LIGNE D’OMBRE.
-6. FORTUNE.
-7. LE MIROIR DE LA MER.
-8. LETTRES FRANÇAISES.
-9. INTRODUCTION
-10. G. JEAN-AUBRY.
+1. INTRODUCTION
+2. NOTE DE L’AUTEUR
+3. UN SOURIRE DE LA FORTUNE
+4. II
+5. III
+6. IV
+7. VI
+8. II
+9. II
+10. III
 
-> 共 28 题，[完整目录与正文 →](https://www.bqgmz.top/b/e3101750b14c/)
+> 共 12 篇，[完整目录与正文 →](https://www.bqgmz.top/b/e3101750b14c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

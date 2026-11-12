@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,570,759 字）。 |
-| 分章依据 | 按「章」标记切分为 64 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,543 字；最长 CHAPTER 52. I ASSIST AT AN EXPLOSION（43,044 字），最短 CHAPTER 64. A LAST RETROSPECT（7,085 字）。 |
+| 分章依据 | 按「章」标记切分为 64 章（auto-chapter），拼接正文 38,273 行。 |
+| 篇幅分布 | 平均每章 24,477 字；最长 CHAPTER 52. I ASSIST AT AN EXPLOSION（43,044 字），最短 CHAPTER 64. A LAST RETROSPECT（7,085 字）。 |
 | 起止 | 始于「CHAPTER 1. I AM BORN」，止于「CHAPTER 64. A LAST RETROSPECT」。 |
 | 原文溯源 | `cache/epub/766/pg766.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 64 章，[完整目录与正文 →](https://www.bqgmz.top/b/d504f56ac04a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

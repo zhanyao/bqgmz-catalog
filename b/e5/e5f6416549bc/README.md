@@ -1,7 +1,7 @@
 # The Complete Project Gutenberg Writings of Charles Dudley Warner
 
-**作者** Warner, Charles Dudley, 1829-1900 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 509 题 · 4,695,378 字 ｜ **来源** Project Gutenberg
+**作者** Warner, Charles Dudley, 1829-1900 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 182 章 · 4,695,378 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e5f6416549bc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（4,695,378 字）。 |
-| 分章依据 | 按「题」标记切分为 509 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,224 字。 |
+| 分章依据 | 按「章」标记切分为 182 章（auto-caps-sections），拼接正文 99,799 行。 |
+| 篇幅分布 | 平均每章 25,798 字；最长 ENGLAND（66,664 字），最短 EDITOR'S NOTE（756 字）。 |
 | 原文溯源 | `cache/epub/3136/pg3136.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by David Widger
-2. THE ENTIRE PROJECT GUTENBERG WORKS OF CHARLES D. WARNER
-3. By CHARLES D. WARNER
-4. CONTENTS:
-5. BADDECK AND THAT SORT OF THING
-6. By Charles Dudley Warner
-7. PREFACE
-8. TO JOSEPH H. TWICHELL
-9. C. D. W.
-10. BADDECK AND THAT SORT OF THING
+1. A LOCOED NOVELIST（1）
+2. A LOCOED NOVELIST（2）
+3. A LOCOED NOVELIST（3）
+4. A LOCOED NOVELIST（4）
+5. A LOCOED NOVELIST（5）
+6. A LOCOED NOVELIST（6）
+7. A LOCOED NOVELIST（7）
+8. A LOCOED NOVELIST（8）
+9. A LOCOED NOVELIST（9）
+10. A LOCOED NOVELIST（10）
 
-> 共 509 题，[完整目录与正文 →](https://www.bqgmz.top/b/e5f6416549bc/)
+> 共 182 章，[完整目录与正文 →](https://www.bqgmz.top/b/e5f6416549bc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

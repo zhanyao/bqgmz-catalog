@@ -1,7 +1,7 @@
 # The Book of Dragons
 
-**作者** Nesbit, E. (Edith), 1858-1924; Fell, Herbert Granville, 1872-1951 [Illustrator]; Millar, H. R. (Harold Robert), 1869-1942 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 9 段 · 182,928 字 ｜ **来源** Project Gutenberg
+**作者** Nesbit, E. (Edith), 1858-1924; Fell, Herbert Granville, 1872-1951 [Illustrator]; Millar, H. R. (Harold Robert), 1869-1942 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 182,928 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/da4b5e3d92fd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（182,928 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,325 字；最长 The white-winged horse flew around and around the Dragon as （39,937 字），最短 Edmund had run back to the cockatrice, and it had told him w（3,787 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-title），拼接正文 4,830 行。 |
+| 篇幅分布 | 平均每章 22,616 字；最长 IV. The Ice Dragon, or Do as You Are Told（26,958 字），最短 I. The Book of Beasts（20,506 字）。 |
+| 起止 | 始于「I. The Book of Beasts」，止于「VIII. Kind Little Edmund, or The Caves and the Cockatrice」。 |
 | 原文溯源 | `cache/epub/23661/pg23661.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 8 章）
 
-1. The white-winged horse flew around and around the Dragon as
-2. "Oh, don't," said Tom. "Why, Mary Ann, my precious, my Princ
-3. "Oh, Harry," said Effie, "I wonder when he will eat us!" The
-4. When they had picked themselves out and thumped each other o
-5. And to her husband she said, "My dear, why do you go on worr
-6. But through the blowing and hammering and singing the noise
-7. Then she would run down the cold stone steps and dress herse
-8. So they went, and the pigs came after, moving in stately bla
-9. Edmund had run back to the cockatrice, and it had told him w
+1. I. The Book of Beasts
+2. II. Uncle James, or The Purple Stranger
+3. III. The Deliverers of Their Country
+4. IV. The Ice Dragon, or Do as You Are Told
+5. V. The Island of the Nine Whirlpools
+6. VI. The Dragon Tamers
+7. VII. The Fiery Dragon,
+8. VIII. Kind Little Edmund, or The Caves and the Cockatrice
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/da4b5e3d92fd/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/da4b5e3d92fd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

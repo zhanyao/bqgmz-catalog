@@ -1,7 +1,7 @@
 # Bertha's Christmas Vision: An Autumn Sheaf
 
-**作者** Alger, Horatio, Jr., 1832-1899 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 62 题 · 156,988 字 ｜ **来源** Project Gutenberg
+**作者** Alger, Horatio, Jr., 1832-1899 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 156,988 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/dd6491abeb05/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（156,988 字）。 |
-| 分章依据 | 按「题」标记切分为 62 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,532 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-roman-bare），拼接正文 4,488 行。 |
+| 篇幅分布 | 平均每章 9,126 字；最长 V.（部2）（35,864 字），最短 II.（部2）（3,668 字）。 |
+| 起止 | 始于「I.」，止于「V.（部2）」。 |
 | 原文溯源 | `cache/epub/56222/pg56222.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. P. 11.]
-2. BY HORATIO ALGER JR.
-3. BY HORATIO ALGER, JR.
-4. DEDICATION.
-5. CONTENTS.
-6. LITTLE FLOY; OR, HOW A MISER WAS RECLAIMED 1
-7. MY CASTLE 34
-8. MISS HENDERSON’S THANKSGIVING DAY 38
-9. LITTLE CHARLIE 53
-10. BERTHA’S CHRISTMAS VISION 55
+1. I.
+2. II.
+3. III.
+4. IV.
+5. I.（部2）
+6. II.（部2）
+7. III.（部2）
+8. IV.（部2）
+9. V.（部2）
 
-> 共 62 题，[完整目录与正文 →](https://www.bqgmz.top/b/dd6491abeb05/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/dd6491abeb05/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

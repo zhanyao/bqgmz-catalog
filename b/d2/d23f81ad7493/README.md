@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（441,519 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,237 字；最长 CHAPTER II. THE HOTEL DE RAMBOUILLET（36,808 字），最短 CHAPTER X. THE DUCHESSE DU MAINE（13,312 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 8,517 行。 |
+| 篇幅分布 | 平均每章 22,827 字；最长 CHAPTER II. THE HOTEL DE RAMBOUILLET（36,808 字），最短 CHAPTER I. SALONS OF THE SEVENTEENTH CENTURY（12,246 字）。 |
 | 起止 | 始于「CHAPTER I. SALONS OF THE SEVENTEENTH CENTURY」，止于「CHAPTER XIX. THE SALONS OF THE EMPIRE AND RESTORATION--MADAME RECAMIER」。 |
 | 原文溯源 | `cache/epub/2528/pg2528.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/d23f81ad7493/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

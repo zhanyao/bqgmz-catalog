@@ -1,7 +1,7 @@
 # Kertomuksia historiasta ja elämästä : lapsille ja nuorisolle
 
-**作者** Various ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 7 题 · 253,488 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 81 章 · 253,488 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/dc7cae8ce080/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（253,488 字）。 |
-| 分章依据 | 按「题」标记切分为 7 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 36,212 字。 |
+| 分章依据 | 按「章」标记切分为 81 章（auto-toc-title-list），拼接正文 6,390 行。 |
+| 篇幅分布 | 平均每章 3,104 字；最长 Yrjö Washington（14,178 字），最短 Anna vihollisillesi anteeksi（606 字）。 |
 | 原文溯源 | `cache/epub/28588/pg28588.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 题）
+## 章节目录（前 10 章）
 
-1. Produced by Tapio Riikonen
-2. KERTOMUKSIA HISTORIASTA JA ELÄMÄSTÄ LAPSILLE JA NUORISOLLE
-3. SISÄLLYS:
-4. Äidin ylpeys
-5. Bezin nimisellä aatelismiehellä oli naap
-6. 5:o. "Katsantosi olkoon iloinen, vaan to
-7. Linné on saanut nimen "kasvitutkijain ku
+1. Spartalaisten lainsäätäjä
+2. Nuori filosofi Abderasta
+3. Anteeksi antaminen on jaloin kosto
+4. Ei pidä ketään pitää onnellisena ennen hänen loppuansa
+5. Eräs intoisan isänmaanrakkauden osoitus
+6. Ahkeruus voittaa
+7. Opi itseäsi tuntemaan
+8. Uskollinen ystävyys
+9. Tyytyväinen sotapäällikkö
+10. Marcus Curtion uhrikuolema
 
-> 共 7 题，[完整目录与正文 →](https://www.bqgmz.top/b/dc7cae8ce080/)
+> 共 81 章，[完整目录与正文 →](https://www.bqgmz.top/b/dc7cae8ce080/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

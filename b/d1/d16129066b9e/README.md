@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（247,818 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 27,535 字；最长 CHAPTER IX THE RIO VIRGEN AND THE U-IN-KA-RET MOUNTAINS[10]（54,575 字），最短 CHAPTER II FROM GREEN RIVER CITY TO FLAMING GORGE（8,836 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 5,397 行。 |
+| 篇幅分布 | 平均每章 26,612 字；最长 CHAPTER IX THE RIO VIRGEN AND THE U-IN-KA-RET MOUNTAINS[10]（50,724 字），最短 CHAPTER II FROM GREEN RIVER CITY TO FLAMING GORGE（8,836 字）。 |
 | 起止 | 始于「CHAPTER I THE VALLEY OF THE COLORADO」，止于「CHAPTER IX THE RIO VIRGEN AND THE U-IN-KA-RET MOUNTAINS[10]」。 |
 | 原文溯源 | `cache/epub/74466/pg74466.txt`（Project Gutenberg） |
 
@@ -31,4 +31,4 @@
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/d16129066b9e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

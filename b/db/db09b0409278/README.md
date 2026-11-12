@@ -1,7 +1,7 @@
 # A Narrative of some of the Lord's Dealings with George Müller. Part 3
 
-**作者** Müller, George, 1805-1898 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 21 段 · 426,390 字 ｜ **来源** Project Gutenberg
+**作者** Müller, George, 1805-1898 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 23 篇 · 426,390 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/db09b0409278/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（426,390 字）。 |
-| 分章依据 | 按「段」标记切分为 21 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,304 字；最长 March 11. From Feb. 13 to this day we have had comparative a（39,232 字），最短 III. The third portion of the divine testimony, on which I d（10,136 字）。 |
+| 分章依据 | 按「篇」标记切分为 23 篇（通用标记切分），拼接正文 8,856 行。 |
+| 篇幅分布 | 平均每篇 16,981 字。 |
+| 起止 | 始于「III. Question. How may I know that my sins are forgiven? Have I to」，止于「IV. There is one other point which, in connexion with several」。 |
 | 原文溯源 | `cache/epub/22148/pg22148.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. March 11. From Feb. 13 to this day we have had comparative a
-2. Answer. "If thou shalt confess with thy mouth the Lord Jesus
-3. Thus we have endeavoured very briefly to state our reasons f
-4. Nov. 27. This is Saturday, and nothing at all was in hand wh
-5. Jan. 29. The two sovereigns, which came in on the 27th, supp
-6. March 17. From the 12th to the 16th had come in 4l. 5s. 1l 1
-7. II. The following means, however, ought to be used: 1, The c
-8. Oct. 11. The Lord has again kindly multiplied the 3s. 5d., w
-9. Dec. 17. This morning we three again waited unitedly upon th
-10. "I believe the Lord has not permitted you to grow weary of
+1. III. Question. How may I know that my sins are forgiven? Have I to
+2. V. Question. How may I know that I am one of the elect? I often read
+3. I. In reading over my journal, I find that the Lord has given me
+4. I. "Every good gift and every perfect gift is from above, and cometh
+5. II. The following means, however, ought to be used: 1, The careful
+6. II. As to the supply of my temporal necessities:（1）
+7. II. As to the supply of my temporal necessities:（2）
+8. I. In the beginning it is mentioned, that on the evening of the day
+9. II. It may be asked, whether I consider brother ----, with all his
+10. I. One of my especial aims in my service among the dear brethren at
 
-> 共 21 段，[完整目录与正文 →](https://www.bqgmz.top/b/db09b0409278/)
+> 共 23 篇，[完整目录与正文 →](https://www.bqgmz.top/b/db09b0409278/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

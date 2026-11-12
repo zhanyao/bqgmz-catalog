@@ -1,7 +1,7 @@
 # Punch, or the London Charivari, Vol. 146, April 15, 1914
 
-**作者** Various; Seaman, Owen, 1861-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 43 题 · 62,998 字 ｜ **来源** Project Gutenberg
+**作者** Various; Seaman, Owen, 1861-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 62,998 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d79047d0dca9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（62,998 字）。 |
-| 分章依据 | 按「题」标记切分为 43 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,465 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-caps-sections），拼接正文 1,894 行。 |
+| 篇幅分布 | 平均每章 4,199 字；最长 THE ART OF CONVERSATION.（19,263 字），最短 VERDANT STUFF.（309 字）。 |
 | 原文溯源 | `cache/epub/22940/pg22940.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. PUNCH, OR THE LONDON CHARIVARI
-2. VOL. 146
-3. APRIL 15, 1914
-4. CHARIVARIA.
-5. PROFESSIONAL ANACHRONISM.
-6. For two pugilists, shaking hands before the knock-out fight begins:--
-7. THE UNION OF IRISH HEARTS.
-8. O. S.
-9. THE BOMB.
-10. A NONENTITY.
+1. DAILY ROUND.]
+2. PROFESSIONAL ANACHRONISM.
+3. THE BOMB.
+4. A NONENTITY.
+5. FISH.
+6. MEAT.
+7. VERDANT STUFF.
+8. LES PETITS OISEAUX.
+9. EXOTIC FRUIT.
+10. PLOVERS' EGGS.
 
-> 共 43 题，[完整目录与正文 →](https://www.bqgmz.top/b/d79047d0dca9/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/d79047d0dca9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

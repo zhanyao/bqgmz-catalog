@@ -1,7 +1,7 @@
 # Anecdotes for boys
 
 **作者** Newcomb, Harvey, 1803-1863 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 126,207 字 ｜ **来源** Project Gutenberg
+**规模** 10 章 · 126,207 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e382547d2bc6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（126,207 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,473 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 2,849 行。 |
+| 篇幅分布 | 平均每章 12,279 字；最长 SECTION VIII.--CONTENTION.（51,591 字），最短 SECTION IV.--MANNERS.（1,405 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER X.」。 |
 | 原文溯源 | `cache/epub/25540/pg25540.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -20,15 +21,15 @@
 1. CHAPTER I.
 2. CHAPTER II.
 3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII.
-8. CHAPTER VIII.
+4. SECTION IV.--MANNERS.
+5. SECTION V.--OVERCOME EVIL WITH GOOD.
+6. SECTION VI.--USE OF THE TONGUE.
+7. SECTION VII.--PUNCTUALITY.
+8. SECTION VIII.--CONTENTION.
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/e382547d2bc6/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/e382547d2bc6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

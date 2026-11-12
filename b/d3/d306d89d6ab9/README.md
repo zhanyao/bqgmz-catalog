@@ -1,7 +1,7 @@
 # Le Università italiane nel Medio Evo
 
-**作者** Coppi, Ettore, 1854-1896 ｜ **国家/地区** 意大利 ｜ **体例** 题  
-**规模** 38 题 · 482,682 字 ｜ **来源** Project Gutenberg
+**作者** Coppi, Ettore, 1854-1896 ｜ **国家/地区** 意大利 ｜ **体例** 篇  
+**规模** 12 篇 · 482,682 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d306d89d6ab9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（482,682 字）。 |
-| 分章依据 | 按「题」标记切分为 38 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 12,702 字。 |
+| 分章依据 | 按「篇」标记切分为 12 篇（通用标记切分），拼接正文 11,390 行。 |
+| 篇幅分布 | 平均每篇 39,795 字；最长 CAPITOLO OTTAVO — Causa della decadenza delle università italiane — Inimicizia fra le università — Numero soverchio di esse — Discordie nelle scuole — Caduta delle repubbliche e dei liberi ordinamenti universitarii — Trasformazione della cultura italiana al tempo dei Principati — I letterati e gli artisti alle Corti — Le accademie — Invenzione della stampa — Influenza dell'educazione ecclesiastica — Le università italiane dal secolo XVIII in poi（1）（55,806 字），最短 CAPITOLO QUINTO — I dottori ordinari e straordinari — Modo con cui si eleggevano gl'insegnanti nelle università del medio evo — I liberi docenti — Prime limitazioni alla libertà d'insegnamento — I dottori forestieri (forenses) e i cittadini — Nomina dei dottori fatta dalle università — Ingerenza dello Stato nella elezione dei dottori — Dei modi di retribuzione dei pubblici insegnanti — Offerte spontanee e «collectae» degli scolari — Parziale intervento dei Comuni nel mantenimento dei dottori — Esclusiva ingerenza dello Stato — Esempi più antichi di dottori stipendiati dal pubblico erario — Abolizione delle collette — Capitali anticipati ai dottori a titolo di retribuzione — Assegni straordinari oltre gli stipendi — Criteri di repartizione dei pubblici stipendi（23,142 字）。 |
 | 原文溯源 | `cache/epub/58372/pg58372.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. TERZA EDIZIONE
-2. INDICE
-3. AVVERTENZA Pag. VII
-4. AVVERTENZA
-5. ETTORE COPPI.
-6. INTRODUZIONE
-7. ORIGINE DELLE UNIVERSITÀ
-8. Perciò questo primo centro di studii giu
-9. CAPITOLO PRIMO
-10. CONVENZIONE DELL'ANNO 1228
+1. AVVERTENZA Pag. VII INTRODUZIONE — ORIGINE DELLE UNIVERSITÀ — Importanza degli studii relativi alle università — Gli storici delle università antiche — Opinione nostra sulla vera origine delle università — Il risorgimento della civiltà moderna — Influenza del Cristianesimo — Profonda ignoranza nei primi secoli del medio evo — La Chiesa e la civiltà — I monasteri conservano le tradizioni della coltura antica — Scuole ecclesiastiche — Primi segni dell'insegnamento laico — Le tradizioni giuridiche in Italia — La scuola di diritto fondata in Pavia dai re Longobardi — Capitolare di Lotario — Diffusione delle scuole laiche — La scuola medica di Salerno — Risorgimento del diritto romano — Irnerio e la sua scuola — Origini dell'università di Bologna — Fondazione delle altre università italiane — Federigo II e l'università di Napoli（1）
+2. AVVERTENZA Pag. VII INTRODUZIONE — ORIGINE DELLE UNIVERSITÀ — Importanza degli studii relativi alle università — Gli storici delle università antiche — Opinione nostra sulla vera origine delle università — Il risorgimento della civiltà moderna — Influenza del Cristianesimo — Profonda ignoranza nei primi secoli del medio evo — La Chiesa e la civiltà — I monasteri conservano le tradizioni della coltura antica — Scuole ecclesiastiche — Primi segni dell'insegnamento laico — Le tradizioni giuridiche in Italia — La scuola di diritto fondata in Pavia dai re Longobardi — Capitolare di Lotario — Diffusione delle scuole laiche — La scuola medica di Salerno — Risorgimento del diritto romano — Irnerio e la sua scuola — Origini dell'università di Bologna — Fondazione delle altre università italiane — Federigo II e l'università di Napoli（2）
+3. AVVERTENZA Pag. VII INTRODUZIONE — ORIGINE DELLE UNIVERSITÀ — Importanza degli studii relativi alle università — Gli storici delle università antiche — Opinione nostra sulla vera origine delle università — Il risorgimento della civiltà moderna — Influenza del Cristianesimo — Profonda ignoranza nei primi secoli del medio evo — La Chiesa e la civiltà — I monasteri conservano le tradizioni della coltura antica — Scuole ecclesiastiche — Primi segni dell'insegnamento laico — Le tradizioni giuridiche in Italia — La scuola di diritto fondata in Pavia dai re Longobardi — Capitolare di Lotario — Diffusione delle scuole laiche — La scuola medica di Salerno — Risorgimento del diritto romano — Irnerio e la sua scuola — Origini dell'università di Bologna — Fondazione delle altre università italiane — Federigo II e l'università di Napoli（3）
+4. CAPITOLO PRIMO — Costituzione delle università — Atti che precedevano la loro fondazione — Inviti ai professori e agli scolari — Editto ai sudditi — Riconoscimento sovrano — Le università causa di pubblica ricchezza — Frequenza degli scolari — Gradi di nobiltà dei dottori e degli scolari — Divisione delle università in nazioni — Ultramontani e Citramontani — Primato dell'università dei giuristi sopra quella degli artisti — Discordie cui dette luogo — Editto di Emanuele Filiberto — Iscrizione degli scolari stranieri nelle matricole universitarie — Fonti della legislazione scolastica medioevale — Mantenimento delle università e loro entrate ordinarie — Influenza ecclesiastica negli studii
+5. CAPITOLO SECONDO — Persone che formavano l'università — Il Rettore — Origine di questo ufficio e sua importanza — Elezione del Rettore — Il Sindaco — Natura di questo ufficio e privilegi che vi erano annessi — I Consiglieri rappresentanti delle nazioni degli scolari — Il Notaro — Gli Attuari o Archivisti — Il Massaro o tesoriere — I Peziarii — Gli Stazionari — I Bidelli — I copisti e miniatori di libri
+6. CAPITOLO TERZO — Privilegi universitarii — L'Autentica di Federigo I fondamento dei privilegi scolastici — Immunità concesse alla nazione tedesca — Giurisdizione civile e criminale concessa ai dottori sugli scolari — Privilegio della cittadinanza — Esenzione dal servizio militare — Esenzione dalle imposte e gabelle — Inviolabilità personale e degli averi — Banche di prestito per gli scolari — Abitazioni riserbate agli Scolari — Altri privilegi secondarii
+7. CAPITOLO QUARTO — Origine dei gradi accademici — Antichità della parola _dottore_ e dell'uso della laurea — Qualità richieste per ottenere il grado di dottore — Gradi accademici minori — Il baccellierato — La licenza — Esperimenti che precedevano il conferimento della laurea — Solennità colla quale si festeggiava il giorno della laurea — Spese per ottenere il grado di dottore — Diverse specie di lauree — Privilegi e diritti propri del grado di dottore
+8. CAPITOLO QUINTO — I dottori ordinari e straordinari — Modo con cui si eleggevano gl'insegnanti nelle università del medio evo — I liberi docenti — Prime limitazioni alla libertà d'insegnamento — I dottori forestieri (forenses) e i cittadini — Nomina dei dottori fatta dalle università — Ingerenza dello Stato nella elezione dei dottori — Dei modi di retribuzione dei pubblici insegnanti — Offerte spontanee e «collectae» degli scolari — Parziale intervento dei Comuni nel mantenimento dei dottori — Esclusiva ingerenza dello Stato — Esempi più antichi di dottori stipendiati dal pubblico erario — Abolizione delle collette — Capitali anticipati ai dottori a titolo di retribuzione — Assegni straordinari oltre gli stipendi — Criteri di repartizione dei pubblici stipendi
+9. CAPITOLO SESTO — Significato della parola «lettura» — Come si distinguevano le lezioni nelle antiche università — Lezioni mattutine, meridiane e pomeridiane — Ordinarie e straordinarie — Teoriche e pratiche — Di primo, secondo e terzo grado — Pubbliche e private — Obbligo dei dottori d'essere assidui alle lezioni e pene minacciate ai negligenti — Segreta sorveglianza dei bidelli — Inaugurazione delle scuole e vacanze — I concorrenti o antagonisti — I circoli, dispute e ripetizioni — Ordine delle dispute e persone che vi prendevano parte — Il pubblico insegnamento nel medio evo — Scelta di un buon insegnante — Numero delle cattedre — Carattere educativo della scienza — Insegnamento orale — Concorso degli scolari nell'insegnamento — I ripetitori
+10. CAPITOLO SETTIMO — La vita scolastica nel medio evo — Importanza degli scolari nelle università italiane — Loro spirito turbolento — Esempi di vita licenziosa e di indisciplinatezza — Leggi repressive contro i disordini degli scolari — Le feste scolastiche — Avventure amorose degli scolari — Collegi pel mantenimento degli scolari poveri — Vesti speciali riserbate agli scolari e ai dottori — Discordie politiche nelle università — Rapporti fra gl'insegnanti e gli scolari nelle università antiche — Loro affetto reciproco — Vita e costumi dei dottori — Moltiplicità di uffici dei dottori — Loro avidità di guadagno — Carattere fiero e turbolento dei dottori — Discordie nelle scuole — I plagi — Facezie e motti di famosi insegnanti
 
-> 共 38 题，[完整目录与正文 →](https://www.bqgmz.top/b/d306d89d6ab9/)
+> 共 12 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d306d89d6ab9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

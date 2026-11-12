@@ -1,7 +1,7 @@
 # The Seer of Slabsides
 
-**作者** Sharp, Dallas Lore, 1870-1929 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 10 题 · 40,244 字 ｜ **来源** Project Gutenberg
+**作者** Sharp, Dallas Lore, 1870-1929 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 3 篇 · 40,244 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d64e5a581d0c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（40,244 字）。 |
-| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,024 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（通用标记切分），拼接正文 971 行。 |
+| 篇幅分布 | 平均每篇 11,816 字。 |
 | 原文溯源 | `cache/epub/43846/pg43846.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 篇）
 
-1. THE SEER OF SLABSIDES
-2. THE SEER OF SLABSIDES
-3. THE SEER OF SLABSIDES
-4. II
-5. III
-6. Always your friend
-7. JOHN BURROUGHS
-8. THE END
-9. The Riverside Press
-10. End of Project Gutenberg's The Seer of Slabsides, by Dallas Lore Sharp
+1. II
+2. III
+3. JOHN BURROUGHS
 
-> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/d64e5a581d0c/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d64e5a581d0c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

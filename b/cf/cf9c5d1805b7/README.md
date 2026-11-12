@@ -1,7 +1,7 @@
 # The common sense of sex
 
-**作者** Oppenheim, James, 1882-1932; Haldeman-Julius, E. (Emanuel), 1888-1951 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 15 题 · 56,251 字 ｜ **来源** Project Gutenberg
+**作者** Oppenheim, James, 1882-1932; Haldeman-Julius, E. (Emanuel), 1888-1951 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 9 篇 · 56,251 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cf9c5d1805b7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（56,251 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,750 字。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（通用标记切分），拼接正文 1,319 行。 |
+| 篇幅分布 | 平均每篇 6,205 字；最长 SEXUALITY AND THE FOUR FUNCTIONS（11,530 字），最短 NOTE（506 字）。 |
 | 原文溯源 | `cache/epub/76836/pg76836.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 篇）
 
-1. The Common Sense of Sex
-2. James Oppenheim
-3. PRINTED IN THE UNITED STATES OF AMERICA
-4. THE COMMON SENSE OF SEX
-5. ABNORMAL SEXUALITY
-6. I will reserve the treatment of the abnormal for a later chapter.
-7. THE THIRD SEX
-8. THE ART OF LOVE
-9. SEXUALITY AND THE FOUR FUNCTIONS
-10. MISPLACED ENERGY
+1. THE COMMON SENSE OF SEX
+2. ABNORMAL SEXUALITY
+3. THE THIRD SEX
+4. THE ART OF LOVE
+5. SEXUALITY AND THE FOUR FUNCTIONS
+6. MISPLACED ENERGY
+7. THE COMMON SENSE OF IT
+8. SOME THINGS TO DO
+9. NOTE
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/cf9c5d1805b7/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/cf9c5d1805b7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Elämäni taipaleelta
 
-**作者** Lounasmaa, Viktor, 1843-1909 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 48 题 · 415,529 字 ｜ **来源** Project Gutenberg
+**作者** Lounasmaa, Viktor, 1843-1909 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 20 章 · 415,529 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d8b78e53b204/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（415,529 字）。 |
-| 分章依据 | 按「题」标记切分为 48 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,656 字。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-roman-bare），拼接正文 8,241 行。 |
+| 篇幅分布 | 平均每章 20,747 字；最长 XIV.（60,358 字），最短 VI.（9,054 字）。 |
+| 起止 | 始于「I.」，止于「XXI.」。 |
 | 原文溯源 | `cache/epub/71161/pg71161.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. ELÄMÄNI TAIPALEELTA
-2. Muistelmia
-3. V. LOUNASMAA
-4. SISÄLLYS:
-5. I.
-6. LAPSUUTENI KODIT.
-7. II.
-8. KOULUSSA.
-9. III.
-10. POHJAN PERILLÄ.
+1. I.
+2. II.
+3. III.
+4. IV
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 48 题，[完整目录与正文 →](https://www.bqgmz.top/b/d8b78e53b204/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/d8b78e53b204/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

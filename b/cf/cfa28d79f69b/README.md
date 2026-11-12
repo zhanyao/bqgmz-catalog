@@ -1,7 +1,7 @@
 # Modernste Kriegswaffen - alte Erfindungen
 
-**作者** Feldhaus, Franz M. (Franz Maria), 1874-1959? ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 8 题 · 228,995 字 ｜ **来源** Project Gutenberg
+**作者** Feldhaus, Franz M. (Franz Maria), 1874-1959? ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 139 章 · 228,995 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cfa28d79f69b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（228,995 字）。 |
-| 分章依据 | 按「题」标记切分为 8 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 28,624 字；最长 Oben: von oben gesehen. Unten: von der Seite gesehen.]（86,630 字），最短 Berlin-Friedenau, September 1915（581 字）。 |
+| 分章依据 | 按「章」标记切分为 139 章（auto-num），拼接正文 5,990 行。 |
+| 篇幅分布 | 平均每章 1,601 字。 |
+| 起止 | 始于「1.」，止于「139.」。 |
 | 原文溯源 | `cache/epub/51851/pg51851.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 题）
+## 章节目录（前 10 章）
 
-1. Verlag Abel u. Müller ⸫ Leipzig
-2. Berlin-Friedenau, September 1915
-3. Inhaltsverzeichnis
-4. Zeichnung von etwa 1480]
-5. Malerei aus der Kyeserschen Handschrift vom Jahr 1405.]
-6. Oben: von oben gesehen. Unten: von der Seite gesehen.]
-7. Nach der Patentschrift von Hulls.]
-8. 100 Jahre Suppentafeln.
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 8 题，[完整目录与正文 →](https://www.bqgmz.top/b/cfa28d79f69b/)
+> 共 139 章，[完整目录与正文 →](https://www.bqgmz.top/b/cfa28d79f69b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

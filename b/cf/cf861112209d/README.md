@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（362,642 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 45,330 字；最长 CHAPTER V（60,161 字），最短 CHAPTER II（27,391 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 6,665 行。 |
+| 篇幅分布 | 平均每章 45,203 字；最长 CHAPTER VII.（105,683 字），最短 NOTES:（5,345 字）。 |
 | 原文溯源 | `cache/epub/10378/pg10378.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
@@ -24,9 +24,9 @@
 5. CHAPTER V
 6. CHAPTER VI.
 7. CHAPTER VII.
-8. This duty having been performed, my prin
+8. NOTES:
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/cf861112209d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Biography of Percival Lowell
 
 **作者** Lowell, A. Lawrence (Abbott Lawrence), 1856-1943 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 296,078 字 ｜ **来源** Project Gutenberg
+**规模** 20 章 · 296,078 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d3b3967d2df3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（296,078 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,448 字；最长 CHAPTER XVIIII（69,415 字），最短 CHAPTER IV（3,112 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XVIIII」。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 6,173 行。 |
+| 篇幅分布 | 平均每章 14,585 字；最长 CHAPTER XVIIII（36,161 字），最短 CHAPTER IV（3,112 字）。 |
 | 原文溯源 | `cache/epub/51900/pg51900.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/d3b3967d2df3/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/d3b3967d2df3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

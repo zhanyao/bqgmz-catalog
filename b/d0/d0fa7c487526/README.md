@@ -1,7 +1,7 @@
 # Personal Memoirs of P. H. Sheridan, General, United States Army — Volume 2
 
-**作者** Sheridan, Philip Henry, 1831-1888 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 456,030 字 ｜ **来源** Project Gutenberg
+**作者** Sheridan, Philip Henry, 1831-1888 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 31 篇 · 456,030 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d0fa7c487526/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（456,030 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 25,335 字；最长 CHAPTER III.（79,638 字），最短 CHAPTER XVII（14,248 字）。 |
-| 起止 | 始于「CHAPTER III.」，止于「CHAPTER XX.」。 |
+| 分章依据 | 按「篇」标记切分为 31 篇（通用标记切分），拼接正文 9,509 行。 |
+| 篇幅分布 | 平均每篇 14,707 字；最长 ORGANIZING SCOUTS--MISS REBECCA WRIGHT--IMPORTANT INFORMATION--DECIDE（33,957 字），最短 "GENERAL:（432 字）。 |
 | 原文溯源 | `cache/epub/2652/pg2652.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER III.
-2. CHAPTER IV.
-3. CHAPTER V.
-4. CHAPTER VI.
-5. CHAPTER VII.
-6. CHAPTER VIII.
-7. CHAPTER IX.
-8. CHAPTER X.
-9. CHAPTER XI.
-10. CHAPTER XII.
+1. ORGANIZING SCOUTS--MISS REBECCA WRIGHT--IMPORTANT INFORMATION--DECIDE
+2. "BREVET MAJOR-GENERAL AVERELL
+3. REASONS FOR NOT PURSUING EARLY THROUGH THE BLUE RIDGE--GENERAL
+4. "MAJOR-GENERAL SHERIDAN:
+5. "GENERAL:
+6. [INCLOSURE.] "To LIEUTENANT-GENERAL EARLY:
+7. GENERAL EARLY REORGANIZES HIS FORCES--MOSBY THE GUERRILLA--GENERAL
+8. TRANSFERRED TO PETERSBURG--GENERAL RAWLINS CORDIAL WELCOME--GENERAL
+9. "MAJOR-GENERAL P. H. SHERIDAN:
+10. "MAJOR-GENERAL SHERIDAN:
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/d0fa7c487526/)
+> 共 31 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d0fa7c487526/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

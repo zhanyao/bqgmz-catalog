@@ -1,7 +1,7 @@
 # Nordmanna-Mystik: Bilder Från Nordens Forntid
 
-**作者** Bååth, A. U. (Albert Ulrik), 1853-1912 ｜ **国家/地区** 瑞典 ｜ **体例** 题  
-**规模** 41 题 · 249,932 字 ｜ **来源** Project Gutenberg
+**作者** Bååth, A. U. (Albert Ulrik), 1853-1912 ｜ **国家/地区** 瑞典 ｜ **体例** 章  
+**规模** 6 章 · 249,932 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e070c8d3a64f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（249,932 字）。 |
-| 分章依据 | 按「题」标记切分为 41 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,095 字。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-roman-bare），拼接正文 7,642 行。 |
+| 篇幅分布 | 平均每章 40,987 字。 |
+| 起止 | 始于「I.」，止于「III.（部2）」。 |
 | 原文溯源 | `cache/epub/52789/pg52789.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 章）
 
-1. NORDMANNA-MYSTIK
-2. BILDER
-3. FRÅN NORDENS FORNTID
-4. AF
-5. A. U. BÅÅTH
-6. STOCKHOLM
-7. IVAR HÆGGSTRÖMS BOKTRYCKERI, 1898.
-8. I.
-9. SKYDDSANDAR
-10. OCH
+1. I.
+2. II.
+3. III.
+4. I.（部2）
+5. II.（部2）
+6. III.（部2）
 
-> 共 41 题，[完整目录与正文 →](https://www.bqgmz.top/b/e070c8d3a64f/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/e070c8d3a64f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

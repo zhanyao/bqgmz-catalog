@@ -1,7 +1,7 @@
 # Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No. 19, Vol. I, May 10, 1884
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 81,720 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 8 篇 · 81,720 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d9ef5f2d537b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（81,720 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,430 字。 |
+| 分章依据 | 按「篇」标记切分为 8 篇（auto-magazine），拼接正文 1,743 行。 |
+| 篇幅分布 | 平均每篇 10,215 字。 |
 | 原文溯源 | `cache/epub/65598/pg65598.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 8 篇）
 
-1. Among the ancients, suicide was very frequently resorted to,
-2. So Frank Abbot came back from Switzerland to begin the world
-3. Tea if taken in excess is indigestible and nerve-destroying;
-4. Say what the burden of that patient strain
+1. CONDUCTED BY R. CHAMBERS (SECUNDUS)
+2. ‘CORNERS.’
+3. CHAPTER XXVII.—WHY IS SHE SO?
+4. SUICIDE
+5. IN THREE CHAPTERS.—CHAPTER II
+6. OUTWARD AND HOMEWARD BOUND
+7. WHY DO WE NOW DRINK LESS COFFEE?
+8. ABNORMAL HUMANITY
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/d9ef5f2d537b/)
+> 共 8 篇，[完整目录与正文 →](https://www.bqgmz.top/b/d9ef5f2d537b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

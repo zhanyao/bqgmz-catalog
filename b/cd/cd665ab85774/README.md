@@ -1,7 +1,7 @@
 # The Grasshopper Stories
 
-**作者** Leavitt, Elizabeth Davis; Doan, Maude Dewey, 1874-1947 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 5 题 · 14,820 字 ｜ **来源** Project Gutenberg
+**作者** Leavitt, Elizabeth Davis; Doan, Maude Dewey, 1874-1947 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 14,820 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cd665ab85774/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（14,820 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,964 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 539 行。 |
+| 篇幅分布 | 平均每篇 14,820 字。 |
 | 原文溯源 | `cache/epub/20315/pg20315.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 1 篇）
 
 1. The Grasshopper Stories
-2. THE WISE GRASSHOPPER
-3. A HAPPY DAY
-4. THE LITTLE PIECE OF PINK WORSTED
-5. End of Project Gutenberg's The Grasshopper Stories, by Elizabeth Davis Leavitt
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/cd665ab85774/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/cd665ab85774/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

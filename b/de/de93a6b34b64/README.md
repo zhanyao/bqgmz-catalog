@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（337,638 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,117 字；最长 CHAPTER X. SIR TRISTRAM.（43,017 字），最短 CHAPTER VIII SIR GAWAINE AND THE GREEN KNIGHT.（13,017 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 7,546 行。 |
+| 篇幅分布 | 平均每章 23,842 字；最长 CHAPTER X. SIR TRISTRAM.（43,017 字），最短 CHAPTER VIII SIR GAWAINE AND THE GREEN KNIGHT.（13,017 字）。 |
 | 起止 | 始于「CHAPTER I. MERLIN THE WIZARD.」，止于「CHAPTER XIV. THE END OF THE HISTORY OF THE ROUND TABLE, AND THE PASSING」。 |
 | 原文溯源 | `cache/epub/44426/pg44426.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/de93a6b34b64/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

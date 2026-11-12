@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（181,056 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 30,176 字；最长 CHAPTER II.--KINDRED TALES FROM DIVERS LANDS: EROS AND PSYCHE.（50,665 字），最短 CHAPTER VI.--CONCLUSION: SOME POPULAR TALES EXPLAINED.（9,630 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 3,501 行。 |
+| 篇幅分布 | 平均每章 29,814 字；最长 CHAPTER II.--KINDRED TALES FROM DIVERS LANDS: EROS AND PSYCHE.（50,665 字），最短 CHAPTER VI.--CONCLUSION: SOME POPULAR TALES EXPLAINED.（8,947 字）。 |
 | 起止 | 始于「CHAPTER I.--ORIGIN OF FAIRY STORIES.」，止于「CHAPTER VI.--CONCLUSION: SOME POPULAR TALES EXPLAINED.」。 |
 | 原文溯源 | `cache/epub/8226/pg8226.txt`（Project Gutenberg） |
 
@@ -28,4 +28,4 @@
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/d577dd971400/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

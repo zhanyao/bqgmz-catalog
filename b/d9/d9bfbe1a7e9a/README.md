@@ -1,7 +1,7 @@
 # Michelangelo（#57131）
 
-**作者** Knackfuss, H. (Hermann), 1848-1915 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 9 段 · 197,677 字 ｜ **来源** Project Gutenberg
+**作者** Knackfuss, H. (Hermann), 1848-1915 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 5 部分 · 197,677 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d9bfbe1a7e9a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（197,677 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,964 字；最长 Indessen sah sich Michelangelo in der Hoffnung, daß der Kard（37,063 字），最短 Der Name der Vittoria Colonna ist der Nachwelt wohl durch ni（18,681 字）。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 3,846 行。 |
+| 篇幅分布 | 平均每部分 39,535 字；最长 第 3 部分（43,342 字），最短 第 5 部分（25,142 字）。 |
 | 原文溯源 | `cache/epub/57131/pg57131.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 5 部分）
 
-1. Indessen sah sich Michelangelo in der Hoffnung, daß der Kard
-2. Nach der Vollendung des David galt Michelangelo unbestritten
-3. Michelangelo hoffte noch immer auf die Ausführung des Grabma
-4. Daß die Erlösung kommen würde, ward dem Menschengeschlecht v
-5. Leider ist die Zeit nicht spurlos vorübergegangen an Michela
-6. Dieses Unternehmen war unter den großen Enttäuschungen, welc
-7. [Illustration: Abb. 54. +Skizze zur Mediceischen Madonna.+
-8. Die Bilder der beiden Herzöge, die übrigens kaum als eigentl
-9. Der Name der Vittoria Colonna ist der Nachwelt wohl durch ni
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/d9bfbe1a7e9a/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/d9bfbe1a7e9a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

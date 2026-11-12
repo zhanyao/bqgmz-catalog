@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（197,676 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,964 字；最长 CHAPTER IV. A CELEBRATED MAN（27,518 字），最短 CHAPTER II. A CONFIDENCE BETWEEN SISTERS（10,556 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 4,656 行。 |
+| 篇幅分布 | 平均每章 21,807 字；最长 CHAPTER IV. A CELEBRATED MAN（27,518 字），最短 CHAPTER II. A CONFIDENCE BETWEEN SISTERS（10,556 字）。 |
 | 起止 | 始于「CHAPTER I. THE TWO MARIES」，止于「CHAPTER IX. THE HUSBAND’S TRIUMPH」。 |
 | 原文溯源 | `cache/epub/1481/pg1481.txt`（Project Gutenberg） |
 
@@ -31,4 +31,4 @@
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/d3d26ed9bd64/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

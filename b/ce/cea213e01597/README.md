@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（366,225 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,439 字；最长 CHAPTER XX. THE DECISION OF HEAVEN（21,010 字），最短 CHAPTER XXI. THE COMING OF THE DREAM（7,050 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 9,588 行。 |
+| 篇幅分布 | 平均每章 17,410 字；最长 CHAPTER XX. THE DECISION OF HEAVEN（21,010 字），最短 CHAPTER XXI. THE COMING OF THE DREAM（7,050 字）。 |
 | 起止 | 始于「CHAPTER I. THE QUEEN’S GOOD-BY」，止于「CHAPTER XXI. THE COMING OF THE DREAM」。 |
 | 原文溯源 | `cache/epub/1145/pg1145.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/cea213e01597/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

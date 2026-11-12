@@ -1,7 +1,7 @@
 # A Modern History, From the Time of Luther to the Fall of Napoleon For the Use of Schools and Colleges
 
 **作者** Lord, John, 1810-1894 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 32 章 · 1,069,813 字 ｜ **来源** Project Gutenberg
+**规模** 33 章 · 1,069,813 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/db19cdd1634f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,069,813 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 33,431 字；最长 CHAPTER XII.（94,247 字），最短 CHAPTER VIII.（10,782 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXII.」。 |
+| 分章依据 | 按「章」标记切分为 33 章（auto-chapter），拼接正文 22,712 行。 |
+| 篇幅分布 | 平均每章 31,913 字；最长 CHAPTER XII.（94,247 字），最短 CHAPTER VIII.（10,782 字）。 |
 | 原文溯源 | `cache/epub/24598/pg24598.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/db19cdd1634f/)
+> 共 33 章，[完整目录与正文 →](https://www.bqgmz.top/b/db19cdd1634f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

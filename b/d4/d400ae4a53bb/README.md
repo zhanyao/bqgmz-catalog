@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（560,200 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 40,014 字；最长 CHAPTER V.（72,118 字），最短 CHAPTER II.（24,891 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 12,194 行。 |
+| 篇幅分布 | 平均每章 39,634 字；最长 CHAPTER IX. MARY BEATRICE OF MODENA, QUEEN-CONSORT OF JAMES II.（108,399 字），最短 CHAPTER I. MARY, FIRST QUEEN-REGNANT OF ENGLAND AND IRELAND.（23,001 字）。 |
 | 起止 | 始于「CHAPTER I. MARY, FIRST QUEEN-REGNANT OF ENGLAND AND IRELAND.」，止于「CHAPTER XIV.」。 |
 | 原文溯源 | `cache/epub/47122/pg47122.txt`（Project Gutenberg） |
 
@@ -23,13 +23,13 @@
 3. CHAPTER III. ELIZABETH, SECOND QUEEN-REGNANT OF ENGLAND AND IRELAND.
 4. CHAPTER IV.
 5. CHAPTER V.
-6. CHAPTER VII. CATHARINE OF BRAGANZA, QUEEN OF CHARLES II., KING OF GREAT
-7. CHAPTER VIII.
-8. CHAPTER IX. MARY BEATRICE OF MODENA, QUE
-9. Mary Beatrice kept up a regular correspo
+6. CHAPTER VI. HENRIETTA MARIA, QUEEN-CONSORT OF CHARLES I., KING OF GREAT BRITAIN AND IRELAND
+7. CHAPTER VII. CATHARINE OF BRAGANZA, QUEEN OF CHARLES II., KING OF GREAT
+8. CHAPTER VIII.
+9. CHAPTER IX. MARY BEATRICE OF MODENA, QUEEN-CONSORT OF JAMES II.
 10. CHAPTER X. MARY II., QUEEN-REGENT OF GREAT BRITAIN AND IRELAND.
 
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/d400ae4a53bb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

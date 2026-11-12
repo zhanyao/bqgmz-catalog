@@ -1,7 +1,7 @@
 # The First Capture; or, Hauling Down the Flag of England
 
 **作者** Castlemon, Harry, 1842-1915 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 19 章 · 206,594 字 ｜ **来源** Project Gutenberg
+**规模** 20 章 · 206,594 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/e21c056cc09c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（206,594 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,873 字；最长 CHAPTER XIX.（23,498 字），最短 CHAPTER III.（8,988 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XIX.」。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 5,548 行。 |
+| 篇幅分布 | 平均每章 10,294 字；最长 CHAPTER XIX.（19,884 字），最短 Notes have been added by the translator, greatly enhancing the interest（3,614 字）。 |
 | 原文溯源 | `cache/epub/42113/pg42113.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/e21c056cc09c/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/e21c056cc09c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

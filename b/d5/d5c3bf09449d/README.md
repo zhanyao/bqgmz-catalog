@@ -1,7 +1,7 @@
 # Pyhän Klaaran kaivolla
 
-**作者** France, Anatole, 1844-1924; Hollo, J. A. (Juho Aukusti), 1885-1967 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 37 题 · 248,360 字 ｜ **来源** Project Gutenberg
+**作者** France, Anatole, 1844-1924; Hollo, J. A. (Juho Aukusti), 1885-1967 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 20 章 · 248,360 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d5c3bf09449d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（248,360 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,712 字。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-num），拼接正文 5,958 行。 |
+| 篇幅分布 | 平均每章 8,409 字；最长 16（部2）（51,453 字），最短 8（部2）（1,208 字）。 |
 | 原文溯源 | `cache/epub/70933/pg70933.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. PYHÄN KLAARAN KAIVOLLA
-2. Anatole France
-3. Suomentanut
-4. J. Hollo
-5. SISÄLLYS:
-6. PROLOGI
-7. KUNNIANARVOINEN ISÄ ADONE DONI
-8. Pyhä satyyri
-9. Messer Guido Cavalcanti
-10. Lucifer
+1. 1
+2. 2
+3. 3
+4. 4
+5. 1（部2）
+6. 2（部2）
+7. 3（部2）
+8. 4（部2）
+9. 5（部2）
+10. 6（部2）
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/d5c3bf09449d/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/d5c3bf09449d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

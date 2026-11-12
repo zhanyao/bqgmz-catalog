@@ -1,7 +1,7 @@
 # Tre racconti sentimentali
 
-**作者** Bettoni, Paolo ｜ **国家/地区** 意大利 ｜ **体例** 段  
-**规模** 6 段 · 139,745 字 ｜ **来源** Project Gutenberg
+**作者** Bettoni, Paolo ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 6 章 · 139,745 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cf02cc088140/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（139,745 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,290 字；最长 Il più astuto e maligno di questi corvi era Tribolo, il qual（38,928 字），最短 Antonio si fermò dinanzi ad un modesto caffè nella contrada （14,164 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-roman-bare），拼接正文 2,953 行。 |
+| 篇幅分布 | 平均每章 8,207 字；最长 VI.（15,750 字），最短 III.（4,010 字）。 |
+| 起止 | 始于「I.」，止于「VI.」。 |
 | 原文溯源 | `cache/epub/17874/pg17874.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 6 章）
 
-1. Il più astuto e maligno di questi corvi era Tribolo, il qual
-2. Antonio si fermò dinanzi ad un modesto caffè nella contrada
-3. Alla sera dello stesso giorno ci trovammo in un piccolo vill
-4. «Io voleva avere un'occupazione; non tanto per guadagnarmi i
-5. --Te ne fo le mie congratulazioni. Ah ah, tu sei ambizioso!
-6. Da qualche tempo si era operato in Faustino un cambiamento,
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/cf02cc088140/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/cf02cc088140/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Mormon Prophet and His Harem Or, An Authentic History of Brigham Young, His Numerous Wives and Children
 
 **作者** Waite, C. V. (Catherine Van Valkenburg), 1829-1913 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 19 章 · 495,796 字 ｜ **来源** Project Gutenberg
+**规模** 16 章 · 495,796 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/dfe295e911f6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（495,796 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,094 字。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 12,164 行。 |
+| 篇幅分布 | 平均每章 30,324 字；最长 CHAPTER VI.（61,355 字），最短 CHAPTER I.（15,895 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XV.（部2）」。 |
 | 原文溯源 | `cache/epub/44414/pg44414.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +27,9 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
-10. CHAPTER X.
+10. SECTION 1. "Verily, thus saith the Lord unto you, my servant Joseph,（部2）
 
-> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/dfe295e911f6/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/dfe295e911f6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The works of the Rev. John Wesley, Vol. 15 (of 32)
 
-**作者** Wesley, John, 1703-1791 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 21 段 · 422,105 字 ｜ **来源** Project Gutenberg
+**作者** Wesley, John, 1703-1791 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 11 部分 · 422,105 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/db1366267198/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（422,105 字）。 |
-| 分章依据 | 按「段」标记切分为 21 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,100 字；最长 _Greedy dogs, which can never have enough, and they are shep（40,008 字），最短 Page 57, line 21, replace secret_e_（1,479 字）。 |
+| 分章依据 | 按「部分」标记切分为 11 部分（fallback-chunk），拼接正文 10,134 行。 |
+| 篇幅分布 | 平均每部分 38,373 字；最长 第 9 部分（41,565 字），最短 第 11 部分（9,206 字）。 |
 | 原文溯源 | `cache/epub/77550/pg77550.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. _Greedy dogs, which can never have enough, and they are shep
-2. “Thus I have shewn you, in part, _what belongs to your offic
-3. And what redress? Suppose a great man to oppress the needy?
-4. * Alas, my brother! Is this the voice of a _minister of_ Chr
-5. * Alas! my brethren! Know ye not, that your ancestors design
-6. And can the supreme Being love those tempers, which you your
-7. Nor is their religion more _pure_ from _heresy_, than it is
-8. * What do you mean? “They think none can be saved, but those
-9. 18. There is one more _excuse_ for denying this work of God,
-10. 1. A great part of these went to _no church_ at all, before
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 21 段，[完整目录与正文 →](https://www.bqgmz.top/b/db1366267198/)
+> 共 11 部分，[完整目录与正文 →](https://www.bqgmz.top/b/db1366267198/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

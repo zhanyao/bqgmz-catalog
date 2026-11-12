@@ -1,7 +1,7 @@
 # Lavengro: The Scholar, the Gypsy, the Priest（#23287）
 
 **作者** Borrow, George, 1803-1881; Knapp, William I. (William Ireland), 1835-1908 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 100 章 · 1,056,679 字 ｜ **来源** Project Gutenberg
+**规模** 101 章 · 1,056,679 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d26a436b8d62/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,056,679 字）。 |
-| 分章依据 | 按「章」标记切分为 100 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,566 字；最长 CHAPTER C.（52,039 字），最短 CHAPTER LXI.（2,183 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER C.」。 |
+| 分章依据 | 按「章」标记切分为 101 章（auto-chapter），拼接正文 24,737 行。 |
+| 篇幅分布 | 平均每章 10,335 字；最长 NOTES TO _LAVENGRO_,（42,585 字），最短 CHAPTER LXI.（2,183 字）。 |
 | 原文溯源 | `cache/epub/23287/pg23287.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 100 章，[完整目录与正文 →](https://www.bqgmz.top/b/d26a436b8d62/)
+> 共 101 章，[完整目录与正文 →](https://www.bqgmz.top/b/d26a436b8d62/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Lafcadio Hearn
 
 **作者** Kennard, Nina H., 1844-1926 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 26 章 · 524,820 字 ｜ **来源** Project Gutenberg
+**规模** 27 章 · 524,820 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/d42f20a51a04/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（524,820 字）。 |
-| 分章依据 | 按「章」标记切分为 26 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,185 字；最长 CHAPTER XXVI（71,752 字），最短 CHAPTER VIII（7,397 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXVI」。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-chapter），拼接正文 11,882 行。 |
+| 篇幅分布 | 平均每章 18,832 字；最长 CHAPTER XIX（47,180 字），最短 CHAPTER VIII（7,397 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXVIII」。 |
 | 原文溯源 | `cache/epub/33345/pg33345.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/d42f20a51a04/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/d42f20a51a04/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

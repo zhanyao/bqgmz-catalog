@@ -1,7 +1,7 @@
 # Brighter Britain! (Volume 1 of 2) or Settler and Maori in Northern New Zealand
 
 **作者** Hay, W. Delisle (William Delisle), 1851- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 12 章 · 359,197 字 ｜ **来源** Project Gutenberg
+**规模** 13 章 · 359,197 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/dd981bda4f86/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（359,197 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 29,933 字；最长 CHAPTER II.（44,112 字），最短 CHAPTER VII.（22,673 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XII.」。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 7,765 行。 |
+| 篇幅分布 | 平均每章 27,376 字；最长 CHAPTER II.（44,112 字），最短 notes of wrath, or tearing up the ground, and sending splinters flying（4,996 字）。 |
 | 原文溯源 | `cache/epub/29070/pg29070.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/dd981bda4f86/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/dd981bda4f86/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
