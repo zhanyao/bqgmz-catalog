@@ -1,7 +1,7 @@
 # My diary in Serbia: April 1, 1915-Nov. 1, 1915
 
-**作者** Stanley, Monica M., 1879-1972 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 161 题 · 137,532 字 ｜ **来源** Project Gutenberg
+**作者** Stanley, Monica M., 1879-1972 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 4 部分 · 137,532 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ba65696a8291/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（137,532 字）。 |
-| 分章依据 | 按「题」标记切分为 161 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 854 字。 |
+| 分章依据 | 按「部分」标记切分为 4 部分（fallback-chunk），拼接正文 3,474 行。 |
+| 篇幅分布 | 平均每部分 34,383 字。 |
 | 原文溯源 | `cache/epub/33001/pg33001.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 部分）
 
-1. MY DIARY IN SERBIA
-2. April 1, 1915--Nov. 1, 1915
-3. April 1, 1915--Nov. 1, 1915
-4. ILLUSTRATED WITH PHOTOS
-5. COPYRIGHT.
-6. PREFACE
-7. MONICA M. STANLEY.
-8. SERBIA'S GREAT NEED
-9. MY DIARY IN SERBIA
-10. Thursday, _April 1, 1915._
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
 
-> 共 161 题，[完整目录与正文 →](https://www.bqgmz.top/b/ba65696a8291/)
+> 共 4 部分，[完整目录与正文 →](https://www.bqgmz.top/b/ba65696a8291/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

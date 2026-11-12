@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（798,252 字）。 |
-| 分章依据 | 按「章」标记切分为 28 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,509 字；最长 CHAPTER XVIII. THE RIDDLE OF CAUSATION（48,081 字），最短 CHAPTER VI. “WATCHMAN, WHAT OF THE NIGHT?”（16,634 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-chapter），拼接正文 19,362 行。 |
+| 篇幅分布 | 平均每章 28,480 字；最长 CHAPTER XVIII. THE RIDDLE OF CAUSATION（48,081 字），最短 CHAPTER VI. “WATCHMAN, WHAT OF THE NIGHT?”（16,634 字）。 |
 | 起止 | 始于「CHAPTER I. THE WARING PROBLEMS」，止于「CHAPTER XXVIII. LIGHT」。 |
 | 原文溯源 | `cache/epub/5364/pg5364.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/b633eee8ebbb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

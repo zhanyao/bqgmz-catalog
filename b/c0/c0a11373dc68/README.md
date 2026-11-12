@@ -1,7 +1,7 @@
 # Our Greatest Battle (The Meuse-Argonne)
 
-**作者** Palmer, Frederick, 1873-1958 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 76 题 · 696,278 字 ｜ **来源** Project Gutenberg
+**作者** Palmer, Frederick, 1873-1958 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 33 章 · 696,278 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c0a11373dc68/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（696,278 字）。 |
-| 分章依据 | 按「题」标记切分为 76 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,161 字。 |
+| 分章依据 | 按「章」标记切分为 33 章（auto-roman-bare），拼接正文 14,836 行。 |
+| 篇幅分布 | 平均每章 20,271 字；最长 XXXI（34,732 字），最短 III（9,974 字）。 |
 | 原文溯源 | `cache/epub/49205/pg49205.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. OUR GREATEST BATTLE
-2. TO THE READER
-3. FREDERICK PALMER.
-4. CONTENTS
-5. CHAPTER PAGE
-6. TABLE OF MAPS
-7. FACING PAGE
-8. 7.--In the Trough of the Aire 266
-9. 9.--Divisions east of the Meuse 348
-10. OUR GREATEST BATTLE
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 76 题，[完整目录与正文 →](https://www.bqgmz.top/b/c0a11373dc68/)
+> 共 33 章，[完整目录与正文 →](https://www.bqgmz.top/b/c0a11373dc68/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

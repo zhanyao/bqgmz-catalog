@@ -1,7 +1,7 @@
 # Karamazovin veljekset II
 
-**作者** Dostoyevsky, Fyodor, 1821-1881; Trast, V. K., 1878-1953 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 68 题 · 994,215 字 ｜ **来源** Project Gutenberg
+**作者** Dostoyevsky, Fyodor, 1821-1881; Trast, V. K., 1878-1953 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 51 章 · 994,215 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b739309b357f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（994,215 字）。 |
-| 分章依据 | 按「题」标记切分为 68 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,620 字。 |
+| 分章依据 | 按「章」标记切分为 51 章（auto-num），拼接正文 21,863 行。 |
+| 篇幅分布 | 平均每章 19,462 字；最长 9.（部4）（41,901 字），最短 7.（部3）（7,568 字）。 |
+| 起止 | 始于「1.」，止于「3.（部6）」。 |
 | 原文溯源 | `cache/epub/71690/pg71690.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. KARAMAZOVIN VELJEKSET II
-2. Romaani
-3. F. M. DOSTOJEVSKI
-4. Suomentanut
-5. V. K. Trast
-6. SISÄLLYS:
-7. KOLMAS OSA JATKUU
-8. Kahdeksas kirja: Mitja
-9. Yhdeksäs kirja: Valmistava tutkinta
-10. NELJÄS OSA
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 1.（部2）
+10. 2.（部2）
 
-> 共 68 题，[完整目录与正文 →](https://www.bqgmz.top/b/b739309b357f/)
+> 共 51 章，[完整目录与正文 →](https://www.bqgmz.top/b/b739309b357f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

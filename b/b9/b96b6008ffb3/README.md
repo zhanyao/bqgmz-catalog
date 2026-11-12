@@ -1,7 +1,7 @@
 # The Red Derelict
 
-**作者** Mitford, Bertram, 1855-1914 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 77 题 · 446,657 字 ｜ **来源** Project Gutenberg
+**作者** Mitford, Bertram, 1855-1914 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 26 章 · 446,657 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b96b6008ffb3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（446,657 字）。 |
-| 分章依据 | 按「题」标记切分为 77 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,800 字。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-caps-sections），拼接正文 11,269 行。 |
+| 篇幅分布 | 平均每章 17,179 字；最长 AFTER THE BLOW.（47,882 字），最短 CHAPTER ONE.（337 字）。 |
 | 原文溯源 | `cache/epub/36588/pg36588.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. CHAPTER ONE.
-3. THE EPISODE OF THE BRINDLED GNU.
-4. CHAPTER TWO.
-5. AFTERWARDS.
-6. CHAPTER THREE.
-7. FATHER AND SON.
-8. CHAPTER FOUR.
-9. SIEGE HOUSE AND ITS WAYS.
-10. CHAPTER FIVE.
+1. CHAPTER ONE.
+2. THE EPISODE OF THE BRINDLED GNU.
+3. FATHER AND SON.
+4. A SURPRISE VISIT.
+5. CONCERNING A DERELICT.
+6. AT HALDANE'S.
+7. CONCERNING TWO CLAIMS.
+8. CONCERNING TWO CLAIMANTS.
+9. CONCERNING ONE CLAIM.
+10. THE SEA AND HER DEAD.
 
-> 共 77 题，[完整目录与正文 →](https://www.bqgmz.top/b/b96b6008ffb3/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/b96b6008ffb3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

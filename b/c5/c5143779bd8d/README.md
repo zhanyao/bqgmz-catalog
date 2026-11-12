@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（358,599 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 29,883 字；最长 CHAPTER VII AT THE THEATRE（35,332 字），最短 CHAPTER II DOWN THE KATSURA-GAWA（22,101 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 7,028 行。 |
+| 篇幅分布 | 平均每章 29,542 字；最长 CHAPTER VII AT THE THEATRE（35,332 字），最短 CHAPTER II DOWN THE KATSURA-GAWA（22,101 字）。 |
 | 起止 | 始于「CHAPTER I VISITING THE IMPERIAL DIET」，止于「CHAPTER XII COURT FUNCTIONS AND IMPERIAL AUDIENCES」。 |
 | 原文溯源 | `cache/epub/72341/pg72341.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/c5143779bd8d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

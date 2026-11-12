@@ -1,7 +1,7 @@
 # The Story of Siena and San Gimignano
 
 **作者** Gardner, Edmund G., 1869-1935; James, Helen M. (Helen Mary), 1863-1900 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 568,028 字 ｜ **来源** Project Gutenberg
+**规模** 12 章 · 568,028 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c59d359b41b2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（568,028 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 43,694 字；最长 CHAPTER XII（65,331 字），最短 CHAPTER XI（29,836 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 12,672 行。 |
+| 篇幅分布 | 平均每章 45,292 字；最长 CHAPTER XII（93,156 字），最短 CHAPTER XI（29,836 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XII」。 |
 | 原文溯源 | `cache/epub/46954/pg46954.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/c59d359b41b2/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/c59d359b41b2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Pogonologia; Or, A Philosophical and Historical Essay on Beards
 
-**作者** Dulaure, J.-A. (Jacques-Antoine), 1755-1835 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 145,325 字 ｜ **来源** Project Gutenberg
+**作者** Dulaure, J.-A. (Jacques-Antoine), 1755-1835 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 7 篇 · 145,325 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c23a28f717fa/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（145,325 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,760 字；最长 Several other writers have treated of this subject. Voltaire（39,978 字），最短 If the constant seeing of objects, which have the appearance（5,484 字）。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（通用标记切分），拼接正文 3,462 行。 |
+| 篇幅分布 | 平均每篇 19,779 字。 |
 | 原文溯源 | `cache/epub/59006/pg59006.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 7 篇）
 
-1. Several other writers have treated of this subject. Voltaire
-2. A shaved chin was always a sign of slavery, infamy, or debau
-3. It is said that the Lombard women, when they were at war, ma
-4. When Philip V. ascended the throne of Spain, he found his ne
-5. Some years after, Lewis the Young’s beard underwent the same
-6. Let us now proceed to France, where the pope’s brief, obtain
-7. If the constant seeing of objects, which have the appearance
+1. _Of FASHION._
+2. _Of BEARDED CHINS._
+3. _Of BEARDED WOMEN._
+4. _Of FALSE BEARDS._
+5. _Of GOLDEN BEARDS._
+6. _Of WHISKERS._
+7. _THE END._
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/c23a28f717fa/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/c23a28f717fa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

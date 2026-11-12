@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（237,988 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,874 字；最长 CHAPTER XIV: GREYCLIFF GIRLS TAKE FLIGHT（25,346 字），最短 CHAPTER VII: THE NIGHT HAWK（9,538 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 6,273 行。 |
+| 篇幅分布 | 平均每章 14,830 字；最长 CHAPTER XIV: GREYCLIFF GIRLS TAKE FLIGHT（25,346 字），最短 CHAPTER VII: THE NIGHT HAWK（9,538 字）。 |
 | 起止 | 始于「CHAPTER I: A SENIOR PICNIC AND WHITE WINGS」，止于「CHAPTER XVI: BUTTERFLY WINGS」。 |
 | 原文溯源 | `cache/epub/62442/pg62442.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/caa7672b11e3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

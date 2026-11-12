@@ -1,7 +1,7 @@
 # Literary New York: Its Landmarks and Associations
 
-**作者** Hemstreet, Charles, 1866- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 12 章 · 180,453 字 ｜ **来源** Project Gutenberg
+**作者** Hemstreet, Charles, 1866- ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 17 篇 · 180,453 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ca39d248629c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（180,453 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,037 字；最长 Chapter XII（30,848 字），最短 Chapter V（11,950 字）。 |
-| 起止 | 始于「Chapter I」，止于「Chapter XII」。 |
+| 分章依据 | 按「篇」标记切分为 17 篇（auto-magazine），拼接正文 5,173 行。 |
+| 篇幅分布 | 平均每篇 10,614 字。 |
 | 原文溯源 | `cache/epub/31814/pg31814.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. Chapter I
-2. Chapter II
-3. Chapter III
-4. Chapter IV
-5. Chapter V
-6. Chapter VI
-7. Chapter VII
-8. Chapter VIII
-9. Chapter IX
-10. Chapter X
+1. THE STADT HUYS 8
+2. BROAD STREET, 1642 30
+3. KING'S COLLEGE, ABOUT 1773 42
+4. PETER STUYVESANT }
+5. SPRUCE STREETS 70
+6. PHILIP HONE }
+7. J. FENIMORE COOPER }
+8. JOHN JAMES AUDUBON }
+9. ROBERT FULTON }
+10. J.G. HOLLAND }
 
-> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/ca39d248629c/)
+> 共 17 篇，[完整目录与正文 →](https://www.bqgmz.top/b/ca39d248629c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

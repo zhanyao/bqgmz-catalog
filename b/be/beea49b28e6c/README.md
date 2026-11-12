@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（263,539 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 32,942 字；最长 CHAPTER VII.（66,825 字），最短 CHAPTER V.（18,569 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 5,673 行。 |
+| 篇幅分布 | 平均每章 32,551 字；最长 APPENDIX（94,999 字），最短 CHAPTER I.（18,521 字）。 |
 | 原文溯源 | `cache/epub/59063/pg59063.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
@@ -24,9 +24,9 @@
 5. CHAPTER V.
 6. CHAPTER VI.
 7. CHAPTER VII.
-8. It is observed that the source of these
+8. APPENDIX
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/beea49b28e6c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

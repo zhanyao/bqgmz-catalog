@@ -1,7 +1,7 @@
 # Mary at the Farm and Book of Recipes Compiled During Her Visit Among the "Pennsylvania Germans"
 
-**作者** Thomas, Edith May Bertels, 1859- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 35 章 · 637,133 字 ｜ **来源** Project Gutenberg
+**作者** Thomas, Edith May Bertels, 1859- ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 429 篇 · 637,133 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c94706794196/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（637,133 字）。 |
-| 分章依据 | 按「章」标记切分为 35 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,203 字；最长 CHAPTER XXXI.（92,099 字），最短 CHAPTER XXV.（1,654 字）。 |
+| 分章依据 | 按「篇」标记切分为 429 篇（通用标记切分），拼接正文 17,013 行。 |
+| 篇幅分布 | 平均每篇 1,451 字。 |
 | 原文溯源 | `cache/epub/13545/pg13545.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. CHAPTER X.
+1. PREFACE（1）
+2. PREFACE（2）
+3. PREFACE（3）
+4. MARY IS TAUGHT TO MAKE PASTRY, PATTIES AND "ROSEN KUCHEN."
+5. [A]"DOUGHNUTTING TIME."
+6. "THE KING'S DAUGHTERS."
+7. A VARIETY OF CAKES EVOLVED FROM ONE
+8. "A POTATO PRETZEL."
+9. MARY'S COLLECTION OF RECIPES
+10. THE MANY USES OF STALE BREAD
 
-> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/c94706794196/)
+> 共 429 篇，[完整目录与正文 →](https://www.bqgmz.top/b/c94706794196/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

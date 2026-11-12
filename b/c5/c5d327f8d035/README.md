@@ -1,7 +1,7 @@
 # Saunterings
 
-**作者** Warner, Charles Dudley, 1829-1900 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 65 题 · 394,239 字 ｜ **来源** Project Gutenberg
+**作者** Warner, Charles Dudley, 1829-1900 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 7 篇 · 394,239 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c5d327f8d035/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（394,239 字）。 |
-| 分章依据 | 按「题」标记切分为 65 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,065 字。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（auto-title-block），拼接正文 7,813 行。 |
+| 篇幅分布 | 平均每篇 55,150 字；最长 OVER THE GEMMI（143,850 字），最短 THE MYTH OF THE SIRENS（4,794 字）。 |
 | 原文溯源 | `cache/epub/3128/pg3128.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 篇）
 
-1. Produced by David Widger
-2. SAUNTERINGS
-3. By Charles Dudley Warner
-4. MISAPPREHENSIONS CORRECTED
-5. PARIS AND LONDON
-6. SURFACE CONTRASTS OF PARIS AND LONDON
-7. PARIS IN MAY--FRENCH GIRLS--THE EMPEROR AT LONGCHAMPS
-8. AN IMPERIAL REVIEW
-9. THE LOW COUNTRIES AND RHINELAND
-10. AMIENS AND QUAINT OLD BRUGES
+1. SURFACE CONTRASTS OF PARIS AND LONDON
+2. ENTERING SWITZERLAND BERNE ITS BEAUTIES AND BEARS
+3. THE MAN WHO SPEAKS ENGLISH
+4. OVER THE GEMMI
+5. PALM SUNDAY IN ST. PETER'S
+6. SAINT ANTONINO
+7. THE MYTH OF THE SIRENS
 
-> 共 65 题，[完整目录与正文 →](https://www.bqgmz.top/b/c5d327f8d035/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/c5d327f8d035/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

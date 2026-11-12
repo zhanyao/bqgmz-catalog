@@ -1,7 +1,7 @@
 # Across the Spanish Main: A Tale of the Sea in the Days of Queen Bess
 
-**作者** Collingwood, Harry, 1851-1922; Rainey, W. (William), 1852-1936 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 42 题 · 420,393 字 ｜ **来源** Project Gutenberg
+**作者** Collingwood, Harry, 1851-1922; Rainey, W. (William), 1852-1936 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 20 章 · 420,393 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c06d8620b3a2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（420,393 字）。 |
-| 分章依据 | 按「题」标记切分为 42 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,009 字。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 9,422 行。 |
+| 篇幅分布 | 平均每章 20,971 字；最长 CHAPTER SEVEN.（38,838 字），最短 CHAPTER TWO.（6,277 字）。 |
 | 原文溯源 | `cache/epub/24454/pg24454.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. CHAPTER ONE.
-3. HOW ROGER TREVOSE AND HARRY EDGWYTH MADE A CERTAIN COMPACT.
-4. CHAPTER TWO.
-5. HOW THEY LEFT PLYMOUTH AT DAWN ON THE TWENTY-FIRST DAY OF JULY, 1586.
-6. CHAPTER THREE.
-7. HOW ROGER AND HARRY TOOK PART IN THEIR FIRST SEA-FIGHT.
-8. CHAPTER FOUR.
-9. WHAT HAPPENED TO ROGER ON BOARD THE GLORIA DEL MUNDO.
-10. CHAPTER FIVE.
+1. CHAPTER ONE.
+2. CHAPTER TWO.
+3. CHAPTER THREE.
+4. CHAPTER FOUR.
+5. CHAPTER FIVE.
+6. CHAPTER SIX.
+7. CHAPTER SEVEN.
+8. CHAPTER EIGHT.
+9. CHAPTER NINE.
+10. CHAPTER TEN.
 
-> 共 42 题，[完整目录与正文 →](https://www.bqgmz.top/b/c06d8620b3a2/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/c06d8620b3a2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

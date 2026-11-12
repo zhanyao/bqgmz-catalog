@@ -1,7 +1,7 @@
 # Disturbances of the Heart Discussion of the Treatment of the Heart in Its Various Disorders, With a Chapter on Blood Pressure
 
-**作者** Osborne, Oliver T. (Oliver Thomas), 1862-1940 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 149 题 · 437,848 字 ｜ **来源** Project Gutenberg
+**作者** Osborne, Oliver T. (Oliver Thomas), 1862-1940 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 437,848 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cae71a779cf1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（437,848 字）。 |
-| 分章依据 | 按「题」标记切分为 149 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,938 字。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-toc-title-list），拼接正文 9,685 行。 |
+| 篇幅分布 | 平均每章 25,652 字；最长 Hypotension（54,419 字），最短 Classification of Cardiac Disturbances（633 字）。 |
 | 原文溯源 | `cache/epub/3731/pg3731.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. DISTURBANCES OF THE HEART
-2. PREFACE
-3. PREFACE TO THE FIRST EDITION
-4. CONTENTS
-5. DISTURBANCES OF THE HEART IN GENERAL
-6. CLINICAL INTERPRETATION OF PULSE TRACINGS
-7. INTERPRETATION OF TRACINGS
-8. TESTS OF HEART STRENGTH
-9. THE EFFECT OF ATHLETICS ON THE HEART
-10. SUGGESTIONS FOR THE CONTROL OF ATHLETICS
+1. Disturbances of the Heart in General
+2. Classification of Cardiac Disturbances
+3. Blood Pressure
+4. Hypertension
+5. Hypotension
+6. Pericarditis
+7. Myocardial Disturbances
+8. Endocarditis
+9. Chronic Diseases of the Valves
+10. Acute Cardiac Symptoms: Acute Heart Attack
 
-> 共 149 题，[完整目录与正文 →](https://www.bqgmz.top/b/cae71a779cf1/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/cae71a779cf1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # In a Quiet Village
 
-**作者** Baring-Gould, S. (Sabine), 1834-1924 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 14 段 · 282,260 字 ｜ **来源** Project Gutenberg
+**作者** Baring-Gould, S. (Sabine), 1834-1924 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 20 章 · 282,260 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bf02d18ac51e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（282,260 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,161 字；最长 “Sela kept the garden where they were before, and she will a（39,831 字），最短 The night wore on. The father, with his man, had gone over t（2,046 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-toc-title-list），拼接正文 7,745 行。 |
+| 篇幅分布 | 平均每章 14,077 字；最长 CICELY CROWE（22,150 字），最短 MARY TREMBATH（8,234 字）。 |
 | 原文溯源 | `cache/epub/56527/pg56527.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. “Sela kept the garden where they were before, and she will a
-2. When I had got to the bottom of the story, I rushed off to M
-3. Auntie was shy of asking a favour. Shy and retreating, she w
-4. He was found next morning dead. He had died apparently painl
-5. “Yes, sir,” answered the collier gravely. “I had a bit of di
-6. In this instance there is no evidence of a _sale_, but we ma
-7. The substitution must be made at night. So the plank was lai
-8. “Now, look here, Eli,” continued Dick; “I ask your advice. I
-9. A year and a day had passed since this conversation; then th
-10. Some ran to her with lights. What she was heaving was Will S
+1. DAN’L COOMBE
+2. TIMOTHY SLOUCH
+3. DOBLE DREWE
+4. MARY TREMBATH
+5. THE OLD POST-BOY
+6. AUNTIE
+7. BROTHER AUGUSTINE
+8. HAROUN THE CARPENTER
+9. SHONE EVANS
+10. HENRY FROST
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/bf02d18ac51e/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/bf02d18ac51e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

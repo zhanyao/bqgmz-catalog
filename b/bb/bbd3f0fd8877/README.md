@@ -1,7 +1,7 @@
 # O Mandarim
 
-**作者** Queirós, Eça de, 1845-1900 ｜ **国家/地区** 葡萄牙 ｜ **体例** 段  
-**规模** 5 段 · 102,569 字 ｜ **来源** Project Gutenberg
+**作者** Queirós, Eça de, 1845-1900 ｜ **国家/地区** 葡萄牙 ｜ **体例** 章  
+**规模** 8 章 · 102,569 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bbd3f0fd8877/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（102,569 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,513 字；最长 Senti tremer o Globo sob os meus pés--e cerrei um momento os（39,910 字），最短 E, apesar d'esta expiação, o velho Ti-Chin-Fú lá estava semp（2,522 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-bare），拼接正文 2,478 行。 |
+| 篇幅分布 | 平均每章 12,721 字；最长 IV（21,295 字），最短 VIII（3,669 字）。 |
 | 原文溯源 | `cache/epub/16384/pg16384.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 8 章）
 
-1. Senti tremer o Globo sob os meus pés--e cerrei um momento os
-2. Então, pensando que Lisboa, o meio dormente em que me movia,
-3. Elle curvou-se: e, por uma escadaria de granito, levou-me ás
-4. N'esse momento, do portão da cozinha arrombada rompia uma ho
-5. E, apesar d'esta expiação, o velho Ti-Chin-Fú lá estava semp
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/bbd3f0fd8877/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/bbd3f0fd8877/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

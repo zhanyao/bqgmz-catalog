@@ -11,19 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（210,067 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,505 字；最长 CHAPTER XII—THE LAST ADVENTURE（59,403 字），最短 CHAPTER VII—CHANGING SCENES（4,464 字）。 |
-| 起止 | 始于「CHAPTER I—COMRADES」，止于「CHAPTER XII—THE LAST ADVENTURE」。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 5,211 行。 |
+| 篇幅分布 | 平均每章 17,414 字；最长 CHAPTER VI（81,762 字），最短 CHAPTER II（3,585 字）。 |
 | 原文溯源 | `cache/epub/59816/pg59816.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I—COMRADES
-2. CHAPTER II—TOM APPEARS ON THE SCENE
-3. CHAPTER III—SLADE’S EXTRAORDINARY ADVENTURE
-4. CHAPTER IV—FIRE AND WATER
-5. CHAPTER V—TOGETHER
-6. CHAPTER VI—UP IN THE AIR
+1. PART ONE—THE SECRET OF THE SCUPPERS
+2. CHAPTER II
+3. CHAPTER III
+4. CHAPTER IV
+5. CHAPTER V
+6. CHAPTER VI
 7. CHAPTER VII—CHANGING SCENES
 8. CHAPTER VIII—THE OTHER GUN
 9. CHAPTER IX—MONSIEUR LE CAPITAINE
@@ -32,4 +31,4 @@
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/b4545b0d9ffa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

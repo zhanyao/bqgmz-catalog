@@ -1,7 +1,7 @@
 # The Atlantic Monthly, Volume 07, No. 40, February, 1861 A Magazine of Literature, Art, and Politics
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 30 题 · 404,702 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 12 章 · 404,702 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/be8b00cd308d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（404,702 字）。 |
-| 分章依据 | 按「题」标记切分为 30 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,490 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-caps-sections），拼接正文 8,462 行。 |
+| 篇幅分布 | 平均每章 33,725 字。 |
 | 原文溯源 | `cache/epub/11117/pg11117.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE ATLANTIC MONTHLY.
-2. A MAGAZINE OF LITERATURE, ART, AND POLITICS.
-3. VOL. VII.--FEBRUARY, 1861.--NO. XL.
-4. OUR ARTISTS IN ITALY.
-5. WILLIAM PAGE.
-6. KNITTING SALE-SOCKS.
-7. I didn't say anything, I was so provoked.
-8. I put them into her bag and said,
-9. SCUPPAUG.
-10. COBBLER KEEZAR'S VISION.
+1. OUR ARTISTS IN ITALY.
+2. WILLIAM PAGE.
+3. KNITTING SALE-SOCKS.
+4. SCUPPAUG.
+5. THE FIRST ATLANTIC TELEGRAPH.
+6. LADY BYRON.（1）
+7. LADY BYRON.（2）
+8. LADY BYRON.（3）
+9. A SOUL IN DISTRESS.
+10. E PLURIBUS UNUM.
 
-> 共 30 题，[完整目录与正文 →](https://www.bqgmz.top/b/be8b00cd308d/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/be8b00cd308d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

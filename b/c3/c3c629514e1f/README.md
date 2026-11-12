@@ -1,7 +1,7 @@
 # The Roswell Report: Case Closed
 
 **作者** McAndrew, James, 1963- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 8 章 · 378,113 字 ｜ **来源** Project Gutenberg
+**规模** 10 章 · 378,113 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c3c629514e1f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（378,113 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 47,264 字；最长 PART I. THE UNSTABILIZED DUMMY DROPS（75,864 字），最短 Part I. Preliminary Survey of the Aft Facing Seated Position_, Air（993 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 11,157 行。 |
+| 篇幅分布 | 平均每章 36,384 字；最长 ISBN 0-16-049018-9（3）（55,560 字），最短 TL789.5.N6M33 1997（645 字）。 |
 | 原文溯源 | `cache/epub/63659/pg63659.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 章）
+## 章节目录（前 10 章）
 
-1. PART I.
-2. PART I. THE UNSTABILIZED DUMMY DROPS
-3. Even with the exposure of this obvious f
-4. Part I. Preliminary Survey of the Aft Facing Seated Position_, Air
-5. Part I. The Unstabilized Dummy Drops_, WADC Technical Report 57-477,
-6. Part I. Preliminary Survey of the Aft Fa
-7. I was also involved in the joint Air For
-8. Part I. The Unstabilized Dummy Drops_,
+1. TL789.5.N6M33 1997
+2. ISBN 0-16-049018-9（1）
+3. ISBN 0-16-049018-9（2）
+4. ISBN 0-16-049018-9（3）
+5. ISBN 0-16-049018-9（4）
+6. ISBN 0-16-049018-9（5）
+7. AFB, AL.（1）
+8. AFB, AL.（2）
+9. AFB, AL.（3）
+10. (END)
 
-> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/c3c629514e1f/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/c3c629514e1f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

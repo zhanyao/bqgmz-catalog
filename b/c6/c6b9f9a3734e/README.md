@@ -1,7 +1,7 @@
 # Tarnished Silver
 
-**作者** Outram, Mary Frances; Wood, Stanley L., 1866-1928 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 10 段 · 200,969 字 ｜ **来源** Project Gutenberg
+**作者** Outram, Mary Frances; Wood, Stanley L., 1866-1928 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 200,969 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c6b9f9a3734e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（200,969 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,096 字；最长 "I think Robin's the jolliest boy I ever knew," he said to h（39,918 字），最短 The Captain's Bunk.  By M. B. Manwell.（825 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 5,174 行。 |
+| 篇幅分布 | 平均每章 20,096 字；最长 WASHING DONE CHEAP（60,197 字），最短 CHAPTER XIV（4,037 字）。 |
+| 起止 | 始于「CHAPTER II」，止于「CHAPTER XX」。 |
 | 原文溯源 | `cache/epub/43318/pg43318.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. "I think Robin's the jolliest boy I ever knew," he said to h
-2. By experience she had discovered that to do this efficiently
-3. "Maybe he did, and maybe he didn't," was the ambiguous reply
-4. "There is just one thing I shall bring to leave here always,
-5. "I'm feeling out of sorts," he added. "Those silly remarks
-6. "He is always repeating the same words," said the nurse in c
-7. "I must say it looks queer," remarked Jones, the keeper, as
-8. "Why not remain here?" asked his wife. "It is such a quiet l
-9. "I shall have great pleasure in doing so," answered Mr. Fiel
-10. The Captain's Bunk. By M. B. Manwell.
+1. CHAPTER II
+2. CHAPTER IV
+3. CHAPTER V
+4. CHAPTER VII
+5. CHAPTER VIII
+6. CHAPTER X
+7. CHAPTER XII
+8. CHAPTER XIV
+9. WASHING DONE CHEAP
+10. CHAPTER XX
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/c6b9f9a3734e/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/c6b9f9a3734e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

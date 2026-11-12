@@ -1,7 +1,7 @@
 # The suppressed Gospels and Epistles of the original New Testament of Jesus the Christ, Volume 6, Clement
 
 **作者** Wake, William, 1657-1737 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 23 章 · 71,284 字 ｜ **来源** Project Gutenberg
+**规模** 28 章 · 71,284 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bef6ad0e5a90/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（71,284 字）。 |
-| 分章依据 | 按「章」标记切分为 23 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 3,099 字；最长 CHAPTER XXIV（14,250 字），最短 CHAPTER II.（717 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXIV」。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-chapter），拼接正文 3,520 行。 |
+| 篇幅分布 | 平均每章 2,521 字；最长 CHAPTER VIII.（4,669 字），最短 CHAPTER II.（717 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER V.（部2）」。 |
 | 原文溯源 | `cache/epub/6512/pg6512.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/bef6ad0e5a90/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/bef6ad0e5a90/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

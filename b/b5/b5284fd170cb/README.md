@@ -1,7 +1,7 @@
 # Geschwister Rosenbrock
 
-**作者** Speckmann, Diedrich, 1872-1938 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 34 题 · 482,974 字 ｜ **来源** Project Gutenberg
+**作者** Speckmann, Diedrich, 1872-1938 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 21 章 · 482,974 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b5284fd170cb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（482,974 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,205 字。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-num），拼接正文 12,662 行。 |
+| 篇幅分布 | 平均每章 21,700 字；最长 5.（31,083 字），最短 11.（13,952 字）。 |
+| 起止 | 始于「2.」，止于「22.」。 |
 | 原文溯源 | `cache/epub/76104/pg76104.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Worte in Antiqua sind so +gekennzeichnet+; gesperrte so: ~gesperrt~
-2. Von
-3. Diedrich Speckmann
-4. Erschienen 1911
-5. Der Gesamtauflage 62.-71. Tausend
-6. Alle Rechte vorbehalten
-7. Gedruckt in Stuttgart bei J. F. Steinkopf
-8. Sie schüttelte den Kopf: »Ach was, ich b
-9. »Oh, das tut ihr doch wohl sacht. Nicht
-10. Nach einer Weile sagte sie: »Du bist ja so still heute, Gerd.«
+1. 2.
+2. 3.
+3. 4.
+4. 5.
+5. 6.
+6. 7.
+7. 8.
+8. 9.
+9. 10.
+10. 11.
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/b5284fd170cb/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/b5284fd170cb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

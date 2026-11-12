@@ -1,7 +1,7 @@
 # Perfect Behavior: A Guide for Ladies and Gentlemen in All Social Crises
 
-**作者** Stewart, Donald Ogden, 1894-1980; Barton, Ralph, 1891-1931 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 115 题 · 174,085 字 ｜ **来源** Project Gutenberg
+**作者** Stewart, Donald Ogden, 1894-1980; Barton, Ralph, 1891-1931 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 174,085 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c04c8d46beca/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（174,085 字）。 |
-| 分章依据 | 按「题」标记切分为 115 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,513 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 4,378 行。 |
+| 篇幅分布 | 平均每章 18,850 字；最长 CHAPTER EIGHT: CORRESPONDENCE AND INVITATIONS（34,036 字），最短 CHAPTER FOUR: AT THE CONCERT AND THE OPERA（6,804 字）。 |
 | 原文溯源 | `cache/epub/1446/pg1446.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. Produced by Charles Keller, and David Widger
-2. Perfect Behavior
-3. Illustrated by Ralph Barton
-4. A Guide for Ladies and Gentlemen in all Social Crises
-5. Contents
-6. CONTENTS
-7. CHAPTER ONE: THE ETIQUETTE OF COURTSHIP
-8. A FEW WORDS ABOUT LOVE
-9. CORRECT INTRODUCTIONS; HOW TO MAKE THEM
-10. CARDS AND FLOWERS
+1. CHAPTER ONE: THE ETIQUETTE OF COURTSHIP
+2. CHAPTER TWO: THE ETIQUETTE OF ENGAGEMENTS AND WEDDINGS
+3. CHAPTER THREE: THE ETIQUETTE OF TRAVEL
+4. CHAPTER FOUR: AT THE CONCERT AND THE OPERA
+5. CHAPTER FIVE: ETIQUETTE FOR DRY AGENTS
+6. CHAPTER SIX: A CHAPTER FOR SCHOOLGIRLS
+7. CHAPTER SEVEN: THE ETIQUETTE OF GAMES AND SPORTS
+8. CHAPTER EIGHT: CORRESPONDENCE AND INVITATIONS
+9. CHAPTER NINE: THE ETIQUETTE OF DINNERS AND BALLS
 
-> 共 115 题，[完整目录与正文 →](https://www.bqgmz.top/b/c04c8d46beca/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/c04c8d46beca/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

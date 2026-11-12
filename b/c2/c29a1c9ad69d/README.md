@@ -11,23 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（528,892 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 58,765 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-toc-title-list），拼接正文 14,184 行。 |
+| 篇幅分布 | 平均每章 52,691 字；最长 One excursion which you should not fail （91,782 字），最短 Diurnal Movement,（2,463 字）。 |
 | 原文溯源 | `cache/epub/47586/pg47586.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
 
-1. BOOK I.--WINTER.
-2. BOOK II.--SPRING.
-3. BOOK III.--SUMMER.
-4. BOOK IV.--AUTUMN.
-5. [Illustration: FIG. 20.]
-6. It was formerly thought, says a pleasing
-7. "It is not growing like a tree
-8. The flesh of the _Amanita_ is not yellow
-9. He remarked that if we in reality posses
+1. The Number of the Stars,
+2. Orion,
+3. Diurnal Movement,
+4. DETERMINATION OF THE CARDINAL POINTS.
+5. [Footnote 29: _Turnsole_, a colouring su
+6. The _Aeshna grandis_ (or the "Julia") is
+7. One excursion which you should not fail
+8. _Agaricus oreades_, _Fairy-ring Mushroom
+9. But the astronomer, armed with his wonde
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/c29a1c9ad69d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

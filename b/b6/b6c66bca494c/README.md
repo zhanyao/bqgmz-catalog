@@ -1,7 +1,7 @@
 # L'Ingénue Libertine
 
-**作者** Colette, 1873-1954 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 9 题 · 244,716 字 ｜ **来源** Project Gutenberg
+**作者** Colette, 1873-1954 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 5 篇 · 244,716 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b6c66bca494c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（244,716 字）。 |
-| 分章依据 | 按「题」标记切分为 9 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 27,190 字。 |
+| 分章依据 | 按「篇」标记切分为 5 篇（通用标记切分），拼接正文 7,329 行。 |
+| 篇幅分布 | 平均每篇 48,922 字；最长 «JACQUES.»（57,994 字），最短 PREMIÈRE PARTIE（3）（28,905 字）。 |
 | 原文溯源 | `cache/epub/67427/pg67427.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 题）
+## 章节目录（前 5 篇）
 
-1. COLETTE
-2. DE L’ACADÉMIE GONCOURT
-3. PREMIÈRE PARTIE
-4. C’est bien ce qu’il craignait. La dignit
-5. DEUXIÈME PARTIE
-6. JACQUES
-7. M. Camille lève une main de prédicateur deux fois baguée:
-8. M. Camille sourit, les pouces dans les poches de son gilet:
-9. FIN
+1. PREMIÈRE PARTIE（1）
+2. PREMIÈRE PARTIE（2）
+3. PREMIÈRE PARTIE（3）
+4. JACQUES
+5. «JACQUES.»
 
-> 共 9 题，[完整目录与正文 →](https://www.bqgmz.top/b/b6c66bca494c/)
+> 共 5 篇，[完整目录与正文 →](https://www.bqgmz.top/b/b6c66bca494c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

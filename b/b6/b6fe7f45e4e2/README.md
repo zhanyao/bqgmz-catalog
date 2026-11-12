@@ -1,7 +1,7 @@
 # Parodieën
 
-**作者** Veth, Cornelis, 1880- ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 38 题 · 84,056 字 ｜ **来源** Project Gutenberg
+**作者** Veth, Cornelis, 1880- ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 14 章 · 84,056 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b6fe7f45e4e2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（84,056 字）。 |
-| 分章依据 | 按「题」标记切分为 38 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,212 字。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 2,570 行。 |
+| 篇幅分布 | 平均每章 5,285 字；最长 HOOFDSTUK X（25,478 字），最短 HOOFDSTUK IV（1,157 字）。 |
 | 原文溯源 | `cache/epub/47442/pg47442.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. PARODIEËN
-2. EERSTE REEKS
-3. VAN GIGIO EN FAMULUS
-4. ROMEINSCHE ROMAN
-5. DE VONDELING
-6. HISTORISCHE ROMAN
-7. HOOFDSTUK I
-8. HOOFDSTUK II
-9. De officier glimlachte. "Kunt gij zwijgen, knaap?"
-10. HOOFDSTUK III
+1. HOOFDSTUK I
+2. HOOFDSTUK II
+3. HOOFDSTUK III
+4. HOOFDSTUK IV
+5. HOOFDSTUK V
+6. HOOFDSTUK VI.
+7. HOOFDSTUK VII
+8. HOOFDSTUK VIII.
+9. HOOFDSTUK IX
+10. HOOFDSTUK X
 
-> 共 38 题，[完整目录与正文 →](https://www.bqgmz.top/b/b6fe7f45e4e2/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/b6fe7f45e4e2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

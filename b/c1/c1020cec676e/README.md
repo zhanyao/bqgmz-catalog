@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（558,279 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 32,839 字；最长 CHAPTER I（70,228 字），最短 CHAPTER VIII（5,047 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XVI」。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 12,944 行。 |
+| 篇幅分布 | 平均每章 32,655 字；最长 CHAPTER IV（112,241 字），最短 CHAPTER VIII（5,047 字）。 |
 | 原文溯源 | `cache/epub/15250/pg15250.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -22,14 +21,14 @@
 2. CHAPTER II
 3. CHAPTER III
 4. CHAPTER IV
-5. Hung-chün Lao-tsu, the master of these t
-6. CHAPTER V
-7. CHAPTER VI
-8. CHAPTER VII
-9. CHAPTER VIII
-10. CHAPTER IX
+5. CHAPTER V
+6. CHAPTER VI
+7. CHAPTER VII
+8. CHAPTER VIII
+9. CHAPTER IX
+10. CHAPTER X
 
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/c1020cec676e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

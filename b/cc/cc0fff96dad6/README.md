@@ -1,7 +1,7 @@
 # Experimental Determination of the Velocity of Light Made at the U.S. Naval Academy, Annapolis
 
-**作者** Michelson, Albert A. (Albert Abraham), 1852-1931 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 13 题 · 56,698 字 ｜ **来源** Project Gutenberg
+**作者** Michelson, Albert A. (Albert Abraham), 1852-1931 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 56,698 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cc0fff96dad6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（56,698 字）。 |
-| 分章依据 | 按「题」标记切分为 13 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,361 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 1,734 行。 |
+| 篇幅分布 | 平均每篇 13,608 字。 |
 | 原文溯源 | `cache/epub/11753/pg11753.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 篇）
 
-1. Experimental Determination of the Velocity of Light
-2. By
-3. By Albert A. Michelson, _Master, U.S.N._
-4. Turns of screw of microscope I in 1mm--
-5. Mean =7.65
-6. Changing the form of this table, we find that,--
-7. This gives the value of a turn--
-8. Coincidences were marked--
-9. Coincidences were marked at--
-10. Coincidences were observed at--
+1. At the expense of $10 a revolving mirror was made, which could execute
+2. [Footnote 1: See Proc. Am. Assoc. Adv. Science, Saint Louis meeting.] These experiments, made with very crude apparatus and under great difficulties, gave the following table of results for the velocity of light in miles per second: 186730 188820 186330 185330 187900 184500 186770 185000 185800 187940 ------ Mean 186500 ± 300 miles per second, or 300140 kilometers per second. thus demonstrated that with this distance and a deflection of
+3. light going past the observer's head through the slit, and returning
+4. micrometer eye-piece was made April 2, the deflection being
 
-> 共 13 题，[完整目录与正文 →](https://www.bqgmz.top/b/cc0fff96dad6/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/cc0fff96dad6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

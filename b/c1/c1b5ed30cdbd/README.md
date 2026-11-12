@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（315,369 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,334 字；最长 CHAPTER XX. THE BAPTISM WITH THE HOLY SPIRIT.（99,224 字），最短 CHAPTER XIX. THE HOLY SPIRIT AND THE BELIEVER’S BODY.（2,358 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 6,029 行。 |
+| 篇幅分布 | 平均每章 14,246 字；最长 CHAPTER XX. THE BAPTISM WITH THE HOLY SPIRIT.（99,224 字），最短 CHAPTER XIX. THE HOLY SPIRIT AND THE BELIEVER’S BODY.（2,358 字）。 |
 | 起止 | 始于「CHAPTER I. THE PERSONALITY OF THE HOLY SPIRIT.」，止于「CHAPTER XXII. THE WORK OF THE HOLY SPIRIT IN JESUS CHRIST.」。 |
 | 原文溯源 | `cache/epub/30241/pg30241.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/c1b5ed30cdbd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

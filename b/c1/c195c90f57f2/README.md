@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（275,533 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,207 字；最长 Chapter 13.  Dinners, Banquets, Etc.（30,604 字），最短 Chapter 16.  Conjuring and Circuses（7,022 字）。 |
-| 起止 | 始于「Chapter 1.  The Importance of Names」，止于「Chapter 17.  Sports」。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-toc-title-list），拼接正文 5,452 行。 |
+| 篇幅分布 | 平均每章 15,682 字；最长 Chapter 13. Dinners, Banquets, Etc.（30,604 字），最短 Chapter 16. Conjuring and Circuses（7,022 字）。 |
+| 起止 | 始于「Chapter 1. The Importance of Names」，止于「Chapter 17. Sports」。 |
 | 原文溯源 | `cache/epub/609/pg609.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -32,4 +32,4 @@
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/c195c90f57f2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

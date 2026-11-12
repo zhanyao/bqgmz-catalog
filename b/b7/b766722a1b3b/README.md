@@ -1,7 +1,7 @@
 # Cyrano de Bergerac: Viisinäytöksinen runomittainen sankarinäytelmä
 
-**作者** Rostand, Edmond, 1868-1918; Simojoki, Aukusti, 1882-1959 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 72 题 · 183,164 字 ｜ **来源** Project Gutenberg
+**作者** Rostand, Edmond, 1868-1918; Simojoki, Aukusti, 1882-1959 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 场  
+**规模** 5 场 · 183,164 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b766722a1b3b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（183,164 字）。 |
-| 分章依据 | 按「题」标记切分为 72 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,543 字。 |
+| 分章依据 | 按「场」标记切分为 5 场（auto-local-act），拼接正文 10,511 行。 |
+| 篇幅分布 | 平均每场 36,430 字；最长 ENSIMÄINEN NÄYTÖS（43,719 字），最短 VIIDES NÄYTÖS（23,683 字）。 |
 | 原文溯源 | `cache/epub/54802/pg54802.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 场）
 
-1. CYRANO DE BERGERAC
-2. Viisinäytöksinen runomittainen sankarinäytelmä
-3. EDMOND ROSTAND
-4. Suomentanut Aukusti Simelius
-5. HENKILÖT:
-6. ENSIMÄINEN NÄYTÖS
-7. I KOHTAUS
-8. II KOHTAUS
-9. III KOHTAUS
-10. IV KOHTAUS
+1. ENSIMÄINEN NÄYTÖS
+2. TOINEN NÄYTÖS
+3. KOLMAS NÄYTÖS
+4. NELJÄS NÄYTÖS
+5. VIIDES NÄYTÖS
 
-> 共 72 题，[完整目录与正文 →](https://www.bqgmz.top/b/b766722a1b3b/)
+> 共 5 场，[完整目录与正文 →](https://www.bqgmz.top/b/b766722a1b3b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

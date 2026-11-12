@@ -1,7 +1,7 @@
 # A Smaller Dictionary of Greek and Roman Antiquities
 
-**作者** Smith, William, 1813-1893 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 846 题 · 1,746,981 字 ｜ **来源** Project Gutenberg
+**作者** Smith, William, 1813-1893 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 9 篇 · 1,746,981 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cbe295cdcc2c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,746,981 字）。 |
-| 分章依据 | 按「题」标记切分为 846 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,064 字。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（auto-title-block），拼接正文 48,158 行。 |
+| 篇幅分布 | 平均每篇 14,290 字。 |
 | 原文溯源 | `cache/epub/65909/pg65909.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 篇）
 
-1. TRANSCRIBER’S NOTE
-2. SMALLER DICTIONARY
-3. OF
-4. THE STUDENT’S MANUALS:
-5. SMALLER DICTIONARY
-6. OF
-7. ABRIDGED FROM THE LARGER DICTIONARY.
-8. ILLUSTRATED WITH TWO HUNDRED WOODCUTS.
-9. DR. WM. SMITH’S DICTIONARIES.
-10. A COPIOUS AND CRITICAL ENGLISH-LATIN DICTIONARY. Medium 8vo. _21s._
+1. P: ΠαρασάγγηςS: ΣχοῖνοςD: DEGREE
+2. D: DEGREE[6]
+3. S: Saltus
+4. AM: ΑΜΦΟΡΕΥΣ ΜΕΤΡΗΤΗΣ
+5. C: Culeus
+6. M: ΜΈΔΙΜΝΟΣ
+7. T: TALENT (Τάλαντον)
+8. AL: AS, or LIBRA
+9. De: DENARIUS
 
-> 共 846 题，[完整目录与正文 →](https://www.bqgmz.top/b/cbe295cdcc2c/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/cbe295cdcc2c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

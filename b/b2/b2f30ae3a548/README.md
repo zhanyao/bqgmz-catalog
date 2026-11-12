@@ -1,7 +1,7 @@
 # Library of the World's Best Literature, Ancient and Modern — Volume 06
 
-**作者** Warner, Charles Dudley, 1829-1900 [Editor]; Mabie, Hamilton Wright, 1846-1916 [Editor]; Runkle, Lucia Gilbert (Lucia Isabella Gilbert), 1844-1922 [Editor]; Warner, George H., 1833-1919 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 262 题 · 747,503 字 ｜ **来源** Project Gutenberg
+**作者** Warner, Charles Dudley, 1829-1900 [Editor]; Mabie, Hamilton Wright, 1846-1916 [Editor]; Runkle, Lucia Gilbert (Lucia Isabella Gilbert), 1844-1922 [Editor]; Warner, George H., 1833-1919 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 50 章 · 747,503 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b2f30ae3a548/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（747,503 字）。 |
-| 分章依据 | 按「题」标记切分为 262 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,853 字。 |
+| 分章依据 | 按「章」标记切分为 50 章（auto-caps-sections），拼接正文 17,985 行。 |
+| 篇幅分布 | 平均每章 14,949 字；最长 ON PEOPLE FOND OF GOOD LIVING（59,028 字），最短 MR. PEPPER（873 字）。 |
 | 原文溯源 | `cache/epub/13623/pg13623.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LIBRARY OF THE
-2. WORLD'S BEST LITERATURE
-3. ANCIENT AND MODERN
-4. CHARLES DUDLEY WARNER
-5. EDITOR
-6. ASSOCIATE EDITORS
-7. Connoisseur Edition
-8. VOL. VI.
-9. THE ADVISORY COUNCIL
-10. TABLE OF CONTENTS
+1. TWO FAMOUS ENTERTAINMENTS
+2. FREDRIKA BREMER
+3. LETTER I.--FRANCISCA W. TO MARIA M.
+4. THE LANDED PROPRIETOR
+5. A FAMILY PICTURE
+6. TO GOETHE
+7. BETTINA'S LAST MEETING WITH GOETHE
+8. JOHN BRIGHT
+9. FROM THE SPEECH ON THE CORN LAWS (1843)
+10. FROM THE SPEECH ON INCENDIARISM IN IRELAND (1844)
 
-> 共 262 题，[完整目录与正文 →](https://www.bqgmz.top/b/b2f30ae3a548/)
+> 共 50 章，[完整目录与正文 →](https://www.bqgmz.top/b/b2f30ae3a548/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

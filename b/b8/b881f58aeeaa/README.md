@@ -1,7 +1,7 @@
 # On Digestive Proteolysis Being the Cartwright Lectures for 1894
 
-**作者** Chittenden, R. H. (Russell Henry), 1856-1943 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 11 段 · 229,800 字 ｜ **来源** Project Gutenberg
+**作者** Chittenden, R. H. (Russell Henry), 1856-1943 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 229,800 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b881f58aeeaa/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（229,800 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,890 字；最长 These peculiar bodies owe their origin to the constructive p（39,612 字），最短 These facts, it appears to me, offer a more consistent line （9,948 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 5,058 行。 |
+| 篇幅分布 | 平均每章 28,725 字；最长 LECTURE III.（1）（57,197 字），最短 N.......\| 15.84  \|     14.55     \| 16.04  \|      14.31（2,260 字）。 |
 | 原文溯源 | `cache/epub/47938/pg47938.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 章）
 
-1. These peculiar bodies owe their origin to the constructive p
-2. Furthermore, we have found that even gases, as carbonic acid
-3. ============================================================
-4. Gastric digestion is essentially an acid digestion. As a pro
-5. It is foreign to our subject to discuss here methods for the
-6. [132] Chittenden and Hart: Studies in Physiol. Chem., Yale U
-7. Still, there are other differences between natural digestion
-8. With hydrochloric acid, trypsin is quickly destroyed, unless
-9. From the average of the several results obtained, it would a
-10. This brings us to a very important point in connection with
+1. PREFACE
+2. THE GENERAL NATURE OF PROTEIDS.
+3. NATURE.[A]
+4. N.......| 15.84 | 14.55 | 16.04 | 14.31
+5. O | 23.04 | 22.00 | --- | 27.18 | ---（1）
+6. O | 23.04 | 22.00 | --- | 27.18 | ---（2）
+7. LECTURE III.（1）
+8. LECTURE III.（2）
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/b881f58aeeaa/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/b881f58aeeaa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

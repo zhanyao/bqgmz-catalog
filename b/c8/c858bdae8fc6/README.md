@@ -1,7 +1,7 @@
 # Siouan Sociology
 
-**作者** Dorsey, James Owen, 1848-1895 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 83,257 字 ｜ **来源** Project Gutenberg
+**作者** Dorsey, James Owen, 1848-1895 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 35 章 · 83,257 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c858bdae8fc6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（83,257 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,814 字。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-toc-title-list），拼接正文 2,099 行。 |
+| 篇幅分布 | 平均每章 2,211 字。 |
 | 原文溯源 | `cache/epub/19518/pg19518.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 10 章）
 
-1. The following are the gentes of the Siha-sapa or Blackfeet a
-2. The Ponka tribal circle was divided equally between the Tcin
-3. On the death of the head chief among the Osage the leading m
-4. The tribal organization of this people has disappeared. When
+1. GENERAL FEATURES OF ORGANIZATION
+2. THE DAKOTA TRIBES
+3. DESIGNATION AND MODE OF CAMPING
+4. THE MDEWAKANTONWAN
+5. THE WAQPE-KUTE
+6. THE WAQPE-TONWAN OR WAHPETON
+7. THE SISITONWAN OR SISSETON
+8. THE IHANKTONWAN OR YANKTON
+9. THE IHANKTONWANNA OR YANKTONAI
+10. THE TITONWAN OR TETON
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/c858bdae8fc6/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/c858bdae8fc6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

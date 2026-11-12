@@ -1,7 +1,7 @@
 # A laugh a day keeps the doctor away
 
-**作者** Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 20 段 · 410,152 字 ｜ **来源** Project Gutenberg
+**作者** Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 12 章 · 410,152 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cb7d021d54c4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（410,152 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,507 字；最长 They brought a darky out of the jail in a North Carolina tow（39,919 字），最短 Once upon a time Dickson was on a hunting trip in a remote c（10,169 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-caps-sections），拼接正文 12,446 行。 |
+| 篇幅分布 | 平均每章 34,162 字；最长 ALL KINDS OF FANCY DRINKS SERVED HERE.（2）（55,223 字），最短 NEGRO   5, 14, 17, 25, 34, 37, 38, 39, 42, 43, 53, 54, 55, 56, 57, 61, 67,（423 字）。 |
 | 原文溯源 | `cache/epub/69467/pg69467.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. They brought a darky out of the jail in a North Carolina tow
-2. On the second day of his captivity, as he sat in his cell, t
-3. Once upon a time—this, as the sequel will show, was before p
-4. One sunny afternoon he was holding forth to an attentive aud
-5. His sister married a market gardener over in New Jersey, and
-6. Near the close of a glorious spring afternoon he stood on th
-7. The scheme sounded good to the younger man. He got out his p
-8. § 126 Speaking, as It Were, with Frankness
-9. The voyage across was a rough one and the visitor’s disposit
-10. “Well, I knows whut to-morrow’s number of dat paper’s gwine
+1. AERONAUTIC 153, 187
+2. AMERICANS ABROAD 10, 24, 94, 215, 219
+3. HEALTH 131
+4. NEGRO 5, 14, 17, 25, 34, 37, 38, 39, 42, 43, 53, 54, 55, 56, 57, 61, 67,
+5. SECRET ORDERS 74, 318
+6. ALL KINDS OF FANCY DRINKS SERVED HERE.（1）
+7. ALL KINDS OF FANCY DRINKS SERVED HERE.（2）
+8. ALL KINDS OF FANCY DRINKS SERVED HERE.（3）
+9. ALL KINDS OF FANCY DRINKS SERVED HERE.（4）
+10. ALL KINDS OF FANCY DRINKS SERVED HERE.（5）
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/cb7d021d54c4/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/cb7d021d54c4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Poems of Purpose
 
-**作者** Wilcox, Ella Wheeler, 1850-1919 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 49 题 · 62,058 字 ｜ **来源** Project Gutenberg
+**作者** Wilcox, Ella Wheeler, 1850-1919 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 44 章 · 62,058 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b898cd648b70/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（62,058 字）。 |
-| 分章依据 | 按「题」标记切分为 49 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,266 字。 |
+| 分章依据 | 按「章」标记切分为 44 章（auto-toc-title-list），拼接正文 2,403 行。 |
+| 篇幅分布 | 平均每章 1,387 字。 |
 | 原文溯源 | `cache/epub/6618/pg6618.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. POEMS OF PURPOSE
-2. CONTENTS
-3. A GOOD SPORT
-4. A SON SPEAKS
-5. THE YOUNGER BORN
-6. HAPPINESS
-7. SEEKING FOR HAPPINESS
-8. THE ISLAND OF ENDLESS PLAY
-9. THE RIVER OF SLEEP
-10. THE THINGS THAT COUNT
+1. A Good Sport
+2. A Son Speaks
+3. The Younger Born
+4. Happiness
+5. Seeking for Happiness
+6. The Island of Endless Play
+7. The River of Sleep
+8. The Things that Count
+9. Limitless
+10. What They Saw
 
-> 共 49 题，[完整目录与正文 →](https://www.bqgmz.top/b/b898cd648b70/)
+> 共 44 章，[完整目录与正文 →](https://www.bqgmz.top/b/b898cd648b70/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

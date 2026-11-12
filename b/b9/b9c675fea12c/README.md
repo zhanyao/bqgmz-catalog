@@ -1,7 +1,7 @@
 # El buey suelto... Cuadros edificantes de la vida de un solterón
 
-**作者** Pereda, José María de, 1833-1906 ｜ **国家/地区** 西班牙 ｜ **体例** 段  
-**规模** 16 段 · 335,250 字 ｜ **来源** Project Gutenberg
+**作者** Pereda, José María de, 1833-1906 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 39 章 · 335,250 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b9c675fea12c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（335,250 字）。 |
-| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,953 字；最长 Otro era pulcro, reglamentado y económico. No toleraba en su（38,892 字），最短 Un poco de humedad en los pies, un rayo de sol demasiado fue（14,846 字）。 |
+| 分章依据 | 按「章」标记切分为 39 章（auto-roman-bare），拼接正文 9,741 行。 |
+| 篇幅分布 | 平均每章 8,510 字；最长 IV（18,672 字），最短 XVI（部2）（3,724 字）。 |
 | 原文溯源 | `cache/epub/54228/pg54228.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Otro era pulcro, reglamentado y económico. No toleraba en su
-2. --Ya os lo dije: á que me confirmaseis en mis creencias, alg
-3. Apuradamente lo que él desea es harto fácil de conseguirse:
-4. Dicho esto, se oye un pisar menudito y fuerte, y un zumbido
-5. --He aquí un caso--se dice,--en que la familia no es tan abo
-6. --No hay tal extremo; son deducciones lógicas de los princip
-7. --Cuando presté oídos en mal hora á tus palabras--continúa S
-8. Al verse tratado así, no el dolor, el asombro parece pintars
-9. --¿Quiere usted proseguir, señor... artista?
-10. --Uno de ellos, el que yo me temía, Gedeón. Anteanoche, sali
+1. I
+2. II
+3. III
+4. IV
+5. I（部2）
+6. II（部2）
+7. III（部2）
+8. IV（部2）
+9. V（部2）
+10. VI（部2）
 
-> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/b9c675fea12c/)
+> 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/b9c675fea12c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

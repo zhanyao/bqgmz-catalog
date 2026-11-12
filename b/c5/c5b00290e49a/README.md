@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（234,748 字）。 |
-| 分章依据 | 按「章」标记切分为 28 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,383 字；最长 CHAPTER XII--IMPRISONED IN THE ACROPOLIS（11,476 字），最短 CHAPTER XXVII--THE DOOMED CITY（4,788 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-chapter），拼接正文 6,519 行。 |
+| 篇幅分布 | 平均每章 8,322 字；最长 CHAPTER XII--IMPRISONED IN THE ACROPOLIS（11,476 字），最短 CHAPTER XXVII--THE DOOMED CITY（4,788 字）。 |
 | 起止 | 始于「CHAPTER I--OFF FOR TREASURE」，止于「CHAPTER XXVIII--CONCLUSION」。 |
 | 原文溯源 | `cache/epub/35987/pg35987.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/c5b00290e49a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

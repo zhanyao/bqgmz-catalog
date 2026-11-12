@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（339,330 字）。 |
-| 分章依据 | 按「章」标记切分为 31 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,946 字；最长 CHAPTER XXVII. THE BATTLE OF LARGS.（22,448 字），最短 CHAPTER X. AASTA'S CURSE.（5,468 字）。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-chapter），拼接正文 8,118 行。 |
+| 篇幅分布 | 平均每章 10,943 字；最长 CHAPTER XXVII. THE BATTLE OF LARGS.（22,448 字），最短 CHAPTER X. AASTA'S CURSE.（5,468 字）。 |
 | 起止 | 始于「CHAPTER I. THE WITCH OF BUTE.」，止于「CHAPTER XXXI. THE LAST DREAD FIGHT.」。 |
 | 原文溯源 | `cache/epub/12981/pg12981.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/b2c90b5ffdfc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

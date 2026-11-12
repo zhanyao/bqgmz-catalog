@@ -1,7 +1,7 @@
 # Saaristosta: Kuvia suomalaisten saaristolaisten elämästä
 
-**作者** Ivalo, Santeri, 1866-1937 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 6 段 · 135,973 字 ｜ **来源** Project Gutenberg
+**作者** Ivalo, Santeri, 1866-1937 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 12 章 · 135,973 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b7238430c4ef/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（135,973 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,662 字；最长 -- Siinä ei ole hyvin syvää ihan tuossa kallion juurella, ty（39,674 字），最短 Pantsu katseli toveriaan epäillen, kiukku kasvoi. Mitähän se（16,404 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-roman-bare），拼接正文 3,097 行。 |
+| 篇幅分布 | 平均每章 11,300 字；最长 XI.（19,282 字），最短 VI.（7,389 字）。 |
+| 起止 | 始于「I.」，止于「XII.」。 |
 | 原文溯源 | `cache/epub/50135/pg50135.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. -- Siinä ei ole hyvin syvää ihan tuossa kallion juurella, ty
-2. Kun kesällä purjehtii näiden autioiden kallioiden ohi tai jo
-3. Kesäkalan pyyntiajan olisi ollut määrä alkaa niinä päivinä,
-4. Iloista seuraa ja ajan rattoa on Ollilla enin silloin, kun t
-5. Tuo Hanhikivi on, niinkuin sanottu, Pohjanlahdessa, Pyhäjoen
-6. Pantsu katseli toveriaan epäillen, kiukku kasvoi. Mitähän se
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/b7238430c4ef/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/b7238430c4ef/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

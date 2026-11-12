@@ -1,7 +1,7 @@
 # Ni rey ni roque (3-4 de 4)
 
-**作者** Escosura, Patricio de la, 1807-1878 ｜ **国家/地区** 西班牙 ｜ **体例** 段  
-**规模** 9 段 · 198,765 字 ｜ **来源** Project Gutenberg
+**作者** Escosura, Patricio de la, 1807-1878 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 6 章 · 198,765 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c3c6e7f81270/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（198,765 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,085 字；最长 Conseguido esto, lo demás era fácil de arreglar. Aunque no s（39,668 字），最短 Espinosa parece que se complació en burlarse de sus enemigos（18,685 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 5,062 行。 |
+| 篇幅分布 | 平均每章 29,427 字。 |
 | 原文溯源 | `cache/epub/75974/pg75974.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 6 章）
 
-1. Conseguido esto, lo demás era fácil de arreglar. Aunque no s
-2. »Sabíamos que nuestra tía no se había venido a vivir a él po
-3. »Poco disfrutó esta por entonces de la compañía de su esposo
-4. »Llorar fue mi respuesta. Cruzó entonces Clara sus manos, y
-5. »Poco más de un mes hacía, don Juan, que estábamos en aquel
-6. —Señor: el marqués Domiño ha ofrecido a Vuestra Majestad la
-7. Habíase lisonjeado el marqués de que su pretensión era fácil
-8. —¡Maldito hablador! Si no hay otro remedio, que entre.
-9. Espinosa parece que se complació en burlarse de sus enemigos
+1. CAPÍTULO II
+2. CAPÍTULO III
+3. CAPÍTULO IV
+4. CAPÍTULO V
+5. CAPÍTULO VI
+6. CAPÍTULO VII
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/c3c6e7f81270/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/c3c6e7f81270/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

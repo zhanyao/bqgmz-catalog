@@ -1,7 +1,7 @@
 # Dizionario storico-critico degli scrittori di musica e de' più celebri artisti, vol. 3 Di tutte le nazioni sì antiche che moderne
 
-**作者** Bertini, Giuseppe, 1759-1852 ｜ **国家/地区** 意大利 ｜ **体例** 段  
-**规模** 18 段 · 364,218 字 ｜ **来源** Project Gutenberg
+**作者** Bertini, Giuseppe, 1759-1852 ｜ **国家/地区** 意大利 ｜ **体例** 部分  
+**规模** 9 部分 · 364,218 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/be150116cd74/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（364,218 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,234 字；最长 LATILLA (Gaetano), maestro di cappella in Venezia, nacque in（36,015 字），最短 ROZE (abbate Niccolò), bibliotecario del conservatorio di mu（4,300 字）。 |
+| 分章依据 | 按「部分」标记切分为 9 部分（fallback-chunk），拼接正文 6,889 行。 |
+| 篇幅分布 | 平均每部分 40,468 字；最长 第 6 部分（42,656 字），最短 第 9 部分（23,932 字）。 |
 | 原文溯源 | `cache/epub/40819/pg40819.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 9 部分）
 
-1. LATILLA (Gaetano), maestro di cappella in Venezia, nacque in
-2. LICHTENTHAL (Pietro), dottore di medicina tedesco, ma stabil
-3. LUSITANO (Vincenzo), professore ed autore di musica viveva i
-4. MARCELLO (Benedetto), patrizio veneto e d'una famiglia che m
-5. MARTINEZ (Marianna) nacque in Vienna verso il 1750 e nella c
-6. MAYER (Giov. Simone), nato in Baviera è stato pur nondimeno
-7. METASTASIO (Abb. Pietro) nacque in Roma l'anno 1698, all'età
-8. MOMIGNY (Girol. Gius. de), nato a Philippeville nel 1776, ap
-9. MOZART (Giov. Crisost. Volfango Teofilo, da altri detto anco
-10. NEUSZ (Arrigo), dopo aver fatti de' profondi studj in più sc
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/be150116cd74/)
+> 共 9 部分，[完整目录与正文 →](https://www.bqgmz.top/b/be150116cd74/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

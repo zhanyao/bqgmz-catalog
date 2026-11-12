@@ -1,7 +1,7 @@
 # The book of Christmas
 
-**作者** Hervey, Thomas K.; Seymour, Robert, 1798-1836 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 20 段 · 417,414 字 ｜ **来源** Project Gutenberg
+**作者** Hervey, Thomas K.; Seymour, Robert, 1798-1836 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 417,414 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b2d0f97980f6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（417,414 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,870 字；最长 For these reasons--and some others, which are more personal （38,586 字），最短 =Famous Women Series.= George Eliot, 16mo, $1.00; Emily（17,222 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-caps-sections），拼接正文 9,635 行。 |
+| 篇幅分布 | 平均每章 27,791 字；最长 SIGNS OF THE SEASON.（69,996 字），最短 THE CHRISTMAS DAYS.（1,043 字）。 |
 | 原文溯源 | `cache/epub/42622/pg42622.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. For these reasons--and some others, which are more personal
-2. The Christian festival of the Nativity, with which these anc
-3. As early as the twelfth century we have accounts of the spec
-4. The celebrations at the Inns of Court were from time to time
-5. Such are some of the testimonies borne by the parties themse
-6. We have already stated, and have made it quite apparent in o
-7. Nor were the revilings of the Puritans against the lovers of
-8. Nor is the religious feeling which belongs to this season su
-9. The origin of this famous dish, like that of the heroic in a
-10. The plants most commonly in use for this purpose appear to h
+1. DR. YOUNG.
+2. AN HUE AND CRY AFTER CHRISTMAS.（1）
+3. AN HUE AND CRY AFTER CHRISTMAS.（2）
+4. GEORGE FERRERS.（1）
+5. GEORGE FERRERS.（2）
+6. SIGNS OF THE SEASON.
+7. THE CHRISTMAS DAYS.
+8. 21ST DECEMBER.
+9. HAMLET.
+10. 25TH DECEMBER.
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/b2d0f97980f6/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/b2d0f97980f6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

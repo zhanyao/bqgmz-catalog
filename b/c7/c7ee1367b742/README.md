@@ -1,7 +1,7 @@
 # Aljaska en de Canada-spoorweg De Aarde en haar Volken, 1892
 
-**作者** Anonymous ｜ **国家/地区** 荷兰 ｜ **体例** 段  
-**规模** 4 段 · 91,540 字 ｜ **来源** Project Gutenberg
+**作者** Anonymous ｜ **国家/地区** 荷兰 ｜ **体例** 部分  
+**规模** 3 部分 · 91,540 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c7ee1367b742/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（91,540 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,885 字。 |
+| 分章依据 | 按「部分」标记切分为 3 部分（fallback-chunk），拼接正文 1,921 行。 |
+| 篇幅分布 | 平均每部分 30,513 字。 |
 | 原文溯源 | `cache/epub/14830/pg14830.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 3 部分）
 
-1. Men ziet het, we zijn in de beschaafde wereld teruggekeerd;
-2. Beneden Lytton gaat de spoorweg over de Frasersrivier, moet
-3. De Indianen hadden sinds onheugelijke tijden de gewoonte, om
-4. Als men de kerk voorbij is, nadert de hoofdstraat, die, om d
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/c7ee1367b742/)
+> 共 3 部分，[完整目录与正文 →](https://www.bqgmz.top/b/c7ee1367b742/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

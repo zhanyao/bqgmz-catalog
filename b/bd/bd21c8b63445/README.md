@@ -1,7 +1,7 @@
 # Briarwood Girls
 
 **作者** Glover, Julia Lestarjette, 1866- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 64,995 字 ｜ **来源** Project Gutenberg
+**规模** 12 章 · 64,995 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bd21c8b63445/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（64,995 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,908 字；最长 CHAPTER I（10,677 字），最短 CHAPTER VIII（4,023 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XI」。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 1,855 行。 |
+| 篇幅分布 | 平均每章 5,369 字；最长 CHAPTER I（10,119 字），最短 notes: "A teacher at Briarwood; a flyer; a great traveler; a Domestic（2,234 字）。 |
 | 原文溯源 | `cache/epub/34894/pg34894.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/bd21c8b63445/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/bd21c8b63445/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

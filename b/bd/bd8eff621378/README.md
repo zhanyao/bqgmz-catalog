@@ -1,7 +1,7 @@
 # The Journal of Joachim Hane containing his escapes and sufferings during his employment by Oliver Cromwell in France from November 1653 to February 1654
 
-**作者** Hane, Joachim, -1658; Firth, C. H. (Charles Harding), 1857-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 136,473 字 ｜ **来源** Project Gutenberg
+**作者** Hane, Joachim, -1658; Firth, C. H. (Charles Harding), 1857-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 95 篇 · 136,473 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bd8eff621378/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（136,473 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,745 字；最长 The history of Joachim Hane's mission is still more obscure （39,576 字），最短 But the Lord, who heretofore had found out many wonderfull w（17,079 字）。 |
+| 分章依据 | 按「篇」标记切分为 95 篇（通用标记切分），拼接正文 2,664 行。 |
+| 篇幅分布 | 平均每篇 1,432 字。 |
 | 原文溯源 | `cache/epub/50158/pg50158.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 篇）
 
-1. The history of Joachim Hane's mission is still more obscure
-2. After that I had given them answers to every one of their qu
-3. Thus deserting the said chappell I fell into a high way, whi
-4. The stoare of my provision being totaly exhausted, I was now
-5. In this comfortlesse condition I kept my lodging upon the hi
-6. But the Lord, who heretofore had found out many wonderfull w
+1. Joachim Hane, the author of the following journal and the hero of the
+2. Dutch and German engineers also abounded on the parliamentary side. One
+3. Fortunately, the English portion of Hane's career can be traced with
+4. But the Lord-General turned a deaf ear to Lilburne's appeals. He had
+5. At that time the relations of France with England were still strained
+6. But in spite of this recognition the possibility of English intervention
+7. Not until August, 1653, was the royal authority re-established at
+8. There was a wide belief that the foreign policy of the English Republic
+9. But Cromwell had been obliged to turn his arms against Scotland instead
+10. Before Hane the English Government had sent similar emissaries to
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/bd8eff621378/)
+> 共 95 篇，[完整目录与正文 →](https://www.bqgmz.top/b/bd8eff621378/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

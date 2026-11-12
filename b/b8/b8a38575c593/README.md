@@ -1,7 +1,7 @@
 # Erämaan halki
 
-**作者** Sienkiewicz, Henryk, 1846-1916; Silvanto, Reino, 1883-1943 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 9 题 · 441,955 字 ｜ **来源** Project Gutenberg
+**作者** Sienkiewicz, Henryk, 1846-1916; Silvanto, Reino, 1883-1943 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 46 章 · 441,955 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b8a38575c593/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（441,955 字）。 |
-| 分章依据 | 按「题」标记切分为 9 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 49,106 字。 |
+| 分章依据 | 按「章」标记切分为 46 章（auto-num），拼接正文 11,588 行。 |
+| 篇幅分布 | 平均每章 9,605 字；最长 25（22,842 字），最短 10（3,846 字）。 |
 | 原文溯源 | `cache/epub/53605/pg53605.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 题）
+## 章节目录（前 10 章）
 
-1. ERÄMAAN HALKI
-2. Henryk Sienkiewicz
-3. Puolankielestä lyhennellen suomentanut
-4. Risto Silvanto
-5. Stasin oli todellakin jano, hän joi palj
-6. Silloin lähetyssaarnaaja kohotti kärsivä
-7. Stas silitti hänen päätään, otti sitten
-8. Ja hän huusi vielä kovemmin: "Niin juuri! Hyvän Mzimun!"
-9. LOPPU
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
 
-> 共 9 题，[完整目录与正文 →](https://www.bqgmz.top/b/b8a38575c593/)
+> 共 46 章，[完整目录与正文 →](https://www.bqgmz.top/b/b8a38575c593/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（69,858 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,464 字。 |
-| 起止 | 始于「CHAPTER VII.」，止于「CHAPTER X.」。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-chapter），拼接正文 1,418 行。 |
+| 篇幅分布 | 平均每章 17,380 字。 |
+| 起止 | 始于「CHAPTER VII. to CHAPTER X. 1815」，止于「CHAPTER X.」。 |
 | 原文溯源 | `cache/epub/3564/pg3564.txt`（Project Gutenberg） |
 
 ## 章节目录（前 4 章）
 
-1. CHAPTER VII.
+1. CHAPTER VII. to CHAPTER X. 1815
 2. CHAPTER VIII.
 3. CHAPTER IX.
 4. CHAPTER X.
@@ -26,4 +26,4 @@
 > 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/c7d2d77f0d85/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

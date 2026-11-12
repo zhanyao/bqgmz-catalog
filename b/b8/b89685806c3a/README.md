@@ -1,7 +1,7 @@
 # Blackwood's Edinburgh Magazine — Volume 54, No. 333, July 1843
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 47 题 · 484,343 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 484,343 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b89685806c3a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（484,343 字）。 |
-| 分章依据 | 按「题」标记切分为 47 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,305 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-caps-sections），拼接正文 10,183 行。 |
+| 篇幅分布 | 平均每章 44,031 字；最长 PAST AND PRESENT, BY CARLYLE.（69,394 字），最短 JACK STUART'S BET ON THE DERBY, AND HOW HE PAID HIS LOSSES.（3）（4,439 字）。 |
 | 原文溯源 | `cache/epub/14413/pg14413.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BLACKWOOD'S EDINBURGH MAGAZINE
-2. CONTENTS.
-3. WILLIAM BLACKWOOD & SONS, EDINBURGH AND 22, PALL-MALL, LONDON.
-4. MARSTON; OR, THE MEMOIRS OF A STATESMAN.
-5. PART II.
-6. SHAKSPEARE.
-7. Her voice sank for a moment. She recovered herself, and proceeded--
-8. I laughed, and answered,
-9. I once more asked him, "From what quarter is the restoration to come?"
-10. ENGLISH MUSIC AND ENGLISH MUSICIANS.
+1. SHAKSPEARE.（1）
+2. SHAKSPEARE.（2）
+3. SHAKSPEARE.（3）
+4. AN ADVENTURE IN LOUISIANA.
+5. THE ARISTOCRACY OF ENGLAND.
+6. JACK STUART'S BET ON THE DERBY, AND HOW HE PAID HIS LOSSES.（1）
+7. JACK STUART'S BET ON THE DERBY, AND HOW HE PAID HIS LOSSES.（2）
+8. JACK STUART'S BET ON THE DERBY, AND HOW HE PAID HIS LOSSES.（3）
+9. THE WHIPPIAD, A SATIRICAL POEM.
+10. EARLY GREEK ROMANCES--THE ETHIOPICS OF HELIODORUS.
 
-> 共 47 题，[完整目录与正文 →](https://www.bqgmz.top/b/b89685806c3a/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/b89685806c3a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

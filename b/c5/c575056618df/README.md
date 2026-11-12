@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（234,363 字）。 |
-| 分章依据 | 按「章」标记切分为 26 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,013 字；最长 CHAPTER XV: AN UNKNOWN BUSHWHACKER（20,649 字），最短 CHAPTER XI: ATTEMPTED MURDER（3,794 字）。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 7,673 行。 |
+| 篇幅分布 | 平均每章 8,976 字；最长 CHAPTER XV: AN UNKNOWN BUSHWHACKER（20,649 字），最短 CHAPTER XI: ATTEMPTED MURDER（3,794 字）。 |
 | 起止 | 始于「CHAPTER I: UP AGAINST IT」，止于「CHAPTER XXVI: A TALL BLUFF」。 |
 | 原文溯源 | `cache/epub/70449/pg70449.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/c575056618df/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

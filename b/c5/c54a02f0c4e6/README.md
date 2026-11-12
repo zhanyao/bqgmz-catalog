@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（361,756 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 13,398 字；最长 CHAPTER XII--WHAT A WELCOME!（21,297 字），最短 CHAPTER VI--JUST AU REVOIR（9,084 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-chapter），拼接正文 9,115 行。 |
+| 篇幅分布 | 平均每章 13,356 字；最长 CHAPTER XII--WHAT A WELCOME!（21,297 字），最短 CHAPTER I--SOME PLACE LIKE HOME（8,193 字）。 |
 | 起止 | 始于「CHAPTER I--SOME PLACE LIKE HOME」，止于「CHAPTER XXVII--"FORTUNE FOREVERMORE"」。 |
 | 原文溯源 | `cache/epub/35819/pg35819.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/c54a02f0c4e6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

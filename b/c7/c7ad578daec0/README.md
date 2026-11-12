@@ -1,7 +1,7 @@
 # Hazai rejtelmek: Regény (1. kötet)
 
-**作者** Kuthy, Lajos, 1813-1864; Mikszáth, Kálmán, 1847-1910 [Editor]; Pataky, László, 1857-1912 [Illustrator] ｜ **国家/地区** 匈牙利 ｜ **体例** 段  
-**规模** 27 段 · 552,528 字 ｜ **来源** Project Gutenberg
+**作者** Kuthy, Lajos, 1813-1864; Mikszáth, Kálmán, 1847-1910 [Editor]; Pataky, László, 1857-1912 [Illustrator] ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 42 章 · 552,528 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c7ad578daec0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（552,528 字）。 |
-| 分章依据 | 按「段」标记切分为 27 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,464 字；最长 – VI. parancs: ne lopj, mondá kegyesen Sárika, épen azon sza（39,807 字），最短 Ha a magyar papság a néptől fizetett tizednek tizedrészét e （7,738 字）。 |
+| 分章依据 | 按「章」标记切分为 42 章（auto-roman-title），拼接正文 11,839 行。 |
+| 篇幅分布 | 平均每章 12,965 字。 |
+| 起止 | 始于「I. (Hortobágy.)」，止于「XXII. Urfias tréfa 337（部2）」。 |
 | 原文溯源 | `cache/epub/57213/pg57213.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. – VI. parancs: ne lopj, mondá kegyesen Sárika, épen azon sza
-2. A «ház alatt», azaz folyosón, nagyszájú leány guggolt a házh
-3. – Panaszkodott a hallatlan dögről. Igaz, a környékben nagyon
-4. – Hát ki veszi által ezt az eleséget? kérdé gorombán Harangi
-5. Most leoldozá magát azon bérszolgai gyarmat, mely elől és há
-6. – Mi a magyar becsületet illeti, – felelt összeszedve Kátay,
-7. – Mi lelte bal karját? talán a Luna hányta le, hogy foga is
-8. Lajos egy különös titok nyomára jött, mi ujabban jellemzé a
-9. – Hagyjuk azt! sietősb tárgya van óránknak, a nemzetes koma
-10. Nem anyától lettél,
+1. I. (Hortobágy.)
+2. II. (A csikós.)
+3. III. (A hortobágyi csárda.)
+4. IV. (Szállító parasztok.)
+5. V. (Kátay, Kopogó, Nyúl Iczik, Pisze Pista, Harangi talyigás.)
+6. VI. (Dudás Juhász. A Poltrás. Csonka Kondás.)
+7. VII. (A csökönösi báró Ózugi-család.)
+8. VIII. (Folytatás.)
+9. IX. (Várt s váratlan vendég.)
+10. X. (Séta.)
 
-> 共 27 段，[完整目录与正文 →](https://www.bqgmz.top/b/c7ad578daec0/)
+> 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/c7ad578daec0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,22 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（445,968 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 55,746 字；最长 PART VIII.（106,163 字），最短 CHAPTER XXXV.（6,876 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-toc-title-list），拼接正文 9,989 行。 |
+| 篇幅分布 | 平均每章 55,637 字。 |
 | 原文溯源 | `cache/epub/40026/pg40026.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
 
-1. PART VIII.
-2. CHAPTER XXXV.
-3. CHAPTER XXXVI.
-4. CHAPTER XXXVII.
-5. CHAPTER XXXVIII.
-6. The prophecy, as will be seen, astoundin
-7. "My dear baron," said he, gravely, when
-8. If it were not, so to speak, for the gen
+1. MRS HEMANS,
+2. ON THE MISERIES OF IRELAND, AND THEIR REMEDIES,
+3. REPUBLICAN FIRST-FRUITS,
+4. PROPHECIES FOR THE PRESENT,
+5. SIGISMUND FATELLO,
+6. EASTLAKE'S LITERATURE OF THE FINE ARTS,
+7. INDEX,
+8. EDINBURGH:
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/c1961aeea36d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Coral Island
 
-**作者** Ballantyne, R. M. (Robert Michael), 1825-1894 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 41 题 · 437,037 字 ｜ **来源** Project Gutenberg
+**作者** Ballantyne, R. M. (Robert Michael), 1825-1894 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 26 篇 · 437,037 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b55786883e4d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（437,037 字）。 |
-| 分章依据 | 按「题」标记切分为 41 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,659 字。 |
+| 分章依据 | 按「篇」标记切分为 26 篇（通用标记切分），拼接正文 9,740 行。 |
+| 篇幅分布 | 平均每篇 16,596 字；最长 THE VOYAGE--THE ISLAND, AND A CONSULTATION IN WHICH DANGER IS SCOUTED AS（45,348 字），最短 PETERKIN GAY（597 字）。 |
 | 原文溯源 | `cache/epub/21721/pg21721.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Produced by Nick Hodson of London, England
-2. THE CORAL ISLAND, BY R.M. BALLANTYNE.
-3. CHAPTER ONE.
-4. CHAPTER TWO.
-5. CHAPTER THREE.
-6. CHAPTER FOUR.
-7. CHAPTER FIVE.
-8. CHAPTER SIX.
-9. CHAPTER SEVEN.
-10. CHAPTER EIGHT.
+1. THE DEPARTURE--THE SEA--MY COMPANIONS--SOME ACCOUNT OF THE WONDERFUL
+2. WE EXAMINE INTO OUR PERSONAL PROPERTY, AND MAKE A HAPPY DISCOVERY--OUR
+3. AN EXCURSION INTO THE INTERIOR IN WHICH WE MAKE MANY VALUABLE AND
+4. JACK'S INGENUITY--WE GET INTO DIFFICULTIES ABOUT FISHING, AND GET OUT OF
+5. THE BEAUTIES OF THE BOTTOM OF THE SEA TEMPT PETERKIN TO DIVE--HOW HE DID
+6. MAKE DISCOVERY OF MANY EXCELLENT ROOTS AND FRUITS--THE RESOURCES OF THE
+7. EFFECTS OF OVEREATING, AND REFLECTIONS THEREON--HUMBLE ADVICE REGARDING
+8. SOMETHING WRONG WITH THE TANK--JACK'S WISDOM AND PETERKIN'S
+9. NOTABLE DISCOVERY AT THE SPOUTING CLIFFS--THE MYSTERIOUS GREEN MONSTER
+10. STRANGE PECULIARITY OF THE TIDES--ALSO OF THE TWILIGHT--PETERKIN'S
 
-> 共 41 题，[完整目录与正文 →](https://www.bqgmz.top/b/b55786883e4d/)
+> 共 26 篇，[完整目录与正文 →](https://www.bqgmz.top/b/b55786883e4d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

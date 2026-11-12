@@ -1,7 +1,7 @@
 # Seeing France with Uncle John
 
-**作者** Warner, Anne, 1869-1913; Preston, May Wilson, 1873-1949 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 148,473 字 ｜ **来源** Project Gutenberg
+**作者** Warner, Anne, 1869-1913; Preston, May Wilson, 1873-1949 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 148,473 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bb850e7e32bd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（148,473 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,210 字；最长 "Good to be out in the air, eh? I vow, I never was great on （39,711 字），最短 We reached Rennes, and I thought we would go to a hotel; but（8,799 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-roman-bare），拼接正文 3,409 行。 |
+| 篇幅分布 | 平均每章 9,753 字；最长 V（16,416 字），最短 XV（1,821 字）。 |
 | 原文溯源 | `cache/epub/35574/pg35574.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. "Good to be out in the air, eh? I vow, I never was great on
-2. "Yes, Mrs. Braytree, here we are again; and now we'll all pr
-3. The mail came while we were talking, and the most unfortunat
-4. "There, what do you think of that? Yes, it's true for a fact
-5. The morning after I last wrote, Uncle had me waked up at sev
-6. "So this is Pontorson! Do we get down here? Is that the dili
-7. We reached Rennes, and I thought we would go to a hotel; but
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/bb850e7e32bd/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/bb850e7e32bd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

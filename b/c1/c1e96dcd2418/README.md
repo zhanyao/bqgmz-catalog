@@ -1,7 +1,7 @@
 # Zoo'n lastige jongen
 
-**作者** Stebbing, Grace, 1840-1936; Hardy, Paul, 1862-1942 [Illustrator]; Cora, 1840-1920 [Translator] ｜ **国家/地区** 荷兰 ｜ **体例** 段  
-**规模** 6 段 · 126,294 字 ｜ **来源** Project Gutenberg
+**作者** Stebbing, Grace, 1840-1936; Hardy, Paul, 1862-1942 [Illustrator]; Cora, 1840-1920 [Translator] ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 13 章 · 126,294 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c1e96dcd2418/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（126,294 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,049 字；最长 ’t Eerste werk van Jo was naar zijn vader’s schrijftafel te （39,705 字），最短 Corrie nam ’t bekrabbelde papier aan en las, heel langzaam e（6,283 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-roman-bare），拼接正文 3,263 行。 |
+| 篇幅分布 | 平均每章 9,705 字；最长 III.（13,339 字），最短 XIII.（4,938 字）。 |
+| 起止 | 始于「I.」，止于「XIII.」。 |
 | 原文溯源 | `cache/epub/77312/pg77312.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. ’t Eerste werk van Jo was naar zijn vader’s schrijftafel te
-2. Corrie Holmer had tot nog toe ’t logeeren bij haar oom altij
-3. „In orde, hoor,” antwoordde de heldere, flinke stem van den
-4. „Zoo, kleine Jo, hoeveel ondeugends heb-je, in dien tijd dat
-5. „O—o!” zei Corrie, terwijl haar lachlust verdween, en ze haa
-6. Corrie nam ’t bekrabbelde papier aan en las, heel langzaam e
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/c1e96dcd2418/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/c1e96dcd2418/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

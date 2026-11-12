@@ -1,7 +1,7 @@
 # The Hanging Stranger
 
-**作者** Dick, Philip K., 1928-1982 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 12 题 · 24,351 字 ｜ **来源** Project Gutenberg
+**作者** Dick, Philip K., 1928-1982 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 24,351 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c47694ed4850/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（24,351 字）。 |
-| 分章依据 | 按「题」标记切分为 12 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,029 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 757 行。 |
+| 篇幅分布 | 平均每篇 24,351 字。 |
 | 原文溯源 | `cache/epub/41562/pg41562.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 1 篇）
 
-1. THE HANGING STRANGER
-2. BY PHILIP K. DICK
-3. ILLUSTRATED BY SMITH
-4. Jack Potter from the shoe shop joined them. "What's up, boys?"
-5. Ed nodded dazedly. "Hello, Jenkins."
-6. More people collected. "Is he sick? It's Ed Loyce. You okay, Ed?"
-7. Janet moved toward the window. "But--"
-8. Janet shook her head. "I don't understand, Ed. You must be insane."
-9. Jim started slowly down the stairs. "What's up, Dad?"
-10. Loyce sagged. "Thank God."
+1. The Hanging Stranger
 
-> 共 12 题，[完整目录与正文 →](https://www.bqgmz.top/b/c47694ed4850/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/c47694ed4850/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

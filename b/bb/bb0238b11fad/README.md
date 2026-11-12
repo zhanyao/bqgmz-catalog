@@ -1,7 +1,7 @@
 # The Coming of Bill
 
 **作者** Wodehouse, P. G. (Pelham Grenville), 1881-1975 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 378,364 字 ｜ **来源** Project Gutenberg
+**规模** 28 章 · 378,364 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bb0238b11fad/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（378,364 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,647 字。 |
-| 起止 | 始于「Chapter I.」，止于「Chapter XVI.」。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-toc-title-list），拼接正文 11,331 行。 |
+| 篇幅分布 | 平均每章 13,484 字；最长 CHAPTER VII. Cutting the Tangled Knot（27,326 字），最短 CHAPTER XVI. The White-Hope Link（3,278 字）。 |
+| 起止 | 始于「CHAPTER I. A Pawn of Fate」，止于「CHAPTER XVI. The White-Hope Link」。 |
 | 原文溯源 | `cache/epub/6880/pg6880.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Chapter I.
-2. Chapter II.
-3. Chapter III.
-4. Chapter IV.
-5. Chapter V.
-6. Chapter VI.
-7. Chapter VII.
-8. Chapter VIII.
-9. Chapter IX.
-10. Chapter X.
+1. CHAPTER I. A Pawn of Fate
+2. CHAPTER II. Ruth States Her Intentions
+3. CHAPTER III. The Mates Meet
+4. CHAPTER IV. Troubled Waters
+5. CHAPTER V. Wherein Opposites Agree
+6. CHAPTER VI. Breaking the News
+7. CHAPTER VII. Sufficient Unto Themselves
+8. CHAPTER VIII. Suspense
+9. CHAPTER IX. The White Hope is Turned Down
+10. CHAPTER X. An Interlude of Peace
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/bb0238b11fad/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/bb0238b11fad/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

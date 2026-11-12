@@ -1,7 +1,7 @@
 # In the Control Tower
 
-**作者** Mohler, Will; Giunta, John, 1920-1970 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 5 题 · 28,209 字 ｜ **来源** Project Gutenberg
+**作者** Mohler, Will; Giunta, John, 1920-1970 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 28,209 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cb1c78fbad95/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（28,209 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,641 字；最长 III（8,776 字），最短 IN THE CONTROL TOWER（617 字）。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 723 行。 |
+| 篇幅分布 | 平均每篇 28,209 字。 |
 | 原文溯源 | `cache/epub/23149/pg23149.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 1 篇）
 
-1. IN THE CONTROL TOWER
-2. Illustrated by GIUNTA
-3. II
-4. III
-5. IV
+1. In the Control Tower
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/cb1c78fbad95/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/cb1c78fbad95/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

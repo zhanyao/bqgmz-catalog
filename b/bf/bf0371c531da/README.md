@@ -1,7 +1,7 @@
 # Rahab
 
-**作者** Frank, Waldo David, 1889-1967 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 11 段 · 225,999 字 ｜ **来源** Project Gutenberg
+**作者** Frank, Waldo David, 1889-1967 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 225,999 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bf0371c531da/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（225,999 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,545 字；最长 She had a dream. Her bed was a vast blackness.--It is white,（40,012 字），最短 “It seemed to me though, that I could hear the shot that got（5,788 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-toc-title-list），拼接正文 7,054 行。 |
+| 篇幅分布 | 平均每章 32,170 字；最长 PAVEMENT OVER EARTH（66,692 字），最短 BRASS GAS CHANDELIER（5,440 字）。 |
 | 原文溯源 | `cache/epub/73590/pg73590.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 7 章）
 
-1. She had a dream. Her bed was a vast blackness.--It is white,
-2. “Christ!” gasped Harry Rowland Luve: then he slept.
-3. But as she walked the inept city, a scene came and it filled
-4. Fanny, quailing before her sudden resolve to give notice, sa
-5. “I’ve been married fifteen years,” he said. “I know what I f
-6. From heavy sleep Fanny awoke exhausted. Her eyes opening wer
-7. She was in a station of the Subway. Clara was beside her. Cr
-8. --She’s diligent! If she were German, wouldn’t I say: No one
-9. Her breath bounded against his. “You see?” he panted. “You m
-10. “Don’t you think the blue goes nice with the red? It was fun
+1. BRASS GAS CHANDELIER
+2. RIVER GARDEN
+3. WHITE SKY
+4. PAVEMENT OVER EARTH
+5. CLARA
+6. PAVEMENT BROKEN
+7. EARTH
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/bf0371c531da/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/bf0371c531da/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

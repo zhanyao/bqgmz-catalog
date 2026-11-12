@@ -1,7 +1,7 @@
 # Om Lars Johansson (Lucidor den olycklige) Litteraturhistoriskt utkast
 
-**作者** Linck, Josef ｜ **国家/地区** 瑞典 ｜ **体例** 题  
-**规模** 8 题 · 247,600 字 ｜ **来源** Project Gutenberg
+**作者** Linck, Josef ｜ **国家/地区** 瑞典 ｜ **体例** 篇  
+**规模** 145 篇 · 247,600 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b32415149a0b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（247,600 字）。 |
-| 分章依据 | 按「题」标记切分为 8 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 30,950 字。 |
+| 分章依据 | 按「篇」标记切分为 145 篇（通用标记切分），拼接正文 5,238 行。 |
+| 篇幅分布 | 平均每篇 1,706 字。 |
 | 原文溯源 | `cache/epub/28539/pg28539.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 题）
+## 章节目录（前 10 篇）
 
-1. Om
-2. Lars Johansson
-3. I.
-4. De utgjordes då till största delen af br
-5. II.
-6. Vij lykta[32] billigt grååt, hvar hennes frögd begynns.--
-7. Fast om hans späde lijf i morgon'n fann sin kväll!--
-8. Ur en Antecknares Samlingar. Sthm 1868-1874. [Af _G. E Klemming_.]
+1. En bland de intressantaste företeelserna inom den svenska
+2. Förrän vi inlåta oss på berättelsen om Lucidors lefnad, måste vi genast i
+3. Lika som hans börd är otydlig, synes han ej heller fått ega något
+4. Det är ej utan vigt vid bedömandet af Lars Johanssons senare lefnadsbana
+5. I geografin känner han för sin tid ganska utförligt till städerna i
+6. Här ser man tydligt, huru alkemin på hans tid ännu höll på att grundlägga
+7. Man ser åtminstone, att han ej var benägen för vidskepelse inom alla
+8. Den, som underhöll honom vid universitetet, var Karl Gustaf Wrangel, som
+9. Vi kunna omtala en episod från denna resas början. Kärleken hade redan
+10. Ack, denna kyska kärlek bortjagades väl snart ur den knappt manbare
 
-> 共 8 题，[完整目录与正文 →](https://www.bqgmz.top/b/b32415149a0b/)
+> 共 145 篇，[完整目录与正文 →](https://www.bqgmz.top/b/b32415149a0b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

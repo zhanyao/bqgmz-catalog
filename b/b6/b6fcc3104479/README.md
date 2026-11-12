@@ -1,7 +1,7 @@
 # Wild Animals I Have Known
 
-**作者** Seton, Ernest Thompson, 1860-1946 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 50 题 · 225,083 字 ｜ **来源** Project Gutenberg
+**作者** Seton, Ernest Thompson, 1860-1946 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 42 章 · 225,083 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b6fcc3104479/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（225,083 字）。 |
-| 分章依据 | 按「题」标记切分为 50 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,501 字。 |
+| 分章依据 | 按「章」标记切分为 42 章（auto-roman-bare），拼接正文 5,075 行。 |
+| 篇幅分布 | 平均每章 5,272 字；最长 II（部5）（11,164 字），最短 VII（部4）（1,070 字）。 |
 | 原文溯源 | `cache/epub/3031/pg3031.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by David Reed
-2. WILD ANIMALS I HAVE KNOWN
-3. By Ernest Thompson Seton
-4. Books by Ernest Thompson Seton
-5. Stories in This Book
-6. ERNEST THOMPSON SETON
-7. LOBO, The King of Currumpaw
-8. II
-9. III
-10. SILVERSPOT, The Story of a Crow
+1. I
+2. II
+3. III
+4. I（部2）
+5. II（部2）
+6. III（部2）
+7. I（部3）
+8. II（部3）
+9. III（部3）
+10. IV（部3）
 
-> 共 50 题，[完整目录与正文 →](https://www.bqgmz.top/b/b6fcc3104479/)
+> 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/b6fcc3104479/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

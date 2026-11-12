@@ -1,7 +1,7 @@
 # Suomalaisia sankareita II: Historiallisia kertomuksia
 
-**作者** Ivalo, Santeri, 1866-1937; Wilkuna, Kyösti, 1879-1922 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 28 段 · 572,413 字 ｜ **来源** Project Gutenberg
+**作者** Ivalo, Santeri, 1866-1937; Wilkuna, Kyösti, 1879-1922 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 20 章 · 572,413 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c180dced4b58/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（572,413 字）。 |
-| 分章依据 | 按「段」标记切分为 28 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,443 字；最长 Kun ensimmäinen hyökkäys linnoitusta vastaan oli lyöty takai（39,567 字），最短 -- Emme tietysti suurempaa voimaa vastaan, sanoi Roth. -- Mu（11,643 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-toc-title-list），拼接正文 12,828 行。 |
+| 篇幅分布 | 平均每章 27,475 字；最长 Meri- ja metsäsissi（43,599 字），最短 Sotapappi（10,513 字）。 |
 | 原文溯源 | `cache/epub/56194/pg56194.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Kun ensimmäinen hyökkäys linnoitusta vastaan oli lyöty takai
-2. Kauan sotapakolaiset piileskelivät metsissä, söivät marjoja
-3. Rauha oli tehty, suomalaiset pakolaiset saattoivat vihdoin p
-4. Mutta pitkällistä rauhaa ei vihollinen suonut. Suurin joukoi
-5. Pastori Lechlin oli tavannut jalkarakuunain joukossa muutami
-6. Hän tempasi sarkatakkinsa povesta kuluneen nahkalompakon, jo
-7. Siihen rantaäyräälle oli keräytynyt aika paljon kylän väkeä
-8. -- Älä arkaile, tiedäthän, sanasta miestä... Äläkä pelkää, e
-9. Kuin kiusaten kirkuivat lokit suurenlaisen sotalaivan ympäri
-10. Mutta tulitus ei ollut enää äskeisen veroinen, sen Niilo-her
+1. Neljäkymmentä vuotta soturinelämää
+2. Vastoinkäymisten sankari
+3. Sotapappi
+4. Korpimajuri
+5. Meri- ja metsäsissi
+6. Herää hetkeksikin, tuuli!
+7. Sotilas vakaa ja nuhteeton
+8. Isonvihan nuijamiehet
+9. Suurin suomalainen seikkailija
+10. Uskollinen kutsumukselleen
 
-> 共 28 段，[完整目录与正文 →](https://www.bqgmz.top/b/c180dced4b58/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/c180dced4b58/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

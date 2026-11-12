@@ -1,7 +1,7 @@
 # Mazaroffin murhajuttu
 
-**作者** Fletcher, J. S. (Joseph Smith), 1863-1935; Kupiainen, Alpo, 1888-1937 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 62 题 · 373,875 字 ｜ **来源** Project Gutenberg
+**作者** Fletcher, J. S. (Joseph Smith), 1863-1935; Kupiainen, Alpo, 1888-1937 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 篇  
+**规模** 9 篇 · 373,875 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/be2a739be6e1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（373,875 字）。 |
-| 分章依据 | 按「题」标记切分为 62 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,030 字。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（通用标记切分），拼接正文 9,063 行。 |
+| 篇幅分布 | 平均每篇 41,451 字；最长 Timanttimaailma（1）（55,228 字），最短 Muistolevy（2）（24,030 字）。 |
 | 原文溯源 | `cache/epub/66836/pg66836.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 篇）
 
-1. MAZAROFFIN MURHAJUTTU
-2. J. S. Fletcher
-3. Englanninkielestä (The Mazaroff murder) suomentanut
-4. Alpo Kupiainen
-5. Valittuja salapoliisiromaaneja 12
-6. SISÄLLYS:
-7. ENSIMMÄINEN LUKU
-8. Herra Mazaroff
-9. TOINEN LUKU
-10. Lehtokurpan majatalo
+1. Herra Mazaroff
+2. Kadoksissa
+3. Muistolevy（1）
+4. Muistolevy（2）
+5. Timanttimaailma（1）
+6. Timanttimaailma（2）
+7. Timanttimaailma（3）
+8. Tietymättömissä
+9. Syytettynä
 
-> 共 62 题，[完整目录与正文 →](https://www.bqgmz.top/b/be2a739be6e1/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/be2a739be6e1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

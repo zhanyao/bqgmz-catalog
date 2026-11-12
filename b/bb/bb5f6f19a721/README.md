@@ -1,7 +1,7 @@
 # Geschichte von England seit der Thronbesteigung Jakob's des Zweiten. Vierter Band
 
-**作者** Macaulay, Thomas Babington Macaulay, Baron, 1800-1859; Beseler, Wilhelm, 1806-1884 [Translator] ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 9 题 · 452,546 字 ｜ **来源** Project Gutenberg
+**作者** Macaulay, Thomas Babington Macaulay, Baron, 1800-1859; Beseler, Wilhelm, 1806-1884 [Translator] ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 11 部分 · 452,546 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bb5f6f19a721/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（452,546 字）。 |
-| 分章依据 | 按「题」标记切分为 9 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 50,282 字；最长 [_Patriotismus der protestantischen Nonc（91,900 字），最短 Druckfehler und Unregelmässigkeiten（300 字）。 |
+| 分章依据 | 按「部分」标记切分为 11 部分（fallback-chunk），拼接正文 8,696 行。 |
+| 篇幅分布 | 平均每部分 41,140 字；最长 第 3 部分（43,298 字），最短 第 11 部分（24,718 字）。 |
 | 原文溯源 | `cache/epub/30331/pg30331.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 题）
+## 章节目录（前 10 部分）
 
-1. Thomas Babington Macaulay’s
-2. Geschichte von England
-3. Unter dem Einflusse solcher Erwägungen b
-4. Das Benehmen Compton’s und Herbert’s bed
-5. [Anmerkung 21: Im Deutschen läßt sich da
-6. [_Patriotismus der protestantischen Nonc
-7. Druckfehler und Unregelmässigkeiten
-8. VII. Kapitel
-9. VIII. Kapitel
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 9 题，[完整目录与正文 →](https://www.bqgmz.top/b/bb5f6f19a721/)
+> 共 11 部分，[完整目录与正文 →](https://www.bqgmz.top/b/bb5f6f19a721/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Unterm Rad
 
-**作者** Hesse, Hermann, 1877-1962 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 12 题 · 266,070 字 ｜ **来源** Project Gutenberg
+**作者** Hesse, Hermann, 1877-1962 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 4 篇 · 266,070 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/be30668eeeb9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（266,070 字）。 |
-| 分章依据 | 按「题」标记切分为 12 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 22,172 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（auto-title-block），拼接正文 5,943 行。 |
+| 篇幅分布 | 平均每篇 64,281 字。 |
 | 原文溯源 | `cache/epub/49908/pg49908.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 篇）
 
-1. Unterm Rad
-2. S. Fischer, Verlag, Berlin
-3. Erstes Kapitel
-4. Zweites Kapitel
-5. Er streckte sich behaglich. »'s geht an, ja.«
-6. Drittes Kapitel
-7. Viertes Kapitel
-8. Fünftes Kapitel
-9. Sechstes Kapitel
-10. Siebentes Kapitel
+1. Schlaf haben.«
+2. Drittes Kapitel
+3. Viertes Kapitel
+4. Fünftes Kapitel
 
-> 共 12 题，[完整目录与正文 →](https://www.bqgmz.top/b/be30668eeeb9/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/be30668eeeb9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Cassell's book of birds; vol. 2
 
-**作者** Brehm, Alfred Edmund, 1829-1884; Jones, Thomas Rymer, 1810-1880 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 380 题 · 908,275 字 ｜ **来源** Project Gutenberg
+**作者** Brehm, Alfred Edmund, 1829-1884; Jones, Thomas Rymer, 1810-1880 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 190 章 · 908,275 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bf297ab58e42/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（908,275 字）。 |
-| 分章依据 | 按「题」标记切分为 380 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,390 字。 |
+| 分章依据 | 按「章」标记切分为 190 章（auto-caps-sections），拼接正文 18,500 行。 |
+| 篇幅分布 | 平均每章 4,780 字；最长 THE BLACK-CAP TITMOUSE.（26,776 字），最短 THE FIRE-EYED WARBLERS.（341 字）。 |
 | 原文溯源 | `cache/epub/57450/pg57450.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE PURPLE CRESTED CORYTHAIX ____ Corythaix macrorhynchus
-2. CASSELL'S BOOK OF BIRDS.
-3. THOMAS RYMER JONES, F.R.S.,
-4. VOL. II.
-5. CONTENTS.
-6. PAGE
-7. CATCHERS (_Captantes_).--_Continued._
-8. RAPTORIAL BIRDS.
-9. THE LYRE BIRD (_Menura superba_) 232-237
-10. LIST OF ILLUSTRATIONS.
+1. BOOK OF BIRDS.
+2. THE HAWKS.
+3. THE LAUGHING HAWK.
+4. THE DOUBLE-TOOTHED HAWK.
+5. THE TRUE SINGING HAWK.
+6. THE GOLDEN EAGLE.
+7. THE SPOTTED EAGLE.
+8. THE BOOTED EAGLE.
+9. THE DWARF EAGLE.
+10. THE BOLD WEDGE-TAILED EAGLE.
 
-> 共 380 题，[完整目录与正文 →](https://www.bqgmz.top/b/bf297ab58e42/)
+> 共 190 章，[完整目录与正文 →](https://www.bqgmz.top/b/bf297ab58e42/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

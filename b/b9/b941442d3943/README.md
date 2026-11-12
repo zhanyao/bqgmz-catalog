@@ -1,7 +1,7 @@
 # Las Fuerzas Extrañas
 
-**作者** Lugones, Leopoldo, 1874-1938 ｜ **国家/地区** 西班牙 ｜ **体例** 段  
-**规模** 11 段 · 232,617 字 ｜ **来源** Project Gutenberg
+**作者** Lugones, Leopoldo, 1874-1938 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 15 章 · 232,617 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b941442d3943/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（232,617 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,147 字；最长 Sobre mi mesa de trabajo, aquí mismo, en tanto que finalizo （39,612 字），最短 Antes del proceso cristalino y del vegetativo, en el cual la（12,690 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-toc-title-list），拼接正文 5,650 行。 |
+| 篇幅分布 | 平均每章 15,397 字。 |
 | 原文溯源 | `cache/epub/65689/pg65689.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Sobre mi mesa de trabajo, aquí mismo, en tanto que finalizo
-2. Nada tenía de atrayente el lugar. La estación con su techo d
-3. Tres horas después, los soldados venían en grupos á contempl
-4. “Ante todo, tenía tres caminos: ó colar el sonido á través d
-5. Eran verdaderamente notables corceles, pero bestias al fin.
-6. --Como las mandrágoras, repitió él palideciendo aún más que
-7. El proyecto del maligno fué sutil. Una preocupación tenaz as
-8. El doctor, entre tanto, presa de una emoción que en vano int
-9. Así, pues, tenemos que la primera manifestación de la energí
-10. [23] En la materia no atómica, es claro que no puede haber c
+1. La fuerza Omega
+2. La lluvia de fuego
+3. Un fenómeno inexplicable
+4. El milagro de san Wilfrido
+5. El escuerzo
+6. La metamúsica
+7. El origen del diluvio
+8. Los caballos de Abdera
+9. Viola acherontia
+10. Yzur
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/b941442d3943/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/b941442d3943/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（237,246 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,541 字；最长 CHAPTER V.（65,879 字），最短 CHAPTER II.（18,330 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 5,384 行。 |
+| 篇幅分布 | 平均每章 38,294 字；最长 CHAPTER V.（86,265 字），最短 CHAPTER II.（485 字）。 |
 | 原文溯源 | `cache/epub/61074/pg61074.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
@@ -22,9 +22,9 @@
 3. CHAPTER III.
 4. CHAPTER IV.
 5. CHAPTER V.
-6. “The English colors way flyin’ from the
+6. notes of two hundred and fifty dollars, for one and two years, and I
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/c4294ffaa8e3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

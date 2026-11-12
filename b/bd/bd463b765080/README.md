@@ -1,7 +1,7 @@
 # The Romance of His Life, and Other Romances
 
-**作者** Cholmondeley, Mary, 1859-1925 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 53 题 · 247,768 字 ｜ **来源** Project Gutenberg
+**作者** Cholmondeley, Mary, 1859-1925 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 247,768 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bd463b765080/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（247,768 字）。 |
-| 分章依据 | 按「题」标记切分为 53 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,674 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-toc-title-list），拼接正文 6,755 行。 |
+| 篇幅分布 | 平均每章 27,406 字；最长 THE END OF THE DREAM（39,788 字），最短 VOTES FOR MEN（15,005 字）。 |
 | 原文溯源 | `cache/epub/40947/pg40947.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. THE ROMANCE OF HIS LIFE
-2. And Other Romances
-3. LONDON: JOHN MURRAY.
-4. THE ROMANCE OF HIS LIFE
-5. And Other Romances
-6. MARY CHOLMONDELEY
-7. Author of "Red Pottage."
-8. Contents
-9. PAGE
-10. INTRODUCTION 11
+1. INTRODUCTION
+2. THE ROMANCE OF HIS LIFE
+3. THE DARK COTTAGE
+4. THE GHOST OF A CHANCE
+5. THE GOLDFISH
+6. THE STARS IN THEIR COURSES
+7. HER MURDERER
+8. VOTES FOR MEN
+9. THE END OF THE DREAM
 
-> 共 53 题，[完整目录与正文 →](https://www.bqgmz.top/b/bd463b765080/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/bd463b765080/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

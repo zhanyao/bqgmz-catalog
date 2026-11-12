@@ -1,7 +1,7 @@
 # Puulusikka
 
-**作者** Onkel Adam, 1804-1889; Kärkönen, Tapani [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 37 题 · 333,805 字 ｜ **来源** Project Gutenberg
+**作者** Onkel Adam, 1804-1889; Kärkönen, Tapani [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 23 章 · 333,805 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c240d9294d7f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（333,805 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,021 字。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-toc-title-list），拼接正文 9,090 行。 |
+| 篇幅分布 | 平均每章 14,492 字；最长 Olkia kadulla（33,278 字），最短 Aika sen jälkeen（1,780 字）。 |
 | 原文溯源 | `cache/epub/25679/pg25679.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Tapio Riikonen
-2. PUULUSIKKA
-3. Onkel Adam [Carl Anton Wetterbergh]
-4. Suomennos ["Träskeden", Tapani Kärkönen]
-5. SISÄLLYS:
-6. JOUTSENVESI.
-7. KAMREERI MILLER.
-8. KAHDEKSAN VUODEN PERÄSTÄ.
-9. ANNETTEN KAMARISSA.
-10. VASTAPÄÄTÄ KADUN TOISELLA PUOLELLA.
+1. Joutsenvesi
+2. Kamreeri Miller
+3. Kahdeksan vuoden perästä
+4. Annetten kamarissa
+5. Vastapäätä kadun toisella puolella
+6. Vanhukset
+7. Hätää yhä kestää
+8. Muuan kohtaus
+9. Pitkämatkainen tervehdys
+10. Suoramielisyys
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/c240d9294d7f/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/c240d9294d7f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

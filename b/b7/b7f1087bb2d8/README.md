@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（91,538 字）。 |
-| 分章依据 | 按「章」标记切分为 40 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 2,288 字；最长 CHAPTER I: Peter Rabbit Meets Lightfoot（4,419 字），最短 CHAPTER XVIII: The Hunter Loses His Temper（1,862 字）。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-chapter），拼接正文 2,434 行。 |
+| 篇幅分布 | 平均每章 2,259 字；最长 CHAPTER IV: The Spirit Of Fear（3,580 字），最短 CHAPTER XVIII: The Hunter Loses His Temper（1,862 字）。 |
 | 起止 | 始于「CHAPTER I: Peter Rabbit Meets Lightfoot」，止于「CHAPTER XL: Happy Days In The Green Forest」。 |
 | 原文溯源 | `cache/epub/4670/pg4670.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/b7f1087bb2d8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

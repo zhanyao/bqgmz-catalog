@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（223,070 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 44,614 字；最长 SECTION IV（60,324 字），最短 SECTION III（11,423 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-part），拼接正文 5,804 行。 |
+| 篇幅分布 | 平均每章 43,106 字；最长 PART II（1）（56,160 字），最短 PART II（2）（19,369 字）。 |
 | 原文溯源 | `cache/epub/7981/pg7981.txt`（Project Gutenberg） |
 
 ## 章节目录（前 5 章）
 
-1. SECTION I
-2. SECTION II
-3. SECTION III
-4. SECTION IV
-5. Just as, by adding Neradol D to a tannin
+1. PART I（1）
+2. PART I（2）
+3. PART I（3）
+4. PART II（1）
+5. PART II（2）
 
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/b6bc55456b5e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Pied Piper of Hamelin, and Other Poems Every Boy's Library
 
-**作者** Browning, Robert, 1812-1889 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 72 题 · 62,584 字 ｜ **来源** Project Gutenberg
+**作者** Browning, Robert, 1812-1889 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 62,584 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bcb30b3a2a5d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（62,584 字）。 |
-| 分章依据 | 按「题」标记切分为 72 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 869 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-toc-title-list），拼接正文 2,329 行。 |
+| 篇幅分布 | 平均每章 4,613 字；最长 CLIVE（13,086 字），最短 THROUGH THE METIDJA TO ABD-EL-KADR（986 字）。 |
 | 原文溯源 | `cache/epub/42850/pg42850.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Every Boy's Library
-2. For Little Boys
-3. NEW EDITION, 1910
-4. EVERY BOY'S LIBRARY
-5. By
-6. ROBERT BROWNING
-7. ILLUSTRATED
-8. CONTENTS.
-9. PAGE
-10. THE PIED PIPER OF HAMELIN 11
+1. THE PIED PIPER OF HAMELIN
+2. HERVÉ RIEL
+3. CAVALIER TUNES
+4. "HOW THEY BROUGHT THE GOOD NEWS FROM GHENT TO AIX"
+5. THROUGH THE METIDJA TO ABD-EL-KADR
+6. INCIDENT OF THE FRENCH CAMP
+7. CLIVE
+8. MULÉYKEH
+9. TRAY
+10. A TALE
 
-> 共 72 题，[完整目录与正文 →](https://www.bqgmz.top/b/bcb30b3a2a5d/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/bcb30b3a2a5d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

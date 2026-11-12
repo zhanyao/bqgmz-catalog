@@ -1,7 +1,7 @@
 # Lukemisia lapsille 3
 
-**作者** Topelius, Zacharias, 1818-1898 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 42 题 · 270,427 字 ｜ **来源** Project Gutenberg
+**作者** Topelius, Zacharias, 1818-1898 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 26 章 · 270,427 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cbbeb984399b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（270,427 字）。 |
-| 分章依据 | 按「题」标记切分为 42 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,438 字。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-toc-title-list），拼接正文 7,911 行。 |
+| 篇幅分布 | 平均每章 10,376 字；最长 Turun linnan tonttu-ukko.（36,299 字），最短 Merimiehen koti-ikävä.（702 字）。 |
 | 原文溯源 | `cache/epub/51853/pg51853.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LUKEMISIA LAPSILLE 3
-2. Z. Topelius
-3. Suomentaneet Aatto Suppanen, Em. Tamminen ja Olof Berg
-4. SISÄLLYS:
-5. KUNNIOITA ISÄÄSI JA ÄITIÄSI,
-6. Poika vastasi: "minä vuolen kaukaloa."
-7. NOORA, JOKA EI TAHTONUT OLLA LAPSI.
-8. PAIMENTYTTÖ.
-9. TYTTÖ MARJASSA.
-10. VUODEN-AJAT.
+1. Kunnioita isääsi ja äitiäsi.
+2. Noora, joka ei tahtonut olla lapsi.
+3. Paimentyttö.
+4. Tyttö marjassa.
+5. Vuoden-ajat.
+6. Tomu.
+7. Pudonnut kenkä.
+8. Turun linnan tonttu-ukko.
+9. Ulpukka.
+10. Metsästäjän ensimmäinen saalis.
 
-> 共 42 题，[完整目录与正文 →](https://www.bqgmz.top/b/cbbeb984399b/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/cbbeb984399b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # History of my pets
 
-**作者** Greenwood, Grace, 1823-1904; Billings, Hammatt, 1818-1874 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 117,853 字 ｜ **来源** Project Gutenberg
+**作者** Greenwood, Grace, 1823-1904; Billings, Hammatt, 1818-1874 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 20 章 · 117,853 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ca9869b3baea/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（117,853 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,570 字；最长 Finally the time came for Toby to be respected as he deserve（38,750 字），最短 At length the poor old porter died; and as his successor was（17,859 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-toc-title-list），拼接正文 2,631 行。 |
+| 篇幅分布 | 平均每章 5,834 字。 |
 | 原文溯源 | `cache/epub/71523/pg71523.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. Finally the time came for Toby to be respected as he deserve
-2. But Cora’s sorrow was also sad to see. When the body of Char
-3. One summer day, my brother Charles and a young man who lived
-4. One fatal day the little spaniel miscalculated the speed of
-5. At length the poor old porter died; and as his successor was
+1. KETURAH, THE CAT
+2. SAM, THE COCKEREL
+3. TOBY, THE HAWK
+4. MILLY, THE PONY, AND CARLO, THE DOG
+5. CORA, THE SPANIEL
+6. JACK, THE DRAKE
+7. HECTOR, THE GREYHOUND
+8. BOB, THE COSSET
+9. ROBIN REDBREAST
+10. TOM
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/ca9869b3baea/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/ca9869b3baea/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

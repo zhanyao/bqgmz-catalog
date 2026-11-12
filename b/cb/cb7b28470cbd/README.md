@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（305,608 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 61,121 字；最长 PART II.（69,606 字），最短 PART III.（51,875 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-chapter），拼接正文 6,795 行。 |
+| 篇幅分布 | 平均每章 59,830 字；最长 PART I.（109,453 字），最短 PART IV.（8,948 字）。 |
 | 原文溯源 | `cache/epub/48916/pg48916.txt`（Project Gutenberg） |
 
 ## 章节目录（前 5 章）
 
 1. PART I.
-2. These curious creatures have not their l
-3. PART II.
-4. PART III.
-5. PART IV.
+2. PART II.
+3. PART III.
+4. PART IV.
+5. Notes, No. IX), and find the sum and substance of fourteen “sayings” to
 
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/cb7b28470cbd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

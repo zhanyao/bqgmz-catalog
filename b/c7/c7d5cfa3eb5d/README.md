@@ -1,7 +1,7 @@
 # The Seventh Manchesters: July 1916 to March 1919
 
 **作者** Wilson, S. J. ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 271,085 字 ｜ **来源** Project Gutenberg
+**规模** 12 章 · 271,085 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c7d5cfa3eb5d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（271,085 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,644 字；最长 CHAPTER I.（38,440 字），最短 CHAPTER III.（6,531 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XI.」。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 6,686 行。 |
+| 篇幅分布 | 平均每章 21,496 字；最长 CHAPTER IX.（33,994 字），最短 CHAPTER XI.（2,542 字）。 |
 | 原文溯源 | `cache/epub/18659/pg18659.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/c7d5cfa3eb5d/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/c7d5cfa3eb5d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

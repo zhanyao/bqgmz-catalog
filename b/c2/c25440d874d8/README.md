@@ -1,7 +1,7 @@
 # L'Illustration, No. 3671, 5 Juillet 1913
 
-**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 47 题 · 101,438 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 25 篇 · 101,438 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c25440d874d8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（101,438 字）。 |
-| 分章依据 | 按「题」标记切分为 47 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,158 字。 |
+| 分章依据 | 按「篇」标记切分为 25 篇（通用标记切分），拼接正文 2,374 行。 |
+| 篇幅分布 | 平均每篇 4,036 字。 |
 | 原文溯源 | `cache/epub/36357/pg36357.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Produced by Jeroen Hellingman and Rénald Lévesque
-2. L'Illustration, No. 3671, 5 Juillet 1913
-3. COURRIER DE PARIS
-4. APRÈS LA PISANELLE
-5. HENRI LAVEDAN.
-6. NOS HOTES AMÉRICAINS
-7. M. LAWRENCE LOWELL
-8. RAYMOND RECOULY.
-9. M. ANDREW CARNEGIE
-10. HENRI ROCHEFORT
+1. LES ALLIÉS D'HIER
+2. APRÈS LA PISANELLE
+3. M. LAWRENCE LOWELL
+4. M. ANDREW CARNEGIE
+5. HENRI ROCHEFORT
+6. GRECS, SERBES ET BULGARES EN MACÉDOINE
+7. LE GRAND PRIX
+8. CERFS-VOLANTS MARITIMES
+9. UNE NOUVELLE CONQUÊTE DE LA SCIENCE FRANÇAISE
+10. LA VACCINATION EN GÉNÉRAL
 
-> 共 47 题，[完整目录与正文 →](https://www.bqgmz.top/b/c25440d874d8/)
+> 共 25 篇，[完整目录与正文 →](https://www.bqgmz.top/b/c25440d874d8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

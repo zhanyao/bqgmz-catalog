@@ -1,7 +1,7 @@
 # Awakening（#69210）
 
-**作者** Walton, Bryce, 1918-1988; Orban, Paul, 1896-1974 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 6 题 · 43,900 字 ｜ **来源** Project Gutenberg
+**作者** Walton, Bryce, 1918-1988; Orban, Paul, 1896-1974 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 2 部分 · 43,900 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bf21bff4d11e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（43,900 字）。 |
-| 分章依据 | 按「题」标记切分为 6 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,316 字。 |
+| 分章依据 | 按「部分」标记切分为 2 部分（fallback-chunk），拼接正文 1,288 行。 |
+| 篇幅分布 | 平均每部分 21,950 字。 |
 | 原文溯源 | `cache/epub/69210/pg69210.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 题）
+## 章节目录（前 2 部分）
 
-1. AWAKENING
-2. A Novelet by BRYCE WALTON
-3. She heard footsteps in the hall. His footsteps--
-4. Alice came in from the kitchen. "Yes, Master Kelsey."
-5. He smiled more widely. "Well, Alice, good night. Relax your thermostat."
-6. BEAUTY IS AS BEAUTY DOES
+1. 第 1 部分
+2. 第 2 部分
 
-> 共 6 题，[完整目录与正文 →](https://www.bqgmz.top/b/bf21bff4d11e/)
+> 共 2 部分，[完整目录与正文 →](https://www.bqgmz.top/b/bf21bff4d11e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

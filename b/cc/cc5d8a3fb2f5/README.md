@@ -1,7 +1,7 @@
 # Withered Leaves from Memory's Garland
 
-**作者** Hanna, Abigail Stanley ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 7 章 · 371,528 字 ｜ **来源** Project Gutenberg
+**作者** Hanna, Abigail Stanley ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 10 部分 · 371,528 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cc5d8a3fb2f5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（371,528 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 53,075 字；最长 "True, he is not rich, but he is industr（96,642 字），最短 Chapter III.（6,495 字）。 |
+| 分章依据 | 按「部分」标记切分为 10 部分（fallback-chunk），拼接正文 11,137 行。 |
+| 篇幅分布 | 平均每部分 37,152 字；最长 第 6 部分（41,399 字），最短 第 10 部分（2,056 字）。 |
 | 原文溯源 | `cache/epub/11599/pg11599.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 章）
+## 章节目录（前 10 部分）
 
-1. Chapter I.
-2. Chapter II.
-3. Chapter III.
-4. Chapter IV.
-5. "True, he is not rich, but he is industr
-6. But evening came--bright, beautiful even
-7. How oft, amid such scenes, the heart
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/cc5d8a3fb2f5/)
+> 共 10 部分，[完整目录与正文 →](https://www.bqgmz.top/b/cc5d8a3fb2f5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

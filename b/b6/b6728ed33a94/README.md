@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（66,734 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 2,669 字；最长 CHAPTER XXIII: Paddy The Beaver Does A Kind Deed（3,194 字），最短 CHAPTER IV: Grandfather Frog's Plan（2,176 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 1,737 行。 |
+| 篇幅分布 | 平均每章 2,666 字；最长 CHAPTER XXIII: Paddy The Beaver Does A Kind Deed（3,194 字），最短 CHAPTER IV: Grandfather Frog's Plan（2,176 字）。 |
 | 起止 | 始于「CHAPTER I: Jerry Muskrat Has A Fright」，止于「CHAPTER XXV: Paddy The Beaver Decides To Stay」。 |
 | 原文溯源 | `cache/epub/5110/pg5110.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/b6728ed33a94/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

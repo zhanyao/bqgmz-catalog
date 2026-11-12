@@ -1,7 +1,7 @@
 # Stellar Evolution and Its Relations to Geological Time
 
-**作者** Croll, James, 1821-1890 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 3 章 · 164,342 字 ｜ **来源** Project Gutenberg
+**作者** Croll, James, 1821-1890 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 35 篇 · 164,342 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c3b5086fc072/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（164,342 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 54,780 字。 |
+| 分章依据 | 按「篇」标记切分为 35 篇（通用标记切分），拼接正文 4,016 行。 |
+| 篇幅分布 | 平均每篇 4,127 字；最长 V. Nebulæ（19,009 字），最短 VIII. Star Clusters（598 字）。 |
 | 原文溯源 | `cache/epub/49200/pg49200.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 章）
+## 章节目录（前 10 篇）
 
-1. PART I.
-2. PART II.
-3. PART III.
+1. [Illustration] ------------------------------------------------------------------------ PART I. _THE IMPACT THEORY OF STELLAR EVOLUTION._ PAGE CONSIDERATION OF THE FACTS WHICH SUPPORT THE THEORY, AND OF THE LIGHT WHICH THE THEORY APPEARS TO CAST UPON THE FACTS
+2. I. Probable Origin of Meteorites
+3. II. Motion of the Stars; how of such different velocities, and always in straight lines
+4. III. Motion of the Stars not due to their mutual attractions
+5. IV. Probable Origin of Comets
+6. V. Nebulæ
+7. VI. Binary Systems
+8. VII. Sudden Outbursts of Stars
+9. VIII. Star Clusters
+10. IX. Age of the Sun’s Heat: a Crucial Test
 
-> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/c3b5086fc072/)
+> 共 35 篇，[完整目录与正文 →](https://www.bqgmz.top/b/c3b5086fc072/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Correspondance, 1812-1876 — Tome 3
 
-**作者** Sand, George, 1804-1876 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 20 段 · 417,010 字 ｜ **来源** Project Gutenberg
+**作者** Sand, George, 1804-1876 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 75 章 · 417,010 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bcd8de0752f8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（417,010 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,850 字；最长 Vous avez emporté, avec les flammes qui jaillissaient de vou（39,485 字），最短 Bonsoir, mes chers enfants; je m'aperçois que je vous écris （16,876 字）。 |
+| 分章依据 | 按「章」标记切分为 75 章（auto-roman-title），拼接正文 9,833 行。 |
+| 篇幅分布 | 平均每章 47 字。 |
+| 起止 | 始于「CCLXIV. A Maurice Sand. 18 février.」，止于「CCCLXIX. A Joseph Mazzini. 15 décembre.」。 |
 | 原文溯源 | `cache/epub/13838/pg13838.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Vous avez emporté, avec les flammes qui jaillissaient de vou
-2. Sur le pont des Arts, nous entendons battre la charge et nou
-3. Mais ma conscience est craintive et je pousse loin le scrupu
-4. Qu'une majorité démocratique et sociale se dessine dans le s
-5. La peur, une peur pusillanime et furieuse en même temps, s'e
-6. Je présume que vous n'êtes pas privé de journaux, bien qu'ap
-7. C'est là, je crois, le grand grief des réactionnaires contre
-8. Chaque jour, nous nous attendons à quelque nouveau désastre,
-9. Moi, je n'ai que cela à vous dire. Je n'ai que cette consola
-10. Vous ne m'avez jamais rencontrée avec M. de Lamennais, ni da
+1. CCLXIV. A Maurice Sand. 18 février.
+2. CCLXV. Au même. 23 février.
+3. CCLXVI. Au même. 24 février.
+4. CCLXVII. A M. Girerd. 6 mars.
+5. CCLXIX. A M. Chartes Duvernet. 14 mars.
+6. CCLXX. A Maurice Sand. 18 mars.
+7. CCLXXI. Au même. 24 mars.
+8. CCLXXII. A M. de Lamartine. avril.
+9. CCLXXIV. A Maurice Sand. 17 avril.
+10. CCLXXV. Au même. 19 avril.
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/bcd8de0752f8/)
+> 共 75 章，[完整目录与正文 →](https://www.bqgmz.top/b/bcd8de0752f8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Secret Service; or, Recollections of a City Detective
 
-**作者** Forrester, Andrew, 1832-1909 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 19 段 · 383,642 字 ｜ **来源** Project Gutenberg
+**作者** Forrester, Andrew, 1832-1909 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 383,642 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c683d0eabdef/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（383,642 字）。 |
-| 分章依据 | 按「段」标记切分为 19 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,191 字；最长 Next the party went to the hotel where Mr. Jollefat was stay（39,801 字），最短 We had no clue to Mr. Percival's whereabouts. Certain facts （3,335 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-toc-title-list），拼接正文 8,618 行。 |
+| 篇幅分布 | 平均每章 22,517 字；最长 THE INCENDIARY GANG（60,732 字），最短 THE ATTORNEY AND THE SMUGGLER（10,184 字）。 |
 | 原文溯源 | `cache/epub/46520/pg46520.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Next the party went to the hotel where Mr. Jollefat was stay
-2. In consequence of this notice the poor wretches who had ente
-3. I was right. After making myself agreeable by innocent devic
-4. Mr. Newton may be excused for the selfishness which allowed
-5. The explanations which I had from Mrs. Paterson were to the
-6. One party in B---- appeared likely to be over-looked--the ol
-7. The station-master, who had been awakened from his natural s
-8. This gentleman could talk against time. He was to spout unti
-9. At length the loss of a gold watch, which Mr. Green had pres
-10. I had anticipated such an act on her part, and, as she felt
+1. MY GREAT ELECTIONEERING TRICK
+2. MISTAKEN IDENTITY
+3. AN UNSCRUPULOUS WOMAN
+4. THE INCENDIARY GANG
+5. A RAILWAY ACCIDENT?
+6. A PATRIOTIC BARBER IN FAULT
+7. A ROMANCE OF SOCIAL LIFE
+8. THE VIRTUE OF AN AMERICAN PASSPORT
+9. WHO WAS THE GREATEST CRIMINAL?
+10. A GRAND RAILWAY "PLANT"
 
-> 共 19 段，[完整目录与正文 →](https://www.bqgmz.top/b/c683d0eabdef/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/c683d0eabdef/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

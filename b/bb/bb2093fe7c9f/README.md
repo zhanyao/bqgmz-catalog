@@ -1,7 +1,7 @@
 # Punch, or the London Charivari, Volume 103, October 15, 1892
 
-**作者** Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 24 题 · 45,496 字 ｜ **来源** Project Gutenberg
+**作者** Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 45,496 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bb2093fe7c9f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（45,496 字）。 |
-| 分章依据 | 按「题」标记切分为 24 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,895 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 1,409 行。 |
+| 篇幅分布 | 平均每篇 5,525 字。 |
 | 原文溯源 | `cache/epub/15453/pg15453.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 篇）
 
-1. PUNCH,
-2. OR THE LONDON CHARIVARI.
-3. VOL. 103.
-4. A SAD SONG OF THE INTERNATIONAL BOAT RACE.
-5. AIR--"_A Frog he would a-Wooing go_."
-6. THE AUSTRO-GERMAN OFFICER'S VADE-MECUM.
-7. ON THE WAY HOME.
-8. POLITICAL TRAINING.
-9. SUCH A "LIGHT OPERA!"
-10. SCENE--_The Smoking-room at the Decadents._
+1. BE WITHOUT COFFEE?"
+2. CRITICISM."_)
+3. _He_. "A--THE FACT IS, I DON'T CARE FOR POPULARITY. I ONLY WISH MY
+4. (_BY MR. PUNCH'S OWN GROUSE IN THE GUN-ROOM._)
 
-> 共 24 题，[完整目录与正文 →](https://www.bqgmz.top/b/bb2093fe7c9f/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/bb2093fe7c9f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

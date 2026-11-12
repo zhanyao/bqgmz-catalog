@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（366,968 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,348 字；最长 CHAPTER XIII THE POETIC SPIRIT（30,619 字），最短 CHAPTER III CORNWALL'S CONNEMARA（11,003 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 7,423 行。 |
+| 篇幅分布 | 平均每章 18,340 字；最长 CHAPTER XIII THE POETIC SPIRIT（30,619 字），最短 CHAPTER III CORNWALL'S CONNEMARA（11,003 字）。 |
 | 起止 | 始于「CHAPTER I WINTERING IN WEST CORNWALL」，止于「CHAPTER XX PILGRIMS AT THE LAND'S END」。 |
 | 原文溯源 | `cache/epub/47990/pg47990.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/bc0e9c34592b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

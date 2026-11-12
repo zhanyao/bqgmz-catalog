@@ -1,7 +1,7 @@
 # Memorials of the Life of Amelia Opie Selected and Arranged from her Letters, Diaries, and other Manuscripts
 
 **作者** Opie, Amelia, 1769-1853; Brightwell, C. L. (Cecilia Lucy), 1811-1875 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 25 章 · 627,034 字 ｜ **来源** Project Gutenberg
+**规模** 26 章 · 627,034 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bcf7cb61d0f2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（627,034 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 25,081 字；最长 CHAPTER XXV.（52,009 字），最短 CHAPTER IX.（13,861 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXV.」。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 14,656 行。 |
+| 篇幅分布 | 平均每章 23,726 字；最长 CHAPTER XXV.（38,949 字），最短 Notes on a Visit to some of the Prisons in Scotland and the North of（13,060 字）。 |
 | 原文溯源 | `cache/epub/47595/pg47595.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/bcf7cb61d0f2/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/bcf7cb61d0f2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

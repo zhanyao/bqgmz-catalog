@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（366,400 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 61,066 字；最长 CHAPTER VI--AMERICA IN THE CONGO（87,443 字），最短 CHAPTER III--RHODES AND RHODESIA（46,583 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 8,193 行。 |
+| 篇幅分布 | 平均每章 59,369 字；最长 CHAPTER VI--AMERICA IN THE CONGO（79,880 字），最短 CHAPTER III--RHODES AND RHODESIA（46,583 字）。 |
 | 起止 | 始于「CHAPTER I--SMUTS」，止于「CHAPTER VI--AMERICA IN THE CONGO」。 |
 | 原文溯源 | `cache/epub/25569/pg25569.txt`（Project Gutenberg） |
 
@@ -28,4 +28,4 @@
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/bb9c37069928/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

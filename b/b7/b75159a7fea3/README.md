@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（331,229 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 30,111 字；最长 _Wise men_, as Poor Richard says, _learn（108,685 字），最短 CHAPTER VII.（3,408 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 8,180 行。 |
+| 篇幅分布 | 平均每章 29,817 字；最长 CHAPTER XI.（94,384 字），最短 CHAPTER VII.（3,408 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XI.」。 |
 | 原文溯源 | `cache/epub/26754/pg26754.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +27,9 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
-10. Section 4888. Before any inventor or dis
+10. CHAPTER X.
 
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/b75159a7fea3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

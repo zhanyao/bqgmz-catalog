@@ -1,7 +1,7 @@
 # Kaarle XII: Viisikuvaelmainen näytelmä
 
-**作者** Strindberg, August, 1849-1912; Halme, Kaarle, 1864-1946 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 4 段 · 81,828 字 ｜ **来源** Project Gutenberg
+**作者** Strindberg, August, 1849-1912; Halme, Kaarle, 1864-1946 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 篇  
+**规模** 5 篇 · 81,828 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b37b4a194f36/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（81,828 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,457 字。 |
+| 分章依据 | 按「篇」标记切分为 5 篇（通用标记切分），拼接正文 3,117 行。 |
+| 篇幅分布 | 平均每篇 16,247 字；最长 II KUVAELMA（23,923 字），最短 III KUVAELMA（10,169 字）。 |
+| 起止 | 始于「I KUVAELMA」，止于「V KUVAELMA」。 |
 | 原文溯源 | `cache/epub/52322/pg52322.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 5 篇）
 
-1. HORN. Nämä parooni Görtzin selvimmin esiintyvät luonteen pii
-2. TYYTYMÄTÖN. ... Sillä hän on sisään suljettu keinottelijan k
-3. ULRIKA ELEONORA. Niin, tuollainen sinä olet! Sinä olet hyvin
-4. MÖRNER (tulee). Missä, Jumalan nimessä, kuningas on?
+1. I KUVAELMA
+2. II KUVAELMA
+3. III KUVAELMA
+4. IV KUVAELMA
+5. V KUVAELMA
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/b37b4a194f36/)
+> 共 5 篇，[完整目录与正文 →](https://www.bqgmz.top/b/b37b4a194f36/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

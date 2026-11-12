@@ -1,7 +1,7 @@
 # A Negro Explorer at the North Pole
 
 **作者** Henson, Matthew Alexander, 1866-1955; Peary, Robert E. (Robert Edwin), 1856-1920 [Author of introduction, etc.]; Washington, Booker T., 1856-1915 [Author of introduction, etc.] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 21 章 · 175,391 字 ｜ **来源** Project Gutenberg
+**规模** 22 章 · 175,391 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b2caf4945fc0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（175,391 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,351 字；最长 CHAPTER I（21,290 字），最短 CHAPTER X（2,439 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXI」。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 4,194 行。 |
+| 篇幅分布 | 平均每章 7,540 字；最长 CHAPTER XI（12,696 字），最短 CHAPTER X（2,439 字）。 |
 | 原文溯源 | `cache/epub/20923/pg20923.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/b2caf4945fc0/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/b2caf4945fc0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

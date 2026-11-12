@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（591,191 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 45,476 字；最长 CHAPTER XI.（72,718 字），最短 CHAPTER VIII.（11,700 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 13,232 行。 |
+| 篇幅分布 | 平均每章 38,421 字；最长 CHAPTER IX.（117,131 字），最短 CHAPTER VIII.（11,700 字）。 |
 | 原文溯源 | `cache/epub/40972/pg40972.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +26,9 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
-10. A writer in the _New York Sun_ (I have t
+10. CHAPTER X.
 
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/c3f9e56c1806/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

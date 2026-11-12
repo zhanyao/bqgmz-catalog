@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（502,732 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 33,515 字；最长 CHAPTER XIV THE PASS OF THE HATCHET（62,316 字），最短 CHAPTER III SALAMMBÔ（12,509 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 11,671 行。 |
+| 篇幅分布 | 平均每章 33,503 字；最长 CHAPTER XIV THE PASS OF THE HATCHET（62,316 字），最短 CHAPTER III SALAMMBÔ（12,509 字）。 |
 | 起止 | 始于「CHAPTER I THE FEAST」，止于「CHAPTER XV MATHO」。 |
 | 原文溯源 | `cache/epub/1290/pg1290.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/bcf5f82632df/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

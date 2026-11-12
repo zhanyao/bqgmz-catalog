@@ -11,18 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（128,400 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-caps-sections），拼接正文 2,694 行。 |
 | 篇幅分布 | 平均每章 42,800 字。 |
-| 起止 | 始于「CHAPTER III.」，止于「CHAPTER V.」。 |
 | 原文溯源 | `cache/epub/5857/pg5857.txt`（Project Gutenberg） |
 
 ## 章节目录（前 3 章）
 
-1. CHAPTER III.
-2. CHAPTER IV.
-3. CHAPTER V.
+1. "A. LINCOLN."（1）
+2. "A. LINCOLN."（2）
+3. --MEETING GENERAL SHERMAN--OPPOSED TO JOINING THE ARMY OF THE TENNESSEE
 
 > 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/c858bb3f9fb9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

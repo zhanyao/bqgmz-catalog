@@ -1,7 +1,7 @@
 # In the Levant Twenty Fifth Impression
 
-**作者** Warner, Charles Dudley, 1829-1900 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 32 段 · 658,617 字 ｜ **来源** Project Gutenberg
+**作者** Warner, Charles Dudley, 1829-1900 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 32 章 · 658,617 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cae2bd9d2a31/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（658,617 字）。 |
-| 分章依据 | 按「段」标记切分为 32 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,581 字；最长 These reflections, however, let it be confessed, did not com（39,989 字），最短 It is four o'clock when my companion and I descend into the （18,127 字）。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-toc-title-list），拼接正文 13,112 行。 |
+| 篇幅分布 | 平均每章 20,550 字。 |
 | 原文溯源 | `cache/epub/52213/pg52213.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. These reflections, however, let it be confessed, did not com
-2. Near by is the ruin of a low, thick-walled chapel, of a pure
-3. Our first walk through the city was in the Via Dolorosa, as
-4. The Friday morning of the day chosen for our visit to the wa
-5. This rock marks the site of the threshing-floor of Oman, the
-6. The Pool of Siloam, magnified in my infant mind as “Siloam's
-7. But the birds sang sweetly in the garden, the flowers of spr
-8. The sheykh is a young man, with the treacherous eye of an ea
-9. The evening is charming, warm but not depressing; the atmosp
-10. When it is dusk we have an invasion from the neighboring Bed
+1. PREFACE
+2. IN THE LEVANT.
+3. I.—FROM JAFFA TO JERUSALEM.
+4. II.—JERUSALEM.
+5. III.—HOLY PLACES OP THE HOLY CITY.
+6. IV.—NEIGHBORHOODS OF JERUSALEM.
+7. V.—GOING DOWN TO JERICHO.
+8. VI.—BETHLEHEM AND MAR SABA.
+9. VII.—THE FAIR OF MOSES; THE ARMENIAN PATRIARCH.
+10. VIII.—DEPARTURE FROM JERUSALEM.
 
-> 共 32 段，[完整目录与正文 →](https://www.bqgmz.top/b/cae2bd9d2a31/)
+> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/cae2bd9d2a31/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

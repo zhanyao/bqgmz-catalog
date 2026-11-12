@@ -1,7 +1,7 @@
 # Lähetyssaarnaajan tytär: Kertomus Tsulujen maasta ja Cetewayo'sta
 
-**作者** Eden, Charles H. (Charles Henry), 1839-1900 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 14 段 · 289,291 字 ｜ **来源** Project Gutenberg
+**作者** Eden, Charles H. (Charles Henry), 1839-1900 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 12 章 · 289,291 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b6844b219297/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（289,291 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,663 字；最长 Havaitessani selväksi että ajo oli tulossa, läksin huoneesen（39,284 字），最短 Mulla ei minkäänlaista käsitystä ollut paikan laadusta, mihi（9,878 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-toc-title-list），拼接正文 5,870 行。 |
+| 篇幅分布 | 平均每章 24,071 字；最长 Nomteba, noita-akka（32,963 字），最短 Leirissä（20,026 字）。 |
 | 原文溯源 | `cache/epub/29182/pg29182.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Havaitessani selväksi että ajo oli tulossa, läksin huoneesen
-2. Sepä oli liiankin totta. Koirain taluttajat, pedon huomatess
-3. Niin aikaa muistamatta retkeilimme unhoittaen kaikki paitsi
-4. Ratsastuksemme kestäessä -- kuinka lyhyelle se oli tuntunut
-5. Minä havaitsin uudis-asunnolta päin nousevan heikon lieskan,
-6. Vaikka annoimme mennä niin joutuisasti kuin seudun laatu myö
-7. Ja niin lähdin Arnold Beidermann'in ja Ulan keralla matkaan
-8. En voi olla ihmettelemättä älykkäisyyttä, jota kasvinveljeni
-9. Tässä oli pieni lohdutuksen kipinä, ja asiaa arvelemalla ymm
-10. "Nytpä", ajattelin itsekseni, "jos vielä voin saada omanvoit
+1. Kasvinveljeni
+2. Kuninkaan lähettiläs
+3. Itsevaltias neuvostossaan
+4. Varoitettuina ja varusteilla
+5. Leirissä
+6. Onneton liikunto
+7. Murhenäytelmän jälkeen
+8. Ilmaus heiniköillä
+9. Nomteba, noita-akka
+10. Keski-öinen vieras
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/b6844b219297/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/b6844b219297/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

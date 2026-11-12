@@ -1,7 +1,7 @@
 # A Pushcart at the Curb
 
-**作者** Dos Passos, John, 1896-1970 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 66 题 · 78,275 字 ｜ **来源** Project Gutenberg
+**作者** Dos Passos, John, 1896-1970 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 74 章 · 78,275 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b65b96a9b3c2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（78,275 字）。 |
-| 分章依据 | 按「题」标记切分为 66 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,185 字。 |
+| 分章依据 | 按「章」标记切分为 74 章（auto-roman-bare），拼接正文 3,664 行。 |
+| 篇幅分布 | 平均每章 1,033 字。 |
 | 原文溯源 | `cache/epub/32778/pg32778.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. A PUSHCART AT THE CURB
-2. JOHN DOS PASSOS
-3. A PUSHCART AT THE CURB
-4. JOHN DOS PASSOS
-5. Printed in the United States of America
-6. TO THE MEMORY
-7. OF
-8. WRIGHT McCORMICK
-9. WHO TUMBLED OFF A MOUNTAIN
-10. IN MEXICO
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 66 题，[完整目录与正文 →](https://www.bqgmz.top/b/b65b96a9b3c2/)
+> 共 74 章，[完整目录与正文 →](https://www.bqgmz.top/b/b65b96a9b3c2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

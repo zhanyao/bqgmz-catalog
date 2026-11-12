@@ -1,7 +1,7 @@
 # Unbegotten Child
 
-**作者** Marks, Winston K. (Winston Kinney), 1915-1979; Vidmer [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 5 题 · 15,198 字 ｜ **来源** Project Gutenberg
+**作者** Marks, Winston K. (Winston Kinney), 1915-1979; Vidmer [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 15,198 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bd51dfbd1599/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（15,198 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,039 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 459 行。 |
+| 篇幅分布 | 平均每篇 15,198 字。 |
 | 原文溯源 | `cache/epub/32149/pg32149.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 1 篇）
 
-1. By WINSTON MARKS
-2. Illustrated by VIDMER
-3. She lay back again. "But of course, you're wrong."
-4. I nodded.
-5. I felt her pulse and asked, "What's the matter, Sara?"
+1. Unbegotten Child
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/bd51dfbd1599/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/bd51dfbd1599/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

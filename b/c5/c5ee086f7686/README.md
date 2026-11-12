@@ -1,7 +1,7 @@
 # Night watches [complete]
 
-**作者** Jacobs, W. W. (William Wymark), 1863-1943; Davis, Stanley [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 17 题 · 154,614 字 ｜ **来源** Project Gutenberg
+**作者** Jacobs, W. W. (William Wymark), 1863-1943; Davis, Stanley [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 154,614 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c5ee086f7686/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（154,614 字）。 |
-| 分章依据 | 按「题」标记切分为 17 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,094 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 4,659 行。 |
+| 篇幅分布 | 平均每章 14,038 字。 |
 | 原文溯源 | `cache/epub/12161/pg12161.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. W. W. JACOBS
-2. CONTENTS
-3. ILLUSTRATIONS
-4. I Got out at Last by Playing a Game on Her.
-5. BACK TO BACK
-6. KEEPING WATCH
-7. THE UNDERSTUDY
-8. I ses “Oh!”
-9. THE WEAKER VESSEL
-10. STEPPING BACKWARDS
+1. ILLUSTRATIONS
+2. BACK TO BACK
+3. KEEPING WATCH
+4. THE UNDERSTUDY
+5. THE WEAKER VESSEL
+6. STEPPING BACKWARDS
+7. THE THREE SISTERS
+8. THE UNKNOWN
+9. THE VIGIL
+10. EASY MONEY
 
-> 共 17 题，[完整目录与正文 →](https://www.bqgmz.top/b/c5ee086f7686/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/c5ee086f7686/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # En flânant de Messine à Cadix
 
-**作者** Montfort, Eugène, 1877-1936 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 27 题 · 241,253 字 ｜ **来源** Project Gutenberg
+**作者** Montfort, Eugène, 1877-1936 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 13 篇 · 241,253 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b50e67751c0e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（241,253 字）。 |
-| 分章依据 | 按「题」标记切分为 27 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,935 字。 |
+| 分章依据 | 按「篇」标记切分为 13 篇（通用标记切分），拼接正文 5,127 行。 |
+| 篇幅分布 | 平均每篇 18,500 字；最长 VOYAGE A REGGIO DE CALABRE ET A MESSINE（58,391 字），最短 LE DÉPART DE NAPLES（4,785 字）。 |
 | 原文溯源 | `cache/epub/77275/pg77275.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. EUGÈNE MONTFORT
-2. TOUS DROITS RÉSERVÉS
-3. DU MÊME AUTEUR
-4. ESSAIS CRITIQUES
-5. POÈMES EN PROSE
-6. ÉTUDES DE MŒURS ET ROMANS
-7. EN FLANANT DE MESSINE A CADIX
-8. LE DÉPART DE NAPLES
-9. VOYAGE A REGGIO DE CALABRE ET A MESSINE
-10. PALERME
+1. LE DÉPART DE NAPLES
+2. VOYAGE A REGGIO DE CALABRE ET A MESSINE
+3. PALERME
+4. A CAPRI
+5. TANGER
+6. GIBRALTAR
+7. RONDA, MALAGA, GRENADE
+8. CORDOUE, SÉVILLE, CADIX
+9. ANTIQUITÉ DE NAPLES
+10. CURIOSITÉS DES RUES DE NAPLES
 
-> 共 27 题，[完整目录与正文 →](https://www.bqgmz.top/b/b50e67751c0e/)
+> 共 13 篇，[完整目录与正文 →](https://www.bqgmz.top/b/b50e67751c0e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

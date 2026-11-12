@@ -1,7 +1,7 @@
 # The Comedies of William Congreve: Volume 1 [of 2]
 
-**作者** Congreve, William, 1670-1729; Street, G. S. (George Slythe), 1867-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 23 章 · 272,744 字 ｜ **来源** Project Gutenberg
+**作者** Congreve, William, 1670-1729; Street, G. S. (George Slythe), 1867-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 幕  
+**规模** 10 幕 · 272,744 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b8f6de389463/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（272,744 字）。 |
-| 分章依据 | 按「章」标记切分为 23 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,858 字。 |
+| 分章依据 | 按「幕」标记切分为 10 幕（auto-act），拼接正文 8,708 行。 |
+| 篇幅分布 | 平均每幕 22,103 字；最长 ACT V.（33,939 字），最短 ACT I.（14,982 字）。 |
 | 原文溯源 | `cache/epub/24215/pg24215.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 幕）
 
-1. SCENE I.
-2. SCENE II.
-3. SCENE III.
-4. SCENE IV.
-5. SCENE V.
-6. SCENE VI.
-7. SCENE VII.
-8. SCENE VIII.
-9. SCENE IX.
-10. SCENE X.
+1. ACT I.
+2. ACT II.
+3. ACT III.
+4. ACT IV.
+5. ACT V.
+6. ACT I.（部2）
+7. ACT II.（部2）
+8. ACT III.（部2）
+9. ACT IV.（部2）
+10. ACT V.（部2）
 
-> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/b8f6de389463/)
+> 共 10 幕，[完整目录与正文 →](https://www.bqgmz.top/b/b8f6de389463/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

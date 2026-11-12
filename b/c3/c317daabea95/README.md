@@ -1,7 +1,7 @@
 # How to Collect and Preserve Insects
 
-**作者** Ross, Herbert H. (Herbert Holdsworth), 1908-1978 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 43 题 · 107,372 字 ｜ **来源** Project Gutenberg
+**作者** Ross, Herbert H. (Herbert Holdsworth), 1908-1978 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 15 篇 · 107,372 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c317daabea95/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（107,372 字）。 |
-| 分章依据 | 按「题」标记切分为 43 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,497 字。 |
+| 分章依据 | 按「篇」标记切分为 15 篇（auto-title-block），拼接正文 2,782 行。 |
+| 篇幅分布 | 平均每篇 6,602 字；最长 THE INSECT WORLD（18,431 字），最短 Spiders（788 字）。 |
 | 原文溯源 | `cache/epub/59883/pg59883.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. H. H. ROSS
-2. HOW TO COLLECT AND PRESERVE INSECTS
-3. H. H. ROSS
-4. WHERE TO COLLECT
-5. WHAT TO USE
-6. 2. Killing bottles, several small and one or two large ones.
-7. 4. One or two camel's-hair brushes for picking up minute insects.
-8. 5. A few vials or small bottles containing fluid preservative.
-9. 6. Folded papers for butterflies.
-10. 7. A few small tins or boxes lined with cellucotton.
+1. WHERE TO COLLECT
+2. WHAT TO USE
+3. Killing Bottles
+4. Aspirators or Suckers
+5. Sifter
+6. Temporary Cases
+7. HOW TO MOUNT AND PRESERVE SPECIMENS
+8. Preservation in Fluid
+9. THE INSECT WORLD
+10. Folding-Wing Insects
 
-> 共 43 题，[完整目录与正文 →](https://www.bqgmz.top/b/c317daabea95/)
+> 共 15 篇，[完整目录与正文 →](https://www.bqgmz.top/b/c317daabea95/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

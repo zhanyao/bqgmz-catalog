@@ -1,7 +1,7 @@
 # Geschichte der Belagerung, Eroberung und Zerstörung Magdeburg's
 
-**作者** Guericke, Otto von, 1602-1686; Hoffmann, Friedrich Wilhelm, 1785?-1869 [Editor] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 8 段 · 176,642 字 ｜ **来源** Project Gutenberg
+**作者** Guericke, Otto von, 1602-1686; Hoffmann, Friedrich Wilhelm, 1785?-1869 [Editor] ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 114 篇 · 176,642 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/ca6abc52f726/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（176,642 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,080 字；最长 Wenn dann nun hieraus und ermeldeter Ursachen und Beschwerde（39,012 字），最短 [5]  „also daß ein gemeiner Mann, wenn er zu Jemand aus dem （16,879 字）。 |
+| 分章依据 | 按「篇」标记切分为 114 篇（通用标记切分），拼接正文 4,133 行。 |
+| 篇幅分布 | 平均每篇 1,548 字。 |
 | 原文溯源 | `cache/epub/59081/pg59081.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 篇）
 
-1. Wenn dann nun hieraus und ermeldeter Ursachen und Beschwerde
-2. Darauf am 27. July des 1630. Jahres obgemeldeter +Stalmann+
-3. Den 6. August ist mit öffentlichem Trommelschlag für des Hrn
-4. Nachdem aber obgedachter Cavalier, +Dietrich von Falckenberg
-5. Der General +Tilly+ aber, sobald derselbe diesen Vortheil mi
-6. Drittens hat der General +Pappenheim+ die Stadt von der Nord
-7. Ob nun wohl diejenigen 700 +Falckenbergi+schen Knechte sammt
-8. [5] „also daß ein gemeiner Mann, wenn er zu Jemand aus dem
+1. by The Internet Archive)
+2. Der vorliegende Text wurde anhand der 1860 erschienenen Buchausgabe
+3. Die Abkürzung für ‚et cetera‘ mit tironischer Note für ‚et‘
+4. Fußnoten wurden an das Ende des Texts verschoben; die ‚Liste der
+5. Antiquaschrift: ~Tilden~
+6. Das hier zum Erstenmale der Oeffentlichkeit übergebene Manuscript
+7. Der erste Theil des +Guericke+schen Geschichtswerkes war keine
+8. Hinsichtlich des hier gegebenen Abdrucks der Handschrift habe ich nur
+9. Dem Leser am Schlusse dieser Vorbemerkung noch ein Wort zur Empfehlung
+10. Als durch Gottes unerforschlichen Rath und Verhängniß eine geraume Zeit
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/ca6abc52f726/)
+> 共 114 篇，[完整目录与正文 →](https://www.bqgmz.top/b/ca6abc52f726/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

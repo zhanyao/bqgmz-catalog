@@ -1,7 +1,7 @@
 # Harper's Young People, January 31, 1882 An Illustrated Weekly
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 64 题 · 72,942 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 72,942 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c4c0d8a9bfe7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（72,942 字）。 |
-| 分章依据 | 按「题」标记切分为 64 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,139 字。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-caps-sections），拼接正文 2,118 行。 |
+| 篇幅分布 | 平均每章 4,052 字。 |
 | 原文溯源 | `cache/epub/52773/pg52773.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE LONGEST DAY IN THE YEAR.
-2. BY EMILY HUNTINGTON MILLER.
+1. VOL. III.--NO. 118. PUBLISHED BY HARPER & BROTHERS, NEW YORK. PRICE FOUR
+2. CENTS.
 3. ABOUT CROTCHETS AND QUAVERS.
-4. BY MRS. JOHN LILLIE.
-5. A DEER HUNT IN THE ROCKY MOUNTAINS.
-6. BY J. M. MURPHY.
-7. THE TALKING LEAVES.[1]
-8. BY WILLIAM O. STODDARD.
-9. CHAPTER XVII.
-10. A COMPLICATED PREDICAMENT.
+4. A DEER HUNT IN THE ROCKY MOUNTAINS.
+5. CHAPTER XVII.
+6. A COMPLICATED PREDICAMENT.
+7. THE SHEPHERD'S FRIENDS.
+8. HOME GYMNASTICS FOR STORMY DAYS.
+9. ADAPTED FROM CHARLES DICKENS.
+10. WINDOW."]
 
-> 共 64 题，[完整目录与正文 →](https://www.bqgmz.top/b/c4c0d8a9bfe7/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/c4c0d8a9bfe7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

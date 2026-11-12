@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（3,669,282 字）。 |
-| 分章依据 | 按「章」标记切分为 41 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 89,494 字。 |
+| 分章依据 | 按「章」标记切分为 41 章（auto-toc-title-list），拼接正文 137,645 行。 |
+| 篇幅分布 | 平均每章 89,379 字；最长 =CAMP, WALTER CHAUNCEY.= Handbook on hea（102,576 字），最短 Publications from which Digests of Reviews are Made（5,187 字）。 |
 | 原文溯源 | `cache/epub/73004/pg73004.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Part 3 with the Washington conference of
-2. “Mr Beaver is no globe-trotter concerned
-3. + =Springf’d Republican= p8 N 19 ’20 700
-4. + =Am Pol Sci= R 14:739 N ’20 50w
-5. “When the reader finishes it, he may be
-6. “The title of Mr Chesterton’s book, ‘Iri
-7. Part 2, Dreams, includes chapters on: Sl
-8. “The work of a finely thoughtful woman w
-9. Part I, Elements of self-government, shows how voluntary cooperation
-10. Part 2, dealing with the morphology, lif
+1. Publications from which Digests of Reviews are Made
+2. Reviews of 1920 Books
+3. “Earnestness and background and an adroi
+4. “In short, considered from the standpoin
+5. + =Nation= 110:774 Je 5 ’20 220w
+6. “‘Homespun and gold’ is an appropriate t
+7. =CAMP, WALTER CHAUNCEY.= Handbook on hea
+8. 20–17176
+9. + =Boston Transcript= p6 S 1 ’20 420w
+10. The book is a compilation of selected re
 
 > 共 41 章，[完整目录与正文 →](https://www.bqgmz.top/b/ca6a2898dde1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

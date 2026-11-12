@@ -1,7 +1,7 @@
 # Picture frames
 
-**作者** Winslow, Thyra Samter, 1893-1961 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 70 题 · 393,749 字 ｜ **来源** Project Gutenberg
+**作者** Winslow, Thyra Samter, 1893-1961 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 393,749 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c06a07a54492/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（393,749 字）。 |
-| 分章依据 | 按「题」标记切分为 70 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,624 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 9,562 行。 |
+| 篇幅分布 | 平均每章 35,691 字；最长 A CYCLE OF MANHATTAN（99,695 字），最短 LITTLE EMMA（20,636 字）。 |
 | 原文溯源 | `cache/epub/78464/pg78464.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. COPYRIGHT, 1923, BY ALFRED A. KNOPF, INC.
-2. MANUFACTURED IN THE UNITED STATES OF AMERICA
-3. CONTENTS
-4. LITTLE EMMA 3
-5. GRANDMA 21
-6. MAMIE CARPENTER 50
-7. A CYCLE OF MANHATTAN 96
-8. AMY’S STORY 174
-9. CITY FOLKS 194
-10. INDIAN SUMMER 213
+1. LITTLE EMMA
+2. GRANDMA
+3. MAMIE CARPENTER
+4. A CYCLE OF MANHATTAN
+5. AMY’S STORY
+6. CITY FOLKS
+7. INDIAN SUMMER
+8. A LOVE AFFAIR
+9. BIRTHDAY
+10. CORINNA AND HER MAN
 
-> 共 70 题，[完整目录与正文 →](https://www.bqgmz.top/b/c06a07a54492/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/c06a07a54492/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

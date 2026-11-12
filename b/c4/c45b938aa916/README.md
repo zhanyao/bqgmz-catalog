@@ -1,7 +1,7 @@
 # Sagen van den Rijn（#60942）
 
-**作者** Ruland, Wilhelm, 1869-1927; Meyen-Barends, W. B. [Translator] ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 108 题 · 235,239 字 ｜ **来源** Project Gutenberg
+**作者** Ruland, Wilhelm, 1869-1927; Meyen-Barends, W. B. [Translator] ｜ **国家/地区** 荷兰 ｜ **体例** 篇  
+**规模** 16 篇 · 235,239 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c45b938aa916/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（235,239 字）。 |
-| 分章依据 | 按「题」标记切分为 108 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,178 字。 |
-| 起止 | 始于「2. Edition.」，止于「III.」。 |
+| 分章依据 | 按「篇」标记切分为 16 篇（通用标记切分），拼接正文 5,988 行。 |
+| 篇幅分布 | 平均每篇 14,368 字；最长 Genoveva（1）（55,151 字），最短 Heinrich Frauenlob（1,643 字）。 |
 | 原文溯源 | `cache/epub/60942/pg60942.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. 2. Edition.
-2. Voorrede bij den derden druk
-3. Burcht Niedeck
-4. Het reuzenspeelgoed
-5. Straatsburg
-6. De Munsterklok
-7. Frankfort
-8. De negen in den windwijzer
-9. Wiesbaden
-10. De duivelskuur aan de warme bron
+1. De Munsterklok
+2. Heinrich Frauenlob
+3. Bisschop Willigis
+4. De Johannisberger
+5. De Brömserburg
+6. De Muizentoren
+7. De Klemenskapel
+8. De Waldburg
+9. Burcht Stahleck
+10. Burcht Gutenfels
 
-> 共 108 题，[完整目录与正文 →](https://www.bqgmz.top/b/c45b938aa916/)
+> 共 16 篇，[完整目录与正文 →](https://www.bqgmz.top/b/c45b938aa916/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

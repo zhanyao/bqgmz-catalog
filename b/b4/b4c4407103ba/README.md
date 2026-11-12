@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（296,364 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,854 字；最长 CHAPTER 25. LOOKING EASTWARD.（24,639 字），最短 CHAPTER 11. PETER AND PAUL.（6,346 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 8,345 行。 |
+| 篇幅分布 | 平均每章 11,813 字；最长 CHAPTER 25. LOOKING EASTWARD.（24,639 字），最短 CHAPTER 11. PETER AND PAUL.（6,346 字）。 |
 | 起止 | 始于「CHAPTER 1. LESS BREAD! MORE TAXES!」，止于「CHAPTER 25. LOOKING EASTWARD.」。 |
 | 原文溯源 | `cache/epub/620/pg620.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/b4c4407103ba/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

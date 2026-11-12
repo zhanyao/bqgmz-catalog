@@ -1,7 +1,7 @@
 # Soap bubbles
 
-**作者** Nordau, Max Simon, 1849-1923; Safford, Mary J. (Mary Joanna), 1842-1916 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 118,650 字 ｜ **来源** Project Gutenberg
+**作者** Nordau, Max Simon, 1849-1923; Safford, Mary J. (Mary Joanna), 1842-1916 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 118,650 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b4c620931c7d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（118,650 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,730 字；最长 “As for me,” quoth the doctor, a somewhat pedantic man, who,（39,766 字），最短 One evening, as had so often happened of late, he was taking（18,653 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 2,575 行。 |
+| 篇幅分布 | 平均每章 14,831 字；最长 A STORY FOR SMOKERS.（21,485 字），最短 WITHIN AN INCH OF ETERNITY.（9,499 字）。 |
 | 原文溯源 | `cache/epub/77764/pg77764.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 8 章）
 
-1. “As for me,” quoth the doctor, a somewhat pedantic man, who,
-2. For years my way led me, several times a day, through Tabakg
-3. “Heaven knows that the young couple did not have a single ha
-4. One thing is especially necessary: the woman who resolves to
-5. One evening, as had so often happened of late, he was taking
+1. WIFE VERSUS NATIVE LAND.
+2. A STORY FOR SMOKERS.
+3. THE CROSS AT THE CORNER.
+4. A CHRISTMAS EVE IN PARIS.
+5. AN OPEN LETTER TO FRAU I. H.
+6. “PAS DE CHANCE!”
+7. HOW THE FOX HUNTER FARED IN ENGLAND.
+8. WITHIN AN INCH OF ETERNITY.
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/b4c620931c7d/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/b4c620931c7d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

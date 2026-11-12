@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（603,290 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 67,032 字；最长 CHAPTER VII.（99,842 字），最短 But ground once gained in a literary mov（35,576 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 12,838 行。 |
+| 篇幅分布 | 平均每章 66,465 字；最长 CHAPTER VII.（99,842 字），最短 BIBLIOGRAPHY.（28,903 字）。 |
 | 原文溯源 | `cache/epub/15931/pg15931.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
@@ -25,9 +25,9 @@
 6. CHAPTER VI.
 7. CHAPTER VII.
 8. CHAPTER VIII.
-9. But ground once gained in a literary mov
+9. BIBLIOGRAPHY.
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/c1da582568ca/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

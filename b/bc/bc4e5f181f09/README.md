@@ -1,7 +1,7 @@
 # Beneath the Banner: Being Narratives of Noble Lives and Brave Deeds
 
-**作者** Cross, F. J. (Frederick J.) ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 88 题 · 227,034 字 ｜ **来源** Project Gutenberg
+**作者** Cross, F. J. (Frederick J.) ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 40 篇 · 227,034 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bc4e5f181f09/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（227,034 字）。 |
-| 分章依据 | 按「题」标记切分为 88 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,579 字。 |
+| 分章依据 | 按「篇」标记切分为 40 篇（auto-magazine），拼接正文 6,019 行。 |
+| 篇幅分布 | 平均每篇 5,675 字。 |
 | 原文溯源 | `cache/epub/10024/pg10024.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. BENEATH THE BANNER
-2. BEING NARRATIVES OF NOBLE LIVES AND BRAVE DEEDS
-3. BY
-4. F.J. CROSS
-5. SECOND EDITION
-6. GOOD MORNING! GOOD NIGHT!
-7. TRUE STORIES PURE AND BRIGHT.
-8. CONTENTS.
-9. BENEATH THE BANNER.
-10. ONLY A NURSE GIRL!
+1. TRUE STORIES PURE AND BRIGHT
+2. BENEATH THE BANNER
+3. THE STORY OF ALICE AYRES
+4. THE STORY OF CASE AND CHEW
+5. THE STORY OF SIR COLIN CAMPBELL
+6. STORIES OF LORD COCHRANE
+7. THE STORY OF JOHN CASSELL
+8. THE STORY OF GRACE DARLING
+9. GRACE DARLING THE SECOND
+10. THE STORY OF FATHER DAMIEN
 
-> 共 88 题，[完整目录与正文 →](https://www.bqgmz.top/b/bc4e5f181f09/)
+> 共 40 篇，[完整目录与正文 →](https://www.bqgmz.top/b/bc4e5f181f09/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

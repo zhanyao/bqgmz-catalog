@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（785,207 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 60,400 字；最长 CHAPTER IX.（98,118 字），最短 CHAPTER III.（32,802 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XII.」。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 15,514 行。 |
+| 篇幅分布 | 平均每章 59,126 字；最长 CHAPTER IV.（142,193 字），最短 APPENDIX.（4,839 字）。 |
 | 原文溯源 | `cache/epub/38100/pg38100.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -22,14 +21,14 @@
 2. CHAPTER II
 3. CHAPTER III.
 4. CHAPTER IV.
-5. The natural rejoinder to this representa
-6. CHAPTER V.
-7. CHAPTER VI.
-8. CHAPTER VII.
-9. CHAPTER VIII.
-10. CHAPTER IX.
+5. CHAPTER V.
+6. CHAPTER VI.
+7. CHAPTER VII.
+8. CHAPTER VIII.
+9. CHAPTER IX.
+10. CHAPTER X.
 
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/baa2797806cd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

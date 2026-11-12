@@ -1,7 +1,7 @@
 # La dama de las camelias; Una familia corsa
 
-**作者** Dumas, Alexandre, 1824-1895; Dumas, Alexandre, 1802-1870 ｜ **国家/地区** 西班牙 ｜ **体例** 题  
-**规模** 49 题 · 439,653 字 ｜ **来源** Project Gutenberg
+**作者** Dumas, Alexandre, 1824-1895; Dumas, Alexandre, 1802-1870 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 27 章 · 439,653 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bf0696065e81/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（439,653 字）。 |
-| 分章依据 | 按「题」标记切分为 49 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,972 字。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-chapter），拼接正文 13,644 行。 |
+| 篇幅分布 | 平均每章 16,236 字；最长 CAPÍTULO XXVII（143,538 字），最短 CAPÍTULO XX（7,651 字）。 |
 | 原文溯源 | `cache/epub/74029/pg74029.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. NOTAS DEL TRANSCRIPTOR
-2. LA DAMA DE LAS CAMELIAS
-3. BIBLIOTECA DE GRANDES NOVELAS
-4. ALEJANDRO DUMAS (Hijo)
-5. LA DAMA DE LAS CAMELIAS
-6. VERSIÓN CASTELLANA
-7. Imp. Sopena, Provenza 95.--BARCELONA
-8. LA DAMA DE LAS CAMELIAS
-9. CAPÍTULO I
-10. CAPÍTULO II
+1. CAPÍTULO I
+2. CAPÍTULO II
+3. CAPÍTULO III
+4. CAPÍTULO IV
+5. CAPÍTULO V
+6. CAPÍTULO VI
+7. CAPÍTULO VII
+8. CAPÍTULO VIII
+9. CAPÍTULO IX
+10. CAPÍTULO X
 
-> 共 49 题，[完整目录与正文 →](https://www.bqgmz.top/b/bf0696065e81/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/bf0696065e81/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

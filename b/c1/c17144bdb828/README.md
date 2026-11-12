@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（66,350 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 3,015 字；最长 CHAPTER V  Paddy Keeps His Promise.（3,911 字），最短 CHAPTER XXI   Paddy and Sammy Jay Work Together.（2,564 字）。 |
-| 起止 | 始于「CHAPTER I  Paddy the Beaver Begins Work.」，止于「CHAPTER XXII  Paddy Finishes His Harvest.」。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 1,782 行。 |
+| 篇幅分布 | 平均每章 2,984 字；最长 CHAPTER V Paddy Keeps His Promise.（3,911 字），最短 CHAPTER XXI Paddy and Sammy Jay Work Together.（2,564 字）。 |
+| 起止 | 始于「CHAPTER I Paddy the Beaver Begins Work.」，止于「CHAPTER XXII Paddy Finishes His Harvest.」。 |
 | 原文溯源 | `cache/epub/2493/pg2493.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -32,4 +32,4 @@
 > 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/c17144bdb828/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

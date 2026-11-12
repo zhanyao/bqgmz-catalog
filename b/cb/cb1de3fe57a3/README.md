@@ -1,7 +1,7 @@
 # The Gladiolus: A Practical Treatise on the Culture of the Gladiolus
 
 **作者** Crawford, Matthew, 1839-1918 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 97,945 字 ｜ **来源** Project Gutenberg
+**规模** 22 章 · 97,945 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/cb1de3fe57a3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（97,945 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,441 字；最长 CHAPTER XVIII.（30,113 字），最短 CHAPTER XVI.（1,362 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVIII.」。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 2,445 行。 |
+| 篇幅分布 | 平均每章 4,296 字；最长 CHAPTER IV.（部2）（10,038 字），最短 CHAPTER XVI.（1,362 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER IV.（部2）」。 |
 | 原文溯源 | `cache/epub/31237/pg31237.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/cb1de3fe57a3/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/cb1de3fe57a3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

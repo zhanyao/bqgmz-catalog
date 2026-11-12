@@ -1,7 +1,7 @@
 # Grammatical Sketch of the Heve Language Shea's Library of American Linguistics. Volume III.
 
-**作者** Smith, Buckingham, 1810-1871 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 73 题 · 44,395 字 ｜ **来源** Project Gutenberg
+**作者** Smith, Buckingham, 1810-1871 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 2 章 · 44,395 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bb44b9e81c64/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（44,395 字）。 |
-| 分章依据 | 按「题」标记切分为 73 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 608 字。 |
+| 分章依据 | 按「章」标记切分为 2 章（auto-part），拼接正文 1,450 行。 |
+| 篇幅分布 | 平均每章 22,197 字。 |
 | 原文溯源 | `cache/epub/14419/pg14419.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 2 章）
 
-1. SHEA'S
-2. LIBRARY OF AMERICAN LINGUISTICS.
-3. III.
-4. GRAMMATICAL SKETCH
-5. OF THE
-6. HEVE LANGUAGE,
-7. TRANSLATED FROM AN UNPUBLISHED SPANISH MANUSCRIPT,
-8. BY
-9. BUCKINGHAM SMITH.
-10. NOTICES OF THE HEVE;
+1. PART I.
+2. PART II.
 
-> 共 73 题，[完整目录与正文 →](https://www.bqgmz.top/b/bb44b9e81c64/)
+> 共 2 章，[完整目录与正文 →](https://www.bqgmz.top/b/bb44b9e81c64/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

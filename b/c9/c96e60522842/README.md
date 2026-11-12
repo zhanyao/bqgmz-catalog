@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（205,600 字）。 |
-| 分章依据 | 按「章」标记切分为 36 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,711 字；最长 CHAPTER XXIV: THE MAID TELLS OF WHAT HAD BEFALLEN HER（15,136 字），最短 CHAPTER XXXIV: NOW COMETH THE MAID TO THE KING（1,981 字）。 |
+| 分章依据 | 按「章」标记切分为 36 章（auto-chapter），拼接正文 4,761 行。 |
+| 篇幅分布 | 平均每章 5,705 字；最长 CHAPTER XXIV: THE MAID TELLS OF WHAT HAD BEFALLEN HER（15,136 字），最短 CHAPTER XXXIV: NOW COMETH THE MAID TO THE KING（1,981 字）。 |
 | 起止 | 始于「CHAPTER I: OF GOLDEN WALTER AND HIS FATHER」，止于「CHAPTER XXXVI: OF WALTER AND THE MAID IN THE DAYS OF THE KINGSHIP」。 |
 | 原文溯源 | `cache/epub/3055/pg3055.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/c96e60522842/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

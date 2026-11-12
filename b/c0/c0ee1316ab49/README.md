@@ -1,7 +1,7 @@
 # The sirens
 
-**作者** Binyon, Laurence, 1869-1943 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 21 题 · 32,063 字 ｜ **来源** Project Gutenberg
+**作者** Binyon, Laurence, 1869-1943 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 3 章 · 32,063 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c0ee1316ab49/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（32,063 字）。 |
-| 分章依据 | 按「题」标记切分为 21 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,526 字。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-roman-title），拼接正文 1,141 行。 |
+| 篇幅分布 | 平均每章 9,836 字。 |
+| 起止 | 始于「I. THE VICTORIES」，止于「III. THE UNDISCOVERED WORLD」。 |
 | 原文溯源 | `cache/epub/75422/pg75422.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 章）
 
-1. THE SIRENS
-2. AN ODE
-3. BY
-4. LAURENCE BINYON
-5. COPYRIGHT
-6. PRINTED IN GREAT BRITAIN
-7. NOTE
-8. PRELUDE
-9. I. THE VICTORIES
-10. I. 2
+1. I. THE VICTORIES
+2. II. PENUMBRA
+3. III. THE UNDISCOVERED WORLD
 
-> 共 21 题，[完整目录与正文 →](https://www.bqgmz.top/b/c0ee1316ab49/)
+> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/c0ee1316ab49/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

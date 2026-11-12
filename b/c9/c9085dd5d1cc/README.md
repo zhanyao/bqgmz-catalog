@@ -1,7 +1,7 @@
 # Here and There in London
 
-**作者** Ritchie, J. Ewing (James Ewing), 1820-1898 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 33 题 · 221,771 字 ｜ **来源** Project Gutenberg
+**作者** Ritchie, J. Ewing (James Ewing), 1820-1898 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 221,771 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c9085dd5d1cc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（221,771 字）。 |
-| 分章依据 | 按「题」标记切分为 33 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,720 字。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-toc-title-list），拼接正文 4,318 行。 |
+| 篇幅分布 | 平均每章 10,511 字；最长 THE HOUSE OF COMMONS, FROM THE STRANGERS' GALLERY（22,451 字），最短 THE PENNY GAFF（4,985 字）。 |
 | 原文溯源 | `cache/epub/32771/pg32771.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. BUNYAN.
-2. TO
-3. HENRY AYSCOUGH THOMPSON, ESQ.
-4. THIS WORK,
-5. IS DEDICATED,
-6. BY HIS FRIEND,
-7. THE AUTHOR.
-8. CONTENTS.
-9. THE HOUSE OF COMMONS, FROM THE STRANGERS' GALLERY.
-10. A NIGHT WITH THE LORDS.
+1. THE HOUSE OF COMMONS, FROM THE STRANGERS' GALLERY
+2. A NIGHT WITH THE LORDS
+3. THE REPORTERS' GALLERY
+4. THE LOBBY OF THE HOUSE OF COMMONS DURING THE SESSION
+5. OUR LONDON CORRESPONDENT
+6. A SUNDAY AT THE OBELISK
+7. EXETER HALL
+8. THE DERBY
+9. VAUXHALL GARDENS
+10. THE PENNY GAFF
 
-> 共 33 题，[完整目录与正文 →](https://www.bqgmz.top/b/c9085dd5d1cc/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/c9085dd5d1cc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

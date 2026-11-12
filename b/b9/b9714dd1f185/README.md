@@ -1,7 +1,7 @@
 # The soil solution
 
 **作者** Cameron, Frank K. (Frank Kenneth), 1869-1958 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 238,994 字 ｜ **来源** Project Gutenberg
+**规模** 6 章 · 238,994 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b9714dd1f185/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（238,994 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,384 字；最长 Chapter VII.（50,247 字），最短 Chapter IV.（2,510 字）。 |
-| 起止 | 始于「Chapter I.」，止于「Chapter XIII.」。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-caps-sections），拼接正文 5,565 行。 |
+| 篇幅分布 | 平均每章 37,469 字；最长 KOH + CO₂ + H₂O ⇆ KHCO₃ + H₂O.（2）（55,273 字），最短 KOH + CO₂ + H₂O ⇆ KHCO₃ + H₂O.（3）（16,692 字）。 |
 | 原文溯源 | `cache/epub/78317/pg78317.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 6 章）
 
-1. Chapter I.
-2. Chapter II.
-3. Chapter III.
-4. Chapter IV.
-5. Chapter V.
-6. Chapter VI.
-7. Chapter VII.
-8. Chapter VIII.
-9. Chapter IX.
-10. Chapter X.
+1. KOH + CO₂ + H₂O ⇆ KHCO₃ + H₂O.（1）
+2. KOH + CO₂ + H₂O ⇆ KHCO₃ + H₂O.（2）
+3. KOH + CO₂ + H₂O ⇆ KHCO₃ + H₂O.（3）
+4. THE RELATION OF PLANT GROWTH TO CONCENTRATION.
+5. WHEAT PLANTS, WITH ESPECIAL REFERENCE TO THEIR TOXIC PROPERTIES[105]
+6. FERTILIZERS.
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/b9714dd1f185/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/b9714dd1f185/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Lives of the Queens of England of the House of Hanover, volume 1 (of 2)
 
 **作者** Doran, Dr. (John), 1807-1878 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 742,203 字 ｜ **来源** Project Gutenberg
+**规模** 40 章 · 742,203 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c28ad18530a5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（742,203 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 43,659 字；最长 Let us do the prince the justice to say,（91,720 字），最短 CHAPTER V.（8,799 字）。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-chapter），拼接正文 15,118 行。 |
+| 篇幅分布 | 平均每章 18,343 字；最长 CHAPTER I.（部5）（58,933 字），最短 CHAPTER III.（部2）（554 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER III.（部5）」。 |
 | 原文溯源 | `cache/epub/73111/pg73111.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/c28ad18530a5/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/c28ad18530a5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Cornwall（#38190）
 
-**作者** Baring-Gould, S. (Sabine), 1834-1924 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 147,233 字 ｜ **来源** Project Gutenberg
+**作者** Baring-Gould, S. (Sabine), 1834-1924 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 27 章 · 147,233 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b6c7ab56a6db/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（147,233 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,033 字；最长 The production of beds is of great importance to geologists,（39,997 字），最短 =Mevagissey= (2088), a seaport town situated on a fine bay s（7,175 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-toc-title-list），拼接正文 3,578 行。 |
+| 篇幅分布 | 平均每章 5,321 字；最长 27. The Chief Towns and Villages of Cornwall（12,487 字），最短 15. Industries and Manufactures（811 字）。 |
+| 起止 | 始于「1. County and Shire. Meaning of the Word」，止于「27. The Chief Towns and Villages of Cornwall」。 |
 | 原文溯源 | `cache/epub/38190/pg38190.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. The production of beds is of great importance to geologists,
-2. Whitesand Bay enjoys some slight shelter from the S. and E.
-3. Cornwall, being so surrounded by the sea, and so peculiarly
-4. Porcelain was introduced into Europe from the East in 1518,
-5. To the Bronze Age succeeded the Iron Age. This metal was int
-6. A monastic building consisted of a church, with a cloister c
-7. =Mevagissey= (2088), a seaport town situated on a fine bay s
+1. 1. County and Shire. Meaning of the Word
+2. 2. General Characteristics
+3. 3. Size, Shape, Boundaries
+4. 4. Surface and General Features
+5. 5. Watershed, Rivers
+6. 6. Geology and Soil
+7. 7. Natural History
+8. 8. Around the Coast. From Morwenstow to Land's End
+9. 9. Around the Coast. From Land's End to Rame Head
+10. 10. The Coast--Gains and Losses
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/b6c7ab56a6db/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/b6c7ab56a6db/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

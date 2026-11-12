@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（187,768 字）。 |
-| 分章依据 | 按「章」标记切分为 41 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 4,579 字；最长 CHAPTER IV. THE ADVENTURES OF A NIGHT.（9,602 字），最短 CHAPTER XXII. ON THE MAINLAND.（1,336 字）。 |
+| 分章依据 | 按「章」标记切分为 41 章（auto-chapter），拼接正文 7,115 行。 |
+| 篇幅分布 | 平均每章 4,561 字；最长 CHAPTER IV. THE ADVENTURES OF A NIGHT.（9,602 字），最短 CHAPTER XXII. ON THE MAINLAND.（1,336 字）。 |
 | 起止 | 始于「CHAPTER I. THE GOLDEN MOOSE.」，止于「CHAPTER XLI. CONCLUSION.」。 |
 | 原文溯源 | `cache/epub/63549/pg63549.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 41 章，[完整目录与正文 →](https://www.bqgmz.top/b/c7779f04d1cd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

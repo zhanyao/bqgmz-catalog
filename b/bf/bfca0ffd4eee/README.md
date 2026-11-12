@@ -1,7 +1,7 @@
 # Jurgen: A Comedy of Justice
 
-**作者** Cabell, James Branch, 1879-1958 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 119 题 · 435,455 字 ｜ **来源** Project Gutenberg
+**作者** Cabell, James Branch, 1879-1958 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 50 章 · 435,455 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bfca0ffd4eee/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（435,455 字）。 |
-| 分章依据 | 按「题」标记切分为 119 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,659 字。 |
+| 分章依据 | 按「章」标记切分为 50 章（auto-num），拼接正文 11,539 行。 |
+| 篇幅分布 | 平均每章 8,486 字；最长 23.（17,558 字），最短 34.（4,484 字）。 |
+| 起止 | 始于「1.」，止于「50.」。 |
 | 原文溯源 | `cache/epub/8771/pg8771.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. JURGEN
-2. By
-3. JAMES BRANCH CABELL
-4. TO
-5. BURTON RASCOE
-6. A FOREWORD: WHICH ASSERTS NOTHING
-7. I WHY JURGEN DID THE MANLY THING
-8. II ASSUMPTION OF A NOTED GARMENT
-9. III THE GARDEN BETWEEN DAWN AND SUNRISE
-10. IV THE DOROTHY WHO DID NOT UNDERSTAND
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 119 题，[完整目录与正文 →](https://www.bqgmz.top/b/bfca0ffd4eee/)
+> 共 50 章，[完整目录与正文 →](https://www.bqgmz.top/b/bfca0ffd4eee/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

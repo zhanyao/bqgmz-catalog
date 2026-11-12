@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（410,764 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 37,342 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 8,228 行。 |
+| 篇幅分布 | 平均每章 163 字。 |
 | 起止 | 始于「CHAPTER I.--The Seven Planes of Being. What is meant by a Plane. A state」，止于「CHAPTER XI.--Astral Entities. Non-human dwellers on the astral.」。 |
 | 原文溯源 | `cache/epub/12480/pg12480.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/bb8d11b9d5c4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

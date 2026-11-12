@@ -1,7 +1,7 @@
 # Ylösnousemus III
 
-**作者** Tolstoy, Leo, graf, 1828-1910; Järnefelt, Arvid, 1861-1932 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 34 题 · 167,157 字 ｜ **来源** Project Gutenberg
+**作者** Tolstoy, Leo, graf, 1828-1910; Järnefelt, Arvid, 1861-1932 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 28 章 · 167,157 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c08d8b2dbb13/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（167,157 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,916 字。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-roman-bare），拼接正文 3,862 行。 |
+| 篇幅分布 | 平均每章 5,967 字；最长 XXVIII.（12,068 字），最短 X.（3,048 字）。 |
+| 起止 | 始于「I.」，止于「XXVIII.」。 |
 | 原文溯源 | `cache/epub/13259/pg13259.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. YLÖSNOUSEMUS III
-2. Leo Tolstoi
-3. Tekijän luvalla suomentanut Arvid Järnefelt
-4. I.
-5. II.
-6. III.
-7. IV.
-8. V.
-9. VI.
-10. VII.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/c08d8b2dbb13/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/c08d8b2dbb13/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

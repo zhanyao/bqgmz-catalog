@@ -1,7 +1,7 @@
 # Mémoires du maréchal Marmont, duc de Raguse (6/9)
 
-**作者** Marmont, Auguste Frédéric Louis Viesse de, duc de Raguse, 1774-1852 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 213 题 · 432,663 字 ｜ **来源** Project Gutenberg
+**作者** Marmont, Auguste Frédéric Louis Viesse de, duc de Raguse, 1774-1852 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 89 章 · 432,663 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c390ea015fa3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（432,663 字）。 |
-| 分章依据 | 按「题」标记切分为 213 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,031 字。 |
+| 分章依据 | 按「章」标记切分为 89 章（auto-caps-sections），拼接正文 10,654 行。 |
+| 篇幅分布 | 平均每章 4,861 字；最长 LE MAJOR GÉNÉRAL AU MARÉCHAL MARMONT.（66,767 字），最短 «DUC DE FELTRE.»（343 字）。 |
 | 原文溯源 | `cache/epub/33861/pg33861.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. DE 1792 A 1841
-2. IMPRIMÉS SUR LE MANUSCRIT ORIGINAL DE L'AUTEUR
-3. AVEC
-4. TOME SIXIÈME
-5. PARIS
-6. L'éditeur se réserve tous droits de traduction et de reproduction
-7. LIVRE DIX-NEUVIÈME
-8. LE MAJOR GÉNÉRAL AU MARÉCHAL MARMONT.
-9. LE MAJOR GÉNÉRAL AU MARÉCHAL MARMONT.
-10. LE MAJOR GÉNÉRAL AU MARÉCHAL MARMONT.
+1. LE MAJOR GÉNÉRAL AU MARÉCHAL MARMONT.
+2. LE MAJOR GÉNÉRAL AU MARÉCHAL MARMONT.
+3. LE MAJOR GÉNÉRAL AU MARÉCHAL MARMONT.
+4. NAPOLÉON AU MARÉCHAL MARMONT.
+5. LE MAJOR GÉNÉRAL AU MARÉCHAL MARMONT.
+6. LE MARÉCHAL MARMONT A NAPOLÉON.
+7. LE MARÉCHAL MARMONT A NAPOLÉON.
+8. NAPOLÉON AU MARÉCHAL MARMONT.
+9. NAPOLÉON AU MARÉCHAL MARMONT.
+10. NAPOLÉON AU MARÉCHAL MARMONT.
 
-> 共 213 题，[完整目录与正文 →](https://www.bqgmz.top/b/c390ea015fa3/)
+> 共 89 章，[完整目录与正文 →](https://www.bqgmz.top/b/c390ea015fa3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

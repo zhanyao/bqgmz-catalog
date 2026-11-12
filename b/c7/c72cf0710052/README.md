@@ -1,7 +1,7 @@
 # The Black Troopers, and other stories
 
 **作者** Anonymous ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 352,085 字 ｜ **来源** Project Gutenberg
+**规模** 37 章 · 352,085 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c72cf0710052/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（352,085 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,710 字；最长 CHAPTER I.（109,603 字），最短 CHAPTER XV.（4,217 字）。 |
+| 分章依据 | 按「章」标记切分为 37 章（auto-chapter），拼接正文 8,684 行。 |
+| 篇幅分布 | 平均每章 9,503 字；最长 CHAPTER IV.（18,785 字），最短 CHAPTER XIV.（部3）（1,759 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XIV.（部3）」。 |
 | 原文溯源 | `cache/epub/61456/pg61456.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -24,11 +25,11 @@
 5. CHAPTER V.
 6. CHAPTER VI.
 7. CHAPTER VII.
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. CHAPTER X.
+8. CHAPTER I.（部2）
+9. CHAPTER II.（部2）
+10. CHAPTER III.（部2）
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/c72cf0710052/)
+> 共 37 章，[完整目录与正文 →](https://www.bqgmz.top/b/c72cf0710052/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

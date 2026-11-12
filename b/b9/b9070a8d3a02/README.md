@@ -1,7 +1,7 @@
 # History of the Early Settlement of the Juniata Valley Embracing an Account of the Early Pioneers, and the Trials and Privations Incident to the Settlement of the Valley, Predatory Incursions, Massacres, and Abductions by the Indians During the French and Indian Wars, and the War of the Revolution, &c.
 
 **作者** Jones, U. J. (Uriah James), 1818-1864 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 34 章 · 508,911 字 ｜ **来源** Project Gutenberg
+**规模** 35 章 · 508,911 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b9070a8d3a02/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（508,911 字）。 |
-| 分章依据 | 按「章」标记切分为 34 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,967 字；最长 CHAPTER XI.（42,650 字），最短 CHAPTER XXVI.（2,653 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXIV.」。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-chapter），拼接正文 11,044 行。 |
+| 篇幅分布 | 平均每章 14,172 字；最长 CHAPTER XI.（42,650 字），最短 CHAPTER XXVI.（2,653 字）。 |
 | 原文溯源 | `cache/epub/41392/pg41392.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/b9070a8d3a02/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/b9070a8d3a02/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

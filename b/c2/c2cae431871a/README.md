@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（328,923 字）。 |
-| 分章依据 | 按「章」标记切分为 40 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,223 字；最长 CHAPTER I  Jenny Wren Gives Peter Rabbit an Idea（13,691 字），最短 CHAPTER XXX  Some Big and Little Cat Cousins（4,756 字）。 |
-| 起止 | 始于「CHAPTER I  Jenny Wren Gives Peter Rabbit an Idea」，止于「CHAPTER XL  The Mammals of the Sea」。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-chapter），拼接正文 8,227 行。 |
+| 篇幅分布 | 平均每章 8,158 字；最长 CHAPTER XXVII Reddy Fox Joins the School（12,618 字），最短 CHAPTER XXX Some Big and Little Cat Cousins（4,756 字）。 |
+| 起止 | 始于「CHAPTER I JENNY WREN GIVES PETER RABBIT AN IDEA」，止于「CHAPTER XL The Mammals of the Sea」。 |
 | 原文溯源 | `cache/epub/2441/pg2441.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I Jenny Wren Gives Peter Rabbit an Idea
+1. CHAPTER I JENNY WREN GIVES PETER RABBIT AN IDEA
 2. CHAPTER II Peter and Jumper go to School
 3. CHAPTER III More of Peter's Long-Legged Cousins
 4. CHAPTER IV Chatterer and Happy Jack Join
@@ -32,4 +32,4 @@
 > 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/c2cae431871a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

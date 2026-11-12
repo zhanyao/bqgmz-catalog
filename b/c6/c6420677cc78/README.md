@@ -1,7 +1,7 @@
 # The theory and practice of argumentation and debate
 
-**作者** Ketcham, Victor Alvin, 1883-1947 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 584,563 字 ｜ **来源** Project Gutenberg
+**作者** Ketcham, Victor Alvin, 1883-1947 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 7 篇 · 584,563 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c6420677cc78/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（584,563 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 53,142 字；最长 “But I must add, in regard to this, that（97,719 字），最短 CHAPTER II（17,896 字）。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（auto-title-block），拼接正文 14,126 行。 |
+| 篇幅分布 | 平均每篇 74,198 字；最长 _3. Confidence._（141,246 字），最短 _2. Earnestness._（2,604 字）。 |
 | 原文溯源 | `cache/epub/62583/pg62583.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 7 篇）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. A drouth in the wheat belt naturally cau
-10. “But I must add, in regard to this, that
+1. EVIDENCE
+2. _A. Convenience._
+3. _2. Earnestness._
+4. _3. Confidence._
+5. APPENDICES
+6. MR. LINCOLN’S REPLY
+7. XIII
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/c6420677cc78/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/c6420677cc78/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

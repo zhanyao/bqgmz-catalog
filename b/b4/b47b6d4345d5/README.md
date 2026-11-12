@@ -1,7 +1,7 @@
 # Karrin lapset
 
-**作者** Salo, Aino, 1897-1992 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 33 题 · 154,781 字 ｜ **来源** Project Gutenberg
+**作者** Salo, Aino, 1897-1992 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 20 章 · 154,781 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b47b6d4345d5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（154,781 字）。 |
-| 分章依据 | 按「题」标记切分为 33 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,690 字。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-toc-title-list），拼接正文 4,342 行。 |
+| 篇幅分布 | 平均每章 7,713 字。 |
 | 原文溯源 | `cache/epub/77589/pg77589.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. KARRIN LAPSET
-2. Aino Salo
-3. SISÄLLYS:
-4. KARRIN LAPSET.
-5. 1. KAISA, PAAVO, PIRKKO JA SAARA.
-6. 2. KARRI.
-7. 3. ÄIDIN SYNTYMÄPÄIVÄ.
-8. 4. MARJAMATKA.
-9. 5. SUUNTALAN TORPPA.
-10. Ja enkeli tuli.»
+1. Kaisa, Paavo, Pirkko ja Saara.
+2. Karri.
+3. Äidin syntymäpäivä.
+4. Marjamatka.
+5. Suuntalan torppa.
+6. Satu tontuista.
+7. Kesän viimeinen viikko.
+8. Karrin lapset koulutöissä.
+9. Kouluvalmistuksia.
+10. Pirkon sisäänpääsytutkinto.
 
-> 共 33 题，[完整目录与正文 →](https://www.bqgmz.top/b/b47b6d4345d5/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/b47b6d4345d5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Kannokossa
 
-**作者** Juuti, Toimi, 1881-1943 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 21 题 · 92,313 字 ｜ **来源** Project Gutenberg
+**作者** Juuti, Toimi, 1881-1943 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 9 章 · 92,313 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c448de611583/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（92,313 字）。 |
-| 分章依据 | 按「题」标记切分为 21 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,395 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-toc-title-list），拼接正文 2,775 行。 |
+| 篇幅分布 | 平均每章 10,047 字；最长 Viidentoista pennin nakkia.（17,786 字），最短 Toiveita.（3,342 字）。 |
 | 原文溯源 | `cache/epub/73573/pg73573.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. KANNOKOSSA
-2. Savolaiskuvia
-3. TOIMI JUUTI
-4. SISÄLLYS:
-5. KANNOKOSSA.
-6. LAUTAMIES MUTASEN TALKOOT.
-7. KUMMIN LAHJA.
-8. JUMPRU-ANTIN NORRIKUPPI.
-9. KUN MITTARIT KÄVIVÄT.
-10. 1) 500 kpl. hirsiä
+1. Lautamies Mutasen talkoot.
+2. Kummin lahja.
+3. Jumpru-Antin norrikuppi.
+4. Kun mittarit kävivät.
+5. Lapsisaunat.
+6. Yöjalassa.
+7. Viidentoista pennin nakkia.
+8. Hevoskuuri.
+9. Toiveita.
 
-> 共 21 题，[完整目录与正文 →](https://www.bqgmz.top/b/c448de611583/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/c448de611583/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（285,342 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,949 字；最长 CHAPTER IX--ROBBING THE MAIL（29,372 字），最短 CHAPTER XIII--SIX YEARS LATER（7,948 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 6,995 行。 |
+| 篇幅分布 | 平均每章 21,926 字；最长 CHAPTER IX--ROBBING THE MAIL（29,372 字），最短 CHAPTER XIII--SIX YEARS LATER（7,948 字）。 |
 | 起止 | 始于「CHAPTER I--THE STRANGE LAD」，止于「CHAPTER XIII--SIX YEARS LATER」。 |
 | 原文溯源 | `cache/epub/4296/pg4296.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/c63caa5d76c5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

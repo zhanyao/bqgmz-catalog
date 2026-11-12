@@ -1,7 +1,7 @@
 # Review of the Work of Mr John Stuart Mill Entitled, 'Examination of Sir William Hamilton's Philosophy.'
 
-**作者** Grote, George, 1794-1871 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 92,921 字 ｜ **来源** Project Gutenberg
+**作者** Grote, George, 1794-1871 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 3 部分 · 92,921 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bbd970923728/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（92,921 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,230 字。 |
+| 分章依据 | 按「部分」标记切分为 3 部分（fallback-chunk），拼接正文 1,878 行。 |
+| 篇幅分布 | 平均每部分 30,973 字。 |
 | 原文溯源 | `cache/epub/12002/pg12002.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 3 部分）
 
-1. The doctrine of Relativity, as held by Kant and his many fol
-2. 'One of the proofs that, whatever may be the positive value
-3. While Mr Mill was amending the Syllogistic theory so as to e
-4. But in regard to Dr Whately, our judgment is altogether diff
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/bbd970923728/)
+> 共 3 部分，[完整目录与正文 →](https://www.bqgmz.top/b/bbd970923728/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（333,505 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 30,318 字；最长 CHAPTER VIII. In Strange Company（39,942 字），最短 CHAPTER XI.  The Guard（23,960 字）。 |
-| 起止 | 始于「CHAPTER I. The Coming Of Lad」，止于「CHAPTER XI.  The Guard」。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 8,121 行。 |
+| 篇幅分布 | 平均每章 30,238 字；最长 CHAPTER VIII. In Strange Company（39,942 字），最短 CHAPTER XI. The Guard（23,960 字）。 |
+| 起止 | 始于「CHAPTER I. The Coming Of Lad」，止于「CHAPTER XI. The Guard」。 |
 | 原文溯源 | `cache/epub/2392/pg2392.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -32,4 +32,4 @@
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/c69477bec2cc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

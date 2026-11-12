@@ -1,7 +1,7 @@
 # Andersonville: A Story of Rebel Military Prisons — Volume 3
 
-**作者** McElroy, John, 1846-1929 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 19 章 · 209,041 字 ｜ **来源** Project Gutenberg
+**作者** McElroy, John, 1846-1929 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 18 篇 · 209,041 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b88a094cd059/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（209,041 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,002 字；最长 CHAPTER L.（22,501 字），最短 CHAPTER LVII.（4,737 字）。 |
-| 起止 | 始于「CHAPTER XLIII.」，止于「CHAPTER LXI.」。 |
+| 分章依据 | 按「篇」标记切分为 18 篇（通用标记切分），拼接正文 4,553 行。 |
+| 篇幅分布 | 平均每篇 11,598 字；最长 FOOD--THE MEAGERNESS, INFERIOR QUALITY, AND TERRIBLE SAMENESS（22,502 字），最短 THE REBELS FORMALLY PROPOSE TO US TO DESERT TO THEM--CONTUMELIOUS（2,805 字）。 |
 | 原文溯源 | `cache/epub/4259/pg4259.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER XLIII.
-2. CHAPTER XLIV.
-3. CHAPTER XLV.
-4. CHAPTER XLVI.
-5. CHAPTER XLVII.
-6. CHAPTER XLVIII.
-7. CHAPTER XLIX.
-8. CHAPTER L.
-9. CHAPTER LI.
-10. CHAPTER LII.
+1. DIFFICULTY OF EXERCISING--EMBARRASSMENTS OF A MORNING WALK--THE RIALTO
+2. REBEL MUSIC--SINGULAR LACK OF THE CREATIVE POWER AMONG THE SOUTHERNERS
+3. SURLY BRITON--THE STOLID COURAGE THAT MAKES THE ENGLISH FLAG A BANNER OF
+4. "SICK CALL," AND THE SCENES THAT ACCOMPANIED IT--MUSTERING THE LAME, HALT
+5. DETERMINATION TO ESCAPE--DIFFERENT PLANS AND THEIR MERITS--I PREFER THE
+6. AUGUST--GOOD LUCK IN NOT MEETING CAPTAIN WIRZ--THAT WORTHY'S TREATMENT OF
+7. FOOD--THE MEAGERNESS, INFERIOR QUALITY, AND TERRIBLE SAMENESS
+8. SOLICITUDE AS TO THE FATE OF ATLANTA AND SHERMAN'S ARMY--PAUCITY OF NEWS
+9. SAVANNAH--DEVICES TO OBTAIN MATERIALS FOR A TENT--THEIR ULTIMATE SUCCESS
+10. FRANK REVERSTOCK'S ATTEMPT AT ESCAPE--PASSING OFF AS REBEL BOY HE REACHES
 
-> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/b88a094cd059/)
+> 共 18 篇，[完整目录与正文 →](https://www.bqgmz.top/b/b88a094cd059/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

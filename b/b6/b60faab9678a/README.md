@@ -1,7 +1,7 @@
 # Vengeances Corses
 
-**作者** Colonna de Cesari-Rocca, Pierre Paul Raoul, comte, 1864-1922 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 5 段 · 105,067 字 ｜ **来源** Project Gutenberg
+**作者** Colonna de Cesari-Rocca, Pierre Paul Raoul, comte, 1864-1922 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 11 篇 · 105,067 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/b60faab9678a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（105,067 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,013 字；最长 Tel est le sort auquel se condamnait, il y a peu d’années, u（39,795 字），最短 Sur le même bateau, se trouvaient plusieurs officiers qui ve（5,025 字）。 |
+| 分章依据 | 按「篇」标记切分为 11 篇（通用标记切分），拼接正文 2,435 行。 |
+| 篇幅分布 | 平均每篇 9,499 字。 |
 | 原文溯源 | `cache/epub/65339/pg65339.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 篇）
 
-1. Tel est le sort auquel se condamnait, il y a peu d’années, u
-2. Les bandits généralement respectueux de la vie de leurs comp
-3. Cet homme qui avait affronté tous les périls, qui avait pres
-4. La première fois qu’après avoir laissé s’écouler un long int
-5. Sur le même bateau, se trouvaient plusieurs officiers qui ve
+1. LA VENDETTA
+2. LE FUSIL
+3. RÈGLES & COUTUMES DE LA VENDETTA
+4. LE BANDITISME
+5. «SAINTE-LUCIE et GIACOMONI.»
+6. SAMPIERO CORSO
+7. LE CAPORAL BONAPARTE
+8. NASONE
+9. GALLOCCHIO
+10. ROMANS D’AVENTURES
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/b60faab9678a/)
+> 共 11 篇，[完整目录与正文 →](https://www.bqgmz.top/b/b60faab9678a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

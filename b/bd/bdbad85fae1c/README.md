@@ -1,7 +1,7 @@
 # The chronicles of Enguerrand de Monstrelet, Vol. 07 [of 13]
 
-**作者** Monstrelet, Enguerrand de, 1390?-1453; Johnes, Thomas, 1748-1816 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 17 段 · 358,542 字 ｜ **来源** Project Gutenberg
+**作者** Monstrelet, Enguerrand de, 1390?-1453; Johnes, Thomas, 1748-1816 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 18 篇 · 358,542 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bdbad85fae1c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（358,542 字）。 |
-| 分章依据 | 按「段」标记切分为 17 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,090 字；最长 About this time, some of king Charles's captains, namely, th（39,790 字），最短 At this period also, the English regained by storm the town （18,167 字）。 |
+| 分章依据 | 按「篇」标记切分为 18 篇（通用标记切分），拼接正文 9,107 行。 |
+| 篇幅分布 | 平均每篇 18,893 字；最长 LONDON:（1）（55,350 字），最短 THE CARDINALS, AND THE AMBASSADORS FROM THE COUNCIL, LEAVE ARRAS.--THE（1,631 字）。 |
 | 原文溯源 | `cache/epub/58083/pg58083.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. About this time, some of king Charles's captains, namely, th
-2. When the marshal of Burgundy had assembled all his men, he m
-3. When Richarville and his detachment approached the castle, h
-4. The besieged had thrown a bridge of boats over the Marne, fo
-5. By the forces of the duke, assisted by the lords du Vergy an
-6. His men and all the English captains were grieved at heart f
-7. These three knights marched from Paris with full sixteen hun
-8. It was now that Amadeus duke of Savoy, who was about fifty-s
-9. In the month of July, two cardinals, sent by the pope and th
-10. While this was passing, the duke of Bourbon, and the constab
+1. LONDON:（1）
+2. LONDON:（2）
+3. THE DUKE OF BEDFORD MARCHES A LARGE FORCE TO LAGNY-SUR-MARNE, TO
+4. THE COUNTS DE LIGNY AND DE ST POL KEEP THE APPOINTED DAY AT VILLIERS
+5. THE DUKE OF BURGUNDY HOLDS THE ANNIVERSARY FEAST OF THE GOLDEN FLEECE
+6. THE TOWN AND CASTLE OF PROVINS IN BRIE ARE WON BY THE ENGLISH AND
+7. THE DUKE OF BURGUNDY'S CAPTAINS APPEAR BEFORE VILLEFRANCHE, WHEREIN
+8. THE LORD WILLOUGHBY AND MATHAGON LAY SIEGE TO ST SEVERIN, WHERE THE
+9. AMADEUS DUKE OF SAVOY TURNS HERMIT, AND RESIDES AT RIPAILLE.[14]
+10. THE FRENCH, AFTER HAVING AGREED TO A TRUCE WITH THE BURGUNDIANS ON THE
 
-> 共 17 段，[完整目录与正文 →](https://www.bqgmz.top/b/bdbad85fae1c/)
+> 共 18 篇，[完整目录与正文 →](https://www.bqgmz.top/b/bdbad85fae1c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

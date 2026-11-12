@@ -1,7 +1,7 @@
 # Richard Lovell Edgeworth: A Selection From His Memoirs
 
 **作者** Edgeworth, Richard Lovell, 1744-1817; Edgeworth, Maria, 1768-1849; Tollemache, Beatrix L., -1926 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 12 章 · 170,354 字 ｜ **来源** Project Gutenberg
+**规模** 11 章 · 170,354 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/bb1ce05953dd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（170,354 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,196 字；最长 CHAPTER 8（28,711 字），最短 CHAPTER 7（5,461 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 3,692 行。 |
+| 篇幅分布 | 平均每章 15,419 字；最长 CHAPTER 8（42,402 字），最短 CHAPTER 7（5,461 字）。 |
 | 起止 | 始于「CHAPTER 1」，止于「CHAPTER 12」。 |
 | 原文溯源 | `cache/epub/16951/pg16951.txt`（Project Gutenberg） |
 
@@ -26,10 +26,10 @@
 6. CHAPTER 6
 7. CHAPTER 7
 8. CHAPTER 8
-9. Chapter 9.
-10. CHAPTER 10
+9. CHAPTER 10
+10. CHAPTER 11
 
-> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/bb1ce05953dd/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/bb1ce05953dd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

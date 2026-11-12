@@ -1,7 +1,7 @@
 # Avicenne
 
-**作者** Carra de Vaux, Bernard, 1867-1953 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 26 题 · 385,157 字 ｜ **来源** Project Gutenberg
+**作者** Carra de Vaux, Bernard, 1867-1953 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 9 章 · 385,157 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c8277f9314c9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（385,157 字）。 |
-| 分章依据 | 按「题」标记切分为 26 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,813 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 7,937 行。 |
+| 篇幅分布 | 平均每章 40,321 字；最长 CHAPITRE IV（61,122 字），最短 CHAPITRE II（27,365 字）。 |
 | 原文溯源 | `cache/epub/28702/pg28702.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. AVICENNE
-2. LES GRANDS PHILOSOPHES
-3. AVANT-PROPOS
-4. AVICENNE
-5. CHAPITRE PREMIER
-6. LA THÉODICÉE DU CORAN
-7. CHAPITRE II
-8. LES MOTAZÉLITES
-9. CHAPITRE III
-10. LES TRADUCTEURS
+1. CHAPITRE II
+2. CHAPITRE III
+3. CHAPITRE IV
+4. CHAPITRE V
+5. CHAPITRE VI
+6. CHAPITRE VII
+7. CHAPITRE VIII
+8. CHAPITRE IX
+9. CHAPITRE X
 
-> 共 26 题，[完整目录与正文 →](https://www.bqgmz.top/b/c8277f9314c9/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/c8277f9314c9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

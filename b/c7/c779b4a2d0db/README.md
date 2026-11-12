@@ -1,7 +1,7 @@
 # How the Flag Became Old Glory
 
-**作者** Scott, Emma Look, Mrs., 1858-; Valentine, A. C. [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 108,777 字 ｜ **来源** Project Gutenberg
+**作者** Scott, Emma Look, Mrs., 1858-; Valentine, A. C. [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 41 章 · 108,777 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c779b4a2d0db/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（108,777 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,755 字；最长 There rang a cry through the camp, with its word upon rousin（40,025 字），最短 That month of April saw the close of exactly four years of p（9,065 字）。 |
+| 分章依据 | 按「章」标记切分为 41 章（auto-toc-title-list），拼接正文 3,513 行。 |
+| 篇幅分布 | 平均每章 2,559 字；最长 OLD GLORY（10,541 字），最短 ROBERT E. LEE（394 字）。 |
 | 原文溯源 | `cache/epub/27853/pg27853.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. There rang a cry through the camp, with its word upon rousin
-2. The formal ceremony of surrender was to take place in an ope
-3. He rode a magnificent black animal called "Fire-eater." On h
-4. THE CAVALRY CHARGE
-5. That month of April saw the close of exactly four years of p
+1. THE FLAG GOES BY
+2. OLD GLORY
+3. IN THE LIGHT OF THE OLD NORTH CHURCH
+4. LEXINGTON
+5. ON THE EVE OF BUNKER HILL
+6. THE FLAG OF FORT STANWIX
+7. THE KNIGHT OF THE SEA
+8. WHERE THE STARS AND STRIPES UNFURLED
+9. THE SURRENDER OF BURGOYNE
+10. THE YOKE OF BRITAIN BROKEN
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/c779b4a2d0db/)
+> 共 41 章，[完整目录与正文 →](https://www.bqgmz.top/b/c779b4a2d0db/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

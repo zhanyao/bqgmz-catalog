@@ -1,7 +1,7 @@
 # Éloge du sein des femmes Ouvrage curieux
 
-**作者** Mercier de Compiègne, Claude-François-Xavier, 1763-1800 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 86 题 · 164,423 字 ｜ **来源** Project Gutenberg
+**作者** Mercier de Compiègne, Claude-François-Xavier, 1763-1800 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 8 章 · 164,423 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/c966f71a0e6e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（164,423 字）。 |
-| 分章依据 | 按「题」标记切分为 86 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,911 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 4,496 行。 |
+| 篇幅分布 | 平均每章 17,427 字；最长 CHAPITRE IX.（38,185 字），最短 CHAPITRE VIII.（9,128 字）。 |
 | 原文溯源 | `cache/epub/18610/pg18610.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 章）
 
-1. ÉLOGE DU SEIN DES FEMMES
-2. TIRÉ A 602 EXEMPLAIRES NUMÉROTÉS, SAVOIR:
-3. N° 285
-4. OUVRAGE CURIEUX
-5. PAR
-6. MERCIER DE COMPIÈGNE
-7. QUATRIÈME ÉDITION
-8. REVUE, ANNOTÉE ET CONSIDÉRABLEMENT AUGMENTÉE
-9. PARIS
-10. A BARRAUD, EDITEUR-LIBRAIRE
+1. CHAPITRE II.
+2. CHAPITRE III.
+3. CHAPITRE IV.
+4. CHAPITRE V.
+5. CHAPITRE VI.
+6. CHAPITRE VII.
+7. CHAPITRE VIII.
+8. CHAPITRE IX.
 
-> 共 86 题，[完整目录与正文 →](https://www.bqgmz.top/b/c966f71a0e6e/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/c966f71a0e6e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
