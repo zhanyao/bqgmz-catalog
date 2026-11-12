@@ -1,7 +1,7 @@
 # A Discovrse of Fire and Salt Discovering Many Secret Mysteries as well Philosophicall, as Theologicall
 
-**作者** Vigenère, Blaise de, 1523-1596; Stephens, Edward, active 1649 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 16 段 · 329,023 字 ｜ **来源** Project Gutenberg
+**作者** Vigenère, Blaise de, 1523-1596; Stephens, Edward, active 1649 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 136 篇 · 329,023 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6b31273f1e44/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（329,023 字）。 |
-| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,563 字；最长 These are the vestments which _Zohar_ said were the good wor（37,137 字），最短 It hath pleased me in some sort to runne through the foresai（11,899 字）。 |
+| 分章依据 | 按「篇」标记切分为 136 篇（通用标记切分），拼接正文 6,174 行。 |
+| 篇幅分布 | 平均每篇 2,417 字。 |
 | 原文溯源 | `cache/epub/47365/pg47365.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. These are the vestments which _Zohar_ said were the good wor
-2. God then being a pure Spirit, stript of al corporeity and ma
-3. In this of _Zohar_ (as above) are comprised the principall s
-4. The Greekes attribute it to _Phoroneus_, and put it, that it
-5. In this Element the more grosse and materiall of all, which
-6. Therefore let us return to our left purpose, of two fires. T
-7. Every thing that dissolveth it selfe, is of the nature of Sa
-8. Now for that there is such an affinity between iron, and cop
-9. In regard of lead, it is put for vexations and molestations,
-10. Doe wee not see that at every end of a field almost that the
+1. I Have been informed of your zeal and forwardnesse in advancing
+2. _PYTHAGORAS_ who of all Pagans was undoubtedly, by common consent
+3. And that upon the 9. of Saint _Marke, ver. 49. Every man shall be
+4. _In the beginning God created Heaven and Earth_; this said _Moses_
+5. The two highest, Aire and Fire, being comprised under the name of
+6. _In the beginning God created Heaven and Earth, and the Earth was
+7. Moreover the foure Elements (whereof all is made) consists of foure
+8. Man then which is the Image of the great World, and therefrom is called
+9. From the knowledge of the sensible World, we come to that of the
+10. But that which seeth is much more excellent and more worthy then that
 
-> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/6b31273f1e44/)
+> 共 136 篇，[完整目录与正文 →](https://www.bqgmz.top/b/6b31273f1e44/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

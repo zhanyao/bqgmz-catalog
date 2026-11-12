@@ -1,7 +1,7 @@
 # Römische Geschichte — Buch 5
 
-**作者** Mommsen, Theodor, 1817-1903 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 68 段 · 1,367,633 字 ｜ **来源** Project Gutenberg
+**作者** Mommsen, Theodor, 1817-1903 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 32 部分 · 1,367,633 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7bbc802d6d74/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,367,633 字）。 |
-| 分章依据 | 按「段」标记切分为 68 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,112 字；最长 Fuenftes Buch Die Begruendung der Militaermonarchie Wie er s（40,091 字），最短 ward bereits erwaehnt. Die Kunstliebhaber draengten sich das（5,682 字）。 |
+| 分章依据 | 按「部分」标记切分为 32 部分（fallback-chunk），拼接正文 23,096 行。 |
+| 篇幅分布 | 平均每部分 42,738 字；最长 第 28 部分（43,958 字），最短 第 32 部分（15,386 字）。 |
 | 原文溯源 | `cache/epub/3064/pg3064.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. Fuenftes Buch Die Begruendung der Militaermonarchie Wie er s
-2. Entscheidungsschlacht beharrlich verweigerte, aber Zufuhr un
-3. Zufuhr aufzureiben. Indes Pompeius erzwang gegen Perpenna de
-4. unter den Raeubern als Raeuber verrufen waren, teils die nam
-5. nat. 5, 20, 85; 21, 86; 6, 28, 142); wovon auch Plutarch (Lu
-6. Hauptschlacht zu liefern, den Kern der feindlichen Armee - a
-7. indem zugleich seine schwache Reiterei durch einen Flankenan
-8. auszustatten, so dass er durch seine ungeheuren Requisitione
-9. sie sollten, einen festungsaehnlich verschanzten Wall in der
-10. Schild und Schwert er offiziell angesehen ward, ihn doch sei
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 68 段，[完整目录与正文 →](https://www.bqgmz.top/b/7bbc802d6d74/)
+> 共 32 部分，[完整目录与正文 →](https://www.bqgmz.top/b/7bbc802d6d74/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

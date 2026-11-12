@@ -1,7 +1,7 @@
 # A l'ombre des jeunes filles en fleurs — Troisième partie
 
-**作者** Proust, Marcel, 1871-1922 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 18 段 · 362,926 字 ｜ **来源** Project Gutenberg
+**作者** Proust, Marcel, 1871-1922 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 186 篇 · 362,926 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/718043a556d3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（362,926 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,162 字；最长 Mais les demoiselles Bloch et leur frère rougirent jusqu'aux（39,791 字），最短 Il avait fallu quitter Balbec en effet, le froid et l'humidi（3,504 字）。 |
+| 分章依据 | 按「篇」标记切分为 186 篇（通用标记切分），拼接正文 6,796 行。 |
+| 篇幅分布 | 平均每篇 1,950 字。 |
 | 原文溯源 | `cache/epub/3000/pg3000.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Mais les demoiselles Bloch et leur frère rougirent jusqu'aux
-2. C'était l'heure où dames et messieurs venaient tous les jour
-3. D'ailleurs, il n'y avait même pas besoin pour rentrer de qui
-4. Les premiers temps, quand nous arrivions, le soleil venait d
-5. Comme ces soirs-là je rentrais plus tard, je retrouvais avec
-6. Mais c'est peut-être encore celle au teint de géranium, aux
-7. L'effort qu'Elstir faisait pour se dépouiller en présence de
-8. J'allais et venais, impatient qu'il eût fini de travailler;
-9. Elstir se tut. «Ce n'est pourtant pas Mme Swann avant son ma
-10. Quand j'arrivai chez Elstir, un peu plus tard, je crus d'abo
+1. Une fois M. de Charlus parti, nous pûmes enfin, Robert et moi, aller
+2. Or, de quelqu'un qu'on admire de confiance, on recueille, on cite avec
+3. Il y avait donc, enclavé en mon camarade Bloch, un père Bloch, qui
+4. J'y fus moi-même pris et à la manière dont M. Bloch père parla de
+5. M. Bloch père qui ne connaissait Bergotte que de loin, et la vie de
+6. L'égocentrisme permettant de la sorte à chaque humain de voir
+7. Cette importance illusoire de M. Bloch père était d'ailleurs étendue
+8. La ressemblance était des plus vagues, mais on eût dit que ce fût un
+9. --Comment, vous êtes le fils du marquis de Marsantes? mais je l'ai
+10. D'habitude après avoir sorti de derrière les fagots pour un camarade
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/718043a556d3/)
+> 共 186 篇，[完整目录与正文 →](https://www.bqgmz.top/b/718043a556d3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

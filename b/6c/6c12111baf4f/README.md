@@ -1,7 +1,7 @@
 # Anecdotes of Dogs
 
-**作者** Jesse, Edward, 1780-1868 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 87 题 · 581,799 字 ｜ **来源** Project Gutenberg
+**作者** Jesse, Edward, 1780-1868 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 30 篇 · 581,799 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6c12111baf4f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（581,799 字）。 |
-| 分章依据 | 按「题」标记切分为 87 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,687 字。 |
+| 分章依据 | 按「篇」标记切分为 30 篇（auto-magazine），拼接正文 12,456 行。 |
+| 篇幅分布 | 平均每篇 19,293 字。 |
 | 原文溯源 | `cache/epub/26500/pg26500.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. BY
-2. EDWARD JESSE, ESQ.
-3. PREFACE.
-4. EDWARD JESSE.
-5. ENGRAVINGS ON WOOD.
-6. TITLE. PAINTER. ENGRAVER. PAGE
-7. CONTENTS.
-8. THE IRISH AND HIGHLAND WOLF-DOG.
-9. THE NEWFOUNDLAND DOG.
-10. THE COLLEY OR SHEPHERD'S DOG.
+1. PREFACE
+2. ENGRAVINGS ON WOOD
+3. TITLE. PAINTER. ENGRAVER. PAGE
+4. CONTENTS
+5. THE COLLEY OR SHEPHERD'S DOG
+6. THE BLOODHOUND
+7. THE POODLE
+8. THE GREYHOUND
+9. THE FOXHOUND
+10. DALMATIAN OR COACH-DOG
 
-> 共 87 题，[完整目录与正文 →](https://www.bqgmz.top/b/6c12111baf4f/)
+> 共 30 篇，[完整目录与正文 →](https://www.bqgmz.top/b/6c12111baf4f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Kostajan kourissa: Salapoliisikertomus
 
-**作者** Elvestad, Sven, 1884-1934; Korsberg, H. [Translator]; Korsberg, V. [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 4 段 · 97,130 字 ｜ **来源** Project Gutenberg
+**作者** Elvestad, Sven, 1884-1934; Korsberg, H. [Translator]; Korsberg, V. [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 11 章 · 97,130 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7d688de7fbc9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（97,130 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 24,282 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-roman-bare），拼接正文 3,366 行。 |
+| 篇幅分布 | 平均每章 8,794 字；最长 I（11,212 字），最短 X（6,752 字）。 |
 | 原文溯源 | `cache/epub/56647/pg56647.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 10 章）
 
-1. "Haet tuon koiran tänne." Krag osoitti ulos pimeyteen, jossa
-2. Bengt aikoi vetää peitteen syrjään, mutta Krag esti hänet.
-3. "Toisin sanoen: hän aikoi kertoa teille kaikki?"
-4. "Kääntykää heti kamiiniin päin, tai muuten olette kuoleman o
+1. I
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/7d688de7fbc9/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/7d688de7fbc9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

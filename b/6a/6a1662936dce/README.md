@@ -1,7 +1,7 @@
 # Prisoners their own warders
 
 **作者** McNair, John Frederick Adolphus, 1828-1910; Bayliss, W. D. ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 215,247 字 ｜ **来源** Project Gutenberg
+**规模** 16 章 · 215,247 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6a1662936dce/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（215,247 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,557 字；最长 Chapter XIII（34,672 字），最短 Chapter XI（3,324 字）。 |
-| 起止 | 始于「Chapter I」，止于「Chapter XIII」。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-toc-title-list），拼接正文 5,645 行。 |
+| 篇幅分布 | 平均每章 12,886 字。 |
 | 原文溯源 | `cache/epub/26974/pg26974.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
 1. Chapter I
-2. Chapter II
-3. Chapter III
-4. Chapter IV
-5. Chapter V
-6. Chapter VI
-7. Chapter VII
-8. Chapter VIII
-9. Chapter IX
-10. Chapter X
+2. EARLY RECORDS OF BENCOOLEN AND
+3. A SLIGHT SKETCH OF PENANG AND THE
+4. OLD MALACCA, AND THE FIRST INTRODUCTION
+5. A RUNNING HISTORY OF SINGAPORE: ITS JAIL
+6. SINGAPORE (CONTINUED)
+7. SINGAPORE (CONTINUED)
+8. SINGAPORE (CONTINUED)
+9. FOOD AND CLOTHING
+10. PUBLIC WORKS AND INDUSTRIES
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/6a1662936dce/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/6a1662936dce/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

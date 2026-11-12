@@ -1,7 +1,7 @@
 # An Apology for the Life of Mrs. Shamela Andrews
 
-**作者** Fielding, Henry, 1707-1754 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 37 题 · 67,047 字 ｜ **来源** Project Gutenberg
+**作者** Fielding, Henry, 1707-1754 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 10 篇 · 67,047 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7e390600d600/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（67,047 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,812 字。 |
+| 分章依据 | 按「篇」标记切分为 10 篇（auto-magazine），拼接正文 1,828 行。 |
+| 篇幅分布 | 平均每篇 6,665 字。 |
 | 原文溯源 | `cache/epub/30962/pg30962.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. Together with
-2. To Miss _Fanny_, _&c._
-3. MADAM,
-4. JOHN PUFF.
-5. THO. TICKLETEXT.
-6. LETTER I.
-7. SHAMELA.
-8. LETTER II.
-9. SHAMELA.
-10. LETTER III.
+1. Mrs. SHAMELA ANDREWS
+2. _PAMELA_,
+3. _SIR_,
+4. JOHN PUFF
+5. LETTER I
+6. LUCRETIA JERVIS
+7. SHAMELA ANDREWS _to_ HENRIETTA MARIA HONORA ANDREWS
+8. ARTHUR WILLIAMS
+9. SHAMELA
+10. THO. TICKLETEXT
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/7e390600d600/)
+> 共 10 篇，[完整目录与正文 →](https://www.bqgmz.top/b/7e390600d600/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

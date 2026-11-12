@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（543,402 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 49,400 字。 |
-| 起止 | 始于「CHAPTER I. RECALLED BY THE DOUBLE-FOUR」，止于「CHAPTER XI. THE THIRTEENTH ENCOUNTER」。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 15,338 行。 |
+| 篇幅分布 | 平均每章 49,343 字。 |
 | 原文溯源 | `cache/epub/1976/pg1976.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I. RECALLED BY THE DOUBLE-FOUR
-2. CHAPTER II. PRINCE ALBERT’S CARD DEBTS
-3. CHAPTER III. THE AMBASSADOR’S WIFE
-4. CHAPTER IV. THE MAN PROM THE OLD TESTAMENT
-5. CHAPTER V. THE FIRST SHOT
-6. CHAPTER VI. THE SEVEN SUPPERS OF ANDREA KORUST
-7. CHAPTER VII. MAJOR KOSUTH’S MISSION
-8. CHAPTER VIII. THE MAN BEHIND THE CURTAIN
-9. CHAPTER IX. THE GHOSTS OF HAVANA HARBOR
-10. CHAPTER X. THE AFFAIR or AN ALIEN SOCIETY
+1. BOOK ONE
+2. CHAPTER
+3. II A NEW CAREER
+4. III VINCENT CAWDOR, COMMISSION AGENT
+5. IV THE INDISCRETION OF LETTY SHAW
+6. V DELILAH FROM STREATHAM
+7. VI THE LITTLE LADY FROM SERVIA
+8. VII THE DEMAND OF THE DOUBLE-FOUR
+9. VIII MRS. BOGNOR’S STAR BOARDER
+10. IX THE PERFIDY OF MISS BROWN
 
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/71fe9c89aa70/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

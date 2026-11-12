@@ -1,7 +1,7 @@
 # The National Geographic Magazine, Vol. III. (Complete), 1891
 
 **作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 7 章 · 555,298 字 ｜ **来源** Project Gutenberg
+**规模** 14 章 · 555,298 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/740c9bc94388/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（555,298 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 79,328 字；最长 PART I.（178,225 字），最短 PART III.（15,712 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-part），拼接正文 14,669 行。 |
+| 篇幅分布 | 平均每章 39,664 字；最长 PART II.（2）（56,190 字），最短 PART I.（4）（12,213 字）。 |
 | 原文溯源 | `cache/epub/64180/pg64180.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 章）
+## 章节目录（前 10 章）
 
-1. PART I.
-2. PART II.
-3. Beyond the bordering moraines at our fee
-4. PART III.
-5. PART IV.
-6. PART V.
-7. "The 6th of September, after having at f
+1. PART I.（1）
+2. PART I.（2）
+3. PART I.（3）
+4. PART I.（4）
+5. PART II.（1）
+6. PART II.（2）
+7. PART II.（3）
+8. PART II.（4）
+9. PART III.
+10. PART IV.
 
-> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/740c9bc94388/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/740c9bc94388/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

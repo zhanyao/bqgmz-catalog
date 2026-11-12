@@ -1,7 +1,7 @@
 # Fort Ticonderoga: A Short History
 
-**作者** Pell, Stephen H. P. ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 110,422 字 ｜ **来源** Project Gutenberg
+**作者** Pell, Stephen H. P. ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 110,422 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/791a3e0fba46/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（110,422 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,084 字；最长 “I left [Montreal] this year [1756] at the end of April and （38,392 字），最短 Before Mr. Pell had gone to France he had no idea of chargin（10,621 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 2,721 行。 |
+| 篇幅分布 | 平均每章 9,684 字；最长 CHAPTER ELEVEN（27,761 字），最短 CHAPTER TEN（1,070 字）。 |
 | 原文溯源 | `cache/epub/55561/pg55561.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. “I left [Montreal] this year [1756] at the end of April and
-2. ‘I scratched a few lines to you, on the 11th instant, from F
-3. “The enterprise has been approbated by the officers and sold
-4. Sir; with great fatigue after marching all last night I arri
-5. Before Mr. Pell had gone to France he had no idea of chargin
+1. CHAPTER ONE
+2. CHAPTER TWO
+3. CHAPTER THREE
+4. CHAPTER FOUR
+5. CHAPTER FIVE
+6. CHAPTER SIX
+7. CHAPTER SEVEN
+8. CHAPTER EIGHT
+9. CHAPTER NINE
+10. CHAPTER TEN
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/791a3e0fba46/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/791a3e0fba46/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

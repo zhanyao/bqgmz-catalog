@@ -1,7 +1,7 @@
 # Children of Men
 
-**作者** Lessing, Bruno, 1870-1940 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 10 段 · 203,750 字 ｜ **来源** Project Gutenberg
+**作者** Lessing, Bruno, 1870-1940 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 23 章 · 203,750 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/68645d24c1a8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（203,750 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,375 字；最长 It was now nearly two o’clock in the morning and the streets（40,034 字），最短 “You see,” said Reuben, gently encircling her waist, “we lov（3,582 字）。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-toc-title-list），拼接正文 5,203 行。 |
+| 篇幅分布 | 平均每章 8,798 字；最长 THE END OF THE TASK,（23,339 字），最短 A YIDDISH IDYLL,（3,583 字）。 |
 | 原文溯源 | `cache/epub/54761/pg54761.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. It was now nearly two o’clock in the morning and the streets
-2. The store was closed.
-3. It happened ten years ago, and it seems but yesterday. The d
-4. “Yes, my son,” he answered. “I, too, am anxious to see if sh
-5. “Ve punched like regular prize-fighters. I done my best to k
-6. “Hello, little rascal!” cried the policeman. “Papa can’t pla
-7. “You are wrong, my pessimistic brother,” he said, fondly lay
-8. “The Shadchen has arranged it all. She is younger than I—oh,
-9. “That was just like dear old Bykowsky. He was a regular aris
-10. “You see,” said Reuben, gently encircling her waist, “we lov
+1. THE END OF THE TASK,
+2. THE SADER GUEST,
+3. A RIFT IN THE CLOUD,
+4. OUT OF HIS ORBIT,
+5. THE POISONED CHAI,
+6. URIM AND THUMMIM,
+7. A YIDDISH IDYLL,
+8. THE STORY OF SARAI,
+9. THE AMERICANISATION OF SHADRACH COHEN,
+10. HANNUKAH LIGHTS,
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/68645d24c1a8/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/68645d24c1a8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

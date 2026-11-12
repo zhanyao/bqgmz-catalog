@@ -1,7 +1,7 @@
 # A Description of Greenland
 
-**作者** Egede, Hans, 1686-1758 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 12 段 · 244,356 字 ｜ **来源** Project Gutenberg
+**作者** Egede, Hans, 1686-1758 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 26 章 · 244,356 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/67f429b6970e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（244,356 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,363 字；最长 The Danish Chronicle pretends, that some adventurous merchan（39,931 字），最短 [32] The way the men wash themselves is to lick their finger（4,184 字）。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-toc-title-list），拼接正文 5,351 行。 |
+| 篇幅分布 | 平均每章 6,231 字。 |
 | 原文溯源 | `cache/epub/58308/pg58308.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. The Danish Chronicle pretends, that some adventurous merchan
-2. The Danes, not willing to hazard a landing in such inauspici
-3. Thus it is confessed, that Greenland is a country not unwort
-4. A whole century passed from the cessation of all commerce an
-5. The natives of Greenland have no reason to complain of rains
-6. Among the different kinds of whales some reckon the unicorn,
-7. Now as to the Greenland boats, there are two sorts of them;
-8. Besides the fore-mentioned provisions, they also eat a sort
-9. The accent and pronunciation of it is hard and difficult, be
-10. And if by chance any one, who has been under these jugglers’
+1. CHAPTER I.
+2. CHAP. II.
+3. of Land cannot be recovered
+4. CHAP. III.
+5. Of the Nature of the Soil, Plants, and Minerals of Greenland
+6. Of the Nature of the Climate, and the Temperament of the Air
+7. CHAP. V.
+8. CHAP. VI.
+9. Fishes
+10. CHAP. VII.
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/67f429b6970e/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/67f429b6970e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

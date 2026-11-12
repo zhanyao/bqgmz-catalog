@@ -1,7 +1,7 @@
 # Studies in Classic American Literature
 
-**作者** Lawrence, D. H. (David Herbert), 1885-1930 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 13 段 · 277,887 字 ｜ **来源** Project Gutenberg
+**作者** Lawrence, D. H. (David Herbert), 1885-1930 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 12 章 · 277,887 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/68c0e2c68250/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（277,887 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,375 字；最长 A Quaker friend told Franklin that he, Benjamin, was general（39,943 字），最短 Walt wasn't an Esquimo. A little, yellow, sly, cunning, grea（17,826 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-roman-title），拼接正文 7,431 行。 |
+| 篇幅分布 | 平均每章 22,905 字；最长 IX. DANA'S "TWO YEARS BEFORE THE MAST"（33,315 字），最短 I. THE SPIRIT OF PLACE（12,334 字）。 |
+| 起止 | 始于「I. THE SPIRIT OF PLACE」，止于「XII. WHITMAN」。 |
 | 原文溯源 | `cache/epub/60547/pg60547.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. A Quaker friend told Franklin that he, Benjamin, was general
-2. Reconcile the two statements if you like. But, in America, a
-3. I have often thought, hearing American tourists in Europe--i
-4. Now Fenimore stayed very safe inside the old skin: a gentlem
-5. In spiritual love, the contact is purely nervous. The nerves
-6. Usher thought that all vegetable things had sentience. Surel
-7. She had dished him and his spirituality, so he hated her. As
-8. Watch these Pearls, these Pearls of modern women. Particular
-9. You could never quite do this on a sailing ship. A master ha
-10. Dana is wonderful at relating these mechanical, or dynamic-p
+1. I. THE SPIRIT OF PLACE
+2. II. BENJAMIN FRANKLIN
+3. III. HECTOR ST. JOHN DE CRÈVECŒUR
+4. IV. FENIMORE COOPER'S WHITE NOVELS
+5. V. FENIMORE COOPER'S LEATHERSTOCKING NOVELS
+6. VI. EDGAR ALLAN POE
+7. VII. NATHANIEL HAWTHORNE AND "THE SCARLET LETTER"
+8. VIII. HAWTHORNE'S "BLITHEDALE ROMANCE"
+9. IX. DANA'S "TWO YEARS BEFORE THE MAST"
+10. X. HERMAN MELVILLE'S "TYPEE" AND "OMOO"
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/68c0e2c68250/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/68c0e2c68250/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Römische Geschichte — Buch 1
 
-**作者** Mommsen, Theodor, 1817-1903 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 26 段 · 528,813 字 ｜ **来源** Project Gutenberg
+**作者** Mommsen, Theodor, 1817-1903 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 13 部分 · 528,813 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7416073dee91/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（528,813 字）。 |
-| 分章依据 | 按「段」标记切分为 26 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,338 字；最长 Ta palaistera saph/o/s men eyrein dia chronoy pl/e/thos ad?n（40,051 字），最短 wie sie bei der Mauer sonst verwandt waren, die Aussenmauer （8,153 字）。 |
+| 分章依据 | 按「部分」标记切分为 13 部分（fallback-chunk），拼接正文 8,950 行。 |
+| 篇幅分布 | 平均每部分 40,677 字；最长 第 5 部分（43,788 字），最短 第 13 部分（5,523 字）。 |
 | 原文溯源 | `cache/epub/3060/pg3060.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. Ta palaistera saph/o/s men eyrein dia chronoy pl/e/thos ad?n
-2. die Kulturgeraete und Kulturpflanzen bestaendig getauscht; u
-3. Maennlichkeit und der Weiblichkeit, Dea Dia oder Ceres die s
-4. Gaues nicht eine eigentliche Zusammensiedlung, eine Stadt, s
-5. einen Ursprung weiss, weiss freilich auch zu berichten, dass
-6. um das Pferdehaupt stritten, ist schon erzaehlt worden; aber
-7. Magistrate im spaeteren Sinn. Eine aeussere rechtliche Schra
-8. treu und botmaessig sein und ihn selbst wie seine Boten (lic
-9. Gemeinde gibt, dass der Beamte unbedingt befiehlt, dass der
-10. herbeigefuehrt worden ist, dass jeder ansaessige Buerger ein
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 26 段，[完整目录与正文 →](https://www.bqgmz.top/b/7416073dee91/)
+> 共 13 部分，[完整目录与正文 →](https://www.bqgmz.top/b/7416073dee91/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

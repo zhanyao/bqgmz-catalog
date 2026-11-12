@@ -1,7 +1,7 @@
 # Cours familier de Littérature - Volume 09
 
-**作者** Lamartine, Alphonse de, 1790-1869 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 215 题 · 394,180 字 ｜ **来源** Project Gutenberg
+**作者** Lamartine, Alphonse de, 1790-1869 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 168 篇 · 394,180 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6f5cbb016894/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（394,180 字）。 |
-| 分章依据 | 按「题」标记切分为 215 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,833 字。 |
+| 分章依据 | 按「篇」标记切分为 168 篇（通用标记切分），拼接正文 9,284 行。 |
+| 篇幅分布 | 平均每篇 2,342 字；最长 XXXIV（11,023 字），最短 XXIV（362 字）。 |
 | 原文溯源 | `cache/epub/37076/pg37076.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. UN ENTRETIEN PAR MOIS
-2. TOME NEUVIÈME.
-3. REVUE MENSUELLE.
-4. IX
-5. XLIXe ENTRETIEN
-6. LES SALONS LITTÉRAIRES.
-7. SOUVENIRS DE MADAME RÉCAMIER.
-8. II
-9. III
-10. IV
+1. IX
+2. II
+3. III
+4. IV
+5. VI
+6. VII
+7. VIII
+8. IX
+9. XI
+10. XII
 
-> 共 215 题，[完整目录与正文 →](https://www.bqgmz.top/b/6f5cbb016894/)
+> 共 168 篇，[完整目录与正文 →](https://www.bqgmz.top/b/6f5cbb016894/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

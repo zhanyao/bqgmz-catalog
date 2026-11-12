@@ -1,7 +1,7 @@
 # Majoor Frans
 
-**作者** Bosboom-Toussaint, A. L. G. (Anna Louisa Geertruida), 1812-1886 ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 17 题 · 653,569 字 ｜ **来源** Project Gutenberg
+**作者** Bosboom-Toussaint, A. L. G. (Anna Louisa Geertruida), 1812-1886 ｜ **国家/地区** 荷兰 ｜ **体例** 部分  
+**规模** 16 部分 · 653,569 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6dacacb2ff0a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（653,569 字）。 |
-| 分章依据 | 按「题」标记切分为 17 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 38,445 字。 |
+| 分章依据 | 按「部分」标记切分为 16 部分（fallback-chunk），拼接正文 15,012 行。 |
+| 篇幅分布 | 平均每部分 40,848 字；最长 第 2 部分（42,209 字），最短 第 16 部分（23,521 字）。 |
 | 原文溯源 | `cache/epub/20794/pg20794.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 部分）
 
-1. Nederlandsche Bibliotheek
-2. De Maatschappij voor Goede en Goedkoope Lectuur Amsterdam
-3. A. L. G. Bosboom-Toussaint
-4. Majoor Frans
-5. N. N.
-6. "Even bekend als de excentrieke _allures
-7. De generaal schudde het hoofd. "Nog alti
-8. "Mij dunkt gij moest het doen omdat gij
-9. L. v. Z.
-10. Ik intusschen had het mijn plicht geacht
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 17 题，[完整目录与正文 →](https://www.bqgmz.top/b/6dacacb2ff0a/)
+> 共 16 部分，[完整目录与正文 →](https://www.bqgmz.top/b/6dacacb2ff0a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

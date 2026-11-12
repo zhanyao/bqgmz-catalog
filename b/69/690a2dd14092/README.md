@@ -1,7 +1,7 @@
 # Travels in the Steppes of the Caspian Sea, the Crimea, the Caucasus, &c.
 
 **作者** Hommaire de Hell, Xavier, 1812-1848; Hommaire de Hell, Adèle, 1815?-1883? ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 53 章 · 1,099,600 字 ｜ **来源** Project Gutenberg
+**规模** 43 章 · 1,099,600 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/690a2dd14092/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,099,600 字）。 |
-| 分章依据 | 按「章」标记切分为 53 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,747 字。 |
+| 分章依据 | 按「章」标记切分为 43 章（auto-chapter），拼接正文 22,068 行。 |
+| 篇幅分布 | 平均每章 25,110 字；最长 CHAPTER XIV.（62,689 字），最短 CHAPTER V.（4,334 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XLIII.」。 |
 | 原文溯源 | `cache/epub/36505/pg36505.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 53 章，[完整目录与正文 →](https://www.bqgmz.top/b/690a2dd14092/)
+> 共 43 章，[完整目录与正文 →](https://www.bqgmz.top/b/690a2dd14092/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

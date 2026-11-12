@@ -1,7 +1,7 @@
 # The Sandman's Hour: Stories for Bedtime
 
-**作者** Walker, Abbie Phillips, 1867-; Chase, Rhoda, 1881-1959 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 107,347 字 ｜ **来源** Project Gutenberg
+**作者** Walker, Abbie Phillips, 1867-; Chase, Rhoda, 1881-1959 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 24 章 · 107,347 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6df34b61e187/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（107,347 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,469 字；最长 Red Rooster felt it was time he showed the new drake that ha（40,040 字），最短 "Dear me," thought Boy Doll, "what a responsibility to be fo（7,276 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-toc-title-list），拼接正文 3,199 行。 |
+| 篇幅分布 | 平均每章 4,442 字；最长 The Worsted Doll（9,639 字），最短 Little China Doll（2,049 字）。 |
 | 原文溯源 | `cache/epub/43558/pg43558.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. Red Rooster felt it was time he showed the new drake that ha
-2. "There is the master," he said. "He is coming down the road
-3. There were pictures on the wall and Kid came to one of a swe
-4. Old Fox waited until it was very late, and then crept over t
-5. "Dear me," thought Boy Doll, "what a responsibility to be fo
+1. Where the Sparks Go
+2. The Good Sea Monster
+3. Mother Turkey and Her Chicks
+4. The Fairies and the Dandelion
+5. The Rooster That Crowed Too Soon
+6. Tearful
+7. Hilda's Mermaid
+8. The Mirror's Dream
+9. The Contest
+10. The Pink and Blue Eggs
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/6df34b61e187/)
+> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/6df34b61e187/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

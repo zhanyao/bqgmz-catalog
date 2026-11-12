@@ -1,7 +1,7 @@
 # A Library Primer
 
 **作者** Dana, John Cotton, 1856-1929 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 42 章 · 201,518 字 ｜ **来源** Project Gutenberg
+**规模** 55 章 · 201,518 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7be98ad58e0d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（201,518 字）。 |
-| 分章依据 | 按「章」标记切分为 42 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 4,798 字；最长 CHAPTER XLII（58,838 字），最短 CHAPTER XXXIX（1,059 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XLII」。 |
+| 分章依据 | 按「章」标记切分为 55 章（auto-chapter），拼接正文 6,558 行。 |
+| 篇幅分布 | 平均每章 3,298 字；最长 CHAPTER LV（8,852 字），最短 CHAPTER XLIII（609 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER LV」。 |
 | 原文溯源 | `cache/epub/15327/pg15327.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 42 章，[完整目录与正文 →](https://www.bqgmz.top/b/7be98ad58e0d/)
+> 共 55 章，[完整目录与正文 →](https://www.bqgmz.top/b/7be98ad58e0d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

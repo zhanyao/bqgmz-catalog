@@ -1,7 +1,7 @@
 # Apparitions and thought-transference: an examination of the evidence for telepathy
 
 **作者** Podmore, Frank, 1856-1910 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 23 章 · 705,243 字 ｜ **来源** Project Gutenberg
+**规模** 16 章 · 705,243 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6c574616d480/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（705,243 字）。 |
-| 分章依据 | 按「章」标记切分为 23 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 30,662 字。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 17,792 行。 |
+| 篇幅分布 | 平均每章 40,622 字；最长 CHAPTER V.（63,037 字），最短 CHAPTER I.（27,572 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVI.」。 |
 | 原文溯源 | `cache/epub/56489/pg56489.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/6c574616d480/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/6c574616d480/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

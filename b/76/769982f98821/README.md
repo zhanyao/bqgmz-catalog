@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（366,304 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,350 字；最长 CHAPTER XVI. THE LOADSTONE IN THE BREAST.（31,917 字），最短 CHAPTER I. THE CITY IN THE WILDERNESS.（10,860 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 9,027 行。 |
+| 篇幅分布 | 平均每章 20,329 字；最长 CHAPTER XVI. THE LOADSTONE IN THE BREAST.（31,917 字），最短 CHAPTER I. THE CITY IN THE WILDERNESS.（10,811 字）。 |
 | 起止 | 始于「CHAPTER I. THE CITY IN THE WILDERNESS.」，止于「CHAPTER XVIII. UNDER ONE FLAG.」。 |
 | 原文溯源 | `cache/epub/287/pg287.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/769982f98821/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

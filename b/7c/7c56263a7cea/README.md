@@ -1,7 +1,7 @@
 # Lord Lister No. 0115: Een Sinterklaas-verrassing
 
-**作者** Anonymous; Blankensee, Theo von, 1881-1928; Matull, Kurt, 1872-1920 ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 21 题 · 102,047 字 ｜ **来源** Project Gutenberg
+**作者** Anonymous; Blankensee, Theo von, 1881-1928; Matull, Kurt, 1872-1920 ｜ **国家/地区** 荷兰 ｜ **体例** 篇  
+**规模** 6 篇 · 102,047 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7c56263a7cea/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（102,047 字）。 |
-| 分章依据 | 按「题」标记切分为 21 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,859 字。 |
+| 分章依据 | 按「篇」标记切分为 6 篇（auto-magazine），拼接正文 3,271 行。 |
+| 篇幅分布 | 平均每篇 17,007 字。 |
 | 原文溯源 | `cache/epub/70063/pg70063.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 篇）
 
-1. NO. 115 EEN SINT NICOLAAS-VERRASSING
-2. EEN SINTERKLAAS-VERRASSING.
-3. EERSTE HOOFDSTUK.
-4. VIJF DECEMBER.
-5. TWEEDE HOOFDSTUK.
-6. RAFFLES MAAKT KENNIS.
-7. Hij zette zijn paard tot spoed aan— — — — — —
-8. DERDE HOOFDSTUK.
-9. DE VERPANDE JUWEELEN.
-10. VIERDE HOOFDSTUK.
+1. RAFFLES MAAKT KENNIS
+2. DE SCHUILPLAATS VAN DEN KROONPRINS
+3. SAMENZWEERDERS
+4. RAFFLES RUIKT LONT
+5. RAFFLES IN DONKER ROTTERDAM
+6. IN VEILIGE HAVEN
 
-> 共 21 题，[完整目录与正文 →](https://www.bqgmz.top/b/7c56263a7cea/)
+> 共 6 篇，[完整目录与正文 →](https://www.bqgmz.top/b/7c56263a7cea/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（358,138 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,191 字；最长 CHAPTER XXV RALPH COURT-MARTIALED FOR HAZING（14,462 字），最短 CHAPTER XIV RALPH IS KIDNAPPED（7,514 字）。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-chapter），拼接正文 9,440 行。 |
+| 篇幅分布 | 平均每章 11,092 字；最长 CHAPTER XXV RALPH COURT-MARTIALED FOR HAZING（14,462 字），最短 CHAPTER XIV RALPH IS KIDNAPPED（7,514 字）。 |
 | 起止 | 始于「CHAPTER I A COMPETITIVE EXAMINATION FOR THE NAVAL ACADEMY」，止于「CHAPTER XXXII RALPH FINDS HIS UNCLE AT LAST」。 |
 | 原文溯源 | `cache/epub/61610/pg61610.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/7e39da338748/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

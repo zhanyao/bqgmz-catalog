@@ -1,7 +1,7 @@
 # Mümmelmann: Ein Tierbuch
 
-**作者** Löns, Hermann, 1866-1914 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 10 段 · 219,984 字 ｜ **来源** Project Gutenberg
+**作者** Löns, Hermann, 1866-1914 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 20 章 · 219,984 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/678e27bda240/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（219,984 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,998 字；最长 Das Gezeter der Amsel weckte ihn. Die saß auf dem Dornbusch （39,788 字），最短 Eine ganze Weile sitzt er so, bis die Flöhe unter der warmen（19,226 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-toc-title-list），拼接正文 4,822 行。 |
+| 篇幅分布 | 平均每章 10,884 字；最长 Das Eichhörnchen（15,996 字），最短 Die Zeit der schweren Not（7,347 字）。 |
 | 原文溯源 | `cache/epub/53457/pg53457.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Das Gezeter der Amsel weckte ihn. Die saß auf dem Dornbusch
-2. Im Nebel verschwindet der rauhe Hang; die Lichter im Tale er
-3. In der alten Buche raschelt und knistert es. Etwas Großes, G
-4. Wenn Bob jagdlich gearbeitet wäre, hätte er sich mit Ruhm be
-5. Am alleralbernsten aber stellte er sich an, als er den erste
-6. Ach du lieber Himmel! dachte ich, denn wie gemein das Affeng
-7. Der Rehbock, der in Wipfelhöhe der Fichte am Hange hinzieht,
-8. So ging es weiter und keiner achtete auf Mümmelmann. Der mac
-9. Eine ganze Weile sitzt er so, bis die Flöhe unter der warmen
-10. Die drei Kaninchen unter der Erde lachten. »Was ist denn da
+1. Mümmelmann
+2. Murkerichs Minnefahrt
+3. Krähengespräch
+4. Sein letztes Lied
+5. Goldhals
+6. Der letzte seines Stammes
+7. Achtzacks Ende
+8. Böbchen
+9. Der Zaunigel
+10. Jakob
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/678e27bda240/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/678e27bda240/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

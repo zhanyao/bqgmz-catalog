@@ -1,7 +1,7 @@
 # Ten years of missionary work among the Indians at Skokomish, Washington Territory, 1874-1884
 
-**作者** Eells, Myron, 1843-1907 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 129 题 · 233,372 字 ｜ **来源** Project Gutenberg
+**作者** Eells, Myron, 1843-1907 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 44 章 · 233,372 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/677d64530e6f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（233,372 字）。 |
-| 分章依据 | 按「题」标记切分为 129 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,809 字。 |
+| 分章依据 | 按「章」标记切分为 44 章（auto-roman-bare），拼接正文 5,330 行。 |
+| 篇幅分布 | 平均每章 5,162 字；最长 VI.（23,761 字），最短 XI.（1,146 字）。 |
+| 起止 | 始于「I.」，止于「XLIV.」。 |
 | 原文溯源 | `cache/epub/56100/pg56100.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. TEN YEARS AT SKOKOMISH.
-2. PREFACE.
-3. M. E.
-4. DEDICATION.
-5. NOTE.
-6. CONTENTS.
-7. INTRODUCTION 11
-8. INTRODUCTION.
-9. TEN YEARS AT SKOKOMISH.
-10. I.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 129 题，[完整目录与正文 →](https://www.bqgmz.top/b/677d64530e6f/)
+> 共 44 章，[完整目录与正文 →](https://www.bqgmz.top/b/677d64530e6f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Le Tour du Monde; La Russie, race colonisatrice Journal des voyages et des voyageurs; 2e Sem. 1905
 
-**作者** Various; Charton, Édouard, 1807-1890 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 13 段 · 266,851 字 ｜ **来源** Project Gutenberg
+**作者** Various; Charton, Édouard, 1807-1890 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 16 篇 · 266,851 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6733d4bbd5d3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（266,851 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,527 字；最长 Peu à peu, la nuit tombait. Les tourelles, les clochetons au（39,476 字），最短 La statue de Dupleix à Pondichéry. (D'après une photographie（6,554 字）。 |
+| 分章依据 | 按「篇」标记切分为 16 篇（通用标记切分），拼接正文 6,764 行。 |
+| 篇幅分布 | 平均每篇 16,533 字。 |
+| 起止 | 始于「IV. La fièvre jaune à Grand-Bassam. -- Deuils nombreux. --」，止于「V. -- Tomsk. -- La mêlée des races. -- Anciens et nouveaux（3）」。 |
 | 原文溯源 | `cache/epub/29922/pg29922.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Peu à peu, la nuit tombait. Les tourelles, les clochetons au
-2. À ce moment, le peuple russe se ressaisit: contre l'ennemi,
-3. Il était tard déjà quand nos voitures nous ramenèrent à l'hô
-4. C'est un mot inexact que l'Orient et l'Occident se donnent r
-5. À gauche, c'était la plaine unie, à l'infini. Dans le fleuve
-6. Pendant le jour, le fumoir de l'arrière était toujours très
-7. Enfin, après des siècles, l'oukase parvint, l'oukase tant at
-8. À une extrémité de la ville, quand on avait traversé les der
-9. _Dimanche 21/9 août._--Ce soir, nous avons retrouvé notre tr
-10. Mais l'industrie qui les produisait n'élevait pas là son bou
+1. IV. La fièvre jaune à Grand-Bassam. -- Deuils nombreux. --
+2. I. -- Moscou. -- Une déception. -- Le Kreml, acropole
+3. VI. -- Heures de retour. -- Dans l'Oural. -- La
+4. III. -- En Baloutchistan. -- Le Makran: la côte du golfe
+5. V. -- Le Seistan: son histoire. -- Le delta du Helmand. --
+6. II. -- Le monastère d'Horezu. -- Excursion à Bistritza. --
+7. II. -- Rencontre sur la route. -- Le beau cavalier. -- Un
+8. I. -- De Tachkent à Prjevalsk. -- La ville de Tachkent. --
+9. I. -- Géographie et histoire de l'Ikongo. -- Les Tanala. --
+10. I. -- L'aspect de la Castille. -- Les troupeaux en
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/6733d4bbd5d3/)
+> 共 16 篇，[完整目录与正文 →](https://www.bqgmz.top/b/6733d4bbd5d3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

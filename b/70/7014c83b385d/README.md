@@ -1,7 +1,7 @@
 # Voyage of H.M.S. 'Pandora'
 
-**作者** Edwards, Edward, 1728-1815; Hamilton, George, surgeon; Thomson, Basil, 1861-1939 [Commentator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 13 段 · 268,139 字 ｜ **来源** Project Gutenberg
+**作者** Edwards, Edward, 1728-1815; Hamilton, George, surgeon; Thomson, Basil, 1861-1939 [Commentator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 268,139 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7014c83b385d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（268,139 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,626 字；最长 The following account of their cruise is drawn from the rema（39,817 字），最短 Dances at Tahiti, 108（8,120 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-caps-sections），拼接正文 6,074 行。 |
+| 篇幅分布 | 平均每章 14,896 字；最长 SIR,（50,462 字），最短 GLASGOW: PRINTED AT THE UNIVERSITY PRESS BY ROBERT MACLEHOSE AND CO. LTD（927 字）。 |
 | 原文溯源 | `cache/epub/22834/pg22834.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. The following account of their cruise is drawn from the rema
-2. Be pleased to acquaint My Lords Commissioners of the Admiral
-3. On the 22nd in the morning sent the schooner tender and cutt
-4. They have frequent communication with Annamooka and the othe
-5. On the afternoon of the 30th sent a boat to the wreck to see
-6. [40-2] The northernmost island of the Cook Group, discovered
-7. Every thing necessary being completed, and an additional com
-8. There was at the same time a party embarked by water, under
-9. We had buoyed many of them up with the hopes of carrying the
-10. The people of Anamooka are the most daring set of robbers in
+1. SIR,
+2. SIR,
+3. SIR,
+4. 30" W.[67-1]
+5. 193° 14' 15" W.[68-1]
+6. SIR,
+7. SIR,
+8. EDW. EDWARDS.
+9. SIR,
+10. FOOTNOTES:
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/7014c83b385d/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/7014c83b385d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

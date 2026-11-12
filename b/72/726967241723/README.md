@@ -1,7 +1,7 @@
 # A Collection of Old English Plays, Volume 1
 
-**作者** Bullen, A. H. (Arthur Henry), 1857-1920 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 107 题 · 356,534 字 ｜ **来源** Project Gutenberg
+**作者** Bullen, A. H. (Arthur Henry), 1857-1920 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 3 章 · 356,534 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/726967241723/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（356,534 字）。 |
-| 分章依据 | 按「题」标记切分为 107 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,332 字。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-toc-title-list），拼接正文 13,501 行。 |
+| 篇幅分布 | 平均每章 104,962 字。 |
 | 原文溯源 | `cache/epub/10388/pg10388.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 章）
 
-1. A COLLECTION OF OLD ENGLISH PLAYS, VOL. I
-2. In Four Volumes
-3. EDITED BY
-4. A.H. BULLEN.
-5. CONTENTS:
-6. INTRODUCTION TO THE _TRAGEDY OF NERO_.
-7. THE TRAGEDY OF NERO,
-8. 1 _Rom_. Whither so fast, man? Whither so fast?
-9. 2 _Rom_. None of our ancestors were ere like him.
-10. 1 _Rom_. O made, and sometimes use[d] for other Ends!
+1. The Tragedy of Nero
+2. The Mayde's Metamorphosis
+3. The Martyr'd Souldier
 
-> 共 107 题，[完整目录与正文 →](https://www.bqgmz.top/b/726967241723/)
+> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/726967241723/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

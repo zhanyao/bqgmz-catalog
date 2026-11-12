@@ -1,7 +1,7 @@
 # Beacon Lights of History, Volume 12: American Leaders
 
-**作者** Lord, John, 1810-1894 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 37 题 · 369,179 字 ｜ **来源** Project Gutenberg
+**作者** Lord, John, 1810-1894 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 12 章 · 369,179 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6c4b64acc287/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（369,179 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,977 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-caps-sections），拼接正文 7,387 行。 |
+| 篇幅分布 | 平均每章 30,764 字。 |
 | 原文溯源 | `cache/epub/10647/pg10647.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LORD'S LECTURES
-2. BEACON LIGHTS OF HISTORY, VOLUME XII
-3. AMERICAN LEADERS.
-4. BY JOHN LORD, LL.D.,
-5. PUBLISHERS' PREFACE.
-6. CONTENTS.
-7. PERSONAL POLITICS.
-8. COMPROMISE LEGISLATION.
-9. THE AMERICAN UNION.
-10. THE SLAVERY QUESTION.
+1. AUTHOR OF "THE OLD ROMAN WORLD," "MODERN EUROPE,"
+2. PUBLISHERS' PREFACE.
+3. PERSONAL POLITICS.
+4. AUTHORITIES.
+5. COMPROMISE LEGISLATION.
+6. AUTHORITIES.
+7. THE AMERICAN UNION.（1）
+8. THE AMERICAN UNION.（2）
+9. THE AMERICAN UNION.（3）
+10. THE AMERICAN UNION.（4）
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/6c4b64acc287/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/6c4b64acc287/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

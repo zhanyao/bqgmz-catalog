@@ -11,16 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（341,680 字）。 |
-| 分章依据 | 按「章」标记切分为 30 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,389 字；最长 CHAPTER I.（149,345 字），最短 CHAPTER II.（989 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXX.」。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-chapter），拼接正文 11,435 行。 |
+| 篇幅分布 | 平均每章 11,054 字。 |
 | 原文溯源 | `cache/epub/6560/pg6560.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
+1. PART I. Of Terms, §§ 57-171.
+2. PART II. Of Propositions, §§ 172-185.
+3. PART III. Of Inferences, §§ 426-884.
 4. CHAPTER IV.
 5. CHAPTER V.
 6. CHAPTER VI.
@@ -32,4 +31,4 @@
 > 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/6955afaf730c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

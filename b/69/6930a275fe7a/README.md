@@ -1,7 +1,7 @@
 # The German Secret Service in America 1914-1918
 
 **作者** Jones, John Price, 1877-1964; Hollister, Paul M. (Paul Merrick), 1890-1970 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 361,507 字 ｜ **来源** Project Gutenberg
+**规模** 19 章 · 361,507 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6930a275fe7a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（361,507 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,083 字；最长 CHAPTER XVI（38,732 字），最短 CHAPTER VI（8,829 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XVIII」。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 8,306 行。 |
+| 篇幅分布 | 平均每章 18,564 字；最长 CHAPTER XVI（38,732 字），最短 APPENDIX（6,439 字）。 |
 | 原文溯源 | `cache/epub/58652/pg58652.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/6930a275fe7a/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/6930a275fe7a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

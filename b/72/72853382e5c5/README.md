@@ -1,7 +1,7 @@
 # Notes on witchcraft
 
-**作者** Kittredge, George Lyman, 1860-1941 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 141,940 字 ｜ **来源** Project Gutenberg
+**作者** Kittredge, George Lyman, 1860-1941 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 4 部分 · 141,940 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/72853382e5c5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（141,940 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,277 字；最长 I am well aware that there are a few distinguished names tha（39,551 字），最短 [205] “And by the way, to touch but a word or two of（1,972 字）。 |
+| 分章依据 | 按「部分」标记切分为 4 部分（fallback-chunk），拼接正文 3,190 行。 |
+| 篇幅分布 | 平均每部分 35,485 字。 |
 | 原文溯源 | `cache/epub/70895/pg70895.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 4 部分）
 
-1. I am well aware that there are a few distinguished names tha
-2. “_A Witch_,” according to Glanvill’s definition, “_is one, w
-3. One common misapprehension to which the historians of witchc
-4. The last execution for witchcraft in Massachusetts took plac
-5. [28] A Modest Enquiry into the Nature of Witchcraft,
-6. [124] “Quia vulgo creditum, multorum annorum continuatam
-7. [205] “And by the way, to touch but a word or two of
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/72853382e5c5/)
+> 共 4 部分，[完整目录与正文 →](https://www.bqgmz.top/b/72853382e5c5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

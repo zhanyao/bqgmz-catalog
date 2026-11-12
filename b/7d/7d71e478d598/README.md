@@ -1,7 +1,7 @@
 # Jim l'indien
 
-**作者** Auriac, J. Berlioz d' (Jules Berlioz), 1820-1913; Aimard, Gustave, 1818-1883 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 6 题 · 185,480 字 ｜ **来源** Project Gutenberg
+**作者** Auriac, J. Berlioz d' (Jules Berlioz), 1820-1913; Aimard, Gustave, 1818-1883 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 11 章 · 185,480 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7d71e478d598/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（185,480 字）。 |
-| 分章依据 | 按「题」标记切分为 6 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 30,913 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 5,321 行。 |
+| 篇幅分布 | 平均每章 15,507 字；最长 CHAPITRE XII（23,778 字），最短 CHAPITRE XI（10,343 字）。 |
 | 原文溯源 | `cache/epub/13598/pg13598.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 题）
+## 章节目录（前 10 章）
 
-1. Gustave Aimard -- Jules Berlioz d'Auriac
-2. Table des matières
-3. Sans se laisser calmer par les affirmati
-4. ÉPILOGUE
-5. Puis, en se relevant, le plus jeune disait à l’autre
-6. FIN.
+1. CHAPITRE II
+2. CHAPITRE III
+3. CHAPITRE IV
+4. CHAPITRE V
+5. CHAPITRE VI
+6. CHAPITRE VII
+7. CHAPITRE VIII
+8. CHAPITRE IX
+9. CHAPITRE X
+10. CHAPITRE XI
 
-> 共 6 题，[完整目录与正文 →](https://www.bqgmz.top/b/7d71e478d598/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/7d71e478d598/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

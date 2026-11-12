@@ -1,7 +1,7 @@
 # Crécy
 
-**作者** Belloc, Hilaire, 1870-1953 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 98,864 字 ｜ **来源** Project Gutenberg
+**作者** Belloc, Hilaire, 1870-1953 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 5 章 · 98,864 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/74c48a1589d8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（98,864 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 24,716 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-roman-bare），拼接正文 2,146 行。 |
+| 篇幅分布 | 平均每章 17,302 字；最长 II（30,741 字），最短 I（7,555 字）。 |
 | 原文溯源 | `cache/epub/32196/pg32196.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 5 章）
 
-1. The distance by road as the army marched from St Vaast, wher
-2. Now, if the reader will glance at the map at the beginning o
-3. There is even more than this. If we follow the present emban
-4. Moreover, this opposing ridge is neither as cleanly marked a
+1. I
+2. II
+3. III
+4. IV
+5. V
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/74c48a1589d8/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/74c48a1589d8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

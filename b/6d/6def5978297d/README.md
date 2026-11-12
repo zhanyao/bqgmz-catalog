@@ -1,7 +1,7 @@
 # Folkhumor
 
-**作者** Grip, Elias, 1873-1942 ｜ **国家/地区** 瑞典 ｜ **体例** 题  
-**规模** 46 题 · 227,106 字 ｜ **来源** Project Gutenberg
+**作者** Grip, Elias, 1873-1942 ｜ **国家/地区** 瑞典 ｜ **体例** 章  
+**规模** 30 章 · 227,106 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6def5978297d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（227,106 字）。 |
-| 分章依据 | 按「题」标记切分为 46 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,937 字。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-toc-title-list），拼接正文 6,804 行。 |
+| 篇幅分布 | 平均每章 7,542 字；最长 De två bröderna.（19,519 字），最短 Förord.（579 字）。 |
 | 原文溯源 | `cache/epub/76487/pg76487.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. FOLKHUMOR
-2. Skämtsagor och historier från olika länder för ung och gammal
-3. Berättade av
-4. ELIAS GRIP
-5. INNEHÅLL
-6. FÖRORD.
-7. E. G.
-8. TATTARPOJKENS UNDERBARA ÄVENTYR.
-9. KÖPMAN STUUT.
-10. HAN, SOM SKULLE PRATA SÄCKEN FULL.
+1. Förord.
+2. Tattarpojkens underbara äventyr.
+3. Köpman Stuut.
+4. Han, som skulle prata säcken full.
+5. Tumpels äventyr.
+6. Prosit!
+7. Bonden, som blev underdoktor.
+8. Den vandrande soldaten.
+9. En lyckad kur.
+10. En kruka vett.
 
-> 共 46 题，[完整目录与正文 →](https://www.bqgmz.top/b/6def5978297d/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/6def5978297d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

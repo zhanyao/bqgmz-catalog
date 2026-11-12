@@ -1,7 +1,7 @@
 # Boston Neighbours In Town and Out
 
-**作者** Poor, Agnes Blake, 1842-1922 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 16 段 · 333,730 字 ｜ **来源** Project Gutenberg
+**作者** Poor, Agnes Blake, 1842-1922 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 34 章 · 333,730 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7739ee5df25e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（333,730 字）。 |
-| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,858 字；最长 It sounded fine to have something specially composed for her（39,093 字），最短 "No--oh, no. I'd never seen him. Ma was anxious I should mar（13,305 字）。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-roman-title），拼接正文 7,728 行。 |
+| 篇幅分布 | 平均每章 184 字。 |
+| 起止 | 始于「I. =Love and Shawl-Straps.= By ANNETTE LUCILE NOBLE.」，止于「IV. =A Princetonian.= A Story of Undergraduate Life at the College of（部2）」。 |
 | 原文溯源 | `cache/epub/36196/pg36196.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. It sounded fine to have something specially composed for her
-2. "Oh, yes--I had forgotten--but it is only due to Mr. Dana to
-3. "So am I. It has been the great misfortune of my life, I ass
-4. The Colonel made a long call, as all the family, anxious to
-5. Why I did not marry Katie is plainer--to myself at least. I
-6. "Don't worry about me, dearest mother," I said, kissing her
-7. At last Mrs. Underwood brought up her son and introduced him
-8. Cousin Susan had never heard the name, but thought of course
-9. "Why, you must have heard about the Smiths: everybody has. T
-10. Why Lily Carey at one and twenty was not married, or even en
+1. I. =Love and Shawl-Straps.= By ANNETTE LUCILE NOBLE.
+2. II. =Miss Hurd: An Enigma.= By ANNA KATHARINE GREEN.
+3. III. =How Thankful was Bewitched.= By J. K. HOSMER.
+4. IV. =A Woman of Impulse.= By JUSTIN HUNTLEY MCCARTHY.
+5. V. =Countess Bettina.= By CLINTON ROSS.
+6. VI. =Her Majesty.= By ELIZABETH K. TOMPKINS.
+7. VII. =God Forsaken.= By FREDERIC BRETON.
+8. VIII. =An Island Princess.= By THEODORE GIFT.
+9. IX. =Elizabeth's Pretenders.= By HAMILTON AIDE.
+10. X. =At Tuxter's.= By G. B. BURGIN.
 
-> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/7739ee5df25e/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/7739ee5df25e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Pikku lordi
 
-**作者** Burnett, Frances Hodgson, 1849-1924; Krohn, Helmi, 1871-1967 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 21 题 · 265,336 字 ｜ **来源** Project Gutenberg
+**作者** Burnett, Frances Hodgson, 1849-1924; Krohn, Helmi, 1871-1967 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 15 章 · 265,336 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7db706378e94/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（265,336 字）。 |
-| 分章依据 | 按「题」标记切分为 21 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 12,635 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-toc-title-list），拼接正文 6,498 行。 |
+| 篇幅分布 | 平均每章 17,665 字；最长 Cedrikin ystävät（38,494 字），最短 Selvitys（6,815 字）。 |
 | 原文溯源 | `cache/epub/53789/pg53789.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. PIKKU LORDI
-2. Frances Hodgson Burnett
-3. Suom. Helmi Setälä
-4. Alkuperäinen nimi: Little Lord Fauntleroy
-5. SISÄLLYS:
-6. Odottamaton tapaus
-7. Cedrikin ystävät
-8. Lähtö
-9. Englannissa
-10. Linnassa
+1. Odottamaton tapaus
+2. Cedrikin ystävät
+3. Lähtö
+4. Englannissa
+5. Linnassa
+6. Kreivi ja pojanpoika
+7. Kirkossa
+8. Ratsastusharjoitus
+9. Köyhien mökit
+10. Hälyttävä uutinen
 
-> 共 21 题，[完整目录与正文 →](https://www.bqgmz.top/b/7db706378e94/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/7db706378e94/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

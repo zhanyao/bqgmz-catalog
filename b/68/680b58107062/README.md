@@ -1,7 +1,7 @@
 # Souvenirs et correspondance tirés des papiers de Mme Récamier (2/2)
 
-**作者** Récamier, Jeanne Françoise Julie Adélaïde Bernard, 1777-1849; Lenormant, Amélie Cyvoct, -1893 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 214 题 · 588,206 字 ｜ **来源** Project Gutenberg
+**作者** Récamier, Jeanne Françoise Julie Adélaïde Bernard, 1777-1849; Lenormant, Amélie Cyvoct, -1893 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 14 章 · 588,206 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/680b58107062/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（588,206 字）。 |
-| 分章依据 | 按「题」标记切分为 214 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,748 字。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-caps-sections），拼接正文 14,271 行。 |
+| 篇幅分布 | 平均每章 42,014 字；最长 «BERTIN.（1）（55,447 字），最短 NOTES（13,162 字）。 |
 | 原文溯源 | `cache/epub/26352/pg26352.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SOUVENIRS ET CORRESPONDANCE TIRÉS DES PAPIERS DE MADAME RÉCAMIER
-2. DEUXIÈME ÉDITION
-3. TOME SECOND
-4. PARIS
-5. MICHEL LÉVY FRÈRES, LIBRAIRES-ÉDITEURS
-6. LIVRE V
-7. LE MÊME.
-8. LE MÊME.
-9. LE MÊME
-10. LE MÊME.
+1. LIVRE V（1）
+2. LIVRE V（2）
+3. «DEVONSHIRE.»
+4. LIVRE VI
+5. «CAROLINE.»
+6. «LA VICOMTESSE DE CHATEAUBRIAND.»（1）
+7. «LA VICOMTESSE DE CHATEAUBRIAND.»（2）
+8. «LA VICOMTESSE DE CHATEAUBRIAND.»（3）
+9. LIVRE VIII
+10. «BERTIN.（1）
 
-> 共 214 题，[完整目录与正文 →](https://www.bqgmz.top/b/680b58107062/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/680b58107062/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

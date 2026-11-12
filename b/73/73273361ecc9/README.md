@@ -1,7 +1,7 @@
 # Tiilikivimies
 
-**作者** Pekkarinen, Tatu, 1892-1951 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 12 题 · 48,735 字 ｜ **来源** Project Gutenberg
+**作者** Pekkarinen, Tatu, 1892-1951 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 5 章 · 48,735 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/73273361ecc9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（48,735 字）。 |
-| 分章依据 | 按「题」标记切分为 12 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,061 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-toc-title-list），拼接正文 1,272 行。 |
+| 篇幅分布 | 平均每章 9,696 字；最长 Ihmeellisiä taikoja（12,433 字），最短 Herrasväki Kaikkosen kesävierailu（5,628 字）。 |
 | 原文溯源 | `cache/epub/79082/pg79082.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. TIILIKIVIMIES
-2. TATU PEKKARINEN
-3. SISÄLLYS:
-4. HERRASVÄKI KAIKKOSEN KESÄVIERAILU
-5. IHMEELLISIÄ TAIKOJA
-6. Toiset panivat hattunsa silmilleen ja huusivat: »pii!»
-7. TUPAKKALAKOSSA
-8. TIILIKIVIMIES
-9. HIEKOITETTU KATUKÄYTÄVÄ
-10. GRAMMOFONI
+1. Herrasväki Kaikkosen kesävierailu
+2. Ihmeellisiä taikoja
+3. Tiilikivimies
+4. Grammofoni
+5. Huijarit junassa
 
-> 共 12 题，[完整目录与正文 →](https://www.bqgmz.top/b/73273361ecc9/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/73273361ecc9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

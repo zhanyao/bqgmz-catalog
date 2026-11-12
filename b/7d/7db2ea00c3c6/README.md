@@ -1,7 +1,7 @@
 # The Rise of the Dutch Republic — Volume 21: 1573-74
 
-**作者** Motley, John Lothrop, 1814-1877 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 111,763 字 ｜ **来源** Project Gutenberg
+**作者** Motley, John Lothrop, 1814-1877 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 87 篇 · 111,763 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7db2ea00c3c6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（111,763 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,352 字；最长 At the same time, the Prince dreaded the effect--of the prom（38,863 字），最短 The first fortress was thus seized, dismantled, set on fire,（12,566 字）。 |
+| 分章依据 | 按「篇」标记切分为 87 篇（通用标记切分），拼接正文 2,095 行。 |
+| 篇幅分布 | 平均每篇 1,284 字。 |
 | 原文溯源 | `cache/epub/4822/pg4822.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 篇）
 
-1. At the same time, the Prince dreaded the effect--of the prom
-2. The skirmishing began at early dawn, with an attack upon the
-3. Meantime, affairs in the city were more difficult to adjust.
-4. The fever of the Prince had, meanwhile, reached its height.
-5. The first fortress was thus seized, dismantled, set on fire,
+1. This eBook was produced by David Widger
+2. [NOTE: There is a short list of bookmarks, or pointers, at the end of the
+3. Previous career of Requesens--Philip's passion for detail--Apparent
+4. The horrors of Alva's administration had caused men to look back with
+5. Apart from this hope, however, there was little encouragement to be
+6. Any person, however, who represented the royal authority in the provinces
+7. It had been industriously circulated that a change of policy was
+8. Yet, no doubt, in the Netherlands there was a most earnest longing for
+9. Such, then, were the sentiments of many eminent personages, even among
+10. Forty millions of ducats had been spent. Six and a half millions of
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/7db2ea00c3c6/)
+> 共 87 篇，[完整目录与正文 →](https://www.bqgmz.top/b/7db2ea00c3c6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Bible, Douay-Rheims, Book 27: Isaias The Challoner Revision
 
-**国家/地区** 英美 ｜ **体例** 题  
-**规模** 70 题 · 179,075 字 ｜ **来源** Project Gutenberg
+**国家/地区** 英美 ｜ **体例** 部分  
+**规模** 5 部分 · 179,075 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/71e3c9f4cf00/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（179,075 字）。 |
-| 分章依据 | 按「题」标记切分为 70 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,558 字。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 5,388 行。 |
+| 篇幅分布 | 平均每部分 35,815 字；最长 第 2 部分（41,273 字），最短 第 5 部分（14,158 字）。 |
 | 原文溯源 | `cache/epub/8327/pg8327.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 部分）
 
-1. THE HOLY BIBLE
-2. Translated from the Latin Vulgate
-3. With Annotations
-4. THE PROPHECY OF ISAIAS
-5. Isaias Chapter 1
-6. Isaias Chapter 2
-7. Isaias Chapter 3
-8. Isaias Chapter 4
-9. Isaias Chapter 5
-10. Isaias Chapter 6
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 70 题，[完整目录与正文 →](https://www.bqgmz.top/b/71e3c9f4cf00/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/71e3c9f4cf00/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

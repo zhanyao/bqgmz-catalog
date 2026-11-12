@@ -1,7 +1,7 @@
 # The source of the Blue Nile
 
-**作者** Hayes, Arthur J.; Poulton, Edward Bagnall, Sir, 1856-1943 [Contributor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 14 章 · 461,935 字 ｜ **来源** Project Gutenberg
+**作者** Hayes, Arthur J.; Poulton, Edward Bagnall, Sir, 1856-1943 [Contributor] ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 12 部分 · 461,935 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6c37b9118be6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（461,935 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 32,995 字；最长 [Footnote 114: This blight is known as “（80,078 字），最短 CHAPTER II（13,176 字）。 |
+| 分章依据 | 按「部分」标记切分为 12 部分（fallback-chunk），拼接正文 10,276 行。 |
+| 篇幅分布 | 平均每部分 38,494 字；最长 第 8 部分（42,301 字），最短 第 12 部分（3,460 字）。 |
 | 原文溯源 | `cache/epub/71480/pg71480.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 部分）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. CHAPTER X
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/6c37b9118be6/)
+> 共 12 部分，[完整目录与正文 →](https://www.bqgmz.top/b/6c37b9118be6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

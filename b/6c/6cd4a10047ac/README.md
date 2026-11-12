@@ -1,7 +1,7 @@
 # The Irish Ecclesiastical Record, Volume 1, October, 1864
 
-**国家/地区** 英美 ｜ **体例** 题  
-**规模** 35 题 · 106,733 字 ｜ **来源** Project Gutenberg
+**国家/地区** 英美 ｜ **体例** 章  
+**规模** 2 章 · 106,733 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6cd4a10047ac/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（106,733 字）。 |
-| 分章依据 | 按「题」标记切分为 35 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,049 字。 |
+| 分章依据 | 按「章」标记切分为 2 章（auto-roman-title），拼接正文 2,326 行。 |
+| 篇幅分布 | 平均每章 33,823 字。 |
+| 起止 | 始于「I. _An Phialae vitreae, aut figulinae sanguine tinctae quae ad loculos」，止于「II. _An ideo sit standum vel recedendum a Decreto Sacrae Congregationis」。 |
 | 原文溯源 | `cache/epub/46603/pg46603.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 2 章）
 
-1. THE IRISH ECCLESIASTICAL RECORD.
-2. OCTOBER, 1864.
-3. PRAYER OF ST. COLGA.
-4. 1. O Holy Jesus
-5. 10. For the sake of the holy tree upon which thy side was torn.
-6. 13. For the sake of all the scriptures in which thy news is recorded.
-7. 14. For the sake of all the truth in which thy resurrection is recorded.
-8. THE SEE OF ARDAGH IN THE SIXTEENTH CENTURY.
-9. P. F. M.
-10. DECREE.
+1. I. _An Phialae vitreae, aut figulinae sanguine tinctae quae ad loculos
+2. II. _An ideo sit standum vel recedendum a Decreto Sacrae Congregationis
 
-> 共 35 题，[完整目录与正文 →](https://www.bqgmz.top/b/6cd4a10047ac/)
+> 共 2 章，[完整目录与正文 →](https://www.bqgmz.top/b/6cd4a10047ac/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

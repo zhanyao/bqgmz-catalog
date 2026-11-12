@@ -1,7 +1,7 @@
 # Lukemisia lapsille 4
 
-**作者** Topelius, Zacharias, 1818-1898 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 42 题 · 252,727 字 ｜ **来源** Project Gutenberg
+**作者** Topelius, Zacharias, 1818-1898 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 28 章 · 252,727 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7e45a71cd1b1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（252,727 字）。 |
-| 分章依据 | 按「题」标记切分为 42 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,017 字。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-toc-title-list），拼接正文 6,535 行。 |
+| 篇幅分布 | 平均每章 9,004 字；最长 Poika, joka kuuli äänettömyyden puhuvan.（29,313 字），最短 Yövahti.（593 字）。 |
 | 原文溯源 | `cache/epub/51934/pg51934.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LUKEMISIA LAPSILLE 4
-2. Z. Topelius
-3. Suomentaneet Aatto Suppanen, Em. Tamminen ja Olof Berg
-4. SISÄLLYS:
-5. VALKEILLE KIRSIKAN KUKILLE.
-6. Z. T.
-7. DAVID JA GOLJAT,
-8. EGYPTINMAAN PÄÄSKY.
-9. KYLVÄ KUKKIA.
-10. POIKA SAMMATISTA.
+1. Valkeille kirsikan kukille.
+2. David ja Goljat.
+3. Egyptinmaan pääsky.
+4. Kylvä kukkia.
+5. Kaiku.
+6. Soutajapojalleni.
+7. Kuihtunut lehti.
+8. Ahdin lahja.
+9. Makeampi makeaa.
+10. Karttapallo.
 
-> 共 42 题，[完整目录与正文 →](https://www.bqgmz.top/b/7e45a71cd1b1/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/7e45a71cd1b1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

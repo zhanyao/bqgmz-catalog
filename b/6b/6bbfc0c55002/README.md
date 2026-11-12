@@ -1,7 +1,7 @@
 # Northern Nut Growers Association, report of the proceedings at the eighth annual meeting Stamford, Connecticut, September 5 and 6, 1917
 
-**作者** Northern Nut Growers Association [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 9 段 · 199,215 字 ｜ **来源** Project Gutenberg
+**作者** Northern Nut Growers Association [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 27 章 · 199,215 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6bbfc0c55002/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（199,215 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,135 字；最长 In looking backward over the past eight years since this ass（39,068 字），最短 To the family of the walnut we are indebted to Japan for the（19,133 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-caps-sections），拼接正文 4,696 行。 |
+| 篇幅分布 | 平均每章 7,378 字；最长 DR. J. H. KELLOGG, MICHIGAN.（57,278 字），最短 ARTICLE VI（302 字）。 |
 | 原文溯源 | `cache/epub/19050/pg19050.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. In looking backward over the past eight years since this ass
-2. Last year in Washington I talked to you briefly about the Pe
-3. (16) A group of Japanese chestnuts. They blight and die and
-4. A dinner was held at the Hotel Davenport on the evening of t
-5. Another and most interesting phase of my subject is the rela
-6. We may yet find the pecan to be suitable for plateau or moun
-7. Though a general feeder attacking all kinds of fruit, shade
-8. The Northern Nut Growers' Association and one or two other s
-9. To the family of the walnut we are indebted to Japan for the
+1. |DISCLAIMER |
+2. W. C. DEMING, WENDELL P. WILLIAMS, J. RUSSELL SMITH
+3. ARTICLE III
+4. ARTICLE VI
+5. ARTICLE VII
+6. ARTICLE I
+7. STAMFORD, CONNECTICUT.
+8. GENTLEMEN:
+9. CROP VALUES.
+10. HIGHWAY PLANTING.
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/6bbfc0c55002/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/6bbfc0c55002/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

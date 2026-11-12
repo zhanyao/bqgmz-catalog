@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（184,983 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,249 字；最长 CHAPTER XX THE END OF THE CRUISE--CONCLUSION（15,457 字），最短 CHAPTER III A PERIL OF TROPICAL WATERS（6,695 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 4,856 行。 |
+| 篇幅分布 | 平均每章 9,153 字；最长 CHAPTER XX THE END OF THE CRUISE--CONCLUSION（15,192 字），最短 CHAPTER III A PERIL OF TROPICAL WATERS（6,695 字）。 |
 | 起止 | 始于「CHAPTER I HOW IT HAPPENED」，止于「CHAPTER XX THE END OF THE CRUISE--CONCLUSION」。 |
 | 原文溯源 | `cache/epub/69368/pg69368.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/7965f20b032d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

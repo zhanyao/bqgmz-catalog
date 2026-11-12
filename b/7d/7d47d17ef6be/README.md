@@ -1,7 +1,7 @@
 # The Christmas Books of Mr. M.A. Titmarsh
 
-**作者** Thackeray, William Makepeace, 1811-1863 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 131 题 · 370,732 字 ｜ **来源** Project Gutenberg
+**作者** Thackeray, William Makepeace, 1811-1863 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 19 章 · 370,732 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7d47d17ef6be/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（370,732 字）。 |
-| 分章依据 | 按「题」标记切分为 131 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,830 字。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-roman-title），拼接正文 8,743 行。 |
+| 篇幅分布 | 平均每章 7,041 字；最长 XIV. WHAT BECAME OF GIGLIO.（16,021 字），最短 IV. HOW BLACKSTICK WAS NOT ASKED TO THE PRINCESS ANGELICA'S CHRISTENING.（3,111 字）。 |
+| 起止 | 始于「I. SHOWS HOW THE ROYAL FAMILY SAT DOWN TO BREAKFAST」，止于「XIX. AND NOW WE COME TO THE LAST SCENE IN THE PANTOMIME.」。 |
 | 原文溯源 | `cache/epub/2731/pg2731.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Donald Lainson
-2. THE CHRISTMAS BOOKS
-3. MR. M. A. TITMARSH
-4. CONTENTS.
-5. CHRISTMAS STORIES.
-6. Mrs. Perkins's Ball
-7. Our Street
-8. Dr. Birch and his Young Friends
-9. The Kickleburys on the Rhine
-10. The Rose and the Ring; or, The History of Prince Giglio and Prince Bulbo
+1. I. SHOWS HOW THE ROYAL FAMILY SAT DOWN TO BREAKFAST
+2. II. HOW KING VALOROSO GOT THE CROWN, AND PRINCE GIGLIO WENT WITHOUT.
+3. III. TELLS WHO THE FAIRY BLACKSTICK WAS, AND WHO WERE EVER SO MANY GRAND
+4. IV. HOW BLACKSTICK WAS NOT ASKED TO THE PRINCESS ANGELICA'S CHRISTENING.
+5. V. HOW PRINCESS ANGELICA TOOK A LITTLE MAID.
+6. VI. HOW PRINCE GIGLIO BEHAVED HIMSELF.
+7. VII. HOW GIGLIO AND ANGELICA HAD A QUARREL.
+8. VIII. HOW GRUFFANUFF PICKED THE FAIRY RING UP, AND PRINCE BULBO CAME TO
+9. IX. HOW BETSINDA GOT THE WARMING PAN.
+10. X. HOW KING VALOROSO WAS IN A DREADFUL PASSION.
 
-> 共 131 题，[完整目录与正文 →](https://www.bqgmz.top/b/7d47d17ef6be/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/7d47d17ef6be/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

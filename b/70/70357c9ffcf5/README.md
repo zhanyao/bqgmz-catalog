@@ -1,7 +1,7 @@
 # Philological Proofs of the Original Unity and Recent Origin of the Human Race
 
 **作者** Johnes, Arthur James, 1809-1871 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 389,503 字 ｜ **来源** Project Gutenberg
+**规模** 8 章 · 389,503 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/70357c9ffcf5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（389,503 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 38,950 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 10,585 行。 |
+| 篇幅分布 | 平均每章 37,615 字；最长 SECTION VI.（89,063 字），最短 CHAPTER II. ON THE DIFFERENCES WHICH DISTINGUISH INDIVIDUAL LANGUAGES OF（3,395 字）。 |
 | 原文溯源 | `cache/epub/35167/pg35167.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 8 章）
 
-1. Chapter I. On The Evidence Furnished By A Comparison Of Their Languages Of
-2. Chapter II. On The Differences Which Distinguish Individual Languages Of
-3. Chapter III. On The Origin Of Synonymes.
-4. Chapter IV. On The Original Identity Of The English, Welsh, Hindoos, And
-5. Chapter V. Identity Of The Egyptians With The Indians, Jews, And Other
-6. Chapter VI. On The Chinese Language.
-7. Chapter VII. On The Origin Of The Americ
-8. “Nay, I can tell you more,” said Wamba,
-9. Harpazo, “To Snatch,” (_Greek._)
-10. NORTH MIDDLE
+1. CHAPTER I. ON THE EVIDENCE FURNISHED BY A COMPARISON OF THEIR LANGUAGES OF
+2. CHAPTER II. ON THE DIFFERENCES WHICH DISTINGUISH INDIVIDUAL LANGUAGES OF
+3. SECTION III.
+4. SECTION IV.
+5. SECTION V.
+6. SECTION VI.
+7. CHAPTER VII. ON THE ORIGIN OF THE AMERICAN TRIBES.
+8. Appendix; as to “Tin-dee,” see p. 26, as to “Nganga,” see same page.
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/70357c9ffcf5/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/70357c9ffcf5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

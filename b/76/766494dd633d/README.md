@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（422,614 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 70,435 字；最长 CHAPTER V.（102,943 字），最短 (5) This system was sometimes used to ra（38,834 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 9,754 行。 |
+| 篇幅分布 | 平均每章 67,294 字；最长 CHAPTER V.（101,712 字），最短 NOTES TO FIRST ENGLISH EDITION.（40,065 字）。 |
 | 原文溯源 | `cache/epub/14400/pg14400.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
@@ -22,9 +22,9 @@
 3. CHAPTER III.
 4. CHAPTER IV.
 5. CHAPTER V.
-6. (5) This system was sometimes used to ra
+6. NOTES TO FIRST ENGLISH EDITION.
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/766494dd633d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

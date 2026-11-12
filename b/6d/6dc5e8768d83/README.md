@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（526,160 字）。 |
-| 分章依据 | 按「章」标记切分为 64 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,221 字；最长 CHAPTER XXXVII. THE SHAMELESS SISTER.（16,407 字），最短 CHAPTER I. THE GOVERNOR EXPLAINS.（1,505 字）。 |
+| 分章依据 | 按「章」标记切分为 64 章（auto-chapter），拼接正文 13,458 行。 |
+| 篇幅分布 | 平均每章 8,214 字；最长 CHAPTER XXXVII. THE SHAMELESS SISTER.（16,407 字），最短 CHAPTER I. THE GOVERNOR EXPLAINS.（1,090 字）。 |
 | 起止 | 始于「CHAPTER I. THE GOVERNOR EXPLAINS.」，止于「CHAPTER LXIV. THE TRUTH TRIUMPHANT.」。 |
 | 原文溯源 | `cache/epub/1975/pg1975.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 64 章，[完整目录与正文 →](https://www.bqgmz.top/b/6dc5e8768d83/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

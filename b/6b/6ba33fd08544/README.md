@@ -1,7 +1,7 @@
 # The Irish Penny Journal, Vol. 1 No. 04, July 25, 1840
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 19 题 · 54,822 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 54,822 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6ba33fd08544/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（54,822 字）。 |
-| 分章依据 | 按「题」标记切分为 19 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,885 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-caps-sections），拼接正文 1,212 行。 |
+| 篇幅分布 | 平均每章 7,811 字；最长 FOOTNOTES:（16,573 字），最短 LOOK BEFORE YOU LEAP.（3,095 字）。 |
 | 原文溯源 | `cache/epub/43817/pg43817.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 章）
 
-1. THE IRISH PENNY JOURNAL.
-2. NUMBER 4. SATURDAY, JULY 25, 1840. VOLUME 1.
-3. P.
-4. OCCUPATIONS FOR THE YOUNG.
-5. BY MARTIN DOYLE.
-6. FOOTNOTES:
-7. ALEXANDER AND THE TREE.
-8. M.
-9. APOLOGUES AND FABLES,
-10. IN PROSE AND VERSE, FROM THE GERMAN AND OTHER LANGUAGES.
+1. NUMBER 4. SATURDAY, JULY 25, 1840. VOLUME 1.
+2. OCCUPATIONS FOR THE YOUNG.
+3. FOOTNOTES:
+4. THE IRISH COMEDIAN.
+5. BAD AIR AND GOOD AIR.
+6. PERSEVERANCE.
+7. LOOK BEFORE YOU LEAP.
 
-> 共 19 题，[完整目录与正文 →](https://www.bqgmz.top/b/6ba33fd08544/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/6ba33fd08544/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

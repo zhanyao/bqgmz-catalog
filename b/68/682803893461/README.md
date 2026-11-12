@@ -1,7 +1,7 @@
 # A láthatatlan ember: Fantasztikus regény
 
-**作者** Wells, H. G. (Herbert George), 1866-1946 ｜ **国家/地区** 匈牙利 ｜ **体例** 段  
-**规模** 12 段 · 242,880 字 ｜ **来源** Project Gutenberg
+**作者** Wells, H. G. (Herbert George), 1866-1946 ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 52 章 · 242,880 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/682803893461/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（242,880 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,240 字；最长 Mr Hall, megállván az utolsó lépcsőn, lebámult a kis csődüle（39,897 字），最短 – Uram-Istenem! – sóhajt, nagyot fujva pipájából, – micsoda （2,574 字）。 |
+| 分章依据 | 按「章」标记切分为 52 章（auto-roman-title），拼接正文 6,806 行。 |
+| 篇幅分布 | 平均每章 4,668 字。 |
+| 起止 | 始于「I. FEJEZET. A furcsa idegen érkezése.」，止于「XXVI. „ A hajtóvadászat 184（部2）」。 |
 | 原文溯源 | `cache/epub/67157/pg67157.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Mr Hall, megállván az utolsó lépcsőn, lebámult a kis csődüle
-2. De mégis ugy rémlett mindkettőjüknek, hogy valami mozgást ha
-3. – Oh, az megint más! – szólt közbe Jaffers. – Én nem törődöm
-4. – Katonaviselt ember, – mondta mr Bunting. – Jó kedvü fickók
-5. – Az embernek végigborsódzik a háta, ha rágondol, hogy ez a
-6. – Zavart vagyok, – mondta Kemp. – Az agyam háborog… Mi köze
-7. – Ámde ha ezt a fehér, porrá tört üveget vizbe teszszük, leg
-8. … Lementem a lépcsőn s megvártam, mig kitakarodnak a szobámb
-9. … Fölkeltem hát és bementem a boltba, melynek ajtaja a Drury
-10. Kint, a lépcsőkön, gyorsan futó lépések zaja hallatszott…
+1. I. FEJEZET. A furcsa idegen érkezése.
+2. II. FEJEZET. Mr Teddy Henfrey első benyomása.
+3. III. FEJEZET. Az ezer-egy palack.
+4. IV. FEJEZET. Mr Cuss vallatóra fogja az idegent.
+5. V. FEJEZET. A tiszteletes urat meglopják.
+6. VI. FEJEZET. A megbolondult butorok.
+7. VII. FEJEZET. Az idegent leleplezik.
+8. VIII. FEJEZET. Mr Thomas Marvel kalandja.
+9. IX. FEJEZET. Mr Marvel ellátogat Ipingbe.
+10. X. FEJEZET. A „Postakocsihoz“ cimzett fogadóban.
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/682803893461/)
+> 共 52 章，[完整目录与正文 →](https://www.bqgmz.top/b/682803893461/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

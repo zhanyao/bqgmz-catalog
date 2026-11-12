@@ -1,7 +1,7 @@
 # The Unpublishable Memoirs
 
-**作者** Rosenbach, A. S. W. (Abraham Simon Wolf), 1876-1952; Herford, Oliver, 1863-1935 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 104,453 字 ｜ **来源** Project Gutenberg
+**作者** Rosenbach, A. S. W. (Abraham Simon Wolf), 1876-1952; Herford, Oliver, 1863-1935 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 104,453 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/74ba240a3b4f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（104,453 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,890 字；最长 "Hello!--You here?" said one voice.（39,979 字），最短 "About twelve years ago, attracted by a great book sale, I s（4,477 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-toc-title-list），拼接正文 2,977 行。 |
+| 篇幅分布 | 平均每章 10,437 字；最长 In Defence of His Name（18,014 字），最短 The Fifteen Joys of Marriage（5,805 字）。 |
 | 原文溯源 | `cache/epub/38746/pg38746.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 9 章）
 
-1. "Hello!--You here?" said one voice.
-2. "There's no arguing with thee. I'll expose thee, if it take
-3. The newspapers were full of the curious recovery of the Bocc
-4. The finding next day of the poor, bruised body of little Mar
-5. "About twelve years ago, attracted by a great book sale, I s
+1. The Three Trees
+2. The Purple Hawthorn
+3. The Disappearance of Shakespeare
+4. The Colonial Secretary
+5. In Defence of His Name
+6. The Lady of the Breviary
+7. The Evasive Pamphlet
+8. The Great Discovery
+9. The Fifteen Joys of Marriage
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/74ba240a3b4f/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/74ba240a3b4f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

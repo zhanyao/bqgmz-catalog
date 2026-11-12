@@ -1,7 +1,7 @@
 # Manuel de synonymie Latine
 
-**作者** Doederlein, Ludwig von, 1791-1863; Leclaire, Théophile [Translator] ｜ **国家/地区** 其它语种 ｜ **体例** 题  
-**规模** 14 题 · 422,775 字 ｜ **来源** Project Gutenberg
+**作者** Doederlein, Ludwig von, 1791-1863; Leclaire, Théophile [Translator] ｜ **国家/地区** 其它语种 ｜ **体例** 部分  
+**规模** 10 部分 · 422,775 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/67eafa31e97c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（422,775 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 30,198 字。 |
+| 分章依据 | 按「部分」标记切分为 10 部分（fallback-chunk），拼接正文 11,693 行。 |
+| 篇幅分布 | 平均每部分 42,277 字；最长 第 7 部分（43,399 字），最短 第 10 部分（33,377 字）。 |
 | 原文溯源 | `cache/epub/73700/pg73700.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 部分）
 
-1. Édition française
-2. Publiée avec l’autorisation spéciale de l’auteur
-3. Par Th. Leclaire
-4. MON CHER MAÎTRE,
-5. AVANT-PROPOS
-6. AVIS POUR LA SECONDE ÉDITION
-7. 2. *Albus*, blanc; *albidus*, blanchâtre
-8. 3. Il y a autant de sortes de mauvaises
-9. I-J
-10. —Macellum, v. *Laniena*.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/67eafa31e97c/)
+> 共 10 部分，[完整目录与正文 →](https://www.bqgmz.top/b/67eafa31e97c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

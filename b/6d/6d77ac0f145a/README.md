@@ -1,7 +1,7 @@
 # La guerra europea
 
-**作者** Ferrero, Guglielmo, 1871-1942 ｜ **国家/地区** 意大利 ｜ **体例** 题  
-**规模** 82 题 · 351,674 字 ｜ **来源** Project Gutenberg
+**作者** Ferrero, Guglielmo, 1871-1942 ｜ **国家/地区** 意大利 ｜ **体例** 篇  
+**规模** 262 篇 · 351,674 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6d77ac0f145a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（351,674 字）。 |
-| 分章依据 | 按「题」标记切分为 82 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,288 字。 |
+| 分章依据 | 按「篇」标记切分为 262 篇（通用标记切分），拼接正文 6,910 行。 |
+| 篇幅分布 | 平均每篇 1,341 字。 |
 | 原文溯源 | `cache/epub/73717/pg73717.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. GUGLIELMO FERRERO
-2. STUDI E DISCORSI
-3. Proprietà riservata
-4. Copyright by GUGLIELMO FERRERO — 1915
-5. Milano, 1915. Cooperativa Tipografia degli Operai, via Spartaco, 6
-6. SOMMARIO
-7. I.
-8. GLI ULTIMI GIORNI DELLA PACE
-9. I.
-10. II.
+1. Copyright by GUGLIELMO FERRERO — 1915
+2. _Mal vezzo della letteratura presente parve sempre all’autore la
+3. _Egli spera che l’argomento di questi studi e di questi discorsi
+4. _Senonchè queste considerazioni furono accolte piuttosto male: del che
+5. caduto, sotto i nostri occhi?_
+6. _Ma come chiaro apparisce invece, a chi ha trovato questo filo, il
+7. _Occorrerà infine sciogliere il gran problema della limitazione degli
+8. _L’Europa ormai dovrà essere rifatta. Ma un’epoca non può rifare un
+9. Questo studio fu pubblicato nella _Revue des deux mondes_ il 15
+10. dei tre _Libri Bianchi_ pubblicati dal Governo inglese — il
 
-> 共 82 题，[完整目录与正文 →](https://www.bqgmz.top/b/6d77ac0f145a/)
+> 共 262 篇，[完整目录与正文 →](https://www.bqgmz.top/b/6d77ac0f145a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

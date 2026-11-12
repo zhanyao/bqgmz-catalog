@@ -11,16 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（432,683 字）。 |
-| 分章依据 | 按「章」标记切分为 73 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,927 字；最长 CHAPTER LXXIII.（80,635 字），最短 CHAPTER III.（665 字）。 |
+| 分章依据 | 按「章」标记切分为 73 章（auto-chapter），拼接正文 10,688 行。 |
+| 篇幅分布 | 平均每章 4,657 字。 |
 | 原文溯源 | `cache/epub/48785/pg48785.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. PART I of this very complete Chronicle of Peru was published at Seville
-2. PART II remained in manuscript until 1873, when the Peruvian editor, and
-3. CHAPTER III.
-4. CHAPTER IV.
+1. PART I. The divisions and description of the provinces of Peru.
+2. PART II. The government, great deeds, origin, policy, buildings, and
+3. PART III. Discovery and conquest of Peru by Pizarro, and rebellion of
+4. PART IV. _Book I._ War between Pizarro and Almagro.
 5. CHAPTER V.
 6. CHAPTER VI.
 7. CHAPTER VII.
@@ -31,4 +31,4 @@
 > 共 73 章，[完整目录与正文 →](https://www.bqgmz.top/b/6c33418b3135/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

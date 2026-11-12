@@ -1,7 +1,7 @@
 # The art of travel
 
-**作者** Galton, Francis, 1822-1911 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 79 题 · 595,539 字 ｜ **来源** Project Gutenberg
+**作者** Galton, Francis, 1822-1911 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 44 章 · 595,539 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7a2d50908588/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（595,539 字）。 |
-| 分章依据 | 按「题」标记切分为 79 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,538 字。 |
+| 分章依据 | 按「章」标记切分为 44 章（auto-caps-sections），拼接正文 13,945 行。 |
+| 篇幅分布 | 平均每章 12,918 字；最长 WATER FOR DRINKING.（40,556 字），最短 POTTERY.（831 字）。 |
 | 原文溯源 | `cache/epub/14681/pg14681.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE ART OF TRAVEL or Shifts and Contrivances Available in Wild Countries
-2. Francis Galton
-3. CONTENTS
-4. THE ART OF TRAVEL
-5. PREFACE TO THE FIFTH EDITION.
-6. PREFACE TO THE FOURTH EDITION.
-7. Francis Galton
-8. ART OF TRAVEL.
-9. PREPARATORY INQUIRIES.
-10. ORGANISING AN EXPEDITION.
+1. PREFACE TO THE FOURTH EDITION.
+2. PREPARATORY INQUIRIES.
+3. ORGANISING AN EXPEDITION.
+4. OUTFIT.
+5. TOTAL WEIGHT TO BE CARRIED BY EXPEDITION 282
+6. MEDICINE.
+7. SURVEYING INSTRUMENTS.
+8. MEMORANDA AND LOG-BOOKS.
+9. MEASUREMENTS.
+10. CLIMBING AND MOUNTAINEERING.
 
-> 共 79 题，[完整目录与正文 →](https://www.bqgmz.top/b/7a2d50908588/)
+> 共 44 章，[完整目录与正文 →](https://www.bqgmz.top/b/7a2d50908588/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # English Illustration 'The Sixties': 1855-70 With Numerous Illustrations by Ford Madox Brown: A. Boyd Houghton: Arthur Hughes: Charles Keene: M. J. Lawless: Lord Leighton, P.R.A.: Sir J. E. Millais, P.R.A.: G. Du Maurier: J. W. North, R.A.: G. J. Pinwell: Dante Gabriel Rossetti: W. Small: Frederick Sandys: J. Mcneill Whistler: Frederick Walker, A.R.A.: and Others
 
 **作者** White, Gleeson, 1851-1898 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 442,556 字 ｜ **来源** Project Gutenberg
+**规模** 12 章 · 442,556 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/79281cd7d1ba/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（442,556 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 34,042 字；最长 CHAPTER XII: SOME ILLUSTRATORS OF THE SI（75,305 字），最短 CHAPTER XI: CERTAIN INFLUENCES UPON THE ARTISTS OF THE SIXTIES（9,987 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 12,024 行。 |
+| 篇幅分布 | 平均每章 29,703 字；最长 CHAPTER XII: SOME ILLUSTRATORS OF THE SIXTIES（51,783 字），最短 CHAPTER XI: CERTAIN INFLUENCES UPON THE ARTISTS OF THE SIXTIES（9,987 字）。 |
+| 起止 | 始于「CHAPTER I: THE NEW APPRECIATION AND THE NEW COLLECTOR」，止于「CHAPTER XII: SOME ILLUSTRATORS OF THE SIXTIES」。 |
 | 原文溯源 | `cache/epub/45426/pg45426.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX: SOME ILLUSTRATED BOOKS, 1865-1872
 10. CHAPTER X: THE AFTERMATH, A FEW BELATED VOLUMES
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/79281cd7d1ba/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/79281cd7d1ba/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

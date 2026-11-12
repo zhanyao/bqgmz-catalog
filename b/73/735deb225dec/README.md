@@ -1,7 +1,7 @@
 # Tirol
 
-**作者** Haushofer, Max, 1840-1907 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 14 段 · 291,323 字 ｜ **来源** Project Gutenberg
+**作者** Haushofer, Max, 1840-1907 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 7 部分 · 291,323 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/735deb225dec/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（291,323 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,808 字；最长 Nördlich von der Centralkette erstreckt sich durch ganz Tiro（39,509 字），最短 Laubengasse in Bozen 149 (Abb. 156).（10,934 字）。 |
+| 分章依据 | 按「部分」标记切分为 7 部分（fallback-chunk），拼接正文 8,031 行。 |
+| 篇幅分布 | 平均每部分 41,617 字；最长 第 2 部分（43,694 字），最短 第 7 部分（30,634 字）。 |
 | 原文溯源 | `cache/epub/70680/pg70680.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 7 部分）
 
-1. Nördlich von der Centralkette erstreckt sich durch ganz Tiro
-2. Und wie das ganze Land an seiner nördlichen und südlichen Ab
-3. Die Jagd ist in Tirol nicht bedeutend. Sie war so lange frei
-4. Auf die Rhätier folgte die Romanisierung des Landes. Und die
-5. Ganze Dorfschaften sowohl als auch Einzelngehöfte lagern vor
-6. [Sidenote: Großachenthal. Loferer Steinberge.]
-7. Das bedeutendste unter den Zweigthälern des Zillerthales ist
-8. Gleich hinter Vent, das heutzutage während der Sommerzeit ei
-9. Wenn wir auf der Vorarlberger Bahnlinie Bregenz verlassen,
-10. Das Passeier, eins der meistgenannten Tiroler Seitenthäler,
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/735deb225dec/)
+> 共 7 部分，[完整目录与正文 →](https://www.bqgmz.top/b/735deb225dec/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Pour qu'on lise Platon
 
-**作者** Faguet, Émile, 1847-1916 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 26 题 · 415,471 字 ｜ **来源** Project Gutenberg
+**作者** Faguet, Émile, 1847-1916 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 12 章 · 415,471 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6a80ee3a9213/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（415,471 字）。 |
-| 分章依据 | 按「题」标记切分为 26 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 15,979 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-roman-title），拼接正文 8,595 行。 |
+| 篇幅分布 | 平均每章 30 字。 |
+| 起止 | 始于「I. Les haines de Platon: Les Athéniens 13」，止于「XII. Conclusions 379」。 |
 | 原文溯源 | `cache/epub/77493/pg77493.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. EN VENTE A LA MÊME LIBRAIRIE
-2. DU MÊME AUTEUR
-3. POUR QU’ON LISE PLATON
-4. LES HAINES DE PLATON: LES ATHÉNIENS
-5. II
-6. LES HAINES DE PLATON: LA DÉMOCRATIE
-7. III
-8. LES HAINES DE PLATON: LES SOPHISTES
-9. IV
-10. LES HAINES DE PLATON: LES POÈTES
+1. I. Les haines de Platon: Les Athéniens 13
+2. II. Les haines de Platon: La Démocratie 23
+3. III. Les haines de Platon: Les Sophistes 37
+4. IV. Les haines de Platon: Les Poètes 48
+5. V. Les haines de Platon: Les Prêtres et les Dieux 62
+6. VI. Malgré ses haines 72
+7. VII. Son dessein général 83
+8. VIII. Sa métaphysique 95
+9. IX. Sa morale 133
+10. X. Ses idées sur l’art 240
 
-> 共 26 题，[完整目录与正文 →](https://www.bqgmz.top/b/6a80ee3a9213/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/6a80ee3a9213/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（243,910 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,086 字；最长 CHAPTER XIX—THE PERILOUS GAME（16,837 字），最短 CHAPTER XVI—THE EMPTY HOUSE（6,146 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 6,637 行。 |
+| 篇幅分布 | 平均每章 10,997 字；最长 CHAPTER XIX—THE PERILOUS GAME（16,837 字），最短 CHAPTER XVI—THE EMPTY HOUSE（6,146 字）。 |
 | 起止 | 始于「CHAPTER I—THE GREENHORN」，止于「CHAPTER XXII—THE TRIAL」。 |
 | 原文溯源 | `cache/epub/43344/pg43344.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/6a379ff361eb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

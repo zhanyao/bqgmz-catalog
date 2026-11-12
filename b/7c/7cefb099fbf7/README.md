@@ -1,7 +1,7 @@
 # Sciopticon: Einführung in die Projections-Kunst
 
-**作者** Liesegang, Franz Paul, 1873-1949 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 5 段 · 118,634 字 ｜ **来源** Project Gutenberg
+**作者** Liesegang, Franz Paul, 1873-1949 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 4 部分 · 118,634 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7cefb099fbf7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（118,634 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,726 字；最长 Sollte einmal in der Ableitung eine Stockung eintreten, der （39,961 字），最短 _=Inhalt=_: =Die Ferrotypie.= -- =Das Glashaus.= -- =Das（18,632 字）。 |
+| 分章依据 | 按「部分」标记切分为 4 部分（fallback-chunk），拼接正文 3,535 行。 |
+| 篇幅分布 | 平均每部分 29,658 字。 |
 | 原文溯源 | `cache/epub/44972/pg44972.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 4 部分）
 
-1. Sollte einmal in der Ableitung eine Stockung eintreten, der
-2. In der oberen Kohle bildet sich gegenüber der Spitze der unt
-3. Apparate zur Projection undurchsichtiger Gegenstände
-4. _=Inhalt=_: Das Objectiv. Die Camera. Die Cassette. --
-5. _=Inhalt=_: =Die Ferrotypie.= -- =Das Glashaus.= -- =Das
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/7cefb099fbf7/)
+> 共 4 部分，[完整目录与正文 →](https://www.bqgmz.top/b/7cefb099fbf7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

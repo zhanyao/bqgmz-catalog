@@ -1,7 +1,7 @@
 # Price/Cost Indexes from 1875 to 1989; Estimated to 2010
 
-**作者** Hart, Michael, 1947-2011 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 152 题 · 527,570 字 ｜ **来源** Project Gutenberg
+**作者** Hart, Michael, 1947-2011 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 15 部分 · 527,570 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6dd9c5544937/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（527,570 字）。 |
-| 分章依据 | 按「题」标记切分为 152 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,470 字。 |
+| 分章依据 | 按「部分」标记切分为 15 部分（fallback-chunk），拼接正文 19,836 行。 |
+| 篇幅分布 | 平均每部分 35,171 字；最长 第 1 部分（37,398 字），最短 第 15 部分（34,617 字）。 |
 | 原文溯源 | `cache/epub/88/pg88.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 部分）
 
-1. Price/Cost Indexes from 1875 to 1929
-2. United States
-3. October, 1993 expanded for release in November, 1993
-4. THE RATE OF CHANGE OF THE RATE OF CHANGE by Michael S. Hart
-5. In The Electronic Journal of Virtual Culture]
-6. WHERE DOES OUR MONEY GO?
-7. Based on an estimated 17% increase from 1989 to 1993 [4%/year]
-8. THE PROJECT GUTENBERG PRICE INDEX FROM 1875 TO 2010
-9. THE PROJECT GUTENBERG PRICE INDEX FROM 1875 TO 2010
-10. Economic Report of the President
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 152 题，[完整目录与正文 →](https://www.bqgmz.top/b/6dd9c5544937/)
+> 共 15 部分，[完整目录与正文 →](https://www.bqgmz.top/b/6dd9c5544937/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

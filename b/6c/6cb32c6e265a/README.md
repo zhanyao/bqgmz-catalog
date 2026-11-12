@@ -1,7 +1,7 @@
 # The Broken Font: A Story of the Civil War, Vol. 1 (of 2)
 
-**作者** Sherer, Moyle, 1789-1869 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 29 题 · 312,095 字 ｜ **来源** Project Gutenberg
+**作者** Sherer, Moyle, 1789-1869 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 14 篇 · 312,095 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6cb32c6e265a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（312,095 字）。 |
-| 分章依据 | 按「题」标记切分为 29 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,761 字。 |
+| 分章依据 | 按「篇」标记切分为 14 篇（auto-magazine），拼接正文 7,133 行。 |
+| 篇幅分布 | 平均每篇 22,292 字。 |
 | 原文溯源 | `cache/epub/43261/pg43261.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. THE BROKEN FONT.
-2. A STORY OF THE CIVIL WAR.
-3. IN TWO VOLUMES.
-4. VOL. I.
-5. LONDON:
-6. PREFACE.
-7. THE BROKEN FONT.
-8. CHAPTER I.
-9. CHAP. II.
-10. CHAP. III.
+1. PREFACE
+2. LORD BROOKE
+3. SIR THOMAS OVERBURY
+4. GEORGE HICKES
+5. RALEIGH
+6. HENRY MORE
+7. BUTLER
+8. SIDNEY
+9. CHAP. XVI
+10. BACON
 
-> 共 29 题，[完整目录与正文 →](https://www.bqgmz.top/b/6cb32c6e265a/)
+> 共 14 篇，[完整目录与正文 →](https://www.bqgmz.top/b/6cb32c6e265a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

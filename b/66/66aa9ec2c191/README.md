@@ -1,7 +1,7 @@
 # The Spook Ballads
 
-**作者** Parkes, William Theodore, -1908 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 176,764 字 ｜ **来源** Project Gutenberg
+**作者** Parkes, William Theodore, -1908 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 170 篇 · 176,764 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/66aa9ec2c191/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（176,764 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,095 字；最长 Then facing Colonel Bouncer's Ghost, "Thou caitiff spook" I （39,879 字），最短 He loved his Parson; for he taught that gold was dross, and （16,823 字）。 |
+| 分章依据 | 按「篇」标记切分为 170 篇（auto-title-scan），拼接正文 6,431 行。 |
+| 篇幅分布 | 平均每篇 1,039 字。 |
 | 原文溯源 | `cache/epub/42566/pg42566.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 篇）
 
-1. Then facing Colonel Bouncer's Ghost, "Thou caitiff spook" I
-2. He WAS a cabman grey I feck,
-3. "O God, have you come to haunt me here, John Tommins, L.R.C.
-4. AN instance of calculating foresight and prudence is illustr
-5. One night there was a darkness, like crape upon the land,
-6. He opened the safe, and he smashed the bureau,
-7. He leaped upon the car again, an' says to me, once more,
-8. He loved his Parson; for he taught that gold was dross, and
+1. Transcriber's Note
+2. Mark up: _italics
+3. BY
+4. Crown 8vo, Cloth gilt, 5s.
+5. And all Booksellers.
+6. Publisher's Circular.
+7. readers."--_The Sun.
+8. Citizen.
+9. and Stationer.
+10. 'grace after meat.'"--_The People.
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/66aa9ec2c191/)
+> 共 170 篇，[完整目录与正文 →](https://www.bqgmz.top/b/66aa9ec2c191/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（407,649 字）。 |
-| 分章依据 | 按「章」标记切分为 43 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,480 字；最长 CHAPTER XXXIX.—JUDGE LYNN HAS AN IDEA（17,052 字），最短 CHAPTER XIV.—THE SONG（5,258 字）。 |
+| 分章依据 | 按「章」标记切分为 43 章（auto-chapter），拼接正文 4,190 行。 |
+| 篇幅分布 | 平均每章 9,393 字；最长 CHAPTER XXXIX.—JUDGE LYNN HAS AN IDEA（17,052 字），最短 CHAPTER XIV.—THE SONG（5,258 字）。 |
 | 起止 | 始于「CHAPTER I.—AT LAKE GENEVA」，止于「CHAPTER XLIII.—UNDER THE QUIET STARS」。 |
 | 原文溯源 | `cache/epub/52449/pg52449.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 43 章，[完整目录与正文 →](https://www.bqgmz.top/b/73d4799d30b9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

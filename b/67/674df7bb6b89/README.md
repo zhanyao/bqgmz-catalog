@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（218,861 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,632 字；最长 CHAPTER XIV THE FUTURE（33,974 字），最短 CHAPTER IX FIVE STAGES（6,899 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 5,571 行。 |
+| 篇幅分布 | 平均每章 13,395 字；最长 CHAPTER XII THE DARK AGES（27,271 字），最短 CHAPTER IX FIVE STAGES（6,899 字）。 |
 | 起止 | 始于「CHAPTER I THE ORIGIN OF ROADS」，止于「CHAPTER XIV THE FUTURE」。 |
 | 原文溯源 | `cache/epub/65304/pg65304.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/674df7bb6b89/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

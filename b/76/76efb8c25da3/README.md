@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（227,691 字）。 |
-| 分章依据 | 按「章」标记切分为 23 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,899 字；最长 CHAPTER XXIII--THE LAST DAYS OF VICKSBURG（23,479 字），最短 CHAPTER XII--IN A WINTER CAMP（6,644 字）。 |
-| 起止 | 始于「CHAPTER I--ON BOARD THE _FANNY HARRIS_」，止于「CHAPTER XXIII--THE LAST DAYS OF VICKSBURG」。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-chapter），拼接正文 6,440 行。 |
+| 篇幅分布 | 平均每章 9,788 字；最长 CHAPTER XXIII--THE LAST DAYS OF VICKSBURG（23,479 字），最短 CHAPTER XII--IN A WINTER CAMP（6,644 字）。 |
+| 起止 | 始于「CHAPTER I--ON BOARD THE _FANNY HARRIS」，止于「CHAPTER XXIII--THE LAST DAYS OF VICKSBURG」。 |
 | 原文溯源 | `cache/epub/41877/pg41877.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I--ON BOARD THE _FANNY HARRIS_
+1. CHAPTER I--ON BOARD THE _FANNY HARRIS
 2. CHAPTER II--IN GREAT ANXIETY
 3. CHAPTER III--PLAIN TALK AND UGLY RUMORS
 4. CHAPTER IV--THE BREAKING OF THE STORM
@@ -32,4 +32,4 @@
 > 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/76efb8c25da3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

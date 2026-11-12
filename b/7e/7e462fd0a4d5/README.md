@@ -1,7 +1,7 @@
 # Scrambles Amongst the Alps in the Years 1860-69
 
 **作者** Whymper, Edward, 1840-1911 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 22 章 · 442,027 字 ｜ **来源** Project Gutenberg
+**规模** 23 章 · 442,027 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7e462fd0a4d5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（442,027 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,092 字；最长 CHAPTER V.（43,228 字），最短 CHAPTER XIX.（4,387 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXII.」。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-chapter），拼接正文 9,236 行。 |
+| 篇幅分布 | 平均每章 18,862 字；最长 CHAPTER V.（43,228 字），最短 CHAPTER XIX.（4,387 字）。 |
 | 原文溯源 | `cache/epub/41234/pg41234.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/7e462fd0a4d5/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/7e462fd0a4d5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Voces Populi
 
-**作者** Anstey, F., 1856-1934 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 78 题 · 188,835 字 ｜ **来源** Project Gutenberg
+**作者** Anstey, F., 1856-1934 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 30 章 · 188,835 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/72a85b1bd8c8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（188,835 字）。 |
-| 分章依据 | 按「题」标记切分为 78 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,420 字。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-toc-title-list），拼接正文 5,579 行。 |
+| 篇幅分布 | 平均每章 6,221 字；最长 AT A SALE OF HIGH-CLASS SCULPTURE（8,700 字），最短 MAN"（387 字）。 |
 | 原文溯源 | `cache/epub/37597/pg37597.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. VOCES POPULI
-2. VOCES POPULI
-3. AUTHOR OF "VICE VERSA," ETC.
-4. CONTENTS
-5. ILLUSTRATIONS
-6. VOCES POPULI
-7. IN THE CENTRAL HALL.
-8. BEFORE THE PORTRAITS.
-9. THE INT. PERSON. Froude tells a curious incident about--
-10. MARY. Well, dear, I don't quite--
+1. AN EVENING WITH A CONJUROR
+2. AT THE TUDOR EXHIBITION
+3. IN AN OMNIBUS
+4. AT A SALE OF HIGH-CLASS SCULPTURE
+5. AT THE GUELPH EXHIBITION
+6. AT THE ROYAL ACADEMY
+7. AT THE HORSE SHOW
+8. AT A DANCE
+9. AT THE BRITISH MUSEUM
+10. THE TRAVELLING MENAGERIE
 
-> 共 78 题，[完整目录与正文 →](https://www.bqgmz.top/b/72a85b1bd8c8/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/72a85b1bd8c8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

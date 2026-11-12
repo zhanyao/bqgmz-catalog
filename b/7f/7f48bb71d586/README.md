@@ -1,7 +1,7 @@
 # Éducation et sociologie
 
-**作者** Durkheim, Émile, 1858-1917; Fauconnet, Paul, 1874-1938 [Author of introduction, etc.] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 10 段 · 203,041 字 ｜ **来源** Project Gutenberg
+**作者** Durkheim, Émile, 1858-1917; Fauconnet, Paul, 1874-1938 [Author of introduction, etc.] ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 136 篇 · 203,041 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7f48bb71d586/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（203,041 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,304 字；最长 Ainsi peuvent se concilier le réalisme et l'idéalisme. Les i（39,360 字），最短 6. Vous vous expliquez maintenant ce que signifie le titre q（3,000 字）。 |
+| 分章依据 | 按「篇」标记切分为 136 篇（通用标记切分），拼接正文 3,931 行。 |
+| 篇幅分布 | 平均每篇 1,490 字。 |
 | 原文溯源 | `cache/epub/55501/pg55501.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Ainsi peuvent se concilier le réalisme et l'idéalisme. Les i
-2. On peut dire que, jusqu'à nos jours, l'enseignement grammati
-3. Or, les coutumes et les idées qui déterminent ce type, ce n'
-4. On voit par ces quelques exemples à quoi se réduirait l'homm
-5. Il en est tout autrement de la pédagogie. Celle-ci consiste,
-6. Le fait que l'on invoque ainsi pour dénier tout crédit à la
-7. Il est d'autant plus nécessaire d'appeler tout de suite votr
-8. Ne connaissons-nous pas une grande doctrine qui proclame heu
-9. Très souvent, il est vrai, on raisonne comme si tout cela al
-10. 6. Vous vous expliquez maintenant ce que signifie le titre q
+1. Durkheim a enseigné toute sa vie la pédagogie, en même temps que la
+2. Durkheim n'a pas partagé son temps ni sa pensée entre deux activités
+3. L'observation le prouve. D'abord, dans chaque société, il y a autant
+4. Mais pourquoi en est-il nécessairement ainsi? C'est «qu'en chacun de
+5. Pour l'esprit exercé à regarder les choses de ce biais, cette
+6. Pourtant, cette vérité d'évidence a été généralement méconnue, surtout
+7. L'éducation est chose sociale: c'est-à-dire qu'elle met en contact
+8. On entend d'abord la protestation qu'on peut appeler universaliste ou
+9. Au nom de l'idéal, enfin, il arrive qu'on résiste au réalisme de
+10. Tout l'enseignement de Durkheim répond à un besoin profond de son
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/7f48bb71d586/)
+> 共 136 篇，[完整目录与正文 →](https://www.bqgmz.top/b/7f48bb71d586/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

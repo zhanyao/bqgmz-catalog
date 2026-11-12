@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（314,191 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,636 字；最长 CHAPTER XXI. THE MESSAGE KENNETH BORE（23,619 字），最短 CHAPTER III. THE LETTER（3,912 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-chapter），拼接正文 8,291 行。 |
+| 篇幅分布 | 平均每章 11,613 字；最长 CHAPTER XXI. THE MESSAGE KENNETH BORE（23,619 字），最短 CHAPTER III. THE LETTER（3,912 字）。 |
 | 起止 | 始于「CHAPTER I. ON THE MARCH」，止于「CHAPTER XXVII. THE AUBERGE DU SOLEIL」。 |
 | 原文溯源 | `cache/epub/3030/pg3030.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/74ddb9677276/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

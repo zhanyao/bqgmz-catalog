@@ -1,7 +1,7 @@
 # Our Square and the People in It
 
-**作者** Adams, Samuel Hopkins, 1871-1958; Williams, J. Scott (John Scott), 1877-1975 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 31 题 · 289,444 字 ｜ **来源** Project Gutenberg
+**作者** Adams, Samuel Hopkins, 1871-1958; Williams, J. Scott (John Scott), 1877-1975 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 3 篇 · 289,444 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/792b395beabf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（289,444 字）。 |
-| 分章依据 | 按「题」标记切分为 31 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,336 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（auto-title-block），拼接正文 7,892 行。 |
+| 篇幅分布 | 平均每篇 77,634 字。 |
 | 原文溯源 | `cache/epub/44328/pg44328.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 篇）
 
-1. OUR SQUARE AND THE PEOPLE IN IT
-2. By Samuel Hopkins Adams
-3. Illustrated by Scott Williams
-4. Boston and New York Houghton Mifflin Company
-5. OUR SQUARE
-6. Thus encouraged, Cyrus ventured a question:--
-7. II
-8. III
-9. IV
-10. THE CHAIR THAT WHISPERED
+1. An Idyl of Our Square
+2. Tomorrow evening?”
+3. A TALE OF WHITE MAGIC IN OUR SQUARE
 
-> 共 31 题，[完整目录与正文 →](https://www.bqgmz.top/b/792b395beabf/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/792b395beabf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

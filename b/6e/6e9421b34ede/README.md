@@ -1,7 +1,7 @@
 # Mnais und Ginevra
 
-**作者** Mann, Heinrich, 1871-1950 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 5 题 · 50,456 字 ｜ **来源** Project Gutenberg
+**作者** Mann, Heinrich, 1871-1950 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 4 篇 · 50,456 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6e9421b34ede/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（50,456 字）。 |
-| 分章依据 | 按「题」标记切分为 5 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,091 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（auto-title-block），拼接正文 1,158 行。 |
+| 篇幅分布 | 平均每篇 12,603 字。 |
 | 原文溯源 | `cache/epub/45635/pg45635.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 题）
+## 章节目录（前 4 篇）
 
-1. Mnais
-2. Ginevra degli Amieri
-3. I.
-4. II.
-5. III.
+1. R. Piper & Co., Verlag
+2. Mnais
+3. wollt Ihr?«
+4. Seele.«
 
-> 共 5 题，[完整目录与正文 →](https://www.bqgmz.top/b/6e9421b34ede/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/6e9421b34ede/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

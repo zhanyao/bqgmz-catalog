@@ -1,7 +1,7 @@
 # The American Missionary — Volume 43, No. 06, June, 1889
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 84,255 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 20 章 · 84,255 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/66d18d488eb5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（84,255 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,063 字。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-caps-sections），拼接正文 3,338 行。 |
+| 篇幅分布 | 平均每章 4,212 字；最长 DEAR CHILDREN:（29,470 字），最短 FREDERICK DOUGLASS.（437 字）。 |
 | 原文溯源 | `cache/epub/16141/pg16141.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 10 章）
 
-1. "From every view I have been able to take of the present sit
-2. Early in the winter, I had a pleasant day of work regarding
-3. Andover. "A Friend," Box Magazines
-4. Nalls. Cong. Ch., 75c.,
+1. COMMUNICATIONS
+2. FORM OF A BEQUEST
+3. VOICES FROM THE FIELD.
+4. THE DIVIDING LINE BETWEEN THE TWO CENTURIES.
+5. PARAGRAPHS.
+6. SCHOOL ECHOES.
+7. FREDERICK DOUGLASS.
+8. THE IRREPRESSIBLE CONFLICT STILL IN PROGRESS.
+9. THE CONDITION OF THE PLANTATION NEGRO.
+10. WHY THE NEGRO DOES NOT EMIGRATE?
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/66d18d488eb5/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/66d18d488eb5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

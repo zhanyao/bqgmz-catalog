@@ -1,7 +1,7 @@
 # Russia
 
 **作者** Wallace, Donald Mackenzie, 1841-1919 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 39 章 · 1,416,495 字 ｜ **来源** Project Gutenberg
+**规模** 40 章 · 1,416,495 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/69ff2a6fbb71/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,416,495 字）。 |
-| 分章依据 | 按「章」标记切分为 39 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 36,320 字；最长 CHAPTER I（71,045 字），最短 CHAPTER XXIII（8,280 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXXIX」。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-chapter），拼接正文 27,711 行。 |
+| 篇幅分布 | 平均每章 34,845 字；最长 CHAPTER XXXV（57,347 字），最短 CHAPTER XXIII（8,280 字）。 |
 | 原文溯源 | `cache/epub/1349/pg1349.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/69ff2a6fbb71/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/69ff2a6fbb71/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

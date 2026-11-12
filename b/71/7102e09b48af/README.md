@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（407,645 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 29,117 字；最长 CHAPTER XI. GAMBLING POETS, SAVANTS, PHILOSOPHERS, WITS, AND STATESMEN.（65,650 字），最短 CHAPTER III. GAMBLING AMONG THE ANCIENT EGYPTIANS, PERSIANS, AND GREEKS.（5,124 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 9,266 行。 |
+| 篇幅分布 | 平均每章 28,643 字；最长 CHAPTER XI. GAMBLING POETS, SAVANTS, PHILOSOPHERS, WITS, AND STATESMEN.（65,650 字），最短 CHAPTER III. GAMBLING AMONG THE ANCIENT EGYPTIANS, PERSIANS, AND GREEKS.（5,124 字）。 |
 | 起止 | 始于「CHAPTER I. THE UNIVERSAL PASSION OF GAMING; OR, GAMING ALL THE WORLD OVER.」，止于「CHAPTER XIV. THE LAWS AGAINST GAMING IN VARIOUS COUNTRIES.」。 |
 | 原文溯源 | `cache/epub/466/pg466.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/7102e09b48af/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

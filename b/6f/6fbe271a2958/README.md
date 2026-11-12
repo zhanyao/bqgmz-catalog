@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（134,582 字）。 |
-| 分章依据 | 按「章」标记切分为 20 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,729 字；最长 CHAPTER XX. THE CONCLUDING CATASTROPHE.（9,661 字），最短 CHAPTER XIII. AN APPALLING DANGER.（5,053 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-chapter），拼接正文 3,910 行。 |
+| 篇幅分布 | 平均每章 6,696 字；最长 CHAPTER XX. THE CONCLUDING CATASTROPHE.（9,661 字），最短 CHAPTER XIII. AN APPALLING DANGER.（5,053 字）。 |
 | 起止 | 始于「CHAPTER I. THE TERROR OF THE PRAIRIES.」，止于「CHAPTER XX. THE CONCLUDING CATASTROPHE.」。 |
 | 原文溯源 | `cache/epub/7506/pg7506.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/6fbe271a2958/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（482,923 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,121 字；最长 CHAPTER XVI. THE FIRST BLOW（34,374 字），最短 CHAPTER XXIV. DOWN THE OHIO（3,140 字）。 |
+| 分章依据 | 按「章」标记切分为 24 章（auto-chapter），拼接正文 11,282 行。 |
+| 篇幅分布 | 平均每章 20,120 字；最长 CHAPTER XVI. THE FIRST BLOW（34,374 字），最短 CHAPTER XXIV. DOWN THE OHIO（3,140 字）。 |
 | 起止 | 始于「CHAPTER I. THE LONE CANOE」，止于「CHAPTER XXIV. DOWN THE OHIO」。 |
 | 原文溯源 | `cache/epub/1078/pg1078.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/70007182d214/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Appetite of Tyranny: Including Letters to an Old Garibaldian
 
-**作者** Chesterton, G. K. (Gilbert Keith), 1874-1936 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 84,296 字 ｜ **来源** Project Gutenberg
+**作者** Chesterton, G. K. (Gilbert Keith), 1874-1936 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 6 章 · 84,296 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/769a2980abfd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（84,296 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,074 字。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-toc-title-list），拼接正文 1,599 行。 |
+| 篇幅分布 | 平均每章 14,013 字；最长 LETTERS TO AN OLD GARIBALDIAN（30,124 字），最短 THE FACTS OF THE CASE（9,021 字）。 |
 | 原文溯源 | `cache/epub/11605/pg11605.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 6 章）
 
-1. The friends of the German cause have complained that Asiatic
-2. Suppose we heard of a person (gifted with some longevity) wh
-3. Here is the sort of instance that made me think of you. What
-4. The Prussianised German, of whatever blend of races he may b
+1. THE FACTS OF THE CASE
+2. I THE WAR ON THE WORD
+3. II THE REFUSAL OF RECIPROCITY
+4. III THE APPETITE OF TYRANNY
+5. IV THE ESCAPE OF FOLLY
+6. LETTERS TO AN OLD GARIBALDIAN
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/769a2980abfd/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/769a2980abfd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

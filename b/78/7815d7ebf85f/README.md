@@ -1,7 +1,7 @@
 # The Beauties of the State of Washington: A Book for Tourists
 
-**作者** Giles, Harry F. ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 124,780 字 ｜ **来源** Project Gutenberg
+**作者** Giles, Harry F. ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 26 章 · 124,780 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7815d7ebf85f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（124,780 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,796 字；最长 So uniform is the general temperature, excepting in the moun（39,964 字），最短 =CENTRALIA AND CHEHALIS:= Important railroad centers four mi（4,903 字）。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-caps-sections），拼接正文 3,451 行。 |
+| 篇幅分布 | 平均每章 4,080 字；最长 INLAND EMPIRE HIGHWAY.（16,832 字），最短 THE ISLANDS.（602 字）。 |
 | 原文溯源 | `cache/epub/30139/pg30139.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. So uniform is the general temperature, excepting in the moun
-2. Everybody in the state of Washington knows about the "Harbor
-3. "LIFTING THE BRAIL", PUGET SOUND
-4. The Big Bend is broken in places by "coulees" or old river c
-5. [Illustration: THE COLUMBIA RIVER, FROM WHITE SALMON
-6. =CENTRALIA AND CHEHALIS:= Important railroad centers four mi
+1. LAKE SIX-THOUSAND FEET
+2. MOUNT BAKER FORTY MILES EAST OF BELLINGHAM.]
+3. ONE OF MANY LURING STREAMS
+4. OTHER TRIPS.
+5. COMMERCE.
+6. THE ISLANDS.
+7. SAN JUAN GROUP.
+8. AMONG THE SAN JUAN ISLANDS.
+9. WHIDBY ISLAND.
+10. OLYMPIC PENINSULA.
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/7815d7ebf85f/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/7815d7ebf85f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

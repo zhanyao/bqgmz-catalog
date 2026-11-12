@@ -1,7 +1,7 @@
 # Oliver Twist; or, The Parish Boy's Progress. Illustrated
 
 **作者** Dickens, Charles, 1812-1870; Cruikshank, George, 1792-1878 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 52 章 · 731,248 字 ｜ **来源** Project Gutenberg
+**规模** 53 章 · 731,248 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/74281e050f12/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（731,248 字）。 |
-| 分章依据 | 按「章」标记切分为 52 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,062 字；最长 CHAPTER XXVI -- IN WHICH A MYSTERIOUS CHARACTER APPEARS UPON THE（32,836 字），最短 CHAPTER XXXVI -- IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT（4,536 字）。 |
+| 分章依据 | 按「章」标记切分为 53 章（auto-chapter），拼接正文 19,280 行。 |
+| 篇幅分布 | 平均每章 13,722 字；最长 CHAPTER XXXIX -- INTRODUCES SOME RESPECTABLE CHARACTERS WITH WHOM（24,259 字），最短 CHAPTER XXXVI -- IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT（4,536 字）。 |
 | 起止 | 始于「CHAPTER I -- TREATS OF THE PLACE WHERE OLIVER TWIST WAS BORN AND OF」，止于「CHAPTER LIII -- AND LAST」。 |
 | 原文溯源 | `cache/epub/46675/pg46675.txt`（Project Gutenberg） |
 
@@ -29,7 +29,7 @@
 9. CHAPTER IX -- CONTAINING FURTHER PARTICULARS CONCERNING THE PLEASANT
 10. CHAPTER X -- OLIVER BECOMES BETTER ACQUAINTED WITH THE CHARACTERS OF
 
-> 共 52 章，[完整目录与正文 →](https://www.bqgmz.top/b/74281e050f12/)
+> 共 53 章，[完整目录与正文 →](https://www.bqgmz.top/b/74281e050f12/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

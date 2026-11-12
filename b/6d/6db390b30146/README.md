@@ -1,7 +1,7 @@
 # Harper's Round Table, February 16, 1897
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 115,304 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 115,304 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6db390b30146/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（115,304 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,060 字；最长 But a great ---- (a Southern constellation) began barking at（39,619 字），最短 Cutting 'cross lots, the ghost next scared out of an old aba（15,243 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-caps-sections），拼接正文 3,180 行。 |
+| 篇幅分布 | 平均每章 7,206 字；最长 TUMBLE-BUGS.（26,022 字），最短 ONE WAY TO MAKE A RECORD.（434 字）。 |
 | 原文溯源 | `cache/epub/60755/pg60755.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. But a great ---- (a Southern constellation) began barking at
-2. "Well, if you want to know the truth," Plummer answered, in
-3. Great care is bestowed not only on this machinery on shipboa
-4. The reason given by the University of Chicago for refusing t
-5. Cutting 'cross lots, the ghost next scared out of an old aba
+1. ONE-LEGGED DUCKS.
+2. A VALENTINE PARTY.
+3. CHAPTER VI.
+4. WHEREIN I BECOME AN OFFICER.
+5. INSIDE.]
+6. TUMBLE-BUGS.
+7. ONE OF LINCOLN'S KIND ACTS.
+8. ON COURTESY TO WOMEN AND GIRLS.
+9. LINCOLN AND THE POOR WIDOW.
+10. DISCOVERY OF COPPERPLATE ENGRAVING.
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/6db390b30146/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/6db390b30146/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

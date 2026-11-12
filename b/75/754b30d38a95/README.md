@@ -1,7 +1,7 @@
 # Harper's Round Table, February 9, 1897
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 115,149 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 115,149 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/754b30d38a95/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（115,149 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,029 字；最长 "It was a dreadfully hard position for him, no doubt," said （39,795 字），最短 Canal Street, the principal retail shopping street of the ci（15,187 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-caps-sections），拼接正文 3,231 行。 |
+| 篇幅分布 | 平均每章 6,397 字；最长 A WILD DAY IN '48.（24,968 字），最短 ADVERTISEMENTS.（339 字）。 |
 | 原文溯源 | `cache/epub/60681/pg60681.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. "It was a dreadfully hard position for him, no doubt," said
-2. "Ah, De Brissac! you're on time as usual, and I see that you
-3. Then Leary had his anchor-chains muffled with native mats, a
-4. It is the belief among a number of the young men interested
-5. Canal Street, the principal retail shopping street of the ci
+1. A WILD DAY IN '48.
+2. CHAPTER V.
+3. PUPPIES NEITHER."]
+4. WHY I NEVER REACHED FRANCE.
+5. CONCEALED A GOOD-SIZED TRAP-DOOR.]
+6. WOOD-CARVING.
+7. THE LAWRENCEVILLE GOLF LINKS.
+8. A CURIOSITY OF LITERATURE.
+9. ADVERTISEMENTS.
+10. ON KEEPING YOUR OWN COUNSEL.
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/754b30d38a95/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/754b30d38a95/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

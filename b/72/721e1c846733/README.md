@@ -1,7 +1,7 @@
 # Les français peints par eux-mêmes, tome 1
 
-**作者** Curmer, L. (Henri Léon), 1801-1870 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 49 段 · 994,008 字 ｜ **来源** Project Gutenberg
+**作者** Curmer, L. (Henri Léon), 1801-1870 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 36 章 · 994,008 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/721e1c846733/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（994,008 字）。 |
-| 分章依据 | 按「段」标记切分为 49 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,285 字；最长 Et le salon, où est-il? et de la conversation parisienne, ce（37,569 字），最短 Mais la soif de la spéculation ne dévore pas uniquement les （12,994 字）。 |
+| 分章依据 | 按「章」标记切分为 36 章（auto-caps-sections），拼接正文 20,893 行。 |
+| 篇幅分布 | 平均每章 27,611 字；最长 LA MÈRE D'ACTRICE.（67,106 字），最短 CONNÉTABLE DE MONTMORENCY.»（1,072 字）。 |
 | 原文溯源 | `cache/epub/39765/pg39765.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Et le salon, où est-il? et de la conversation parisienne, ce
-2. Mais a-t-on bien examiné l'importance de ce viscère indispen
-3. Dans cette position à la fois élevée et subalterne, et placé
-4. S'il n'a point de femme pour lui préparer ses repas à domici
-5. Votre belle promeneuse, vous la retrouverez, si vous êtes su
-6. Un soir, pour se distraire, il s'en fut au Gymnase, où l'on
-7. J'ai connu deux types remarquables de la femme politique: le
-8. Levé à sept heures du matin, Théodore est à sept heures et q
-9. La belle comtesse retombe après ces mots dans un morne abatt
-10. Je ne suis pas garde des sceaux et n'ai certes guère envie d
+1. L'ÉDITEUR RECONNAISSANT.（1）
+2. L'ÉDITEUR RECONNAISSANT.（2）
+3. L'ÉTUDIANT EN DROIT.
+4. LE DÉBUTANT LITTÉRAIRE.
+5. LE RAPIN.
+6. UNE FEMME A LA MODE.
+7. II.
+8. IV.
+9. LA MÈRE D'ACTRICE.
+10. CONNÉTABLE DE MONTMORENCY.»
 
-> 共 49 段，[完整目录与正文 →](https://www.bqgmz.top/b/721e1c846733/)
+> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/721e1c846733/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

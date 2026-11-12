@@ -1,7 +1,7 @@
 # Pakolaiset
 
-**作者** Linnankoski, Johannes, 1869-1913 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 6 题 · 155,356 字 ｜ **来源** Project Gutenberg
+**作者** Linnankoski, Johannes, 1869-1913 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 17 章 · 155,356 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7249b4f7be9f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（155,356 字）。 |
-| 分章依据 | 按「题」标记切分为 6 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 25,892 字。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-num），拼接正文 4,733 行。 |
+| 篇幅分布 | 平均每章 9,125 字；最长 17.（13,320 字），最短 13.（5,341 字）。 |
+| 起止 | 始于「1.」，止于「17.」。 |
 | 原文溯源 | `cache/epub/11914/pg11914.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 题）
+## 章节目录（前 10 章）
 
-1. Johannes Linnankoski
-2. PAKOLAISET
-3. Ilmestyi 1908
-4. Sisar katseli ihmetellen: »Sinä kai--kukas muu?»
-5. He nyt astuivat.--
-6. Mutta viima puski niin vihaisesti hänen
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 6 题，[完整目录与正文 →](https://www.bqgmz.top/b/7249b4f7be9f/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/7249b4f7be9f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,20 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（238,508 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,751 字；最长 SECTION I.（97,389 字），最短 SECTION III.（2,956 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 5,747 行。 |
+| 篇幅分布 | 平均每章 39,272 字；最长 SECTION II. _Experiments made on human bodies after death_ 67（101,882 字），最短 PART I.（2,594 字）。 |
 | 原文溯源 | `cache/epub/57267/pg57267.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
 
-1. SECTION I.
-2. SECTION II.
+1. PART I.
+2. SECTION II. _Experiments made on human bodies after death_ 67
 3. SECTION III.
 4. SECTION IV.
 5. SECTION V.
-6. XVIII. When public meetings were held at
+6. APPENDIX.
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/7b80f33a1cc7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

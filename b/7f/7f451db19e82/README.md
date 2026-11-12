@@ -1,7 +1,7 @@
 # Unwritten Literature of Hawaii: The Sacred Songs of the Hula
 
-**作者** Emerson, Nathaniel Bright, 1839-1915 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 8 章 · 507,262 字 ｜ **来源** Project Gutenberg
+**作者** Emerson, Nathaniel Bright, 1839-1915 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 16 部分 · 507,262 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7f451db19e82/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（507,262 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 63,407 字；最长 CANTO I（135,163 字），最短 CANTO IV（1,241 字）。 |
+| 分章依据 | 按「部分」标记切分为 16 部分（fallback-chunk），拼接正文 16,952 行。 |
+| 篇幅分布 | 平均每部分 31,703 字；最长 第 8 部分（34,194 字），最短 第 16 部分（20,796 字）。 |
 | 原文溯源 | `cache/epub/20299/pg20299.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 章）
+## 章节目录（前 10 部分）
 
-1. CANTO I
-2. CANTO II
-3. CANTO III
-4. CANTO IV
-5. CANTO V
-6. [Footnote 293: _A kau ka La, i na pali_.
-7. This mele, based on a story of amorous r
-8. The hula _hoo-na-ná_—to quiet, amuse—was
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/7f451db19e82/)
+> 共 16 部分，[完整目录与正文 →](https://www.bqgmz.top/b/7f451db19e82/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Life of Napoleon Bonaparte, Volume IV.
 
 **作者** Scott, Walter, 1771-1832 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 26 章 · 987,668 字 ｜ **来源** Project Gutenberg
+**规模** 27 章 · 987,668 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6e0833061212/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（987,668 字）。 |
-| 分章依据 | 按「章」标记切分为 26 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 37,987 字；最长 CHAPTER LXXIV.（78,667 字），最短 CHAPTER LV.（23,650 字）。 |
-| 起止 | 始于「CHAPTER XLIX.」，止于「CHAPTER LXXIV.」。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-chapter），拼接正文 19,755 行。 |
+| 篇幅分布 | 平均每章 35,775 字；最长 CHAPTER LXI.（55,815 字），最短 CHAPTER LV.（23,650 字）。 |
 | 原文溯源 | `cache/epub/48840/pg48840.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER LVII.
 10. CHAPTER LVIII.
 
-> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/6e0833061212/)
+> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/6e0833061212/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

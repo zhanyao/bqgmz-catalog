@@ -1,7 +1,7 @@
 # The Nature of a Gospel Church A Confession of Evangelical Principles; and the Members' Covenant. Intended for the Use of the Church of Christ.
 
-**作者** Church, J. (John), 1780?-1825? ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 6 题 · 29,365 字 ｜ **来源** Project Gutenberg
+**作者** Church, J. (John), 1780?-1825? ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 29,365 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/72573598b0d5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（29,365 字）。 |
-| 分章依据 | 按「题」标记切分为 6 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,894 字。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-roman-title），拼接正文 644 行。 |
+| 篇幅分布 | 平均每章 824 字。 |
+| 起止 | 始于「I. I BELIEVE, that the Scriptures of the Old and New Testament are the」，止于「XVIII. I believe, that the felicity of the Saints will be eternal; and I」。 |
 | 原文溯源 | `cache/epub/58014/pg58014.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 题）
+## 章节目录（前 10 章）
 
-1. AND
-2. THE MEMBERS’ COVENANT.
-3. Intended for the Use of
-4. THE MEMBERS’ COVENANT.
-5. WE AGREE,
-6. FINIS.
+1. I. I BELIEVE, that the Scriptures of the Old and New Testament are the
+2. II. I believe, that there is but One only, living, and true God; that
+3. III. I believe that before the World began, God did elect a certain
+4. IV. I believe, that God made all things in Creation, out of nothing, to
+5. V. I believe, that there is one Mediator between God and Man; the Man,
+6. VI. I believe that God made Man upright; but mutable and liable to fall:
+7. VII. I believe, that all Mankind are conceived and born in sin, Children
+8. VIII. I believe, that according to the eternal appointment of God the
+9. IX. I believe, that the matter of the Sinners’ justification before a
+10. X. I believe, that all the objects of eternal love, the subjects of his
 
-> 共 6 题，[完整目录与正文 →](https://www.bqgmz.top/b/72573598b0d5/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/72573598b0d5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

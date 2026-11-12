@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（350,854 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 35,085 字；最长 CHAPTER IX.（64,076 字），最短 CHAPTER IV.（19,140 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 7,911 行。 |
+| 篇幅分布 | 平均每章 34,718 字；最长 APPENDIX.（105,424 字），最短 CHAPTER IV.（19,140 字）。 |
 | 原文溯源 | `cache/epub/74676/pg74676.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +26,9 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
-10. The account given of the visit of the Qu
+10. APPENDIX.
 
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/77bd098e458d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

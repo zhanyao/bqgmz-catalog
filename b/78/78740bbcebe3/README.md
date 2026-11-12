@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（404,733 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,807 字；最长 CHAPTER I: THE WAR OF THE SUCCESSION（28,961 字），最短 CHAPTER IX: THE ADVANCE INTO VALENCIA（18,816 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 8,895 行。 |
+| 篇幅分布 | 平均每章 23,673 字；最长 CHAPTER XI: VALENCIA（28,628 字），最短 CHAPTER IX: THE ADVANCE INTO VALENCIA（18,816 字）。 |
 | 起止 | 始于「CHAPTER I: THE WAR OF THE SUCCESSION」，止于「CHAPTER XVII: HOME」。 |
 | 原文溯源 | `cache/epub/7318/pg7318.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/78740bbcebe3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（238,614 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,558 字；最长 CHAPTER III: "THE METSKIE TSAR"（18,704 字），最短 CHAPTER II: THE HOMECOMING（6,243 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 5,192 行。 |
+| 篇幅分布 | 平均每章 12,554 字；最长 CHAPTER III: "THE METSKIE TSAR"（18,704 字），最短 CHAPTER II: THE HOMECOMING（6,243 字）。 |
 | 起止 | 始于「CHAPTER I: THE SINGING-BIRD AND THE BAROMETER」，止于「CHAPTER XIX: THE LITTLE FOXES」。 |
 | 原文溯源 | `cache/epub/14540/pg14540.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/7f501aa44444/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

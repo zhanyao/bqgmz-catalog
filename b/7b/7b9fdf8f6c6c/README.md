@@ -1,7 +1,7 @@
 # Punch, or the London Charivari, Volume 100, March 14, 1891
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 34 题 · 50,304 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 9 篇 · 50,304 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7b9fdf8f6c6c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（50,304 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,479 字。 |
+| 分章依据 | 按「篇」标记切分为 9 篇（通用标记切分），拼接正文 1,442 行。 |
+| 篇幅分布 | 平均每篇 4,848 字。 |
 | 原文溯源 | `cache/epub/13186/pg13186.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 篇）
 
-1. PUNCH,
-2. OR THE LONDON CHARIVARI.
-3. VOL. 100.
-4. SPECIMENS FROM MR. PUNCH'S SCAMP-ALBUM.
-5. NO. III.--THE BIOGRAPHER.
-6. IAGO ON THE GREAT SERMON QUESTION.
-7. DESDEMONA TO THE AUTHOR OF "DORIAN GRAY."
-8. BY A TIRED AND CYNICAL CRITIC OF CURRENT FICTION.
-9. THE FIRST ACT--AND THE LAST.
-10. UNDER A CIVIL COMMANDER-IN-CHIEF.
+1. LIKE 'OME!"]
+2. BOUNDING BOB, _DITTO, NEWMARKET._)
+3. (_A PROPOS OF HIS PARAGRAPHIC PREFACE._)
+4. _Big Ben_. "OH, FLATTERY'S THE BANE OF FRIENDSHIP! JUST LOOK AT YOU
+5. (_A DEPARTMENTAL TRAGI-COMEDY, IN ACTIVE REHEARSAL._)
+6. MANAGE IT WITH A DRAG NOW AND THEN!"
+7. (_BY A LABOURING ELECTOR._)
+8. (_SOME WAY AFTER A CELEBRATED BOATING SONG._)
+9. _FROM THE RAILWAY IMPROVEMENT PHRASE-BOOK._
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/7b9fdf8f6c6c/)
+> 共 9 篇，[完整目录与正文 →](https://www.bqgmz.top/b/7b9fdf8f6c6c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,22 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（656,939 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 82,117 字；最长 CHAPTER IV.（101,075 字），最短 CHAPTER I.（57,251 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-toc-title-list），拼接正文 13,953 行。 |
+| 篇幅分布 | 平均每章 81,680 字。 |
 | 原文溯源 | `cache/epub/30756/pg30756.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. § LVII. Let us now return to Venice, whe
-4. CHAPTER III.
-5. CHAPTER IV.
-6. It is very curious to find the traces of
-7. Candlemas, ancient symbols of, ii. 272.
-8. N
+1. THIRD, OR RENAISSANCE, PERIOD.
+2. EARLY RENAISSANCE.
+3. § XXXVIII. And if we think over this mat
+4. § VI. There is no occasion to examine, o
+5. § VI. Here, therefore, let me finally an
+6. 1, 2, 3, 4. In the upper gallery of apse
+7. Faërie Queen, Spenser's, value of, theol
+8. "By Tintoret only has this unimaginable
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/771d2eb312ac/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

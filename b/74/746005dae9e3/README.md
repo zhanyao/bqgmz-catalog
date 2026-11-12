@@ -11,19 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（342,809 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,425 字；最长 CHAPTER I.--THE TERRORS OF THE OCEAN.（85,455 字），最短 CHAPTER XI.--THUS HAND IN HAND THE BROTHERS SLEEP.（6,406 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 10,461 行。 |
+| 篇幅分布 | 平均每章 21,363 字。 |
 | 原文溯源 | `cache/epub/39729/pg39729.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.--THE TERRORS OF THE OCEAN.
-2. CHAPTER II.--A FEARFUL EXPERIENCE.
-3. CHAPTER III.--BOUND FOR SOUTHERN SEAS OF ICE.
-4. CHAPTER IV.--ON THE WINGS OF THE WIND.
-5. CHAPTER V.--JOHNNIE SHINGLES AND OLD MR. PEN.
-6. CHAPTER VI.--"BACK WATER ALL! FOR LIFE, BOYS, FOR LIFE!"
-7. CHAPTER VII.--"HERE'S TO THE LOVED ONES AT HOME."
+1. BOOK I.
+2. BOOK II.
+3. BOOK III.
+4. CHAPTER IV.--WILD SPORTS ON MOORLAND AND ICE.
+5. CHAPTER V.--A HIGHLAND BLIZZARD--THE LOST SHEEP AND SHEPHERD.
+6. CHAPTER VI.--"THE BREATH OF GOD WAS OVER ALL THE LAND."
+7. CHAPTER VII.--THE PARTING COMES AT LAST.
 8. CHAPTER VIII.--CAPTAIN TALBOT SPINS A YARN.
 9. CHAPTER IX.--TONGUES OF LURID FIRE, BLUE, GREEN, AND DEEPEST CRIMSON.
 10. CHAPTER X.--SO POOR CONAL MUST PERISH!
@@ -31,4 +31,4 @@
 > 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/746005dae9e3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

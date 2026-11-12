@@ -1,7 +1,7 @@
 # Tales for Young and Old
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 30 题 · 300,821 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 14 章 · 300,821 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7b850a3314e5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（300,821 字）。 |
-| 分章依据 | 按「题」标记切分为 30 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,027 字。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-toc-title-list），拼接正文 6,406 行。 |
+| 篇幅分布 | 平均每章 21,460 字；最长 THE HOME-WRECK（41,256 字），最短 BILLY EGG（8,200 字）。 |
 | 原文溯源 | `cache/epub/10454/pg10454.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. PREFACE.
-2. W. & R.C.
-3. CONTENTS.
-4. TALES FOR YOUNG AND OLD.
-5. THE BRIDE'S JOURNEY.
-6. BY MRS CROWE.
-7. THE HOME-WRECK.
-8. LOVE AT FIRST SIGHT.
-9. A TALE OF THE SIOUX INDIANS.
-10. BY PERCY B. ST JOHN.
+1. THE BRIDE'S JOURNEY
+2. THE HOME-WRECK
+3. LOVE AT FIRST SIGHT
+4. LUCY FENNEL
+5. BILLY EGG
+6. THE PLEDGE REDEEMED
+7. THE TREE AND THE FOREST
+8. THE THREE FRIENDS
+9. THE ARTIST'S DAUGHTER
+10. THE BLIND MAN OF ARGENTEUIL
 
-> 共 30 题，[完整目录与正文 →](https://www.bqgmz.top/b/7b850a3314e5/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/7b850a3314e5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

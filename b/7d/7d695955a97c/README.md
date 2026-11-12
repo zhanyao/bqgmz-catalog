@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（174,747 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 29,124 字；最长 CHAPTER I. The Coming Of Bruce（37,088 字），最短 CHAPTER II. The Pest（25,427 字）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 4,295 行。 |
+| 篇幅分布 | 平均每章 28,928 字；最长 CHAPTER I. The Coming Of Bruce（35,910 字），最短 CHAPTER II. The Pest（25,427 字）。 |
 | 起止 | 始于「CHAPTER I. The Coming Of Bruce」，止于「CHAPTER VI. The Werewolf」。 |
 | 原文溯源 | `cache/epub/2391/pg2391.txt`（Project Gutenberg） |
 
@@ -28,4 +28,4 @@
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/7d695955a97c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

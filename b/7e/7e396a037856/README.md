@@ -1,7 +1,7 @@
 # Nälkätalvena
 
-**作者** Kataja, Väinö, 1867-1914 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 7 题 · 188,669 字 ｜ **来源** Project Gutenberg
+**作者** Kataja, Väinö, 1867-1914 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 13 章 · 188,669 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7e396a037856/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（188,669 字）。 |
-| 分章依据 | 按「题」标记切分为 7 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 26,952 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-num），拼接正文 5,402 行。 |
+| 篇幅分布 | 平均每章 14,505 字；最长 4.（31,043 字），最短 13.（8,547 字）。 |
+| 起止 | 始于「1.」，止于「13.」。 |
 | 原文溯源 | `cache/epub/74697/pg74697.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 题）
+## 章节目录（前 10 章）
 
-1. NÄLKÄTALVENA
-2. Katovuoden kuvaus
-3. VÄINÖ KATAJA
-4. Mies lyöttäysi uudelleen maata ja vaimo alkoi siistiämään huonetta
-5. Ja he vaihtoivat kenkiä
-6. Oli siis hyvin laihat eineet Kustissa
-7. Mutta mennessään Toikan sivu, osui Helena olemaan pihalla
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 7 题，[完整目录与正文 →](https://www.bqgmz.top/b/7e396a037856/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/7e396a037856/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

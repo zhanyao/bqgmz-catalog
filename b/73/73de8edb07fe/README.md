@@ -1,7 +1,7 @@
 # The Elements of Child-protection
 
 **作者** Engel, Sigmund; Paul, Eden, 1865-1944 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 7 章 · 510,214 字 ｜ **来源** Project Gutenberg
+**规模** 34 章 · 510,214 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/73de8edb07fe/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（510,214 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 72,887 字；最长 CHAPTER I（227,346 字），最短 CHAPTER V（12,772 字）。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-chapter），拼接正文 11,148 行。 |
+| 篇幅分布 | 平均每章 14,443 字。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER IV（部7）」。 |
 | 原文溯源 | `cache/epub/58787/pg58787.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 章）
+## 章节目录（前 10 章）
 
 1. CHAPTER I
 2. CHAPTER II
 3. CHAPTER III
 4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. _The Radical Solution of the Problem._--
+5. CHAPTER I（部2）
+6. CHAPTER II（部2）
+7. CHAPTER III（部2）
+8. CHAPTER IV（部2）
+9. CHAPTER V（部2）
+10. CHAPTER VI（部2）
 
-> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/73de8edb07fe/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/73de8edb07fe/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

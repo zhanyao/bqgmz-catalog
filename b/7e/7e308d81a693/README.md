@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（402,329 字）。 |
-| 分章依据 | 按「章」标记切分为 28 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,368 字；最长 CHAPTER XI.--TAFFY WITH THE PIGTAIL.（30,944 字），最短 CHAPTER V.--CURSECOWL.（3,882 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-chapter），拼接正文 8,714 行。 |
+| 篇幅分布 | 平均每章 14,197 字；最长 CHAPTER XI.--TAFFY WITH THE PIGTAIL.（30,944 字），最短 CHAPTER V.--CURSECOWL.（3,882 字）。 |
 | 起止 | 始于「CHAPTER I.--OUR OLD GRANFATHER.」，止于「CHAPTER XXVIII.--SERIOUS MUSINGS.」。 |
 | 原文溯源 | `cache/epub/20767/pg20767.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/7e308d81a693/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

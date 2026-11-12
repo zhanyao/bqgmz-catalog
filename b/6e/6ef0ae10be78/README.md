@@ -1,7 +1,7 @@
 # The Mirror of Literature, Amusement, and Instruction. Volume 12, No. 348, December 27, 1828
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 43 题 · 60,252 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 3 章 · 60,252 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6ef0ae10be78/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（60,252 字）。 |
-| 分章依据 | 按「题」标记切分为 43 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,401 字。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-caps-sections），拼接正文 1,698 行。 |
+| 篇幅分布 | 平均每章 20,084 字。 |
 | 原文溯源 | `cache/epub/11445/pg11445.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 章）
 
-1. THE MIRROR OF LITERATURE, AMUSEMENT, AND INSTRUCTION.
-2. CURIOUS STONE PULPIT.
-3. A CORRESPONDENT.
-4. LAST DAYS OF, AND ROUGH NOTES ON, 1828.
-5. L.E.L.
-6. VYVYAN.
-7. ODE TO MORPHEUS.
-8. HUGH DELMORE.
-9. ON IDLENESS.
-10. A CORRESPONDENT.
+1. THE NOVELIST
+2. THE WOES OF WEALTH.
+3. A FRIEND.
 
-> 共 43 题，[完整目录与正文 →](https://www.bqgmz.top/b/6ef0ae10be78/)
+> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/6ef0ae10be78/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

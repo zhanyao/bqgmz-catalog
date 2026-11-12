@@ -1,7 +1,7 @@
 # Miss Leslie's New Cookery Book
 
-**作者** Leslie, Eliza, 1787-1858 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 36 段 · 728,657 字 ｜ **来源** Project Gutenberg
+**作者** Leslie, Eliza, 1787-1858 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 728,657 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/73e525b5226f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（728,657 字）。 |
-| 分章依据 | 按「段」标记切分为 36 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,240 字；最长 FAMILY TOMATO SOUP.--Take four pounds of the lean of a good （39,393 字），最短 Soup, almond, 58.（7,687 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-caps-sections），拼接正文 17,839 行。 |
+| 篇幅分布 | 平均每章 32,093 字；最长 POULTRY AND GAME.（1）（55,542 字），最短 ANIMALS（878 字）。 |
 | 原文溯源 | `cache/epub/40943/pg40943.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. FAMILY TOMATO SOUP.--Take four pounds of the lean of a good
-2. COCOA-NUT SOUP.--Take eight calves' feet (two sets) that hav
-3. FRIDAY SOUP.--_For summer._--This is a fast-day soup. Pare a
-4. ROASTED SALMON.--Take a large piece of fine fresh salmon, cu
-5. Oysters will be found much the best when fried in grated bre
-6. TO DRESS A TURTLE.--The turtle should be taken out of water,
-7. CORNED OR SALTED BEEF.--For boiling, there is no piece of co
-8. MEAT PIES--May be made in the above manner of lamb, veal, or
-9. LAMB.--The vein in the neck of the fore-quarter should be bl
-10. If lettuces are in season, quarter a fresh one, and lay it u
+1. PREFACE.
+2. ANIMALS
+3. SOUPS.（1）
+4. SOUPS.（2）
+5. SHELL FISH.
+6. BEEF.
+7. MUTTON.
+8. VEAL.
+9. PORK.
+10. POULTRY AND GAME.（1）
 
-> 共 36 段，[完整目录与正文 →](https://www.bqgmz.top/b/73e525b5226f/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/73e525b5226f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

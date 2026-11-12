@@ -1,7 +1,7 @@
 # Halbtier: Roman
 
-**作者** Böhlau, Helene, 1859-1940 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 54 题 · 238,263 字 ｜ **来源** Project Gutenberg
+**作者** Böhlau, Helene, 1859-1940 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 13 章 · 238,263 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7633f95198a5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（238,263 字）。 |
-| 分章依据 | 按「题」标记切分为 54 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,412 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-num），拼接正文 7,807 行。 |
+| 篇幅分布 | 平均每章 18,319 字；最长 13.（32,160 字），最短 11.（8,628 字）。 |
+| 起止 | 始于「1.」，止于「13.」。 |
 | 原文溯源 | `cache/epub/47140/pg47140.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Fünfte Auflage
-2. Wie aus tiefem Schlaf erwacht sagte sie »Papa?«
-3. Meine Stiefel!«
-4. Wo ist denn die Marie?«
-5. So gemein! -- so gemein! so gemein!«
-6. Ach, wie man lebt, wie ein Schwein!«
-7. Pfui! Pfui! Pfui! Pfui!«
-8. Da sitzt er nun!« --
-9. Er trat zum Korridor hinaus und rief donnernd: »Marie! Isolde!«
-10. Übermorgen schon.«
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 54 题，[完整目录与正文 →](https://www.bqgmz.top/b/7633f95198a5/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/7633f95198a5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

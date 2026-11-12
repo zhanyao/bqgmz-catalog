@@ -1,0 +1,27 @@
+# Across the Sea and Other Poems.
+
+**作者** Chard, Thomas S. ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 3 章 · 25,104 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/7cddb98bee6c/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（25,104 字）。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-toc-title-list），拼接正文 974 行。 |
+| 篇幅分布 | 平均每章 8,004 字。 |
+| 原文溯源 | `cache/epub/18574/pg18574.txt`（Project Gutenberg） |
+
+## 章节目录（前 3 章）
+
+1. Across the Sea,
+2. The Seven Sleepers,
+3. A Legend of St. John,
+
+> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/7cddb98bee6c/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

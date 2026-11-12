@@ -1,7 +1,7 @@
 # Frank H. Nelson of Cincinnati
 
-**作者** Herrick, Warren Crocker, 1898- ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 170,683 字 ｜ **来源** Project Gutenberg
+**作者** Herrick, Warren Crocker, 1898- ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 170,683 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7a91aef5479d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（170,683 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,335 字；最长 In the great days of his preaching, he took us who were his（39,763 字），最短 --_Anon_（10,526 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-num），拼接正文 3,672 行。 |
+| 篇幅分布 | 平均每章 18,358 字；最长 4（33,383 字），最短 9（2,583 字）。 |
 | 原文溯源 | `cache/epub/26980/pg26980.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 9 章）
 
-1. In the great days of his preaching, he took us who were his
-2. In 1913 and again in 1937, floods devastated the Ohio River
-3. He exercised this same solicitude for us young clergymen, so
-4. Frank Nelson believed so thoroughly in the work of the socia
-5. "You can't change me, old man. I am the last of the black Pr
-6. Frank Nelson combined a happy idealism with common sense, an
-7. "All the hold those people have on God is me. It is terrible
-8. --_Anon_
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/7a91aef5479d/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/7a91aef5479d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

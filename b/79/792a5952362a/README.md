@@ -1,7 +1,7 @@
 # The Fair Haven
 
 **作者** Butler, Samuel, 1835-1902; Streatfeild, R. A. (Richard Alexander), 1866-1919 [Contributor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 389,583 字 ｜ **来源** Project Gutenberg
+**规模** 11 章 · 389,583 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/792a5952362a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（389,583 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 38,958 字；最长 Chapter I（125,634 字），最短 Chapter IV（17,789 字）。 |
-| 起止 | 始于「Chapter I」，止于「Chapter X」。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-caps-sections），拼接正文 7,661 行。 |
+| 篇幅分布 | 平均每章 35,416 字；最长 R. A. STREATFEILD.（3）（56,020 字），最短 FOOTNOTES（405 字）。 |
 | 原文溯源 | `cache/epub/6092/pg6092.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Chapter I
-2. Chapter II
-3. Chapter III
-4. Chapter IV
-5. Chapter V
-6. Chapter VI
-7. Chapter VII
-8. Chapter VIII
-9. Chapter IX
-10. Chapter X
+1. INTRODUCTION
+2. R. A. STREATFEILD.（1）
+3. R. A. STREATFEILD.（2）
+4. R. A. STREATFEILD.（3）
+5. R. A. STREATFEILD.（4）
+6. O.]（1）
+7. O.]（2）
+8. O.]（3）
+9. O.]（4）
+10. VIII
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/792a5952362a/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/792a5952362a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

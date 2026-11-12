@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（404,577 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,183 字；最长 CHAPTER I. THE GRAND TOUR OF JEAN JACQUES BARBILLE（30,039 字），最短 CHAPTER III. “TO-MORROW”（6,458 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 9,370 行。 |
+| 篇幅分布 | 平均每章 15,914 字；最长 CHAPTER XVI. MISFORTUNES COME NOT SINGLY（28,583 字），最短 CHAPTER III. “TO-MORROW”（6,458 字）。 |
 | 起止 | 始于「CHAPTER I. THE GRAND TOUR OF JEAN JACQUES BARBILLE」，止于「CHAPTER XXV. WHAT WOULD YOU HAVE DONE?」。 |
 | 原文溯源 | `cache/epub/6280/pg6280.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/7b42b165c699/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

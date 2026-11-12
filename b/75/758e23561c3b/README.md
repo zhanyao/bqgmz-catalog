@@ -1,7 +1,7 @@
 # Fate Knocks at the Door: A Novel
 
-**作者** Comfort, Will Levington, 1878-1932 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 25 段 · 516,984 字 ｜ **来源** Project Gutenberg
+**作者** Comfort, Will Levington, 1878-1932 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 40 章 · 516,984 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/758e23561c3b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（516,984 字）。 |
-| 分章依据 | 按「段」标记切分为 25 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,679 字；最长 In the fall of 1899, David Cairns, the youngest of the Ameri（39,224 字），最短 "I believed a despicable thing of Andrew Bedient--and sent h（16,449 字）。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-toc-title-list），拼接正文 12,384 行。 |
+| 篇幅分布 | 平均每章 12,871 字；最长 Fourth Chapter: That Adelaide Passion（20,225 字），最短 Fortieth Chapter: Full Day Upon the Plain（5,066 字）。 |
 | 原文溯源 | `cache/epub/11655/pg11655.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. In the fall of 1899, David Cairns, the youngest of the Ameri
-2. ... So often, Bedient watched admiringly while Cairns wrote.
-3. For the first time it struck Bedient that he must leave. He
-4. "Yes," the _Sannyasin_ answered simply, but a moment later,
-5. "There was something about you then, Andrew," (meaning the l
-6. Natives came from the entire Island to smoke and drink and w
-7. "Without knowing it, Bedient has made me see that I haven't
-8. TWO DAVIDS COME TO BETH
-9. "Far too warm for shawls," he laughed. "I was only getting i
-10. "Oh, he'll come to you, right enough. I supposed he had....
+1. First Chapter: The Great Wind Strikes
+2. Second Chapter: The Pack-Train in Luzon
+3. Third Chapter: Red Pigment of Service
+4. Fourth Chapter: That Adelaide Passion
+5. Fifth Chapter: A Flock of Flying Swans
+6. Sixth Chapter: That Island Somewhere
+7. Seventh Chapter: _Andante con Moto
+8. Eighth Chapter: The Man from _The Pleiad
+9. Ninth Chapter: The Long-Awaited Woman
+10. Tenth Chapter: The Jews and the Romans
 
-> 共 25 段，[完整目录与正文 →](https://www.bqgmz.top/b/758e23561c3b/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/758e23561c3b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

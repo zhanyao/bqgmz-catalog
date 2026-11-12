@@ -1,7 +1,7 @@
 # La Vie de Madame Élisabeth, soeur de Louis XVI, Volume 1
 
-**作者** Beauchesne, A. de (Alcide), 1804-1873; Dupanloup, Félix, 1802-1878 [Commentator] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 47 段 · 959,769 字 ｜ **来源** Project Gutenberg
+**作者** Beauchesne, A. de (Alcide), 1804-1873; Dupanloup, Félix, 1802-1878 [Commentator] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 25 章 · 959,769 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7188a2586781/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（959,769 字）。 |
-| 分章依据 | 按「段」标记切分为 47 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,420 字；最长 Louis XVI, la Reine et Madame Élisabeth ont eu à souffrir d'（39,577 字），最短 Cet avantage, Sire, elle le tient des Rois vos prédécesseurs（17,541 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-roman-title），拼接正文 20,890 行。 |
+| 篇幅分布 | 平均每章 70 字。 |
+| 起止 | 始于「I. Lettres du Dauphin et de la Dauphine adressées à madame」，止于「XXV. Proclamation du Roi après l'émeute du 20 juin 565」。 |
 | 原文溯源 | `cache/epub/40194/pg40194.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Louis XVI, la Reine et Madame Élisabeth ont eu à souffrir d'
-2. Mais quelque succès que pussent attirer au Dauphin l'élévati
-3. Le respect que le Dauphin professait pour son père ne lui pe
-4. De nombreux mariages, conclus presque à la même époque, avai
-5. Le château de Versailles est désert. Courtisans, serviteurs,
-6. Vers cette époque, à certains jours, après les études sérieu
-7. Le dimanche 22, jour de la Pentecôte, et le lundi 23, Madame
-8. Le séjour de la cour dans cette résidence se prolongea jusqu
-9. »L'ambassadeur, après s'être approché de Sa Majesté, la comp
-10. La famille royale ne fit son entrée à Turin que le 30 septem
+1. I. Lettres du Dauphin et de la Dauphine adressées à madame
+2. II. Plan d'étude pour l'éducation du duc de Berry (Dauphin,
+3. III. Mémoire de la Noblesse, remis à Louis XVI par l'évêque de
+4. IV. Réponse du Roi au Mémoire de la Noblesse 497
+5. V. Note sur les prières adressées de toutes parts pour le
+6. VI. Discours de Gresset, directeur de l'Académie française,
+7. VII. Note sur l'auteur de _Vert-Vert_ 500
+8. VIII. Récit officiel pour le bout de l'an du Roi Louis XV,
+9. IX. Discours prononcé par Sidi-Abderahman-Bediri-Aga, le
+10. X. Lettre de M. de Vergennes, ministre des affaires
 
-> 共 47 段，[完整目录与正文 →](https://www.bqgmz.top/b/7188a2586781/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/7188a2586781/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Killer（#16589）
 
 **作者** White, Stewart Edward, 1873-1946 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 19 章 · 405,927 字 ｜ **来源** Project Gutenberg
+**规模** 43 章 · 405,927 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/74f40ef0faff/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（405,927 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,364 字；最长 "You miserable hounds!" he roared.（88,894 字），最短 CHAPTER VI（4,020 字）。 |
+| 分章依据 | 按「章」标记切分为 43 章（auto-chapter），拼接正文 10,084 行。 |
+| 篇幅分布 | 平均每章 9,405 字；最长 CHAPTER V（部4）（30,768 字），最短 CHAPTER I（部4）（2,579 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XV（部5）」。 |
 | 原文溯源 | `cache/epub/16589/pg16589.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/74f40ef0faff/)
+> 共 43 章，[完整目录与正文 →](https://www.bqgmz.top/b/74f40ef0faff/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Stronghand; or, The Noble Revenge
 
 **作者** Aimard, Gustave, 1818-1883; Wraxall, Lascelles, Sir, 1828-1865 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 27 章 · 550,479 字 ｜ **来源** Project Gutenberg
+**规模** 39 章 · 550,479 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/76cba0aab3a0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（550,479 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,388 字；最长 The adventurer was not convinced; still,（74,217 字），最短 CHAPTER XVI.（11,471 字）。 |
+| 分章依据 | 按「章」标记切分为 39 章（auto-chapter），拼接正文 14,539 行。 |
+| 篇幅分布 | 平均每章 14,092 字；最长 CHAPTER XXV.（28,481 字），最短 CHAPTER XVI.（11,471 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XL.」。 |
 | 原文溯源 | `cache/epub/44672/pg44672.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/76cba0aab3a0/)
+> 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/76cba0aab3a0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Mémoires de Miss Coote: Exploits d'une fouetteuse britannique racontés par elle-même
 
-**作者** Coote, Rosa Belinda ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 14 题 · 181,556 字 ｜ **来源** Project Gutenberg
+**作者** Coote, Rosa Belinda ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 6 章 · 181,556 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6a45223d1ad3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（181,556 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 12,968 字。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-caps-sections），拼接正文 4,304 行。 |
+| 篇幅分布 | 平均每章 30,259 字；最长 LETTRE III（1）（55,080 字），最短 LETTRE VII（18,481 字）。 |
 | 原文溯源 | `cache/epub/64830/pg64830.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 章）
 
-1. Collection Cressida
-2. LETTRE I
-3. LETTRE II
-4. LETTRE III
-5. LETTRE IV
-6. Je reste, chère Nelly, votre affectionnée
-7. LETTRE V
-8. LETTRE VI
-9. Je termine ma lettre sur ce pittoresque récit et vous prie de me croire
-10. LETTRE VII
+1. LETTRE II
+2. LETTRE III（1）
+3. LETTRE III（2）
+4. LETTRE VII
+5. LETTRE VIII
+6. LETTRE X
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/6a45223d1ad3/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/6a45223d1ad3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

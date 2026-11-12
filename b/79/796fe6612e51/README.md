@@ -1,7 +1,7 @@
 # The History of Orange County New York
 
-**作者** Headley, Russel, 1852- [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 51 章 · 2,018,671 字 ｜ **来源** Project Gutenberg
+**作者** Headley, Russel, 1852- [Editor] ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 50 部分 · 2,018,671 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/796fe6612e51/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（2,018,671 字）。 |
-| 分章依据 | 按「章」标记切分为 51 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,581 字。 |
+| 分章依据 | 按「部分」标记切分为 50 部分（fallback-chunk），拼接正文 45,637 行。 |
+| 篇幅分布 | 平均每部分 40,373 字；最长 第 17 部分（42,445 字），最短 第 50 部分（12,942 字）。 |
 | 原文溯源 | `cache/epub/49260/pg49260.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 部分）
 
-1. CHAPTER I-X
-2. CHAPTER XI.
-3. CHAPTER XII.
-4. CHAPTER XIII.
-5. CHAPTER XIV.
-6. CHAPTER XV.
-7. CHAPTER XVI.
-8. CHAPTER XVII.
-9. CHAPTER XVIII.
-10. CHAPTER XIX.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 51 章，[完整目录与正文 →](https://www.bqgmz.top/b/796fe6612e51/)
+> 共 50 部分，[完整目录与正文 →](https://www.bqgmz.top/b/796fe6612e51/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

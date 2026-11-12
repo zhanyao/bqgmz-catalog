@@ -1,7 +1,7 @@
 # On to Pekin; or, Old Glory in China
 
 **作者** Stratemeyer, Edward, 1862-1930; Shute, A. B. (Augustus Burnham), 1851-1906 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 27 章 · 274,804 字 ｜ **来源** Project Gutenberg
+**规模** 31 章 · 274,804 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7336f7dce5f6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（274,804 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,177 字；最长 CHAPTER IV（53,739 字），最短 CHAPTER XXVIII（6,449 字）。 |
-| 起止 | 始于「CHAPTER IV」，止于「CHAPTER XXXII」。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-chapter），拼接正文 7,810 行。 |
+| 篇幅分布 | 平均每章 8,701 字；最长 CHAPTER V（15,612 字），最短 CHAPTER XXVIII（6,449 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXXII」。 |
 | 原文溯源 | `cache/epub/69749/pg69749.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER IV
-2. CHAPTER VII
-3. CHAPTER VIII
-4. CHAPTER IX
-5. CHAPTER X
-6. CHAPTER XI
-7. CHAPTER XII
-8. CHAPTER XIII
-9. CHAPTER XIV
-10. CHAPTER XV
+1. CHAPTER I
+2. CHAPTER II
+3. CHAPTER III
+4. CHAPTER IV
+5. CHAPTER V
+6. CHAPTER VII
+7. CHAPTER VIII
+8. CHAPTER IX
+9. CHAPTER X
+10. CHAPTER XI
 
-> 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/7336f7dce5f6/)
+> 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/7336f7dce5f6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

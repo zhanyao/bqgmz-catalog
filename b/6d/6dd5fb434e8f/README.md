@@ -1,7 +1,7 @@
 # Airiselän tukinajossa: Kuvaus Lapin rajoilta
 
-**作者** Kataja, Väinö, 1867-1914 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 5 段 · 117,217 字 ｜ **来源** Project Gutenberg
+**作者** Kataja, Väinö, 1867-1914 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 8 章 · 117,217 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6dd5fb434e8f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（117,217 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,443 字；最长 Tukkireet olivat jo korjatut aikoja sitten ja kesäkuumilla t（39,995 字），最短 Ja siitä alkoivat muistella, kuinka paljon tapaturmia tukina（17,321 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-num），拼接正文 3,376 行。 |
+| 篇幅分布 | 平均每章 14,640 字；最长 2.（24,866 字），最短 7.（8,732 字）。 |
+| 起止 | 始于「1.」，止于「8.」。 |
 | 原文溯源 | `cache/epub/55043/pg55043.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 8 章）
 
-1. Tukkireet olivat jo korjatut aikoja sitten ja kesäkuumilla t
-2. Hän palasi pirttiin, mutta ei puhunut havainnostaan mitään,
-3. "Varmaa se on... Sen verran meille sentään kertoivat oikeat
-4. "Lyönyt kangella! Joku toinen!"
-5. Ja siitä alkoivat muistella, kuinka paljon tapaturmia tukina
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/6dd5fb434e8f/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/6dd5fb434e8f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

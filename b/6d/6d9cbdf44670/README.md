@@ -1,7 +1,7 @@
 # Why We Punctuate; or, Reason Versus Rule in the Use of Marks
 
 **作者** Klein, William Livingston, 1851- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 9 章 · 285,020 字 ｜ **来源** Project Gutenberg
+**规模** 15 章 · 285,020 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6d9cbdf44670/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,12 +11,12 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（285,020 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 31,668 字；最长 CHAPTER IX（95,959 字），最短 CHAPTER VI（19,032 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER IX」。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 7,911 行。 |
+| 篇幅分布 | 平均每章 17,419 字；最长 CHAPTER VII（30,545 字），最短 CHAPTER XIV（5,584 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XV」。 |
 | 原文溯源 | `cache/epub/47126/pg47126.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 章）
+## 章节目录（前 10 章）
 
 1. CHAPTER I
 2. CHAPTER II
@@ -27,8 +27,9 @@
 7. CHAPTER VII
 8. CHAPTER VIII
 9. CHAPTER IX
+10. CHAPTER X
 
-> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/6d9cbdf44670/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/6d9cbdf44670/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

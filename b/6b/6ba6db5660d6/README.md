@@ -1,7 +1,7 @@
 # Aaveiden näkijä eli Kuvauksia Nordlandista
 
-**作者** Lie, Jonas, 1833-1908; Hietala, Hj. [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 19 题 · 180,140 字 ｜ **来源** Project Gutenberg
+**作者** Lie, Jonas, 1833-1908; Hietala, Hj. [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 4 章 · 180,140 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6ba6db5660d6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（180,140 字）。 |
-| 分章依据 | 按「题」标记切分为 19 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,481 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-caps-sections），拼接正文 3,882 行。 |
+| 篇幅分布 | 平均每章 45,035 字。 |
 | 原文溯源 | `cache/epub/24969/pg24969.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 章）
 
-1. Produced by Tapio Riikonen
-2. AAVEIDEN NÄKIJÄ ELI KUVAUKSIA NORDLANDISTA
-3. Jonas Lie
-4. Viidennestä norjankielisestä painoksesta suomentanut Hj. Hietala
-5. SISÄLLYS:
-6. JOHDANTO.
-7. TOINEN OSA.
-8. KOLMAS OSA.
-9. ENSIMMÄINEN LUKU.
-10. TOINEN LUKU.
+1. JOHDANTO.
+2. ENSIMMÄINEN LUKU.
+3. KOLMAS LUKU.（1）
+4. KOLMAS LUKU.（2）
 
-> 共 19 题，[完整目录与正文 →](https://www.bqgmz.top/b/6ba6db5660d6/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/6ba6db5660d6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

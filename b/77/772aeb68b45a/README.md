@@ -1,7 +1,7 @@
 # Experiments upon magnesia alba, Quicklime, and some other Alcaline Substances
 
-**作者** Black, Joseph, 1728-1799 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 3 段 · 66,136 字 ｜ **来源** Project Gutenberg
+**作者** Black, Joseph, 1728-1799 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 3 篇 · 66,136 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/772aeb68b45a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（66,136 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,045 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（通用标记切分），拼接正文 1,487 行。 |
+| 篇幅分布 | 平均每篇 10,497 字。 |
+| 起止 | 始于「II. If quick-lime be no other than a calcarious earth deprived of」，止于「V. We have shewn in the former experiments, that absorbent earths」。 |
 | 原文溯源 | `cache/epub/24591/pg24591.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 3 篇）
 
-1. This air seems to have been furnished by the alkali from whi
-2. I indeed expected to see a much larger quantity of sediment
-3. With an ounce of the mild spirit of salt ammoniac, I mixed a
+1. II. If quick-lime be no other than a calcarious earth deprived of
+2. III. If it be supposed that slaked lime does not contain any parts
+3. V. We have shewn in the former experiments, that absorbent earths
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/772aeb68b45a/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/772aeb68b45a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

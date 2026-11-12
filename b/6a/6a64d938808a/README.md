@@ -1,7 +1,7 @@
 # Under the Red Crescent Adventures of an English Surgeon with the Turkish Army at Plevna and Erzeroum 1877-1878
 
 **作者** Ryan, Charles S. (Charles Snodgrass), 1853-1926; Sandes, John, 1863- ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 498,762 字 ｜ **来源** Project Gutenberg
+**规模** 15 章 · 498,762 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6a64d938808a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（498,762 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 31,172 字；最长 CHAPTER I.（50,457 字），最短 CHAPTER VI.（20,632 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 10,800 行。 |
+| 篇幅分布 | 平均每章 31,163 字；最长 CHAPTER XIV.（61,120 字），最短 CHAPTER XVI.（12,715 字）。 |
 | 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVI.」。 |
 | 原文溯源 | `cache/epub/42202/pg42202.txt`（Project Gutenberg） |
 
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/6a64d938808a/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/6a64d938808a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

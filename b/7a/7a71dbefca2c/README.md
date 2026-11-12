@@ -1,7 +1,7 @@
 # Molière - Œuvres complètes, Tome 1
 
-**作者** Molière, 1622-1673; Chasles, Philarète, 1798-1873 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 22 段 · 446,105 字 ｜ **来源** Project Gutenberg
+**作者** Molière, 1622-1673; Chasles, Philarète, 1798-1873 [Editor] ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 85 章 · 446,105 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7a71dbefca2c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（446,105 字）。 |
-| 分章依据 | 按「段」标记切分为 22 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,277 字；最长 Il avait reconnu combien est impuissante la prétention de de（40,023 字），最短 Seigneur, permettez-moi de blâmer votre plainte.（5,914 字）。 |
+| 分章依据 | 按「章」标记切分为 85 章（auto-caps-sections），拼接正文 19,337 行。 |
+| 篇幅分布 | 平均每章 5,248 字；最长 ET A PARIS SUR LE THÉATRE DU PETIT-BOURBON AU MOIS DE DÉCEMBRE 1658.（69,757 字），最短 MASCARILLE.（313 字）。 |
 | 原文溯源 | `cache/epub/40086/pg40086.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Il avait reconnu combien est impuissante la prétention de de
-2. SCÈNE XIII.--VALÈRE, SGANARELLE.
-3. Tu es docteur quand tu veux? Ouais! Je pense que tu es un pl
-4. Voici donc ce que c'est. Le maître que je sers
-5. Mascarille, je crois qu'il seroit à propos
-6. Je ne sais; mais enfin,
-7. Ah! de peur de tomber, ne courons pas si fort!
-8. MASCARILLE.
-9. Lorsque par les rebuts une âme est détachée,
-10. Point du tout; je vous dis que, régnant dans votre âme,
+1. JEAN-BAPTISTE POQUELIN MOLIÈRE
+2. NÉ LE 15 JANVIER 1622, MORT LE 17 FÉVRIER 1673
+3. COMÉDIE
+4. SABINE.
+5. VALÈRE.
+6. SGANARELLE.
+7. GORGIBUS.
+8. GORGIBUS.
+9. SGANARELLE.
+10. SGANARELLE.
 
-> 共 22 段，[完整目录与正文 →](https://www.bqgmz.top/b/7a71dbefca2c/)
+> 共 85 章，[完整目录与正文 →](https://www.bqgmz.top/b/7a71dbefca2c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

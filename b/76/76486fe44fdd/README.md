@@ -1,7 +1,7 @@
 # King Henry VI, Part 1（#2254）
 
-**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 98 题 · 105,048 字 ｜ **来源** Project Gutenberg
+**作者** Shakespeare, William, 1564-1616 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 3 部分 · 105,048 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/76486fe44fdd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（105,048 字）。 |
-| 分章依据 | 按「题」标记切分为 98 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,071 字。 |
+| 分章依据 | 按「部分」标记切分为 3 部分（fallback-chunk），拼接正文 3,806 行。 |
+| 篇幅分布 | 平均每部分 35,016 字。 |
 | 原文溯源 | `cache/epub/2254/pg2254.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 部分）
 
-1. Bar. Long liue the King
-2. David Reed
-3. The first Part of Henry the Sixt
-4. Dolph. Bastard of Orleance, thrice welcome to vs
-5. Reigneir. She takes vpon her brauely at first dash
-6. Dolph. Then come a Gods name, I feare no woman
-7. Reigneir. My Lord me thinkes is very long in talke
-8. 2.Warder. Who ere he be, you may not be let in
-9. Salisb. Yet tell'st thou not, how thou wert entertain'd
-10. Salisb. O Lord haue mercy on vs, wretched sinners
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
 
-> 共 98 题，[完整目录与正文 →](https://www.bqgmz.top/b/76486fe44fdd/)
+> 共 3 部分，[完整目录与正文 →](https://www.bqgmz.top/b/76486fe44fdd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

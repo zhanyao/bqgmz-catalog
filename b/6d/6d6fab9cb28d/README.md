@@ -1,7 +1,7 @@
 # Prue and I
 
-**作者** Curtis, George William, 1824-1892 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 18 题 · 199,040 字 ｜ **来源** Project Gutenberg
+**作者** Curtis, George William, 1824-1892 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 5 部分 · 199,040 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/6d6fab9cb28d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（199,040 字）。 |
-| 分章依据 | 按「题」标记切分为 18 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,057 字。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 4,721 行。 |
+| 篇幅分布 | 平均每部分 39,808 字；最长 第 3 部分（41,620 字），最短 第 5 部分（32,910 字）。 |
 | 原文溯源 | `cache/epub/8645/pg8645.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 部分）
 
-1. Produced by the Online Distributed Proofreading Team
-2. PRUE AND I.
-3. BY
-4. GEORGE WILLIAM CURTIS.
-5. A WORD TO THE GENTLE READER.
-6. CONTENTS.
-7. DINNER-TIME.
-8. MY CHATEAUX.
-9. I continued the interrogative glance.
-10. He paused a moment, then said slowly--"How is your wife?"
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 18 题，[完整目录与正文 →](https://www.bqgmz.top/b/6d6fab9cb28d/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/6d6fab9cb28d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

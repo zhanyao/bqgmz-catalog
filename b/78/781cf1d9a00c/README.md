@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（648,140 字）。 |
-| 分章依据 | 按「章」标记切分为 23 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,180 字；最长 CHAPTER XI. A Conjurer's Levee.（35,041 字），最短 CHAPTER I. Short and Preliminary.（19,608 字）。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-chapter），拼接正文 15,468 行。 |
+| 篇幅分布 | 平均每章 28,110 字；最长 CHAPTER XI. A Conjurer's Levee.（35,041 字），最短 CHAPTER I. Short and Preliminary.（18,020 字）。 |
 | 起止 | 始于「CHAPTER I. Short and Preliminary.」，止于「CHAPTER XXIII. Greatrakes at Work--Denouement」。 |
 | 原文溯源 | `cache/epub/16004/pg16004.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/781cf1d9a00c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

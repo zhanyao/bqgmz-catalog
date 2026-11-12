@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（256,587 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,218 字；最长 CHAPTER XVII.—THE TWO MIRIAMS.（18,296 字），最短 CHAPTER III.—AU REVOIR.（6,811 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 3,306 行。 |
+| 篇幅分布 | 平均每章 12,185 字；最长 CHAPTER XVII.—THE TWO MIRIAMS.（18,296 字），最短 CHAPTER III.—AU REVOIR.（6,811 字）。 |
 | 起止 | 始于「CHAPTER I.—THE GIRL FROM HOME.」，止于「CHAPTER XXI.—“FOR THIS CAUSE.”」。 |
 | 原文溯源 | `cache/epub/52562/pg52562.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/67d58cd05d7b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

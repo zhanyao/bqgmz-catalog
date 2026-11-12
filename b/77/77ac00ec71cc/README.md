@@ -1,7 +1,7 @@
 # How To Have Bird Neighbors
 
-**作者** Patteson, S. Louise (Susanna Louise), 1853-1922 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 14 题 · 111,371 字 ｜ **来源** Project Gutenberg
+**作者** Patteson, S. Louise (Susanna Louise), 1853-1922 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 12 章 · 111,371 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/77ac00ec71cc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（111,371 字）。 |
-| 分章依据 | 按「题」标记切分为 14 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,955 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-roman-bare），拼接正文 3,098 行。 |
+| 篇幅分布 | 平均每章 8,737 字；最长 XII（18,268 字），最短 VII（5,238 字）。 |
 | 原文溯源 | `cache/epub/65548/pg65548.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. HOW TO HAVE BIRD NEIGHBORS
-2. FOREWORD
-3. S. L. P.
-4. CONTENTS
-5. LIST OF ILLUSTRATIONS
-6. HOW TO HAVE BIRD NEIGHBORS
-7. HOW TO HAVE BIRD NEIGHBORS
-8. I guessed that perhaps the cherries were the attraction.
-9. I remarked that it was early (it was in July) to talk about snow.
-10. GLOSSARY
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 14 题，[完整目录与正文 →](https://www.bqgmz.top/b/77ac00ec71cc/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/77ac00ec71cc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

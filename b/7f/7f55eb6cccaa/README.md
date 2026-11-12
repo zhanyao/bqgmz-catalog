@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（99,482 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 19,896 字；最长 CHAPTER II. DANIEL D’ARTHEZ（26,111 字），最短 CHAPTER III. THE PRINCESS GOES TO WORK（15,108 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-chapter），拼接正文 2,339 行。 |
+| 篇幅分布 | 平均每章 19,866 字；最长 CHAPTER II. DANIEL D’ARTHEZ（26,111 字），最短 CHAPTER III. THE PRINCESS GOES TO WORK（15,108 字）。 |
 | 起止 | 始于「CHAPTER I. THE LAST WORD OF TWO GREAT COQUETTES」，止于「CHAPTER V. A TRIAL OF FAITH」。 |
 | 原文溯源 | `cache/epub/1344/pg1344.txt`（Project Gutenberg） |
 
@@ -27,4 +27,4 @@
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/7f55eb6cccaa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（388,804 字）。 |
-| 分章依据 | 按「章」标记切分为 23 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,904 字。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-chapter），拼接正文 8,497 行。 |
+| 篇幅分布 | 平均每章 16,434 字。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XX.（部2）」。 |
 | 原文溯源 | `cache/epub/42589/pg42589.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I. CAPITAL IN ITS STRONGHOLD.
-2. CHAPTER II. THE GATHERING OF THE STORM.
-3. CHAPTER III. LOCKED OUT.
-4. CHAPTER IV. THE PINKERTON GUARDS.
-5. CHAPTER V. THE FIRST SHOT.
-6. CHAPTER VI. THE BOMBARDMENT.
-7. CHAPTER VII. THE SURRENDER.
-8. CHAPTER VIII. AFTER THE BATTLE.
-9. CHAPTER IX. SOLDIERS TO THE FRONT.
-10. CHAPTER X. CAMP McCLELLAN.
+1. CHAPTER I.
+2. CHAPTER II.
+3. CHAPTER III.
+4. CHAPTER IV.
+5. CHAPTER V.
+6. CHAPTER VI.
+7. CHAPTER VII.
+8. CHAPTER VIII.
+9. CHAPTER IX.
+10. CHAPTER X.
 
 > 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/728f98e0f3cd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

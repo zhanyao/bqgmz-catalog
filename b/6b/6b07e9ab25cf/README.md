@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（190,014 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 19,001 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 4,439 行。 |
+| 篇幅分布 | 平均每章 18,176 字；最长 CHAPTER IX（39,960 字），最短 CHAPTER IV（9,640 字）。 |
 | 原文溯源 | `cache/epub/54086/pg54086.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +26,9 @@
 7. CHAPTER VII
 8. CHAPTER VIII
 9. CHAPTER IX
-10. Another interesting native was brought b
+10. APPENDIX
 
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/6b07e9ab25cf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Romance of Gilbert Holmes: An Historical Novel
 
-**作者** Kirkman, Marshall M. (Marshall Monroe), 1842-1921 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 30 段 · 610,169 字 ｜ **来源** Project Gutenberg
+**作者** Kirkman, Marshall M. (Marshall Monroe), 1842-1921 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 53 篇 · 610,169 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7075caf2f01e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（610,169 字）。 |
-| 分章依据 | 按「段」标记切分为 30 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,338 字；最长 My amiability in youth, coupled with my lack of smartness, c（40,034 字），最短 When finally the plans were arranged to our liking, and we c（9,484 字）。 |
+| 分章依据 | 按「篇」标记切分为 53 篇（通用标记切分），拼接正文 14,759 行。 |
+| 篇幅分布 | 平均每篇 11,479 字；最长 *JOB THROCKMORTON'S TRIAL: THE TRAGEDY*（27,554 字），最短 I."（2,947 字）。 |
 | 原文溯源 | `cache/epub/53006/pg53006.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. My amiability in youth, coupled with my lack of smartness, c
-2. Upon this my companion, putting forth all his strength, the
-3. "That is it; and who is to prevent? I thought though that y
-4. NOTE.--Mr. Gilbert Holmes, in reviewing this part of his lif
-5. My heart too full for utterance, I raised his hand and kisse
-6. "As the fire approached, it did not follow any given line, a
-7. "What do you mean! Let go of him, I say!" Uncle Job demande
-8. "The heart of guardian and child must be responsive," Mr. Li
-9. At this reference Mrs. Singleton turned to her children, but
-10. When we returned to the boat Mr. Singleton had not stirred,
+1. *A SWEET LADY*
+2. *GILBERT HOLMES'S ACCOUNT OF HIMSELF*
+3. *THE WRECK*
+4. *BLACK HAWK, THE SAC KING*
+5. I."
+6. *THE SWATH OF THE HURRICANE*
+7. *LOVE'S IDEALS*
+8. *GILBERT'S FLIGHT*
+9. *GILBERT'S ENCOUNTER WITH THE TIMBER-WOLF*
+10. *DRIFTWOOD FROM THE THAMES BATTLEFIELD*
 
-> 共 30 段，[完整目录与正文 →](https://www.bqgmz.top/b/7075caf2f01e/)
+> 共 53 篇，[完整目录与正文 →](https://www.bqgmz.top/b/7075caf2f01e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

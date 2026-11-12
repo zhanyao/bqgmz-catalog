@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（212,908 字）。 |
-| 分章依据 | 按「章」标记切分为 23 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,256 字；最长 CHAPTER XXIII. THE TORCH EXTINGUISHED.（53,857 字），最短 CHAPTER VI. APOLLO AND DIANA.（5,200 字）。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-chapter），拼接正文 5,733 行。 |
+| 篇幅分布 | 平均每章 9,167 字；最长 CHAPTER XXIII. THE TORCH EXTINGUISHED.（53,268 字），最短 CHAPTER VI. APOLLO AND DIANA.（5,200 字）。 |
 | 起止 | 始于「CHAPTER I. STANDING ALONE.」，止于「CHAPTER XXIII. THE TORCH EXTINGUISHED.」。 |
 | 原文溯源 | `cache/epub/56007/pg56007.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/679cf6e91f73/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

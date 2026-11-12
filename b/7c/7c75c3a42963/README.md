@@ -1,7 +1,7 @@
 # Wellington's Men: Some Soldier Autobiographies
 
 **作者** Fitchett, W. H. (William Henry), 1845-1928 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 631,981 字 ｜ **来源** Project Gutenberg
+**规模** 25 章 · 631,981 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7c75c3a42963/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（631,981 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 57,452 字；最长 "Our colonel was a brave man, but there （112,592 字），最短 CHAPTER VI（15,229 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 15,542 行。 |
+| 篇幅分布 | 平均每章 22,155 字；最长 CHAPTER V（部4）（41,471 字），最短 CHAPTER III（部2）（9,628 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER VI（部4）」。 |
 | 原文溯源 | `cache/epub/62571/pg62571.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -24,11 +25,11 @@
 5. CHAPTER V
 6. CHAPTER VI
 7. CHAPTER VII
-8. "After progressing some miles, I came up
-9. "Our colonel was a brave man, but there
-10. "For the last mile or so we had neither
+8. CHAPTER I（部2）
+9. CHAPTER II（部2）
+10. CHAPTER III（部2）
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/7c75c3a42963/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/7c75c3a42963/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

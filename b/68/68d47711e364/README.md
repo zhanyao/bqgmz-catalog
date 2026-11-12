@@ -1,7 +1,7 @@
 # Round the Galley Fire
 
-**作者** Russell, William Clark, 1844-1911 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 20 段 · 417,668 字 ｜ **来源** Project Gutenberg
+**作者** Russell, William Clark, 1844-1911 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 28 章 · 417,668 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/68d47711e364/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（417,668 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,883 字；最长 There is a touch of wild excitement in going aloft in heavy （39,732 字），最短 Under such circumstances most men would have contented thems（18,945 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-toc-title-list），拼接正文 8,644 行。 |
+| 篇幅分布 | 平均每章 14,873 字；最长 SMACK APPRENTICES（18,180 字），最短 A DANCE AT SEA（11,721 字）。 |
 | 原文溯源 | `cache/epub/61750/pg61750.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. There is a touch of wild excitement in going aloft in heavy
-2. The canvas rattles like an old waggon over a stony street as
-3. It was in the month of May that the vessel in question was b
-4. Under such circumstances most men would have contented thems
-5. The day passed quietly, but the wind was light, and the prog
-6. I fell once into conversation with a smack-boy--a Yorkshire
-7. It was a fine night, very calm, and the ship, with her mainy
-8. I cannot help thinking, however that imagination contributes
-9. “Unlike a good many others who have gone through such dreadf
-10. “Oh,” said he, “objections are easily made if they’re wanted
+1. A DANCE AT SEA
+2. GOING ALOFT
+3. A TRICK AT THE WHEEL
+4. THE BAILIFF AT SEA
+5. OFF THE HORN
+6. A STRANGE CHASE
+7. A SALVAGE JOB
+8. A CHANNEL INCIDENT
+9. LOSS OF A SMACK’S CREW
+10. FIRE AT SEA
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/68d47711e364/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/68d47711e364/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

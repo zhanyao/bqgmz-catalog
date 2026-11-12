@@ -1,7 +1,7 @@
 # The Priestly Vocation A Series of Fourteen Conferences Addressed to the Secular Clergy
 
-**作者** Ward, Bernard, 1857-1920 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 12 段 · 260,036 字 ｜ **来源** Project Gutenberg
+**作者** Ward, Bernard, 1857-1920 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 12 篇 · 260,036 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/73ed30d1d3bb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（260,036 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,669 字；最长 "1. The Jesuits have a splendid church, a large house, sever（39,882 字），最短 All this seems surely broad enough to bring the sung mass wi（19,332 字）。 |
+| 分章依据 | 按「篇」标记切分为 12 篇（通用标记切分），拼接正文 5,478 行。 |
+| 篇幅分布 | 平均每篇 21,549 字；最长 THE LITURGY（38,128 字），最短 PREFACE（1,471 字）。 |
 | 原文溯源 | `cache/epub/34373/pg34373.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. "1. The Jesuits have a splendid church, a large house, sever
-2. There is no danger of the virtue of poverty being lost sight
-3. In such a matter as this it is not suggested that we should
-4. The obedience of a secular priest, on the other hand, is mor
-5. Yet there are often practical difficulties about a satisfact
-6. The first way to show our respect for the Divine Office is t
-7. Alas, however, many people lose sight of their religion afte
-8. All this seems surely broad enough to bring the sung mass wi
-9. Now we come to direct preparation of our sermon. Undoubtedly
-10. From the social side of a priest's life, one naturally turns
+1. PREFACE
+2. THE PRIESTLY VOCATION
+3. POVERTY
+4. CHASTITY
+5. OBEDIENCE
+6. THE RELIGIOUS EXERCISES OF THE PRIEST
+7. THE PRIEST'S PASTORAL WORK
+8. THE LITURGY
+9. THE RECREATIONS OF A PRIEST
+10. THE ANNUAL HOLIDAY
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/73ed30d1d3bb/)
+> 共 12 篇，[完整目录与正文 →](https://www.bqgmz.top/b/73ed30d1d3bb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

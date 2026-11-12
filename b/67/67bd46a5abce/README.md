@@ -1,7 +1,7 @@
 # Nagy magyarok élete (2. kötet)
 
-**作者** Benedek, Elek, 1859-1929 ｜ **国家/地区** 匈牙利 ｜ **体例** 段  
-**规模** 8 段 · 172,428 字 ｜ **来源** Project Gutenberg
+**作者** Benedek, Elek, 1859-1929 ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 14 章 · 172,428 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/67bd46a5abce/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（172,428 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,553 字；最长 Alig ért haza, Johanna hívei fölemelték a fejüket. A király （39,409 字），最短 »Nem volt meg benne az a királyi gőg, ami századunk oly sok （13,094 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-roman-bare），拼接正文 3,394 行。 |
+| 篇幅分布 | 平均每章 12,306 字；最长 VII.（部3）（22,531 字），最短 IV.（部2）（5,102 字）。 |
+| 起止 | 始于「I.」，止于「VII.（部3）」。 |
 | 原文溯源 | `cache/epub/47027/pg47027.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. Alig ért haza, Johanna hívei fölemelték a fejüket. A király
-2. Tehát Hunyadi János ifjú- és férfikorának kezdetéről ennyit
-3. Szebb jellemrajzot lehetne-e írni Hunyadiról, a magyar haza
-4. Szörnyű izgalom szállotta meg a magyarok lelkét az elfogatás
-5. Amilyen nagy lelkesedéssel választotta meg a nemesség Hunyad
-6. És indult egyenesen Szabácsnak, melyet a török négy esztendő
-7. Az adományozás a királyné beleegyezésével és hozzájárulásáva
-8. »Nem volt meg benne az a királyi gőg, ami századunk oly sok
+1. I.
+2. II.
+3. III.
+4. I.（部2）
+5. II.（部2）
+6. III.（部2）
+7. IV.（部2）
+8. I.（部3）
+9. II.（部3）
+10. III.（部3）
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/67bd46a5abce/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/67bd46a5abce/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

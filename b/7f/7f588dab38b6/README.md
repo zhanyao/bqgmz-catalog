@@ -1,7 +1,7 @@
 # Little Rivers: A Book of Essays in Profitable Idleness（#49187）
 
-**作者** Van Dyke, Henry, 1852-1933 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 56 题 · 277,191 字 ｜ **来源** Project Gutenberg
+**作者** Van Dyke, Henry, 1852-1933 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 277,191 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7f588dab38b6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（277,191 字）。 |
-| 分章依据 | 按「题」标记切分为 56 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,949 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-roman-bare），拼接正文 6,550 行。 |
+| 篇幅分布 | 平均每章 15,688 字；最长 VI.（部3）（66,075 字），最短 IV.（部3）（5,165 字）。 |
+| 起止 | 始于「I.」，止于「III.（部4）」。 |
 | 原文溯源 | `cache/epub/49187/pg49187.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LITTLE RIVERS
-2. LITTLE RIVERS
-3. BY
-4. HENRY VAN DYKE
-5. ILLUSTRATED
-6. DEDICATION
-7. CONTENTS
-8. ILLUSTRATIONS
-9. Facing page
-10. PRELUDE
+1. I.
+2. II.
+3. III.
+4. I.（部2）
+5. II.（部2）
+6. III.（部2）
+7. I.（部3）
+8. II.（部3）
+9. III.（部3）
+10. IV.（部3）
 
-> 共 56 题，[完整目录与正文 →](https://www.bqgmz.top/b/7f588dab38b6/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/7f588dab38b6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

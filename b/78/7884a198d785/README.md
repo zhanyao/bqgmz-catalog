@@ -1,7 +1,7 @@
 # Alaska, the Great Country
 
 **作者** Higginson, Ella, 1862-1940 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 50 章 · 767,266 字 ｜ **来源** Project Gutenberg
+**规模** 51 章 · 767,266 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7884a198d785/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（767,266 字）。 |
-| 分章依据 | 按「章」标记切分为 50 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,345 字；最长 CHAPTER II（41,124 字），最短 CHAPTER XII（3,984 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER L」。 |
+| 分章依据 | 按「章」标记切分为 51 章（auto-chapter），拼接正文 18,918 行。 |
+| 篇幅分布 | 平均每章 14,981 字；最长 CHAPTER II（41,124 字），最短 CHAPTER XII（3,984 字）。 |
 | 原文溯源 | `cache/epub/34615/pg34615.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 50 章，[完整目录与正文 →](https://www.bqgmz.top/b/7884a198d785/)
+> 共 51 章，[完整目录与正文 →](https://www.bqgmz.top/b/7884a198d785/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

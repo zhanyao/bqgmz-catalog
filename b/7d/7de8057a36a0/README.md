@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（444,942 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,224 字；最长 CHAPTER XXI: THE RAID ON THE SCHLOSS（31,119 字），最短 CHAPTER IV: AT MRS. CORLISS’（7,001 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 11,203 行。 |
+| 篇幅分布 | 平均每章 20,161 字；最长 CHAPTER XXI: THE RAID ON THE SCHLOSS（31,119 字），最短 CHAPTER IV: AT MRS. CORLISS’（7,001 字）。 |
 | 起止 | 始于「CHAPTER I: A BEGGAR AND A PASSPORT」，止于「CHAPTER XXII: “THE WAR’S OVER”」。 |
 | 原文溯源 | `cache/epub/68296/pg68296.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/7de8057a36a0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

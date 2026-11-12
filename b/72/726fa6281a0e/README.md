@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（330,521 字）。 |
-| 分章依据 | 按「章」标记切分为 37 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,933 字；最长 CHAPTER XI--A TRAITOR AND A SPY（12,411 字），最短 CHAPTER XXVIII--A CHANGE OF SCENE（2,657 字）。 |
+| 分章依据 | 按「章」标记切分为 37 章（auto-chapter），拼接正文 10,232 行。 |
+| 篇幅分布 | 平均每章 8,893 字；最长 CHAPTER XI--A TRAITOR AND A SPY（12,411 字），最短 CHAPTER XXVIII--A CHANGE OF SCENE（2,657 字）。 |
 | 起止 | 始于「CHAPTER I--FRANK AND HIS FRIENDS」，止于「CHAPTER XXXVII--THE LAST BLOW--CONCLUSION」。 |
 | 原文溯源 | `cache/epub/42049/pg42049.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 37 章，[完整目录与正文 →](https://www.bqgmz.top/b/726fa6281a0e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

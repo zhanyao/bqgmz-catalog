@@ -1,7 +1,7 @@
 # A Comparative View of the Mortality of the Human Species, at All Ages And of the Diseases and Casualties by Which They Are Destroyed or Annoyed. Illustrated With Charts and Tables
 
-**作者** Black, William, 1749-1829 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 21 段 · 425,414 字 ｜ **来源** Project Gutenberg
+**作者** Black, William, 1749-1829 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 11 部分 · 425,414 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7869d3259521/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（425,414 字）。 |
-| 分章依据 | 按「段」标记切分为 21 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,257 字；最长 Another subtile and active agent in the secret machinery of （39,945 字），最短 It is also most devoutly to be wished, for the health, comfo（5,015 字）。 |
+| 分章依据 | 按「部分」标记切分为 11 部分（fallback-chunk），拼接正文 9,183 行。 |
+| 篇幅分布 | 平均每部分 38,674 字；最长 第 6 部分（43,104 字），最短 第 11 部分（16,278 字）。 |
 | 原文溯源 | `cache/epub/59846/pg59846.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. Another subtile and active agent in the secret machinery of
-2. _The Comparative Mortality of the Human Species, and of the
-3. -------+-----------+----------
-4. -----------------------+-------+-------+-------+------+-----
-5. Intermittent paroxisms are always terminated in less than tw
-6. The cruel carnage perpetrated by small pox throughout the ea
-7. With respect to the great sources of fevers, noxious miasma
-8. There is, however, a species of pulmonick affliction, the sp
-9. _Diseases of the Lungs and Organs of Respiration_, what exte
-10. _Dyspnœa and Coughs_ are symptoms of many diseases; and they
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 21 段，[完整目录与正文 →](https://www.bqgmz.top/b/7869d3259521/)
+> 共 11 部分，[完整目录与正文 →](https://www.bqgmz.top/b/7869d3259521/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

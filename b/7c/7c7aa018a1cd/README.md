@@ -1,7 +1,7 @@
 # Wild Pastures
 
-**作者** Packard, Winthrop, 1862-1943; Copeland, Charles, 1858-1929 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 137,424 字 ｜ **来源** Project Gutenberg
+**作者** Packard, Winthrop, 1862-1943; Copeland, Charles, 1858-1929 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 137,424 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7c7aa018a1cd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（137,424 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,904 字；最长 Under your foot the sweet-fern breathes a resin that is “lik（39,790 字），最短 By and by, being “finished” by travel, he gets off his vehic（17,322 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 3,563 行。 |
+| 篇幅分布 | 平均每章 11,913 字；最长 WAYLAYING THE DAWN（13,260 字），最短 HOW THE RAIN CAME（10,931 字）。 |
 | 原文溯源 | `cache/epub/65132/pg65132.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. Under your foot the sweet-fern breathes a resin that is “lik
-2. The hill itself is worth noting. Here the glaciers which som
-3. That he may live to go back he inspects carefully the worms
-4. It is the home and the occasional resting place of many a wi
-5. Meanwhile the yeggs had been watching with jealous eyes, lur
-6. By and by, being “finished” by travel, he gets off his vehic
+1. WAYLAYING THE DAWN
+2. STALKING THE WILD GRAPE
+3. THE FROG RENDEZVOUS
+4. A BUTTERFLY CHASE
+5. DOWN STREAM
+6. BROOK MAGIC
+7. IN THE PONKAPOAG BOGS
+8. SOME BUTTERFLY FRIENDS
+9. THE RESTING TIME OF THE BIRDS
+10. THE POND AT LOW TIDE
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/7c7aa018a1cd/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/7c7aa018a1cd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

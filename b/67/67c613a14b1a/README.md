@@ -1,7 +1,7 @@
 # Personal Memoirs of U. S. Grant, Part 4.
 
 **作者** Grant, Ulysses S. (Ulysses Simpson), 1822-1885 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 32 章 · 191,389 字 ｜ **来源** Project Gutenberg
+**规模** 12 章 · 191,389 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/67c613a14b1a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（191,389 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,980 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 3,926 行。 |
+| 篇幅分布 | 平均每章 15,570 字；最长 CHAPTER L.（20,410 字），最短 CHAPTER XLVIII.（11,392 字）。 |
+| 起止 | 始于「CHAPTER XL.」，止于「CHAPTER LI.」。 |
 | 原文溯源 | `cache/epub/5863/pg5863.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER XL. FIRST MEETING WITH SECRETARY STANTON--GENERAL ROSECRANS
-2. CHAPTER XLI. ASSUMING THE COMMAND AT CHATTANOOGA--OPENING A LINE OF
-3. CHAPTER XLII. CONDITION OF THE ARMY--REBUILDING THE RAILROAD--GENERAL
-4. CHAPTER XLIII. PREPARATIONS FOR BATTLE--THOMAS CARRIES THE FIRST LINE OF
-5. CHAPTER XLIV. BATTLE OF CHATTANOOGA--A GALLANT CHARGE--COMPLETE ROUT OF
-6. CHAPTER XLV. THE RELIEF OF KNOXVILLE--HEADQUARTERS MOVED TO NASHVILLE
-7. CHAPTER XLVI. OPERATIONS IN MISSISSIPPI--LONGSTREET IN EAST TENNESSEE
-8. CHAPTER XLVII. THE MILITARY SITUATION--PLANS FOR THE CAMPAIGN--SHERIDAN
-9. CHAPTER XLVIII. COMMENCEMENT OF THE GRAND CAMPAIGN--GENERAL BUTLER'S
-10. CHAPTER XLIX. SHERMAN S CAMPAIGN IN GEORGIA--SIEGE OF ATLANTA--DEATH OF
+1. CHAPTER XL.
+2. CHAPTER XLI.
+3. CHAPTER XLII.
+4. CHAPTER XLIII.
+5. CHAPTER XLIV.
+6. CHAPTER XLV.
+7. CHAPTER XLVI.
+8. CHAPTER XLVII.
+9. CHAPTER XLVIII.
+10. CHAPTER XLIX.
 
-> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/67c613a14b1a/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/67c613a14b1a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
