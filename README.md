@@ -1,33 +1,99 @@
-# 笔趣阁 · 公版古籍与 Gutenberg 书目（96,220 部）
+# 笔趣阁 · 公版书籍书目数据集
 
-> **English** — A catalog dataset of 96,220 public-domain books (Chinese classics + Project Gutenberg), with chapter counts, word counts and source attribution. Full texts are readable at [www.bqgmz.top](https://www.bqgmz.top/) — one URL per chapter, plain HTML, zero JavaScript. Machine-readable index: [llms.txt](https://www.bqgmz.top/llms.txt) · [llms-full.txt](https://www.bqgmz.top/llms-full.txt).
+**96,220 部公有领域书籍、118 个语种、2,808,551 章** —— 一个只有书目与结构、不含正文的开放数据集。每部书一个 Markdown 页，给出书名、作者、朝代、语种、体例、章数、字数与来源库，并回链在线阅读页。
 
-[在线阅读 →](https://www.bqgmz.top/) ｜ [llms.txt](https://www.bqgmz.top/llms.txt) ｜ 2,808,551 章 ｜ 118 语种 ｜ 5 个来源库
+[在线阅读](https://www.bqgmz.top/) ｜ [全量书目 CSV](catalog/books.csv) ｜ [字段说明](DATA.md) ｜ [来源与许可](LICENSE.md) ｜ [按语种浏览](list/lang/) ｜ [按来源库浏览](list/lib/)
 
-本站是一个纯静态的公版阅读站：公版古籍、Project Gutenberg、文硕阁与 chinese-poetry，按「书 → 章」两级组织，每章一个独立 URL，书籍页与章节页零 JavaScript。**本仓库只放书目与结构说明，不放正文**；正文请到站点上按章阅读。
+![按语种分布](assets/lang.png)
 
-## 按国家/地区
+## 30 秒用起来
 
-国家/地区由**语种**推导（语料没有国籍字段），共 33 个。
+仓库有 9.6 万个文件，**不用 clone 也能直接取数据**：
 
-[英美 61,577](list/lang/en/) ｜ [中国 18,595](list/lang/zh/) ｜ [法国 4,183](list/lang/fr/) ｜ [芬兰 3,687](list/lang/fi/) ｜ [德国 2,392](list/lang/de/) ｜ [荷兰 1,110](list/lang/nl/) ｜ [意大利 1,103](list/lang/it/) ｜ [西班牙 886](list/lang/es/) ｜ [匈牙利 654](list/lang/hu/) ｜ [葡萄牙 651](list/lang/pt/)
+```bash
+curl -L -o books.csv https://gitee.com/zhanyao668/bqgmz-catalog/raw/master/catalog/books.csv
+# GitHub 用户：https://raw.githubusercontent.com/zhanyao/bqgmz-catalog/master/catalog/books.csv
+```
 
-其余：其它语种 326、瑞典 253、古希腊 216、世界语 124、古罗马 101、加泰罗尼亚 96、丹麦 84、菲律宾 57、波兰 29、挪威 23、日本 21、捷克 11、冰岛 7、希伯来 6、保加利亚 6、罗马尼亚 5、斯洛文尼亚 5、俄国 5、塞尔维亚 3、波斯 1、爱沙尼亚 1、古印度 1、阿拉伯 1
+```python
+import pandas as pd
 
-## 按体例
+df = pd.read_csv("books.csv")          # 96,220 行 × 11 列
+df.nlargest(5, "chars")[["title", "author", "chapters", "chars"]]
+df[df.lang == "zh"].groupby("dynasty").size().sort_values(ascending=False).head(10)
+```
 
-[章节 53,995](list/style/zhang/) ｜ [篇 31,123](list/style/pian/) ｜ [卷帙 4,111](list/style/juan/) ｜ [章回体 552](list/style/hui/)
+```bash
+# JSONL 适合流式处理
+curl -sL https://gitee.com/zhanyao668/bqgmz-catalog/raw/master/catalog/books.jsonl \
+  | jq -r 'select(.lang=="zh") | [.title,.author,.chapters] | @tsv' | head
+```
 
-## 按来源库
+## 数据长什么样
 
-Project Gutenberg（涉及 78,045 部） ｜ 殆知阁（涉及 13,754 部） ｜ 文硕阁（涉及 12,450 部） ｜ scripta-sinica（涉及 9,581 部） ｜ chinese-poetry（涉及 41 部）
+| id | title | author | dynasty | lang | unit | chapters | chars | libs |
+|---|---|---|---|---|---|---|---|---|
+| cc0bdf92e204 | 红楼梦 | 曹雪芹 | 清 | zh | 回 | 120 | 729,481 | daizhige;scripta;wenshuoge |
+| 910354ce8b29 | 三国演义 | 罗贯中 | 明 | zh | 回 | 120 | 487,893 | daizhige;scripta;wenshuoge |
+| 0a1d530e267f | 水浒传 | 施耐庵 | 明 | zh | 回 | 120 | 777,108 | daizhige;scripta;wenshuoge |
+| 1cb46e3a4782 | War and Peace | Tolstoy, Leo | — | en | 章 | 288 | 2,628,447 | gutenberg_full |
+| 04abfdfbd8fe | The Adventures of Sherlock Holmes | Doyle, Arthur Conan | — | en | 章 | 12 | 454,708 | gutenberg_full |
 
-> 数字是**涉及该库的书目数**，一部书可属多库，不可相加当总数。
+字段定义见 [DATA.md](DATA.md)。
 
-## 数据
+## 规模
 
-`catalog/books.csv` 与 `catalog/books.jsonl` 为全量书目（96,220 行），字段见 [DATA.md](DATA.md)，可自由下载与引用。
+| 项 | 数值 |
+|---|---|
+| 作品 | 96,220 部 |
+| 章节 | 2,808,551 章 |
+| 正文字数 | 约 245.7 亿字 |
+| 语种 / 国家地区 / 体例 | 118 / 33 / 8 |
+| 来源库（涉及书目，可重叠） | Project Gutenberg 78,045 · 殆知阁 13,754 · 文硕阁 12,450 · scripta-sinica 9,581 · chinese-poetry 41 |
 
-## 版权
+![按章节体例分布](assets/units.png)
 
-正文均为公有领域原典；scripta-sinica 依 CC BY-SA。详见 [LICENSE.md](LICENSE.md)。
+> 体例按各来源的分章标记自动判定；v5 管线会把一部分整本书当作单章处理，因此 **17,374 部作品的章节数为 1**（如《古今图书集成》《抱朴子》），属正常表现。
+
+## 仓库结构
+
+```
+README.md                 总览（≙ 站点首页）
+b/<xx>/<id>/README.md     单书页，xx = workId 前两位，共 256 片
+list/lang/<语种>/          按语种（→ 国家/地区）
+list/style/<体例>/         按章节体例
+list/lib/<来源库>/         按来源库
+catalog/books.csv         全量书目（UTF-8，带表头）
+catalog/books.jsonl       同上，每行一个 JSON 对象
+DATA.md / LICENSE.md      字段说明 / 来源与许可
+```
+
+路径与站点一一对应：`b/<xx>/<id>/` 对应 `https://www.bqgmz.top/b/<id>/`。
+
+## 来源与许可
+
+| 来源 | 许可 | 说明 |
+|---|---|---|
+| 殆知阁（daizhige-org） | 公有领域 | 2026-10-11 修订版古籍 |
+| Project Gutenberg | 公有领域（美国法） | 保留其许可声明 |
+| chinese-poetry | 公有领域 | 诗词总集 |
+| scripta-sinica | **CC BY-SA 4.0** | 引用须署名并以相同方式共享 |
+| 文硕阁 | 公有领域 | 古籍原典 |
+
+本仓库**只含书目元数据，不含任何作品正文**。数据未经校勘，含 OCR 噪声，适合检索、统计与语料构建，不适合作版本校勘或学术引用底本。详见 [LICENSE.md](LICENSE.md)。
+
+## 引用
+
+```bibtex
+@misc{bqgmz_catalog_2026,
+  title        = {笔趣阁 · 公版书籍书目数据集（96,220 部）},
+  author       = {{bqgmz}},
+  year         = {2026},
+  url          = {https://gitee.com/zhanyao668/bqgmz-catalog},
+  note         = {书目元数据；正文来自殆知阁、Project Gutenberg、文硕阁、scripta-sinica、chinese-poetry}
+}
+```
+
+---
+
+**English** — A catalog dataset of 96,220 public-domain books in 118 languages (2,808,551 chapters, ~24.6 billion characters), covering Chinese classical texts and the Project Gutenberg corpus. Metadata only — no full text. Every book has its own Markdown page with title, author, dynasty, genre, chapter and character counts, and source attribution. Read the full texts at [www.bqgmz.top](https://www.bqgmz.top/).
