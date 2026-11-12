@@ -1,7 +1,7 @@
 # Reglas y consejos sobre investigación científica (Los tónicos de la voluntad)
 
-**作者** Ramón y Cajal, Santiago, 1852-1934 ｜ **国家/地区** 西班牙 ｜ **体例** 题  
-**规模** 29 题 · 304,180 字 ｜ **来源** Project Gutenberg
+**作者** Ramón y Cajal, Santiago, 1852-1934 ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 10 章 · 304,180 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8aab42a30615/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（304,180 字）。 |
-| 分章依据 | 按「题」标记切分为 29 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,488 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 6,418 行。 |
+| 篇幅分布 | 平均每章 28,380 字；最长 CAPÍTULO XI（46,492 字），最短 CAPÍTULO VIII（15,505 字）。 |
 | 原文溯源 | `cache/epub/66373/pg66373.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. NOTA DE TRANSCRIPCIÓN
-2. 6.ª EDICIÓN
-3. ES PROPIEDAD DEL AUTOR
-4. PRÓLOGO DE LA SEGUNDA EDICIÓN
-5. PRÓLOGO DE LA TERCERA EDICIÓN
-6. PRÓLOGO DE LAS ÚLTIMAS EDICIONES
-7. CAPÍTULO PRIMERO
-8. CAPÍTULO II
-9. CAPÍTULO III
-10. CAPÍTULO IV
+1. CAPÍTULO II
+2. CAPÍTULO III
+3. CAPÍTULO IV
+4. CAPÍTULO V
+5. CAPÍTULO VI
+6. CAPÍTULO VII
+7. CAPÍTULO VIII
+8. CAPÍTULO IX
+9. CAPÍTULO X
+10. CAPÍTULO XI
 
-> 共 29 题，[完整目录与正文 →](https://www.bqgmz.top/b/8aab42a30615/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/8aab42a30615/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

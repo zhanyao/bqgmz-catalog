@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（244,199 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,364 字；最长 CHAPTER VI--THADY SHEA SMELLS WHISKEY（17,819 字），最短 CHAPTER XI--THADY SHEA DISCOVERS A PURPOSE（11,515 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 6,299 行。 |
+| 篇幅分布 | 平均每章 14,308 字；最长 CHAPTER VI--THADY SHEA SMELLS WHISKEY（17,819 字），最短 CHAPTER XI--THADY SHEA DISCOVERS A PURPOSE（11,515 字）。 |
 | 起止 | 始于「CHAPTER I--THE MAN WHO HAD BEEN」，止于「CHAPTER XVII--DORALES RUNS AWAY」。 |
 | 原文溯源 | `cache/epub/35078/pg35078.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/88fdd9c163fd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

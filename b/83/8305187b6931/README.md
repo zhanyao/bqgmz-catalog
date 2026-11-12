@@ -1,7 +1,7 @@
 # Der Aether gegen den Schmerz
 
-**作者** Dieffenbach, Johann Friedrich, 1792-1847 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 13 段 · 277,807 字 ｜ **来源** Project Gutenberg
+**作者** Dieffenbach, Johann Friedrich, 1792-1847 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 7 部分 · 277,807 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8305187b6931/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（277,807 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,369 字；最长 Von den Eigenschaften des Aethers sind einige schon oben erw（39,440 字），最短 Friedrich J., 24 Jahre alt, hatte in Folge eines Panaritiums（17,517 字）。 |
+| 分章依据 | 按「部分」标记切分为 7 部分（fallback-chunk），拼接正文 5,821 行。 |
+| 篇幅分布 | 平均每部分 39,686 字；最长 第 3 部分（43,573 字），最短 第 7 部分（20,688 字）。 |
 | 原文溯源 | `cache/epub/45996/pg45996.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 7 部分）
 
-1. Von den Eigenschaften des Aethers sind einige schon oben erw
-2. Der Apparat, dessen ich mich bediene, unterscheidet sich von
-3. Was zuerst die Betäubung anbetrifft, von der Gerdy als dem e
-4. 5. Es findet eine Steigerung des Schmerzgefühls Statt. Der h
-5. _Amputation der Glieder._ Die Amputation nicht bloß kleiner
-6. Die Anzahl der Fälle von glücklicher Anwendung der Aetherdäm
-7. Den Tod beobachtete in Folge der Einathmung des Aethers Jobe
-8. Herr Baudens hat also den Weg gebahnt, die Aetherbetäubung i
-9. Mad. K., 44 Jahr alt, eine geistvolle, zarte Dame, mit einer
-10. Ein 14jähriger Knabe mit einer sehr bedeutenden Vergrößerung
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/8305187b6931/)
+> 共 7 部分，[完整目录与正文 →](https://www.bqgmz.top/b/8305187b6931/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

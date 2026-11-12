@@ -11,16 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（446,551 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,502 字；最长 CHAPTER 2（35,417 字），最短 CHAPTER 15（7,113 字）。 |
-| 起止 | 始于「CHAPTER 1」，止于「CHAPTER 19」。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 10,507 行。 |
+| 篇幅分布 | 平均每章 23,411 字。 |
 | 原文溯源 | `cache/epub/32706/pg32706.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER 1
-2. CHAPTER 2
-3. CHAPTER 3
+1. BOOK ONE: DAWN
+2. BOOK TWO: THE WORLD WAR
+3. BOOK THREE: TRIPLANETARY
 4. CHAPTER 4
 5. CHAPTER 5
 6. CHAPTER 6
@@ -32,4 +31,4 @@
 > 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/8e6eb3820f85/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

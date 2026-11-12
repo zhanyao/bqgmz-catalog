@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（132,756 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,212 字；最长 CHAPTER X.--MISS MCDONALD.（23,161 字），最短 CHAPTER XI.--AT SARATOGA.（5,846 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 3,120 行。 |
+| 篇幅分布 | 平均每章 10,139 字；最长 CHAPTER X.--MISS MCDONALD.（23,161 字），最短 CHAPTER XI.--AT SARATOGA.（5,846 字）。 |
 | 起止 | 始于「CHAPTER I.--EXTRACTS FROM MISS FRANCES THORNTON'S JOURNAL.」，止于「CHAPTER XIII.--DAISY'S JOURNAL.」。 |
 | 原文溯源 | `cache/epub/37467/pg37467.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/93a9cf196bc5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

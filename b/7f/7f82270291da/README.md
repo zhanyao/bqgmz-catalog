@@ -1,7 +1,7 @@
 # It Might Have Been: The Story of the Gunpowder Plot
 
-**作者** Holt, Emily Sarah, 1836-1893; Irwin, M. (Madelaine) [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 58 题 · 522,519 字 ｜ **来源** Project Gutenberg
+**作者** Holt, Emily Sarah, 1836-1893; Irwin, M. (Madelaine) [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 522,519 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7f82270291da/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（522,519 字）。 |
-| 分章依据 | 按「题」标记切分为 58 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,008 字。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 13,113 行。 |
+| 篇幅分布 | 平均每章 32,497 字。 |
 | 原文溯源 | `cache/epub/25834/pg25834.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. PREFACE.
-3. CHAPTER ONE.
-4. THE LAST NIGHT IN THE OLD HOME.
-5. CHAPTER TWO.
-6. THE JOURNEY TO LONDON.
-7. CHAPTER THREE.
-8. HOW IT FIRST BEGAN.
-9. CHAPTER FOUR.
-10. WE GET INTO BAD COMPANY.
+1. CHAPTER ONE.
+2. CHAPTER TWO.
+3. CHAPTER THREE.
+4. CHAPTER FOUR.
+5. CHAPTER FIVE.
+6. CHAPTER SIX.
+7. CHAPTER SEVEN.
+8. CHAPTER EIGHT.
+9. CHAPTER NINE.
+10. CHAPTER TEN.
 
-> 共 58 题，[完整目录与正文 →](https://www.bqgmz.top/b/7f82270291da/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/7f82270291da/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

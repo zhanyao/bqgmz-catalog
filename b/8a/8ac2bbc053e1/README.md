@@ -1,7 +1,7 @@
 # More Conjuring: Simple Tricks for Social Gatherings
 
-**作者** Hercat, 1843-1914 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 119 题 · 87,428 字 ｜ **来源** Project Gutenberg
+**作者** Hercat, 1843-1914 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 10 篇 · 87,428 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8ac2bbc053e1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（87,428 字）。 |
-| 分章依据 | 按「题」标记切分为 119 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 734 字。 |
+| 分章依据 | 按「篇」标记切分为 10 篇（auto-title-block），拼接正文 2,644 行。 |
+| 篇幅分布 | 平均每篇 8,186 字；最长 AN EASY METHOD OF FINDING A SELECTED CARD（26,945 字），最短 NUMERAL（2,794 字）。 |
 | 原文溯源 | `cache/epub/32788/pg32788.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. TRANSCRIBER'S NOTE
-2. HERCAT'S SIMPLE TRICKS
-3. MORE CONJURING
-4. BY HERCAT
-5. Simple Tricks for Social Gatherings
-6. PREFACE
-7. In conclusion I beg to offer my readers the following advice:--
-8. HERCAT.
-9. CONTENTS
-10. SIMPLE CARD TRICKS PAGE
+1. AN EASY METHOD OF FINDING A SELECTED CARD
+2. TWO VANISHED HALF-CROWNS
+3. A SIMPLE EXPERIMENT WITH FOUR SHILLINGS
+4. HALF A BURNT MESSAGE FOUND RESTORED IN A CANDLE
+5. TO ASCERTAIN A NUMBER THOUGHT OF
+6. AN ANSWER TO A SUM GIVEN IN ADVANCE
+7. EXPERIMENT WITH TEN MATCHES
+8. NUMERAL
+9. POST AND RAIL PUZZLE
+10. CIGARETTE PAPERS AND SERVIETTES
 
-> 共 119 题，[完整目录与正文 →](https://www.bqgmz.top/b/8ac2bbc053e1/)
+> 共 10 篇，[完整目录与正文 →](https://www.bqgmz.top/b/8ac2bbc053e1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

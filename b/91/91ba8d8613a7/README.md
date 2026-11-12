@@ -11,15 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（398,936 字）。 |
-| 分章依据 | 按「章」标记切分为 47 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,488 字；最长 CHAPTER XI--"HELL-CAMP" COURT（22,861 字），最短 CHAPTER X--THE DUEL BEGINS（3,060 字）。 |
-| 起止 | 始于「CHAPTER I--HELP」，止于「CHAPTER XLVII--THE SNOW-BURNER PAYS」。 |
+| 分章依据 | 按「章」标记切分为 47 章（auto-chapter），拼接正文 10,526 行。 |
+| 篇幅分布 | 平均每章 8,480 字；最长 CHAPTER XI--"HELL-CAMP" COURT（22,861 字），最短 PART ONE: THE NATURAL MAN（450 字）。 |
 | 原文溯源 | `cache/epub/36121/pg36121.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I--HELP
-2. CHAPTER II--THE GIRL
+1. PART ONE: THE NATURAL MAN
+2. PART TWO: THE SUPER MAN
 3. CHAPTER III--TOPPY GETS A JOB
 4. CHAPTER IV--"HELL-CAMP" REIVERS
 5. CHAPTER V--TOPPY OVERHEARS A CONVERSATION
@@ -32,4 +31,4 @@
 > 共 47 章，[完整目录与正文 →](https://www.bqgmz.top/b/91ba8d8613a7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

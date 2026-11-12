@@ -1,7 +1,7 @@
 # The Peoples of India
 
 **作者** Anderson, J. D. (James Drummond), 1852-1920 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 3 章 · 142,873 字 ｜ **来源** Project Gutenberg
+**规模** 6 章 · 142,873 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/804c9d4c8523/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（142,873 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 47,624 字。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER III」。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 3,266 行。 |
+| 篇幅分布 | 平均每章 19,378 字；最长 CHAPTER I（47,773 字），最短 CHAPTER II（部2）（383 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER III（部2）」。 |
 | 原文溯源 | `cache/epub/55465/pg55465.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 章）
+## 章节目录（前 6 章）
 
 1. CHAPTER I
 2. CHAPTER II
 3. CHAPTER III
+4. CHAPTER I（部2）
+5. CHAPTER II（部2）
+6. CHAPTER III（部2）
 
-> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/804c9d4c8523/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/804c9d4c8523/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

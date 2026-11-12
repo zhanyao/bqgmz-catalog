@@ -1,7 +1,7 @@
 # Wilson's Tales of the Borders and of Scotland, Volume 07
 
-**作者** Wilson, John Mackay, 1804-1835 [Compiler]; Leighton, Alexander, 1800-1874 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 21 段 · 430,745 字 ｜ **来源** Project Gutenberg
+**作者** Wilson, John Mackay, 1804-1835 [Compiler]; Leighton, Alexander, 1800-1874 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 14 章 · 430,745 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7f909b14a3c3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（430,745 字）。 |
-| 分章依据 | 按「段」标记切分为 21 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,511 字；最长 "Wherefore should I fly?" returned the youth; "think ye, Jud（39,923 字），最短 "As had been the daily practice since our misfortunes began,（10,538 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-caps-sections），拼接正文 9,128 行。 |
+| 篇幅分布 | 平均每章 30,766 字；最长 HOME AND THE GIPSY MAID.（1）（56,215 字），最短 THE LYKEWAKE.（6,045 字）。 |
 | 原文溯源 | `cache/epub/34146/pg34146.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. "Wherefore should I fly?" returned the youth; "think ye, Jud
-2. The bare and scorched wilderness around, over which the eyes
-3. With these words he left the cottage, and hurrying to Riddle
-4. "Far beyond the reach of either history or tradition," I sai
-5. "The Conan," continued the man, "is as bonny a river as we h
-6. THE STORY OF THE MEALMONGER.
-7. These worthies now adjourned to a public-house, which was cl
-8. "Mother," he said, after a pause which had been preceded by
-9. Now, about the period to which we refer, there came a new te
-10. "Stick till't, Skimclean," he said--"stick till't as lang's
+1. THE DROICH.（1）
+2. THE DROICH.（2）
+3. THE LYKEWAKE.
+4. THE STORY OF ELSPAT M'CULLOCH.
+5. THE STORY OF DONALD GAIR.
+6. THE STORY OF THE DOOMED RIDER.
+7. THE STORY OF FAIRBURN'S GHOST.
+8. THE PENNY-WEDDING.
+9. THE AMATEUR LAWYERS.[3]
+10. FAMILY INCIDENTS.
 
-> 共 21 段，[完整目录与正文 →](https://www.bqgmz.top/b/7f909b14a3c3/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/7f909b14a3c3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

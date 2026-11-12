@@ -1,7 +1,7 @@
 # Lumeen haudattuna
 
-**作者** Hoffmann, Franz, 1814-1882 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 20 题 · 154,176 字 ｜ **来源** Project Gutenberg
+**作者** Hoffmann, Franz, 1814-1882 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 7 章 · 154,176 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8cfc9bef4c63/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（154,176 字）。 |
-| 分章依据 | 按「题」标记切分为 20 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,708 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-toc-title-list），拼接正文 3,269 行。 |
+| 篇幅分布 | 平均每章 21,967 字；最长 Katkera kaipaus.（54,978 字），最短 Ensimmäinen päivä paimenmajassa.（8,013 字）。 |
 | 原文溯源 | `cache/epub/58474/pg58474.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 章）
 
-1. E-text prepared by Tapio Riikonen
-2. LUMEEN HAUDATTUINA
-3. Tositapahtuman mukaan kertonut nuorille ystävillensä
-4. FRANZ HOFFMANN
-5. Suomennos kahdeksannesta saksalaisesta painoksesta
-6. SISÄLLYS:
-7. ENSIMMÄINEN LUKU.
-8. TOINEN LUKU.
-9. KOLMAS LUKU.
-10. NELJÄS LUKU.
+1. Jura-vuori ja sen asukkaat.
+2. Isoisä ja pojanpoika.
+3. Ensimmäinen päivä paimenmajassa.
+4. Lumeen haudattuina.
+5. Erakkojen elämä.
+6. Sudet.
+7. Katkera kaipaus.
 
-> 共 20 题，[完整目录与正文 →](https://www.bqgmz.top/b/8cfc9bef4c63/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/8cfc9bef4c63/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

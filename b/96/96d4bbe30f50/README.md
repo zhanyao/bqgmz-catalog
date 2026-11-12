@@ -1,7 +1,7 @@
 # A History of American Literature Since 1870
 
 **作者** Pattee, Fred Lewis, 1863-1950 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 860,936 字 ｜ **来源** Project Gutenberg
+**规模** 19 章 · 860,936 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/96d4bbe30f50/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（860,936 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 47,829 字；最长 CHAPTER XVIII（70,455 字），最短 CHAPTER V（28,825 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XVIII」。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 20,209 行。 |
+| 篇幅分布 | 平均每章 45,041 字；最长 CHAPTER X（65,968 字），最短 BIBLIOGRAPHY（27,899 字）。 |
 | 原文溯源 | `cache/epub/42593/pg42593.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/96d4bbe30f50/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/96d4bbe30f50/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

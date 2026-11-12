@@ -1,7 +1,7 @@
 # Anna Karenina, 2. Band
 
-**作者** Tolstoy, Leo, graf, 1828-1910 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 13 题 · 857,854 字 ｜ **来源** Project Gutenberg
+**作者** Tolstoy, Leo, graf, 1828-1910 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 115 章 · 857,854 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8dc16f696250/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（857,854 字）。 |
-| 分章依据 | 按「题」标记切分为 13 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 65,988 字。 |
+| 分章依据 | 按「章」标记切分为 115 章（auto-num），拼接正文 20,618 行。 |
+| 篇幅分布 | 平均每章 7,458 字；最长 22.（部2）（14,695 字），最短 6.（3,778 字）。 |
+| 起止 | 始于「1.」，止于「19.（部4）」。 |
 | 原文溯源 | `cache/epub/44957/pg44957.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Roman aus dem Russischen
-2. Nach der siebenten Auflage übersetzt
-3. Leipzig
-4. Golenischtscheff war hiermit nicht einve
-5. Anna.«
-6. Gräfin Lydia Iwanowna.«
-7. Sergey Iwanowitsch schritt neben ihr hin
-8. Wahrscheinlich mochte der Anblick dieser
-9. Die Sobranje eröffnete der Gouverneur se
-10. »Nein; mein Vater hatte welche; doch ich
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 13 题，[完整目录与正文 →](https://www.bqgmz.top/b/8dc16f696250/)
+> 共 115 章，[完整目录与正文 →](https://www.bqgmz.top/b/8dc16f696250/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

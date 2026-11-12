@@ -1,7 +1,7 @@
 # Other Worlds Their Nature, Possibilities and Habitability in the Light of the Latest Discoveries
 
 **作者** Serviss, Garrett Putman, 1851-1929 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 9 章 · 252,691 字 ｜ **来源** Project Gutenberg
+**规模** 10 章 · 252,691 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8cc4a758872b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,12 +11,11 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（252,691 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,076 字；最长 CHAPTER IV（37,822 字），最短 CHAPTER VI（20,605 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER IX」。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 5,724 行。 |
+| 篇幅分布 | 平均每章 23,618 字；最长 CHAPTER IV（37,822 字），最短 Appendix, by Prof. J. Mark Baldwin, of Princeton University. 12mo.（11,372 字）。 |
 | 原文溯源 | `cache/epub/18431/pg18431.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 章）
+## 章节目录（前 10 章）
 
 1. CHAPTER I
 2. CHAPTER II
@@ -27,8 +26,9 @@
 7. CHAPTER VII
 8. CHAPTER VIII
 9. CHAPTER IX
+10. Appendix, by Prof. J. Mark Baldwin, of Princeton University. 12mo.
 
-> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/8cc4a758872b/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/8cc4a758872b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

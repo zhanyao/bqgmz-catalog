@@ -1,7 +1,7 @@
 # Siam and Laos, as Seen by Our American Missionaries
 
 **作者** Backus, Mary [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 14 章 · 530,560 字 ｜ **来源** Project Gutenberg
+**规模** 39 章 · 530,560 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9829b7514616/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（530,560 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 37,897 字；最长 PART II.（139,424 字），最短 CHAPTER XIII.（1,559 字）。 |
+| 分章依据 | 按「章」标记切分为 39 章（auto-toc-title-list），拼接正文 11,498 行。 |
+| 篇幅分布 | 平均每章 13,413 字。 |
 | 原文溯源 | `cache/epub/63879/pg63879.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. PART II.
-2. CHAPTER VII.
-3. CHAPTER VIII.
-4. CHAPTER IX.
-5. CHAPTER X.
-6. CHAPTER XI.
-7. CHAPTER XII.
-8. CHAPTER XIII.
-9. CHAPTER XIV.
-10. CHAPTER XV.
+1. PART I.
+2. CHAPTER I.
+3. CHAPTER II.
+4. of Bangkok.
+5. CHAPTER III.
+6. CHAPTER IV.
+7. CHAPTER V.
+8. CHAPTER VI.
+9. VARIETIES OF SIAMESE LIFE.
+10. CHAPTER VII.
 
-> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/9829b7514616/)
+> 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/9829b7514616/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

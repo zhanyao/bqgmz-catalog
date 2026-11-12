@@ -1,7 +1,7 @@
 # Roundabout to Boston (from Literary Friends and Acquaintance)
 
-**作者** Howells, William Dean, 1837-1920 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 11 题 · 31,464 字 ｜ **来源** Project Gutenberg
+**作者** Howells, William Dean, 1837-1920 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 6 章 · 31,464 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/81a6dc50cd97/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（31,464 字）。 |
-| 分章依据 | 按「题」标记切分为 11 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,860 字。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-roman-bare），拼接正文 662 行。 |
+| 篇幅分布 | 平均每章 5,006 字；最长 I.（7,416 字），最短 VI.（2,199 字）。 |
+| 起止 | 始于「I.」，止于「VI.」。 |
 | 原文溯源 | `cache/epub/3397/pg3397.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 章）
 
-1. Produced by David Widger
-2. LITERARY FRIENDS AND ACQUAINTANCES--Roundabout to Boston
-3. ROUNDABOUT TO BOSTON
-4. I.
-5. II.
-6. III.
-7. IV.
-8. V.
-9. VI.
-10. ETEXT EDITOR'S BOOKMARKS:
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
 
-> 共 11 题，[完整目录与正文 →](https://www.bqgmz.top/b/81a6dc50cd97/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/81a6dc50cd97/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Penmanship: Teaching and Supervision
 
-**作者** Hiles, Leta Severance ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 118,195 字 ｜ **来源** Project Gutenberg
+**作者** Hiles, Leta Severance ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 118,195 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8c92a707264e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（118,195 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,639 字；最长 At this point it will be observed that pupils vary in regard（39,909 字），最短 _Aim_: To provide every student who leaves the senior high s（18,156 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 3,178 行。 |
+| 篇幅分布 | 平均每章 12,700 字；最长 CHAPTER TWO FUNDAMENTALS CONCERNED IN THE PROBLEM（28,594 字），最短 CHAPTER ONE THE PENMANSHIP PROBLEM（5,067 字）。 |
 | 原文溯源 | `cache/epub/66667/pg66667.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 9 章）
 
-1. At this point it will be observed that pupils vary in regard
-2. With the present day crowded curriculum it has been found ne
-3. 3. All pupils should write to the teacher’s count or dictati
-4. _Demonstration_: Each drill should be demonstrated briefly f
-5. _Aim_: To provide every student who leaves the senior high s
+1. CHAPTER ONE THE PENMANSHIP PROBLEM
+2. CHAPTER TWO FUNDAMENTALS CONCERNED IN THE PROBLEM
+3. CHAPTER THREE THE GENERALLY ACCEPTED SOLUTION: MUSCULAR MOVEMENT
+4. CHAPTER FOUR PREPARATION OF THE TEACHER
+5. CHAPTER FIVE SUITABLE EQUIPMENT AND MATERIALS
+6. CHAPTER SIX SOME WORKABLE SUGGESTIONS
+7. CHAPTER SEVEN SUGGESTIONS FOR THE GRADES, JUNIOR AND SENIOR HIGH SCHOOLS
+8. CHAPTER EIGHT SUPERVISION AND THE PENMANSHIP SUPERVISOR
+9. BIBLIOGRAPHY
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/8c92a707264e/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/8c92a707264e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

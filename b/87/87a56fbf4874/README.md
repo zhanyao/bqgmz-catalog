@@ -1,7 +1,7 @@
 # The Lost Wagon
 
-**作者** Kjelgaard, Jim, 1910-1959; McCann, Gerald, 1916-1995 [Illustrator]; Orbaan, Albert, 1913-1983 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 239 题 · 460,926 字 ｜ **来源** Project Gutenberg
+**作者** Kjelgaard, Jim, 1910-1959; McCann, Gerald, 1916-1995 [Illustrator]; Orbaan, Albert, 1913-1983 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 460,926 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/87a56fbf4874/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（460,926 字）。 |
-| 分章依据 | 按「题」标记切分为 239 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,928 字。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 12,681 行。 |
+| 篇幅分布 | 平均每章 27,063 字；最长 CHAPTER EIGHT（42,960 字），最短 CHAPTER THIRTEEN（17,344 字）。 |
 | 原文溯源 | `cache/epub/34697/pg34697.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE LOST WAGON
-2. Dodd, Mead & Company, New York
-3. Copyright, 1955 by Jim Kjelgaard
-4. All rights reserved
-5. Library of Congress Catalog Card Number: 55-7136
-6. Printed in the United States of America
-7. For Alma and Rob Zaun
-8. Contents
-9. I Pondering
-10. II The Discussion
+1. CHAPTER ONE
+2. CHAPTER TWO
+3. CHAPTER THREE
+4. CHAPTER FOUR
+5. CHAPTER FIVE
+6. CHAPTER SIX
+7. CHAPTER SEVEN
+8. CHAPTER EIGHT
+9. CHAPTER NINE
+10. CHAPTER TEN
 
-> 共 239 题，[完整目录与正文 →](https://www.bqgmz.top/b/87a56fbf4874/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/87a56fbf4874/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

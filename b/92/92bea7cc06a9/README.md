@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（88,794 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 4,673 字；最长 CHAPTER I. THE CHILDHOOD OF JOAN OF ARC（8,759 字），最短 CHAPTER XVII. HOW THE PRIESTS BETRAYED THE MAID（2,478 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 2,000 行。 |
+| 篇幅分布 | 平均每章 4,629 字；最长 CHAPTER IX. HOW JOAN DEFEATED THE ENGLISH IN FAIRFIELD（8,399 字），最短 CHAPTER XVII. HOW THE PRIESTS BETRAYED THE MAID（2,478 字）。 |
 | 起止 | 始于「CHAPTER I. THE CHILDHOOD OF JOAN OF ARC」，止于「CHAPTER XIX. THE SECOND TRIAL OF THE MAID」。 |
 | 原文溯源 | `cache/epub/48470/pg48470.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/92bea7cc06a9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

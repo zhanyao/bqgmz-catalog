@@ -1,7 +1,7 @@
 # Gleanings in Europe（#74937）
 
-**作者** Cooper, James Fenimore, 1789-1851 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 14 段 · 298,133 字 ｜ **来源** Project Gutenberg
+**作者** Cooper, James Fenimore, 1789-1851 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 298,133 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/93908e91fce0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（298,133 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,295 字；最长 I have just missed seeing Mr. Wadsworth too, in consequence （38,652 字），最短 [5] In the reign of Queen Anne, out of a little more than tw（18,660 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-toc-title-list），拼接正文 6,207 行。 |
+| 篇幅分布 | 平均每章 20,929 字；最长 LETTER XXVII. TO JACOB SUTHERLAND, ESQ., GENEVA.（42,420 字），最短 LETTER XXIV. TO R. COOPER, ESQ., COOPERSTOWN, N. Y.（10,975 字）。 |
 | 原文溯源 | `cache/epub/74937/pg74937.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. I have just missed seeing Mr. Wadsworth too, in consequence
-2. You are to know, that, under the English system of exclusion
-3. It ought to be said, that the young of both sexes have great
-4. I heard an anecdote the other day of this sovereign, which s
-5. Let us fancy an American to run a similar career. So little
-6. I hoped the fact was not so. “My experience would say it is,
-7. The English were accustomed to consider themselves the most
-8. There is, no doubt, much vice among the clergy every where,
-9. Our connexion here, was as far from vapouring on the subject
-10. It is not easy for any but close observers, to estimate the
+1. LETTER XV. TO RICHARD COOPER, ESQ., COOPERSTOWN, N. Y.
+2. LETTER XVI. TO RICHARD COOPER, ESQ., COOPERSTOWN, N. Y.
+3. LETTER XVII. TO MRS. COMSTOCK, COMSTOCK, MICHIGAN.
+4. LETTER XVIII. TO RICHARD COOPER, ESQ., COOPERSTOWN, N. Y.
+5. LETTER XIX. TO WILLIAM JAY, ESQUIRE.
+6. LETTER XX. TO JAMES STEVENSON, ESQ., ALBANY, N. Y.
+7. LETTER XXI. TO RICHARD COOPER, ESQUIRE, COOPERSTOWN.
+8. LETTER XXII. TO JACOB SUTHERLAND, ESQUIRE.
+9. LETTER XXIII. HENRY FLOYD-JONES, ESQ., FORT NECK.
+10. LETTER XXIV. TO R. COOPER, ESQ., COOPERSTOWN, N. Y.
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/93908e91fce0/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/93908e91fce0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

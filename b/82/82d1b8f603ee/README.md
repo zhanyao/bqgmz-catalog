@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（239,711 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,971 字；最长 CHAPTER V. “LIFE IN LONDON,” “LIFE IN PARIS,” “POINTS OF HUMOUR,” ETC.（38,962 字），最短 CHAPTER I. TWO EPOCHS.（8,836 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 5,029 行。 |
+| 篇幅分布 | 平均每章 23,556 字；最长 CHAPTER V. “LIFE IN LONDON,” “LIFE IN PARIS,” “POINTS OF HUMOUR,” ETC.（38,962 字），最短 CHAPTER I. TWO EPOCHS.（4,699 字）。 |
 | 起止 | 始于「CHAPTER I. TWO EPOCHS.」，止于「CHAPTER X. THE OMNIBUS.」。 |
 | 原文溯源 | `cache/epub/44741/pg44741.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/82d1b8f603ee/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

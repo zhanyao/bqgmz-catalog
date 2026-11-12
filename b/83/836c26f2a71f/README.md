@@ -1,7 +1,7 @@
 # The Divine Comedy, Volume 1, Hell
 
 **作者** Dante Alighieri, 1265-1321; Norton, Charles Eliot, 1827-1908 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 36 章 · 213,230 字 ｜ **来源** Project Gutenberg
+**规模** 34 章 · 213,230 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/836c26f2a71f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（213,230 字）。 |
-| 分章依据 | 按「章」标记切分为 36 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,923 字。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-chapter），拼接正文 5,362 行。 |
+| 篇幅分布 | 平均每章 5,621 字；最长 CANTO XXXIII.（7,006 字），最短 CANTO VI.（4,403 字）。 |
 | 原文溯源 | `cache/epub/1995/pg1995.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CANTO IX.
 10. CANTO X.
 
-> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/836c26f2a71f/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/836c26f2a71f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

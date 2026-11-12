@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（290,907 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,242 字；最长 CHAPTER XII.（40,291 字），最短 CHAPTER X.（12,258 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XII.」。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 6,972 行。 |
+| 篇幅分布 | 平均每章 24,206 字；最长 CHAPTER XII.（40,279 字），最短 CHAPTER X.（12,258 字）。 |
+| 起止 | 始于「CHAPTER I. "LOVE TOOK UP THE GLASS OF TIME, AND TURNED」，止于「CHAPTER XII.」。 |
 | 原文溯源 | `cache/epub/48021/pg48021.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
+1. CHAPTER I. "LOVE TOOK UP THE GLASS OF TIME, AND TURNED
 2. CHAPTER II.
 3. CHAPTER III.
 4. CHAPTER IV.
@@ -32,4 +32,4 @@
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/8321c9a96a50/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

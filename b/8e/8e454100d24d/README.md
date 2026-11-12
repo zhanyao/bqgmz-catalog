@@ -1,7 +1,7 @@
 # Th. M. Dostojewsky: Eine biographische Studie
 
-**作者** Hoffmann, Nina, 1844-1914 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 45 题 · 726,978 字 ｜ **来源** Project Gutenberg
+**作者** Hoffmann, Nina, 1844-1914 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 15 章 · 726,978 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8e454100d24d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（726,978 字）。 |
-| 分章依据 | 按「题」标记切分为 45 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 16,155 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-caps-sections），拼接正文 14,911 行。 |
+| 篇幅分布 | 平均每章 48,465 字；最长 VII.（1）（56,631 字），最短 VI.（8）（4,515 字）。 |
+| 起止 | 始于「VI.（1）」，止于「7811 R. 27 K.（2）」。 |
 | 原文溯源 | `cache/epub/52283/pg52283.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. 16. Mai 1849.
-2. 17. Mai 1849.
-3. Nabokow.«
-4. 24. Dezember 1849.
-5. Deinen Th. Dostojewsky.«
-6. Aber die Sache steht so, dass unsre -- n
-7. Zu den grössten Missständen rechnet Stra
-8. Mit aufrichtiger Hochachtung
-9. In der Fortsetzung dieses Briefes tritt
-10. -- -- Ich kehre erst im Juni heim, so ha
+1. VI.（1）
+2. VI.（2）
+3. VI.（3）
+4. VI.（4）
+5. VI.（5）
+6. VI.（6）
+7. VI.（7）
+8. VI.（8）
+9. VII.（1）
+10. VII.（2）
 
-> 共 45 题，[完整目录与正文 →](https://www.bqgmz.top/b/8e454100d24d/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/8e454100d24d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

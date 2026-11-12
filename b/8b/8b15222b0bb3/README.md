@@ -1,7 +1,7 @@
 # The Rise of the Dutch Republic — Volume 32: 1582-84
 
-**作者** Motley, John Lothrop, 1814-1877 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 111,068 字 ｜ **来源** Project Gutenberg
+**作者** Motley, John Lothrop, 1814-1877 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 102 篇 · 111,068 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8b15222b0bb3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（111,068 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,213 字；最长 The burghers coming to door and window to look for the cause（37,872 字），最短 The supremacy of his political genius was entirely beyond qu（11,635 字）。 |
+| 分章依据 | 按「篇」标记切分为 102 篇（通用标记切分），拼接正文 2,112 行。 |
+| 篇幅分布 | 平均每篇 1,088 字。 |
 | 原文溯源 | `cache/epub/4834/pg4834.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 篇）
 
-1. The burghers coming to door and window to look for the cause
-2. It would have been very difficult to extract much informatio
-3. The friends of the Union and of liberty used all their eloqu
-4. It was Sunday morning, and the bells were tolling for church
-5. The supremacy of his political genius was entirely beyond qu
+1. This eBook was produced by David Widger
+2. Parma recals the foreign troops--Siege of Oudenarde--Coolness of
+3. During the course of the year 1582, the military operations on both sides
+4. In the meantime, Farnese, while awaiting these reinforcements, had not
+5. An attempt upon Lochum, an important city, in Gelderland, was
+6. The young noble was imprisoned; his guilt was far from doubtful; but the
+7. The Duke of Anjou, a month later, was received with equal pomp, in the
+8. The 15th day of December, in this year was celebrated according to the
+9. They struck the basest chords of the Duke's base nature by awakening his
+10. Early in January, 1583, he sent one night for several of his intimate
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/8b15222b0bb3/)
+> 共 102 篇，[完整目录与正文 →](https://www.bqgmz.top/b/8b15222b0bb3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

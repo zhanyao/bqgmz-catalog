@@ -1,7 +1,7 @@
 # The Weavers: a tale of England and Egypt of fifty years ago - Volume 2（#6263）
 
-**作者** Parker, Gilbert, 1862-1932 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 14 章 · 220,107 字 ｜ **来源** Project Gutenberg
+**作者** Parker, Gilbert, 1862-1932 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 11 篇 · 220,107 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9880e2f60564/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（220,107 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,721 字；最长 CHAPTER XXVII（35,853 字），最短 BOOK III.（397 字）。 |
+| 分章依据 | 按「篇」标记切分为 11 篇（通用标记切分），拼接正文 5,383 行。 |
+| 篇幅分布 | 平均每篇 19,972 字；最长 AS IN A GLASS DARKLY（62,993 字），最短 THE WOMAN OF THE CROSS-ROADS（6,282 字）。 |
 | 原文溯源 | `cache/epub/6263/pg6263.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 10 篇）
 
-1. BOOK III.
-2. CHAPTER XV
-3. CHAPTER XVI
-4. CHAPTER XVII
-5. CHAPTER XVIII
-6. CHAPTER XIX
-7. CHAPTER XX
-8. CHAPTER XXI
-9. CHAPTER XXII
-10. CHAPTER XXIII
+1. SOOLSBY'S HAND UPON THE CURTAIN
+2. THE DEBT AND THE ACCOUNTING
+3. THE WOMAN OF THE CROSS-ROADS
+4. TIME, THE IDOL-BREAKER
+5. SHARPER THAN A SWORD
+6. EACH AFTER HIS OWN ORDER
+7. "THERE IS NOTHING HIDDEN WHICH SHALL NOT BE REVEALED"
+8. AS IN A GLASS DARKLY
+9. THE VOICE THROUGH THE DOOR
+10. "I OWE YOU NOTHING"
 
-> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/9880e2f60564/)
+> 共 11 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9880e2f60564/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

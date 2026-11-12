@@ -1,7 +1,7 @@
 # Alfred Kihlman: Elämän kuvaus. 2 (of 2)
 
-**作者** Aspelin-Haapkylä, Eliel, 1847-1917 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 34 段 · 696,672 字 ｜ **来源** Project Gutenberg
+**作者** Aspelin-Haapkylä, Eliel, 1847-1917 ｜ **国家/地区** 芬兰 ｜ **体例** 篇  
+**规模** 491 篇 · 696,672 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/92fe31a311c7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（696,672 字）。 |
-| 分章依据 | 按「段」标记切分为 34 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,490 字；最长 Ensiksikin on huomattava hänen virkansa normaalikoulussa, ja（39,620 字），最短 Totuuden mukaan on julkilausuttava, että Kihlman jo melkoist（16,775 字）。 |
+| 分章依据 | 按「篇」标记切分为 491 篇（通用标记切分），拼接正文 13,285 行。 |
+| 篇幅分布 | 平均每篇 1,418 字。 |
 | 原文溯源 | `cache/epub/50142/pg50142.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Ensiksikin on huomattava hänen virkansa normaalikoulussa, ja
-2. Uusi vuosi 1867 toi vihdoin lopun pikku Unon kärsimyksille.
-3. Viime sanoissa julkilausuttu tunnelma sai Kihlmanin matkusta
-4. Vaikka vuodentulo 1868 jälleen oli hyvä, ei sentään piankaan
-5. Syventymättä yksityisseikkoihin otettakoon tähän vain pari
-6. Kirjeenvaihtoa jatkuu vielä kevääseen saakka, ja aiheena oli
-7. Mihin määrään Kihlmanin mielentyyneys ulottui, sitä emme kui
-8. Samassa kirjeessä Kihlman selvittää kantansa toiseenkin kysy
-9. Vaikka Essen oli se, joka julkisesti esiintyi puuhiomo-yrity
-10. Jos Kihlman oli toivonut, että asiat nyt olivat selvillä, ni
+1. Antaessaan lukijan käsiin jälkimmäisen osan Alfred Kihlmanin
+2. vastauksella sinua on kunnioitettu (!)"
+3. heitä nenästä."
+4. niin pahasti, että sairastui ja kuoli."
+5. (3/12 1853) -- -- "Ja mitä sanot siitä, että Kihlman on tullut
+6. (10/7 1854). -- -- "No niin! Kihlman on Turussa, ja minä olen ollut
+7. Tässä arvostelussa huomaa siksi vähän todellista myötätuntoa ja
+8. Siihen mitä edellisen osan esipuheessa on sanottu koko teokseen
+9. Käydessään Helsingissä pääsiäisen edellä Kihlman oli vuokrannut
+10. Marraskuun keskivaiheilla, jolloin edullinen käänne oli ilmaantunut
 
-> 共 34 段，[完整目录与正文 →](https://www.bqgmz.top/b/92fe31a311c7/)
+> 共 491 篇，[完整目录与正文 →](https://www.bqgmz.top/b/92fe31a311c7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

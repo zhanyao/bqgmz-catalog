@@ -1,7 +1,7 @@
 # Bob Strong's Holidays Adrift in the Channel
 
-**作者** Hutcheson, John C. (John Conroy); Greene, John B. [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 71 题 · 389,761 字 ｜ **来源** Project Gutenberg
+**作者** Hutcheson, John C. (John Conroy); Greene, John B. [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 389,761 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/86824d95b383/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（389,761 字）。 |
-| 分章依据 | 按「题」标记切分为 71 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,489 字。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 10,068 行。 |
+| 篇幅分布 | 平均每章 18,479 字；最长 CHAPTER TWENTY.（67,210 字），最短 CHAPTER TWELVE.（11,435 字）。 |
 | 原文溯源 | `cache/epub/21106/pg21106.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. Bob Strong's Holiday; or, Adrift in the Channel
-3. BOB STRONG'S HOLIDAYS; OR, ADRIFT IN THE CHANNEL
-4. BY JOHN CONROY HUTCHESON
-5. CHAPTER ONE.
-6. DOWN THE LINE.
-7. It was a regular jolly "Ha, ha, ha!"
-8. But, before the old gentleman could rise from his seat, or
-9. CHAPTER TWO.
-10. A RUNAWAY.
+1. CHAPTER ONE.
+2. CHAPTER TWO.
+3. CHAPTER THREE.
+4. CHAPTER FOUR.
+5. CHAPTER FIVE.
+6. CHAPTER SIX.
+7. CHAPTER SEVEN.
+8. CHAPTER EIGHT.
+9. CHAPTER NINE.
+10. CHAPTER TEN.
 
-> 共 71 题，[完整目录与正文 →](https://www.bqgmz.top/b/86824d95b383/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/86824d95b383/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

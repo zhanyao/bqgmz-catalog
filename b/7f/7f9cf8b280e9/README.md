@@ -1,7 +1,7 @@
 # Scientific American Supplement, No. 514, November 7, 1885
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 68 题 · 162,542 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 26 章 · 162,542 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7f9cf8b280e9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（162,542 字）。 |
-| 分章依据 | 按「题」标记切分为 68 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,390 字。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-caps-sections），拼接正文 3,978 行。 |
+| 篇幅分布 | 平均每章 6,251 字；最长 APPARATUS FOR THE PRODUCTION OF WATER GAS.（28,044 字），最短 EDITORIAL NOTE.（556 字）。 |
 | 原文溯源 | `cache/epub/11761/pg11761.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SCIENTIFIC AMERICAN SUPPLEMENT NO. 514
-2. NEW YORK, NOVEMBER 7, 1885
-3. Scientific American established 1845
-4. TABLE OF CONTENTS.
-5. III. TECHNOLOGY.--The Blue Print Process.--R.W. JONES.
-6. ROMAN REMAINS AT LEICESTER, ENGLAND.
-7. THE BARBARA UTTMANN STATUE AT ANNABERG, SAXONY.
-8. IMPROVEMENTS IN CONCRETE CONSTRUCTION.
-9. THE BLUE PRINT PROCESS.
-10. R.W. JONES.
+1. ROMAN REMAINS AT LEICESTER, ENGLAND.
+2. IMPROVEMENTS IN CONCRETE CONSTRUCTION.
+3. R.W. JONES.
+4. A.H. HAIG.
+5. A PLAN FOR A CARBONIZING HOUSE.
+6. APPARATUS FOR EVAPORATING ORGANIC LIQUIDS.
+7. THE SCHOLAR'S COMPASSES.
+8. THE INTEGRAPH.
+9. APPARATUS FOR MANUFACTURING GASEOUS BEVERAGES.
+10. APPARATUS FOR MEASURING THE FORCE OF EXPLOSIVES.
 
-> 共 68 题，[完整目录与正文 →](https://www.bqgmz.top/b/7f9cf8b280e9/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/7f9cf8b280e9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

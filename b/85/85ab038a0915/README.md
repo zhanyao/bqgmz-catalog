@@ -1,7 +1,7 @@
 # History of English Literature from "Beowulf" to Swinburne
 
 **作者** Lang, Andrew, 1844-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 29 章 · 1,157,228 字 ｜ **来源** Project Gutenberg
+**规模** 37 章 · 1,157,228 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/85ab038a0915/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,157,228 字）。 |
-| 分章依据 | 按「章」标记切分为 29 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,904 字；最长 Edward George Bulwer Lytton (1803-1873) （97,533 字），最短 CHAPTER XIII.（7,170 字）。 |
+| 分章依据 | 按「章」标记切分为 37 章（auto-chapter），拼接正文 25,906 行。 |
+| 篇幅分布 | 平均每章 30,776 字；最长 CHAPTER XIX.（85,237 字），最短 CHAPTER XIII.（7,170 字）。 |
+| 起止 | 始于「CHAPTER I. ANGLO-SAXON LITERATURE.」，止于「CHAPTER XXXVII.」。 |
 | 原文溯源 | `cache/epub/56613/pg56613.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/85ab038a0915/)
+> 共 37 章，[完整目录与正文 →](https://www.bqgmz.top/b/85ab038a0915/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Stories of California
 
-**作者** Sexton, Ella M. (Ella May), 1851-1934 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 158,366 字 ｜ **来源** Project Gutenberg
+**作者** Sexton, Ella M. (Ella May), 1851-1934 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 158,366 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8b7405d33dfb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（158,366 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,623 字；最长 "Sometimes we went to the rodeo, where once a year the great（39,711 字），最短 The streets of San Francisco honor some of the citizens of 1（18,509 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-toc-title-list），拼接正文 3,710 行。 |
+| 篇幅分布 | 平均每章 7,409 字；最长 THE AMERICANS AND THE BEAR-FLAG REPUBLIC（13,845 字），最短 THE LEMON（2,723 字）。 |
 | 原文溯源 | `cache/epub/13232/pg13232.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. "Sometimes we went to the rodeo, where once a year the great
-2. The first piece Marshall found was said to be worth about fi
-3. Then a great machine called a "header and thresher" is drive
-4. Usually, these and other shrubs cover the hillsides with a t
-5. When Father Serra's Mission people were starving at Monterey
-6. The Indians got many deer, and one way of hunting them was t
-7. The streets of San Francisco honor some of the citizens of 1
+1. CALIFORNIA'S NAME AND EARLY HISTORY
+2. THE STORY OF THE MISSIONS AND OF FATHER SERRA
+3. BEFORE THE GRINGOS CAME
+4. THE AMERICANS AND THE BEAR-FLAG REPUBLIC
+5. MINING STORIES
+6. HOW POLLY ELLIOTT CAME ACROSS THE PLAINS
+7. THE BUILDING OF THE OVERLAND RAILROAD
+8. STORY OF THE WHEAT FIELDS
+9. ORCHARD, FARM, AND VINEYARD
+10. THE STORY OF THE NAVEL ORANGE
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/8b7405d33dfb/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/8b7405d33dfb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

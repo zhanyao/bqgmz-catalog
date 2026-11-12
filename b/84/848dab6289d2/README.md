@@ -1,7 +1,7 @@
 # James Nasmyth, Engineer: An Autobiography
 
 **作者** Nasmyth, James, 1808-1890; Smiles, Samuel, 1812-1904 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 22 章 · 694,370 字 ｜ **来源** Project Gutenberg
+**规模** 21 章 · 694,370 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/848dab6289d2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（694,370 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 31,562 字；最长 CHAPTER 21.  Active leisure.（58,967 字），最短 CHAPTER 11.  Bridgewater Foundry--Partnership.（20,811 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 14,700 行。 |
+| 篇幅分布 | 平均每章 32,380 字；最长 CHAPTER 21. Active leisure.（115,020 字），最短 CHAPTER 11. Bridgewater Foundry--Partnership.（20,811 字）。 |
+| 起止 | 始于「CHAPTER 1. My Ancestry」，止于「CHAPTER 21. Active leisure.」。 |
 | 原文溯源 | `cache/epub/476/pg476.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER 9. Holiday in the Manufacturing Districts.
 10. CHAPTER 10. Begin Business at Manchester
 
-> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/848dab6289d2/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/848dab6289d2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

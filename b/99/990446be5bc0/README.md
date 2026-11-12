@@ -1,7 +1,7 @@
 # Jaakko Jaakonpoika
 
-**作者** Alkio, Santeri, 1862-1930 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 7 段 · 156,264 字 ｜ **来源** Project Gutenberg
+**作者** Alkio, Santeri, 1862-1930 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 18 章 · 156,264 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/990446be5bc0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（156,264 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,323 字；最长 Sillä hetkellä hän mielessään mittaili niin vireästi kuin se（39,982 字），最短 Heinosen puheen jälkeen oli siihen saakka suljettu ja raskas（16,284 字）。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-num），拼接正文 4,769 行。 |
+| 篇幅分布 | 平均每章 8,676 字；最长 15.（14,397 字），最短 12.（4,720 字）。 |
+| 起止 | 始于「1.」，止于「18.」。 |
 | 原文溯源 | `cache/epub/14349/pg14349.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. Sillä hetkellä hän mielessään mittaili niin vireästi kuin se
-2. -- Eihän se ... taitaa myydä.
-3. Mutta nyt valtasi tytön liikutus ja hän rupesi nyyhkimään. M
-4. -- Meinaan vain, jotta hätäkö rikkahia on maallansa pitää, s
-5. Jaakko Jaakonpoika kiersi nurkantaitse pihanpuolelle, missä
-6. Emännän tarkka korva oli käynyt näistä asioista keskusteltae
-7. Heinosen puheen jälkeen oli siihen saakka suljettu ja raskas
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/990446be5bc0/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/990446be5bc0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

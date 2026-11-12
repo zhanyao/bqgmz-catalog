@@ -1,7 +1,7 @@
 # The war of the Carolinas
 
 **作者** Nicholson, Meredith, 1866-1947; Reid, Stephen, 1873-1948 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 398,238 字 ｜ **来源** Project Gutenberg
+**规模** 21 章 · 398,238 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8e3bdbb9a32f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（398,238 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 30,633 字；最长 CHAPTER XII.（92,981 字），最短 CHAPTER IX.（12,542 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 10,065 行。 |
+| 篇幅分布 | 平均每章 18,798 字；最长 CHAPTER I.（31,574 字），最短 CHAPTER XXI.（9,972 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXI.」。 |
 | 原文溯源 | `cache/epub/68275/pg68275.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/8e3bdbb9a32f/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/8e3bdbb9a32f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

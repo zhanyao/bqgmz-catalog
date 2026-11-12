@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（276,423 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,489 字；最长 CHAPTER VI.（60,332 字），最短 CHAPTER I.（25,656 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-chapter），拼接正文 6,373 行。 |
+| 篇幅分布 | 平均每章 39,233 字；最长 Notes and Appendices. By CHARLES INGRAM BLACK, M.A., Vicar of（66,462 字），最短 CHAPTER I.（23,865 字）。 |
 | 原文溯源 | `cache/epub/73610/pg73610.txt`（Project Gutenberg） |
 
 ## 章节目录（前 7 章）
@@ -23,9 +23,9 @@
 4. CHAPTER IV.
 5. CHAPTER V.
 6. CHAPTER VI.
-7. CONTENTS:—Indian Agriculture; Beer; Caca
+7. Notes and Appendices. By CHARLES INGRAM BLACK, M.A., Vicar of
 
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/905380ba85e7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

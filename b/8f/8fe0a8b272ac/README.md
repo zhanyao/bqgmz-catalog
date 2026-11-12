@@ -1,7 +1,7 @@
 # Letters of an Architect, From France, Italy, and Greece. Volume 2 [of 2]
 
-**作者** Woods, Joseph, 1776-1864 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 46 段 · 921,682 字 ｜ **来源** Project Gutenberg
+**作者** Woods, Joseph, 1776-1864 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 648 篇 · 921,682 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8fe0a8b272ac/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（921,682 字）。 |
-| 分章依据 | 按「段」标记切分为 46 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,036 字；最长 Our next object will be the Fontana di Termini, the water of（39,540 字），最短 This book uses inconsistent spelling and hyphenation, which （884 字）。 |
+| 分章依据 | 按「篇」标记切分为 648 篇（通用标记切分），拼接正文 20,713 行。 |
+| 篇幅分布 | 平均每篇 1,422 字。 |
 | 原文溯源 | `cache/epub/64272/pg64272.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Our next object will be the Fontana di Termini, the water of
-2. Proceeding along the Corso, we find an immense building that
-3. We will now leave the Trastevere, and pass over the Bridge o
-4. I often wish for a tolerable map of the neighbourhood, which
-5. There is nothing to claim your attention in the architecture
-6. MY first excursion to Tivoli was in the beginning of March;
-7. From this spot we have to climb again into a road which runs
-8. On the 25th I left Tivoli, intending to walk to the villa of
-9. From Tusculum I walked to Mondragone, a vast palace of the p
-10. My first trip to Ostia was on the 15th of April, a fine fros
+1. When italics were used in the original book, the corresponding text has
+2. [Illustration:
+3. Wall of Tarquinius Superbus, 1.—Circus of Sallust, 1.—Temple of Venus
+4. Baths of Caracalla, 39.—Great Halls, 39.—Tomb of the Scipios, 40.—Arch
+5. Procession to obtain rain, 79.—St. Peter’s toe, 79.—Frascati, 79.—Grotto
+6. Companions in journey, 95.—Church at Monte Rosi, 96.—Nepi, 96.—Cività
+7. Ravenna, 124.—Church of San Vittore, 124.—Spirito Santo, 125.—Church of
+8. Feeling for art in Italy, 174.—Journey to Naples, 174.—Postillion
+9. Propylæa, 241.—Temple of Victory without wings, 241.—Very ancient
+10. Comparison of Rome and Athens, 259.—Walls of the Acropolis, 261.—Grotto
 
-> 共 46 段，[完整目录与正文 →](https://www.bqgmz.top/b/8fe0a8b272ac/)
+> 共 648 篇，[完整目录与正文 →](https://www.bqgmz.top/b/8fe0a8b272ac/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

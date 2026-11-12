@@ -1,7 +1,7 @@
 # Le lys noir
 
-**作者** Gastyne, Jules de, 1847-1920 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 53 题 · 353,748 字 ｜ **来源** Project Gutenberg
+**作者** Gastyne, Jules de, 1847-1920 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 40 章 · 353,748 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7fc217dc5798/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（353,748 字）。 |
-| 分章依据 | 按「题」标记切分为 53 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,674 字。 |
+| 分章依据 | 按「章」标记切分为 40 章（auto-roman-bare），拼接正文 13,180 行。 |
+| 篇幅分布 | 平均每章 8,833 字；最长 VI（18,969 字），最短 III（部2）（2,657 字）。 |
 | 原文溯源 | `cache/epub/17184/pg17184.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LE LYS NOIR
-2. ÉMILE COLIN, IMPRIMERIE DE LAGNY (S.-ET-M.)
-3. JULES DE GASTYNE
-4. LE LYS NOIR
-5. Grand Roman Dramatique
-6. PARIS
-7. PREMIÈRE PARTIE
-8. L'IMPOSTURE
-9. II
-10. III
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 53 题，[完整目录与正文 →](https://www.bqgmz.top/b/7fc217dc5798/)
+> 共 40 章，[完整目录与正文 →](https://www.bqgmz.top/b/7fc217dc5798/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

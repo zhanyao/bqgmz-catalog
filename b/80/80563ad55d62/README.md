@@ -1,7 +1,7 @@
 # Die Harzreise
 
-**作者** Heine, Heinrich, 1797-1856; Lachmann, Otto F. [Editor] ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 8 题 · 115,703 字 ｜ **来源** Project Gutenberg
+**作者** Heine, Heinrich, 1797-1856; Lachmann, Otto F. [Editor] ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 85 篇 · 115,703 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/80563ad55d62/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（115,703 字）。 |
-| 分章依据 | 按「题」标记切分为 8 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,462 字。 |
+| 分章依据 | 按「篇」标记切分为 85 篇（通用标记切分），拼接正文 2,431 行。 |
+| 篇幅分布 | 平均每篇 1,352 字。 |
 | 原文溯源 | `cache/epub/24249/pg24249.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 题）
+## 章节目录（前 10 篇）
 
-1. Die Harzreise
-2. Von
-3. Heinrich Heine
-4. Otto F. Lachmann
-5. Leipzig
-6. I.
-7. II.
-8. III.
+1. Die Stadt Göttingen, berühmt durch ihre Würste und Universität, gehört
+2. Ausführlicheres über die Stadt Göttingen läßt sich sehr bequem nachlesen
+3. Es war noch sehr früh, als ich Göttingen verließ, und der gelehrte **
+4. Auf der Chaussee wehte frische Morgenluft, und die Vögel sangen gar
+5. Aus den Myrtenlauben bei Rauschenwasser sah ich zwei hoffnungsvolle
+6. Im Wirtshause zu Nörten traf ich die beiden Jünglinge wieder. Der eine
+7. Hinter Nörten stand die Sonne hoch und glänzend am Himmel. Sie meinte es
+8. Hinter Nordheim wird es schon gebirgig, und hier und da treten schöne
+9. In pechdunkler Nacht kam ich an zu Osterode. Es fehlte mir der Appetit
+10. Erwachend hörte ich noch immer ein freundliches Klingen. Die Herden
 
-> 共 8 题，[完整目录与正文 →](https://www.bqgmz.top/b/80563ad55d62/)
+> 共 85 篇，[完整目录与正文 →](https://www.bqgmz.top/b/80563ad55d62/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

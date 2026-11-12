@@ -1,7 +1,7 @@
 # The library of Photius, Volume 1 (of 1)
 
-**作者** Photius I, Saint, Patriarch of Constantinople, 820?-891?; Freese, John Henry, 1852-1930 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 203 题 · 480,864 字 ｜ **来源** Project Gutenberg
+**作者** Photius I, Saint, Patriarch of Constantinople, 820?-891?; Freese, John Henry, 1852-1930 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 135 篇 · 480,864 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/820234ef32a1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（480,864 字）。 |
-| 分章依据 | 按「题」标记切分为 203 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,368 字。 |
+| 分章依据 | 按「篇」标记切分为 135 篇（通用标记切分），拼接正文 11,922 行。 |
+| 篇幅分布 | 平均每篇 3,550 字。 |
 | 原文溯源 | `cache/epub/79139/pg79139.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. TRANSLATIONS OF CHRISTIAN LITERATURE
-2. PHOTIUS
-3. VOL. I.
-4. PREFACE
-5. FOOTNOTES:
-6. ALPHABETICAL LIST OF AUTHORS CRITICISED IN VOL. I
-7. Ctesias. _Persica_ (LXXII)
-8. Gaius, _see_ Caius
-9. Orators, the ten, Lexica to (CXLV-CLIX)
-10. Synod of “The Oak” (LIX)
+1. PREFACE
+2. BIBLIOTHECA OR MYRIOBIBLON[6]
+3. I[11]
+4. III
+5. IV
+6. VII
+7. VIII
+8. IX
+9. XIII
+10. XIV
 
-> 共 203 题，[完整目录与正文 →](https://www.bqgmz.top/b/820234ef32a1/)
+> 共 135 篇，[完整目录与正文 →](https://www.bqgmz.top/b/820234ef32a1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

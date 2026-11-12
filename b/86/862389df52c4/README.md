@@ -1,0 +1,34 @@
+# The Philistine: a periodical of protest (Vol. III, No. 2, July 1896)
+
+**作者** Various; Hubbard, Elbert, 1856-1915 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 37,396 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/862389df52c4/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（37,396 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 1,152 行。 |
+| 篇幅分布 | 平均每章 2,876 字；最长 NOTICE TO（8,784 字），最短 QUERY TWO.（458 字）。 |
+| 原文溯源 | `cache/epub/72653/pg72653.txt`（Project Gutenberg） |
+
+## 章节目录（前 10 章）
+
+1. NOTICE TO
+2. CELEBRATION, OF RIOTOUS DRINKING AND LAUGHTER. FINALLY, A SWIFT QUARREL.
+3. A VENTURE IN MANUSCRIPT.
+4. QUERY TWO.
+5. QUERY THREE.
+6. QUERY FIVE.
+7. UNFORBIDDEN FRUIT.
+8. WHICH SINNED?
+9. THE UNUSABLE PLOT.
+10. “SANS WINS, SANS SONG, SANS SINGER, AND—SANS END.”
+
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/862389df52c4/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

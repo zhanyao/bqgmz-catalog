@@ -1,7 +1,7 @@
 # Rumänisches Tagebuch
 
-**作者** Carossa, Hans, 1878-1956 ｜ **国家/地区** 德国 ｜ **体例** 题  
-**规模** 64 题 · 191,538 字 ｜ **来源** Project Gutenberg
+**作者** Carossa, Hans, 1878-1956 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 5 部分 · 191,538 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/97dee12af29b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（191,538 字）。 |
-| 分章依据 | 按「题」标记切分为 64 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,992 字。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 4,037 行。 |
+| 篇幅分布 | 平均每部分 38,307 字；最长 第 2 部分（42,484 字），最短 第 5 部分（22,467 字）。 |
 | 原文溯源 | `cache/epub/63410/pg63410.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 部分）
 
-1. Hans Carossa
-2. Rumänisches Tagebuch
-3. 5. Oktober
-4. Abends
-5. 8. Oktober
-6. Pronville, 9. Oktober 1916
-7. 12. Oktober
-8. 14. Oktober
-9. 15. Oktober
-10. 16. Oktober
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 64 题，[完整目录与正文 →](https://www.bqgmz.top/b/97dee12af29b/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/97dee12af29b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

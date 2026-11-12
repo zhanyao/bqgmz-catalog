@@ -1,7 +1,7 @@
 # The Last Rebel
 
 **作者** Altsheler, Joseph A. (Joseph Alexander), 1862-1919; Abbott, Elenore Plaisted, 1876-1935 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 9 章 · 145,917 字 ｜ **来源** Project Gutenberg
+**规模** 10 章 · 145,917 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/887938e6a231/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,12 +11,11 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（145,917 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,213 字；最长 CHAPTER VI.（20,722 字），最短 CHAPTER IX.（3,865 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER IX.」。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 3,906 行。 |
+| 篇幅分布 | 平均每章 14,478 字；最长 CHAPTER VI.（20,722 字），最短 notes."--_Philadelphia Evening Bulletin._（617 字）。 |
 | 原文溯源 | `cache/epub/58617/pg58617.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 章）
+## 章节目录（前 10 章）
 
 1. CHAPTER I.
 2. CHAPTER II.
@@ -27,8 +26,9 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
+10. notes."--_Philadelphia Evening Bulletin._
 
-> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/887938e6a231/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/887938e6a231/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

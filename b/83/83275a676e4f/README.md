@@ -11,18 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（386,745 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 96,686 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-chapter），拼接正文 8,571 行。 |
+| 篇幅分布 | 平均每章 72,810 字。 |
 | 原文溯源 | `cache/epub/16057/pg16057.txt`（Project Gutenberg） |
 
 ## 章节目录（前 4 章）
 
-1. CHAPTER I.
+1. PART I
 2. CHAPTER II.
 3. CHAPTER III.
-4. England stands in the somewhat anomalous
+4. Notes of Hospital Life, from November, 1861, to August, 1863.
 
 > 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/83275a676e4f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Rosvot: Viisinäytöksinen näytelmä
 
-**作者** Schiller, Friedrich, 1759-1805; Siljo, Juhani, 1888-1918 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 86 题 · 214,893 字 ｜ **来源** Project Gutenberg
+**作者** Schiller, Friedrich, 1759-1805; Siljo, Juhani, 1888-1918 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 5 章 · 214,893 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/969861b54069/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（214,893 字）。 |
-| 分章依据 | 按「题」标记切分为 86 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,498 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-caps-sections），拼接正文 5,581 行。 |
+| 篇幅分布 | 平均每章 42,978 字；最长 ESIPUHE.（1）（55,307 字），最短 MUITA ROSVOJA. AMALIA.（9,796 字）。 |
 | 原文溯源 | `cache/epub/45739/pg45739.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. ROSVOT
-2. Viisinäytöksinen näytelmä
-3. FR. v. SCHILLER
-4. Suomentanut Juhani Siljo
-5. ESIPUHE.
-6. HENKILÖT:
-7. ENSIMÄINEN NÄYTÖS.
-8. ENSIMÄINEN KOHTAUS.
-9. FRANS. VANHA MOOR.
-10. V. MOOR (elostuen). Uutisiako Kaarle pojastani?
+1. ESIPUHE.（1）
+2. ESIPUHE.（2）
+3. SPIEGELBERG, RAZMANN, ROSVOJOUKKO.
+4. NELJÄS KOHTAUS.
+5. MUITA ROSVOJA. AMALIA.
 
-> 共 86 题，[完整目录与正文 →](https://www.bqgmz.top/b/969861b54069/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/969861b54069/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

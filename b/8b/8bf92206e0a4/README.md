@@ -1,7 +1,7 @@
 # A Strange Discovery
 
-**作者** Dake, Charles Romyn, 1849-1899 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 29 题 · 300,445 字 ｜ **来源** Project Gutenberg
+**作者** Dake, Charles Romyn, 1849-1899 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 8 部分 · 300,445 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8bf92206e0a4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（300,445 字）。 |
-| 分章依据 | 按「题」标记切分为 29 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,360 字。 |
+| 分章依据 | 按「部分」标记切分为 8 部分（fallback-chunk），拼接正文 6,038 行。 |
+| 篇幅分布 | 平均每部分 37,555 字；最长 第 4 部分（42,040 字），最短 第 8 部分（7,349 字）。 |
 | 原文溯源 | `cache/epub/8665/pg8665.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 8 部分）
 
-1. A Strange DISCOVERY
-2. By
-3. Charles Romyn Dake
-4. HOW WE FOUND DIRK PETERS
-5. The FIRST Chapter
-6. The SECOND Chapter
-7. The THIRD Chapter
-8. I asked him which of Poe's tales he thought the best.
-9. The FOURTH Chapter
-10. The FIFTH Chapter
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
 
-> 共 29 题，[完整目录与正文 →](https://www.bqgmz.top/b/8bf92206e0a4/)
+> 共 8 部分，[完整目录与正文 →](https://www.bqgmz.top/b/8bf92206e0a4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

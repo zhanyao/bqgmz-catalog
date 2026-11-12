@@ -1,7 +1,7 @@
 # Mjölnarflickan vid Lützen: Ett tvåhundrafemtioårigt minne
 
-**作者** Åberg, J. O. (Johan Olof), 1843-1898 ｜ **国家/地区** 瑞典 ｜ **体例** 题  
-**规模** 17 题 · 76,529 字 ｜ **来源** Project Gutenberg
+**作者** Åberg, J. O. (Johan Olof), 1843-1898 ｜ **国家/地区** 瑞典 ｜ **体例** 章  
+**规模** 10 章 · 76,529 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8c23fbcb1a0e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（76,529 字）。 |
-| 分章依据 | 按「题」标记切分为 17 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,501 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-roman-bare），拼接正文 2,193 行。 |
+| 篇幅分布 | 平均每章 7,642 字；最长 IV.（12,892 字），最短 V.（3,030 字）。 |
+| 起止 | 始于「I.」，止于「X.」。 |
 | 原文溯源 | `cache/epub/52884/pg52884.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. MJÖLNARFLICKAN VID LÜTZEN
-2. Ett tvåhundrafemtioårigt minne
-3. Upptecknadt af
-4. J. O. ÅBERG.
-5. I.
-6. II.
-7. III.
-8. IV.
-9. V.
-10. VI.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 17 题，[完整目录与正文 →](https://www.bqgmz.top/b/8c23fbcb1a0e/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/8c23fbcb1a0e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

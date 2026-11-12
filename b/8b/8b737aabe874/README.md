@@ -1,7 +1,7 @@
 # Beasts, men and gods
 
 **作者** Ossendowski, Ferdynand Antoni, 1878-1945; Palen, Lewis Stanton, 1878-1960 [Collaborator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 374,755 字 ｜ **来源** Project Gutenberg
+**规模** 49 章 · 374,755 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8b737aabe874/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（374,755 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,819 字；最长 Just at this time there arrived at the h（94,373 字），最短 CHAPTER IV（1,094 字）。 |
+| 分章依据 | 按「章」标记切分为 49 章（auto-chapter），拼接正文 8,472 行。 |
+| 篇幅分布 | 平均每章 7,590 字；最长 CHAPTER XXIX（19,446 字），最短 CHAPTER IV（1,094 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XLIX」。 |
 | 原文溯源 | `cache/epub/2067/pg2067.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/8b737aabe874/)
+> 共 49 章，[完整目录与正文 →](https://www.bqgmz.top/b/8b737aabe874/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

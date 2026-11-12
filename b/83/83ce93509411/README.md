@@ -1,7 +1,7 @@
 # I've been a Gipsying or, Rambles among our Gipsies and their children in their tents and vans
 
-**作者** Smith, George, 1831-1895 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 54 题 · 599,741 字 ｜ **来源** Project Gutenberg
+**作者** Smith, George, 1831-1895 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 23 章 · 599,741 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/83ce93509411/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（599,741 字）。 |
-| 分章依据 | 按「题」标记切分为 54 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,106 字。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-caps-sections），拼接正文 13,433 行。 |
+| 篇幅分布 | 平均每章 26,075 字；最长 THOMAS BURT.”（57,883 字），最短 “10, DOWNING STREET, WHITEHALL.（489 字）。 |
 | 原文溯源 | `cache/epub/62432/pg62432.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. I’VE BEEN A GIPSYING
-2. POPULAR EDITION, ILLUSTRATED.
-3. To
-4. PREFATORY NOTE.
-5. NOTE TO SECOND EDITION.
-6. CONTENTS.
-7. I.
-8. LIST OF ILLUSTRATIONS.
-9. The lark echoes in the air—
-10. My first salutation was from three big g
+1. THE CRY OF THE CHILDREN FROM THE BRICKYARDS OF ENGLAND. HAUGHTON & CO.,
+2. “10, DOWNING STREET, WHITEHALL.
+3. PREFATORY NOTE.
+4. NOTE TO SECOND EDITION.
+5. ESTHER FAA BLYTHE—A SCOTCH GIPSY QUEEN 328（1）
+6. ESTHER FAA BLYTHE—A SCOTCH GIPSY QUEEN 328（2）
+7. ESTHER FAA BLYTHE—A SCOTCH GIPSY QUEEN 328（3）
+8. ESTHER FAA BLYTHE—A SCOTCH GIPSY QUEEN 328（4）
+9. ESTHER FAA BLYTHE—A SCOTCH GIPSY QUEEN 328（5）
+10. ESTHER FAA BLYTHE—A SCOTCH GIPSY QUEEN 328（6）
 
-> 共 54 题，[完整目录与正文 →](https://www.bqgmz.top/b/83ce93509411/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/83ce93509411/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

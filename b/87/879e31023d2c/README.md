@@ -1,7 +1,7 @@
 # Deeds that Won the Empire Historic Battle Scenes
 
-**作者** Fitchett, W. H. (William Henry), 1845-1928 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 45 题 · 415,410 字 ｜ **来源** Project Gutenberg
+**作者** Fitchett, W. H. (William Henry), 1845-1928 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 18 章 · 415,410 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/879e31023d2c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（415,410 字）。 |
-| 分章依据 | 按「题」标记切分为 45 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,231 字。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-caps-sections），拼接正文 8,528 行。 |
+| 篇幅分布 | 平均每章 23,078 字；最长 --SCOTT.（65,633 字），最短 --BURNS.（3,342 字）。 |
 | 原文溯源 | `cache/epub/19255/pg19255.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Al Haines
-2. DEEDS THAT WON THE EMPIRE
-3. HISTORIC BATTLE SCENES
-4. BY W. H. FITCHETT, LL. D.
-5. LONDON: JOHN MURRAY
-6. PREFACE
-7. CONTENTS
-8. THE NIGHT ATTACK OFF CADIZ
-9. LIST OF PLANS
-10. THE FIGHT OFF CAPE ST. VINCENT
+1. --HERMAN CHARLES MERIVALE.
+2. --SIR WALTER SCOTT.
+3. --KIPLING.
+4. --BYRON.
+5. --TENNYSON.
+6. --GERALD MASSEY.
+7. --MACAULAY.
+8. --MACAULAY.
+9. --KIPLING.
+10. --TENNYSON.
 
-> 共 45 题，[完整目录与正文 →](https://www.bqgmz.top/b/879e31023d2c/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/879e31023d2c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

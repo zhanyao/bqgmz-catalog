@@ -1,7 +1,7 @@
 # Ratsumies Peter Halket Mashonamaasta
 
-**作者** Schreiner, Olive, 1855-1920; Malmberg, Aino, 1865-1933 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 10 题 · 118,238 字 ｜ **来源** Project Gutenberg
+**作者** Schreiner, Olive, 1855-1920; Malmberg, Aino, 1865-1933 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 3 部分 · 118,238 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8582de802034/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（118,238 字）。 |
-| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,823 字；最长 Ääni vastasi selvällä, matalalla englanninkielellä: "Ystävä."（28,169 字），最短 Sitten sanoi Peter: "No niin, mutta hän ei ainakaan kuollut!"（392 字）。 |
+| 分章依据 | 按「部分」标记切分为 3 部分（fallback-chunk），拼接正文 2,630 行。 |
+| 篇幅分布 | 平均每部分 39,412 字。 |
 | 原文溯源 | `cache/epub/16075/pg16075.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 部分）
 
-1. I.
-2. Ääni vastasi selvällä, matalalla englanninkielellä: "Ystävä."
-3. Ja Peter sanoi: "Mikä merkki se on?"
-4. Sitten sanoi Peter: "No niin, mutta hän ei ainakaan kuollut!"
-5. Äkkiä Peter kysyi: "Ovatko kaikki teidän yhtiönne miehet köyhiä?"
-6. Siitä huolimatta päivä nousi."
-7. Ja Peter sanoi: "Anna minulle työtä, että koettaisin."
-8. II.
-9. Englantilainen säpsähti: "Mitä Halket sanoi?"
-10. Siirtomaalainen säpsähti: "Tietysti minä uskon!"
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
 
-> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/8582de802034/)
+> 共 3 部分，[完整目录与正文 →](https://www.bqgmz.top/b/8582de802034/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

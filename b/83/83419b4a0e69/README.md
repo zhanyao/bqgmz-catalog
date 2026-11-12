@@ -1,7 +1,7 @@
 # The Foot-path Way
 
-**作者** Torrey, Bradford, 1843-1912 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 11 段 · 225,350 字 ｜ **来源** Project Gutenberg
+**作者** Torrey, Bradford, 1843-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 225,350 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/83419b4a0e69/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（225,350 字）。 |
-| 分章依据 | 按「段」标记切分为 11 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,486 字；最长 stood afar off and worshiped toward these holy hills; but th（39,730 字），最短 Warbler:--（5,059 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 4,801 行。 |
+| 篇幅分布 | 平均每章 19,754 字；最长 JUNE IN FRANCONIA.（32,247 字），最短 A GREAT BLUE HERON.（6,655 字）。 |
 | 原文溯源 | `cache/epub/27285/pg27285.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. stood afar off and worshiped toward these holy hills; but th
-2. But they had done well, surely, to weather the recent snow-s
-3. But I answer, in all good conscience, yes. The motto with wh
-4. But thoughts of this kind belong not in Dyer's Hollow. Rathe
-5. That afternoon I followed him, somewhat unexpectedly. I went
-6. At this point we suddenly became aware that for at least a d
-7. On the 19th of July, 1889, the same friend informed me that
-8. By the first of August the bird-lover's year is already on t
-9. When I wearied of my position I rose and advanced upon the h
-10. One of the most interesting and suggestive points of differe
+1. JUNE IN FRANCONIA.
+2. DECEMBER OUT-OF-DOORS.
+3. DYER'S HOLLOW.
+4. FIVE DAYS ON MOUNT MANSFIELD.
+5. A WIDOW AND TWINS.
+6. THE MALE RUBY-THROAT.
+7. ROBIN ROOSTS.
+8. THE PASSING OF THE BIRDS.
+9. A GREAT BLUE HERON.
+10. FLOWERS AND FOLKS.
 
-> 共 11 段，[完整目录与正文 →](https://www.bqgmz.top/b/83419b4a0e69/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/83419b4a0e69/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

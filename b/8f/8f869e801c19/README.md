@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（140,288 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,057 字；最长 PART II. WHAT CHARITY AND THE CHURCHES DID WITH HIM.（54,249 字），最短 PART V. WHAT GINX'S BABY DID WITH HIMSELF.（2,526 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-chapter），拼接正文 3,364 行。 |
+| 篇幅分布 | 平均每章 27,780 字；最长 PART II. WHAT CHARITY AND THE CHURCHES DID WITH HIM.（54,249 字），最短 PART V. WHAT GINX'S BABY DID WITH HIMSELF.（2,526 字）。 |
 | 原文溯源 | `cache/epub/581/pg581.txt`（Project Gutenberg） |
 
 ## 章节目录（前 5 章）
@@ -26,4 +26,4 @@
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/8f869e801c19/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

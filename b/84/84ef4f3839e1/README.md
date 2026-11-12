@@ -11,25 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（183,663 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,366 字；最长 Chapter II（21,391 字），最短 Chapter IV（15,572 字）。 |
-| 起止 | 始于「Chapter I」，止于「Chapter X」。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 4,553 行。 |
+| 篇幅分布 | 平均每章 18,335 字；最长 Chapter II. Avrillia（21,391 字），最短 Chapter IV. The Invaders（15,572 字）。 |
+| 起止 | 始于「Chapter I. The Dimplesmithy」，止于「Chapter X. Sara's Day」。 |
 | 原文溯源 | `cache/epub/16731/pg16731.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Chapter I
-2. Chapter II
-3. Chapter III
-4. Chapter IV
-5. Chapter V
-6. Chapter VI
-7. Chapter VII
-8. Chapter VIII
-9. Chapter IX
-10. Chapter X
+1. Chapter I. The Dimplesmithy
+2. Chapter II. Avrillia
+3. Chapter III. Relations
+4. Chapter IV. The Invaders
+5. Chapter V. Crumbs and Waffles
+6. Chapter VI. The Little Lost Laugh
+7. Chapter VII. Accepting an Invitation
+8. Chapter VIII. The Vale of Tears
+9. Chapter IX. Cheers and Butter
+10. Chapter X. Sara's Day
 
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/84ef4f3839e1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

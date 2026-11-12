@@ -1,7 +1,7 @@
 # The Detection of Forgery A Practical Handbook for the Use of Bankers, Solicitors, Magistrates' Clerks, and All Handling Suspected Documents
 
 **作者** Blackburn, Douglas, 1857-1929; Caddell, W. Waithman ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 114,137 字 ｜ **来源** Project Gutenberg
+**规模** 18 章 · 114,137 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/93527737ee85/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（114,137 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,713 字；最长 CHAPTER I.（14,658 字），最短 CHAPTER III.（2,349 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XVII.」。 |
+| 分章依据 | 按「章」标记切分为 18 章（auto-chapter），拼接正文 2,765 行。 |
+| 篇幅分布 | 平均每章 6,080 字；最长 CHAPTER XIV.（14,151 字），最短 CHAPTER III.（2,349 字）。 |
 | 原文溯源 | `cache/epub/25532/pg25532.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/93527737ee85/)
+> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/93527737ee85/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

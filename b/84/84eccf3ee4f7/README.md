@@ -1,7 +1,7 @@
 # Fathers of Biology
 
-**作者** McRae, Charles ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 106,712 字 ｜ **来源** Project Gutenberg
+**作者** McRae, Charles ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 106,712 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/84eccf3ee4f7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（106,712 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,342 字；最长 After the death of Plato, which occurred in 347 B.C., Aristo（38,985 字），最短 Late in the author's life, as we have seen, the work on the （6,895 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-caps-sections），拼接正文 2,499 行。 |
+| 篇幅分布 | 平均每章 14,660 字；最长 ARISTOTLE.（27,187 字），最短 FOOTNOTES:（332 字）。 |
 | 原文溯源 | `cache/epub/24456/pg24456.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 7 章）
 
-1. After the death of Plato, which occurred in 347 B.C., Aristo
-2. Among insects, some (_e.g._ grasshopper, cricket, ant, etc.)
-3. He describes various effects produced on respiration and on
-4. Exclusively an anatomist, he makes but brief references in h
-5. Late in the author's life, as we have seen, the work on the
+1. PREFACE.
+2. HIPPOCRATES.
+3. ARISTOTLE.
+4. GALEN.
+5. VESALIUS.
+6. HARVEY.
+7. FOOTNOTES:
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/84eccf3ee4f7/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/84eccf3ee4f7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

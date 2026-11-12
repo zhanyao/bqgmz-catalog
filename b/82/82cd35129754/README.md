@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（275,177 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 13,103 字；最长 CHAPTER I --THE INCIDENT AT THE BANK（25,824 字），最短 CHAPTER XXI --THE ELOPEMENT（6,652 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 7,327 行。 |
+| 篇幅分布 | 平均每章 13,101 字；最长 CHAPTER I --THE INCIDENT AT THE BANK（25,772 字），最短 CHAPTER XXI --THE ELOPEMENT（6,652 字）。 |
 | 起止 | 始于「CHAPTER I --THE INCIDENT AT THE BANK」，止于「CHAPTER XXI --THE ELOPEMENT」。 |
 | 原文溯源 | `cache/epub/4982/pg4982.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/82cd35129754/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

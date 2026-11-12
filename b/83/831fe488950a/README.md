@@ -1,7 +1,7 @@
 # Le juif errant - Tome II
 
-**作者** Sue, Eugène, 1804-1857 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 128 题 · 1,466,629 字 ｜ **来源** Project Gutenberg
+**作者** Sue, Eugène, 1804-1857 ｜ **国家/地区** 法国 ｜ **体例** 部分  
+**规模** 35 部分 · 1,466,629 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/831fe488950a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,466,629 字）。 |
-| 分章依据 | 按「题」标记切分为 128 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,458 字。 |
+| 分章依据 | 按「部分」标记切分为 35 部分（fallback-chunk），拼接正文 38,924 行。 |
+| 篇幅分布 | 平均每部分 41,903 字；最长 第 16 部分（42,754 字），最短 第 35 部分（20,339 字）。 |
 | 原文溯源 | `cache/epub/15296/pg15296.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 部分）
 
-1. Eugène Sue
-2. LE JUIF ERRANT
-3. Tome II
-4. Table des matières
-5. Douzième partie Les promesses de Rodin
-6. I. L'inconnu.
-7. II. Le réduit.
-8. III. Une visite inattendue.
-9. IV. Un service d'ami.
-10. V. Les conseils.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 128 题，[完整目录与正文 →](https://www.bqgmz.top/b/831fe488950a/)
+> 共 35 部分，[完整目录与正文 →](https://www.bqgmz.top/b/831fe488950a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

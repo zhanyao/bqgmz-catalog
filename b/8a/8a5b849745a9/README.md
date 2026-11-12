@@ -1,7 +1,7 @@
 # Charles Sumner: his complete works, volume 04 (of 20)
 
-**作者** Sumner, Charles, 1811-1874 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 102 题 · 502,176 字 ｜ **来源** Project Gutenberg
+**作者** Sumner, Charles, 1811-1874 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 2 章 · 502,176 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8a5b849745a9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（502,176 字）。 |
-| 分章依据 | 按「题」标记切分为 102 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,923 字。 |
+| 分章依据 | 按「章」标记切分为 2 章（auto-roman-title），拼接正文 11,256 行。 |
+| 篇幅分布 | 平均每章 105,321 字。 |
+| 起止 | 始于「I. p. 213.」，止于「II. p. 294, note, anno 1765.」。 |
 | 原文溯源 | `cache/epub/45954/pg45954.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 2 章）
 
-1. Charles Sumner; his complete works, Volume 4 (of 20)
-2. Statesman Edition VOL. IV
-3. Charles Sumner
-4. HIS COMPLETE WORKS
-5. With Introduction
-6. BY
-7. HON. GEORGE FRISBIE HOAR
-8. MCM
-9. No. 565
-10. CONTENTS OF VOLUME IV.
+1. I. p. 213.
+2. II. p. 294, note, anno 1765.
 
-> 共 102 题，[完整目录与正文 →](https://www.bqgmz.top/b/8a5b849745a9/)
+> 共 2 章，[完整目录与正文 →](https://www.bqgmz.top/b/8a5b849745a9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

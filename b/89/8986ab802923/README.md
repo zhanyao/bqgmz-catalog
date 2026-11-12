@@ -1,7 +1,7 @@
 # What to do in cases of accidents and emergencies
 
-**作者** Lawrence, J. B. (Joseph B.) ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 118,539 字 ｜ **来源** Project Gutenberg
+**作者** Lawrence, J. B. (Joseph B.) ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 35 章 · 118,539 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8986ab802923/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（118,539 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,707 字；最长 THIGH. The fracture of the thigh bone is an accident of a ve（39,917 字），最短 1. INCISED, or clean cut, usually made with sharp instrument（18,557 字）。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-toc-title-list），拼接正文 3,498 行。 |
+| 篇幅分布 | 平均每章 3,319 字。 |
 | 原文溯源 | `cache/epub/79304/pg79304.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. THIGH. The fracture of the thigh bone is an accident of a ve
-2. TREATMENT. When the attack is due to costiveness, administer
-3. ---------------------
-4. TREATMENT. Give plenty of raw milk and eggs, lime water, or
-5. 1. INCISED, or clean cut, usually made with sharp instrument
+1. ACCIDENTS AND EMERGENCIES.
+2. CAUSES. There are many causes which give
+3. Accidents. How to avoid them
+4. Accidents on the Water
+5. Apoplexy
+6. Asiatic Cholera
+7. Bruises
+8. Burns and Scalds
+9. Catalepsy—Trance
+10. Choking
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/8986ab802923/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/8986ab802923/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

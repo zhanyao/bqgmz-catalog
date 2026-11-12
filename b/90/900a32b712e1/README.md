@@ -1,7 +1,7 @@
 # Aimée Villard, fille de France
 
-**作者** Silvestre, Charles, 1889-1948 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 6 段 · 124,593 字 ｜ **来源** Project Gutenberg
+**作者** Silvestre, Charles, 1889-1948 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 32 章 · 124,593 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/900a32b712e1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（124,593 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,765 字；最长 On porta Villard dans le village des morts qui sommeille, ga（39,968 字），最短 --Tu ramasseras quelques châtaignes pour Clémentine qui les （4,500 字）。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-roman-bare），拼接正文 3,627 行。 |
+| 篇幅分布 | 平均每章 3,786 字。 |
 | 原文溯源 | `cache/epub/71778/pg71778.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. On porta Villard dans le village des morts qui sommeille, ga
-2. Sur une petite cheminée toujours froide, il y avait une pend
-3. --Ah! mademoiselle Aimée, si j’avais su que vous soyez en pe
-4. Le paysage avait pris une nouvelle gravité; il s’en élevait
-5. Aimée cachait profond sa peine, mais elle se trouvait bien l
-6. --Tu ramasseras quelques châtaignes pour Clémentine qui les
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/900a32b712e1/)
+> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/900a32b712e1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

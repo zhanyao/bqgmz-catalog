@@ -1,7 +1,7 @@
 # Catalan's Constant [Ramanujan's Formula]
 
-**作者** Fee, Greg ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 9 题 · 302,013 字 ｜ **来源** Project Gutenberg
+**作者** Fee, Greg ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 7 部分 · 302,013 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/85737138c92c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（302,013 字）。 |
-| 分章依据 | 按「题」标记切分为 9 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 33,557 字。 |
+| 分章依据 | 按「部分」标记切分为 7 部分（fallback-chunk），拼接正文 3,963 行。 |
+| 篇幅分布 | 平均每部分 43,144 字；最长 第 2 部分（50,076 字），最短 第 7 部分（2,119 字）。 |
 | 原文溯源 | `cache/epub/682/pg682.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 题）
+## 章节目录（前 7 部分）
 
-1. Produced by Greg Fee
-2. Catalan's Constant [Ramanujan's Formula]
-3. LiDIA is available from
-4. Calculating Catalan's constant to 300000 decimals
-5. Time required: 1 day 8 hour 15 min 15 sec 55 hsec
-6. Catalan constant to 300000 digits
-7. .915965594177219015054603514932384110774
-8. 2461952767949513069819316753181005717094
-9. 8920230122973282815014876331164866358884
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
 
-> 共 9 题，[完整目录与正文 →](https://www.bqgmz.top/b/85737138c92c/)
+> 共 7 部分，[完整目录与正文 →](https://www.bqgmz.top/b/85737138c92c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

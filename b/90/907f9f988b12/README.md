@@ -1,7 +1,7 @@
 # Scientific American Supplement, No. 647,  May 26, 1888
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 59 题 · 181,616 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 5 部分 · 181,616 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/907f9f988b12/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（181,616 字）。 |
-| 分章依据 | 按「题」标记切分为 59 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,078 字。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 4,029 行。 |
+| 篇幅分布 | 平均每部分 36,323 字；最长 第 4 部分（41,927 字），最短 第 5 部分（15,631 字）。 |
 | 原文溯源 | `cache/epub/27667/pg27667.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 部分）
 
-1. SCIENTIFIC AMERICAN SUPPLEMENT NO. 647
-2. NEW YORK, MAY 26, 1888
-3. Scientific American established 1845
-4. TABLE OF CONTENTS.
-5. PAGE.
-6. INFLUENCE MACHINES.[1]
-7. BY MR. JAMES WIMSHURST.
-8. SIBLEY COLLEGE LECTURES.--1887-88.
-9. THE EVOLUTION OF THE MODERN MILL.[1]
-10. BY C. J. H. WOODBURY, BOSTON, MASS.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 59 题，[完整目录与正文 →](https://www.bqgmz.top/b/907f9f988b12/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/907f9f988b12/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Athens: Its Rise and Fall, Book V
 
-**作者** Lytton, Edward Bulwer Lytton, Baron, 1803-1873 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 5 章 · 219,678 字 ｜ **来源** Project Gutenberg
+**作者** Lytton, Edward Bulwer Lytton, Baron, 1803-1873 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 48 篇 · 219,678 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8343e2f22f64/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（219,678 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 43,935 字；最长 CHAPTER IV.（78,338 字），最短 CHAPTER I.（14,929 字）。 |
+| 分章依据 | 按「篇」标记切分为 48 篇（通用标记切分），拼接正文 4,952 行。 |
+| 篇幅分布 | 平均每篇 4,568 字；最长 XIII.  Thus have I presented to the general reader the outline of all（1）（55,115 字），最短 X.  But while comedy had thus progressed to its first invidious（307 字）。 |
+| 起止 | 始于「I.  On the death of Cimon (B. C. 449) the aristocratic party in Athens」，止于「XIII.  Thus have I presented to the general reader the outline of all（2）」。 |
 | 原文溯源 | `cache/epub/6155/pg6155.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. [27] The words in italics attempt to co
+1. I. On the death of Cimon (B. C. 449) the aristocratic party in Athens
+2. II. While, at home, the divisions of the state were progressing to
+3. III. When the Athenians, after the battle of Oenophyta, had
+4. IV. Aided by some allied troops, and especially by his thousand
+5. V. The first defeat of the proud mistress of the Grecian sea was a
+6. VI. The inglorious result of the Peloponnesian expedition into Attica
+7. VII. Scarce was the truce effected ere the struggle between
+8. VIII. Accusations against public men, when unsuccessful, are the
+9. I. In the age of Pericles (B. C. 444) there is that which seems to
+10. II. The obvious mode to account for the moral power of a man in any
 
-> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/8343e2f22f64/)
+> 共 48 篇，[完整目录与正文 →](https://www.bqgmz.top/b/8343e2f22f64/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

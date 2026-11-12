@@ -1,7 +1,7 @@
 # Majatalo
 
-**作者** Turgenev, Ivan Sergeevich, 1818-1883; Halonen, Alexander, 1878-1948 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 4 段 · 89,470 字 ｜ **来源** Project Gutenberg
+**作者** Turgenev, Ivan Sergeevich, 1818-1883; Halonen, Alexander, 1878-1948 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 3 部分 · 89,470 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8e0daab4b656/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（89,470 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,367 字。 |
+| 分章依据 | 按「部分」标记切分为 3 部分（fallback-chunk），拼接正文 2,246 行。 |
+| 篇幅分布 | 平均每部分 29,823 字。 |
 | 原文溯源 | `cache/epub/71721/pg71721.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 3 部分）
 
-1. Eräänä syksyinä iltana Akimin majataloon pysähtyi sekalaisen
-2. — No, lyöhän häntä, vaimo, lyö! — yllytti kiihottuneella ään
-3. Efrem heräsi tavallista aikaisemmin karsinassaan ja rupesi j
-4. — Muistatko, sinä minulle sanoit, etten minä teidän talonpoi
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/8e0daab4b656/)
+> 共 3 部分，[完整目录与正文 →](https://www.bqgmz.top/b/8e0daab4b656/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

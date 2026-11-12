@@ -1,7 +1,7 @@
 # Jenkkejä maailmalla II Heidän toivioretkensä Pyhälle Maalle
 
-**作者** Twain, Mark, 1835-1910; Inha, Into Konrad, 1865-1930 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 36 题 · 504,037 字 ｜ **来源** Project Gutenberg
+**作者** Twain, Mark, 1835-1910; Inha, Into Konrad, 1865-1930 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 篇  
+**规模** 30 篇 · 504,037 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/917f0273f54f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（504,037 字）。 |
-| 分章依据 | 按「题」标记切分为 36 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,001 字。 |
+| 分章依据 | 按「篇」标记切分为 30 篇（auto-magazine），拼接正文 10,149 行。 |
+| 篇幅分布 | 平均每篇 16,801 字；最长 I LUKU（47,202 字），最短 III LUKU（1,523 字）。 |
 | 原文溯源 | `cache/epub/48416/pg48416.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. JENKKEJÄ MAAILMALLA II
-2. MARK TWAIN
-3. I LUKU.
-4. II LUKU.
-5. III LUKU.
-6. TILANNE ORJATYTTÖ-MARKKINOILLA.
-7. IV LUKU.
-8. V LUKU.
-9. VI LUKU.
-10. VII LUKU.
+1. I LUKU
+2. III LUKU
+3. TILANNE ORJATYTTÖ-MARKKINOILLA
+4. IV LUKU
+5. VI LUKU
+6. VII LUKU
+7. VIII LUKU
+8. IX LUKU
+9. X LUKU
+10. XI LUKU
 
-> 共 36 题，[完整目录与正文 →](https://www.bqgmz.top/b/917f0273f54f/)
+> 共 30 篇，[完整目录与正文 →](https://www.bqgmz.top/b/917f0273f54f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

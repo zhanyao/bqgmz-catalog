@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（365,694 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 40,632 字；最长 CHAPTER IV. THREE-QUARTER LENGTH PORTRAITS OF CERTAIN GOVERNMENT（55,254 字），最短 CHAPTER II. MONSIEUR DES LUPEAULX（28,321 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 8,532 行。 |
+| 篇幅分布 | 平均每章 40,613 字；最长 CHAPTER IV. THREE-QUARTER LENGTH PORTRAITS OF CERTAIN GOVERNMENT（55,254 字），最短 CHAPTER II. MONSIEUR DES LUPEAULX（28,321 字）。 |
 | 起止 | 始于「CHAPTER I. THE RABOURDIN HOUSEHOLD」，止于「CHAPTER IX. THE RESIGNATION」。 |
 | 原文溯源 | `cache/epub/1343/pg1343.txt`（Project Gutenberg） |
 
@@ -31,4 +31,4 @@
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/857bc6c98fb5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

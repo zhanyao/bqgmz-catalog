@@ -1,7 +1,7 @@
 # Vom Mars zur Erde
 
-**作者** Daiber, Albert, 1857-1928; Bergen, Fritz, 1857-1941 [Illustrator] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 10 段 · 205,281 字 ｜ **来源** Project Gutenberg
+**作者** Daiber, Albert, 1857-1928; Bergen, Fritz, 1857-1941 [Illustrator] ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 12 章 · 205,281 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/899f967d9057/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（205,281 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,528 字；最长 »Und weil eure Schwere geringer ist als die unsere,« fügte d（39,982 字），最短 Eine kurze, offizielle Begrüßungsrede des Vorsitzenden schlo（5,212 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-toc-title-list），拼接正文 4,636 行。 |
+| 篇幅分布 | 平均每章 17,045 字；最长 Elftes Kapitel. Wieder auf der Erde（28,050 字），最短 Siebentes Kapitel. Vorbereitungen zur Rückkehr（7,558 字）。 |
 | 原文溯源 | `cache/epub/41523/pg41523.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. »Und weil eure Schwere geringer ist als die unsere,« fügte d
-2. »Ja, ein gutes Wort im rechten Augenblicke hat oftmals schon
-3. »Ich bekenne dir offen, ehrwürdiger Bentan, daß ich mich sch
-4. Als dann der Winter die polaren Zonen auf dem Mars in Eisesf
-5. Und wie bequem war die Gondel eingerichtet! Da war nichts ve
-6. Alle Insassen des Luftschiffes schauten gespannt durch die G
-7. »Das können wir nur vermuten, mit Bestimmtheit aber nicht sa
-8. »Halt, Mann!« gebot er, den Fremdling von oben bis unten mit
-9. Stiller war unterdessen ins Haus zurückgeeilt und hatte ein
-10. Eine kurze, offizielle Begrüßungsrede des Vorsitzenden schlo
+1. Erstes Kapitel. Der Erdensohn auf dem Mars
+2. Zweites Kapitel. Die Sühne
+3. Drittes Kapitel. Eine Sisyphusarbeit
+4. Viertes Kapitel. Getäuschte Hoffnungen
+5. Fünftes Kapitel. Die Doppelkanäle auf dem Mars
+6. Sechstes Kapitel. Ein tapferer Entschluß
+7. Siebentes Kapitel. Vorbereitungen zur Rückkehr
+8. Achtes Kapitel. Auf der Fahrt im Weltraum
+9. Neuntes Kapitel. Eine Station auf dem Monde
+10. Zehntes Kapitel. Die drei Freunde
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/899f967d9057/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/899f967d9057/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

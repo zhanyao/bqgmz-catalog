@@ -1,7 +1,7 @@
 # Wanted: A Cook Domestic Dialogues
 
 **作者** Dale, Alan, 1861-1928 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 17 章 · 374,628 字 ｜ **来源** Project Gutenberg
+**规模** 19 章 · 374,628 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8ae90967bd63/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（374,628 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,036 字；最长 CHAPTER XVIII（73,302 字），最短 CHAPTER V（13,924 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XVIII」。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-chapter），拼接正文 8,746 行。 |
+| 篇幅分布 | 平均每章 19,688 字；最长 CHAPTER XVIII（37,460 字），最短 CHAPTER V（13,924 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XX」。 |
 | 原文溯源 | `cache/epub/43983/pg43983.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/8ae90967bd63/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/8ae90967bd63/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

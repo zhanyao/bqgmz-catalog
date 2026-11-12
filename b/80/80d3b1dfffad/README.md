@@ -1,7 +1,7 @@
 # After the War: A Southern Tour. May 1, 1865 to May 1, 1866
 
 **作者** Reid, Whitelaw, 1837-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 53 章 · 809,860 字 ｜ **来源** Project Gutenberg
+**规模** 54 章 · 809,860 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/80d3b1dfffad/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（809,860 字）。 |
-| 分章依据 | 按「章」标记切分为 53 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,280 字；最长 CHAPTER LIII.（41,778 字），最短 CHAPTER XLII.（4,129 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER LIII.」。 |
+| 分章依据 | 按「章」标记切分为 54 章（auto-chapter），拼接正文 17,992 行。 |
+| 篇幅分布 | 平均每章 14,886 字；最长 CHAPTER XI.（40,624 字），最短 CHAPTER XLII.（4,129 字）。 |
 | 原文溯源 | `cache/epub/55381/pg55381.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 53 章，[完整目录与正文 →](https://www.bqgmz.top/b/80d3b1dfffad/)
+> 共 54 章，[完整目录与正文 →](https://www.bqgmz.top/b/80d3b1dfffad/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

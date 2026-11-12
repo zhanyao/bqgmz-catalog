@@ -1,7 +1,7 @@
 # Vue générale de l'histoire politique de l'Europe
 
-**作者** Lavisse, Ernest, 1842-1922 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 9 段 · 183,970 字 ｜ **来源** Project Gutenberg
+**作者** Lavisse, Ernest, 1842-1922 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 7 章 · 183,970 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/88c01e1dce52/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（183,970 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,441 字；最长 Pendant que l'Orient gardait ainsi les formes du passé, de c（39,674 字），最短 C'est, du reste, une question de savoir si la paix universel（3,818 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-caps-sections），拼接正文 4,020 行。 |
+| 篇幅分布 | 平均每章 26,281 字；最长 DE L'ANTIQUITÉ AU MOYEN ÂGE（3）（55,921 字），最短 LES TEMPS MODERNES（595 字）。 |
 | 原文溯源 | `cache/epub/35200/pg35200.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 7 章）
 
-1. Pendant que l'Orient gardait ainsi les formes du passé, de c
-2. L'Occident s'est cru un moment maître de l'Orient. L'Europe
-3. Le berceau de l'Autriche est la marche orientale, établie pa
-4. Ils tinrent sous la discipline tous leurs sujets, nobles ou
-5. C'est en Allemagne que se livrent les grands combats entre B
-6. Sa politique a été interrompue et troublée aux seizième et d
-7. Cette politique s'est déroulée dans un temps rapproché du nô
-8. Pangermanisme et panslavisme ne sont point des forces offici
-9. C'est, du reste, une question de savoir si la paix universel
+1. LE MOYEN ÂGE
+2. LES TEMPS MODERNES
+3. NOTRE SIÈCLE
+4. DE L'ANTIQUITÉ AU MOYEN ÂGE（1）
+5. DE L'ANTIQUITÉ AU MOYEN ÂGE（2）
+6. DE L'ANTIQUITÉ AU MOYEN ÂGE（3）
+7. DE L'ANTIQUITÉ AU MOYEN ÂGE（4）
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/88c01e1dce52/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/88c01e1dce52/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

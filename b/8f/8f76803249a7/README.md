@@ -1,7 +1,7 @@
 # Punch, or the London Charivari, Volume 101, August 1, 1891
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 30 题 · 47,913 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 6 篇 · 47,913 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8f76803249a7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（47,913 字）。 |
-| 分章依据 | 按「题」标记切分为 30 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,597 字。 |
+| 分章依据 | 按「篇」标记切分为 6 篇（通用标记切分），拼接正文 1,407 行。 |
+| 篇幅分布 | 平均每篇 7,840 字。 |
 | 原文溯源 | `cache/epub/13466/pg13466.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 篇）
 
-1. PUNCH,
-2. OR THE LONDON CHARIVARI.
-3. VOL. 101.
-4. THE PRINCE.
-5. I.
-6. II.--_HOW A PRINCE IS TO GAIN REPUTATION._
-7. III.--_OF THE WEARING OF UNIFORMS._
-8. IV.--_OF ITALY._
-9. RIDING THE PIG.
-10. ENTHUSIASM À LA RUSSE!
+1. II.--_HOW A PRINCE IS TO GAIN REPUTATION._
+2. III.--_OF THE WEARING OF UNIFORMS._
+3. IV.--_OF ITALY._
+4. _First Bard._ "OH, IF IT COMES TO THAT, _CANDIDLY_ I ALWAYS HATED YOUR
+5. (_A DREAM OF THE BRITISH INQUISITION._)
+6. (_A MUCH MODERNISED VERSION OF "THE VISION OF MIRZAH."_)
 
-> 共 30 题，[完整目录与正文 →](https://www.bqgmz.top/b/8f76803249a7/)
+> 共 6 篇，[完整目录与正文 →](https://www.bqgmz.top/b/8f76803249a7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

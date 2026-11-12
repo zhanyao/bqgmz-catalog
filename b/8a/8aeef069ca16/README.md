@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（353,236 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 39,248 字；最长 CHAPTER VI.（56,799 字），最短 CHAPTER VII.（13,049 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER VIII.」。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 8,480 行。 |
+| 篇幅分布 | 平均每章 38,871 字；最长 CHAPTER VI.（112,969 字），最短 CHAPTER VIII.（2,562 字）。 |
 | 原文溯源 | `cache/epub/29816/pg29816.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
@@ -24,11 +23,11 @@
 4. CHAPTER IV.
 5. CHAPTER V.
 6. CHAPTER VI.
-7. [93] Gould first accurately described th
-8. CHAPTER VII.
-9. CHAPTER VIII.
+7. CHAPTER VII.
+8. CHAPTER VIII.
+9. APPENDIX.
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/8aeef069ca16/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

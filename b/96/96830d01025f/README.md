@@ -1,7 +1,7 @@
 # The Holy Earth
 
-**作者** Bailey, L. H. (Liberty Hyde), 1858-1954 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 175,576 字 ｜ **来源** Project Gutenberg
+**作者** Bailey, L. H. (Liberty Hyde), 1858-1954 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 29 章 · 175,576 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/96830d01025f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（175,576 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,947 字；最长 Yet there is even a more defenseless devastation than all th（39,959 字），最短 I think that the activities in the proposed reformatory shou（15,470 字）。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-toc-title-list），拼接正文 3,862 行。 |
+| 篇幅分布 | 平均每章 5,891 字；最长 The daily fare（13,890 字），最短 The brotherhood relation（1,456 字）。 |
 | 原文溯源 | `cache/epub/33178/pg33178.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. Yet there is even a more defenseless devastation than all th
-2. We are now in the time of developing a technical education i
-3. This means a new division and perhaps a redistribution of la
-4. If one looks for a moral significance in the struggle for ex
-5. We add the extrinsic and meaningless odors of spices and fla
-6. On the other hand, there is unfortunately a feeling abroad t
-7. We have considered, on a former page, that we are not to loo
-8. I think that the activities in the proposed reformatory shou
+1. In the beginning
+2. The earth is good
+3. It is kindly
+4. The earth is holy
+5. The habit of destruction
+6. The new hold
+7. The brotherhood relation
+8. The farmer's relation
+9. The underlying training of a people
+10. The neighbor's access to the earth
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/96830d01025f/)
+> 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/96830d01025f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

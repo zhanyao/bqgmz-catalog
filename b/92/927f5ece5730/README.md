@@ -1,7 +1,7 @@
 # Schiff vor Anker: Erzählungen
 
-**作者** Fock, Gorch, 1880-1916; Bussmann, Aline, 1889-1968 [Editor]; Klein, Bernhard, 1888-1967 [Illustrator] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 7 段 · 149,908 字 ｜ **来源** Project Gutenberg
+**作者** Fock, Gorch, 1880-1916; Bussmann, Aline, 1889-1968 [Editor]; Klein, Bernhard, 1888-1967 [Illustrator] ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 15 章 · 149,908 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/927f5ece5730/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（149,908 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,415 字；最长 Nicht angekettet sein, wie die rote Leuchtboje hier an Backb（39,964 字），最短 Alle vier bat das rote Männchen, aber alle antworteten ebens（9,917 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-toc-title-list），拼接正文 4,240 行。 |
+| 篇幅分布 | 平均每章 9,922 字；最长 Ditmer Koels Tochter（16,418 字），最短 An Gorch Focks Freunde（904 字）。 |
 | 原文溯源 | `cache/epub/56512/pg56512.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. Nicht angekettet sein, wie die rote Leuchtboje hier an Backb
-2. Hans schickte die Deern denselben Tag noch zur Pflege hin.
-3. Westlich von den Zeugen der Heiden- und der Seeräuberzeit, d
-4. Die Kugelbake vor Cuxhaven ist die große Nebelfrau der Elbmü
-5. Kniphof hatte um einen rechtskundigen Mann gebeten, dem er s
-6. Seine Mutter saß am Tisch und stützte den Kopf in die Hände.
-7. Alle vier bat das rote Männchen, aber alle antworteten ebens
+1. An Gorch Focks Freunde
+2. De solten See
+3. Herbst entgegen
+4. Karen
+5. Vor Ostern
+6. Kassen Witt sin Freeree
+7. Pulli
+8. Sonntagnachmittags
+9. Hans Otto
+10. Ditmer Koels Tochter
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/927f5ece5730/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/927f5ece5730/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

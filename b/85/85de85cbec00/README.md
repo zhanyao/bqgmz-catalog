@@ -1,7 +1,7 @@
 # Selections from the writings of ‘Abdu'l-Bahá
 
-**作者** ʻAbdu'l-Bahá, 1844-1921 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 310 题 · 472,422 字 ｜ **来源** Project Gutenberg
+**作者** ʻAbdu'l-Bahá, 1844-1921 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 237 章 · 472,422 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/85de85cbec00/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（472,422 字）。 |
-| 分章依据 | 按「题」标记切分为 310 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,523 字。 |
+| 分章依据 | 按「章」标记切分为 237 章（auto-toc-title-list），拼接正文 11,344 行。 |
+| 篇幅分布 | 平均每章 1,932 字。 |
 | 原文溯源 | `cache/epub/19287/pg19287.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Selections from the Writings of 'Abdu'l-Baha
-2. Edition 1, (June 2006)
-3. BAHA'I TERMS OF USE
-4. 3. The Content must be used solely for a non-commercial purpose.
-5. CONTENTS
-6. REFERENCES TO THE QUR'AN
-7. 1: O PEOPLES OF THE WORLD! THE SUN OF TRUTH HATH ...
-8. 2: O MY LORD! I HAVE DRAWN NIGH UNTO THEE, IN THE ...
-9. 3: O YE BELOVED OF GOD! O YE CHILDREN OF HIS KINGDOM! ...
-10. 4: PRAISE BE TO HIM WHO HATH MADE THE WORLD OF BEING, ...
+1. 1: O peoples of the world! The Sun of Truth hath ...
+2. 2: O my Lord! I have drawn nigh unto Thee, in the ...
+3. 3: O ye beloved of God! O ye children of His Kingdom! ...
+4. 4: Praise be to Him Who hath made the world of being, ...
+5. 5: The world's great Light, once resplendent upon all ...
+6. 6: O ye peoples of the Kingdom! How many a soul ...
+7. 7: O ye spiritual friends of 'Abdu'l-Baha! A trusted ...
+8. 8: O ye beloved of 'Abdu'l-Baha and ye handmaids of ...
+9. 9: O thou whose heart overfloweth with love for the ...
+10. 10: O thou dear handmaid of God! Thy letter hath ...
 
-> 共 310 题，[完整目录与正文 →](https://www.bqgmz.top/b/85de85cbec00/)
+> 共 237 章，[完整目录与正文 →](https://www.bqgmz.top/b/85de85cbec00/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

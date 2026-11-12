@@ -1,7 +1,7 @@
 # The Archives of Dentistry, Vol. VII, No. 4, April 1890
 
-**作者** Various; Eames, W. H. (William Henry), 1828-1894 [Editor]; Stockton, C. S. [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 3 章 · 83,830 字 ｜ **来源** Project Gutenberg
+**作者** Various; Eames, W. H. (William Henry), 1828-1894 [Editor]; Stockton, C. S. [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 83,830 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8fd71d39e1e9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（83,830 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 27,943 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 2,020 行。 |
+| 篇幅分布 | 平均每篇 20,806 字。 |
 | 原文溯源 | `cache/epub/61569/pg61569.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 章）
+## 章节目录（前 4 篇）
 
-1. SECTION 1. It is the duty of every dentist to maintain the honor,
-2. SECTION 1. It is the duty of a dentist to treat the members of his
-3. SECTION 1. A dentist should make his own personal advancement in the
+1. SUCCESSOR TO
+2. DISCUSSION OF DR. STODDARD'S PAPER: PORCELAIN FILLINGS.[4]
+3. IMMEDIATE SEPARATION OF THE TEETH.[5]
+4. EDITOR ARCHIVES:
 
-> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/8fd71d39e1e9/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/8fd71d39e1e9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

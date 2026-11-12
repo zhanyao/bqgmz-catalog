@@ -1,7 +1,7 @@
 # The Antiquity of Man
 
 **作者** Lyell, Charles, Sir, 1797-1875 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 24 章 · 819,843 字 ｜ **来源** Project Gutenberg
+**规模** 25 章 · 819,843 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/87a5a99d9107/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（819,843 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 34,160 字；最长 CHAPTER 24. -- BEARING OF THE DOCTRINE OF TRANSMUTATION ON THE ORIGIN OF（80,464 字），最短 CHAPTER 17. -- POST-GLACIAL DISLOCATIONS AND FOLDINGS OF CRETACEOUS AND（14,703 字）。 |
-| 起止 | 始于「CHAPTER 1. -- INTRODUCTORY.」，止于「CHAPTER 24. -- BEARING OF THE DOCTRINE OF TRANSMUTATION ON THE ORIGIN OF」。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 17,807 行。 |
+| 篇幅分布 | 平均每章 31,518 字；最长 CHAPTER 13. -- CHRONOLOGICAL RELATIONS OF THE GLACIAL PERIOD AND THE（56,022 字），最短 CHAPTER 1. -- INTRODUCTORY.（8,171 字）。 |
 | 原文溯源 | `cache/epub/6335/pg6335.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER 9. -- WORKS OF ART IN PLEISTOCENE ALLUVIUM OF FRANCE AND
 10. CHAPTER 10. -- CAVERN DEPOSITS, AND PLACES OF SEPULTURE OF THE
 
-> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/87a5a99d9107/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/87a5a99d9107/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

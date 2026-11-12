@@ -1,7 +1,7 @@
 # Saboteur of Space
 
-**作者** Abernathy, Robert, 1924-1990; Elias, Lee, 1920-1998 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 8 题 · 49,113 字 ｜ **来源** Project Gutenberg
+**作者** Abernathy, Robert, 1924-1990; Elias, Lee, 1920-1998 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 3 篇 · 49,113 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/848b726b212a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（49,113 字）。 |
-| 分章依据 | 按「题」标记切分为 8 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,139 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（通用标记切分），拼接正文 1,266 行。 |
+| 篇幅分布 | 平均每篇 13,138 字。 |
 | 原文溯源 | `cache/epub/62997/pg62997.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 题）
+## 章节目录（前 3 篇）
 
-1. Saboteur of Space
-2. By ROBERT ABERNATHY
-3. II
-4. Ryd licked dry lips. "Are we going--out into space?"
-5. III
-6. The astrogator broke his silence. "A ship."
-7. Mury smiled. "Yes," he agreed. "We fooled them this time."
-8. IV
+1. II
+2. III
+3. IV
 
-> 共 8 题，[完整目录与正文 →](https://www.bqgmz.top/b/848b726b212a/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/848b726b212a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

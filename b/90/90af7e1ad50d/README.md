@@ -1,7 +1,7 @@
 # Salt mines and castles: The discovery and restitution of looted European art
 
-**作者** Howe, Thomas Carr, 1904-1994 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 24 段 · 484,003 字 ｜ **来源** Project Gutenberg
+**作者** Howe, Thomas Carr, 1904-1994 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 484,003 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/90af7e1ad50d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（484,003 字）。 |
-| 分章依据 | 按「段」标记切分为 24 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,166 字；最长 It did not occur to the members of the E.R.R. staff that the（39,921 字），最短 Stout, Lt. George, USNR, described, 31;（3,871 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 12,572 行。 |
+| 篇幅分布 | 平均每章 34,972 字；最长 LOOT UNDERGROUND: THE SALT MINE AT ALT AUSSEE（60,072 字），最短 FOOTNOTES（852 字）。 |
 | 原文溯源 | `cache/epub/68150/pg68150.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. It did not occur to the members of the E.R.R. staff that the
-2. When I had finished, I decided to explore a bit. There were
-3. We wandered through the series of rooms in which the things
-4. We found two officers who had just come in from Dachau. They
-5. As we lined the trucks up, preparatory to starting back to M
-6. The explanation was soon forthcoming. The sergeant found Dr.
-7. The first order of business the next morning was a conferenc
-8. “Tell me something about the work you’ve been doing in MFA&A
-9. Some of his methods had been ingenious. He was credited with
-10. In May 1940, the Belgians entrusted the altarpiece to France
+1. SALT MINES AND CASTLES
+2. PARIS—LONDON—VERSAILLES
+3. ASSIGNED TO FRANKFURT
+4. MUNICH AND THE BEGINNING OF FIELD WORK
+5. MASTERPIECES IN A MONASTERY
+6. SECOND TRIP TO HOHENFURTH
+7. LOOT UNDERGROUND: THE SALT MINE AT ALT AUSSEE
+8. THE ROTHSCHILD JEWELS; THE GÖRING COLLECTION（1）
+9. THE ROTHSCHILD JEWELS; THE GÖRING COLLECTION（2）
+10. LOOTERS’ CASTLE: SCHLOSS NEUSCHWANSTEIN（1）
 
-> 共 24 段，[完整目录与正文 →](https://www.bqgmz.top/b/90af7e1ad50d/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/90af7e1ad50d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

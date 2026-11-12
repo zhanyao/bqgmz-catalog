@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（99,748 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,083 字。 |
-| 起止 | 始于「Chapter 1--Checklist of Emergency Actions」，止于「Chapter 9--Emergency Care of the Sick and Injured」。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 3,107 行。 |
+| 篇幅分布 | 平均每章 10,064 字；最长 CHAPTER 9（33,775 字），最短 PART I: NUCLEAR ATTACK（351 字）。 |
 | 原文溯源 | `cache/epub/15158/pg15158.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
 
-1. Chapter 1--Checklist of Emergency Actions
-2. Chapter 2---Understand the Hazards of Nuclear Attack
-3. Chapter 3--Know About Warning
-4. Chapter 4--Fallout Shelters, Public and Private
-5. Chapter 5--Improvising Fallout Protection
-6. Chapter 6--Supplies for Fallout Shelters
-7. Chapter 7--Water, Food, and Sanitation in a Shelter
-8. Chapter 8--Fire Hazards
-9. Chapter 9--Emergency Care of the Sick and Injured
+1. PART I: NUCLEAR ATTACK
+2. PART II: MAJOR NATURAL DISASTERS
+3. CHAPTER 3
+4. CHAPTER 4
+5. CHAPTER 5
+6. CHAPTER 6
+7. CHAPTER 7
+8. CHAPTER 8
+9. CHAPTER 9
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/9611a92230c3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

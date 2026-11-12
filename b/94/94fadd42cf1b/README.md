@@ -1,7 +1,7 @@
 # The American Missionary — Volume 50, No. 01, January, 1896
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 87,173 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 86 篇 · 87,173 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/94fadd42cf1b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（87,173 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,793 字。 |
+| 分章依据 | 按「篇」标记切分为 86 篇（auto-magazine），拼接正文 2,872 行。 |
+| 篇幅分布 | 平均每篇 1,013 字。 |
 | 原文溯源 | `cache/epub/26022/pg26022.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 10 篇）
 
-1. We regret that the limit of the magazine pages will not allo
-2. The school has entered upon its fifth year. It has grown ste
-3. Acton. Cong. Ch., _for Student Aid, Meridian, Miss._
-4. Minnesota Woman's Home Missionary Union, by Mrs. M. W. Skinn
+1. EDITORIAL
+2. THE NEW YEAR, 1
+3. PAMPHLETS AND SPEECHES, 2
+4. JUBILEE BELL BANK, 3
+5. THE CHINESE
+6. PROF. GEO. L. WHITE, 6
+7. MISS ADA M. SPRAGUE, 7
+8. BUREAU OF WOMAN'S WORK
+9. ANNUAL MEETING--REPORT OF SECRETARY, 9
+10. ADDRESS OF MRS. SYDNEY STRONG, 13
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/94fadd42cf1b/)
+> 共 86 篇，[完整目录与正文 →](https://www.bqgmz.top/b/94fadd42cf1b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

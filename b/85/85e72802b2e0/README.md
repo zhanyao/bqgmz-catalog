@@ -1,7 +1,7 @@
 # The Trial
 
-**作者** Kafka, Franz, 1883-1924; Wyllie, David (Translator) [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 18 段 · 365,849 字 ｜ **来源** Project Gutenberg
+**作者** Kafka, Franz, 1883-1924; Wyllie, David (Translator) [Translator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 115 篇 · 365,849 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/85e72802b2e0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（365,849 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,324 字；最长 K. stared at the supervisor. Was this man, probably younger （36,972 字），最短 In the distance, he heard the steps of the servitors; he did（3,216 字）。 |
+| 分章依据 | 按「篇」标记切分为 115 篇（通用标记切分），拼接正文 6,685 行。 |
+| 篇幅分布 | 平均每篇 3,180 字。 |
 | 原文溯源 | `cache/epub/7849/pg7849.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. K. stared at the supervisor. Was this man, probably younger
-2. It was already gone half past eleven when someone could be h
-3. At the other end of the hall where K. had been led there was
-4. Every day over the following week, K. expected another summo
-5. At the entrance he nearly fell over, as behind the door ther
-6. "Oh, don't cry Mrs. Grubach," said K., looking out the windo
-7. In the distance, he heard the steps of the servitors; he did
-8. As soon as they had greeted each other--K. had invited him t
-9. He was no longer able to get the thought of the trial out of
-10. But there was no reason to worry too much before he needed t
+1. Arrest--Conversation with Mrs. Grubach--Then Miss Bürstner
+2. Someone must have been telling lies about Josef K., he knew he had done
+3. behind it, "He
+4. He still had time. "Allow me," he said, and hurried between the two
+5. He threw himself down on his bed, and from the dressing table he took
+6. Then he was so startled by a shout to him from the other room that he
+7. Once he was properly dressed, K. had to pass by Willem as he went
+8. In one corner of the room there were three young people looking at the
+9. That spring, whenever possible, K. usually spent his evenings after
+10. That evening, though,--the day had passed quickly with a lot of hard
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/85e72802b2e0/)
+> 共 115 篇，[完整目录与正文 →](https://www.bqgmz.top/b/85e72802b2e0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

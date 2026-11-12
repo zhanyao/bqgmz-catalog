@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（624,265 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,970 字；最长 CHAPTER XXV. A BAD BARGAIN.（40,974 字），最短 CHAPTER XXI. FACE TO FACE.（10,887 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 14,369 行。 |
+| 篇幅分布 | 平均每章 24,298 字；最长 CHAPTER XXV. A BAD BARGAIN.（40,974 字），最短 CHAPTER XXI. FACE TO FACE.（10,887 字）。 |
 | 起止 | 始于「CHAPTER I. A SOUND COMMERCIAL EDUCATION.」，止于「CHAPTER XXV. A BAD BARGAIN.」。 |
 | 原文溯源 | `cache/epub/1024/pg1024.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/81cfc7b96efb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

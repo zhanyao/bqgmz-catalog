@@ -1,7 +1,7 @@
 # The History of Prostitution: Its Extent, Causes, and Effects throughout the World
 
 **作者** Sanger, William W., 1819-1872 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 50 章 · 1,407,672 字 ｜ **来源** Project Gutenberg
+**规模** 65 章 · 1,407,672 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8d44917c746d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,407,672 字）。 |
-| 分章依据 | 按「章」标记切分为 50 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,153 字。 |
+| 分章依据 | 按「章」标记切分为 65 章（auto-caps-sections），拼接正文 32,118 行。 |
+| 篇幅分布 | 平均每章 21,653 字；最长 INTRODUCTION.（59,393 字），最短 CRIME.（315 字）。 |
 | 原文溯源 | `cache/epub/41873/pg41873.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I. THE JEWS.
-2. CHAPTER II. EGYPT, SYRIA, AND ASIA MINOR.
-3. CHAPTER III. GREECE.
-4. CHAPTER IV. ROME.
-5. CHAPTER V. THE EARLY CHRISTIAN ERA.
-6. CHAPTER VI. FRANCE.--HISTORY DURING THE MIDDLE AGES.
-7. CHAPTER VII. FRANCE.--HISTORY FROM THE MIDDLE AGES TO LOUIS XIII.
-8. CHAPTER VIII. FRANCE.--HISTORY FROM LOUIS XIII. TO THE PRESENT DAY.
-9. CHAPTER IX. FRANCE.--SYPHILIS.
-10. CHAPTER X. FRANCE.--PRESENT REGULATIONS.
+1. PEARL STREET, FRANKLIN SQUARE.
+2. TO THE GOVERNORS OF THE ALMS-HOUSE OF THE CITY AND COUNTY OF NEW YORK.
+3. ADVERTISEMENT.
+4. INTRODUCTION.
+5. THE DICTERIADES, OR COMMON PROSTITUTES OF ATHENS.
+6. THE AULETRIDES, OR FLUTE-PLAYERS.
+7. THE HETAIRÆ, OR KEPT WOMEN.
+8. LAWS GOVERNING PROSTITUTION.
+9. CLASSES OF PROSTITUTES.
+10. HOUSES OF PROSTITUTION.
 
-> 共 50 章，[完整目录与正文 →](https://www.bqgmz.top/b/8d44917c746d/)
+> 共 65 章，[完整目录与正文 →](https://www.bqgmz.top/b/8d44917c746d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

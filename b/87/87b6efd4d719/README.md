@@ -1,7 +1,7 @@
 # Encyclopaedia Britannica, 11th Edition, "Hudson River" to "Hurstmonceaux" Volume 13, Slice 8
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 27 题 · 850,353 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 604 篇 · 850,353 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/87b6efd4d719/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（850,353 字）。 |
-| 分章依据 | 按「题」标记切分为 27 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 31,494 字。 |
+| 分章依据 | 按「篇」标记切分为 604 篇（通用标记切分），拼接正文 16,867 行。 |
+| 篇幅分布 | 平均每篇 1,407 字。 |
 | 原文溯源 | `cache/epub/38964/pg38964.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. ENCYCLOPAEDIA BRITANNICA
-2. ELEVENTH EDITION
-3. VOLUME XIII, SLICE VIII
-4. Hudson River to Hurstmonceaux
-5. ARTICLES IN THIS SLICE:
-6. FOOTNOTE:
-7. The introduction to his first volume of
-8. It is not often that a man postpones to
-9. FOOTNOTES:
-10. FIG. 1.--_Aithurus polytmus._]
+1. (6) The following typographical errors have been corrected:
+2. ARTICLE HUMOUR: "To expect exalted humour is a contradiction in
+3. ARTICLE HUNGARY: "This policy he pursued with masterly skill. His
+4. HUDSON RIVER, the principal river of New York state, and one of the most
+5. The Hudson lies entirely in the state of New York, which it crosses in a
+6. From Troy to the mouth of the Hudson the river is tidal, and from this
+7. Most of these variations may be included in a threefold division of
+8. The scenery in this part of the river, though not tame, is a little
+9. The river enters the northern portals of the Highlands between a
+10. The third and lowest section of the tidal part of the Hudson extends
 
-> 共 27 题，[完整目录与正文 →](https://www.bqgmz.top/b/87b6efd4d719/)
+> 共 604 篇，[完整目录与正文 →](https://www.bqgmz.top/b/87b6efd4d719/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

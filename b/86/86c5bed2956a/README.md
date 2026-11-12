@@ -1,7 +1,7 @@
 # The Residuary Legatee; Or, The Posthumous Jest of the Late John Austin
 
-**作者** Stimson, Frederic Jesup, 1855-1943 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 120,825 字 ｜ **来源** Project Gutenberg
+**作者** Stimson, Frederic Jesup, 1855-1943 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 120,825 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/86c5bed2956a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（120,825 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,137 字；最长 What was it that gave such interest to the little familiar p（39,835 字），最短 “The characters of the story have a remarkable vividness and（828 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-roman-bare），拼接正文 3,117 行。 |
+| 篇幅分布 | 平均每章 7,022 字；最长 III.（部5）（19,408 字），最短 I.（部5）（3,160 字）。 |
+| 起止 | 始于「I.」，止于「III.（部5）」。 |
 | 原文溯源 | `cache/epub/67592/pg67592.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. What was it that gave such interest to the little familiar p
-2. The scene was becoming somewhat oppressive; and May, at leas
-3. The faintest possible inclination of her head was his only r
-4. His uncle’s will had well been justified. With shocked shame
-5. Of one thing he was sure--though he had taken eleven years t
-6. “The characters of the story have a remarkable vividness and
+1. I.
+2. II.
+3. III.
+4. I.（部2）
+5. II.（部2）
+6. III.（部2）
+7. I.（部3）
+8. II.（部3）
+9. III.（部3）
+10. I.（部4）
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/86c5bed2956a/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/86c5bed2956a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Custom and Myth New Edition
 
-**作者** Lang, Andrew, 1844-1912 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 20 段 · 404,006 字 ｜ **来源** Project Gutenberg
+**作者** Lang, Andrew, 1844-1912 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 17 篇 · 404,006 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8ddaec37a287/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（404,006 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,200 字；最长 The science of Folklore, if we may call it a science, finds（39,667 字），最短 Sneezing, superstition of, 14（3,475 字）。 |
+| 分章依据 | 按「篇」标记切分为 17 篇（auto-magazine），拼接正文 9,660 行。 |
+| 篇幅分布 | 平均每篇 23,023 字；最长 _THE EARLY HISTORY OF THE FAMILY._（42,418 字），最短 FOOTNOTES:（327 字）。 |
 | 原文溯源 | `cache/epub/33260/pg33260.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. The science of Folklore, if we may call it a science, finds
-2. As to borrowing, we have already shown that in prehistoric t
-3. As to the bull-roarer, its recurrence among Greeks, Zunis, K
-4. The opinion of Mr. Max Mueller has always a right to the fir
-5. Herodotus tells us (i. 146) that some of the old Ionian colo
-6. There once lived a king and a queen. They were long married
-7. To Garcilasso's mind, Peruvian religion seems to be divided
-8. [137] _Zool. Myth._, ii. 68.
-9. It would be easy to multiply examples of this stage of thoug
-10. Now that we have brought mandragora and moly into connection
+1. PREFACE
+2. _INTRODUCTION._
+3. _THE METHOD OF FOLKLORE._
+4. A STUDY OF THE MYSTERIES
+5. _THE MYTH OF CRONUS._
+6. _CUPID, PSYCHE, AND THE 'SUN-FROG.'_
+7. _A FAR-TRAVELLED TALE._
+8. _APOLLO AND THE MOUSE._
+9. _STAR MYTHS._
+10. _MOLY AND MANDRAGORA._
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/8ddaec37a287/)
+> 共 17 篇，[完整目录与正文 →](https://www.bqgmz.top/b/8ddaec37a287/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

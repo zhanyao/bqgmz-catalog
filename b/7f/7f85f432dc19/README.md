@@ -1,7 +1,7 @@
 # Amores: Poems
 
-**作者** Lawrence, D. H. (David Herbert), 1885-1930 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 77 题 · 52,947 字 ｜ **来源** Project Gutenberg
+**作者** Lawrence, D. H. (David Herbert), 1885-1930 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 59 章 · 52,947 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7f85f432dc19/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（52,947 字）。 |
-| 分章依据 | 按「题」标记切分为 77 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 687 字。 |
+| 分章依据 | 按「章」标记切分为 59 章（auto-toc-title-list），拼接正文 2,402 行。 |
+| 篇幅分布 | 平均每章 881 字。 |
 | 原文溯源 | `cache/epub/22531/pg22531.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. E-text prepared by Lewis Jones
-2. D. H. Lawrence (1916) _Amores_
-3. AMORES
-4. Poems
-5. D. H. LAWRENCE
-6. TO
-7. OTTOLINE MORRELL
-8. IN TRIBUTE
-9. TO HER NOBLE
-10. AND INDEPENDENT SYMPATHY
+1. Tease
+2. The Wild Common
+3. Study
+4. Discord in Childhood
+5. Virgin Youth
+6. Monologue of a Mother
+7. In a Boat
+8. Week-night Service
+9. Irony
+10. Dreams Old
 
-> 共 77 题，[完整目录与正文 →](https://www.bqgmz.top/b/7f85f432dc19/)
+> 共 59 章，[完整目录与正文 →](https://www.bqgmz.top/b/7f85f432dc19/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

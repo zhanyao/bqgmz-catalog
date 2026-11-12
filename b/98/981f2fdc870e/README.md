@@ -1,7 +1,7 @@
 # Sketches New and Old, Part 3.
 
-**作者** Twain, Mark, 1835-1910 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 24 题 · 68,621 字 ｜ **来源** Project Gutenberg
+**作者** Twain, Mark, 1835-1910 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 7 篇 · 68,621 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/981f2fdc870e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（68,621 字）。 |
-| 分章依据 | 按「题」标记切分为 24 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,859 字。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（通用标记切分），拼接正文 1,596 行。 |
+| 篇幅分布 | 平均每篇 9,795 字；最长 HOW THE ANIMALS OF THE WOOD COMPLETED THEIR SCIENTIFIC LABORS（27,673 字），最短 VERDICT:（1,034 字）。 |
 | 原文溯源 | `cache/epub/5838/pg5838.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 篇）
 
-1. Produced by David Widger
-2. SKETCHES NEW AND OLD
-3. DISGRACEFUL PERSECUTION OF A BOY
-4. THE JUDGE'S "SPIRITED WOMAN"
-5. INFORMATION WANTED
-6. SOME LEARNED FABLES, FOR GOOD OLD BOYS AND GIRLS
-7. IN THREE PARTS
-8. PART FIRST
-9. HOW THE ANIMALS OF THE WOOD SENT OUT A SCIENTIFIC EXPEDITION
-10. END OF PART FIRST
+1. DISGRACEFUL PERSECUTION OF A BOY
+2. THE JUDGE'S "SPIRITED WOMAN"
+3. HOW THE ANIMALS OF THE WOOD SENT OUT A SCIENTIFIC EXPEDITION
+4. HOW THE ANIMALS OF THE WOOD COMPLETED THEIR SCIENTIFIC LABORS
+5. RILEY-NEWSPAPER CORRESPONDENT
+6. A FINE OLD MAN
+7. VERDICT:
 
-> 共 24 题，[完整目录与正文 →](https://www.bqgmz.top/b/981f2fdc870e/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/981f2fdc870e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

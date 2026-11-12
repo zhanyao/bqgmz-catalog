@@ -1,7 +1,7 @@
 # Poems by Speranza
 
-**作者** Wilde, Lady, 1821-1896 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 169,555 字 ｜ **来源** Project Gutenberg
+**作者** Wilde, Lady, 1821-1896 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 81 章 · 169,555 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/90b01108ffa7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（169,555 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,194 字；最长 The Russian breathed on Poland, and she changed to a Zahara;（39,932 字），最短 Has not vengeance been sated at last?（9,761 字）。 |
+| 分章依据 | 按「章」标记切分为 81 章（auto-toc-title-list），拼接正文 7,892 行。 |
+| 篇幅分布 | 平均每章 2,056 字。 |
 | 原文溯源 | `cache/epub/61742/pg61742.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. The Russian breathed on Poland, and she changed to a Zahara;
-2. Had ye rent one gyve of the festering chain,
-3. But the harp now is silent, no one careth for the sound;
-4. How beautiful, how beautiful you streamed upon my sight,
-5. While thy murmuring waters falling
-6. "Ha! the murderer's steel is beaming!
-7. "Seven children would have stolen
-8. Has not vengeance been sated at last?
+1. DEDICATION,
+2. THE BROTHERS,
+3. THE FAMINE YEAR,
+4. THE ENIGMA,
+5. THE VOICE OF THE POOR,
+6. A SUPPLICATION,
+7. FORESHADOWINGS,
+8. TO A DESPONDENT NATIONALIST,
+9. SIGNS OF THE TIMES,
+10. THE OLD MAN'S BLESSING,
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/90b01108ffa7/)
+> 共 81 章，[完整目录与正文 →](https://www.bqgmz.top/b/90b01108ffa7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

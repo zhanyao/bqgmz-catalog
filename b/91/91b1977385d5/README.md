@@ -1,7 +1,7 @@
 # Suomalaisen talonpojan koti-lääkäri
 
-**作者** Lönnrot, Elias, 1802-1884 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 31 题 · 230,304 字 ｜ **来源** Project Gutenberg
+**作者** Lönnrot, Elias, 1802-1884 ｜ **国家/地区** 芬兰 ｜ **体例** 篇  
+**规模** 4 篇 · 230,304 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/91b1977385d5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（230,304 字）。 |
-| 分章依据 | 按「题」标记切分为 31 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,429 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 5,405 行。 |
+| 篇幅分布 | 平均每篇 31,662 字。 |
+| 起止 | 始于「C. _Korwawiho_ (korwakipu, korwasärky). Waatii iilimatoja korwaan」，止于「VI. _Ruusukuume_. Alottaa tawallisesti ankaralla wilustamalla, jota（3）」。 |
 | 原文溯源 | `cache/epub/38224/pg38224.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 篇）
 
-1. Produced by Tapio Riikonen
-2. SUOMALAISEN TALONPOJAN KOTI=LÄÄKÄRI
-3. Elias Lönnrot
-4. E. L.
-5. SISUSTA:
-6. 1 Luku.
-7. 2 Luku.
-8. 3 Luku.
-9. 4 Luku.
-10. 5 Luku.
+1. C. _Korwawiho_ (korwakipu, korwasärky). Waatii iilimatoja korwaan
+2. VI. _Ruusukuume_. Alottaa tawallisesti ankaralla wilustamalla, jota（1）
+3. VI. _Ruusukuume_. Alottaa tawallisesti ankaralla wilustamalla, jota（2）
+4. VI. _Ruusukuume_. Alottaa tawallisesti ankaralla wilustamalla, jota（3）
 
-> 共 31 题，[完整目录与正文 →](https://www.bqgmz.top/b/91b1977385d5/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/91b1977385d5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

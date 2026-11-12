@@ -1,7 +1,7 @@
 # Notes and Queries, Number 20, March 16, 1850
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 79 题 · 69,857 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 31 章 · 69,857 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/95e05e3188f6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（69,857 字）。 |
-| 分章依据 | 按「题」标记切分为 79 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 884 字。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-caps-sections），拼接正文 1,882 行。 |
+| 篇幅分布 | 平均每章 2,253 字；最长 NOTES AND QUERIES:（7,101 字），最短 OXFORD: JOHN HENRY PARKER; AND 377. STRAND, LONDON.（321 字）。 |
 | 原文溯源 | `cache/epub/16409/pg16409.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
 1. NOTES AND QUERIES:
-2. CONTENTS.
-3. KING ALFRED'S GEOGRAPHY OF EUROPE.
-4. S.W. SINGER.
-5. THE FIRST COFFEE-HOUSES IN ENGLAND.
-6. Anthony Wood in his _Diary_, records, under the year 1654, that--
-7. And in another place he says--
-8. EDWARD F. RIMBAULT.
-9. TRUE TRAGEDY OF RICHARD III.
-10. In _The True Tragedy of Richard the Third_, the following passage--
+2. S.W. SINGER.
+3. FOLK LORE.
+4. PASSAGE IN L'ALLEGRO--NOTES ON MILTON'S MINOR POEMS.
+5. THE USE OF BEAVER HATS IN ENGLAND.
+6. EXTRACTS FROM OLD RECORDS.
+7. CHRIST'S HOSPITAL--OLD SONGS ONCE POPULAR THERE.
+8. WATCHING THE SEPULCHRE--DOMINUS FACTOTUM--ROBERT PASSELLEW.
+9. JAMES LOGAN.
+10. JAS. H. TODD.
 
-> 共 79 题，[完整目录与正文 →](https://www.bqgmz.top/b/95e05e3188f6/)
+> 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/95e05e3188f6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

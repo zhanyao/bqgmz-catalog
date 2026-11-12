@@ -1,7 +1,7 @@
 # Hermelijn
 
-**作者** Melati, van Java, 1853-1927 ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 67 题 · 732,844 字 ｜ **来源** Project Gutenberg
+**作者** Melati, van Java, 1853-1927 ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 60 章 · 732,844 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8256aad938c8/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（732,844 字）。 |
-| 分章依据 | 按「题」标记切分为 67 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,937 字。 |
+| 分章依据 | 按「章」标记切分为 60 章（auto-roman-bare），拼接正文 21,731 行。 |
+| 篇幅分布 | 平均每章 12,213 字；最长 XXXI.（20,767 字），最短 XXXIII.（6,683 字）。 |
+| 起止 | 始于「I.」，止于「LX.」。 |
 | 原文溯源 | `cache/epub/64438/pg64438.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. HERMELIJN
-2. DOOR
-3. MELATI VAN JAVA
-4. TWEEDE DRUK
-5. SCHIEDAM
-6. H. A. M. ROELANTS
-7. I.
-8. II.
-9. III.
-10. IV.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 67 题，[完整目录与正文 →](https://www.bqgmz.top/b/8256aad938c8/)
+> 共 60 章，[完整目录与正文 →](https://www.bqgmz.top/b/8256aad938c8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

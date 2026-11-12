@@ -1,7 +1,7 @@
 # International Short Stories: English
 
-**作者** Patten, William, 1868-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 5 章 · 557,469 字 ｜ **来源** Project Gutenberg
+**作者** Patten, William, 1868-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 25 篇 · 557,469 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8c596d5d5875/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（557,469 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 111,493 字；最长 CHAPTER II（245,421 字），最短 CHAPTER III（18,535 字）。 |
+| 分章依据 | 按「篇」标记切分为 25 篇（通用标记切分），拼接正文 13,731 行。 |
+| 篇幅分布 | 平均每篇 22,290 字。 |
 | 原文溯源 | `cache/epub/32846/pg32846.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 章）
+## 章节目录（前 10 篇）
 
-1. CHAPTER II
-2. CHAPTER III
-3. CHAPTER IV
-4. A letter came in the course of a few day
-5. "Self-preservation must be a strong inst
+1. BY P. F. COLLIER & SON
+2. ENGLISH STORIES
+3. By W. M. THACKERAY
+4. By EDWARD BULWER LYTTON
+5. By CHARLES DICKENS
+6. By WILKIE COLLINS
+7. By SAMUEL LOVER（1）
+8. By SAMUEL LOVER（2）
+9. By SAMUEL LOVER（3）
+10. II
 
-> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/8c596d5d5875/)
+> 共 25 篇，[完整目录与正文 →](https://www.bqgmz.top/b/8c596d5d5875/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

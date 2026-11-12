@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（360,180 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,511 字；最长 CHAPTER XIII.--THE FORGED DEED.（28,652 字），最短 CHAPTER II.--THE WORM UPON THE LEAF.（15,568 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 9,300 行。 |
+| 篇幅分布 | 平均每章 22,497 字；最长 CHAPTER XIII.--THE FORGED DEED.（28,652 字），最短 CHAPTER II.--THE WORM UPON THE LEAF.（15,568 字）。 |
 | 起止 | 始于「CHAPTER I.--THE SHADOW IN THE SUNSHINE.」，止于「CHAPTER XVI.--SELFISHNESS AND SORROW.」。 |
 | 原文溯源 | `cache/epub/56371/pg56371.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/8547649c8c80/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

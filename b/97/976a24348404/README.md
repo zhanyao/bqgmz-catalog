@@ -1,7 +1,7 @@
 # Lars Porsena
 
-**作者** Graves, Robert, 1895-1985 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 3 段 · 63,727 字 ｜ **来源** Project Gutenberg
+**作者** Graves, Robert, 1895-1985 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 2 部分 · 63,727 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/976a24348404/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（63,727 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,242 字。 |
+| 分章依据 | 按「部分」标记切分为 2 部分（fallback-chunk），拼接正文 1,382 行。 |
+| 篇幅分布 | 平均每部分 31,863 字。 |
 | 原文溯源 | `cache/epub/75066/pg75066.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 2 部分）
 
-1. There is no doubt that swearing has a definite physiological
-2. ‘Apparently “bottom” was the common equivalent, in the secre
-3. A final word and a most important one. No critic of this ess
+1. 第 1 部分
+2. 第 2 部分
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/976a24348404/)
+> 共 2 部分，[完整目录与正文 →](https://www.bqgmz.top/b/976a24348404/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

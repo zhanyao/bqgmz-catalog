@@ -1,7 +1,7 @@
 # Kypron prinsessa: 4-näytöksinen satunäytelmä
 
-**作者** Topelius, Zacharias, 1818-1898; Leino, Eino, 1878-1926 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 20 题 · 71,702 字 ｜ **来源** Project Gutenberg
+**作者** Topelius, Zacharias, 1818-1898; Leino, Eino, 1878-1926 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 场  
+**规模** 3 场 · 71,702 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/89ae905ca7a7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（71,702 字）。 |
-| 分章依据 | 按「题」标记切分为 20 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,585 字。 |
+| 分章依据 | 按「场」标记切分为 3 场（auto-local-act），拼接正文 3,977 行。 |
+| 篇幅分布 | 平均每场 17,733 字。 |
 | 原文溯源 | `cache/epub/29396/pg29396.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 3 场）
 
-1. Produced by Tapio Riikonen
-2. KYPRON PRINSESSA
-3. 4-näytöksinen satunäytelmä
-4. Z. TOPELIUS
-5. Suomentanut Eino Leino
-6. HENKILÖT.
-7. ENSIMMÄINEN NÄYTÖS.
-8. TOINEN NÄYTÖS.
-9. KOLMAS NÄYTÖS.
-10. ANEMOTIS.
+1. TOINEN NÄYTÖS.
+2. KOLMAS NÄYTÖS.
+3. NELJÄS NÄYTÖS.
 
-> 共 20 题，[完整目录与正文 →](https://www.bqgmz.top/b/89ae905ca7a7/)
+> 共 3 场，[完整目录与正文 →](https://www.bqgmz.top/b/89ae905ca7a7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

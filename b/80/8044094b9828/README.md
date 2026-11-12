@@ -1,7 +1,7 @@
 # Head-Gear, Antique and Modern
 
-**作者** Wadleigh, R. H. [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 29 题 · 18,199 字 ｜ **来源** Project Gutenberg
+**作者** Wadleigh, R. H. [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 6 章 · 18,199 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8044094b9828/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（18,199 字）。 |
-| 分章依据 | 按「题」标记切分为 29 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 627 字。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-caps-sections），拼接正文 661 行。 |
+| 篇幅分布 | 平均每章 3,033 字。 |
 | 原文溯源 | `cache/epub/65316/pg65316.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 6 章）
 
-1. HEAD-GEAR, ANTIQUE AND MODERN.
-2. DAILY RECEIVING THE VERY LATEST NOVELTIES.
-3. HEAD-GEAR, ANTIQUE AND MODERN.
-4. Compiled and Edited by
-5. R. H. WADLEIGH.
-6. INTRODUCTION.
-7. I remain, respectfully,
-8. R. H. WADLEIGH.
-9. Funeral Boat. Tomb of the Kings.—Thebes.]
-10. King Rameses and his Queen, B.C. 1411.]
+1. INTRODUCTION.
+2. B.C.]
+3. LADIES’ DRESS CAPS.
+4. ANCIENT MOURNING COSTUMES,
+5. FINALE.
+6. LATER.
 
-> 共 29 题，[完整目录与正文 →](https://www.bqgmz.top/b/8044094b9828/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/8044094b9828/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

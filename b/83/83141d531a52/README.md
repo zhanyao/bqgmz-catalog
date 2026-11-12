@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（232,863 字）。 |
-| 分章依据 | 按「章」标记切分为 28 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,316 字；最长 CHAPTER III--THE YELLOW JACK（14,609 字），最短 CHAPTER XX--AIMEE ADELE DE TELISON（3,884 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-chapter），拼接正文 5,840 行。 |
+| 篇幅分布 | 平均每章 8,309 字；最长 CHAPTER III--THE YELLOW JACK（14,609 字），最短 CHAPTER XX--AIMEE ADELE DE TELISON（3,884 字）。 |
 | 起止 | 始于「CHAPTER I--HIS BAPTISM OF THE SEA」，止于「CHAPTER XXVIII--LOVE AND THOSE LAST DAYS」。 |
 | 原文溯源 | `cache/epub/53990/pg53990.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/83141d531a52/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

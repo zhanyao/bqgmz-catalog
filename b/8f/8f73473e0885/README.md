@@ -1,7 +1,7 @@
 # The Memoirs of Victor Hugo
 
-**作者** Hugo, Victor, 1802-1885 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 138 题 · 359,015 字 ｜ **来源** Project Gutenberg
+**作者** Hugo, Victor, 1802-1885 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 30 章 · 359,015 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8f73473e0885/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（359,015 字）。 |
-| 分章依据 | 按「题」标记切分为 138 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,601 字。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-caps-sections），拼接正文 10,289 行。 |
+| 篇幅分布 | 平均每章 11,967 字；最长 THE SIEGE OF PARIS. EXTRACTS FROM NOTE-BOOKS（52,422 字），最短 BOULAY DE LA MEURTHE.（1,057 字）。 |
 | 原文溯源 | `cache/epub/2523/pg2523.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Peter Snow Cao, and Yi Guan Miao Fang Cao Jie
-2. THE MEMOIRS OF VICTOR HUGO
-3. By Victor Hugo
-4. CONTENTS.
-5. PREFACE
-6. AT RHEIMS, 1825-1838
-7. AT THE ACADEMY
-8. LOVE IN PRISON
-9. IN THE CHAMBER OF PEERS: Gen. Febvier
-10. THE SIEGE OF PARIS
+1. THE SIEGE OF PARIS
+2. PREFACE.
+3. AT RHEIMS. 1823-1838.
+4. I. THE HOVEL.
+5. II. PILLAGE. THE REVOLT IN SANTO DOMINGO.
+6. VI. TABLEAUX VIVANTS.
+7. MADEMOISELLE MARS.
+8. TABLEAUX VIVANTS
+9. LOVE IN PRISON.
+10. II.
 
-> 共 138 题，[完整目录与正文 →](https://www.bqgmz.top/b/8f73473e0885/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/8f73473e0885/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

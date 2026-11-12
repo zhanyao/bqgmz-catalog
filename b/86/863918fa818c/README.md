@@ -1,7 +1,7 @@
 # Kristiina kuningatar
 
-**作者** Borstendörfer, Adolf, 1893-1957 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 7 题 · 134,354 字 ｜ **来源** Project Gutenberg
+**作者** Borstendörfer, Adolf, 1893-1957 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 7 章 · 134,354 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/863918fa818c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（134,354 字）。 |
-| 分章依据 | 按「题」标记切分为 7 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 19,193 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-num），拼接正文 3,617 行。 |
+| 篇幅分布 | 平均每章 19,172 字；最长 5.（49,046 字），最短 7.（7,729 字）。 |
+| 起止 | 始于「1.」，止于「7.」。 |
 | 原文溯源 | `cache/epub/76246/pg76246.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 题）
+## 章节目录（前 7 章）
 
-1. KRISTIINA KUNINGATAR
-2. Vuosisatansa merkillisin nainen
-3. Adolf Borstendörfer
-4. Suomennos saksankielestä
-5. Sen, joka on meitä vastaan, on kaaduttava! —
-6. Muiden huomaamatta musta ritari seurasi heitä. — — —
-7. Suokoon Luoja, että vielä kauan saisimme pitää _enkelimme!_
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
 
-> 共 7 题，[完整目录与正文 →](https://www.bqgmz.top/b/863918fa818c/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/863918fa818c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

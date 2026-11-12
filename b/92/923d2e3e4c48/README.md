@@ -1,7 +1,7 @@
 # Clotilde
 
-**作者** Karr, Alphonse, 1808-1890 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 169 题 · 349,811 字 ｜ **来源** Project Gutenberg
+**作者** Karr, Alphonse, 1808-1890 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 116 章 · 349,811 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/923d2e3e4c48/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（349,811 字）。 |
-| 分章依据 | 按「题」标记切分为 169 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,069 字。 |
+| 分章依据 | 按「章」标记切分为 116 章（auto-roman-bare），拼接正文 9,054 行。 |
+| 篇幅分布 | 平均每章 2,998 字。 |
 | 原文溯源 | `cache/epub/35718/pg35718.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. OEUVRES COMPLÈTES
-2. D'ALPHONSE KARR
-3. CLOTILDE
-4. CALMANN LÉVY, ÉDITEUR
-5. DU MÊME AUTEUR
-6. Format grand in-18
-7. MESSIEURS LES ASSASSINS, brochure in-8º 1 fr. »
-8. ÉMILE COLIN--IMP. DE LAGNY
-9. CLOTILDE
-10. PAR
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 169 题，[完整目录与正文 →](https://www.bqgmz.top/b/923d2e3e4c48/)
+> 共 116 章，[完整目录与正文 →](https://www.bqgmz.top/b/923d2e3e4c48/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Delitto ideale
 
-**作者** Capuana, Luigi, 1839-1915 ｜ **国家/地区** 意大利 ｜ **体例** 段  
-**规模** 8 段 · 165,415 字 ｜ **来源** Project Gutenberg
+**作者** Capuana, Luigi, 1839-1915 ｜ **国家/地区** 意大利 ｜ **体例** 篇  
+**规模** 10 篇 · 165,415 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/88185bbabf5e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（165,415 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,676 字；最长 --O tua o di nessun altro!--esclamò comicamente Bedini.--Qua（40,003 字），最短 Certamente il mio spirito aveva continuato durante il sonno （5,313 字）。 |
+| 分章依据 | 按「篇」标记切分为 10 篇（auto-magazine），拼接正文 4,632 行。 |
+| 篇幅分布 | 平均每篇 16,541 字；最长 A L. ANTONIO VILLARI（37,674 字），最短 A BRUNA（4,120 字）。 |
 | 原文溯源 | `cache/epub/29874/pg29874.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 篇）
 
-1. --O tua o di nessun altro!--esclamò comicamente Bedini.--Qua
-2. --Che cosa ti eri immaginato?--le domandavo, canzonandola un
-3. --Ti sei lasciata sorprendere dal sonno--balbettò Aldo per n
-4. --E appunto allora--lo interruppe Diego Punzi--io mi convins
-5. Don Rocco sembrava istupidito, e don Lucio peggio di lui. Ne
-6. --Non vi sembra di essere ridicoli?--soggiunse Cagli.--Vorre
-7. Quel giorno no, ma qualche settimana dopo, sono io davvero e
-8. Certamente il mio spirito aveva continuato durante il sonno
+1. A L. ANTONIO VILLARI
+2. A JOLANDA
+3. A GUELFO CIVININI
+4. AD AMILCARE LAURIA
+5. A GRAZIA DELEDDA
+6. AL DOTTOR MARIANO SALLUZZO
+7. A BRUNA
+8. A GIUSEPPE COSTANZO
+9. A FANNY ZAMPINI-SALAZAR
+10. A GIUSEPPE DRAGONETTO
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/88185bbabf5e/)
+> 共 10 篇，[完整目录与正文 →](https://www.bqgmz.top/b/88185bbabf5e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

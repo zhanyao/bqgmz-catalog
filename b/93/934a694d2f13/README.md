@@ -1,7 +1,7 @@
 # Mr. Achilles
 
-**作者** Lee, Jennette, 1860-1951 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 74 题 · 176,913 字 ｜ **来源** Project Gutenberg
+**作者** Lee, Jennette, 1860-1951 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 37 章 · 176,913 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/934a694d2f13/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（176,913 字）。 |
-| 分章依据 | 按「题」标记切分为 74 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,390 字。 |
+| 分章依据 | 按「章」标记切分为 37 章（auto-roman-bare），拼接正文 4,478 行。 |
+| 篇幅分布 | 平均每章 4,774 字；最长 VI（9,039 字），最短 XXXII（1,775 字）。 |
 | 原文溯源 | `cache/epub/4714/pg4714.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Dagny; John Bickers
-2. MR. ACHILLES
-3. By Jennette Lee
-4. To GERALD STANLEY LEE
-5. MR. ACHILLES
-6. ACHILLES GOES TO CHICAGO
-7. II
-8. A BUTTERFLY SPREADS ITS WINGS
-9. III
-10. BETTY’S MOTHER HEARS A STORY
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 74 题，[完整目录与正文 →](https://www.bqgmz.top/b/934a694d2f13/)
+> 共 37 章，[完整目录与正文 →](https://www.bqgmz.top/b/934a694d2f13/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

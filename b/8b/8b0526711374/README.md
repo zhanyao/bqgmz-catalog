@@ -1,7 +1,7 @@
 # The Clique of Gold
 
-**作者** Gaboriau, Emile, 1832-1873 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 314 题 · 765,169 字 ｜ **来源** Project Gutenberg
+**作者** Gaboriau, Emile, 1832-1873 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 33 章 · 765,169 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8b0526711374/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（765,169 字）。 |
-| 分章依据 | 按「题」标记切分为 314 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,436 字。 |
+| 分章依据 | 按「章」标记切分为 33 章（auto-roman-bare），拼接正文 20,942 行。 |
+| 篇幅分布 | 平均每章 23,184 字；最长 XXX.（45,660 字），最短 XXXIII.（3,807 字）。 |
+| 起止 | 始于「I.」，止于「XXXIII.」。 |
 | 原文溯源 | `cache/epub/4604/pg4604.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by David Moynihan; Dagny; John Bickers
-2. THE CLIQUE OF GOLD
-3. BY
-4. EMILE GABORIAU
-5. THE CLIQUE OF GOLD
-6. I.
-7. Between each blow he cried,--
-8. And, as the neighbors expressed some doubts, he cried furiously,--
-9. The people shuddered; and a woman’s voice exclaimed,--
-10. There were the two letters. On the first he read,--
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 314 题，[完整目录与正文 →](https://www.bqgmz.top/b/8b0526711374/)
+> 共 33 章，[完整目录与正文 →](https://www.bqgmz.top/b/8b0526711374/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Harper's Young People, December 2, 1879 An Illustrated Weekly
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 19 题 · 40,269 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 40,269 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/955632373815/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（40,269 字）。 |
-| 分章依据 | 按「题」标记切分为 19 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,119 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-caps-sections），拼接正文 1,121 行。 |
+| 篇幅分布 | 平均每章 4,026 字。 |
 | 原文溯源 | `cache/epub/28246/pg28246.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Annie McGuire
-2. YOUNG PEOPLE
-3. AN ILLUSTRATED WEEKLY.]
-4. A QUEER PAIR OF HOUSEHOLD PETS.]
-5. THE TWINS.
-6. THE BRAVE SWISS BOY.
-7. THE PROFESSOR ON TWINKLING.
-8. THE HISTORY OF PHOTOGEN AND NYCTERIS.
-9. I.--WATHO.
-10. II.--AURORA.
+1. VOL. I.--NO. 5. PUBLISHED BY HARPER & BROTHERS, NEW YORK. PRICE FOUR
+2. THE TWINS.
+3. I.--WATHO.
+4. II.--AURORA.
+5. III.--VESPER.
+6. IV.--PHOTOGEN.
+7. V.--NYCTERIS.
+8. VII.--HOW NYCTERIS GREW.
+9. MARGOTTE'S STORY.
+10. A LIBERAL OFFER FOR 1880 ONLY.
 
-> 共 19 题，[完整目录与正文 →](https://www.bqgmz.top/b/955632373815/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/955632373815/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Rannikon ratsastaja: Pohjoisfriisiläinen tarina
 
-**作者** Storm, Theodor, 1817-1888; Peltonen, Ester [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 11 题 · 199,524 字 ｜ **来源** Project Gutenberg
+**作者** Storm, Theodor, 1817-1888; Peltonen, Ester [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 5 部分 · 199,524 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8f474bee53bc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（199,524 字）。 |
-| 分章依据 | 按「题」标记切分为 11 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 18,138 字。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 4,613 行。 |
+| 篇幅分布 | 平均每部分 39,904 字；最长 第 1 部分（44,249 字），最短 第 5 部分（23,071 字）。 |
 | 原文溯源 | `cache/epub/48831/pg48831.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 部分）
 
-1. RANNIKON RATSASTAJA
-2. Pohjoisfriisiläinen tarina
-3. THEODOR STORM
-4. Suom. Ester Peltonen
-5. I.
-6. Isä pysähtyi: "Se on sinun vuodattamaasi verta!"
-7. Vanhus nyökäytti päätään. "Miksi olet sen tappanut?"
-8. Ylipatopäällikkö katsoi häneen: "En ymmärrä, herra pastori?"
-9. II.
-10. Renki kääntyi äkkiä häneen päin: "Vai niin, missä se sitte on?"
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 11 题，[完整目录与正文 →](https://www.bqgmz.top/b/8f474bee53bc/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/8f474bee53bc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # R.U.R.
 
-**作者** Čapek, Karel, 1890-1938 ｜ **国家/地区** 捷克 ｜ **体例** 题  
-**规模** 143 题 · 94,475 字 ｜ **来源** Project Gutenberg
+**作者** Čapek, Karel, 1890-1938 ｜ **国家/地区** 捷克 ｜ **体例** 篇  
+**规模** 4 篇 · 94,475 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9244f3aa312b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（94,475 字）。 |
-| 分章依据 | 按「题」标记切分为 143 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 660 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 4,102 行。 |
+| 篇幅分布 | 平均每篇 23,574 字。 |
 | 原文溯源 | `cache/epub/13083/pg13083.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 篇）
 
-1. Karel Čapek
-2. R.U.R.
-3. Kolektivní drama o vstupní komedii a třech dějstvích
-4. OSOBY
-5. Domin: v předehře asi osmatřicetiletý, vysoký, oholený
-6. Fabry: rovněž oholený, plavý, vážné a jemné tváře
-7. Dr. Gall: drobný, živý, snědý, s černým knírem
-8. Busman: tlustý, plešatý, krátkozraký žid
-9. Helena: velmi elegantní
-10. Předehra
+1. OSOBY
+2. DĚJSTVÍ PRVNÍ
+3. DĚJSTVÍ DRUHÉ
+4. DĚJSTVÍ TŘETÍ
 
-> 共 143 题，[完整目录与正文 →](https://www.bqgmz.top/b/9244f3aa312b/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9244f3aa312b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

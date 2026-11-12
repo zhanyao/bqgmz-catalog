@@ -1,7 +1,7 @@
 # The Best of the World's Classics,  Restricted to prose. Volume I (of X) - Greece
 
-**作者** Lodge, Henry Cabot, 1850-1924 [Editor]; Halsey, Francis W. (Francis Whiting), 1851-1919 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 138 题 · 355,329 字 ｜ **来源** Project Gutenberg
+**作者** Lodge, Henry Cabot, 1850-1924 [Editor]; Halsey, Francis W. (Francis Whiting), 1851-1919 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 36 章 · 355,329 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/84d665f46784/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（355,329 字）。 |
-| 分章依据 | 按「题」标记切分为 138 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,574 字。 |
+| 分章依据 | 按「章」标记切分为 36 章（auto-roman-bare），拼接正文 7,890 行。 |
+| 篇幅分布 | 平均每章 9,095 字；最长 IV（部2）（20,923 字），最短 III（部8）（1,565 字）。 |
 | 原文溯源 | `cache/epub/20907/pg20907.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE BEST
-2. WORLD'S CLASSICS
-3. RESTRICTED TO PROSE
-4. HENRY CABOT LODGE
-5. FRANCIS W. HALSEY
-6. IN TEN VOLUMES
-7. Vol. I
-8. GREECE
-9. FUNK & WAGNALLS COMPANY
-10. NEW YORK AND LONDON
+1. I
+2. II
+3. III
+4. IV
+5. I（部2）
+6. II（部2）
+7. III（部2）
+8. IV（部2）
+9. I（部3）
+10. II（部3）
 
-> 共 138 题，[完整目录与正文 →](https://www.bqgmz.top/b/84d665f46784/)
+> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/84d665f46784/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

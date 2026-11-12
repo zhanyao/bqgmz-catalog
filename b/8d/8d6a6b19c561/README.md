@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（453,358 字）。 |
-| 分章依据 | 按「章」标记切分为 35 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,953 字；最长 CHAPTER XXII.--THE NIGHT: THE LOVERS.（19,244 字），最短 CHAPTER I.--THE HIRED FOLK.（6,153 字）。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-chapter），拼接正文 10,513 行。 |
+| 篇幅分布 | 平均每章 12,949 字；最长 CHAPTER XXII.--THE NIGHT: THE LOVERS.（19,244 字），最短 CHAPTER I.--THE HIRED FOLK.（6,024 字）。 |
 | 起止 | 始于「CHAPTER I.--THE HIRED FOLK.」，止于「CHAPTER XXXV.--“SUCH WOMEN ARE!”」。 |
 | 原文溯源 | `cache/epub/54987/pg54987.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/8d6a6b19c561/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

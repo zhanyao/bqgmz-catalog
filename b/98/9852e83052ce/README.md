@@ -1,7 +1,7 @@
 # Prayers of the Middle Ages: Light from a Thousand Years
 
-**作者** Potts, J. Manning (James Manning), 1895- [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 3 段 · 68,903 字 ｜ **来源** Project Gutenberg
+**作者** Potts, J. Manning (James Manning), 1895- [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 64 篇 · 68,903 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9852e83052ce/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（68,903 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,967 字。 |
+| 分章依据 | 按「篇」标记切分为 64 篇（auto-title-scan），拼接正文 2,567 行。 |
+| 篇幅分布 | 平均每篇 987 字。 |
 | 原文溯源 | `cache/epub/48242/pg48242.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 10 篇）
 
-1. Hear us, O never-failing Light, Lord our God, our only light
-2. O Lord God, King of heaven and earth, may it please Thee thi
-3. O Lord my God, be not Thou far from me; my God, have regard
+1. Second Printing
+2. For Forgiveness
+3. For Easter Sunday Giving
+4. For Mercy
+5. For Morning
+6. For Love
+7. For Light
+8. For Rest
+9. For Morning
+10. For Pardon
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/9852e83052ce/)
+> 共 64 篇，[完整目录与正文 →](https://www.bqgmz.top/b/9852e83052ce/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

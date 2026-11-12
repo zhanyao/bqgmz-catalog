@@ -1,7 +1,7 @@
 # A Veldt Vendetta
 
-**作者** Mitford, Bertram, 1855-1914 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 72 题 · 299,452 字 ｜ **来源** Project Gutenberg
+**作者** Mitford, Bertram, 1855-1914 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 299,452 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/94ecf3fc9492/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（299,452 字）。 |
-| 分章依据 | 按「题」标记切分为 72 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,159 字。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 7,344 行。 |
+| 篇幅分布 | 平均每章 14,248 字；最长 notes, tossed from spray to spray and from tree to tree, over the wide（74,841 字），最短 CHAPTER FOUR.（5,875 字）。 |
 | 原文溯源 | `cache/epub/32895/pg32895.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Nick Hodson of London, England
-2. CHAPTER ONE.
-3. A VOYAGE OF DISCOVERY.
-4. I had not a friend in the world.
-5. The salt looked out seaward a moment. Then he said--
-6. CHAPTER TWO.
-7. A WAIF.
-8. I picked up a five-pound note, two sovereigns, and some silver change.
-9. CHAPTER THREE.
-10. SOUTHWARD.
+1. CHAPTER ONE.
+2. CHAPTER TWO.
+3. CHAPTER THREE.
+4. CHAPTER FOUR.
+5. CHAPTER FIVE.
+6. CHAPTER SIX.
+7. CHAPTER SEVEN.
+8. CHAPTER EIGHT.
+9. CHAPTER NINE.
+10. CHAPTER TEN.
 
-> 共 72 题，[完整目录与正文 →](https://www.bqgmz.top/b/94ecf3fc9492/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/94ecf3fc9492/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

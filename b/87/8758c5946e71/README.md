@@ -1,7 +1,7 @@
 # The Point of View（#2869）
 
-**作者** James, Henry, 1843-1916 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 88,043 字 ｜ **来源** Project Gutenberg
+**作者** James, Henry, 1843-1916 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 88,043 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8758c5946e71/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（88,043 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,010 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-bare），拼接正文 1,640 行。 |
+| 篇幅分布 | 平均每章 10,989 字；最长 III.（16,076 字），最短 VIII.（4,051 字）。 |
+| 起止 | 始于「I.」，止于「VIII.」。 |
 | 原文溯源 | `cache/epub/2869/pg2869.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 8 章）
 
-1. IF I felt far away from you in the middle of that deplorable
-2. I PROMISED to tell you how I like it, but the truth is, I ha
-3. THE scales have turned, my sympathetic Harvard, and the beam
-4. I OUGHT to have written to you long before this, for I have
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/8758c5946e71/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/8758c5946e71/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

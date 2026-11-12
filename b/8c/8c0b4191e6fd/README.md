@@ -1,7 +1,7 @@
 # Star-Dust: A Story of an American Girl
 
 **作者** Hurst, Fannie, 1889-1968 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 25 章 · 535,296 字 ｜ **来源** Project Gutenberg
+**规模** 43 章 · 535,296 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8c0b4191e6fd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（535,296 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,411 字；最长 CHAPTER XXIII（107,094 字），最短 CHAPTER II（2,923 字）。 |
+| 分章依据 | 按「章」标记切分为 43 章（auto-chapter），拼接正文 16,000 行。 |
+| 篇幅分布 | 平均每章 12,442 字；最长 CHAPTER I（部2）（34,334 字），最短 CHAPTER II（2,923 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XII（部3）」。 |
 | 原文溯源 | `cache/epub/9858/pg9858.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/8c0b4191e6fd/)
+> 共 43 章，[完整目录与正文 →](https://www.bqgmz.top/b/8c0b4191e6fd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

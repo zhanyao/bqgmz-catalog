@@ -1,7 +1,7 @@
 # Pietro Mascagni, con nota delle opere e ritratto
 
-**作者** Bastianelli, Giannotto, 1883-1927 ｜ **国家/地区** 意大利 ｜ **体例** 段  
-**规模** 7 段 · 156,582 字 ｜ **来源** Project Gutenberg
+**作者** Bastianelli, Giannotto, 1883-1927 ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 10 章 · 156,582 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/7fb2e96d5f36/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（156,582 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,368 字；最长 Ma, ohimè, quell'immenso fremito d'armonia oggi si è spento.（38,299 字），最短 Infatti, per prendere un esempio, chiunque paragoni l'armoni（16,986 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-roman-bare），拼接正文 3,127 行。 |
+| 篇幅分布 | 平均每章 15,374 字；最长 VI.（部2）（46,809 字），最短 III.（4,148 字）。 |
+| 起止 | 始于「I.」，止于「VI.（部2）」。 |
 | 原文溯源 | `cache/epub/46773/pg46773.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. Ma, ohimè, quell'immenso fremito d'armonia oggi si è spento.
-2. Ma ecco due scene in cui il Mascagni può abbandonarsi tutto
-3. Così, tutto sommato e tenendo conto del valore di musicista
-4. Il preludietto del 4º atto è un pezzetto di musica di squisi
-5. È perciò che il 2º atto gli è riuscito migliore degli altri.
-6. Non è ancor stata fatta, se non parzialmente e con intenti p
-7. Infatti, per prendere un esempio, chiunque paragoni l'armoni
+1. I.
+2. II.
+3. III.
+4. IV.
+5. I.（部2）
+6. II.（部2）
+7. III.（部2）
+8. IV.（部2）
+9. V.（部2）
+10. VI.（部2）
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/7fb2e96d5f36/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/7fb2e96d5f36/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Physiology
 
-**作者** Foster, M. (Michael), Sir, 1836-1907 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 170,027 字 ｜ **来源** Project Gutenberg
+**作者** Foster, M. (Michael), Sir, 1836-1907 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 170,027 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/84fa85f7ce7b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（170,027 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,253 字；最长 But this backbone is not made of one long straight piece of （39,825 字），最短 The three great channels, then, by which the blood purifies （10,433 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-caps-sections），拼接正文 3,847 行。 |
+| 篇幅分布 | 平均每章 10,601 字；最长 THE NATURE OF BLOOD. § IV.（37,972 字），最短 V. HOW THE BLOOD MOVES.（379 字）。 |
 | 原文溯源 | `cache/epub/53347/pg53347.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. But this backbone is not made of one long straight piece of
-2. The muscular belly of the biceps is placed in the front of t
-3. =23.= Besides these red and white corpuscles there is nothin
-4. two chambers, an upper chamber and a lower chamber; so that
-5. Suppose you had a long thin muscle, fastened at one end to s
-6. Why is it that the lungs are thus always on the stretch? Bec
-7. Though the epithelium of the mucous membrane is very thin, t
-8. The three great channels, then, by which the blood purifies
+1. 549 AND 551 BROADWAY.
+2. PREFACE.
+3. III. WHAT TAKES PLACE WHEN WE MOVE.
+4. V. HOW THE BLOOD MOVES.
+5. VI. HOW THE BLOOD IS CHANGED BY AIR: BREATHING.
+6. VII. HOW THE BLOOD IS CHANGED BY FOOD: DIGESTION.
+7. 55. IX. THE WHOLE STORY SHORTLY TOLD. 127
+8. THE PARTS OF WHICH THE BODY IS MADE UP. § II.
+9. WHAT TAKES PLACE WHEN WE MOVE. § III.
+10. THE NATURE OF BLOOD. § IV.
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/84fa85f7ce7b/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/84fa85f7ce7b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

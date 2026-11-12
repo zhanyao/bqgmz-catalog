@@ -11,7 +11,7 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（241,923 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-part），拼接正文 5,620 行。 |
 | 篇幅分布 | 平均每章 60,480 字。 |
 | 原文溯源 | `cache/epub/42533/pg42533.txt`（Project Gutenberg） |
 
@@ -19,10 +19,10 @@
 
 1. PART I
 2. PART II
-3. PART III
-4. When his jumbled thoughts had proceeded
+3. PART III（1）
+4. PART III（2）
 
 > 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/9412cc036243/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

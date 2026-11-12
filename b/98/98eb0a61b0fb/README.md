@@ -1,7 +1,7 @@
 # Daily Lesson Plans in English
 
-**作者** Griffin, Caroline Stearns, 1868- ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 139,663 字 ｜ **来源** Project Gutenberg
+**作者** Griffin, Caroline Stearns, 1868- ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 20 篇 · 139,663 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/98eb0a61b0fb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（139,663 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,277 字；最长 Mother cut open the yellow pumpkin. Oh, how thick the meat w（39,778 字），最短 It was a violet that was all ready for the bee’s coming. The（19,844 字）。 |
+| 分章依据 | 按「篇」标记切分为 20 篇（通用标记切分），拼接正文 7,492 行。 |
+| 篇幅分布 | 平均每篇 6,613 字；最长 JIM CROW（18,351 字），最短 THE INDIAN CHILDREN（974 字）。 |
 | 原文溯源 | `cache/epub/55057/pg55057.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 篇）
 
-1. Mother cut open the yellow pumpkin. Oh, how thick the meat w
-2. The next day the sails of the ship were taken down, and the
-3. At last she took a piece of dough as small as the head of a
-4. Boats sail on the rivers,
-5. It was a violet that was all ready for the bee’s coming. The
-6. Teach the proper method of salutation on the street. Have th
+1. JIM CROW
+2. JACK FROST AND THE NUTS
+3. FOURTH WEEK
+4. THE THANKSGIVING STORY
+5. WHY THE CHIPMUNK HAS BLACK STRIPES
+6. THE GRUMBLING SNOWFLAKE
+7. THE WONDERFUL TRAVELING CLOAK
+8. THE INDIAN CHILDREN
+9. THE GRAINS OF WHEAT
+10. BABY BUNTING’S FIRST CHRISTMAS
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/98eb0a61b0fb/)
+> 共 20 篇，[完整目录与正文 →](https://www.bqgmz.top/b/98eb0a61b0fb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

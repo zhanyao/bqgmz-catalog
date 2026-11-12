@@ -1,7 +1,7 @@
 # The Last Million: How They Invaded France—and England
 
-**作者** Hay, Ian, 1876-1952 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 12 段 · 256,600 字 ｜ **来源** Project Gutenberg
+**作者** Hay, Ian, 1876-1952 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 256,600 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/97602c1ec258/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（256,600 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,383 字；最长 The main points for an American to remember are—firstly, tha（39,991 字），最短 “You are right, Major,” he said cheerfully. “Meanwhile, I wi（16,430 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-chapter），拼接正文 6,102 行。 |
+| 篇幅分布 | 平均每章 14,330 字；最长 CHAPTER TEN（23,215 字），最短 CHAPTER FOUR（7,860 字）。 |
 | 原文溯源 | `cache/epub/57597/pg57597.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. The main points for an American to remember are—firstly, tha
-2. “I guess you aren’t a Southerner?” he observed apologeticall
-3. Antonio is not the only man who is going back with a persona
-4. In fact, we have begun to realize this already. They are not
-5. “Now, then, now, then,” he demanded sternly, “what’s all thi
-6. “Seventy fo’, Fo’teen Street, Lebanon, Illinois!” pipes a so
-7. But the American soldier, being for the most part familiar w
-8. “Maybe we have walked into a sort of bend in the line,” sugg
-9. So far as we can gather from the sources at our disposal—off
-10. “Sergeant, you stay here with McCarthy. Gillette and Thompso
+1. CHAPTER ONE
+2. CHAPTER TWO
+3. CHAPTER THREE
+4. CHAPTER FOUR
+5. CHAPTER FIVE
+6. CHAPTER SIX
+7. CHAPTER SEVEN
+8. CHAPTER EIGHT
+9. CHAPTER NINE
+10. CHAPTER TEN
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/97602c1ec258/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/97602c1ec258/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

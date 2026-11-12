@@ -11,18 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（206,459 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 68,819 字。 |
-| 起止 | 始于「CHAPTER I.  THE SUB-DEB: A THEME WRITTEN AND SUBMITTED IN LITERATURE」，止于「CHAPTER III. HER DIARY: BEING THE DAILY JOURNAL OF THE SUB-DEB」。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-toc-title-list），拼接正文 6,174 行。 |
+| 篇幅分布 | 平均每章 68,770 字。 |
+| 起止 | 始于「I. THE SUB-DEB」，止于「III. HER DIARY」。 |
 | 原文溯源 | `cache/epub/366/pg366.txt`（Project Gutenberg） |
 
 ## 章节目录（前 3 章）
 
-1. CHAPTER I. THE SUB-DEB: A THEME WRITTEN AND SUBMITTED IN LITERATURE
-2. CHAPTER II. THEME: THE CELEBRITY
-3. CHAPTER III. HER DIARY: BEING THE DAILY JOURNAL OF THE SUB-DEB
+1. I. THE SUB-DEB
+2. II. THEME: THE CELEBRITY
+3. III. HER DIARY
 
 > 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/8b601c4b7641/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

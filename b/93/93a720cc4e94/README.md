@@ -1,7 +1,7 @@
 # Mein buntes Buch: Naturschilderungen
 
-**作者** Löns, Hermann, 1866-1914 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 8 段 · 176,097 字 ｜ **来源** Project Gutenberg
+**作者** Löns, Hermann, 1866-1914 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 5 部分 · 176,097 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/93a720cc4e94/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（176,097 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,012 字；最长 Ein Pfauenauge schwebt vorüber. Ein anderes tanzt darauf zu.（39,717 字），最短 Schneidend pfiff oft der Wind an dem Hang entlang, wild wirb（16,246 字）。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 3,884 行。 |
+| 篇幅分布 | 平均每部分 35,219 字；最长 第 2 部分（43,037 字），最短 第 5 部分（4,494 字）。 |
 | 原文溯源 | `cache/epub/48798/pg48798.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 5 部分）
 
-1. Ein Pfauenauge schwebt vorüber. Ein anderes tanzt darauf zu.
-2. Es sind die beiden besten und sichersten Schlupfwinkel in de
-3. Doch nicht nur im Wasser ist reiches Leben, auch der Sand bi
-4. Das Käuzchen vom Steinbruche ruft lauter und schwebt an dem
-5. Ein Drittel des Teiches ist von Schilf, Kalmus, Schwertlilie
-6. Immer noch begleitet fertiger Torf, geringelt oder aufgemiet
-7. Allerlei Vögel tränken sich an dieser bequemen Stelle, Spatz
-8. Schneidend pfiff oft der Wind an dem Hang entlang, wild wirb
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/93a720cc4e94/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/93a720cc4e94/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

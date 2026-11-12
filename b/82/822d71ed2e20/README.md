@@ -1,7 +1,7 @@
 # The Public Orations of Demosthenes, volume 1
 
-**作者** Demosthenes, 385 BCE-323 BCE; Pickard-Cambridge, Arthur Wallace, Sir, 1873-1952 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 27 题 · 381,361 字 ｜ **来源** Project Gutenberg
+**作者** Demosthenes, 385 BCE-323 BCE; Pickard-Cambridge, Arthur Wallace, Sir, 1873-1952 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 205 篇 · 381,361 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/822d71ed2e20/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（381,361 字）。 |
-| 分章依据 | 按「题」标记切分为 27 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,124 字。 |
+| 分章依据 | 按「篇」标记切分为 205 篇（通用标记切分），拼接正文 7,389 行。 |
+| 篇幅分布 | 平均每篇 1,859 字。 |
 | 原文溯源 | `cache/epub/9060/pg9060.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. PREFACE
-2. CONTENTS
-3. INTRODUCTION i. 7
-4. LIST OF SPEECHES TRANSLATED
-5. NOTES ii. 149
-6. INTRODUCTION
-7. FOOTNOTES
-8. ON THE NAVAL BOARDS (OR. XIV)
-9. FOOTNOTES
-10. FOR THE MEGALOPOLITANS (OR. XVI)
+1. The translations included in this volume were written at various times
+2. I have tried to render the speeches into such English as a political
+3. I have made very little use of other translations; but I must
+4. The text employed has been throughout that of the late Mr. S.H. Butcher
+5. Demosthenes, the son of Demosthenes of Paeania in Attica, a rich and
+6. Apart from this litigation with his guardians, we know little of
+7. In the early years of his manhood, Demosthenes undertook the
+8. At the time when Demosthenes' interest in public affairs was beginning
+9. Nevertheless, Athens, though unable to face a strong combination, was
+10. Probably the power which was most generally feared in the Greek world
 
-> 共 27 题，[完整目录与正文 →](https://www.bqgmz.top/b/822d71ed2e20/)
+> 共 205 篇，[完整目录与正文 →](https://www.bqgmz.top/b/822d71ed2e20/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

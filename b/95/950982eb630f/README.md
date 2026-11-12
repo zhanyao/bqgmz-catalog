@@ -1,7 +1,7 @@
 # Harper's Young People, September 27. 1881 An Illustrated Weekly
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 3 段 · 73,415 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 73,415 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/950982eb630f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（73,415 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 24,471 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 2,257 行。 |
+| 篇幅分布 | 平均每章 9,176 字；最长 THE VIOLET VELVET SUIT.（23,975 字），最短 CHAPTER IX.（330 字）。 |
 | 原文溯源 | `cache/epub/49303/pg49303.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 8 章）
 
-1. How many boys know that they can have one of the oddest kind
-2. "Oh dear me, there is no need of apology," said Clara May, a
-3. Stones from Colorado, mica from Illinois, stones and sand fr
+1. CHAPTER IX.
+2. THE FAMOUS BEAR-HUNT.
+3. THE CHILDREN OF M. DE LESSEPS.
+4. VI.--BHOPAL.
+5. THE VIOLET VELVET SUIT.
+6. MATTIE L. O.
+7. ROSIE E. W.
+8. QUEER KITES.
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/950982eb630f/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/950982eb630f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

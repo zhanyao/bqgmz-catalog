@@ -1,7 +1,7 @@
 # Cours de philosophie positive. (5/6)
 
-**作者** Comte, Auguste, 1798-1857 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 16 题 · 885,898 字 ｜ **来源** Project Gutenberg
+**作者** Comte, Auguste, 1798-1857 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 259 篇 · 885,898 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/97c68f69f97f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（885,898 字）。 |
-| 分章依据 | 按「题」标记切分为 16 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 55,368 字；最长 Ce dernier ordre d'observations nous con（82,456 字），最短 PAR M. AUGUSTE COMTE,（357 字）。 |
+| 分章依据 | 按「篇」标记切分为 259 篇（通用标记切分），拼接正文 15,836 行。 |
+| 篇幅分布 | 平均每篇 3,416 字。 |
 | 原文溯源 | `cache/epub/52880/pg52880.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. SE TROUVE AUSSI:
-2. PAR M. AUGUSTE COMTE,
-3. AVIS DE L'ÉDITEUR.
-4. CINQUANTE-DEUXIÈME LEÇON.
-5. Cette coïncidence nécessaire tient, en e
-6. CINQUANTE-TROISIÈME LEÇON.
-7. Note 12: Les poèmes d'Homère offrent, ce
-8. Malgré tant d'éminentes propriétés, il e
-9. CINQUANTE-QUATRIÈME LEÇON.
-10. Quant à l'autre condition spéciale subsi
+1. Ce cinquième volume avait été primitivement annoncé comme destiné
+2. L'appréciation historique qui me reste maintenant à effectuer
+3. La plus importante de ces restrictions logiques, et qui comprend
+4. Une pareille manière de procéder doit sembler d'autant plus
+5. Cette restriction rationnelle, si clairement imposée par la nature
+6. Ainsi circonscrit, le véritable champ convenable à notre analyse
+7. En généralisant autant que possible l'ensemble des considérations
+8. Pour mieux préciser, par un dernier éclaircissement préalable, ce grand
+9. Ayant désormais convenablement caractérisé, par l'ensemble des
+10. Cet ensemble indispensable d'explications préalables étant maintenant
 
-> 共 16 题，[完整目录与正文 →](https://www.bqgmz.top/b/97c68f69f97f/)
+> 共 259 篇，[完整目录与正文 →](https://www.bqgmz.top/b/97c68f69f97f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

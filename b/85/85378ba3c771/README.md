@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（488,882 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 61,110 字；最长 CHAPTER VI.（90,009 字），最短 CHAPTER IV.（28,432 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 12,960 行。 |
+| 篇幅分布 | 平均每章 59,949 字；最长 CHAPTER VII.（113,419 字），最短 APPENDIX.（24,799 字）。 |
 | 原文溯源 | `cache/epub/52923/pg52923.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
@@ -24,9 +24,9 @@
 5. CHAPTER V.
 6. CHAPTER VI.
 7. CHAPTER VII.
-8. By way of being ready to see anybody by
+8. APPENDIX.
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/85378ba3c771/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

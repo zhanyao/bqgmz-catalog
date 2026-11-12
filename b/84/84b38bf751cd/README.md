@@ -1,7 +1,7 @@
 # Souvenirs littéraires... et autres
 
-**作者** Willy, 1859-1931 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 7 段 · 146,862 字 ｜ **来源** Project Gutenberg
+**作者** Willy, 1859-1931 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 11 章 · 146,862 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/84b38bf751cd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（146,862 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,980 字；最长 [4] Dreyfusard intensif (comme Ferdinand Hérold auquel il se（40,022 字），最短 Il semble que la chronique scandaleuse veuille représenter n（7,404 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 4,063 行。 |
+| 篇幅分布 | 平均每章 11,156 字；最长 CHAPITRE VI（23,872 字），最短 CHAPITRE II（3,592 字）。 |
 | 原文溯源 | `cache/epub/65150/pg65150.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. [4] Dreyfusard intensif (comme Ferdinand Hérold auquel il se
-2. --Malédiction! Je suis damné!
-3. Pour divertir Apollinaire, j’évoquais la mémoire d’un quarte
-4. De tout temps, le sexe fort--c’est les dames que je veux dir
-5. D’abord ses longs doigts décharnés errèrent sur les touches
-6. Déjà elle fronçait ses sourcils irritables. On expliqua rapi
-7. Il semble que la chronique scandaleuse veuille représenter n
+1. CHAPITRE II
+2. CHAPITRE III
+3. CHAPITRE IV
+4. CHAPITRE V
+5. CHAPITRE VI
+6. CHAPITRE VII
+7. CHAPITRE VIII
+8. CHAPITRE IX
+9. CHAPITRE X
+10. CHAPITRE XI
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/84b38bf751cd/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/84b38bf751cd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

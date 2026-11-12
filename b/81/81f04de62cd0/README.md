@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（265,534 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 44,255 字；最长 CHAPTER IV.（67,550 字），最短 CHAPTER III.（20,832 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「15. You are likewise to enquire and info」。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 6,239 行。 |
+| 篇幅分布 | 平均每章 43,637 字；最长 CHAPTER IV.（67,550 字），最短 CHAPTER III.（20,832 字）。 |
 | 原文溯源 | `cache/epub/33313/pg33313.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
@@ -23,9 +22,9 @@
 3. CHAPTER III.
 4. CHAPTER IV.
 5. CHAPTER V.
-6. 15. You are likewise to enquire and info
+6. APPENDIX I.
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/81f04de62cd0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（400,774 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 40,077 字；最长 CHAPTER VII. BUSINESS OF BLUSHING（53,166 字），最短 CHAPTER VIII. A HAPPY DOWNFALL（33,098 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 10,154 行。 |
+| 篇幅分布 | 平均每章 40,045 字；最长 CHAPTER VII. BUSINESS OF BLUSHING（53,166 字），最短 CHAPTER VIII. A HAPPY DOWNFALL（33,098 字）。 |
 | 起止 | 始于「CHAPTER I. THE FLAME DIVINE」，止于「CHAPTER X. MISSY CANS THE COSMOS」。 |
 | 原文溯源 | `cache/epub/3491/pg3491.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/886bff7060ac/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

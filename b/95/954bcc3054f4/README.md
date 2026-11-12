@@ -1,7 +1,7 @@
 # Lamia's Winter-Quarters
 
-**作者** Austin, Alfred, 1835-1913; Elgood, George Samuel, 1851-1943 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 162,436 字 ｜ **来源** Project Gutenberg
+**作者** Austin, Alfred, 1835-1913; Elgood, George Samuel, 1851-1943 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 6 篇 · 162,436 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/954bcc3054f4/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（162,436 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,304 字；最长 ‘Then,’ he replied, ‘do as I did before I first went to Ital（39,869 字），最短 Not even the novelty of the fresh wing, though we kept retur（2,684 字）。 |
+| 分章依据 | 按「篇」标记切分为 6 篇（通用标记切分），拼接正文 4,174 行。 |
+| 篇幅分布 | 平均每篇 26,872 字；最长 LAMIA’S WINTER-QUARTERS（53,589 字），最短 AGENTS（310 字）。 |
 | 原文溯源 | `cache/epub/53690/pg53690.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 6 篇）
 
-1. ‘Then,’ he replied, ‘do as I did before I first went to Ital
-2. ‘All of us, even the most prosaic,’ said the Poet, ‘are make
-3. After a somewhat lengthened pause, Lamia said: ‘With which d
-4. Whether Lamia was right or wrong in this conclusion, it must
-5. The absence of method in our visits to cloister or gallery s
-6. ‘There is no tomb nor inscription, is there,’ asked Lamia, ‘
-7. ‘Dear Lamia,’ he replied, ‘you are very ancient, and are und
-8. Not even the novelty of the fresh wing, though we kept retur
+1. AGENTS
+2. ALFRED AUSTIN
+3. FACING PAGE
+4. LAMIA’S WINTER-QUARTERS
+5. LAMIA’S WINTER-QUARTERS
+6. LAMIA’S WINTER-QUARTERS
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/954bcc3054f4/)
+> 共 6 篇，[完整目录与正文 →](https://www.bqgmz.top/b/954bcc3054f4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

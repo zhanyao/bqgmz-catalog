@@ -1,7 +1,7 @@
 # The Curiosities of Ale & Beer: An Entertaining History (Illustrated with over Fifty Quaint Cuts)
 
 **作者** Bickerdyke, John, 1858-1933; Dixon, J. M., active 1889 [Contributor]; Fennell, J. G. (John Greville), 1807-1885 [Contributor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 22 章 · 753,822 字 ｜ **来源** Project Gutenberg
+**规模** 15 章 · 753,822 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8a48a59532bb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（753,822 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 34,264 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 19,482 行。 |
+| 篇幅分布 | 平均每章 49,861 字；最长 CHAPTER VIII.（78,239 字），最短 APPENDIX.（20,778 字）。 |
 | 原文溯源 | `cache/epub/55602/pg55602.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/8a48a59532bb/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/8a48a59532bb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

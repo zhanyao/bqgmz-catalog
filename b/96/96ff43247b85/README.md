@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（94,633 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 2,957 字；最长 CHAPTER XXXII: What Blacky Did With The Stolen Egg（3,881 字），最短 CHAPTER XXIV: Farmer Brown's Boy Does Some Thinking（2,576 字）。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-chapter），拼接正文 2,288 行。 |
+| 篇幅分布 | 平均每章 2,955 字；最长 CHAPTER XXXII: What Blacky Did With The Stolen Egg（3,881 字），最短 CHAPTER XXIV: Farmer Brown's Boy Does Some Thinking（2,576 字）。 |
 | 起止 | 始于「CHAPTER I: Blacky The Crow Makes A Discovery」，止于「CHAPTER XXXII: What Blacky Did With The Stolen Egg」。 |
 | 原文溯源 | `cache/epub/4979/pg4979.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/96ff43247b85/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

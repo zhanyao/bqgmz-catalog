@@ -1,7 +1,7 @@
 # Everychild
 
 **作者** Dodge, Louis, 1870-1952; Laite, Blanche Fisher [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 9 章 · 208,223 字 ｜ **来源** Project Gutenberg
+**规模** 32 章 · 208,223 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8677c026c10f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（208,223 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 23,135 字。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-chapter），拼接正文 6,106 行。 |
+| 篇幅分布 | 平均每章 6,434 字；最长 CHAPTER XXXII（13,931 字），最短 CHAPTER XXIV（616 字）。 |
 | 原文溯源 | `cache/epub/17521/pg17521.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 章）
+## 章节目录（前 10 章）
 
-1. PART V
-2. CHAPTER XXV
-3. CHAPTER XXVI
-4. CHAPTER XXVII
-5. CHAPTER XXVIII
-6. CHAPTER XXIX
-7. CHAPTER XXX
-8. CHAPTER XXXI
-9. CHAPTER XXXII
+1. PART I
+2. CHAPTER II
+3. CHAPTER III
+4. CHAPTER IV
+5. CHAPTER V
+6. CHAPTER VI
+7. CHAPTER VII
+8. CHAPTER VIII
+9. CHAPTER IX
+10. CHAPTER X
 
-> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/8677c026c10f/)
+> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/8677c026c10f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

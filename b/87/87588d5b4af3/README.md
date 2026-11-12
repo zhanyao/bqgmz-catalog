@@ -1,7 +1,7 @@
 # Manners and Conduct in School and Out
 
-**作者** Anonymous ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 37 题 · 24,240 字 ｜ **来源** Project Gutenberg
+**作者** Anonymous ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 1 篇 · 24,240 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/87588d5b4af3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,15 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（24,240 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 655 字。 |
+| 分章依据 | 按「篇」标记切分为 1 篇（整本作单章），拼接正文 920 行。 |
+| 篇幅分布 | 平均每篇 24,240 字。 |
 | 原文溯源 | `cache/epub/14408/pg14408.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 1 篇）
 
-1. BY
-2. FOREWORD
-3. MAXIMS OF CONDUCT
-4. GREETING
-5. THE STREET
-6. THE STREET-CAR
-7. CORRIDORS
-8. 1) Avoid all running in the corridors; start in time, and walk.
-9. CLASSROOM
-10. LUNCH ROOM
+1. Manners and Conduct in School and Out
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/87588d5b4af3/)
+> 共 1 篇，[完整目录与正文 →](https://www.bqgmz.top/b/87588d5b4af3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

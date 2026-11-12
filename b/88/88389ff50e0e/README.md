@@ -1,7 +1,7 @@
 # The Bravo of Venice: A Romance
 
 **作者** Zschokke, Heinrich, 1771-1848; Morley, Henry, 1822-1894 [Editor]; Lewis, M. G. (Matthew Gregory), 1775-1818 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 164,942 字 ｜ **来源** Project Gutenberg
+**规模** 22 章 · 164,942 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/88389ff50e0e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（164,942 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,494 字；最长 “Flodoardo!” muttered Abellino between h（57,658 字），最短 CHAPTER VII.（3,534 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 4,249 行。 |
+| 篇幅分布 | 平均每章 7,279 字；最长 CHAPTER VI.（部3）（17,998 字），最短 CHAPTER VII.（部3）（2,039 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER VII.（部3）」。 |
 | 原文溯源 | `cache/epub/2706/pg2706.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +27,9 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
-10. “Flodoardo!” muttered Abellino between h
+10. CHAPTER I.（部2）
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/88389ff50e0e/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/88389ff50e0e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Seven Lively Arts
 
-**作者** Seldes, Gilbert, 1893-1970 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 19 段 · 399,928 字 ｜ **来源** Project Gutenberg
+**作者** Seldes, Gilbert, 1893-1970 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 31 章 · 399,928 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8bf4ee948354/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（399,928 字）。 |
-| 分章依据 | 按「段」标记切分为 19 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,048 字；最长 Ben Turpin has progressed, fortunately without taking that s（39,642 字），最短 Indeed I feel that there must be hidden parody in the earlie（18,793 字）。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-toc-title-list），拼接正文 9,185 行。 |
+| 篇幅分布 | 平均每章 12,316 字。 |
 | 原文溯源 | `cache/epub/66294/pg66294.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Ben Turpin has progressed, fortunately without taking that s
-2. For most of us the grotesque effigy dangling from the electr
-3. Can’t get away
-4. When the troubles came so fast you kept on smiling,
-5. Nowhere is the failure of the negro to exploit his gifts mor
-6. Indeed I feel that there must be hidden parody in the earlie
-7. I cannot estimate the amount of satisfaction which since tho
-8. In the past few years the line of development of most of our
-9. Eddie Cantor and Al Jolson appear in the two different Winte
-10. Fanny is one of the few people who “make fun.” She creates t
+1. The Keystone the Builders Rejected
+2. An Imaginary Conversation
+3. “I Am Here To-Day”: Charlie Chaplin
+4. Say It with Music
+5. Tearing a Passion to Ragtime
+6. Toujours Jazz
+7. Mr Dooley, Meet Mr Lardner
+8. A Tribute to Florenz Ziegfeld
+9. The Darktown Strutters on Broadway
+10. Plan for a Lyric Theatre in America
 
-> 共 19 段，[完整目录与正文 →](https://www.bqgmz.top/b/8bf4ee948354/)
+> 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/8bf4ee948354/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

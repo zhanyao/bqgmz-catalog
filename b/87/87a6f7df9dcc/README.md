@@ -1,7 +1,7 @@
 # The gentle art of tramping
 
-**作者** Graham, Stephen, 1884-1975 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 10 段 · 214,224 字 ｜ **来源** Project Gutenberg
+**作者** Graham, Stephen, 1884-1975 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 214,224 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/87a6f7df9dcc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（214,224 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,422 字；最长 What remains? A jacket. It may as well be a tweed one with h（39,741 字），最短 Happy forethought of London! We had coffee and mustard-and-c（14,557 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 4,969 行。 |
+| 篇幅分布 | 平均每章 10,148 字；最长 notes, and the transaction was concluded without a word in writing. But（67,399 字），最短 CHAPTER ONE（4,256 字）。 |
 | 原文溯源 | `cache/epub/71340/pg71340.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. What remains? A jacket. It may as well be a tweed one with h
-2. Vachel Lindsay, with whom I enjoyed a wonderful six weeks wh
-3. In the summer and autumn wild fruits of many kinds abound;
-4. You may have difficulty in lighting your fire in the damp, b
-5. That is the way of drying off. It suits all weathers. But if
-6. It is a joyous moment which delivers us from the control of
-7. Each will have his choice though many will choose alike. The
-8. On the other hand, six weeks tramping gives you unforgettabl
-9. The diary of this kind is sometimes called a Commonplace boo
-10. Happy forethought of London! We had coffee and mustard-and-c
+1. CHAPTER ONE
+2. CHAPTER TWO
+3. CHAPTER THREE
+4. CHAPTER FOUR
+5. CHAPTER FIVE
+6. CHAPTER SIX
+7. CHAPTER SEVEN
+8. CHAPTER EIGHT
+9. CHAPTER NINE
+10. CHAPTER TEN
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/87a6f7df9dcc/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/87a6f7df9dcc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

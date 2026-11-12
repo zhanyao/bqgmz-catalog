@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（70,303 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,043 字；最长 CHAPTER VI--THE CELTIC PRIESTHOOD（13,556 字），最短 CHAPTER IV--CELTIC RELIGION AND THE DEVELOPMENT OF INDIVIDUALISED DEITIES（7,183 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-chapter），拼接正文 1,340 行。 |
+| 篇幅分布 | 平均每章 9,904 字；最长 CHAPTER VI--THE CELTIC PRIESTHOOD（13,556 字），最短 CHAPTER I--INTRODUCTORY: THE CELTS（6,857 字）。 |
 | 起止 | 始于「CHAPTER I--INTRODUCTORY: THE CELTS」，止于「CHAPTER VII--THE CELTIC OTHER-WORLD」。 |
 | 原文溯源 | `cache/epub/18041/pg18041.txt`（Project Gutenberg） |
 
@@ -29,4 +29,4 @@
 > 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/894842b6d98a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

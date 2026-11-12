@@ -1,7 +1,7 @@
 # The World for Sale, Volume 2.
 
-**作者** Parker, Gilbert, 1862-1932 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 226,694 字 ｜ **来源** Project Gutenberg
+**作者** Parker, Gilbert, 1862-1932 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 226,694 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/904faa072240/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（226,694 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,438 字；最长 CHAPTER VIII（42,204 字），最短 BOOK II（326 字）。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（auto-title-block），拼接正文 5,469 行。 |
+| 篇幅分布 | 平均每篇 46,038 字。 |
 | 原文溯源 | `cache/epub/6282/pg6282.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 4 篇）
 
-1. BOOK II
-2. CHAPTER VIII
-3. CHAPTER IX
-4. CHAPTER X
-5. CHAPTER XI
-6. CHAPTER XII
-7. CHAPTER XIII
-8. CHAPTER XIV
-9. CHAPTER XV
-10. CHAPTER XVI
+1. MATTER AND MIND AND TWO MEN
+2. THE SENTENCE OF THE PATRIN
+3. SUCH THINGS MAY NOT BE
+4. THE MONSEIGNEUR AND THE NOMAD
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/904faa072240/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/904faa072240/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（94,564 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,274 字；最长 CHAPTER XIII.--Tom Joins the Liberty Boys.（10,970 字），最短 CHAPTER IV.--The Boys' Escape.（3,910 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 2,727 行。 |
+| 篇幅分布 | 平均每章 7,267 字；最长 CHAPTER XIII.--Tom Joins the Liberty Boys.（10,970 字），最短 CHAPTER IV.--The Boys' Escape.（3,910 字）。 |
 | 起止 | 始于「CHAPTER 1.--A Clever Capture.」，止于「CHAPTER XIII.--Tom Joins the Liberty Boys.」。 |
 | 原文溯源 | `cache/epub/22902/pg22902.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/864157a8b55e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

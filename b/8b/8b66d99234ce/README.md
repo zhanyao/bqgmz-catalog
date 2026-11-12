@@ -1,7 +1,7 @@
 # The Book of Business Etiquette
 
 **作者** Braddy, Nella, 1894-1973 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 6 章 · 288,394 字 ｜ **来源** Project Gutenberg
+**规模** 14 章 · 288,394 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/8b66d99234ce/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（288,394 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 48,065 字。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-roman-bare），拼接正文 6,332 行。 |
+| 篇幅分布 | 平均每章 20,496 字；最长 X（32,340 字），最短 XI（7,136 字）。 |
 | 原文溯源 | `cache/epub/23025/pg23025.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 章）
+## 章节目录（前 10 章）
 
-1. PART I
-2. PART II
-3. PART I
-4. One of these success-before-you-wake-to-
-5. The best card of admission at the door o
-6. PART II
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/8b66d99234ce/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/8b66d99234ce/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

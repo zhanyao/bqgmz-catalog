@@ -1,7 +1,7 @@
 # Zes maanden bij de commando's
 
-**作者** Hofmeyr, Nico J. ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 79 题 · 533,544 字 ｜ **来源** Project Gutenberg
+**作者** Hofmeyr, Nico J. ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 73 章 · 533,544 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/92fd9b9fb96e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（533,544 字）。 |
-| 分章依据 | 按「题」标记切分为 79 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,753 字。 |
+| 分章依据 | 按「章」标记切分为 73 章（auto-roman-bare），拼接正文 11,543 行。 |
+| 篇幅分布 | 平均每章 7,272 字。 |
 | 原文溯源 | `cache/epub/43034/pg43034.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. ZES MAANDEN BIJ DE COMMANDO'S
-2. DOOR
-3. N. HOFMEYR
-4. W. P. VAN STOCKUM & ZOON
-5. VOORREDE
-6. N. HOFMEYR
-7. II
-8. III
-9. Te Zandspruit
-10. Of deze hem toch geen schoenriempje kon verschaffen! _Great Scott!!_—
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 79 题，[完整目录与正文 →](https://www.bqgmz.top/b/92fd9b9fb96e/)
+> 共 73 章，[完整目录与正文 →](https://www.bqgmz.top/b/92fd9b9fb96e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

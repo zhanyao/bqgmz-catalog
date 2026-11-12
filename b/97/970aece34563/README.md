@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（350,863 字）。 |
-| 分章依据 | 按「章」标记切分为 31 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,318 字；最长 CHAPTER XII--Over Gunsight to Lake McDonald, and Joe and Bob See a（25,897 字），最短 CHAPTER XXXI--Home Again--Joe's Christmas Present to His Mother（2,906 字）。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-chapter），拼接正文 9,350 行。 |
+| 篇幅分布 | 平均每章 11,142 字；最长 CHAPTER XII--Over Gunsight to Lake McDonald, and Joe and Bob See a（25,897 字），最短 CHAPTER XXXI--Home Again--Joe's Christmas Present to His Mother（2,906 字）。 |
 | 起止 | 始于「CHAPTER I--Joe Gets Bad News About His Lungs--His "Pipes," as Spider」，止于「CHAPTER XXXI--Home Again--Joe's Christmas Present to His Mother」。 |
 | 原文溯源 | `cache/epub/37485/pg37485.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/970aece34563/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（280,664 字）。 |
-| 分章依据 | 按「章」标记切分为 30 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,355 字；最长 CHAPTER IV THE CLUB GETS A NEW NAME（13,612 字），最短 CHAPTER XVI SAM HAS A RUDE AWAKENING（6,140 字）。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-chapter），拼接正文 8,152 行。 |
+| 篇幅分布 | 平均每章 9,259 字；最长 CHAPTER IV THE CLUB GETS A NEW NAME（13,612 字），最短 CHAPTER XVI SAM HAS A RUDE AWAKENING（6,140 字）。 |
 | 起止 | 始于「CHAPTER I “HEDGEHOG DAY”」，止于「CHAPTER XXX IN FULL SETTLEMENT」。 |
 | 原文溯源 | `cache/epub/69935/pg69935.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/87463f04b1db/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

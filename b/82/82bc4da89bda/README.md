@@ -1,7 +1,7 @@
 # A Mountain Europa
 
-**作者** Fox, John, Jr., 1862-1919 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 19 题 · 108,747 字 ｜ **来源** Project Gutenberg
+**作者** Fox, John, Jr., 1862-1919 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 12 章 · 108,747 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/82bc4da89bda/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（108,747 字）。 |
-| 分章依据 | 按「题」标记切分为 19 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 5,723 字；最长 XII（17,398 字），最短 Keep hit," he said, steadily.  " Hit's yourn."（371 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-roman-bare），拼接正文 2,450 行。 |
+| 篇幅分布 | 平均每章 9,052 字；最长 XII（17,398 字），最短 VIII（1,629 字）。 |
 | 原文溯源 | `cache/epub/3025/pg3025.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. TO JAMES LANE ALLEN
+1. I
 2. II
 3. III
-4. That tall feller thar loadin' his gun."
-5. Keep hit," he said, steadily. " Hit's yourn."
-6. IV
-7. Oh, yes," answered Clayton, smiling; "it shoots very well."
-8. The gun will carry twice that far."
-9. This is very interesting," he said. " I never saw one like it before."
-10. No," said Clayton; "but I like it very much."
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 19 题，[完整目录与正文 →](https://www.bqgmz.top/b/82bc4da89bda/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/82bc4da89bda/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

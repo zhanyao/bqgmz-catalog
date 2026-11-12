@@ -1,7 +1,7 @@
 # The Jazz Singer
 
 **作者** Raphaelson, Samson, 1896-1983 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 3 章 · 101,103 字 ｜ **来源** Project Gutenberg
+**规模** 82 章 · 101,103 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/9563eaa29c30/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（101,103 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 33,701 字。 |
+| 分章依据 | 按「章」标记切分为 82 章（auto-caps-sections），拼接正文 5,145 行。 |
+| 篇幅分布 | 平均每章 1,224 字；最长 SAMSON RAPHAELSON（7,260 字），最短 SARA（314 字）。 |
 | 原文溯源 | `cache/epub/67583/pg67583.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 章）
+## 章节目录（前 10 章）
 
-1. SCENE 1—_About a month later. Back-stage at the Fulton Theatre,
-2. SCENE 2—_A few minutes later. Jack’s dressing room._
-3. ACT III—_Same as Act I. A few hours later._
+1. SAMSON RAPHAELSON
+2. SARA
+3. CANTOR
+4. SARA
+5. SARA
+6. SARA
+7. SARA
+8. CANTOR
+9. SARA
+10. SARA
 
-> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/9563eaa29c30/)
+> 共 82 章，[完整目录与正文 →](https://www.bqgmz.top/b/9563eaa29c30/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
