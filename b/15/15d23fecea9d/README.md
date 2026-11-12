@@ -1,7 +1,7 @@
 # Bahá'í Administration
 
-**作者** Shoghi, Effendi, 1897-1957 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 143 题 · 364,524 字 ｜ **来源** Project Gutenberg
+**作者** Shoghi, Effendi, 1897-1957 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 163 章 · 364,524 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/15d23fecea9d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（364,524 字）。 |
-| 分章依据 | 按「题」标记切分为 143 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,549 字。 |
+| 分章依据 | 按「章」标记切分为 163 章（auto-toc-title-list），拼接正文 8,444 行。 |
+| 篇幅分布 | 平均每章 2,198 字。 |
 | 原文溯源 | `cache/epub/19252/pg19252.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Baha'i Administration
-2. Edition 1, (September 2006)
-3. BAHA'I TERMS OF USE
-4. 3. The Content must be used solely for a non-commercial purpose.
-5. CONTENTS
-6. PART ONE: EXCERPTS FROM THE WILL AND TESTAMENT OF 'ABDU'L-BAHA
-7. Dear fellow-workers in the Cause of Baha'u'llah:--
-8. The Mission of the Cause
-9. Local and National Spiritual Assemblies
-10. Committees of the National Assembly
+1. PART ONE: Excerpts from the Will and Testament of 'Abdu'l-Baha
+2. PART TWO: Letters from Shoghi Effendi
+3. Guardian of the Baha'i Cause
+4. January 21, 1922-July 17, 1932
+5. Letter of January 21st, 1922.
+6. Letter of March 5, 1922.
+7. The Mission of the Cause
+8. Local and National Spiritual Assemblies
+9. Committees of the National Assembly
+10. Letter of Circa May, 1922 (undated).
 
-> 共 143 题，[完整目录与正文 →](https://www.bqgmz.top/b/15d23fecea9d/)
+> 共 163 章，[完整目录与正文 →](https://www.bqgmz.top/b/15d23fecea9d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

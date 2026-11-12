@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（981,398 字）。 |
-| 分章依据 | 按「章」标记切分为 69 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,223 字；最长 CHAPTER LXIV. ON THE ISLAND（31,152 字），最短 CHAPTER LXVI. A CHRISTMAS AT ARRAN（7,324 字）。 |
+| 分章依据 | 按「章」标记切分为 69 章（auto-chapter），拼接正文 25,346 行。 |
+| 篇幅分布 | 平均每章 14,216 字；最长 CHAPTER LXIV. ON THE ISLAND（31,152 字），最短 CHAPTER LXVI. A CHRISTMAS AT ARRAN（7,324 字）。 |
 | 起止 | 始于「CHAPTER I. A WILD LANDSCAPE」，止于「CHAPTER LXIX. THE END」。 |
 | 原文溯源 | `cache/epub/35717/pg35717.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 69 章，[完整目录与正文 →](https://www.bqgmz.top/b/0a4e6cf05ffb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

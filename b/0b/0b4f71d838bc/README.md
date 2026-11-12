@@ -1,7 +1,7 @@
 # Erotopægnion, sive Priapeia Veterum et Recentiorum
 
-**作者** Noel, François, 1755-1841 [Editor] ｜ **国家/地区** 古罗马 ｜ **体例** 段  
-**规模** 7 段 · 152,134 字 ｜ **来源** Project Gutenberg
+**作者** Noel, François, 1755-1841 [Editor] ｜ **国家/地区** 古罗马 ｜ **体例** 章  
+**规模** 139 章 · 152,134 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0b4f71d838bc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（152,134 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,733 字；最长 Uvis aridior puella passis,（38,309 字），最短 Rusticus _hem_ cunctos cum congeminaret ad ictus,（12,218 字）。 |
+| 分章依据 | 按「章」标记切分为 139 章（auto-roman-bare），拼接正文 7,854 行。 |
+| 篇幅分布 | 平均每章 556 字。 |
+| 起止 | 始于「I.」，止于「CXLI.」。 |
 | 原文溯源 | `cache/epub/53944/pg53944.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. Uvis aridior puella passis,
-2. Olim truncus eram ficulnus, inutile lignum,
-3. Præter legitimi genitalia fœdera cœtûs,
-4. Si vis scire meum nomen, votum que, Viator,
-5. Erucas bulbos que vorat Venerem que medelis
-6. Est Draco formosus juvenis, verùm Draco quùm sit;
-7. Rusticus _hem_ cunctos cum congeminaret ad ictus,
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/0b4f71d838bc/)
+> 共 139 章，[完整目录与正文 →](https://www.bqgmz.top/b/0b4f71d838bc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

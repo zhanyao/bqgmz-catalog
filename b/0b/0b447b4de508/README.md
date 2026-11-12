@@ -1,7 +1,7 @@
 # L'odyssée d'un transport torpillé
 
-**作者** Larrouy, Maurice, 1882-1939 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 14 段 · 285,326 字 ｜ **来源** Project Gutenberg
+**作者** Larrouy, Maurice, 1882-1939 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 6 篇 · 285,326 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0b447b4de508/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（285,326 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,380 字；最长 Le malheur, c’est qu’à la première fournée de déménagement, （39,414 字），最短 Les officiers.--Les soldats.--Le chef de section.--L’infante（5,071 字）。 |
+| 分章依据 | 按「篇」标记切分为 6 篇（通用标记切分），拼接正文 6,333 行。 |
+| 篇幅分布 | 平均每篇 2,527 字。 |
 | 原文溯源 | `cache/epub/67260/pg67260.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 6 篇）
 
-1. Le malheur, c’est qu’à la première fournée de déménagement,
-2. Le _Pamir_ n’a pas moisi devant Birkenhead. Dans la journée
-3. On est resté à Alexandrie juste le temps de s’y trouver bien
-4. J’ai plutôt fait la tête, car tu devines si j’aurais été con
-5. A peine arrivés à Brest, on nous a bourré de fusils pour les
-6. A Southampton, on a embarqué des automobiles et des tracteur
-7. --Tu vois, petit, je comprends maintenant cette guerre. Il y
-8. Moi, je commence à croire que pour la T. S. F. et les canons
-9. Elle reçoit ça dans son Jura, une heure avant le départ du t
-10. J’ai pu aller à La Rochelle; nous t’avons envoyé une carte p
+1. * * * COMMUNIQUÉ OFFICIEL (fin février 1917). On est sans nouvelles du _Pamir_ que les radiogrammes allemands signalent comme torpillé. du 3 Août
+2. GUSTAVE GEFFROY. (_Le Temps_). (_La Revue de Paris_). (_Daily Mail_). (_La Nouvelle Revue_). (_Revue chrétienne_). (_Commerce et Industrie_). (_Gazette de Lauzanne_). (_Journal des Débats_). (_Les Annales politiques et littéraires_). (_La Revue Bleue_). (_La Revue_). In-16 4 fr
+3. In-16 4 fr
+4. (_Paris-Midi._) Les Américains nous apprendront le prix du temps. Et l’on sait qu’en ce moment ce n’est plus seulement de l’argent, c’est du sang. (_Le Siècle._) Ce livre mérite d’être lu par tous les Français qui veulent aller de l’avant. (_Le Soir._) Ce livre, mis entre les mains de tous les jeunes en âge de choisir leur carrière, servira de pierre de touche. (_Journal de Rouen_.) HUBERT F... Un volume in-8 4 fr
+5. (_Le Moniteur du Puy-de-Dôme_). (_La France de Bordeaux_). (_La Dépêche coloniale_). (_Journal de Genève_). (_Le Cri de Paris_). Un volume in-16 4 fr
+6. PIERRE LOTI, de l’Académie Française (_Le Petit Parisien_). LÉON DAUDET (_L’Action française_). (_Le Moniteur de la Flotte_). COMMANDANT VIDI (_La Croix_). LUCIEN DESCAVES. LIEUTENANT-COLONEL ROUSSET (_La Liberté_). (_La Revue de Paris_). (_Le Gaulois_). (_Havre-Éclair_). (_Le Nouvelliste_, Bordeaux). DE BOUZOLS (_Express de Lyon_). J. TALLENDEAU (_Le Populaire_, Nantes). Un volume in-16 4 fr
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/0b447b4de508/)
+> 共 6 篇，[完整目录与正文 →](https://www.bqgmz.top/b/0b447b4de508/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

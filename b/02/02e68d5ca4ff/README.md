@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（391,688 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 43,520 字；最长 CHAPTER VIII（69,154 字），最短 CHAPTER IV（24,986 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 8,808 行。 |
+| 篇幅分布 | 平均每章 43,298 字；最长 CHAPTER VIII（63,927 字），最短 CHAPTER IV（24,986 字）。 |
 | 原文溯源 | `cache/epub/24500/pg24500.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
@@ -25,9 +25,9 @@
 6. CHAPTER VI
 7. CHAPTER VII
 8. CHAPTER VIII
-9. But nor I, nor this place may halfe suff
+9. APPENDIX
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/02e68d5ca4ff/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

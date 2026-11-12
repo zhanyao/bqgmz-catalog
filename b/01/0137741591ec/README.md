@@ -1,7 +1,7 @@
 # Critical Examination of the Life of St. Paul
 
 **作者** Annet, Peter, 1693-1769; Boulanger, Nicolas Antoine, 1722-1759 [Dubious author]; Holbach, Paul Henri Thiry, baron d', 1723-1789 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 24 章 · 146,399 字 ｜ **来源** Project Gutenberg
+**规模** 23 章 · 146,399 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0137741591ec/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（146,399 字）。 |
-| 分章依据 | 按「章」标记切分为 24 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,099 字；最长 CHAPTER VIII. The Apostle gets into embarrassments at Jerusalem, and is（12,377 字），最短 CHAPTER XVI. St. Paul's Hypocrisy（2,192 字）。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-chapter），拼接正文 3,011 行。 |
+| 篇幅分布 | 平均每章 6,291 字；最长 CHAPTER VIII. The Apostle gets into embarrassments at Jerusalem, and is（12,377 字），最短 CHAPTER XVI. St. Paul's Hypocrisy（2,192 字）。 |
 | 起止 | 始于「CHAPTER I. Is the Conversion of St. Paul a proof in favour of the」，止于「CHAPTER XXIV. General reflections on the foundations of Christian Faith,」。 |
 | 原文溯源 | `cache/epub/38102/pg38102.txt`（Project Gutenberg） |
 
@@ -29,7 +29,7 @@
 9. CHAPTER IX. Reflections on the Life and Character of St. Paul
 10. CHAPTER X. Of the Enthusiasm of St. Paul
 
-> 共 24 章，[完整目录与正文 →](https://www.bqgmz.top/b/0137741591ec/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/0137741591ec/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

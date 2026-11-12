@@ -1,7 +1,7 @@
 # A short history of Rhode Island
 
 **作者** Greene, George Washington, 1811-1883 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 33 章 · 506,072 字 ｜ **来源** Project Gutenberg
+**规模** 30 章 · 506,072 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/10157a6876b6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（506,072 字）。 |
-| 分章依据 | 按「章」标记切分为 33 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,335 字；最长 CHAPTER XXXII.（104,388 字），最短 CHAPTER II.（3,759 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「5. In the city of Providence and other c」。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-caps-sections），拼接正文 13,001 行。 |
+| 篇幅分布 | 平均每章 16,368 字；最长 COLONIES.--ARRIVAL AND BANISHMENT OF ROGER WILLIAMS.（60,992 字），最短 WHOLE STATE,     \|108,830 \|147,545 \|174,620 \|184,965 \|217,353 \|258,239（398 字）。 |
 | 原文溯源 | `cache/epub/44955/pg44955.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII.
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. CHAPTER X.
+1. COLONIES.--ARRIVAL AND BANISHMENT OF ROGER WILLIAMS.
+2. OF THE COLONY.--ARRIVAL OF QUAKERS.（1）
+3. OF THE COLONY.--ARRIVAL OF QUAKERS.（2）
+4. OF THE COLONY.--ARRIVAL OF QUAKERS.（3）
+5. COLONISTS.--LOUISBURG CAPTURED.
+6. PROHIBITED.--CAPTURE OF THE GASPEE.
+7. ISLAND.（1）
+8. ISLAND.（2）
+9. ARTICLE I.
+10. OF THE EXECUTIVE POWER.
 
-> 共 33 章，[完整目录与正文 →](https://www.bqgmz.top/b/10157a6876b6/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/10157a6876b6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

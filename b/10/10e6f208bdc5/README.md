@@ -1,7 +1,7 @@
 # La Comédie humaine - Volume 13. Scènes de la vie militaire et Scènes de la vie de campagne
 
-**作者** Balzac, Honoré de, 1799-1850 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 72 段 · 1,458,540 字 ｜ **来源** Project Gutenberg
+**作者** Balzac, Honoré de, 1799-1850 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 30 章 · 1,458,540 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/10e6f208bdc5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,458,540 字）。 |
-| 分章依据 | 按「段」标记切分为 72 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,257 字；最长 En entendant des sons qui semblaient sortir de la corne avec（39,796 字），最短 «Entre seize et dix-huit ans, je me suis adonné à l’étude de（12,925 字）。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-caps-sections），拼接正文 31,180 行。 |
+| 篇幅分布 | 平均每章 48,618 字；最长 VÉRONIQUE AU TOMBEAU.（1）（57,329 字），最短 LA CONFESSION DU MÉDECIN DE CAMPAGNE.（7）（3,379 字）。 |
 | 原文溯源 | `cache/epub/71022/pg71022.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. En entendant des sons qui semblaient sortir de la corne avec
-2. Quand Hulot fit sa grimace, Beau-pied, jeune sergent qui pas
-3. Ce jeune chef, auquel Hulot ne donna pas plus de vingt-cinq
-4. La voiture qui entrait pour quelque chose dans l’attaque des
-5. Mais le bruit du magique retour du général Bonaparte et des
-6. --Allons, taisez-vous, madame, reprit Francine en faisant un
-7. Tous trois arrivèrent dans une chambre assez vaste. Il ne fa
-8. --Les brigands en ont donc de plus jeunes encore? demanda en
-9. Marie et l’inconnu marchèrent ensemble mais séparés. Le mari
-10. La malle ne tarda pas à rejoindre ces deux personnages, qui
+1. «HABITANTS,（1）
+2. «HABITANTS,（2）
+3. «HABITANTS,（3）
+4. «HABITANTS,（4）
+5. «HABITANTS,（5）
+6. «HABITANTS,（6）
+7. «HABITANTS,（7）
+8. «HABITANTS,（8）
+9. (LES CHOUANS.)]（1）
+10. (LES CHOUANS.)]（2）
 
-> 共 72 段，[完整目录与正文 →](https://www.bqgmz.top/b/10e6f208bdc5/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/10e6f208bdc5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

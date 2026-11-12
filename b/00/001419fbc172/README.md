@@ -1,7 +1,7 @@
 # A Florida Sketch-Book（#59608）
 
-**作者** Torrey, Bradford, 1843-1912 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 10 段 · 219,457 字 ｜ **来源** Project Gutenberg
+**作者** Torrey, Bradford, 1843-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 219,457 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/001419fbc172/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（219,457 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,945 字；最长 One fine morning,--it was the 18th of February,--I had gone （39,816 字），最短 Ornithologically, the creek was a disappointment. We pushed （19,124 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 4,509 行。 |
+| 篇幅分布 | 平均每章 21,869 字；最长 Along the Hillsborough（48,805 字），最短 Beside the Marsh（5,498 字）。 |
 | 原文溯源 | `cache/epub/59608/pg59608.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. One fine morning,--it was the 18th of February,--I had gone
-2. It _was_ an eagle, an adult, with head and tail white. Only
-3. One or two cormorants were almost always about the river. So
-4. The orange-trees yielded other things beside shadow, though
-5. If the sounds are not produced by the wings, the question re
-6. Ornithologically, the creek was a disappointment. We pushed
-7. As I struck the road again, a man came along on horseback, a
-8. Before I had been a week in Tallahassee I found that, withou
-9. This patriarch's unfavorable opinion as to the prospects of
-10. Our roads diverged after a while, and my own soon ran into a
+1. In the Flat-Woods
+2. Beside the Marsh
+3. On the Beach at Daytona
+4. Along the Hillsborough
+5. On the Upper St. John's
+6. On the St. Augustine Road
+7. Ornithology on a Cotton Plantation
+8. A Florida Shrine
+9. Walks about Tallahassee
+10. notes out of the grass. Yes, and at the self-same moment the eye also
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/001419fbc172/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/001419fbc172/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

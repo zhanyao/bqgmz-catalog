@@ -1,7 +1,7 @@
 # Blackwood's Edinburgh Magazine, Volume 69, No. 425, March, 1851
 
 **作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 13 章 · 435,646 字 ｜ **来源** Project Gutenberg
+**规模** 7 章 · 435,646 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/08cb4ea0dabd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（435,646 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 33,511 字；最长 "The copy of Hoole's version (of Tasso) （101,012 字），最短 CHAPTER III.（1,955 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-toc-title-list），拼接正文 9,034 行。 |
+| 篇幅分布 | 平均每章 62,156 字。 |
 | 原文溯源 | `cache/epub/46776/pg46776.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 7 章）
 
-1. CHAPTER II.
-2. CHAPTER III.
-3. CHAPTER IV.
-4. CHAPTER V.
-5. CHAPTER VI.
-6. CHAPTER VII.
-7. CHAPTER VIII.
-8. CHAPTER IX.
-9. CHAPTER X.
-10. CHAPTER XI.
+1. THE DANGERS OF THE COUNTRY,
+2. LEGENDS OF THE MONASTIC ORDERS, AS REPRESENTED IN THE
+3. FINE ARTS,
+4. LAVENGRO,
+5. THE ARTS IN PORTUGAL,
+6. SOUTHEY,
+7. THE MINISTRY AND THE AGRICULTURAL INTEREST,
 
-> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/08cb4ea0dabd/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/08cb4ea0dabd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

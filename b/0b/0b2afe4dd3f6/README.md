@@ -1,7 +1,7 @@
 # Megtörténtek és megtörténhetők (2. kötet)
 
-**作者** Lauka, Gusztáv, 1818-1902 ｜ **国家/地区** 匈牙利 ｜ **体例** 题  
-**规模** 53 题 · 183,865 字 ｜ **来源** Project Gutenberg
+**作者** Lauka, Gusztáv, 1818-1902 ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 12 章 · 183,865 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0b2afe4dd3f6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（183,865 字）。 |
-| 分章依据 | 按「题」标记切分为 53 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,469 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-caps-sections），拼接正文 5,351 行。 |
+| 篇幅分布 | 平均每章 15,322 字。 |
 | 原文溯源 | `cache/epub/66561/pg66561.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. MEGTÖRTÉNTEK ÉS MEGTÖRTÉNHETŐK.
-2. Irta
-3. II. KÖTET.
-4. NAGYVÁRAD, 1858.
-5. A MADARÁSZI MADARÁSZ.
-6. Es ist eine alte Geschichte, doch bleibt sie immer neu…
-7. Hogy vannak vesztett ügyek, melyekben minden apellata haszontalan; végre
-8. Grand Bodrogarges.“
-9. GENIALIS LECKE.
-10. ZAM-MIDI.
+1. NAGYVÁRAD, 1858.
+2. A MADARÁSZI MADARÁSZ.
+3. GENIALIS LECKE.
+4. ZAM-MIDI.
+5. TERÉZ.
+6. EGY BOLHA EMLÉKLAPJAI.
+7. ÁLARCOS BÁL.
+8. A NÉMA ÉS FECSEGŐ UDVARLÓ.
+9. CONVENIENZ HÁZASSÁG.
+10. III.
 
-> 共 53 题，[完整目录与正文 →](https://www.bqgmz.top/b/0b2afe4dd3f6/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/0b2afe4dd3f6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

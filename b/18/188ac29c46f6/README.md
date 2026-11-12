@@ -1,7 +1,7 @@
 # Le dimanche avec Paul Cézanne (souvenirs)
 
-**作者** Larguier, Léo, 1878-1950 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 6 段 · 122,661 字 ｜ **来源** Project Gutenberg
+**作者** Larguier, Léo, 1878-1950 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 14 章 · 122,661 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/188ac29c46f6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（122,661 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,443 字；最长 Je l’ai souvent imaginé à Valmondois, faisant visite à Daumi（39,814 字），最短 [D] A. VOLLARD: _Paul Cézanne._（2,577 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-caps-sections），拼接正文 3,645 行。 |
+| 篇幅分布 | 平均每章 8,761 字；最长 III（50,413 字），最短 TABLE DES MATIÈRES（300 字）。 |
 | 原文溯源 | `cache/epub/67848/pg67848.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. Je l’ai souvent imaginé à Valmondois, faisant visite à Daumi
-2. «Ce qu’il projetait pour les _Jardies_ était infini. Sur le
-3. «--Une bacchante! Est-ce que tu te fiches de nous! Est-ce qu
-4. Il se couchait, éreinté d’une journée de travail, de très bo
-5. Simple et droit, ainsi qu’un homme du vieux temps, mon père,
-6. [D] A. VOLLARD: _Paul Cézanne._
+1. III
+2. ADOLPHE WILLETTE.)
+3. CHER MONSIEUR CAMOIN,
+4. CHER MONSIEUR AURENCHE,
+5. MON CHER MONSIEUR AURENCHE,
+6. VII
+7. VIII
+8. III
+9. XVI
+10. XXIII
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/188ac29c46f6/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/188ac29c46f6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

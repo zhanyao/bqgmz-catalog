@@ -1,7 +1,7 @@
 # Overland tales
 
-**作者** McCrackin, Josephine Clifford, 1838-1920 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 28 段 · 566,120 字 ｜ **来源** Project Gutenberg
+**作者** McCrackin, Josephine Clifford, 1838-1920 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 21 章 · 566,120 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/022ad930d178/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（566,120 字）。 |
-| 分章依据 | 按「段」标记切分为 28 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,218 字；最长 But that short, passionate plaint had lightened Nora's heart（39,763 字），最短 Old Cecilio having returned during our absence, we started o（5,971 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-toc-title-list），拼接正文 12,277 行。 |
+| 篇幅分布 | 平均每章 26,892 字；最长 LA GRACIOSA_,（58,821 字），最短 THE TRAGEDY AT MOHAWK STATION_,（12,362 字）。 |
 | 原文溯源 | `cache/epub/42308/pg42308.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. But that short, passionate plaint had lightened Nora's heart
-2. It made her sad, she said to the Don, when he expressed his
-3. "As long as I live. Why should we ever part? Be my wife, Nor
-4. Days passed ere Juanita returned; and, though Screetah grove
-5. During this interesting conversation, some tardy passengers
-6. Not quite four months later, my husband was recalled to Sant
-7. "It's the gentleman from Siskiyou." The words were addressed
-8. At first, he refused utterly to stay with his new master; bu
-9. Not long after, we made camp very early in the day, and the
-10. "Annie," he spoke majestically, "how often must I tell you t
+1. LA GRACIOSA_,
+2. JUANITA_,
+3. HETTY'S HEROISM_,
+4. A WOMAN'S TREACHERY_,
+5. THE GENTLEMAN FROM SISKIYOU_,
+6. SOMETHING ABOUT MY PETS_,
+7. POKER-JIM_,
+8. THE TRAGEDY AT MOHAWK STATION_,
+9. LONE LINDEN_,
+10. MANUELA_,
 
-> 共 28 段，[完整目录与正文 →](https://www.bqgmz.top/b/022ad930d178/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/022ad930d178/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

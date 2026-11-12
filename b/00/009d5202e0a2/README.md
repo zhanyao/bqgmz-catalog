@@ -1,7 +1,7 @@
 # The Wandering Jew — Volume 09
 
-**作者** Sue, Eugène, 1804-1857 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 222,388 字 ｜ **来源** Project Gutenberg
+**作者** Sue, Eugène, 1804-1857 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 3 篇 · 222,388 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/009d5202e0a2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（222,388 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,238 字。 |
-| 起止 | 始于「CHAPTER XXIII.」，止于「CHAPTER XXXII.」。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（auto-title-block），拼接正文 5,400 行。 |
+| 篇幅分布 | 平均每篇 62,759 字。 |
 | 原文溯源 | `cache/epub/3347/pg3347.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 3 篇）
 
-1. CHAPTER XXIII.
-2. CHAPTER XXIV.
-3. CHAPTER XXV.
-4. CHAPTER XXVI.
-5. CHAPTER XXVII.
-6. CHAPTER XXVIII.
-7. CHAPTER XXIX.
-8. CHAPTER XXX.
-9. CHAPTER XXXI.
-10. CHAPTER XXXII.
+1. Hardy?"
+2. THE CHOLERA MASQUERADE.[39]
+3. Rodin."
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/009d5202e0a2/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/009d5202e0a2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

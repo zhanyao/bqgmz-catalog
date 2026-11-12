@@ -1,7 +1,7 @@
 # Stage Confidences: Talks About Players and Play Acting
 
-**作者** Morris, Clara, 1848-1925 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 32 题 · 224,686 字 ｜ **来源** Project Gutenberg
+**作者** Morris, Clara, 1848-1925 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 21 篇 · 224,686 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0d21f317304e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（224,686 字）。 |
-| 分章依据 | 按「题」标记切分为 32 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 7,021 字。 |
+| 分章依据 | 按「篇」标记切分为 21 篇（通用标记切分），拼接正文 5,077 行。 |
+| 篇幅分布 | 平均每篇 10,688 字；最长 POOR SEMANTHA_（29,766 字），最短 _GREETING（2,135 字）。 |
 | 原文溯源 | `cache/epub/13277/pg13277.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. TALKS ABOUT PLAYERS AND PLAY ACTING
-2. BY
-3. CLARA MORRIS
-4. AUTHOR OF
-5. MARY ANDERSON
-6. Clara Morris._
-7. CHAPTER
-8. A WORD OF WARNING_
-9. THE STAGE AND REAL LIFE_
-10. IN CONNECTION WITH "DIVORCE" AND DALY'S_
+1. _GREETING
+2. A WORD OF WARNING_
+3. THE STAGE AND REAL LIFE_
+4. IN CONNECTION WITH "DIVORCE" AND DALY'S_
+5. "MISS MULTON" AT THE UNION SQUARE_
+6. THE "NEW MAGDALEN" AT THE UNION SQUARE_
+7. "ODETTE" IN THE WEST. A CHILD'S FIRST PLAY_
+8. A CASE OF "TRYING IT ON A DOG"_
+9. THE CAT IN "CAMILLE"_
+10. "ALIXE." THE TRAGEDY OF THE GOOSE GREASE_
 
-> 共 32 题，[完整目录与正文 →](https://www.bqgmz.top/b/0d21f317304e/)
+> 共 21 篇，[完整目录与正文 →](https://www.bqgmz.top/b/0d21f317304e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Logbooks of the Lady Nelson With the journal of her first commander Lieutenant James Grant
 
 **作者** Lee, Ida, 1865-1943 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 14 章 · 394,677 字 ｜ **来源** Project Gutenberg
+**规模** 15 章 · 394,677 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/16826cdc6788/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（394,677 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,191 字；最长 CHAPTER 7.（63,693 字），最短 CHAPTER 4.（7,746 字）。 |
-| 起止 | 始于「CHAPTER 1.」，止于「CHAPTER 14.」。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 9,806 行。 |
+| 篇幅分布 | 平均每章 25,646 字；最长 CHAPTER 7.（63,693 字），最短 CHAPTER 4.（7,746 字）。 |
 | 原文溯源 | `cache/epub/7509/pg7509.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER 9.
 10. CHAPTER 10.
 
-> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/16826cdc6788/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/16826cdc6788/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

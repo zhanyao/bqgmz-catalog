@@ -1,7 +1,7 @@
 # India and Tibet A history of the relations which have subsisted between the two countries from the time of Warren Hastings to 1910; with a particular account of the mission to Lhasa of 1904
 
 **作者** Younghusband, Francis Edward, Sir, 1863-1942 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 32 章 · 798,225 字 ｜ **来源** Project Gutenberg
+**规模** 26 章 · 798,225 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/03dfdeaf8886/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（798,225 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 24,944 字。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 17,166 行。 |
+| 篇幅分布 | 平均每章 29,878 字；最长 CHAPTER XXIII（69,806 字），最短 CHAPTER VII（7,895 字）。 |
 | 原文溯源 | `cache/epub/48996/pg48996.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/03dfdeaf8886/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/03dfdeaf8886/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

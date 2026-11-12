@@ -1,7 +1,7 @@
 # Lays and Legends of the English Lake Country With Copious Notes
 
-**作者** White, John Pagen, -1868 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 99 题 · 451,657 字 ｜ **来源** Project Gutenberg
+**作者** White, John Pagen, -1868 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 451,657 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/029fda4e3839/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（451,657 字）。 |
-| 分章依据 | 按「题」标记切分为 99 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,562 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 11,644 行。 |
+| 篇幅分布 | 平均每章 44,187 字；最长 On the rising of the adherents of the ho（101,062 字），最短 The Past（1,121 字）。 |
 | 原文溯源 | `cache/epub/48207/pg48207.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. INTRODUCTION.
-2. PREFACE.
-3. CONTENTS
-4. THE BANNER OF BROUGHTON TOWER.
-5. NOTES TO "THE BANNER OF BROUGHTON TOWER."
-6. NOTE.
-7. CRIER OF CLAIFE.
-8. NOTES TO "CRIER OF CLAIFE."
-9. THE CUCKOO IN BORRODALE.
-10. NOTES TO "THE CUCKOO IN BORRODALE."
+1. The Past
+2. The Banner of Broughton Tower
+3. Giltstone Rock
+4. Crier of Claife
+5. King Eveling
+6. SIR LANCELOT THRELKELD.
+7. On the rising of the adherents of the ho
+8. How they stared at each other, how glanc
+9. And proud was the welcome, and courtly t
+10. NOTES TO "THE BRIDALS OF DACRE."
 
-> 共 99 题，[完整目录与正文 →](https://www.bqgmz.top/b/029fda4e3839/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/029fda4e3839/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Leliënstad
 
-**作者** Borel, Henri, 1869-1933 ｜ **国家/地区** 荷兰 ｜ **体例** 题  
-**规模** 16 题 · 274,765 字 ｜ **来源** Project Gutenberg
+**作者** Borel, Henri, 1869-1933 ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 14 章 · 274,765 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/029f90751970/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（274,765 字）。 |
-| 分章依据 | 按「题」标记切分为 16 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 17,172 字。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 6,182 行。 |
+| 篇幅分布 | 平均每章 19,622 字；最长 HOOFDSTUK IX.（33,758 字），最短 HOOFDSTUK XIII.（9,925 字）。 |
 | 原文溯源 | `cache/epub/68893/pg68893.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LELIËNSTAD
-2. HOOFDSTUK I.
-3. HOOFDSTUK II.
-4. HOOFDSTUK III.
-5. HOOFDSTUK IV.
-6. HOOFDSTUK V.
-7. HOOFDSTUK VI.
-8. HOOFDSTUK VII.
-9. HOOFDSTUK VIII.
-10. HOOFDSTUK IX.
+1. HOOFDSTUK I.
+2. HOOFDSTUK II.
+3. HOOFDSTUK III.
+4. HOOFDSTUK IV.
+5. HOOFDSTUK V.
+6. HOOFDSTUK VI.
+7. HOOFDSTUK VII.
+8. HOOFDSTUK VIII.
+9. HOOFDSTUK IX.
+10. HOOFDSTUK X.
 
-> 共 16 题，[完整目录与正文 →](https://www.bqgmz.top/b/029f90751970/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/029f90751970/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Solidarismus: Natürliche wirtschaftliche Erlösung des Menschen
 
-**作者** Diesel, Rudolf, 1858-1913 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 14 段 · 297,062 字 ｜ **来源** Project Gutenberg
+**作者** Diesel, Rudolf, 1858-1913 ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 7 章 · 297,062 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0202853ee9bc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（297,062 字）。 |
-| 分章依据 | 按「段」标记切分为 14 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,218 字；最长 Außerdem errichtet die Volkskasse aus einem Teil der Erträgn（39,981 字），最短 16. Doppelwaisen von Bienen haben das Recht, auf Kosten des（16,766 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-caps-sections），拼接正文 7,396 行。 |
+| 篇幅分布 | 平均每章 42,437 字；最长 \|                                     \| 1896:            M.  236683      \|（3）（55,881 字），最短 \|                                     \| 1900.                M. 27379    \|（1,654 字）。 |
 | 原文溯源 | `cache/epub/58351/pg58351.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 7 章）
 
-1. Außerdem errichtet die Volkskasse aus einem Teil der Erträgn
-2. Das Anlage- und Betriebskapital derselben wird beschafft dur
-3. Durch die gemeinsamen Maschinen und die großen zusammenhänge
-4. Derartige Werke kann man nach Dutzenden aufzählen; die oben
-5. Nehmt an, es seien in Bienenstöcken zunächst einmal als Anfa
-6. Diese günstige Beeinflußung hört auch in eurem späteren Lebe
-7. Aber zu diesen 70% »direkt Abhängiger« treten noch mindesten
-8. Der Solidarismus entwickelt sich friedlich, ohne Heftigkeit,
-9. Nach der preußischen Einkommensteuerstatistik pro 1900/01 si
-10. *Die große Masse ist also in allen wichtigen Dingen der
+1. | | 1896: M. 236683 |（1）
+2. | | 1896: M. 236683 |（2）
+3. | | 1896: M. 236683 |（3）
+4. | | 1896: M. 236683 |（4）
+5. | | 1900. M. 27379 |
+6. | | 1899/1900 M. 53187 |（1）
+7. | | 1899/1900 M. 53187 |（2）
 
-> 共 14 段，[完整目录与正文 →](https://www.bqgmz.top/b/0202853ee9bc/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/0202853ee9bc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

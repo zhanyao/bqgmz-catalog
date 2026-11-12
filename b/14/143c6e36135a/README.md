@@ -1,7 +1,7 @@
 # Ainslee's magazine, Volume 16, No. 3, October, 1905
 
 **作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 11 章 · 473,930 字 ｜ **来源** Project Gutenberg
+**规模** 21 章 · 473,930 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/143c6e36135a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（473,930 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 43,084 字；最长 CHAPTER I.（177,548 字），最短 CHAPTER VII.（3,057 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-toc-title-list），拼接正文 13,076 行。 |
+| 篇幅分布 | 平均每章 22,482 字。 |
 | 原文溯源 | `cache/epub/47017/pg47017.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
-5. CHAPTER V.
-6. CHAPTER VI.
-7. CHAPTER VII.
-8. CHAPTER VIII.
-9. CHAPTER IX.
-10. [Illustration]
+1. Young Carrington’s Career
+2. The Song
+3. Autumn
+4. The Warreners
+5. October
+6. America’s Social House of Peers
+7. Couplets
+8. False Equivalents
+9. The Rivals
+10. Conversations with Egeria
 
-> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/143c6e36135a/)
+> 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/143c6e36135a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

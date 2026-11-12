@@ -1,7 +1,7 @@
 # Taikaviitta
 
-**作者** Mikszáth, Kálmán, 1847-1910; Kivimäki, Urho, 1889-1958 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 10 题 · 142,433 字 ｜ **来源** Project Gutenberg
+**作者** Mikszáth, Kálmán, 1847-1910; Kivimäki, Urho, 1889-1958 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 9 章 · 142,433 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0fd57fa51349/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（142,433 字）。 |
-| 分章依据 | 按「题」标记切分为 10 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 14,243 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-num），拼接正文 3,750 行。 |
+| 篇幅分布 | 平均每章 15,813 字；最长 7.（23,701 字），最短 4.（8,423 字）。 |
+| 起止 | 始于「1.」，止于「9.」。 |
 | 原文溯源 | `cache/epub/71541/pg71541.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. TAIKAVIITTA
-2. Kálman Mikszáth
-3. Suomentanut
-4. Urho Kivimäki
-5. Kariston 1 markan romaaneja 22
-6. Ensin kuului naurunrähäkkää. "Hahahaal Mikael Lestyak! Hehehee!"
-7. Kaikkialta kuului vastaus: "Täällä hän ei ole. Eikä täälläkään!"
-8. GERSON ZEKE: "Onhan kuitenkin pieni ero näissä."
-9. KASPAR PERMETE (raivoissaan): "Ei ole!"
-10. Krimin varakaan! (Kalgan sulttaani)."
+1. 1.
+2. 2.
+3. 3
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
 
-> 共 10 题，[完整目录与正文 →](https://www.bqgmz.top/b/0fd57fa51349/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/0fd57fa51349/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

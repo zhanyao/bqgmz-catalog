@@ -1,7 +1,7 @@
 # Motion pictures, 1960-1969
 
-**作者** Library of Congress. Copyright Office ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 9 章 · 3,728,922 字 ｜ **来源** Project Gutenberg
+**作者** Library of Congress. Copyright Office ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 105 部分 · 3,728,922 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/106e0edd91b9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（3,728,922 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 414,324 字。 |
+| 分章依据 | 按「部分」标记切分为 105 部分（fallback-chunk），拼接正文 265,481 行。 |
+| 篇幅分布 | 平均每部分 35,513 字；最长 第 55 部分（36,607 字），最短 第 105 部分（7,420 字）。 |
 | 原文溯源 | `cache/epub/44621/pg44621.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 章）
+## 章节目录（前 10 部分）
 
-1. Part I: A case of murder. Based
-2. Part II: The big swindle. Based
-3. Part III: The Daily Press vs.
-4. THE CHILD WATCHERS.
-5. Canadian Government's Cape Breton
-6. UNBRIDLED GLORY.
-7. YELLOW SUBMARINE.
-8. BRANDENBURG CONCERTO NO. 4.
-9. 20,000 LEAGUES UNDER THE SEA.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/106e0edd91b9/)
+> 共 105 部分，[完整目录与正文 →](https://www.bqgmz.top/b/106e0edd91b9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Oorlogsfilosofie
 
-**作者** Polak, Leo, 1880-1941 ｜ **国家/地区** 荷兰 ｜ **体例** 段  
-**规模** 8 段 · 168,271 字 ｜ **来源** Project Gutenberg
+**作者** Polak, Leo, 1880-1941 ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 4 章 · 168,271 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/179418b9da5f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（168,271 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,033 字；最长 Ja, bij STEINMETZ fungeren zelfs de „Grausamkeitsgenüsse” va（38,907 字），最短 [66] Deze schrijver zegt: „Nein, der Krieg ist schön”—en beh（9,483 字）。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-roman-title），拼接正文 3,495 行。 |
+| 篇幅分布 | 平均每章 650 字。 |
+| 起止 | 始于「I. INLEIDING. TEGEN STEINMETZ' METHODE 5」，止于「IV. OORLOGSPATRIOTTISME EN OORLOGSHEROÏSME. EEN GROTE TIJD? 70」。 |
 | 原文溯源 | `cache/epub/48088/pg48088.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 4 章）
 
-1. Ja, bij STEINMETZ fungeren zelfs de „Grausamkeitsgenüsse” va
-2. Vooraf nog tweeërlei opmerking tot voorkoming van misverstan
-3. Vervalt zo reeds elke waarborg, dat de machtigste groep de z
-4. Wij hebben gezien, historiese noodzakelikheid kan selektief
-5. Waarom nu mogen enkelingen niet met alle middelen „konkurrer
-6. Wanneer dit alles zich kon handhaven zonder oorlogsmogelikhe
-7. Verwijlen we tans nog een ogenblik bij de psychologie van
-8. [66] Deze schrijver zegt: „Nein, der Krieg ist schön”—en beh
+1. I. INLEIDING. TEGEN STEINMETZ' METHODE 5
+2. II. DE OORLOGSRECHTVAARDIGING.
+3. III. DE KEPER.
+4. IV. OORLOGSPATRIOTTISME EN OORLOGSHEROÏSME. EEN GROTE TIJD? 70
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/179418b9da5f/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/179418b9da5f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Shackleton in the Antarctic: Being the story of the British Antarctic expedition, 1907-1909
 
 **作者** Shackleton, Ernest Henry, Sir, 1874-1922 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 47 章 · 270,606 字 ｜ **来源** Project Gutenberg
+**规模** 48 章 · 270,606 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/071f1edc40c6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（270,606 字）。 |
-| 分章依据 | 按「章」标记切分为 47 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,757 字；最长 CHAPTER XLVI（10,205 字），最短 CHAPTER XLVII（2,033 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XLVII」。 |
+| 分章依据 | 按「章」标记切分为 48 章（auto-chapter），拼接正文 6,693 行。 |
+| 篇幅分布 | 平均每章 5,548 字。 |
 | 原文溯源 | `cache/epub/69138/pg69138.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 47 章，[完整目录与正文 →](https://www.bqgmz.top/b/071f1edc40c6/)
+> 共 48 章，[完整目录与正文 →](https://www.bqgmz.top/b/071f1edc40c6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

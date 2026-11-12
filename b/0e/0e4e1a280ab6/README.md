@@ -1,7 +1,7 @@
 # Three Little Kittens
 
-**作者** Pyle, Katharine, 1863-1938 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 24 题 · 54,813 字 ｜ **来源** Project Gutenberg
+**作者** Pyle, Katharine, 1863-1938 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 54,813 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0e4e1a280ab6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（54,813 字）。 |
-| 分章依据 | 按「题」标记切分为 24 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,283 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-roman-bare），拼接正文 1,864 行。 |
+| 篇幅分布 | 平均每章 4,634 字；最长 IX（7,563 字），最短 X（1,348 字）。 |
 | 原文溯源 | `cache/epub/48420/pg48420.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THREE LITTLE KITTENS
-2. THE VAIL-BALLOU PRESS
-3. BINGHAMTON AND NEW YORK
-4. ILLUSTRATIONS
-5. PAGE
-6. Jazbury, Fluffy and Yowler _Frontispiece_
-7. The cat people always had very good meals 4
-8. The rat looked at him with a wicked grin 20
-9. Fluffy dropped the bird and put his paw on it 50
-10. He turned on them so fiercely that they were frightened 62
+1. II
+2. III
+3. IV
+4. V
+5. VI
+6. VII
+7. VIII
+8. IX
+9. X
+10. XI
 
-> 共 24 题，[完整目录与正文 →](https://www.bqgmz.top/b/0e4e1a280ab6/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/0e4e1a280ab6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

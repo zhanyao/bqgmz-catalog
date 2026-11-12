@@ -1,7 +1,7 @@
 # Beacon Lights of History, Volume 04: Imperial Antiquity
 
-**作者** Lord, John, 1810-1894 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 20 段 · 408,476 字 ｜ **来源** Project Gutenberg
+**作者** Lord, John, 1810-1894 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 326 篇 · 408,476 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/08acbec09183/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（408,476 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,423 字；最长 It may as well be here said that the Iranians, both Medes an（39,685 字），最短 In the time of Leo there were none of these things. It was a（7,986 字）。 |
+| 分章依据 | 按「篇」标记切分为 326 篇（通用标记切分），拼接正文 7,920 行。 |
+| 篇幅分布 | 平均每篇 1,248 字。 |
 | 原文溯源 | `cache/epub/10522/pg10522.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. It may as well be here said that the Iranians, both Medes an
-2. However, this account is to be taken with some reserve, sinc
-3. Caesar, like Cicero and Hortensius, chose the law as a means
-4. It is unnecessary to dwell on the final contest of Caesar wi
-5. In regard to the first, it was a blunder rather than a fault
-6. The historian speaks of peace, and the prosperity which natu
-7. The ancient Byzantium, which Constantine selected as the new
-8. With the establishment of the doctrine of the Trinity by the
-9. So, in the midst of a chosen and favored circle did Jerome l
-10. But the time came--as it always must--for the sundering of a
+1. They call Pompey to their aid
+2. Eloquence always a power
+3. Results of the Pelagian controversy
+4. Revolt of Arbogastes,--his usurpation
+5. Designs and thoughts of Leo
+6. Greatness of Leo's character and aims
+7. One of the most prominent and romantic characters in the history of the
+8. It is to be regretted that so little is really known of the Persian
+9. Neither Herodotus, Xenophon, nor Ctesias satisfy us as to the real life
+10. Persia was a small, rocky, hilly, arid country about three hundred miles
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/08acbec09183/)
+> 共 326 篇，[完整目录与正文 →](https://www.bqgmz.top/b/08acbec09183/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Giles Corey, Yeoman: A Play
 
-**作者** Freeman, Mary Eleanor Wilkins, 1852-1930 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 5 章 · 77,472 字 ｜ **来源** Project Gutenberg
+**作者** Freeman, Mary Eleanor Wilkins, 1852-1930 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 2 部分 · 77,472 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/12c6a396a5b7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（77,472 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,494 字；最长 Act II.（29,965 字），最短 Act VI.（6,235 字）。 |
+| 分章依据 | 按「部分」标记切分为 2 部分（fallback-chunk），拼接正文 2,607 行。 |
+| 篇幅分布 | 平均每部分 38,736 字。 |
 | 原文溯源 | `cache/epub/17960/pg17960.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 章）
+## 章节目录（前 2 部分）
 
-1. Act II.
-2. Act III.
-3. Act IV.
-4. Act V.
-5. Act VI.
+1. 第 1 部分
+2. 第 2 部分
 
-> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/12c6a396a5b7/)
+> 共 2 部分，[完整目录与正文 →](https://www.bqgmz.top/b/12c6a396a5b7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

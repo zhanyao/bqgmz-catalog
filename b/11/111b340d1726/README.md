@@ -1,7 +1,7 @@
 # The Project Gutenberg RST Manual
 
-**作者** Perathoner, Marcello ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 3 章 · 28,541 字 ｜ **来源** Project Gutenberg
+**作者** Perathoner, Marcello ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 7 篇 · 28,541 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/111b340d1726/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（28,541 字）。 |
-| 分章依据 | 按「章」标记切分为 3 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,513 字。 |
+| 分章依据 | 按「篇」标记切分为 7 篇（通用标记切分），拼接正文 1,354 行。 |
+| 篇幅分布 | 平均每篇 2,645 字。 |
 | 原文溯源 | `cache/epub/181/pg181.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 章）
+## 章节目录（前 7 篇）
 
-1. Section 3.1
-2. Section 3.2 [#]_
-3. Section 3.3
+1. :page-numbers: .. contents:: A TOC With Page Numbers :depth:
+2. :page-numbers: :backlinks: none List of Figures --------------- Use the :directive:`lof` directive to generate a list of figures automatically. .. lof:: A List of Figures :page-numbers: :backlinks: none List of Tables -------------- Use the :directive:`lot` directive to generate a list of tables. .. lot:: A List of Tables :page-numbers: :backlinks: none Toc-Entry --------- Use the :directive:`toc-entry` directive to: - provide an alternate toc entry - suppress a toc entry, or - switch toc gathering on or off. :norender: .. toc-entry:: An Alternative Caption Footnotes --------- Always define footnotes right after the paragraph they are referenced. :class: norules :width: 75% :align: center :widths: 2
+3. :summary: Explains where footnotes end up ====== ======================================== Format Position ====== ======================================== HTML Collected under the footnotes directive. EPUB Idem. TXT Where they are defined. PDF At the bottom of the current page. ====== ======================================== To collect the footnotes use the :directive:`footnotes` directive. This directive will output a section with title and all footnotes in the document will be moved inside the section. :norender: .. footnotes:: Footnotes :class: smaller .. [#] Another footnote, to test how multiple footnotes [#]_ stack on one page. | When the sands are all dry, he is gay as a lark, | And will talk in contemptuous tones of the Shark, | But, when the tide rises and sharks are around, | His voice has a timid and tremulous sound. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt [pg 42] ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores [pg xviii] et ea rebum. See page [pg 42]_. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt [pg!43] ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. See page [pg 43]_. :class: norules :width: 80% :align: center :widths: 2 5
+4. ====== ========================== ========================= Format Letter Image ====== ========================== ========================= HTML enlarged and dropped resized and dropped EPUB enlarged on baseline resized on baseline TXT normal size alt text PDF enlarged and dropped [#a]_ resized and dropped [#a]_ ====== ========================== ========================= .. [#a] *Warning:* If a paragraph with a dropcap gets page-broken the dropcap may stick into the page bottom. Avoid dropcaps unless you are sure that you are at the top of a page, like at a chapter start. .. clearpage:: .. dropcap:: L Lorem ipsum :lines:
+5. :indents: -1.25em 0.5em Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. .. clearpage:: .. dropcap:: G :image: images/G.png :lines:
+6. Gorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Makes the table that wide. A space-separated list of unitless values, each specifying the relative width of one table column. If you don't use the option :option:`widths`, the column widths are calculated from the layout of the table in your source file. Horizontally align the columns. A space-separated list of alignments, each specifying the alignment of one column. Valid alignments values are: left, center, right and justify. Vertically align the columns. A space-separated list of vertical alignments, each specifying the alignment of one column. Valid alignments values are: top, middle, and bottom. Note: vertical alignment is fully supported in HTML only. Other formats may support it in varying degrees. Puts a summary attribute on the table element. Omits the rules between table rows. (Not the rule between header and body nor the rules at the top and bottom of the table.) Use this class when the eye can follow the table rows without the aid of rules. .. table:: Demo Table :width: 100% :align: center :widths: 3 1 1
+7. :aligns: justify justify center right :vertical-aligns: top middle bottom top :summary: This table contains valuable data. +------------------------+-----------+----------+-----------+ | Header row, column 1 | Justified | Centered | Price ($) | | (header rows optional) | | | | +========================+===========+==========+===========+ | row 1 | column | column | 1.23 | +------------------------+-----------+----------+-----------+ | row 2 | col col | col | 45.67 | | | col col | | | | | col col | | | | | col | | | +------------------------+-----------+----------+-----------+ | row 3 | Cells may span columns. | | | Lorem ipsum dolor sit amet, | | | consetetur sadipscing elitr, sed | | | nonumy eirmod tempor invidunt ut | | | labore et dolore magna aliquyam | | | sed diam voluptua. At vero eos | | | accusam et justo duo dolores et | | | rebum. | +------------------------+-----------+----------+-----------+ | Cells may span rows and | Cells | row 4 | | columns. Lorem ipsum dolor sit | may span +-----------+ | amet, consetetur adipiscing. | rows. | row 5 | +------------------------------------+----------+-----------+ .. example:: .. table:: Truth table for “and” :class: norules :align: center :width: 50% ===== ===== ========= A B A and B ===== ===== ========= False False False True False False False True False True True True ===== ===== ========= PG Metadata =========== Top Boilerplate --------------- This section explains the PG boilerplate that you must put at the top of your PG-RST file. :norender: .. -*- encoding: utf-8 -*- (1) .. meta:: (2) :PG.Id:
 
-> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/111b340d1726/)
+> 共 7 篇，[完整目录与正文 →](https://www.bqgmz.top/b/111b340d1726/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

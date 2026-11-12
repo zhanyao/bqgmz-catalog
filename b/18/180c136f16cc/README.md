@@ -1,7 +1,7 @@
 # Me
 
-**作者** Finne, Jalmari, 1874-1938 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 16 题 · 68,163 字 ｜ **来源** Project Gutenberg
+**作者** Finne, Jalmari, 1874-1938 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 10 章 · 68,163 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/180c136f16cc/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（68,163 字）。 |
-| 分章依据 | 按「题」标记切分为 16 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,260 字。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-toc-title-list），拼接正文 1,533 行。 |
+| 篇幅分布 | 平均每章 6,783 字；最长 Näyttelijät.（12,503 字），最短 Elätit.（3,319 字）。 |
 | 原文溯源 | `cache/epub/62556/pg62556.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. ME
-2. Jalmari Finne
-3. MOTTO:
-4. SISÄLLYS:
-5. LUKIJAT.
-6. ARVOSTELIJAT.
-7. 2:o kehittääkseen omaa persoonallisuuttaan, tai
-8. SIVISTYNEET.
-9. SIVEELLISET.
-10. NÄYTTELIJÄT.
+1. Lukijat.
+2. Arvostelijat.
+3. Sivistyneet.
+4. Siveelliset.
+5. Näyttelijät.
+6. Taiteilijat.
+7. Sanomalehtimiehet.
+8. Ylioppilaat.
+9. Pyhimykset ja marttyyrit.
+10. Elätit.
 
-> 共 16 题，[完整目录与正文 →](https://www.bqgmz.top/b/180c136f16cc/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/180c136f16cc/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

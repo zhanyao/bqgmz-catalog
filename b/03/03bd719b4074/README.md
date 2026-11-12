@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（73,810 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,226 字；最长 BOOK I. THE VISION OF THE KING（12,596 字），最短 BOOK II. THE GATHERING OF THE CHIEFS（7,360 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 3,360 行。 |
+| 篇幅分布 | 平均每章 8,557 字；最长 BOOK III. THE HARP OF ALFRED（10,083 字），最短 BOOK I. THE VISION OF THE KING（7,247 字）。 |
 | 原文溯源 | `cache/epub/1719/pg1719.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
@@ -29,4 +29,4 @@
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/03bd719b4074/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

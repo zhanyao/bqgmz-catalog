@@ -1,7 +1,7 @@
 # The elements of character
 
-**作者** Ware, Mary G. (Mary Greene), 1818-1907 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 15 题 · 255,437 字 ｜ **来源** Project Gutenberg
+**作者** Ware, Mary G. (Mary Greene), 1818-1907 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 255,437 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/11d843c53c68/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（255,437 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 17,029 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-toc-title-list），拼接正文 5,031 行。 |
+| 篇幅分布 | 平均每章 32,925 字；最长 LIFE.（72,874 字），最短 MANNERS.（15,514 字）。 |
 | 原文溯源 | `cache/epub/8450/pg8450.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 章）
 
-1. THE
-2. ELEMENTS OF CHARACTER.
-3. BY
-4. MARY G. CHANDLER.
-5. THE REV. E.H. SEARS, MY FORMER PASTOR,
-6. CONTENTS.
-7. THE HUMAN TRINITY.
-8. THOUGHT.
-9. IMAGINATION.
-10. AFFECTION.
+1. THE HUMAN TRINITY.
+2. THOUGHT.
+3. IMAGINATION.
+4. AFFECTION.
+5. LIFE.
+6. MANNERS.
+7. COMPANIONSHIP.
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/11d843c53c68/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/11d843c53c68/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Ship's Company, the Entire Collection
 
-**作者** Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 15 题 · 201,800 字 ｜ **来源** Project Gutenberg
+**作者** Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 201,800 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0d4aa2fb6eff/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（201,800 字）。 |
-| 分章依据 | 按「题」标记切分为 15 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,453 字。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 5,907 行。 |
+| 篇幅分布 | 平均每章 18,322 字；最长 The Old Man of The Sea（33,517 字），最短 Skilled Assistance（15,524 字）。 |
 | 原文溯源 | `cache/epub/10573/pg10573.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SHIP'S COMPANY
-2. By W.W. Jacobs
-3. CONTENTS:
-4. FINE FEATHERS
-5. FRIENDS IN NEED
-6. GOOD INTENTIONS
-7. FAIRY GOLD
-8. WATCH-DOGS
-9. THE BEQUEST
-10. THE GUARDIAN ANGEL
+1. Fine Feathers
+2. Friends in Need
+3. Good Intentions
+4. Fairy Gold
+5. Watch-Dogs
+6. The Bequest
+7. The Guardian Angel
+8. Dual Control
+9. Skilled Assistance
+10. For Better or Worse
 
-> 共 15 题，[完整目录与正文 →](https://www.bqgmz.top/b/0d4aa2fb6eff/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/0d4aa2fb6eff/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（421,562 字）。 |
-| 分章依据 | 按「章」标记切分为 23 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,328 字；最长 CHAPTER XX: THE WHITE TROOPS（31,479 字），最短 CHAPTER XII: A NEGRO'S STORY（16,111 字）。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-chapter），拼接正文 9,318 行。 |
+| 篇幅分布 | 平均每章 18,326 字；最长 CHAPTER XX: THE WHITE TROOPS（31,479 字），最短 CHAPTER XII: A NEGRO'S STORY（16,111 字）。 |
 | 起止 | 始于「CHAPTER I: A FISHING EXCURSION」，止于「CHAPTER XXIII: THE CAPTURE OF COOMASSIE」。 |
 | 原文溯源 | `cache/epub/8576/pg8576.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/04a887f82815/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

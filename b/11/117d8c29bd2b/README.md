@@ -1,7 +1,7 @@
 # A New Story Book for Children
 
-**作者** Fern, Fanny, 1811-1872 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 13 段 · 265,616 字 ｜ **来源** Project Gutenberg
+**作者** Fern, Fanny, 1811-1872 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 36 章 · 265,616 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/117d8c29bd2b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（265,616 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,432 字；最长 “When grandpa was little, like you, he didn’t live in a city（39,975 字），最短 Some of you live in and about New York, some at a great dist（6,037 字）。 |
+| 分章依据 | 按「章」标记切分为 36 章（auto-toc-title-list），拼接正文 5,429 行。 |
+| 篇幅分布 | 平均每章 7,341 字；最长 JOHN BROWN,（22,187 字），最短 TO MY LITTLE FRIENDS,（951 字）。 |
 | 原文溯源 | `cache/epub/66655/pg66655.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. “When grandpa was little, like you, he didn’t live in a city
-2. Well, John had two Virginia militia companies come out of cu
-3. Many a time, I dare say, you have sat on your bench at schoo
-4. Well, then, Charlotte Brontë, at the time she went to this s
-5. It is very strange, but Josephine could talk much more freel
-6. Let me tell you another story, of a child who was born of a
-7. It is a dreadful thing when a child is unable to respect and
-8. Well, of course, he was overjoyed to get Adrian back, caress
-9. A weakly child sent to his grandfather’s, for change of air!
-10. Yes, “_his_ Mary!” Death hides all faults. We only remember
+1. A STORY ABOUT MYSELF,
+2. GRANDPAPA’S BALD HEAD,
+3. JOHN BROWN,
+4. THE PLOUGHBOY POET,
+5. OLD HICKORY,
+6. THE DEAF AND DUMB FRENCH BOY,
+7. THE THREE GIFTED SISTERS,
+8. THE KIND WORD,
+9. THE CORSICAN AND THE CREOLE,
+10. TWO QUARRELSOME OLD MEN,
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/117d8c29bd2b/)
+> 共 36 章，[完整目录与正文 →](https://www.bqgmz.top/b/117d8c29bd2b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

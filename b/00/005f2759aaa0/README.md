@@ -1,7 +1,7 @@
 # Curialia Miscellanea, or Anecdotes of Old Times Regal, Noble, Gentilitial, and Miscellaneous: Including Authentic Anecdotes of the Royal Household, and the Manners and Customs of the Court, at an Early Period of the English History
 
 **作者** Pegge, Samuel, 1704-1796; Nichols, John, 1745-1826 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 7 章 · 392,860 字 ｜ **来源** Project Gutenberg
+**规模** 32 章 · 392,860 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/005f2759aaa0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（392,860 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 56,122 字。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-toc-title-list），拼接正文 10,390 行。 |
+| 篇幅分布 | 平均每章 10,110 字。 |
 | 原文溯源 | `cache/epub/44335/pg44335.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 章）
+## 章节目录（前 10 章）
 
-1. Part I. consisted of "Two Dissertations, addressed to the
-2. Part II. contains "A Memoir regarding the King's Honourable Band
-3. Part III. is "A Memoir respecting the King's Body-Guard of
-4. Part IV. "A History of Somerset House[56], from the Commencement
-5. Part V. "A Dissertation[57] on the ancie
-6. HIS SACRED MAJESTY THE KING OF GREAT BRI
-7. descended of the Ramsays of Wylicleuch i
+1. Appendix to the Parentalia:
+2. HOSPITIUM DOMINI REGIS:
+3. William I.
+4. William Rufus
+5. Henry I.
+6. Stephen
+7. Henry II. (Plantagenet)
+8. Richard I.
+9. Henry IV.
+10. Edward IV.
 
-> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/005f2759aaa0/)
+> 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/005f2759aaa0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

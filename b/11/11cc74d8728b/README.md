@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（656,634 字）。 |
-| 分章依据 | 按「章」标记切分为 59 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,129 字；最长 CHAPTER XX.  THOSE TWO TOGETHER HOLD THE RING OF THE EARTH-GOD.（25,123 字），最短 CHAPTER LII.  OF THE NEW BEGINNING OF GOOD DAYS IN SILVER-DALE.（2,090 字）。 |
-| 起止 | 始于「CHAPTER I.  OF BURGSTEAD AND ITS FOLK AND ITS NEIGHBOURS.」，止于「CHAPTER LIX.  THE BEHEST OF FACE-OF-GOD TO THE BRIDE ACCOMPLISHED: A」。 |
+| 分章依据 | 按「章」标记切分为 59 章（auto-chapter），拼接正文 15,357 行。 |
+| 篇幅分布 | 平均每章 11,062 字；最长 CHAPTER XX. THOSE TWO TOGETHER HOLD THE RING OF THE EARTH-GOD.（25,123 字），最短 CHAPTER LII. OF THE NEW BEGINNING OF GOOD DAYS IN SILVER-DALE.（2,090 字）。 |
+| 起止 | 始于「CHAPTER I. OF BURGSTEAD AND ITS FOLK AND ITS NEIGHBOURS.」，止于「CHAPTER LIX. THE BEHEST OF FACE-OF-GOD TO THE BRIDE ACCOMPLISHED: A」。 |
 | 原文溯源 | `cache/epub/6050/pg6050.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -32,4 +32,4 @@
 > 共 59 章，[完整目录与正文 →](https://www.bqgmz.top/b/11cc74d8728b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

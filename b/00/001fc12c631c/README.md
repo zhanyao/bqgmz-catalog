@@ -1,7 +1,7 @@
 # A King of Tyre: A Tale of the Times of Ezra and Nehemiah
 
 **作者** Ludlow, James M. (James Meeker), 1841-1932 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 38 章 · 317,147 字 ｜ **来源** Project Gutenberg
+**规模** 39 章 · 317,147 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/001fc12c631c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（317,147 字）。 |
-| 分章依据 | 按「章」标记切分为 38 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,345 字；最长 CHAPTER XXXVIII.（15,947 字），最短 CHAPTER VII.（3,583 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXVIII.」。 |
+| 分章依据 | 按「章」标记切分为 39 章（auto-chapter），拼接正文 7,677 行。 |
+| 篇幅分布 | 平均每章 8,126 字；最长 CHAPTER V.（14,768 字），最短 CHAPTER VII.（3,583 字）。 |
 | 原文溯源 | `cache/epub/44290/pg44290.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 38 章，[完整目录与正文 →](https://www.bqgmz.top/b/001fc12c631c/)
+> 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/001fc12c631c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

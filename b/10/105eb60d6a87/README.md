@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,265,465 字）。 |
-| 分章依据 | 按「章」标记切分为 68 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 18,609 字；最长 CHAPTER LXII.--“POINTS A MORAL,” AND SO IT IS TO BE HOPED “ADORNS A（41,223 字），最短 CHAPTER IV.--LEWIS ENLISTS UNDER A “CONQUERING HERO,” AND STARTS ON A（6,925 字）。 |
+| 分章依据 | 按「章」标记切分为 68 章（auto-chapter），拼接正文 27,459 行。 |
+| 篇幅分布 | 平均每章 18,605 字；最长 CHAPTER LXII.--“POINTS A MORAL,” AND SO IT IS TO BE HOPED “ADORNS A（41,223 字），最短 CHAPTER IV.--LEWIS ENLISTS UNDER A “CONQUERING HERO,” AND STARTS ON A（6,925 字）。 |
 | 起止 | 始于「CHAPTER I.--IN WHICH THE TRAIN STARTS, AND THE READER IS INTRODUCED TO」，止于「CHAPTER LXVIII.--LEWIS OUT-GENERALS THE GENERAL, AND THE TRAIN STOPS.」。 |
 | 原文溯源 | `cache/epub/56600/pg56600.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 68 章，[完整目录与正文 →](https://www.bqgmz.top/b/105eb60d6a87/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

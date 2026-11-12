@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（256,474 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,258 字；最长 CHAPTER XXI: A RUNNING-FOOL HORSE（17,691 字），最短 CHAPTER II: SHEEP-FLOOD（5,074 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 7,920 行。 |
+| 篇幅分布 | 平均每章 10,221 字；最长 CHAPTER XXI: A RUNNING-FOOL HORSE（17,691 字），最短 CHAPTER II: SHEEP-FLOOD（5,074 字）。 |
 | 起止 | 始于「CHAPTER I: TAKE-A-CHANCE KENDALL」，止于「CHAPTER XXV: CLEAN SLATE」。 |
 | 原文溯源 | `cache/epub/70488/pg70488.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/053079dee6e7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

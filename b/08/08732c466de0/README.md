@@ -1,7 +1,7 @@
 # Woodwork joints
 
-**作者** Fairham, William ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 173,826 字 ｜ **来源** Project Gutenberg
+**作者** Fairham, William ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 173,826 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/08732c466de0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（173,826 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,728 字；最长 At Fig. 57 are shown two cross rails and an upright halved t（39,998 字），最短 DIAGONAL CHINESE CROSS.--At Fig. 395 is given a sketch of a （14,021 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-toc-title-list），拼接正文 5,048 行。 |
+| 篇幅分布 | 平均每章 10,106 字；最长 THE MORTISE AND TENON JOINT（22,286 字），最短 DOVETAIL GROOVING（2,021 字）。 |
 | 原文溯源 | `cache/epub/21531/pg21531.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. At Fig. 57 are shown two cross rails and an upright halved t
-2. [Illustration: Fig. 103.--(A) Cross Tongue. (B) Feather Tong
-3. FOX WEDGED TENON (Fig. 158).--This is the method of securing
-4. Fig. 210 indicates the Queen Anne type of leg, a sketch of s
-5. This chapter deals with the joint made by the upright rail o
-6. Take a cutting gauge and set it to equal the thickness of th
-7. COT JOINT.--At Fig. 348 is shown an interesting joint used l
-8. DIAGONAL CHINESE CROSS.--At Fig. 395 is given a sketch of a
+1. THE GLUED JOINT
+2. THE HALVED JOINT
+3. THE BRIDLE JOINT
+4. THE TONGUED AND GROOVED JOINT
+5. THE MORTISE AND TENON JOINT
+6. THE DOWELLING JOINT
+7. THE SCARF JOINT
+8. THE HINGED JOINT
+9. SHUTTING JOINTS
+10. THE DOVETAIL JOINT
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/08732c466de0/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/08732c466de0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

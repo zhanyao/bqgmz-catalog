@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（106,702 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,207 字；最长 CHAPTER 12. “You Can Tell Jessie.”（11,889 字），最短 CHAPTER 13. Rowdy Finds Happiness.（3,001 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 2,713 行。 |
+| 篇幅分布 | 平均每章 8,182 字；最长 CHAPTER 12. “You Can Tell Jessie.”（11,889 字），最短 CHAPTER 13. Rowdy Finds Happiness.（3,001 字）。 |
 | 起止 | 始于「CHAPTER 1. Lost in a Blizzard.」，止于「CHAPTER 13. Rowdy Finds Happiness.」。 |
 | 原文溯源 | `cache/epub/1907/pg1907.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/0fb1d09ef9bf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

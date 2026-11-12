@@ -1,7 +1,7 @@
 # The Hero of Esthonia and Other Studies in the Romantic Literature of That Country
 
 **作者** Kirby, W. F. (William Forsell), 1844-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 25 章 · 635,847 字 ｜ **来源** Project Gutenberg
+**规模** 13 章 · 635,847 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/171e23dc395c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（635,847 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 25,433 字；最长 "Won't that do?" asked he after a while.（102,618 字），最短 CANTO IX（2,219 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-part），拼接正文 17,809 行。 |
+| 篇幅分布 | 平均每章 48,911 字；最长 PART I（5）（57,469 字），最短 PART III（8,898 字）。 |
 | 原文溯源 | `cache/epub/19438/pg19438.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CANTO I
-2. CANTO II
-3. CANTO III
-4. CANTO IV
-5. CANTO V
-6. CANTO VI
-7. CANTO VII
-8. CANTO VIII
-9. CANTO IX
-10. CANTO X
+1. PART I（1）
+2. PART I（2）
+3. PART I（3）
+4. PART I（4）
+5. PART I（5）
+6. PART I（6）
+7. PART II（1）
+8. PART II（2）
+9. PART II（3）
+10. PART II（4）
 
-> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/171e23dc395c/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/171e23dc395c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

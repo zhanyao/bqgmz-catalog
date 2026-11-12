@@ -1,7 +1,7 @@
 # The Theater (1720)
 
-**作者** Falstaffe, John, Sir ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 3 段 · 76,799 字 ｜ **来源** Project Gutenberg
+**作者** Falstaffe, John, Sir ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 3 篇 · 76,799 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/183592e4a9da/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,17 +11,17 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（76,799 字）。 |
-| 分章依据 | 按「段」标记切分为 3 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 25,599 字。 |
+| 分章依据 | 按「篇」标记切分为 3 篇（auto-title-block），拼接正文 1,820 行。 |
+| 篇幅分布 | 平均每篇 19,110 字。 |
 | 原文溯源 | `cache/epub/15999/pg15999.txt`（Project Gutenberg） |
 
-## 章节目录（前 3 段）
+## 章节目录（前 3 篇）
 
-1. "As you are both a Knight and a Gentleman (which now-a-days
-2. There is a small _Island_ on the Coast of _Denmark_, in whic
-3. Indeed, but that I am afraid of being suspected of too much
+1. Thumb, Sir._
+2. PUBLICATIONS FOR THE SECOND YEAR (1947-1948)
+3. ANN ARBOR, MICHIGAN
 
-> 共 3 段，[完整目录与正文 →](https://www.bqgmz.top/b/183592e4a9da/)
+> 共 3 篇，[完整目录与正文 →](https://www.bqgmz.top/b/183592e4a9da/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

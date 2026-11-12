@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（146,728 字）。 |
-| 分章依据 | 按「章」标记切分为 15 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 9,781 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 3,717 行。 |
+| 篇幅分布 | 平均每章 9,716 字；最长 PART III.--SEXUAL OFFENDERS.（37,021 字），最短 PART I.--INTRODUCTORY AND HISTORICAL. PAGE（554 字）。 |
 | 原文溯源 | `cache/epub/18932/pg18932.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Section 1.--=A Menace to Modern Civilization=: Feeble-minded,
-2. Section 2.--=Heredity= _v._ =Environment=: Genetics and
-3. Section 3.--=Illustrative Cases of Hereditary Degeneracy=: Juke
-4. Section 4.--=Elements of the Problem=: Basic Phases,
-5. Section 5.--=Estimates as to Numbers of Mental Defectives=:
-6. Section 6.--=Study of Feeble-minded and Delinquent Children=:
-7. Section 7.--=Method of dealing with Mental Defectives in New
-8. Section 8.--=Children's Courts=: Committee's Recommendations;
-9. Section 9.--=Policy for the Future=: Notification; English
-10. Section 10.--=The Question of Sterilization=: Operations,
+1. PART I.--INTRODUCTORY AND HISTORICAL. PAGE
+2. PART II.--PROBLEM OF THE FEEBLE-MINDED.
+3. PART III.--SEXUAL OFFENDERS.
+4. SECTION 4.--ELEMENTS OF THE PROBLEM.
+5. SECTION 5.--ESTIMATES AS TO NUMBERS OF MENTAL DEFECTIVES.
+6. SECTION 6.--STUDY OF FEEBLE-MINDED AND DELINQUENT CHILDREN.
+7. SECTION 7.--METHOD OF DEALING WITH MENTAL DEFECTIVES IN NEW
+8. SECTION 8.--CHILDREN'S COURTS.
+9. SECTION 9.--POLICY FOR THE FUTURE.
+10. SECTION 10.--THE QUESTION OF STERILIZATION.
 
 > 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/07e0a87017fb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

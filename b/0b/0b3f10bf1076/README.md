@@ -1,7 +1,7 @@
 # Gleanings in Europe（#74936）
 
-**作者** Cooper, James Fenimore, 1789-1851 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 15 段 · 301,998 字 ｜ **来源** Project Gutenberg
+**作者** Cooper, James Fenimore, 1789-1851 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 301,998 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0b3f10bf1076/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（301,998 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,133 字；最长 We looked at this view of England with very conflicting sens（39,954 字），最短 Pg iii: ‘such an an effort’ replaced by ‘such an effort’.（1,822 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-toc-title-list），拼接正文 6,282 行。 |
+| 篇幅分布 | 平均每章 22,242 字；最长 LETTER XI. TO JAMES E. DE KAY, ESQ.（29,110 字），最短 LETTER II. TO CAPT. W. B. SHUBRICK, U. S. NAVY.（13,328 字）。 |
 | 原文溯源 | `cache/epub/74936/pg74936.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. We looked at this view of England with very conflicting sens
-2. As usual, I came to London without a letter. It may be an er
-3. There are many old monuments in Westminster, which, without
-4. In England, it is very true there exists legal distinctions,
-5. One of my first essays of life, in a great house, beyond a m
-6. I exonerate the English for a portion of their want of manne
-7. It is a received notion that fewer old people, in proportion
-8. There is much verdure, many beautiful flowers, and a fine fo
-9. One seldom repeats the terms “your Majesty,” and “Royal High
-10. I am far from undervaluing the importance of a sound and vig
+1. LETTER I. TO CAPT. W. BRANFORD SHUBRICK, U. S. N.
+2. LETTER II. TO CAPT. W. B. SHUBRICK, U. S. NAVY.
+3. LETTER III. TO RICHARD COOPER, ESQ. COOPERSTOWN, N. Y.
+4. LETTER IV. TO THOMAS JAMES DE LANCEY, ESQUIRE.
+5. LETTER V. TO RICHARD COOPER, ESQ. COOPERSTOWN.
+6. LETTER VI. TO MRS. J——, NEW YORK.
+7. LETTER VII. TO THOMAS FLOYD-JONES, ESQ. FORT NECK.
+8. LETTER VIII. TO EDWARD FLOYD DELANCEY, ESQ.
+9. LETTER IX. TO JAMES STEVENSON, ESQ.
+10. LETTER X. TO WILLIAM JAY, ESQ., BEDFORD, N. Y.
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/0b3f10bf1076/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/0b3f10bf1076/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

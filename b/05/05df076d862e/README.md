@@ -1,7 +1,7 @@
 # Arizona ghost trails
 
-**作者** Hinton, Richard J. (Richard Josiah), 1830-1901 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 32 题 · 144,619 字 ｜ **来源** Project Gutenberg
+**作者** Hinton, Richard J. (Richard Josiah), 1830-1901 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 9 章 · 144,619 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/05df076d862e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（144,619 字）。 |
-| 分章依据 | 按「题」标记切分为 32 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,519 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-caps-sections），拼接正文 4,542 行。 |
+| 篇幅分布 | 平均每章 16,068 字；最长 BEST MILITARY AND OTHER AUTHORITIES.（55,591 字），最短 \|                            PENNYWEIGHTS.（509 字）。 |
 | 原文溯源 | `cache/epub/69526/pg69526.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 章）
 
-1. ARIZONA GHOST TRAILS
-2. Richard J. Hinton
-3. Frontier Book Co., Publisher
-4. Fort Davis, Texas 79734
-5. From
-6. The Handbook To Arizona
-7. Limited to 1000 copies
-8. The Act of 1872
-9. Quartz Mines
-10. Possession and Enjoyment
+1. TERRITORY OF ARIZONA, } ss.
+2. | OUNCES.
+3. | PENNYWEIGHTS.
+4. | GRAINS.
+5. NAME. | COMPOSITION.
+6. BEST MILITARY AND OTHER AUTHORITIES.
+7. | A || A | B || A | B || A | B ||
+8. G. & S. | 4,000,000| 40,000| ” | ” | ”
+9. Bibliography of Arizona.
 
-> 共 32 题，[完整目录与正文 →](https://www.bqgmz.top/b/05df076d862e/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/05df076d862e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

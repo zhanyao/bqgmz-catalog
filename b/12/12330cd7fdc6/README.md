@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（479,490 字）。 |
-| 分章依据 | 按「章」标记切分为 45 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,655 字；最长 CHAPTER XLI--PRESIDENT ANDREW JOHNSON.（23,322 字），最短 CHAPTER VIII--THE UNION AND SLAVERY BOTH TO BE PRESERVED.（4,111 字）。 |
+| 分章依据 | 按「章」标记切分为 45 章（auto-chapter），拼接正文 11,777 行。 |
+| 篇幅分布 | 平均每章 10,622 字；最长 CHAPTER XLI--PRESIDENT ANDREW JOHNSON.（23,322 字），最短 CHAPTER VIII--THE UNION AND SLAVERY BOTH TO BE PRESERVED.（4,111 字）。 |
 | 起止 | 始于「CHAPTER I--BLACKS IN THE REVOLUTIONARY WAR AND IN 1812.」，止于「CHAPTER XLV--SIXTH REGIMENT UNITED-STATES VOLUNTEERS.」。 |
 | 原文溯源 | `cache/epub/50130/pg50130.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 45 章，[完整目录与正文 →](https://www.bqgmz.top/b/12330cd7fdc6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

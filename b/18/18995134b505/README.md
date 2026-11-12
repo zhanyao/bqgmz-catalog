@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（441,780 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 55,222 字；最长 CHAPTER VII（83,566 字），最短 CHAPTER VI（25,046 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 9,662 行。 |
+| 篇幅分布 | 平均每章 54,519 字；最长 APPENDIX I（114,984 字），最短 CHAPTER VI（25,046 字）。 |
 | 原文溯源 | `cache/epub/79561/pg79561.txt`（Project Gutenberg） |
 
 ## 章节目录（前 8 章）
@@ -24,9 +24,9 @@
 5. CHAPTER V
 6. CHAPTER VI
 7. CHAPTER VII
-8. As the possession of property, of which
+8. APPENDIX I
 
 > 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/18995134b505/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Eighteenth Century Vignettes
 
-**作者** Dobson, Austin, 1840-1921 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 31 题 · 288,043 字 ｜ **来源** Project Gutenberg
+**作者** Dobson, Austin, 1840-1921 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 288,043 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/00428ededcd2/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（288,043 字）。 |
-| 分章依据 | 按「题」标记切分为 31 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,291 字。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-roman-title），拼接正文 5,803 行。 |
+| 篇幅分布 | 平均每章 13,035 字；最长 XXI. AT LEICESTER FIELDS.（32,878 字），最短 NOTES:（2,399 字）。 |
 | 原文溯源 | `cache/epub/47996/pg47996.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. EIGHTEENTH CENTURY VIGNETTES
-2. By Austin Dobson
-3. TO
-4. MY WIFE
-5. PREFACE TO THE FIRST EDITION OF 1892.
-6. I. EIGHTEENTH CENTURY VIGNETTES.
-7. II. PRIOR'S 'KITTY.'
-8. III. SPENCE'S 'ANECDOTES.'
-9. IV. CAPTAIN CORAM'S CHARITY.
-10. V. 'THE FEMALE QUIXOTE.'
+1. I. EIGHTEENTH CENTURY VIGNETTES.
+2. II. PRIOR'S 'KITTY.'
+3. III. SPENCE'S 'ANECDOTES.'
+4. IV. CAPTAIN CORAM'S CHARITY.
+5. V. 'THE FEMALE QUIXOTE.'
+6. VI. FIELDING'S 'VOYAGE TO LISBON.'
+7. VII. HANWAY'S TRAVELS.
+8. VIII. A GARRET IN GOUGH SQUARE.
+9. IX. HOGARTH'S SIGISMUNDA.
+10. X. 'THE CITIZEN OF THE WORLD.'
 
-> 共 31 题，[完整目录与正文 →](https://www.bqgmz.top/b/00428ededcd2/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/00428ededcd2/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Lord Lister No. 0312: In de klauwen van een woekeraar
 
-**作者** Matull, Kurt, 1872-1920; Blankensee, Theo von, 1881-1928; Hageman, Felix (Leonard Felix), 1877-1966 ｜ **国家/地区** 荷兰 ｜ **体例** 段  
-**规模** 4 段 · 92,786 字 ｜ **来源** Project Gutenberg
+**作者** Matull, Kurt, 1872-1920; Blankensee, Theo von, 1881-1928; Hageman, Felix (Leonard Felix), 1877-1966 ｜ **国家/地区** 荷兰 ｜ **体例** 章  
+**规模** 8 章 · 92,786 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0034c75b87de/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（92,786 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,196 字。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 2,966 行。 |
+| 篇幅分布 | 平均每章 11,585 字；最长 HOOFDSTUK III.（15,795 字），最短 HOOFDSTUK II.（7,964 字）。 |
 | 原文溯源 | `cache/epub/74540/pg74540.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 8 章）
 
-1. Een roodgloeiend gestookte potkachel verspreidde een benauwd
-2. —Ik stond reeds bijna anderhalf uur schuin tegenover het hui
-3. —Dat is wel een gelukwensch waard, beste Robert, riep hij ui
-4. Hij bleek zelfs niet teruggekeerd te zijn naar het kleine ka
+1. HOOFDSTUK I.
+2. HOOFDSTUK II.
+3. HOOFDSTUK III.
+4. HOOFDSTUK IV.
+5. HOOFDSTUK V.
+6. HOOFDSTUK VI.
+7. HOOFDSTUK VII.
+8. HOOFDSTUK VIII.
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/0034c75b87de/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/0034c75b87de/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

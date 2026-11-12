@@ -1,7 +1,7 @@
 # Nancy Pembroke in Nova Scotia
 
-**作者** Van Epps, Margaret T. ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 7 题 · 199,828 字 ｜ **来源** Project Gutenberg
+**作者** Van Epps, Margaret T. ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 16 篇 · 199,828 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/05775b6476ed/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（199,828 字）。 |
-| 分章依据 | 按「题」标记切分为 7 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 28,546 字。 |
+| 分章依据 | 按「篇」标记切分为 16 篇（通用标记切分），拼接正文 6,079 行。 |
+| 篇幅分布 | 平均每篇 12,450 字；最长 *IN THE MAIL*（21,216 字），最短 *BON VOYAGE*（5,864 字）。 |
 | 原文溯源 | `cache/epub/48087/pg48087.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 题）
+## 章节目录（前 10 篇）
 
-1. By
-2. MARGARET T. VAN EPPS
-3. Author of
-4. Printed in the United States of America
-5. This was done; and the nest day a wire a
-6. “One of my letters yesterday,” began Mis
-7. THE END
+1. *A RÉSUMÉ*
+2. *A BEGINNING*
+3. *BON VOYAGE*
+4. AUGUST TENTH
+5. *ON THE HIGH SEAS*
+6. *HALIFAX*
+7. *THE LAND OF EVANGELINE*
+8. *EN ROUTE TO DIGBY*
+9. *IN THE MAIL*
+10. *RAMBLES ABOUT YARMOUTH*
 
-> 共 7 题，[完整目录与正文 →](https://www.bqgmz.top/b/05775b6476ed/)
+> 共 16 篇，[完整目录与正文 →](https://www.bqgmz.top/b/05775b6476ed/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Speeches, Addresses, and Occasional Sermons, Volume 3 (of 3)
 
-**作者** Parker, Theodore, 1810-1860 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 23 段 · 479,208 字 ｜ **来源** Project Gutenberg
+**作者** Parker, Theodore, 1810-1860 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 479,208 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/09f919627d56/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（479,208 字）。 |
-| 分章依据 | 按「段」标记切分为 23 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,835 字；最长 But Mr. Webster would not "reaffirm an ordinance of nature,"（39,895 字），最短 2. It has almost all the distinguished politicians of the No（18,460 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-roman-bare），拼接正文 9,812 行。 |
+| 篇幅分布 | 平均每章 59,728 字；最长 VIII.（75,385 字），最短 I.（43,584 字）。 |
+| 起止 | 始于「I.」，止于「VIII.」。 |
 | 原文溯源 | `cache/epub/34688/pg34688.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 章）
 
-1. But Mr. Webster would not "reaffirm an ordinance of nature,"
-2. I would speak with all possible tenderness of any man, of ev
-3. Here let me introduce the testimony of Mr. Choate. This whic
-4. There is a "short and easy method" with Professor Stuart, an
-5. Mr. President: I began by congratulating you on the favorabl
-6. Zachary, the third son, followed the business of farming unt
-7. Since this is so, I shall pass over his brief administration
-8. We learn the laws of matter slowly, by observation, experime
-9. In the same manner the natural duty of a man overrides all t
-10. "No earthly power has a right to interpose between a man's c
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
 
-> 共 23 段，[完整目录与正文 →](https://www.bqgmz.top/b/09f919627d56/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/09f919627d56/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

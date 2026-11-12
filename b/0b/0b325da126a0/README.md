@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（499,143 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,598 字；最长 Chapter 31: The Cockpit.（27,167 字），最短 Chapter 5: I Lose My Best Friend.（8,763 字）。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-toc-title-list），拼接正文 12,457 行。 |
+| 篇幅分布 | 平均每章 15,568 字；最长 Chapter 31: The Cockpit.（27,167 字），最短 Chapter 5: I Lose My Best Friend.（8,763 字）。 |
 | 起止 | 始于「Chapter 1: The Wyle Cop.」，止于「Chapter 32: I Become Bold.」。 |
 | 原文溯源 | `cache/epub/16049/pg16049.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/0b325da126a0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

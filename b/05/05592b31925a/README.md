@@ -1,7 +1,7 @@
 # Mary Queen of Scots, 1542-1587
 
 **作者** Rait, Robert S. (Robert Sangster), 1874-1936 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 8 章 · 338,240 字 ｜ **来源** Project Gutenberg
+**规模** 9 章 · 338,240 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/05592b31925a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,11 +11,11 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（338,240 字）。 |
-| 分章依据 | 按「章」标记切分为 8 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 42,280 字；最长 SECTION VII（82,585 字），最短 SECTION V（21,671 字）。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 8,480 行。 |
+| 篇幅分布 | 平均每章 36,955 字；最长 SECTION VII（82,585 字），最短 Bibliography of Works relating to Mary Queen of Scots, 1544-1700,"（4,102 字）。 |
 | 原文溯源 | `cache/epub/38048/pg38048.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 章）
+## 章节目录（前 9 章）
 
 1. SECTION I
 2. SECTION II
@@ -25,8 +25,9 @@
 6. SECTION VI
 7. SECTION VII
 8. SECTION VIII
+9. Bibliography of Works relating to Mary Queen of Scots, 1544-1700,"
 
-> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/05592b31925a/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/05592b31925a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

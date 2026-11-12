@@ -1,7 +1,7 @@
 # The Communistic Societies of the United States From Personal Visit and Observation
 
-**作者** Nordhoff, Charles, 1830-1901 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 31 段 · 634,087 字 ｜ **来源** Project Gutenberg
+**作者** Nordhoff, Charles, 1830-1901 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 28 章 · 634,087 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/14fc9cdf0b09/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（634,087 字）。 |
-| 分章依据 | 按「段」标记切分为 31 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,454 字；最长 To make my observations I was obliged to travel from Maine i（39,541 字），最短 97. Die Wahre Separation, oder die Wiedergeburt, dargestellt（13,424 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-caps-sections），拼接正文 14,869 行。 |
+| 篇幅分布 | 平均每章 22,645 字；最长 SHAKER LITERATURE, SPIRITUALISM, ETC.（65,154 字），最短 THE SOCIAL FREEDOM COMMUNITY.（1,047 字）。 |
 | 原文溯源 | `cache/epub/8116/pg8116.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. To make my observations I was obliged to travel from Maine i
-2. The women and young girls wear dingy colored stuffs, mostly
-3. The "inspired" words are not always addressed to the general
-4. Economy has, in truth, one of the loveliest situations on th
-5. "Father Rapp" appears to have guided his people wisely. He c
-6. Father Rapp taught that every one ought to labor with his ha
-7. The "Principles of the Separatists," which are printed in th
-8. "By the immediate revelation of Christ, she henceforth bore
-9. In the practical application of this system of religious fai
-10. "We further covenant and agree that it is and shall be the s
+1. II.--HISTORICAL.
+2. IV.--RELIGION AND LITERATURE.
+3. II.--HISTORICAL.
+4. "ARTICLES OF ASSOCIATION.
+5. I.--HISTORY.
+6. II.--"MOTHER ANN."
+7. III.--THE ORDER OF LIFE AMONG THE SHAKERS.
+8. IV.--A VISIT TO MOUNT LEBANON.
+9. OBITUARY.（1）
+10. OBITUARY.（2）
 
-> 共 31 段，[完整目录与正文 →](https://www.bqgmz.top/b/14fc9cdf0b09/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/14fc9cdf0b09/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

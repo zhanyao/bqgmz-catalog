@@ -1,7 +1,7 @@
 # The Diplomatic Correspondence of the American Revolution, Vol. 06
 
-**作者** Sparks, Jared, 1789-1866 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 36 段 · 736,561 字 ｜ **来源** Project Gutenberg
+**作者** Sparks, Jared, 1789-1866 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 736,561 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/06038122ab71/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（736,561 字）。 |
-| 分章依据 | 按「段」标记切分为 36 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,460 字；最长 Holland can gain no advantage by a peace with（39,392 字），最短 He then said, that he believed France and England had agreed（16,048 字）。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-caps-sections），拼接正文 17,051 行。 |
+| 篇幅分布 | 平均每章 49,104 字；最长 GERARD AND LUZERNE, WITH CONGRESS.（10）（56,153 字），最短 ALSO,（730 字）。 |
 | 原文溯源 | `cache/epub/39344/pg39344.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Holland can gain no advantage by a peace with
-2. "The King has accepted this friendly declaration of her Maje
-3. "ART. III. In case a vessel shall have been retaken by a ves
-4. I have received the letter, which you did me the honor to wr
-5. "That as your Noble and Grand Mightinesses, have always test
-6. "That, as such a dangerous situation ought naturally to exci
-7. "I dare also assure myself, that your High Mightinesses will
-8. "That, saving the deliberations of the Lords, the States of
-9. I am in my own mind apprehensive, though I devoutly wish I m
-10. I have received the letter, which you did me the honor to wr
+1. ALSO,
+2. GERARD AND LUZERNE, WITH CONGRESS.（1）
+3. GERARD AND LUZERNE, WITH CONGRESS.（2）
+4. GERARD AND LUZERNE, WITH CONGRESS.（3）
+5. GERARD AND LUZERNE, WITH CONGRESS.（4）
+6. GERARD AND LUZERNE, WITH CONGRESS.（5）
+7. GERARD AND LUZERNE, WITH CONGRESS.（6）
+8. GERARD AND LUZERNE, WITH CONGRESS.（7）
+9. GERARD AND LUZERNE, WITH CONGRESS.（8）
+10. GERARD AND LUZERNE, WITH CONGRESS.（9）
 
-> 共 36 段，[完整目录与正文 →](https://www.bqgmz.top/b/06038122ab71/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/06038122ab71/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

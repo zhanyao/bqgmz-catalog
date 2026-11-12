@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（469,327 字）。 |
-| 分章依据 | 按「章」标记切分为 27 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 17,382 字；最长 Chapter 5: The Fencing School.（22,394 字），最短 Chapter 22: Oudenarde.（12,953 字）。 |
+| 分章依据 | 按「章」标记切分为 27 章（auto-toc-title-list），拼接正文 11,937 行。 |
+| 篇幅分布 | 平均每章 17,354 字；最长 Chapter 5: The Fencing School.（22,394 字），最短 Chapter 22: Oudenarde.（12,953 字）。 |
 | 起止 | 始于「Chapter 1: Windthorpe Chace.」，止于「Chapter 27: Malplaquet, and the End of the War.」。 |
 | 原文溯源 | `cache/epub/17403/pg17403.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 27 章，[完整目录与正文 →](https://www.bqgmz.top/b/11a399bc99f0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

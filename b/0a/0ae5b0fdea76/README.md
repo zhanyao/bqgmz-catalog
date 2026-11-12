@@ -1,7 +1,7 @@
 # The Sleeping Bard; Or, Visions of the World, Death, and Hell
 
-**作者** Wynne, Ellis, 1671-1734; Borrow, George, 1803-1881 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 177,918 字 ｜ **来源** Project Gutenberg
+**作者** Wynne, Ellis, 1671-1734; Borrow, George, 1803-1881 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 111 篇 · 177,918 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0ae5b0fdea76/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（177,918 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,239 字；最长 From this being I turned my eyes to the other side of the st（37,702 字），最短 Then arose Belphegor, prince of _Sloth and Idleness_.  "I am（17,740 字）。 |
+| 分章依据 | 按「篇」标记切分为 111 篇（通用标记切分），拼接正文 3,500 行。 |
+| 篇幅分布 | 平均每篇 1,602 字。 |
 | 原文溯源 | `cache/epub/20634/pg20634.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 篇）
 
-1. From this being I turned my eyes to the other side of the st
-2. "Well, here is a proof," said I, "that one never ought to ju
-3. At this moment there came a drove of Quakers, who wanted to
-4. The next that came to the bar was a certain king, who had li
-5. The strangers were exceedingly averse to going forward, insi
-6. Whilst we were proceeding down the porch of Horror, we heard
-7. It was not long before I heard the sound of a brazen trumpet
-8. Then arose Belphegor, prince of _Sloth and Idleness_. "I am
+1. Transcribed from the 1860 John Murray edition by David Price, email
+2. The Sleeping Bard was originally written in the Welsh language, and was
+3. The Sleeping Bard, though a highly remarkable, is not exactly entitled to
+4. "O ye living people, spawn of Satan that ye are! what is the reason
+5. Nevertheless, though there is a considerable amount of what is Quevedo's
+6. Whether Elis Wyn had ever read the Visions of Quevedo in their original
+7. The following translation of the Sleeping Bard has long existed in
+8. Yet there is no harm in the book. It is true that the Author is any
+9. One fine evening of warm sunny summer, I took a stroll to the top of one
+10. "Well," said I to myself, "I may now bid farewell to life, these cursed
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/0ae5b0fdea76/)
+> 共 111 篇，[完整目录与正文 →](https://www.bqgmz.top/b/0ae5b0fdea76/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

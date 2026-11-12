@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（243,628 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 20,302 字；最长 CHAPTER IX. THE REPUBLICS OF SOUTH AMERICA（31,207 字），最短 CHAPTER I. THE HERITAGE FROM SPAIN AND PORTUGAL（11,377 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 4,720 行。 |
+| 篇幅分布 | 平均每章 20,248 字；最长 CHAPTER IX. THE REPUBLICS OF SOUTH AMERICA（31,207 字），最短 CHAPTER I. THE HERITAGE FROM SPAIN AND PORTUGAL（10,728 字）。 |
 | 起止 | 始于「CHAPTER I. THE HERITAGE FROM SPAIN AND PORTUGAL」，止于「CHAPTER XII. PAN-AMERICANISM AND THE GREAT WAR」。 |
 | 原文溯源 | `cache/epub/3042/pg3042.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/122dacfff83f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

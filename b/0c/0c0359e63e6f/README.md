@@ -1,7 +1,7 @@
 # Victor Hugo（#51977）
 
-**作者** Gautier, Théophile, 1811-1872 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 12 段 · 243,648 字 ｜ **来源** Project Gutenberg
+**作者** Gautier, Théophile, 1811-1872 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 49 章 · 243,648 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0c0359e63e6f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（243,648 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,304 字；最长 Comme Esther devant Assuérus, nous faillîmes nous évanouir. （39,408 字），最短 _Les Chansons des rues et des bois_, comme le titre l'indiqu（4,242 字）。 |
+| 分章依据 | 按「章」标记切分为 49 章（auto-roman-bare），拼接正文 5,639 行。 |
+| 篇幅分布 | 平均每章 4,967 字；最长 XXXVI（28,647 字），最短 XXVIII（426 字）。 |
 | 原文溯源 | `cache/epub/51977/pg51977.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Comme Esther devant Assuérus, nous faillîmes nous évanouir.
-2. Quand on assiste aujourd'hui à une représentation d'_Hernani
-3. . . . . . . . . . . . .
-4. Pour les dramaturges ordinaires il n'est besoin que d'une se
-5. De quel air gracieusement distrait elle écoute les doléances
-6. Madame Lambquin s'était chargée, sans la moindre coquetterie
-7. De cordiales salves d'applaudissements, au risque de le réve
-8. On a vu au cimetière Guanhumara qui, les manches relevées, p
-9. Les _Burgraves_ ont été joués avec beaucoup de talent et d'e
-10. Comme elle était belle aussi dans Lucrèce Borgia, quand elle
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/0c0359e63e6f/)
+> 共 49 章，[完整目录与正文 →](https://www.bqgmz.top/b/0c0359e63e6f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

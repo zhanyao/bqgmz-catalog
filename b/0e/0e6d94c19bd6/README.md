@@ -1,0 +1,28 @@
+# Förrädarens lön: Berättelse från sista finska kriget
+
+**作者** Åberg, J. O. (Johan Olof), 1843-1898 ｜ **国家/地区** 瑞典 ｜ **体例** 章  
+**规模** 3 章 · 53,113 字 ｜ **来源** Project Gutenberg
+
+> ### [→ 在线阅读全文](https://www.bqgmz.top/b/0e6d94c19bd6/)
+> 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
+
+## 版本与结构
+
+| 项 | 说明 |
+|---|---|
+| 来源版本 | 本站收录 1 个来源：Project Gutenberg（53,113 字）。 |
+| 分章依据 | 按「章」标记切分为 3 章（auto-toc-title-list），拼接正文 1,380 行。 |
+| 篇幅分布 | 平均每章 17,617 字。 |
+| 起止 | 始于「I. Inledning. Hjertestrider.」，止于「IV. På fädernehemmets ruiner.」。 |
+| 原文溯源 | `cache/epub/52671/pg52671.txt`（Project Gutenberg） |
+
+## 章节目录（前 3 章）
+
+1. I. Inledning. Hjertestrider.
+2. II. Branden.
+3. IV. På fädernehemmets ruiner.
+
+> 共 3 章，[完整目录与正文 →](https://www.bqgmz.top/b/0e6d94c19bd6/)
+
+---
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

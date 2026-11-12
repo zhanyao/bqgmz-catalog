@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（327,551 字）。 |
-| 分章依据 | 按「章」标记切分为 13 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 25,196 字；最长 CHAPTER XII（87,515 字），最短 CHAPTER II（12,410 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-toc-title-list），拼接正文 10,876 行。 |
+| 篇幅分布 | 平均每章 25,105 字。 |
 | 原文溯源 | `cache/epub/31007/pg31007.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. CHAPTER IX
-10. CHAPTER X
+1. CHAPTER I OURSELVES
+2. CHAPTER II THE DIAMOND ORNAMENT
+3. CHAPTER III WORK FOR THE TOWN-CRIER
+4. CHAPTER IV AT THE DANCING CLASS
+5. CHAPTER V RODNEY SQUARE
+6. CHAPTER VI THE VALLEY OF THE SHADOW
+7. CHAPTER VII FOUR 'IF'S' AND A COINCIDENCE
+8. CHAPTER VIII MOSSMOOR FARM
+9. CHAPTER IX SPYING THE LAND
+10. CHAPTER X A LONG AGO ADVENTURE
 
 > 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/0cff163865f0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

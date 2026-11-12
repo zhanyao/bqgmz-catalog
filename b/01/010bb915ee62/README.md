@@ -1,7 +1,7 @@
 # The Nibelungenlied
 
-**作者** Shumway, Daniel Bussier, 1868- [Translator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 35 题 · 458,273 字 ｜ **来源** Project Gutenberg
+**作者** Shumway, Daniel Bussier, 1868- [Translator] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 27 篇 · 458,273 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/010bb915ee62/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（458,273 字）。 |
-| 分章依据 | 按「题」标记切分为 35 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 13,093 字。 |
+| 分章依据 | 按「篇」标记切分为 27 篇（通用标记切分），拼接正文 10,278 行。 |
+| 篇幅分布 | 平均每篇 16,950 字。 |
 | 原文溯源 | `cache/epub/1151/pg1151.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. THE NIBELUNGENLIED
-2. By An Unknown Author
-3. Translated by Daniel B. Shumway
-4. SELECTED BIBLIOGRAPHY:
-5. OTHER TRANSLATIONS--
-6. RECOMMENDED READING--
-7. PREFACE
-8. INTRODUCTORY SKETCH
-9. THE NIBELUNGENLIED (1)
-10. ADVENTURE I (2)
+1. OTHER TRANSLATIONS--
+2. RECOMMENDED READING--
+3. PREFACE
+4. INTRODUCTORY SKETCH
+5. ENDNOTES:
+6. ADVENTURE I (2)
+7. ENDNOTES:
+8. ENDNOTES:
+9. ENDNOTES:
+10. ENDNOTES:
 
-> 共 35 题，[完整目录与正文 →](https://www.bqgmz.top/b/010bb915ee62/)
+> 共 27 篇，[完整目录与正文 →](https://www.bqgmz.top/b/010bb915ee62/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

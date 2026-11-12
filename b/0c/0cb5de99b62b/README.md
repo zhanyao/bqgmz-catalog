@@ -1,7 +1,7 @@
 # Some Account of Llangollen and Its Vicinity Including a Circuit of About Seven Miles
 
-**作者** Simpson, W. T. (Wilfrid Tord) ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 125,422 字 ｜ **来源** Project Gutenberg
+**作者** Simpson, W. T. (Wilfrid Tord) ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 8 章 · 125,422 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0cb5de99b62b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（125,422 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,903 字；最长 I believe there are not standing within the same compass of （39,905 字），最短 {2}  The north side of the river is called “_Trevor Ucha_,” （5,311 字）。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-caps-sections），拼接正文 3,520 行。 |
+| 篇幅分布 | 平均每章 15,677 字；最长 MD . . .（42,902 字），最短 THE AUTHOR.（504 字）。 |
 | 原文溯源 | `cache/epub/39590/pg39590.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 8 章）
 
-1. I believe there are not standing within the same compass of
-2. The Aqueduct crosses the entrance of the vale of Llangollen
-3. Llewellyn, who was a politic prince, received the submission
-4. THE river Dee forms a beautiful and interesting feature in a
-5. To Sir David Gam was assigned the important office of reconn
-6. {2} The north side of the river is called “_Trevor Ucha_,”
+1. THE AUTHOR.
+2. ADVERTISEMENT.
+3. SPENCER.
+4. SPENCER.
+5. MD . . .
+6. CONCLUSION.
+7. REFERRED TO IN THIS WORK.
+8. AND SOLD BY ALL OTHER BOOKSELLERS.
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/0cb5de99b62b/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/0cb5de99b62b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

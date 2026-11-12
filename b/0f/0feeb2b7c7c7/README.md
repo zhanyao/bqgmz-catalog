@@ -1,7 +1,7 @@
 # The Battle of Verdun (1914-1918)
 
-**作者** Pneu Michelin (Firm) [Publisher] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 111,287 字 ｜ **来源** Project Gutenberg
+**作者** Pneu Michelin (Firm) [Publisher] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 111,287 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0feeb2b7c7c7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（111,287 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,257 字；最长 From March 11th to April 9th the aspect of the battle change（39,786 字），最短 On June 28th and 29th another powerful enemy attack succeede（11,684 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-caps-sections），拼接正文 3,235 行。 |
+| 篇幅分布 | 平均每章 10,117 字；最长 S.E.（40,273 字），最短 DOUAUMONT FORT（804 字）。 |
 | 原文溯源 | `cache/epub/53408/pg53408.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. From March 11th to April 9th the aspect of the battle change
-2. As one of the lofty windows bears the date 1623, the popular
-3. On March 10th and 11th, in four column formation, they attac
-4. Around these positions, which dominate the ravine debouching
-5. On June 28th and 29th another powerful enemy attack succeede
+1. MOTOR AGENTS.
+2. CHIEF MILITARY EVENTS
+3. S.E.
+4. EXCEPT TWO BAYS DECORATED WITH PAINTINGS.]
+5. ENTRANCE TO THE MUSEUM.]
+6. DOUAUMONT FORT
+7. THE 27TH (27/2), AFTER THE FRENCH COUNTER-ATTACK.]
+8. 1916. IT WAS WRECKED BY ENEMY ARTILLERY]
+9. THE ROAD FROM CHATTANCOURT TO ESNES, AT THE FOOT OF HILL 275.
+10. VIEW.]
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/0feeb2b7c7c7/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/0feeb2b7c7c7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

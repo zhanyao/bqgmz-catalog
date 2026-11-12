@@ -1,7 +1,7 @@
 # Der Stechlin: Roman
 
-**作者** Fontane, Theodor, 1819-1898 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 33 段 · 665,315 字 ｜ **来源** Project Gutenberg
+**作者** Fontane, Theodor, 1819-1898 ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 33 篇 · 665,315 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0c77ccfdfc83/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（665,315 字）。 |
-| 分章依据 | 按「段」标记切分为 33 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,161 字；最长 »Alle Wetter, Stechlin, das ist ja reizend,« wandte sich Cza（38,915 字），最短 Woldemar lächelte dabei. »Die Zukunft liegt also bei +dir+.«（4,437 字）。 |
+| 分章依据 | 按「篇」标记切分为 33 篇（通用标记切分），拼接正文 15,602 行。 |
+| 篇幅分布 | 平均每篇 20,149 字；最长 Neunundzwanzigstes Kapitel（1）（55,207 字），最短 Zweiundvierzigstes Kapitel（4,225 字）。 |
 | 原文溯源 | `cache/epub/53628/pg53628.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. »Alle Wetter, Stechlin, das ist ja reizend,« wandte sich Cza
-2. Sehr, sehr anders ging das Gespräch an der entgegengesetzten
-3. »Vorgefallen? Das will ich nicht sagen. Er is ja doch erst s
-4. »Brav, brav. Das gefällt mir. So ist es. Wir sind immer von
-5. Gleich nach zwölf -- Woldemar hatte sich, wie geplant, schon
-6. Rex, der von dem Wegweiser nichts wissen wollte, war einfach
-7. Das Fräulein von Schmargendorf war klein und rundlich, einig
-8. »Ja, du lachst, Woldemar, und ich will dir auch nicht bestre
-9. Die Barbys, der alte Graf und seine zwei Töchter, lebten sei
-10. Diesem allem hatte Riekchen seitdem gelebt. Die Beletage, di
+1. Erstes Kapitel
+2. Zweites Kapitel
+3. Drittes Kapitel
+4. Viertes Kapitel
+5. Sechstes Kapitel
+6. Siebentes Kapitel
+7. Achtes Kapitel
+8. Neuntes Kapitel
+9. Zehntes Kapitel
+10. Elftes Kapitel
 
-> 共 33 段，[完整目录与正文 →](https://www.bqgmz.top/b/0c77ccfdfc83/)
+> 共 33 篇，[完整目录与正文 →](https://www.bqgmz.top/b/0c77ccfdfc83/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

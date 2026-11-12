@@ -1,7 +1,7 @@
 # The Secret of the Earth
 
-**作者** Beale, Charles Willing, 1845-1932 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 20 题 · 337,745 字 ｜ **来源** Project Gutenberg
+**作者** Beale, Charles Willing, 1845-1932 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 24 篇 · 337,745 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/05cfddeec1dd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（337,745 字）。 |
-| 分章依据 | 按「题」标记切分为 20 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 16,887 字。 |
+| 分章依据 | 按「篇」标记切分为 24 篇（通用标记切分），拼接正文 8,149 行。 |
+| 篇幅分布 | 平均每篇 14,062 字；最长 *XVII.*（33,881 字），最短 { "JOE NILES."（1,841 字）。 |
 | 原文溯源 | `cache/epub/44535/pg44535.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. BY
-2. CHARLES WILLING BEALE.
-3. Yours, "TORRY."
-4. I was provoked and showed it.
-5. I gasped but said nothing.
-6. I could hear the rustling of papers.
-7. I promised; but why he demanded this I was at a loss to guess.
-8. I showed it to him, sewed in my pocket.
-9. I admitted that it would have been an ugly collision.
-10. I was wondering how fast we were going and inquired.
+1. *PROLOGUE.*
+2. *I.*
+3. *II.*
+4. *III.*
+5. *IV.*
+6. *V.*
+7. *VI.*
+8. "WHITEHOUSE, MORSE & PLUNKET."
+9. *VII.*
+10. *VIII.*
 
-> 共 20 题，[完整目录与正文 →](https://www.bqgmz.top/b/05cfddeec1dd/)
+> 共 24 篇，[完整目录与正文 →](https://www.bqgmz.top/b/05cfddeec1dd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

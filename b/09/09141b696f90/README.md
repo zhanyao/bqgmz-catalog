@@ -1,7 +1,7 @@
 # Hortus Vitae Essays on the Gardening of Life
 
-**作者** Lee, Vernon, 1856-1935 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 9 段 · 184,751 字 ｜ **来源** Project Gutenberg
+**作者** Lee, Vernon, 1856-1935 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 23 章 · 184,751 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/09141b696f90/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,23 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（184,751 字）。 |
-| 分章依据 | 按「段」标记切分为 9 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,527 字；最长 I felt the special gladness of being in Germany (for every c（39,956 字），最短 In saying all these things, I am aware that many wise men, o（4,821 字）。 |
+| 分章依据 | 按「章」标记切分为 23 章（auto-toc-title-list），拼接正文 3,859 行。 |
+| 篇幅分布 | 平均每章 7,613 字；最长 SERE AND YELLOW（11,855 字），最短 OTHER FRIENDSHIPS（5,464 字）。 |
 | 原文溯源 | `cache/epub/26800/pg26800.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 段）
+## 章节目录（前 10 章）
 
-1. I felt the special gladness of being in Germany (for every c
-2. Nay, such is the virtuous power of books, that, to those who
-3. Yet even this is well worth having, and after bringing prais
-4. The line of least resistance seems against it; our laziness,
-5. This is the secret of our intercourse with those persons of
-6. Alongside of such tardy nuptials there is a corresponding cl
-7. The bicycle, in this particular, like the imagination it so
-8. But, alas! alas! not all kind Thestylis's doing and refraini
-9. In saying all these things, I am aware that many wise men, o
+1. THE GARDEN OF LIFE
+2. IN PRAISE OF GOVERNESSES
+3. ON GOING TO THE PLAY
+4. READING BOOKS
+5. HEARING MUSIC
+6. RECEIVING LETTERS
+7. NEW FRIENDS AND OLD
+8. OTHER FRIENDSHIPS
+9. A HOTEL SITTING-ROOM
+10. IN PRAISE OF COURTSHIP
 
-> 共 9 段，[完整目录与正文 →](https://www.bqgmz.top/b/09141b696f90/)
+> 共 23 章，[完整目录与正文 →](https://www.bqgmz.top/b/09141b696f90/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

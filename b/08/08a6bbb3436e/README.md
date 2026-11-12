@@ -1,7 +1,7 @@
 # Public School Education
 
 **作者** Müller, Michael, 1825-1899 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 19 章 · 411,837 字 ｜ **来源** Project Gutenberg
+**规模** 15 章 · 411,837 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/08a6bbb3436e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（411,837 字）。 |
-| 分章依据 | 按「章」标记切分为 19 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,675 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-chapter），拼接正文 8,855 行。 |
+| 篇幅分布 | 平均每章 27,366 字；最长 CHAPTER XV.（65,201 字），最短 CHAPTER V.（4,601 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XV.」。 |
 | 原文溯源 | `cache/epub/28036/pg28036.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/08a6bbb3436e/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/08a6bbb3436e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

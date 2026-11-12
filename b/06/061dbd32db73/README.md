@@ -1,7 +1,7 @@
 # Looking Seaward Again
 
-**作者** Runciman, Walter Runciman, Baron, 1847-1937 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 17 题 · 199,603 字 ｜ **来源** Project Gutenberg
+**作者** Runciman, Walter Runciman, Baron, 1847-1937 ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 5 部分 · 199,603 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/061dbd32db73/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（199,603 字）。 |
-| 分章依据 | 按「题」标记切分为 17 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 11,741 字。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 4,474 行。 |
+| 篇幅分布 | 平均每部分 39,920 字；最长 第 1 部分（41,753 字），最短 第 5 部分（32,825 字）。 |
 | 原文溯源 | `cache/epub/15222/pg15222.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 部分）
 
-1. LOOKING SEAWARD AGAIN
-2. PREFACE.
-3. WALTER RUNCIMAN.
-4. CONTENTS.
-5. Through Torpedoes and Ice
-6. FOOTNOTES:
-7. Fair Trade and Foul Play
-8. Smugglers of the Rock
-9. The Rock-scorpion gasped--
-10. A Pasha before Plevna
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 17 题，[完整目录与正文 →](https://www.bqgmz.top/b/061dbd32db73/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/061dbd32db73/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

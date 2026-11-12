@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（2,005,120 字）。 |
-| 分章依据 | 按「章」标记切分为 123 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 16,301 字；最长 CHAPTER CLXXVII.（92,017 字），最短 CHAPTER CCXXXIX.（6,424 字）。 |
-| 起止 | 始于「CHAPTER CXXXVII.」，止于「CHAPTER CCLIX.」。 |
+| 分章依据 | 按「章」标记切分为 123 章（auto-chapter），拼接正文 50,625 行。 |
+| 篇幅分布 | 平均每章 16,297 字；最长 CHAPTER CLXXVII.（92,017 字），最短 CHAPTER CCXXXIX.（6,424 字）。 |
+| 起止 | 始于「CHAPTER CXXXVII.—Rat's Castle 1」，止于「CHAPTER CCLIX.」。 |
 | 原文溯源 | `cache/epub/51294/pg51294.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER CXXXVII.
+1. CHAPTER CXXXVII.—Rat's Castle 1
 2. CHAPTER CXXXVIII.
 3. CHAPTER CXXXIX.
 4. CHAPTER CXL.
@@ -32,4 +32,4 @@
 > 共 123 章，[完整目录与正文 →](https://www.bqgmz.top/b/0f0c6a836891/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

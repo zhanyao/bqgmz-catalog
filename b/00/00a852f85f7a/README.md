@@ -11,14 +11,14 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（232,358 字）。 |
-| 分章依据 | 按「章」标记切分为 29 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,012 字；最长 CHAPTER I.（15,261 字），最短 CHAPTER XXIX.（3,197 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXIX.」。 |
+| 分章依据 | 按「章」标记切分为 29 章（auto-chapter），拼接正文 7,182 行。 |
+| 篇幅分布 | 平均每章 8,005 字；最长 CHAPTER I.--THE RESULTS OF DISOBEDIENCE 3（15,057 字），最短 CHAPTER XXIX.（3,197 字）。 |
+| 起止 | 始于「CHAPTER I.--THE RESULTS OF DISOBEDIENCE 3」，止于「CHAPTER XXIX.」。 |
 | 原文溯源 | `cache/epub/27798/pg27798.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. CHAPTER I.
+1. CHAPTER I.--THE RESULTS OF DISOBEDIENCE 3
 2. CHAPTER II.
 3. CHAPTER III.
 4. CHAPTER IV.
@@ -32,4 +32,4 @@
 > 共 29 章，[完整目录与正文 →](https://www.bqgmz.top/b/00a852f85f7a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The Subterranean World
 
 **作者** Hartwig, G. (Georg), 1813-1880 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 48 章 · 943,391 字 ｜ **来源** Project Gutenberg
+**规模** 39 章 · 943,391 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0ecf51a2dbeb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（943,391 字）。 |
-| 分章依据 | 按「章」标记切分为 48 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 19,653 字。 |
+| 分章依据 | 按「章」标记切分为 39 章（auto-chapter），拼接正文 20,388 行。 |
+| 篇幅分布 | 平均每章 21,760 字；最长 CHAPTER XXIII.（69,568 字），最短 CHAPTER III.（4,987 字）。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXXIX.」。 |
 | 原文溯源 | `cache/epub/52466/pg52466.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 48 章，[完整目录与正文 →](https://www.bqgmz.top/b/0ecf51a2dbeb/)
+> 共 39 章，[完整目录与正文 →](https://www.bqgmz.top/b/0ecf51a2dbeb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

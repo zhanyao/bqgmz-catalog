@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（187,489 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,624 字；最长 CHAPTER VII. THE FACE AT THE GATE（30,930 字），最短 CHAPTER V. BY A THREAD（7,706 字）。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 4,560 行。 |
+| 篇幅分布 | 平均每章 15,286 字；最长 CHAPTER VII. THE FACE AT THE GATE（30,930 字），最短 CHAPTER V. BY A THREAD（7,706 字）。 |
 | 起止 | 始于「CHAPTER I. THE DISCOVERY」，止于「CHAPTER XII. ON THE LIDO」。 |
 | 原文溯源 | `cache/epub/1832/pg1832.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/01a1dca1270f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

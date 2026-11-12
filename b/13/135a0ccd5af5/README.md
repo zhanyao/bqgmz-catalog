@@ -1,7 +1,7 @@
 # Gibbon
 
 **作者** Morison, James Cotter, 1832-1888 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 271,272 字 ｜ **来源** Project Gutenberg
+**规模** 11 章 · 271,272 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/135a0ccd5af5/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（271,272 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 27,127 字；最长 CHAPTER VII.（60,344 字），最短 CHAPTER VIII.（11,822 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER X.」。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-chapter），拼接正文 5,544 行。 |
+| 篇幅分布 | 平均每章 24,589 字；最长 CHAPTER VII.（60,344 字），最短 Notes, by W.D. CHRISTIE, M.A., of Trinity College, Cambridge, pp.（1,231 字）。 |
 | 原文溯源 | `cache/epub/18851/pg18851.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -29,7 +28,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/135a0ccd5af5/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/135a0ccd5af5/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

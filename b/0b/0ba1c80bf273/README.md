@@ -1,7 +1,7 @@
 # Bragelonnen varakreivi eli Muskettisoturien viimeiset urotyöt II (2) Historiallinen romaani Ludvig XIV:n hovista
 
-**作者** Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888; Hämeen-Anttila, Väinö, 1878-1942 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 34 题 · 1,764,588 字 ｜ **来源** Project Gutenberg
+**作者** Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888; Hämeen-Anttila, Väinö, 1878-1942 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 40 部分 · 1,764,588 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0ba1c80bf273/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,764,588 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 51,899 字。 |
+| 分章依据 | 按「部分」标记切分为 40 部分（fallback-chunk），拼接正文 53,562 行。 |
+| 篇幅分布 | 平均每部分 44,114 字；最长 第 15 部分（44,921 字），最短 第 40 部分（22,584 字）。 |
 | 原文溯源 | `cache/epub/53872/pg53872.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 部分）
 
-1. BRAGELONNEN VARAKREIVI
-2. MUSKETTISOTURIEN VIIMEISET UROTYÖT II
-3. Historiallinen romaani Ludvig XIV:n hovista
-4. ALEXANDRE DUMAS
-5. Suomentanut V. Hämeen-Anttila
-6. SISÄLLYS:
-7. Rajuilma
-8. Hän kääntyi tyhjään sivukammioonsa päin ja kysäisi ilmalta
-9. 1. saada tietää, mitä Baisemeaux merkitsee Aramikselle;
-10. 2. minkätähden Aramiksesta ei kuulu mitään;
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/0ba1c80bf273/)
+> 共 40 部分，[完整目录与正文 →](https://www.bqgmz.top/b/0ba1c80bf273/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

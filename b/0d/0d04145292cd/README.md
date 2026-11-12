@@ -1,7 +1,7 @@
 # Eclectic Magazine of Foreign Literature, Science, and Art, March 1885
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 58 题 · 515,104 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 13 章 · 515,104 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0d04145292cd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（515,104 字）。 |
-| 分章依据 | 按「题」标记切分为 58 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,881 字。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-caps-sections），拼接正文 10,681 行。 |
+| 篇幅分布 | 平均每章 39,608 字；最长 A STORY OF THE SEEN AND THE UNSEEN.（3）（55,685 字），最短 PRINCE BISMARCK'S CHARACTER.（2）（15,379 字）。 |
 | 原文溯源 | `cache/epub/52887/pg52887.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Eclectic Magazine
-2. OF
-3. FOREIGN LITERATURE, SCIENCE, AND ART.
-4. FROM SIBERIA TO SWITZERLAND.
-5. THE STORY OF AN ESCAPE.
-6. BY WILLIAM WESTALL.
-7. WILLIAM WESTALL.
-8. THE ARREST.
-9. THE SENTENCE.
-10. SENT TO SIBERIA.
+1. THE SENTENCE.
+2. THE SUBSTITUTION.
+3. LIBERTY.
+4. A STORY OF THE SEEN AND THE UNSEEN.（1）
+5. A STORY OF THE SEEN AND THE UNSEEN.（2）
+6. A STORY OF THE SEEN AND THE UNSEEN.（3）
+7. A STORY OF THE SEEN AND THE UNSEEN.（4）
+8. A STORY OF THE SEEN AND THE UNSEEN.（5）
+9. PRINCE BISMARCK'S CHARACTER.（1）
+10. PRINCE BISMARCK'S CHARACTER.（2）
 
-> 共 58 题，[完整目录与正文 →](https://www.bqgmz.top/b/0d04145292cd/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/0d04145292cd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

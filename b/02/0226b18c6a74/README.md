@@ -1,7 +1,7 @@
 # Kant's Critique of Judgement
 
-**作者** Kant, Immanuel, 1724-1804; Bernard, J. H. (John Henry), 1860-1927 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 33 段 · 667,995 字 ｜ **来源** Project Gutenberg
+**作者** Kant, Immanuel, 1724-1804; Bernard, J. H. (John Henry), 1860-1927 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 667,995 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0226b18c6a74/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（667,995 字）。 |
-| 分章依据 | 按「段」标记切分为 33 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,242 字；最长 The analysis of the Sublime which follows that of the Beauti（39,558 字），最短 [141] _Analogy_ (in a qualitative signification) is the iden（8,709 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-caps-sections），拼接正文 13,731 行。 |
+| 篇幅分布 | 平均每章 41,749 字。 |
 | 原文溯源 | `cache/epub/48433/pg48433.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. The analysis of the Sublime which follows that of the Beauti
-2. The real plausibility of this objection arises from a vague
-3. Here then I end my whole critical undertaking. I shall proce
-4. That the concept of a purposiveness of nature belongs to tra
-5. Purposiveness may be represented in an object given in exper
-6. The pleasant and the good have both a reference to the facul
-7. The faculty of desire, so far as it is determinable only thr
-8. A judgement of taste, then, in respect of an object with a d
-9. All stiff regularity (such as approximates to mathematical r
-10. Because everything which is to give disinterested pleasure t
+1. SECOND MOMENT（1）
+2. SECOND MOMENT（2）
+3. SECOND MOMENT（3）
+4. OF THE JUDGEMENT OF TASTE, VIZ. ACCORDING TO QUANTITY
+5. ARE BROUGHT INTO CONSIDERATION THEREIN.
+6. GENERAL REMARK ON THE FIRST SECTION OF THE ANALYTIC（1）
+7. GENERAL REMARK ON THE FIRST SECTION OF THE ANALYTIC（2）
+8. DEDUCTION OF [PURE[64]] AESTHETICAL JUDGEMENTS（1）
+9. DEDUCTION OF [PURE[64]] AESTHETICAL JUDGEMENTS（2）
+10. DEDUCTION OF [PURE[64]] AESTHETICAL JUDGEMENTS（3）
 
-> 共 33 段，[完整目录与正文 →](https://www.bqgmz.top/b/0226b18c6a74/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/0226b18c6a74/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

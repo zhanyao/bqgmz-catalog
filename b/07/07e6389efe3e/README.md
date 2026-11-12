@@ -1,7 +1,7 @@
 # Az alföldi vadászok tanyája: Regény
 
-**作者** Podmaniczky, Frigyes, báró, 1824-1907; Mikszáth, Kálmán, 1847-1910 [Contributor]; Heyer, Artúr, 1872-1931 [Illustrator] ｜ **国家/地区** 匈牙利 ｜ **体例** 段  
-**规模** 15 段 · 310,473 字 ｜ **来源** Project Gutenberg
+**作者** Podmaniczky, Frigyes, báró, 1824-1907; Mikszáth, Kálmán, 1847-1910 [Contributor]; Heyer, Artúr, 1872-1931 [Illustrator] ｜ **国家/地区** 匈牙利 ｜ **体例** 章  
+**规模** 75 章 · 310,473 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/07e6389efe3e/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（310,473 字）。 |
-| 分章依据 | 按「段」标记切分为 15 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,698 字；最长 Jellemének legfőbb hibája, bizonyos lelki s testi restség vo（39,920 字），最短 Örömmel néztem az egyes igen csinosan épült s rendesen tarto（10,220 字）。 |
+| 分章依据 | 按「章」标记切分为 75 章（auto-roman-title），拼接正文 8,378 行。 |
+| 篇幅分布 | 平均每章 4,044 字。 |
+| 起止 | 始于「I. (A kolozsvári nagy-piaczon.)」，止于「XXXVIII. Az alföldi vadászok tanyája 286（部2）」。 |
 | 原文溯源 | `cache/epub/67818/pg67818.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Jellemének legfőbb hibája, bizonyos lelki s testi restség vo
-2. Mind a mellett, hogy Ágnes jelleme egyik fővonását hevesség
-3. A női természet egyik legkitünőbb s kedvesebb jellemvonása a
-4. – De hogyan is lovagolhatnak ily időben s ilyen helyeken oly
-5. Szegény, még azt nem merte mondani: «vele», pedig mennyire s
-6. Mikor Kálmán távozni látta Ágnest, első gondolata az volt, h
-7. Hova lőn ama különnemű s mégis annyira összevágó, számtalan
-8. – Délig megtudom, hol lakik, s ma estve meglátom őt! – E sza
-9. Mindez ő reá szerfölött hatott, részint mert mitsem tudott Á
-10. Örvendeni fog, mert nem látva többé, kínjai csillapulandnak.
+1. I. (A kolozsvári nagy-piaczon.)
+2. II. (Szerelem és házasság.)
+3. III. (Mézes hetek.)
+4. IV. (Folytatás.)
+5. V. (Egy év.)
+6. VI. (S még néhány hónap.)
+7. VII. (Házasság és boldogság.)
+8. VIII. (Két szív.)
+9. IX. (Holdvilágos esték.)
+10. X. (Szerelmed elásott kincs.)
 
-> 共 15 段，[完整目录与正文 →](https://www.bqgmz.top/b/07e6389efe3e/)
+> 共 75 章，[完整目录与正文 →](https://www.bqgmz.top/b/07e6389efe3e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（144,513 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 28,902 字；最长 CHAPTER I. - Of Prophecy（42,882 字），最短 CHAPTER IV. - OF THE DIVINE LAW.（21,534 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-chapter），拼接正文 2,863 行。 |
+| 篇幅分布 | 平均每章 25,126 字；最长 CHAPTER II. - OF PROPHETS.（28,916 字），最短 CHAPTER IV. - OF THE DIVINE LAW.（21,534 字）。 |
 | 起止 | 始于「CHAPTER I. - Of Prophecy」，止于「CHAPTER V. - OF THE CEREMONIAL LAW.」。 |
 | 原文溯源 | `cache/epub/989/pg989.txt`（Project Gutenberg） |
 
@@ -27,4 +27,4 @@
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/180df0cbf017/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

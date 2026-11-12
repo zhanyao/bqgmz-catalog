@@ -1,7 +1,7 @@
 # Metabolic Adaptation to Climate and Distribution of the Raccoon Procyon Lotor and Other Procyonidae
 
-**作者** Mugaas, John N.; Mahlke-Johnson, Kathleen P.; Seidensticker, John ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 127 题 · 141,752 字 ｜ **来源** Project Gutenberg
+**作者** Mugaas, John N.; Mahlke-Johnson, Kathleen P.; Seidensticker, John ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 5 章 · 141,752 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/03b90bab493a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（141,752 字）。 |
-| 分章依据 | 按「题」标记切分为 127 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,116 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-caps-sections），拼接正文 3,880 行。 |
+| 篇幅分布 | 平均每章 28,350 字；最长 DAILY CYCLE OF BODY TEMPERATURE（1）（55,985 字），最短 DAILY CYCLE OF BODY TEMPERATURE（2）（1,728 字）。 |
 | 原文溯源 | `cache/epub/36036/pg36036.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. SMITHSONIAN CONTRIBUTIONS TO ZOOLOGY . NUMBER 542
-2. ABSTRACT
-3. Library of Congress Cataloging-in-Publication Data
-4. Includes bibliographical references (p. )
-5. QL1.S54 no. 542 [QL737.C26] 591 s-dc20 [599.74'443'04542] 93-3119
-6. Contents
-7. Appendix: List of Symbols 29
-8. Literature Cited 30
-9. DEFINING THE PROBLEM
-10. ADAPTIVE SIGNIFICANCE OF THE VARIABLES
+1. SEE | 0.0885 0.0223 0.0015 0.00003
+2. SEE | 0.0734 0.0192 0.0013 0.00002
+3. DAILY CYCLE OF BODY TEMPERATURE（1）
+4. DAILY CYCLE OF BODY TEMPERATURE（2）
+5. APPENDIX: LIST OF SYMBOLS
 
-> 共 127 题，[完整目录与正文 →](https://www.bqgmz.top/b/03b90bab493a/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/03b90bab493a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Geschichte der Medizin. II. Band, Erster Teil
 
-**作者** Neuburger, Max, 1868-1955 ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 76 段 · 1,538,387 字 ｜ **来源** Project Gutenberg
+**作者** Neuburger, Max, 1868-1955 ｜ **国家/地区** 德国 ｜ **体例** 部分  
+**规模** 37 部分 · 1,538,387 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1124442b6c77/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,538,387 字）。 |
-| 分章依据 | 按「段」标记切分为 76 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,241 字；最长 Die Unzulänglichkeit der wissenschaftlichen Grundlagen und d（39,078 字），最短 [49] Als Naturphilosoph wendete er sich einerseits gegen die（12,694 字）。 |
+| 分章依据 | 按「部分」标记切分为 37 部分（fallback-chunk），拼接正文 31,273 行。 |
+| 篇幅分布 | 平均每部分 41,578 字；最长 第 7 部分（43,309 字），最短 第 37 部分（13,352 字）。 |
 | 原文溯源 | `cache/epub/59338/pg59338.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. Die Unzulänglichkeit der wissenschaftlichen Grundlagen und d
-2. Die große Konkurrenz im Verein mit der geringen Verantwortli
-3. [36] Aristides, ein berühmter Rhetor des 2. Jahrhunderts, li
-4. In der Blütezeit des klassischen Altertums bildeten Volkstum
-5. Reichsten Einblick in die •medizinische Magie• dieses Zeital
-6. Noch oblag aber fast ausschließlich den Vertretern des alten
-7. Gesamtausgabe der Werke des Oreibasios von ~Bussemaker~ und
-8. Der lateinischen Literatur desselben Zeitraums kommt eine ni
-9. [12] Von der lateinischen Uebersetzung der gynäkologischen S
-10. •Krankheiten des Nervensystems und Psychosen.• „~Paralysis~”
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 76 段，[完整目录与正文 →](https://www.bqgmz.top/b/1124442b6c77/)
+> 共 37 部分，[完整目录与正文 →](https://www.bqgmz.top/b/1124442b6c77/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

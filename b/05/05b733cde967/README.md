@@ -1,7 +1,7 @@
 # A Hand-book of Precious Stones
 
-**作者** Rothschild, Meyer D. ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 98 题 · 95,189 字 ｜ **来源** Project Gutenberg
+**作者** Rothschild, Meyer D. ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 88 章 · 95,189 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/05b733cde967/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（95,189 字）。 |
-| 分章依据 | 按「题」标记切分为 98 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 971 字。 |
+| 分章依据 | 按「章」标记切分为 88 章（auto-toc-title-list），拼接正文 3,233 行。 |
+| 篇幅分布 | 平均每章 1,050 字。 |
 | 原文溯源 | `cache/epub/60512/pg60512.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. CONTENTS.
-2. Table of Hardness and Specific Gravity 132
-3. Index 135
-4. PREFACE.
-5. HAND-BOOK OF PRECIOUS STONES.
-6. WHAT ARE PRECIOUS STONES?
-7. PHYSICAL CHARACTERS.
-8. CRYSTALLIZATION.
-9. CLEAVAGE.
-10. FRACTURE.
+1. What are Precious Stones?
+2. Physical Characters—
+3. Crystallization
+4. Cleavage
+5. Fracture
+6. Optical Properties—
+7. Refraction
+8. Polarization of Light
+9. Pleiochroism
+10. Colors
 
-> 共 98 题，[完整目录与正文 →](https://www.bqgmz.top/b/05b733cde967/)
+> 共 88 章，[完整目录与正文 →](https://www.bqgmz.top/b/05b733cde967/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

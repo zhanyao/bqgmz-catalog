@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（361,754 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 72,350 字；最长 CHAPTER I（109,239 字），最短 CHAPTER III（49,371 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-chapter），拼接正文 7,639 行。 |
+| 篇幅分布 | 平均每章 69,357 字；最长 CHAPTER I（94,272 字），最短 CHAPTER III（49,371 字）。 |
 | 原文溯源 | `cache/epub/78469/pg78469.txt`（Project Gutenberg） |
 
 ## 章节目录（前 5 章）
@@ -21,9 +21,9 @@
 2. CHAPTER II
 3. CHAPTER III
 4. CHAPTER IV
-5. There, upon the peninsula which he deeme
+5. APPENDIX
 
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/1152c33c8c2c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

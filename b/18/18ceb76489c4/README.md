@@ -11,20 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（261,698 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 43,616 字。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-caps-sections），拼接正文 6,676 行。 |
+| 篇幅分布 | 平均每章 43,582 字；最长 A SENSITIVE MAN（55,753 字），最短 THE GHOST（3）（14,623 字）。 |
 | 原文溯源 | `cache/epub/74101/pg74101.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
 
-1. Part I: AN AFTERNOON IN APRIL 181
-2. Part II: SHEILA DYRLE 189
-3. Part III: SHEILA FAIRFIELD 266
-4. Part IV: AN EVENING OF THE SAME DAY
-5. She received me, rather sternly, I thoug
-6. ‘Well, stop arguing all of you, and come
+1. A SENSITIVE MAN（1）
+2. A SENSITIVE MAN（2）
+3. A SENSITIVE MAN
+4. THE GHOST（1）
+5. THE GHOST（2）
+6. THE GHOST（3）
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/18ceb76489c4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

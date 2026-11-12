@@ -1,7 +1,7 @@
 # The Film Mystery
 
 **作者** Reeve, Arthur B. (Arthur Benjamin), 1880-1936 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 364,911 字 ｜ **来源** Project Gutenberg
+**规模** 31 章 · 364,911 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/028bffa6d138/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（364,911 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 22,806 字。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-toc-title-list），拼接正文 9,516 行。 |
+| 篇幅分布 | 平均每章 11,746 字；最长 V. AN EMOTIONAL MAZE（26,143 字），最短 XVIII. THE ANTIVENIN（5,343 字）。 |
+| 起止 | 始于「I. A CAMERA CRIME」，止于「XXXII. CAMERA EVIDENCE」。 |
 | 原文溯源 | `cache/epub/5270/pg5270.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. SCENE 1
-2. SCENE 2
-3. SCENE 3
-4. SCENE 4
-5. SCENE 5
-6. SCENE 6
-7. SCENE 7
-8. SCENE 8
-9. SCENE 9
-10. SCENE 10
+1. I. A CAMERA CRIME
+2. II. THE TINY SCRATCH
+3. III. TANGLED MOTIVES
+4. IV. THE FATAL SCRIPT
+5. V. AN EMOTIONAL MAZE
+6. VII. ENID FAYE
+7. VIII. LAWRENCE MILLARD
+8. IX. WHITE-LIGHT SHADOWS
+9. X. CHEMICAL RESEARCH
+10. XI. FORESTALLED
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/028bffa6d138/)
+> 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/028bffa6d138/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

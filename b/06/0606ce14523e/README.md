@@ -11,18 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（33,011 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,252 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-caps-sections），拼接正文 1,188 行。 |
+| 篇幅分布 | 平均每章 8,033 字。 |
 | 原文溯源 | `cache/epub/53387/pg53387.txt`（Project Gutenberg） |
 
 ## 章节目录（前 4 章）
 
 1. SCENE I.
-2. SCENE II.
-3. SCENE III.
-4. SCENE IV.
+2. “RUTH M. BROWN.”
+3. SEVEN MALES AND THREE FEMALES
+4. MUSICAL SKETCHES FOR YOUNG LADIES
 
 > 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/0606ce14523e/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

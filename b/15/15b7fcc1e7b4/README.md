@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（257,720 字）。 |
-| 分章依据 | 按「章」标记切分为 5 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 51,544 字；最长 CHAPTER III.（81,122 字），最短 CHAPTER II.（29,607 字）。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-chapter），拼接正文 5,505 行。 |
+| 篇幅分布 | 平均每章 50,484 字；最长 APPENDIX.（98,401 字），最短 CHAPTER IV.（10,127 字）。 |
 | 原文溯源 | `cache/epub/30238/pg30238.txt`（Project Gutenberg） |
 
 ## 章节目录（前 5 章）
@@ -21,9 +21,9 @@
 2. CHAPTER II.
 3. CHAPTER III.
 4. CHAPTER IV.
-5. Great resistance might, perhaps, be made
+5. APPENDIX.
 
 > 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/15b7fcc1e7b4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

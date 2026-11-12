@@ -1,7 +1,7 @@
 # Lord Stranleigh Abroad
 
-**作者** Barr, Robert, 1850-1912 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 13 段 · 261,012 字 ｜ **来源** Project Gutenberg
+**作者** Barr, Robert, 1850-1912 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 261,012 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/03f39e098641/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（261,012 字）。 |
-| 分章依据 | 按「段」标记切分为 13 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,077 字；最长 Stranleigh made no reply, but continued gazing at the intrud（39,779 字），最短 VIOLET DUNSTAN.（616 字）。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-toc-title-list），拼接正文 7,531 行。 |
+| 篇幅分布 | 平均每章 37,127 字；最长 VII.（62,338 字），最短 II.（29,696 字）。 |
+| 起止 | 始于「I.」，止于「VII.」。 |
 | 原文溯源 | `cache/epub/32185/pg32185.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 7 章）
 
-1. Stranleigh made no reply, but continued gazing at the intrud
-2. A slight shade of perplexity came into the young earl's face
-3. "We will cross the ferry, and run up along the Canadian shor
-4. "That was the first spoke in my wheel. Mr. Langdon was a cap
-5. "Yes; that was Miss Maturin's dam."
-6. "I am happy to meet you, Lord Stranleigh, and if you'll excu
-7. "That would be the _Thunerhof_," she said. "I went to a much
-8. The men resided in a huge bunk house, which consisted of one
-9. "No, I haven't, but I expect to be in possession of that inf
-10. He made directly down the hill to the farm house by the stre
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
 
-> 共 13 段，[完整目录与正文 →](https://www.bqgmz.top/b/03f39e098641/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/03f39e098641/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

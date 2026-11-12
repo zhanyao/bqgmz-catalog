@@ -1,7 +1,7 @@
 # Le voyage rustique
 
-**作者** Silvestre, Charles, 1889-1948 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 10 段 · 214,385 字 ｜ **来源** Project Gutenberg
+**作者** Silvestre, Charles, 1889-1948 ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 16 章 · 214,385 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/16b282c6feca/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（214,385 字）。 |
-| 分章依据 | 按「段」标记切分为 10 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,438 字；最长 --C’est-il pas malheureux! Vous la connaissez... C’est la fe（39,609 字），最短 Près d’une route, où le gel avait saisi les empreintes des r（14,531 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-roman-bare），拼接正文 5,005 行。 |
+| 篇幅分布 | 平均每章 13,330 字；最长 XI（22,005 字），最短 II（10,730 字）。 |
 | 原文溯源 | `cache/epub/79496/pg79496.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. --C’est-il pas malheureux! Vous la connaissez... C’est la fe
-2. Ce soir, j’ai accompagné la métayère Jeannette et ses deux f
-3. Une roulotte, peinte en vert, s’est arrêtée sur la place du
-4. Blanchette accourut, mais Léonard la repoussa, tandis qu’il
-5. --J’allais donc faire un tour dans les champs... L’air, ça m
-6. Près de la porte, un coq fait le beau; un vent léger l’ébour
-7. En ce temps-là, elle avait réussi à former un troupeau de mo
-8. --L’autre jour, Bravaud, le marchand de bœufs qui n’avait ja
-9. Il peut être deux heures du soir. Un énorme coq au plumage r
-10. Près d’une route, où le gel avait saisi les empreintes des r
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 10 段，[完整目录与正文 →](https://www.bqgmz.top/b/16b282c6feca/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/16b282c6feca/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Josef Balsamo: Historiallinen romaani Ludvig XV:n hovista
 
-**作者** Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888; Lehtonen, Joel, 1881-1934 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 130 题 · 878,106 字 ｜ **来源** Project Gutenberg
+**作者** Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888; Lehtonen, Joel, 1881-1934 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 20 部分 · 878,106 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/05fd9452ce4c/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（878,106 字）。 |
-| 分章依据 | 按「题」标记切分为 130 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,754 字。 |
+| 分章依据 | 按「部分」标记切分为 20 部分（fallback-chunk），拼接正文 26,968 行。 |
+| 篇幅分布 | 平均每部分 43,905 字；最长 第 10 部分（44,571 字），最短 第 20 部分（35,235 字）。 |
 | 原文溯源 | `cache/epub/54095/pg54095.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 部分）
 
-1. JOSEF BALSAMO
-2. Historiallinen romaani Ludvig XV:n hovista
-3. ALEXANDRE DUMAS
-4. Ranskankielestä suomentanut
-5. Joel Lehtonen
-6. SISÄLLYS:
-7. ENSIMMÄINEN LUKU
-8. Vanhus
-9. TOINEN LUKU
-10. Kasvientutkija
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 130 题，[完整目录与正文 →](https://www.bqgmz.top/b/05fd9452ce4c/)
+> 共 20 部分，[完整目录与正文 →](https://www.bqgmz.top/b/05fd9452ce4c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

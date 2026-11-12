@@ -1,7 +1,7 @@
 # Spring in a Shropshire Abbey
 
 **作者** Gaskell, Catherine Henrietta Milnes, Lady ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 7 章 · 486,784 字 ｜ **来源** Project Gutenberg
+**规模** 8 章 · 486,784 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0ab9cf13d0b6/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,12 +11,11 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（486,784 字）。 |
-| 分章依据 | 按「章」标记切分为 7 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 69,540 字；最长 CHAPTER I（92,575 字），最短 CHAPTER II（47,045 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER VII」。 |
+| 分章依据 | 按「章」标记切分为 8 章（auto-chapter），拼接正文 12,749 行。 |
+| 篇幅分布 | 平均每章 58,218 字；最长 CHAPTER IV（80,359 字），最短 Appendix by Lady CONSTANCE LYTTON. 27th Edition. Cr. 8vo. 7_s._（27,467 字）。 |
 | 原文溯源 | `cache/epub/46676/pg46676.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 章）
+## 章节目录（前 8 章）
 
 1. CHAPTER I
 2. CHAPTER II
@@ -25,8 +24,9 @@
 5. CHAPTER V
 6. CHAPTER VI
 7. CHAPTER VII
+8. Appendix by Lady CONSTANCE LYTTON. 27th Edition. Cr. 8vo. 7_s._
 
-> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/0ab9cf13d0b6/)
+> 共 8 章，[完整目录与正文 →](https://www.bqgmz.top/b/0ab9cf13d0b6/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

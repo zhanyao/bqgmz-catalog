@@ -1,7 +1,7 @@
 # Strife and Peace
 
-**作者** Bremer, Fredrika, 1801-1865; Howitt, Mary (Mary Botham), 1799-1888 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 12 段 · 256,032 字 ｜ **来源** Project Gutenberg
+**作者** Bremer, Fredrika, 1801-1865; Howitt, Mary (Mary Botham), 1799-1888 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 256,032 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0efe84506380/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（256,032 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,336 字；最长 From the confined situation in which Susanna spent such a we（38,303 字），最短 Friendly reader! Now that thou hast arrived at a happy concl（16,861 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 6,141 行。 |
+| 篇幅分布 | 平均每章 19,079 字。 |
 | 原文溯源 | `cache/epub/20156/pg20156.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. From the confined situation in which Susanna spent such a we
-2. But the spirit of contention did not always reign between Ha
-3. Susanna prayed that she might bring her a glass of milk, and
-4. Harald thought this too good an opportunity to be lost for i
-5. "Oh, indeed!" thought Susanna, "it is thus then that it stan
-6. Silently and unobserved stole Susanna out of the room. She f
-7. "Susanna, I perceive that you are a flatterer. Let us now se
-8. "Aasgaardsreija," answered Harald, smiling, "and it is nothi
-9. They now made preparations for the night, which promised to
-10. "And I became a mother to this child. An own son could not h
+1. OLD NORWAY
+2. HEIMDAL.
+3. THE POULTRY. THE WATER OF STRIFE.
+4. FIRST STRIFE.
+5. MRS. ASTRID.
+6. THE BREWHOUSE.
+7. THE GARRET.
+8. THE DAIRY.
+9. EVENING HOURS.
+10. "But the rudest savages of America," sai
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/0efe84506380/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/0efe84506380/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

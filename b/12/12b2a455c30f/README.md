@@ -1,7 +1,7 @@
 # The anatomy of revolution
 
-**作者** Brinton, Crane, 1898-1968 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 24 段 · 487,715 字 ｜ **来源** Project Gutenberg
+**作者** Brinton, Crane, 1898-1968 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 11 篇 · 487,715 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/12b2a455c30f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（487,715 字）。 |
-| 分章依据 | 按「段」标记切分为 24 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,321 字；最长 All in all, there is no reason why we should feel that the n（39,064 字），最短 Cheka, 133, 137, 207（7,104 字）。 |
+| 分章依据 | 按「篇」标记切分为 11 篇（通用标记切分），拼接正文 10,271 行。 |
+| 篇幅分布 | 平均每篇 43,387 字；最长 I. THE DIAGNOSIS OF PRELIMINARY SIGNS, 38. II. STRUCTURAL WEAKNESSES, ECONOMIC AND POLITICAL, 39. III. THE DESERTION OF THE INTELLECTUALS, 52. IV. CLASSES AND CLASS ANTAGONISMS, 63. V. SUMMARY, 79. _Chapter_ III. FIRST STAGES OF REVOLUTION（69,427 字），最短 FOREWORD（1,329 字）。 |
 | 原文溯源 | `cache/epub/78065/pg78065.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. All in all, there is no reason why we should feel that the n
-2. Of abortive revolutions we have numerous examples. Needless
-3. All this, however, is rather less than what the Marxists see
-4. England may seem at first sight an exception to the desertio
-5. In England, where we have usually been taught to believe tha
-6. Charles I came to the throne in 1624, and almost immediately
-7. This opposition is clearest, and in some ways quite adequate
-8. For our revolutions, then, we may put this last uniformity v
-9. As for the national leaders in the French revolution, they a
-10. On the other hand, revolution not infrequently brings to the
+1. FOREWORD
+2. I. THE NECESSITY FOR A SCIENTIFIC APPROACH, 11. II. THE BARE ELEMENTS OF SCIENTIFIC METHODS, 16. III. THE APPLICATION OF SCIENTIFIC METHODS TO THIS STUDY, 21. IV. LIMITATIONS OF THE SUBJECT, 31. _Chapter_ II. THE OLD REGIMES
+3. I. THE DIAGNOSIS OF PRELIMINARY SIGNS, 38. II. STRUCTURAL WEAKNESSES, ECONOMIC AND POLITICAL, 39. III. THE DESERTION OF THE INTELLECTUALS, 52. IV. CLASSES AND CLASS ANTAGONISMS, 63. V. SUMMARY, 79. _Chapter_ III. FIRST STAGES OF REVOLUTION
+4. I. THE ETERNAL FIGARO, 82. II. THE EVENTS OF THE FIRST STAGES, 85. III. SPONTANEITY OR PLANNING? 94. IV. THE ROLE OF FORCE, 105. V. THE HONEYMOON, 111. _Chapter_ IV. TYPES OF REVOLUTIONISTS
+5. I. THE CLICHÉS, 113. II. ECONOMIC AND SOCIAL POSITION: RANK AND FILE, 117. III. ECONOMIC AND SOCIAL POSITION: LEADERS, 123. IV. CHARACTER AND DISPOSITION, 129. V. SUMMARY, 145. _Chapter_ V. THE RULE OF THE MODERATES
+6. I. THE PROBLEM OF THE MODERATES, 148. II. EVENTS DURING THE RULE OF THE MODERATES, 151. III. DUAL SOVEREIGNTY, 161. IV. WEAKNESSES OF THE MODERATES, 166. V. THE FAILURE OF THE MODERATES, 176. _Chapter_ VI. THE ACCESSION OF THE EXTREMISTS
+7. I. THE COUP D’ÉTAT, 179. II. ORGANIZATION OF THE EXTREMISTS, 181. III. FITNESS OF THE EXTREMISTS, 193. IV. THE MACHINERY OF DICTATORSHIP, 206. _Chapter_ VII. REIGNS OF TERROR AND VIRTUE
+8. I. PERVASIVENESS OF THE TERROR, 212. II. THE TERROR AND THE OUTSIDER, 214. III. THE TERROR AND THE INSIDER: THE RELIGIOUS PARALLEL, 220. IV. WHAT MAKES THE TERROR? 236. _Chapter_ VIII. THERMIDOR
+9. I. UNIVERSALITY OF THE THERMIDOREAN REACTION, 244. II. AMNESTY AND REPRESSION, 247. III. RETURN OF THE CHURCH, 255. IV. THE SEARCH FOR PLEASURE, 261. V. SUMMARY, 270. _Chapter_ IX. A SUMMARY OF THE WORK OF REVOLUTIONS
+10. I. CHANGES IN INSTITUTIONS AND IDEAS, 272. II. SOME TENTATIVE UNIFORMITIES, 286. III. A PARADOX OF REVOLUTION, 299. BIBLIOGRAPHICAL APPENDIX
 
-> 共 24 段，[完整目录与正文 →](https://www.bqgmz.top/b/12b2a455c30f/)
+> 共 11 篇，[完整目录与正文 →](https://www.bqgmz.top/b/12b2a455c30f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

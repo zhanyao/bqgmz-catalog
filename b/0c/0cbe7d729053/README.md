@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（433,005 字）。 |
-| 分章依据 | 按「章」标记切分为 28 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,464 字；最长 CHAPTER XXVI--THE VICTOR AND THE SPOILS（21,825 字），最短 CHAPTER XXVIII--BEING THE EPILOGUE（7,249 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-chapter），拼接正文 10,257 行。 |
+| 篇幅分布 | 平均每章 15,355 字；最长 CHAPTER XXVI--THE VICTOR AND THE SPOILS（21,825 字），最短 CHAPTER XXVIII--BEING THE EPILOGUE（7,249 字）。 |
 | 起止 | 始于「CHAPTER I--HOW THE BOSS CAME TO NEW YORK」，止于「CHAPTER XXVIII--BEING THE EPILOGUE」。 |
 | 原文溯源 | `cache/epub/51912/pg51912.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/0cbe7d729053/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

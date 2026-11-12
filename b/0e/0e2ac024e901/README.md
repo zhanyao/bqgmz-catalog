@@ -1,7 +1,7 @@
 # Muntra minnen från mellersta Tavastland
 
-**作者** Kauffmann, Hermann, 1840-1908 ｜ **国家/地区** 瑞典 ｜ **体例** 段  
-**规模** 45 段 · 915,023 字 ｜ **来源** Project Gutenberg
+**作者** Kauffmann, Hermann, 1840-1908 ｜ **国家/地区** 瑞典 ｜ **体例** 章  
+**规模** 69 章 · 915,023 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0e2ac024e901/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（915,023 字）。 |
-| 分章依据 | 按「段」标记切分为 45 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,333 字；最长 Byggmästaren hade hört, att det fanns godt om stenrösen och （38,507 字），最短 Alla hos oss förekommande mesar, talgmesen (Parus major), kä（13,963 字）。 |
+| 分章依据 | 按「章」标记切分为 69 章（auto-toc-title-list），拼接正文 18,439 行。 |
+| 篇幅分布 | 平均每章 13,218 字；最长 Slutord.（88,483 字），最短 Höststämning.（460 字）。 |
 | 原文溯源 | `cache/epub/73656/pg73656.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Byggmästaren hade hört, att det fanns godt om stenrösen och
-2. Bruksförvaltaren hade varit klok nog att icke följa med ombo
-3. För att nu som slutkläm berätta ett par af de många lustiga
-4. Det intryck denna storartade omgifning gjorde på mig motsvar
-5. Sysselsätt med detta elände hade jag låtit draget släpa efte
-6. Länge kunde det icke ha varit, som jag fått sofva i ro, då j
-7. Ändtligen fram mot kl. 1/2 12 ljödo fanfarer åtföljda af hur
-8. Vi ombord voro öfvertygade om att T:s företag icke skulle me
-9. Jag hade undervisat eldaren i kaffeberedningskonsten och fra
-10. Samma dag vid tolftiden samlades vi, "Ilmarinens" befäl och
+1. Till läsaren.
+2. Huru det bar till att linnefabriken i Tammerfors blef anlagd.
+3. Första ångbåten på Näsijärvi.
+4. Första proffärden med "Ahti".
+5. Den officiella proffärden med "Ahti".
+6. Några historier från ångbåten "Ahti".
+7. Den första ångbåten på Pyhäjärvi.
+8. Den officiella proffärden med "Laukko".
+9. Ankomst till Tammerfors och fågellifvet i trakten.
+10. Den första propellerångbåten på tavastländska vatten.
 
-> 共 45 段，[完整目录与正文 →](https://www.bqgmz.top/b/0e2ac024e901/)
+> 共 69 章，[完整目录与正文 →](https://www.bqgmz.top/b/0e2ac024e901/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

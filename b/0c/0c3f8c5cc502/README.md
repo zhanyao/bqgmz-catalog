@@ -1,7 +1,7 @@
 # Une semaine à la Trappe: Sainte-Marie du Désert
 
-**作者** Monbrun, Alfred ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 27 题 · 173,095 字 ｜ **来源** Project Gutenberg
+**作者** Monbrun, Alfred ｜ **国家/地区** 法国 ｜ **体例** 章  
+**规模** 20 章 · 173,095 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0c3f8c5cc502/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（173,095 字）。 |
-| 分章依据 | 按「题」标记切分为 27 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,410 字。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-roman-bare），拼接正文 3,830 行。 |
+| 篇幅分布 | 平均每章 8,636 字；最长 XV（15,751 字），最短 XX（1,635 字）。 |
 | 原文溯源 | `cache/epub/65595/pg65595.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SAINTE-MARIE DU DÉSERT
-2. Propriété et droit de traduction réservés
-3. AU
-4. RÉVÉRENDISSIME PÈRE MARIE
-5. ABBÉ DE SAINTE-MARIE DU DÉSERT
-6. HOMMAGE DE PROFOND RESPECT
-7. A. M.
-8. UNE SEMAINE A LA TRAPPE
-9. II
-10. III
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 27 题，[完整目录与正文 →](https://www.bqgmz.top/b/0c3f8c5cc502/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/0c3f8c5cc502/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

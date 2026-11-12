@@ -1,7 +1,7 @@
 # Hardware, estimating, and mill design
 
-**作者** Lowndes, William S. (William Shepherd), 1866- [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 194 题 · 426,673 字 ｜ **来源** Project Gutenberg
+**作者** Lowndes, William S. (William Shepherd), 1866- [Editor] ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 105 篇 · 426,673 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/06c6351fa035/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（426,673 字）。 |
-| 分章依据 | 按「题」标记切分为 194 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 2,199 字。 |
+| 分章依据 | 按「篇」标记切分为 105 篇（通用标记切分），拼接正文 11,972 行。 |
+| 篇幅分布 | 平均每篇 3,835 字。 |
 | 原文溯源 | `cache/epub/72897/pg72897.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. 223 ILLUSTRATIONS
-2. PREFACE
-3. INTERNATIONAL TEXTBOOK COMPANY
-4. CONTENTS
-5. INDEX i
-6. BUILDERS’ HARDWARE
-7. STAPLE HARDWARE
-8. INTRODUCTION
-9. CUT AND WIRE NAILS
-10. TABLE I
+1. PREFACE
+2. CONTENTS
+3. ESTIMATING AND CALCULATING QUANTITIES
+4. MILL DESIGN
+5. INTRODUCTION
+6. CUT AND WIRE NAILS
+7. STANDARD WIRE GAUGES AND THEIR DECIMAL EQUIVALENTS OF AN INCH
+8. WOOD SCREWS, EXPANSION AND SPECIAL BOLTS
+9. SASH WEIGHTS
+10. METALS AND THEIR MANIPULATION
 
-> 共 194 题，[完整目录与正文 →](https://www.bqgmz.top/b/06c6351fa035/)
+> 共 105 篇，[完整目录与正文 →](https://www.bqgmz.top/b/06c6351fa035/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

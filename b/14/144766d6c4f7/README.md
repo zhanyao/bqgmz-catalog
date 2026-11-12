@@ -1,7 +1,7 @@
 # Histoire du Consulat et de l'Empire, (Vol. 09 / 20) faisant suite à l'Histoire de la Révolution Française
 
-**作者** Thiers, Adolphe, 1797-1877 ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 43 段 · 875,330 字 ｜ **来源** Project Gutenberg
+**作者** Thiers, Adolphe, 1797-1877 ｜ **国家/地区** 法国 ｜ **体例** 部分  
+**规模** 21 部分 · 875,330 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/144766d6c4f7/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（875,330 字）。 |
-| 分章依据 | 按「段」标记切分为 43 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,356 字；最长 À Oviedo, capitale des Asturies, on était déjà fort agité pa（39,775 字），最短 FIN DU LIVRE TRENTE-TROISIÈME ET DU TOME NEUVIÈME.（14,323 字）。 |
+| 分章依据 | 按「部分」标记切分为 21 部分（fallback-chunk），拼接正文 17,776 行。 |
+| 篇幅分布 | 平均每部分 41,682 字；最长 第 11 部分（42,790 字），最短 第 21 部分（26,064 字）。 |
 | 原文溯源 | `cache/epub/43313/pg43313.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. À Oviedo, capitale des Asturies, on était déjà fort agité pa
-2. Thomas de Morla, hypocrite flatteur de la multitude, cachant
-3. Les autres villes de la Catalogne, Girone, Manresa, Lerida,
-4. Le général Lasalle avait balayé les bandes d'insurgés postée
-5. [Note 4: Ces chiffres sont pris sur les états les plus authe
-6. Pour se faire une idée de cette situation, il faut savoir qu
-7. L'état-major français recueillait ces bruits, et, bien qu'il
-8. La nouvelle de cette résistance causa dans tout le nord de l
-9. Le 28, dès la pointe du jour, le maréchal Moncey, après avoi
-10. La vue de l'ennemi réjouit les soldats français en les tiran
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 43 段，[完整目录与正文 →](https://www.bqgmz.top/b/144766d6c4f7/)
+> 共 21 部分，[完整目录与正文 →](https://www.bqgmz.top/b/144766d6c4f7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

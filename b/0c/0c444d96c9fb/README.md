@@ -1,7 +1,7 @@
 # Connected Poems
 
-**作者** Seabridge, Charles ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 143 题 · 74,187 字 ｜ **来源** Project Gutenberg
+**作者** Seabridge, Charles ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 136 章 · 74,187 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0c444d96c9fb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（74,187 字）。 |
-| 分章依据 | 按「题」标记切分为 143 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 518 字。 |
+| 分章依据 | 按「章」标记切分为 136 章（auto-roman-bare），拼接正文 2,522 行。 |
+| 篇幅分布 | 平均每章 542 字；最长 CXXXVII.（1,108 字），最短 CXXIII.（482 字）。 |
+| 起止 | 始于「I.」，止于「CXXXVII.」。 |
 | 原文溯源 | `cache/epub/51770/pg51770.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. CONNECTED POEMS.
-2. CONNECTED POEMS.
-3. BY
-4. CHARLES SEABRIDGE.
-5. CONNECTED POEMS.
-6. I.
-7. II.
-8. III.
-9. IV.
-10. V.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 143 题，[完整目录与正文 →](https://www.bqgmz.top/b/0c444d96c9fb/)
+> 共 136 章，[完整目录与正文 →](https://www.bqgmz.top/b/0c444d96c9fb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Kyökissä: Huvinäytelmä 1:ssä näytöksessä
 
-**作者** Benedix, Roderich, 1811-1873 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 34 题 · 49,090 字 ｜ **来源** Project Gutenberg
+**作者** Benedix, Roderich, 1811-1873 ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 2 部分 · 49,090 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0939c132c668/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,16 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（49,090 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 1,443 字。 |
+| 分章依据 | 按「部分」标记切分为 2 部分（fallback-chunk），拼接正文 1,875 行。 |
+| 篇幅分布 | 平均每部分 24,545 字。 |
 | 原文溯源 | `cache/epub/38908/pg38908.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 2 部分）
 
-1. E-text prepared by Tapio Riikonen
-2. KYÖKISSÄ
-3. Huvinäytelmä 1:ssä näytöksessä
-4. RODERICH BENEDIX
-5. Mukaillut Tyko Hagman
-6. JÄSENET:
-7. HANNA. Niinkö sinä sanoit "hyvää päivää?"
-8. HANNA. Oikeastaan ei mun pitäisi --
-9. HANNA. Jos tahdot luvata --
-10. JUHO. Pian, pian, suukkonen! --
+1. 第 1 部分
+2. 第 2 部分
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/0939c132c668/)
+> 共 2 部分，[完整目录与正文 →](https://www.bqgmz.top/b/0939c132c668/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

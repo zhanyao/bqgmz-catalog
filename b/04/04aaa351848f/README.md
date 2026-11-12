@@ -1,7 +1,7 @@
 # The Inspector-General
 
-**作者** Gogol, Nikolai Vasilevich, 1809-1852; Seltzer, Thomas, 1875?-1943 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 16 章 · 136,380 字 ｜ **来源** Project Gutenberg
+**作者** Gogol, Nikolai Vasilevich, 1809-1852; Seltzer, Thomas, 1875?-1943 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 幕  
+**规模** 5 幕 · 136,380 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/04aaa351848f/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（136,380 字）。 |
-| 分章依据 | 按「章」标记切分为 16 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,523 字。 |
+| 分章依据 | 按「幕」标记切分为 5 幕（auto-act），拼接正文 4,297 行。 |
+| 篇幅分布 | 平均每幕 24,119 字；最长 ACT IV（32,567 字），最短 ACT II（20,297 字）。 |
 | 原文溯源 | `cache/epub/3735/pg3735.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 5 幕）
 
-1. SCENE I
-2. SCENE II
-3. SCENE III
-4. SCENE IV
-5. SCENE V
-6. SCENE VI
-7. SCENE VII
-8. SCENE VIII
-9. SCENE IX
-10. SCENE X
+1. ACT I
+2. ACT II
+3. ACT III
+4. ACT IV
+5. ACT V
 
-> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/04aaa351848f/)
+> 共 5 幕，[完整目录与正文 →](https://www.bqgmz.top/b/04aaa351848f/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

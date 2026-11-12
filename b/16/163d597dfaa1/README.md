@@ -1,7 +1,7 @@
 # Kitty's Class Day and Other Stories
 
-**作者** Alcott, Louisa May, 1832-1888 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 50 题 · 341,976 字 ｜ **来源** Project Gutenberg
+**作者** Alcott, Louisa May, 1832-1888 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 19 章 · 341,976 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/163d597dfaa1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（341,976 字）。 |
-| 分章依据 | 按「题」标记切分为 50 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 6,839 字。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-roman-bare），拼接正文 8,953 行。 |
+| 篇幅分布 | 平均每章 16,591 字；最长 III（部2）（100,767 字），最短 III（部4）（5,573 字）。 |
 | 原文溯源 | `cache/epub/10360/pg10360.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. KITTY'S CLASS DAY AND OTHER STORIES
-2. By
-3. Louisa M. Alcott
-4. Originally published under the title
-5. PREFACE
-6. L. M. ALCOTT.
-7. CONTENTS
-8. PROVERB STORIES
-9. KITTY'S CLASS DAY
-10. AUNT KIPP
+1. I
+2. II
+3. III
+4. I（部2）
+5. II（部2）
+6. III（部2）
+7. I（部3）
+8. II（部3）
+9. III（部3）
+10. IV（部3）
 
-> 共 50 题，[完整目录与正文 →](https://www.bqgmz.top/b/163d597dfaa1/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/163d597dfaa1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

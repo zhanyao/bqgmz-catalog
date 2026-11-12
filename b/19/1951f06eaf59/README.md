@@ -1,7 +1,7 @@
 # Emil Rathenau und das elektrische Zeitalter
 
-**作者** Pinner, Felix, 1880-1942; Ostwald, Wilhelm, 1853-1932 [Editor] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 41 段 · 833,969 字 ｜ **来源** Project Gutenberg
+**作者** Pinner, Felix, 1880-1942; Ostwald, Wilhelm, 1853-1932 [Editor] ｜ **国家/地区** 德国 ｜ **体例** 篇  
+**规模** 380 篇 · 833,969 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1951f06eaf59/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（833,969 字）。 |
-| 分章依据 | 按「段」标记切分为 41 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,340 字；最长 Mit dem Zeugnis für Unterprima verließ Rathenau schließlich （37,504 字），最短 In der +Angestelltenfrage+ war der Standpunkt Rathenaus（13,057 字）。 |
+| 分章依据 | 按「篇」标记切分为 380 篇（通用标记切分），拼接正文 15,770 行。 |
+| 篇幅分布 | 平均每篇 2,194 字。 |
 | 原文溯源 | `cache/epub/55188/pg55188.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 篇）
 
-1. Mit dem Zeugnis für Unterprima verließ Rathenau schließlich
-2. Vorher wünschte Rathenau seine Eltern nach zweijähriger Abwe
-3. Als die Kriegserklärung erfolgte, stand das Geschäft plötzli
-4. Das Bankinstitut, das an der Finanzierung sich beteiligte, w
-5. Aber so stark auch die Anregungen auf dem Gebiete der Maschi
-6. Aber nicht nur in den Zeitumständen, auch in den Charakterei
-7. Werner Siemens wurde im Jahre 1816 in Lenthe in Hannover als
-8. Auch im Kaufmännischen ging Werner v. Siemens nicht ganz mit
-9. Bevor wir uns der Edisonschen Erfindung und ihrer umwälzende
-10. Edison hatte zur Verwertung seiner Patente zunächst zwei Ges
+1. Anmerkungen zur Transkription
+2. Der vorliegende Text wurde anhand der 1918 erschienenen Buchausgabe
+3. gesperrt: +Pluszeichen+
+4. Als die „Akademische Verlagsgesellschaft“ an mich die Aufforderung
+5. Im ganzen war das dokumentarische Material, das einer Bearbeitung
+6. Gerade aber die Erinnerung Mitlebender ist eine schätzenswerte und
+7. Gedenken möchte ich noch der zahlreichen, wenn auch nicht immer ebenso
+8. Dr. Hermann Hasse, Die Allgemeine Elektrizitäts-Gesellschaft und
+9. Conrad Matschoß, Die geschichtliche Entwickelung der Allgemeinen
+10. Conrad Matschoß, Geschichtliche Entwickelung der Berliner
 
-> 共 41 段，[完整目录与正文 →](https://www.bqgmz.top/b/1951f06eaf59/)
+> 共 380 篇，[完整目录与正文 →](https://www.bqgmz.top/b/1951f06eaf59/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Montezuma: An Epic on the Origin and Fate of the Aztec Nation
 
-**作者** Richmond, Hiram Hoyt, 1843- ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 8 段 · 170,658 字 ｜ **来源** Project Gutenberg
+**作者** Richmond, Hiram Hoyt, 1843- ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 170,658 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/01440d2b1584/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,22 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（170,658 字）。 |
-| 分章依据 | 按「段」标记切分为 8 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,332 字；最长 "'Filled out his measure with a lesser life,（39,894 字），最短 "Yet I cannot have wandered so greatly,（10,961 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-toc-title-list），拼接正文 5,514 行。 |
+| 篇幅分布 | 平均每章 5,647 字。 |
 | 原文溯源 | `cache/epub/32110/pg32110.txt`（Project Gutenberg） |
 
-## 章节目录（前 8 段）
+## 章节目录（前 10 章）
 
-1. "'Filled out his measure with a lesser life,
-2. Near the rim of Karoun, where the pyramids drink the dew tha
-3. And beheld from thy face, _all_ the fatherhood shine,
-4. To South, and West, they turn their fateful way
-5. Mars, or Mexitli[E]: though the one be crowned
-6. He felt that he was meeting destiny,
-7. Catalina lived but about three months after her arrival at M
-8. "Yet I cannot have wandered so greatly,
+1. EGYPT.
+2. The Dispersal at Shinar
+3. Sojourn in Egypt
+4. Sun Worship
+5. Expulsion from Egypt
+6. Mizraim and Lud
+7. The Mourning Shepherds
+8. The Journey
+9. The Valley of the Mississippi
+10. The Morning Song of the Mound Builders
 
-> 共 8 段，[完整目录与正文 →](https://www.bqgmz.top/b/01440d2b1584/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/01440d2b1584/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

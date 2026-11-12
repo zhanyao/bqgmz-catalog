@@ -1,7 +1,7 @@
 # Reisebilder und verschiedene Skizzen
 
-**作者** Twain, Mark, 1835-1910; Schrödter, H., 1872-1957 [Illustrator]; Jacobi, Margarete, -1910 [Translator]; Koch, Henny, 1854-1925 [Translator]; Ottmann, L. (Louis) [Translator] ｜ **国家/地区** 德国 ｜ **体例** 段  
-**规模** 20 段 · 406,618 字 ｜ **来源** Project Gutenberg
+**作者** Twain, Mark, 1835-1910; Schrödter, H., 1872-1957 [Illustrator]; Jacobi, Margarete, -1910 [Translator]; Koch, Henny, 1854-1925 [Translator]; Ottmann, L. (Louis) [Translator] ｜ **国家/地区** 德国 ｜ **体例** 章  
+**规模** 30 章 · 406,618 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0a9ec65d36e1/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（406,618 字）。 |
-| 分章依据 | 按「段」标记切分为 20 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,330 字；最长 Oefters versuchten wir zu erraten, zu welcher Nation die Leu（39,930 字），最短 Ohne auf die Vorstellungen seiner Freunde zu achten, daß er （6,034 字）。 |
+| 分章依据 | 按「章」标记切分为 30 章（auto-toc-title-list），拼接正文 9,523 行。 |
+| 篇幅分布 | 平均每章 11,655 字；最长 Anhang:（64,004 字），最短 Trauben- und Molkenkur（1,900 字）。 |
 | 原文溯源 | `cache/epub/65212/pg65212.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Oefters versuchten wir zu erraten, zu welcher Nation die Leu
-2. »Wirklich? -- Ich komme aus Neu-England, und bin in Neu-Bloo
-3. Der Ton dieser Worte fiel meinem Reisebegleiter Harris auf;
-4. In Zeit von fünfzehn Minuten hatten die 116 Mann, die ich be
-5. Es ist jedoch nicht gut, sich zuviel mit den trennbaren Zeit
-6. Auf unserer Neckarreise in Heilbronn angekommen, stiegen wir
-7. Nach Verlauf einer halben Stunde, kaum sechs Zoll von ihrem
-8. Man hört und lernt doch wirklich die wunderbarsten Dinge auf
-9. Wie sehr man sich auch von allen Seiten über die Einrichtung
-10. Ein allgemeines Schweigen herrschte. Ich versuchte einigemal
+1. Seite
+2. Kinderspiele
+3. Peinliche Ohrenmusik
+4. Die Schrecken der deutschen Sprache
+5. Berliner Eindrücke
+6. Eine schlaflose Nacht
+7. Rezept für Schwarzwäldergeschichten
+8. Die Ameise
+9. Eine Episode in Baden-Baden
+10. Wagnermusik
 
-> 共 20 段，[完整目录与正文 →](https://www.bqgmz.top/b/0a9ec65d36e1/)
+> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/0a9ec65d36e1/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

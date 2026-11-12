@@ -1,7 +1,7 @@
 # Fer et feu au Soudan, vol. 2 of 2
 
-**作者** Slatin, Rudolf Carl, Freiherr von, 1857-1932; Bettex, Gustave, 1868-1921 [Translator] ｜ **国家/地区** 法国 ｜ **体例** 段  
-**规模** 29 段 · 582,412 字 ｜ **来源** Project Gutenberg
+**作者** Slatin, Rudolf Carl, Freiherr von, 1857-1932; Bettex, Gustave, 1868-1921 [Translator] ｜ **国家/地区** 法国 ｜ **体例** 部分  
+**规模** 14 部分 · 582,412 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0c270e309981/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（582,412 字）。 |
-| 分章依据 | 按「段」标记切分为 29 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,083 字；最长 Il était de haute taille, avait de larges épaules, et une pe（39,713 字），最短 En 1883, au mois de décembre je fus, par la force des circon（1,961 字）。 |
+| 分章依据 | 按「部分」标记切分为 14 部分（fallback-chunk），拼接正文 12,884 行。 |
+| 篇幅分布 | 平均每部分 41,600 字；最长 第 8 部分（42,429 字），最短 第 14 部分（34,519 字）。 |
 | 原文溯源 | `cache/epub/52332/pg52332.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 部分）
 
-1. Il était de haute taille, avait de larges épaules, et une pe
-2. Gordon Pacha se trouva aussitôt son arrivée à Khartoum aux p
-3. «Ami, lui dis-je, cet homme est étranger et c’est ton hôte.
-4. Grâce à la foule immense qui s’était jointe au Mahdi, le blé
-5. Le 15 janvier 1885, les Mahdistes prirent donc possession du
-6. Le mercredi, à dix heures du matin environ, des salves d’art
-7. Il invita Lupton à joindre sa main aux nôtres et nous arrach
-8. Ils ne rencontrèrent aucune résistance; partout on se rendit
-9. Le soir nous quittâmes Omm Derman sur le vapeur «Borden» qui
-10. La rencontre fut terrible; les Abyssins étaient bien dix foi
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 29 段，[完整目录与正文 →](https://www.bqgmz.top/b/0c270e309981/)
+> 共 14 部分，[完整目录与正文 →](https://www.bqgmz.top/b/0c270e309981/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

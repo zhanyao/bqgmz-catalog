@@ -1,7 +1,7 @@
 # The history & traditions of the Moorfields Eye Hospital
 
 **作者** Collins, E. Treacher (Edward Treacher), 1862-1937 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 9 章 · 367,370 字 ｜ **来源** Project Gutenberg
+**规模** 13 章 · 367,370 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0209cd611921/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,11 +11,11 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（367,370 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 40,818 字；最长 CHAPTER VIII（101,535 字），最短 CHAPTER V（22,683 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-chapter），拼接正文 8,914 行。 |
+| 篇幅分布 | 平均每章 27,868 字；最长 CHAPTER XII（43,504 字），最短 APPENDIX（13,062 字）。 |
 | 原文溯源 | `cache/epub/78625/pg78625.txt`（Project Gutenberg） |
 
-## 章节目录（前 9 章）
+## 章节目录（前 10 章）
 
 1. CHAPTER I
 2. CHAPTER II
@@ -25,9 +25,10 @@
 6. CHAPTER VI
 7. CHAPTER VII
 8. CHAPTER VIII
-9. Three matrons at the Hospital resigned f
+9. CHAPTER IX
+10. CHAPTER X
 
-> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/0209cd611921/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/0209cd611921/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

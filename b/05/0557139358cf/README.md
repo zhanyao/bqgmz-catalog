@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（163,547 字）。 |
-| 分章依据 | 按「章」标记切分为 22 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,433 字；最长 CHAPTER XXII. SELF-EXTENDING PRINCIPLES（24,576 字），最短 CHAPTER XI. SECULAR INSTRUCTION DISTINCT FROM SECULARISM（3,819 字）。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-chapter），拼接正文 3,817 行。 |
+| 篇幅分布 | 平均每章 6,853 字；最长 CHAPTER XXII. SELF-EXTENDING PRINCIPLES（24,576 字），最短 CHAPTER XI. SECULAR INSTRUCTION DISTINCT FROM SECULARISM（3,819 字）。 |
 | 起止 | 始于「CHAPTER I. OPEN THOUGHT THE FIRST STEP TO INTELLIGENCE」，止于「CHAPTER XXII. SELF-EXTENDING PRINCIPLES」。 |
 | 原文溯源 | `cache/epub/38104/pg38104.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/0557139358cf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The History of Painting in Italy, Vol. 2 (of 6) From the Period of the Revival of the Fine Arts to the End of the Eighteenth Century
 
-**作者** Lanzi, Luigi, 1732-1810; Roscoe, Thomas, 1791-1871 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 28 段 · 562,910 字 ｜ **来源** Project Gutenberg
+**作者** Lanzi, Luigi, 1732-1810; Roscoe, Thomas, 1791-1871 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 11 章 · 562,910 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0bff11cd5427/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（562,910 字）。 |
-| 分章依据 | 按「段」标记切分为 28 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,103 字；最长 The school of Fabriano, which seems very ancient in Picenum,（38,918 字），最短 To these we may add other artists of the island itself, born（2,922 字）。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-part），拼接正文 10,677 行。 |
+| 篇幅分布 | 平均每章 51,074 字；最长 BOOK III.（5）（57,433 字），最短 BOOK IV.（3）（19,297 字）。 |
 | 原文溯源 | `cache/epub/34585/pg34585.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. The school of Fabriano, which seems very ancient in Picenum,
-2. Vasari has added to the life of Pinturicchio that of Girolam
-3. We are now arrived at the most brilliant period, not only of
-4. His rival Michelangiolo, too, and his party, contributed not
-5. In the midst of such a variety of occupations, Raffaello did
-6. Other things might contribute to the beauty of his works, as
-7. Benvenuto Tisi, of Ferrara, or as he is generally called, Il
-8. The actual state of the art at this period may be ascertaine
-9. The school of this artist received distinction from Passigna
-10. The states of the church possessed in this epoch painters of
+1. BOOK III.（1）
+2. BOOK III.（2）
+3. BOOK III.（3）
+4. BOOK III.（4）
+5. BOOK III.（5）
+6. BOOK III.（6）
+7. BOOK III.（7）
+8. BOOK III.（8）
+9. BOOK IV.（1）
+10. BOOK IV.（2）
 
-> 共 28 段，[完整目录与正文 →](https://www.bqgmz.top/b/0bff11cd5427/)
+> 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/0bff11cd5427/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

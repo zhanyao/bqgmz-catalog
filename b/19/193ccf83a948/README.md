@@ -1,7 +1,7 @@
 # Encyclopaedia Britannica, 11th Edition, "Lord Chamberlain" to "Luqman" Volume 17, Slice 1
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 51 题 · 1,000,344 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 25 章 · 1,000,344 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/193ccf83a948/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（1,000,344 字）。 |
-| 分章依据 | 按「题」标记切分为 51 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 19,614 字。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-caps-sections），拼接正文 21,082 行。 |
+| 篇幅分布 | 平均每章 39,755 字；最长 (W. M. R.)（65,346 字），最短 1872).     (A. W. H.*)（1,497 字）。 |
 | 原文溯源 | `cache/epub/43427/pg43427.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. THE
-2. ENCYCLOPÆDIA BRITANNICA
-3. ELEVENTH EDITION
-4. COPYRIGHT
-5. THE
-6. ENCYCLOPÆDIA BRITANNICA
-7. ELEVENTH EDITION
-8. New York
-9. VOLUME XVII, SLICE I
-10. Lord Chamberlain to Luqman
+1. IV.). (J. H. R.)（1）
+2. IV.). (J. H. R.)（2）
+3. IV.). (J. H. R.)（3）
+4. IV.). (J. H. R.)（4）
+5. (W. A. B. C.)
+6. FOOTNOTE:
+7. (A. W. H.*)
+8. 1872). (A. W. H.*)
+9. II.
+10. FOOTNOTE:
 
-> 共 51 题，[完整目录与正文 →](https://www.bqgmz.top/b/193ccf83a948/)
+> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/193ccf83a948/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

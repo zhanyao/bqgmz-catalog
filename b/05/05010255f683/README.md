@@ -1,7 +1,7 @@
 # Suuri arvoitus
 
-**作者** London, Jack, 1876-1916; A.I.R. [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 11 题 · 176,806 字 ｜ **来源** Project Gutenberg
+**作者** London, Jack, 1876-1916; A.I.R. [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 5 部分 · 176,806 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/05010255f683/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（176,806 字）。 |
-| 分章依据 | 按「题」标记切分为 11 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 16,073 字。 |
+| 分章依据 | 按「部分」标记切分为 5 部分（fallback-chunk），拼接正文 3,926 行。 |
+| 篇幅分布 | 平均每部分 35,361 字；最长 第 3 部分（44,115 字），最短 第 5 部分（735 字）。 |
 | 原文溯源 | `cache/epub/69697/pg69697.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 部分）
 
-1. SUURI ARVOITUS
-2. Jack London
-3. Suomentanut
-4. A.I.R.
-5. SUURI ARVOITUS.
-6. HÄNEN ISIENSÄ JUMALA
-7. SIWASH-NAINEN.
-8. SUURI KYSYMYS.
-9. I.
-10. II.
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
 
-> 共 11 题，[完整目录与正文 →](https://www.bqgmz.top/b/05010255f683/)
+> 共 5 部分，[完整目录与正文 →](https://www.bqgmz.top/b/05010255f683/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

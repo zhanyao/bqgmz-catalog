@@ -1,7 +1,7 @@
 # Lucien Leuwen; ou, l'Amarante et le Noir. Tome Second
 
-**作者** Stendhal, 1783-1842; Mitty, Jean de, 1864-1911 [Editor]; Vox, Maximilien, 1894-1974 [Illustrator] ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 34 题 · 352,261 字 ｜ **来源** Project Gutenberg
+**作者** Stendhal, 1783-1842; Mitty, Jean de, 1864-1911 [Editor]; Vox, Maximilien, 1894-1974 [Illustrator] ｜ **国家/地区** 法国 ｜ **体例** 部分  
+**规模** 9 部分 · 352,261 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/163ce22a8faf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（352,261 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,360 字。 |
+| 分章依据 | 按「部分」标记切分为 9 部分（fallback-chunk），拼接正文 9,124 行。 |
+| 篇幅分布 | 平均每部分 39,140 字；最长 第 1 部分（42,306 字），最短 第 9 部分（14,968 字）。 |
 | 原文溯源 | `cache/epub/60033/pg60033.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 9 部分）
 
-1. STENDHAL
-2. LUCIEN LEUWEN
-3. OU
-4. L'AMARANTE ET LE NOIR
-5. Oeuvre posthume reconstituée par
-6. Jean de Mitty
-7. Ornée de bois dessinés et gravés par
-8. Maximilien Vox
-9. TOME SECOND
-10. À PARIS
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/163ce22a8faf/)
+> 共 9 部分，[完整目录与正文 →](https://www.bqgmz.top/b/163ce22a8faf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

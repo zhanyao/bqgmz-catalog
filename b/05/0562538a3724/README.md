@@ -1,7 +1,7 @@
 # Newfoundland Verse
 
-**作者** Pratt, E. J. (Edwin John), 1882-1964 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 124 题 · 85,545 字 ｜ **来源** Project Gutenberg
+**作者** Pratt, E. J. (Edwin John), 1882-1964 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 15 章 · 85,545 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0562538a3724/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（85,545 字）。 |
-| 分章依据 | 按「题」标记切分为 124 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 689 字。 |
+| 分章依据 | 按「章」标记切分为 15 章（auto-roman-bare），拼接正文 3,458 行。 |
+| 篇幅分布 | 平均每章 5,383 字。 |
 | 原文溯源 | `cache/epub/59896/pg59896.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Produced by Al Haines
-2. CONTENTS
-3. Sea Variations
-4. MORNING
-5. MASKS
-6. THE DESTROYER
-7. IN RETREAT
-8. RE-BORN
-9. THE DEAD CALM
-10. The Toll of the Bells
+1. I
+2. II
+3. III
+4. IV
+5. V.
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 124 题，[完整目录与正文 →](https://www.bqgmz.top/b/0562538a3724/)
+> 共 15 章，[完整目录与正文 →](https://www.bqgmz.top/b/0562538a3724/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # The American Missionary — Volume 41, No. 5, May, 1887
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 90,515 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 8 篇 · 90,515 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/15e95c9bf525/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（90,515 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,628 字。 |
+| 分章依据 | 按「篇」标记切分为 8 篇（通用标记切分），拼接正文 3,275 行。 |
+| 篇幅分布 | 平均每篇 11,037 字。 |
 | 原文溯源 | `cache/epub/56953/pg56953.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 8 篇）
 
-1. * * * * *
-2. Miss Collins’ introduction to work in her new field has been
-3. Amesbury. Union Evan. Ch. $16
-4. This complete costume of original design—novel, elegant and
+1. COMMUNICATIONS
+2. DONATIONS AND SUBSCRIPTIONS
+3. “THE PRAYERS OF THOSE WHO PRAY.”
+4. THE GRAND RIVER MISSION
+5. OTHER SUBJECTS
+6. EUROPE
+7. NEW MECHANICAL PRINCIPLES
+8. THE WHOLE WORLD SAYS:
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/15e95c9bf525/)
+> 共 8 篇，[完整目录与正文 →](https://www.bqgmz.top/b/15e95c9bf525/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Hunting in Many Lands: The Book of the Boone and Crockett Club
 
-**作者** Roosevelt, Theodore, 1858-1919 [Editor]; Grinnell, George Bird, 1849-1938 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 45 题 · 427,162 字 ｜ **来源** Project Gutenberg
+**作者** Roosevelt, Theodore, 1858-1919 [Editor]; Grinnell, George Bird, 1849-1938 [Editor] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 22 章 · 427,162 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/16028d465e4a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（427,162 字）。 |
-| 分章依据 | 按「题」标记切分为 45 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 9,492 字。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-toc-title-list），拼接正文 8,901 行。 |
+| 篇幅分布 | 平均每章 19,086 字。 |
 | 原文溯源 | `cache/epub/37122/pg37122.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. Hunting In Many Lands
-2. EDITORS
-3. Contents
-4. Page
-5. National Park Protective Act 433
-6. Officers of the Boone and Crockett Club 442
-7. List of Members 443
-8. List of Illustrations
-9. Elaphurus Davidianus 271
-10. Preface
+1. Hunting in East Africa
+2. To the Gulf of Cortez
+3. A Canadian Moose Hunt
+4. A Hunting Trip in India
+5. Dog Sledging in the North
+6. Wolf-Hunting in Russia
+7. A Bear-Hunt in the Sierras
+8. The Ascent of Chief Mountain
+9. The Cougar
+10. Big Game of Mongolia and Tibet
 
-> 共 45 题，[完整目录与正文 →](https://www.bqgmz.top/b/16028d465e4a/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/16028d465e4a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

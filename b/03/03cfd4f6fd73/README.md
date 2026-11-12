@@ -1,7 +1,7 @@
 # Magic and Fetishism
 
-**作者** Haddon, Alfred C. (Alfred Cort), 1855-1940 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 102,518 字 ｜ **来源** Project Gutenberg
+**作者** Haddon, Alfred C. (Alfred Cort), 1855-1940 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 20 章 · 102,518 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/03cfd4f6fd73/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（102,518 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,503 字；最长 When it was wished to cause rain to fall in Murray Island, T（39,907 字），最短 37. JOYCE, P. W. _A Social History of Ancient Ireland._ Lond（2,488 字）。 |
+| 分章依据 | 按「章」标记切分为 20 章（auto-roman-title），拼接正文 2,324 行。 |
+| 篇幅分布 | 平均每章 4,745 字。 |
+| 起止 | 始于「I. SYMPATHETIC MAGIC.」，止于「III. FETISHISM AS A FORM OF RELIGIOUS WORSHIP（部4）」。 |
 | 原文溯源 | `cache/epub/61725/pg61725.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 10 章）
 
-1. When it was wished to cause rain to fall in Murray Island, T
-2. It was this firm belief, says Elworthy (18, 143), which led
-3. All peoples have prohibitions of certain kinds, and most hav
-4. Stone worship is often pure fetishism, the stone being regar
-5. 37. JOYCE, P. W. _A Social History of Ancient Ireland._ Lond
+1. I. SYMPATHETIC MAGIC.
+2. II. MAGICAL POWER OF NAMES AND WORDS.
+3. III. TALISMANS AND AMULETS.
+4. IV. DIVINATION—(40).
+5. V. PUBLIC AND PRIVATE MAGIC.
+6. VI. MAGICIANS.
+7. VII. PSYCHOLOGY OF MAGICAL PRACTICES.
+8. I. DEFINITION.（部2）
+9. II. ESSENTIAL CHARACTERS OF FETISHISM.（部2）
+10. III. FETISHISM AS A FORM OF RELIGIOUS WORSHIP—(91).（部2）
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/03cfd4f6fd73/)
+> 共 20 章，[完整目录与正文 →](https://www.bqgmz.top/b/03cfd4f6fd73/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

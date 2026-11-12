@@ -1,7 +1,7 @@
 # Inger, Östråtin rouva: Viisinäytöksinen murhenäytelmä
 
-**作者** Ibsen, Henrik, 1828-1906; Lehtonen, Joel, 1881-1934 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 7 段 · 143,513 字 ｜ **来源** Project Gutenberg
+**作者** Ibsen, Henrik, 1828-1906; Lehtonen, Joel, 1881-1934 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 场  
+**规模** 5 场 · 143,513 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/03f3e232ed94/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,19 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（143,513 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,501 字；最长 Ja siksi te avaatte nyt yöksi Östråtin portit? Siksi täytyy （39,990 字），最短 Miksi sinä nauroit? Senkö tähden, että tein pahoin pojallesi（3,544 字）。 |
+| 分章依据 | 按「场」标记切分为 5 场（auto-local-act），拼接正文 6,772 行。 |
+| 篇幅分布 | 平均每场 28,542 字；最长 NELJÄS NÄYTÖS.（29,803 字），最短 VIIDES NÄYTÖS.（25,157 字）。 |
 | 原文溯源 | `cache/epub/17092/pg17092.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 5 场）
 
-1. Ja siksi te avaatte nyt yöksi Östråtin portit? Siksi täytyy
-2. Hän *on* täällä! *On*, sen sanon!
-3. (tulee hitaasti ja mietteissään vasemmalta. Hänen kasvojensa
-4. Kuinkako pälkähti? Hm, mistä minä sen tiedän? Minun päähäni
-5. Vetoon en suostu, sillä tuokion kuluttua annatte minulle sek
-6. Ja näistä oikeuksista olen pelon hetkellä kirjallisesti luop
-7. Miksi sinä nauroit? Senkö tähden, että tein pahoin pojallesi
+1. ENSIMÄINEN NÄYTÖS.
+2. TOINEN NÄYTÖS.
+3. KOLMAS NÄYTÖS.
+4. NELJÄS NÄYTÖS.
+5. VIIDES NÄYTÖS.
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/03f3e232ed94/)
+> 共 5 场，[完整目录与正文 →](https://www.bqgmz.top/b/03f3e232ed94/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

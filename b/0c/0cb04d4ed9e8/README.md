@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（385,951 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 38,595 字；最长 CHAPTER VIII.（62,280 字），最短 CHAPTER III.（15,754 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-chapter），拼接正文 9,306 行。 |
+| 篇幅分布 | 平均每章 36,749 字；最长 APPENDIX A.（69,636 字），最短 CHAPTER III.（15,754 字）。 |
 | 原文溯源 | `cache/epub/34807/pg34807.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -26,9 +26,9 @@
 7. CHAPTER VII.
 8. CHAPTER VIII.
 9. CHAPTER IX.
-10. "It may please your maiestye therfore to
+10. APPENDIX A.
 
 > 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/0cb04d4ed9e8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

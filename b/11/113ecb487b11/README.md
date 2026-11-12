@@ -1,7 +1,7 @@
 # Tschaikowsky and his orchestral music
 
-**作者** Biancolli, Louis, 1907-1992 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 21 题 · 68,705 字 ｜ **来源** Project Gutenberg
+**作者** Biancolli, Louis, 1907-1992 ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 4 篇 · 68,705 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/113ecb487b11/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（68,705 字）。 |
-| 分章依据 | 按「题」标记切分为 21 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,271 字。 |
+| 分章依据 | 按「篇」标记切分为 4 篇（通用标记切分），拼接正文 1,602 行。 |
+| 篇幅分布 | 平均每篇 1,606 字。 |
 | 原文溯源 | `cache/epub/50230/pg50230.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 4 篇）
 
-1. AND HIS ORCHESTRAL MUSIC
-2. By LOUIS BIANCOLLI
-3. Printed in the United States of America
-4. MARCHES, OVERTURES, FANTASIAS, ETC.
-5. SUITE FOR STRINGS, _Souvenir de Florence_, OPUS 70
-6. OVERTURE-FANTASY, _Romeo and Juliet_
-7. BALLET SUITES
-8. SUITE FROM THE BALLET, _Swan Lake_ (_Le Lac des Cygnes_)
-9. SUITE FROM THE BALLET, _The Sleeping Beauty_, OPUS 66
-10. SUITE FROM THE BALLET, _The Nutcracker_, OPUS 71-A
+1. * * * * * COMPLETE LIST OF RECORDINGS BY THE PHILHARMONIC-SYMPHONY SOCIETY OF NEW YORK COLUMBIA RECORDS LP—Also available on Long Playing Microgroove Recordings as well as on the conventional Columbia Masterworks. _Under the Direction of Bruno Walter_ BARBER—Symphony No. 1, Op
+2. BEETHOVEN—Concerto for Violin, Cello, Piano and Orchestra in C major (with J. Corigliano, L. Rose and W. Hendl)—LP BEETHOVEN—Concerto No. 5 in E-flat major (“Emperor”) (with Rudolf Serkin, piano)—LP BEETHOVEN—Concerto in D major for Violin and Orchestra (with Joseph Szigeti)—LP BEETHOVEN—Symphony No. 1 in C major, Op. 21—LP BEETHOVEN—Symphony No. 3 in E-flat major (“Eroica”)—LP BEETHOVEN—Symphony No. 5 in C minor—LP BEETHOVEN—Symphony No. 8 in F major—LP BEETHOVEN—Symphony No. 9 in D minor (“Choral”) (with Elena Nikolaidi, contralto, and Raoul Jobin, tenor)—LP BRAHMS—Song of Destiny (with Westminster Choir)—LP DVORAK—Slavonic Dance No
+3. DVORAK—Symphony No. 4 in G Major—LP MAHLER—Symphony No. 4 in G major (with Desi Halban, soprano)—LP MAHLER—Symphony No. 5 in C-sharp minor MENDELSSOHN—Concerto in E minor (with Nathan Milstein, violin)—LP MENDELSSOHN—Scherzo (from Midsummer Night’s Dream) MOZART—Cosi fan Tutti—Overture MOZART—Symphony No. 41 in C major (“Jupiter”), K. 551—LP SCHUBERT—Symphony No. 7 in C major—LP SCHUMANN, R.—Symphony No. 3 in E-flat major (“Rhenish”)—LP SMETANA—The Moldau (“Vltava”)—LP STRAUSS, J.—Emperor Waltz _Under the Direction of Leopold Stokowski_ COPLAND—Billy the Kid (2 parts) GRIFFES—“The White Peacock,” Op. 7, No. 1—LP 7" IPPOLITOW—“In the Village” from Caucasian Sketches (W. Lincer and M. Nazzi, soloists) KHACHATURIAN—“Masquerade Suite”—LP MESSIAN—“L’Ascension”—LP SIBELIUS—“Maiden with the Roses”—LP TSCHAIKOWSKY—Francesca da Rimini, Op. 32—LP TSCHAIKOWSKY—Overture Fantasy—Romeo and Juliet—LP VAUGHAN-WILLIAMS—Greensleeves VAUGHAN-WILLIAMS—Symphony No. 6 in E minor—LP WAGNER—Die Walküre—Wotan Farewell and Magic Fire Music (Act III—Scene 3) WAGNER—Siegfried’s Rhine Journey and Siegfried’s Funeral March—(“Die Götterdämmerung”)—LP _Under the Direction of Efrem Kurtz_ CHOPIN—Les Sylphides—LP GLINKA—Mazurka—“Life of the Czar”—LP 7" GRIEG—Concerto in A minor for Piano and Orchestra, Op. 16 (with Oscar Levant, piano)—LP HEROLD—Zampa—Overture KABALEVSKY—“The Comedians,” Op. 26—LP KHACHATURIAN—Gayne—Ballet Suite No. 1—LP KHACHATURIAN—Gayne—Ballet Suite No. 2—LP LECOQ—Mme. Angot Suite—LP PROKOFIEFF—March, Op. 99—LP RIMSKY-KORSAKOV—The Flight of the Bumble Bee—LP 7" SHOSTAKOVICH—Polka No. 3, “The Age of Gold”—LP 7" SHOSTAKOVICH—Symphony No. 9—LP SHOSTAKOVICH—Valse from “Les Monts D’Or”—LP VILLA-LOBOS—Uirapuru—LP WIENIAWSKI—Concerto No. 2 in D minor for Violin and Orchestra, Op
+4. (with Isaac Stern, violin)—LP _Under the Direction of Charles Münch_ D’INDY—Symphony on a French Mountain Air for Orchestra and Piano—LP MILHAUD—Suite Française—LP MOZART—Concerto No. 21 for Piano and Orchestra in C major—LP SAINT-SAENS—Symphony in C minor, No. 3 for Orchestra, Organ and Piano, Op. 78—LP _Under the Direction of Artur Rodzinski_ BIZET—Carmen—Entr’acte (Prelude to Act III) BIZET—Symphony in C major—LP BRAHMS—Symphony No. 1 in C minor—LP BRAHMS—Symphony No. 2 in D major—LP COPLAND—A Lincoln Portrait (with Kenneth Spencer, Narrator)—LP ENESCO—Roumanian Rhapsody—A major, No. 1—LP GERSHWIN—An American in Paris—LP GOULD—“Spirituals” for Orchestra—LP IBERT—“Escales” (Port of Call)—LP LISZT—Mephisto Waltz—LP MOUSSORGSKY—Gopack (The Fair at Sorotchinski)—LP MOUSSORGSKY-RAVEL—Pictures at an Exhibition—LP PROKOFIEFF—Symphony No. 5—LP RACHMANINOFF—Concerto No. 2 in C minor for Piano and Orchestra (with Gygory Sandor, piano) RACHMANINOFF—Symphony No. 2 in E minor SAINT-SAENS—Concerto for Piano and Orchestra No. 4 in C minor (with Robert Casadesus)—LP SIBELIUS—Symphony No. 4 in A minor TSCHAIKOWSKY—Nutcracker Suite—LP TSCHAIKOWSKY—Suite “Mozartiana”—LP TSCHAIKOWSKY—Symphony No. 6 in B minor (“Pathétique”)—LP WAGNER—Lohengrin—Bridal Chamber Scene (Act III—Scene 2)—(with Helen Traubel, soprano, and Kurt Baum, tenor)—LP WAGNER—Lohengrin—Elsa’s Dream (Act I, Scene 2) (with Helen Traubel, soprano) WAGNER—Siegfried Idyll—LP WAGNER—Tristan und Isolde—Excerpts (with Helen Traubel, soprano) WAGNER—Die Walküre—Act III (Complete) (with Helen Traubel, soprano and Herbert Janssen, baritone)—LP WAGNER—Die Walküre—Duet (Act I, Scene 3) (with Helen Traubel, soprano and Emery Darcy, tenor)—LP WOLF-FERRARI—“Secret of Suzanne,” Overture _Under the Direction of Igor Stravinsky_ STRAVINSKY—Firebird Suite—LP STRAVINSKY—Fireworks (Feu d’Artifice)—LP STRAVINSKY—Four Norwegian Moods STRAVINSKY—Le Sacre du Printemps (The Consecration of the Spring)—LP STRAVINSKY—Scènes de Ballet—LP STRAVINSKY—Suite from “Petrouchka”—LP STRAVINSKY—Symphony in Three Movements—LP _Under the Direction of Sir Thomas Beecham_ MENDELSSOHN—Symphony No. 4, in A major (“Italian”) SIBELIUS—Melisande (from “Pelleas and Melisande”) SIBELIUS—Symphony No. 7 in C major—LP TSCHAIKOWSKY—Capriccio Italien _Under the Direction of John Barbirolli_ BACH-BARBIROLLI—Sheep May Safely Graze (from the “Birthday Cantata”)—LP BERLIOZ—Roman Carnival Overture BRAHMS—Symphony No. 2, in D major BRAHMS—Academic Festival Overture—LP BRUCH—Concerto No. 1, in G minor (with Nathan Milstein, violin)—LP DEBUSSY—First Rhapsody for Clarinet (with Benny Goodman, clarinet) DEBUSSY—Petite Suite: Ballet MOZART—Concerto in B-flat major (with Robert Casadesus, piano) MOZART—Symphony No. 25 in G minor, K
 
-> 共 21 题，[完整目录与正文 →](https://www.bqgmz.top/b/113ecb487b11/)
+> 共 4 篇，[完整目录与正文 →](https://www.bqgmz.top/b/113ecb487b11/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

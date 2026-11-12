@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（255,270 字）。 |
-| 分章依据 | 按「章」标记切分为 52 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 4,909 字；最长 CHAPTER IV. WHY DID SHE DO IT?（8,876 字），最短 CHAPTER XLII. A YOUNG GIRL’S PRIDE.（2,640 字）。 |
+| 分章依据 | 按「章」标记切分为 52 章（auto-chapter），拼接正文 7,898 行。 |
+| 篇幅分布 | 平均每章 4,854 字；最长 CHAPTER IV. WHY DID SHE DO IT?（8,876 字），最短 CHAPTER XLII. A YOUNG GIRL’S PRIDE.（2,640 字）。 |
 | 起止 | 始于「CHAPTER I. “IF ONLY----”」，止于「CHAPTER LII. ALL THAT FLOY HAD LONGED FOR IN OTHER DAYS WAS HERS」。 |
 | 原文溯源 | `cache/epub/60451/pg60451.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 52 章，[完整目录与正文 →](https://www.bqgmz.top/b/016271b7059c/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

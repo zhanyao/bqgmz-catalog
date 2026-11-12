@@ -1,7 +1,7 @@
 # The Goslings: A Study of the American Schools
 
 **作者** Sinclair, Upton, 1878-1968; Young, Art, 1866-1943 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 55 章 · 875,932 字 ｜ **来源** Project Gutenberg
+**规模** 89 章 · 875,932 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/09ea47f5fffd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（875,932 字）。 |
-| 分章依据 | 按「章」标记切分为 55 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,926 字；最长 Now there can be no dispute that this pr（91,390 字），最短 CHAPTER XIII（5,309 字）。 |
+| 分章依据 | 按「章」标记切分为 89 章（auto-chapter），拼接正文 18,899 行。 |
+| 篇幅分布 | 平均每章 9,441 字；最长 CHAPTER XLI（15,913 字），最短 CHAPTER XIII（5,309 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER LXXXIX」。 |
 | 原文溯源 | `cache/epub/65576/pg65576.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 55 章，[完整目录与正文 →](https://www.bqgmz.top/b/09ea47f5fffd/)
+> 共 89 章，[完整目录与正文 →](https://www.bqgmz.top/b/09ea47f5fffd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

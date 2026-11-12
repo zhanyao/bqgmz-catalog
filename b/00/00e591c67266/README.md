@@ -11,9 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（385,863 字）。 |
-| 分章依据 | 按「章」标记切分为 9 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 42,873 字；最长 CHAPTER VIII.（64,935 字），最短 CHAPTER IV.（14,668 字）。 |
-| 起止 | 始于「CHAPTER I.」，止于「1800           $91,183」。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-chapter），拼接正文 8,231 行。 |
+| 篇幅分布 | 平均每章 41,826 字；最长 appendix to this volume, to which all who feel an interest in the state of（70,564 字），最短 CHAPTER IV.（14,668 字）。 |
 | 原文溯源 | `cache/epub/38740/pg38740.txt`（Project Gutenberg） |
 
 ## 章节目录（前 9 章）
@@ -26,9 +25,9 @@
 6. CHAPTER VI.
 7. CHAPTER VII.
 8. CHAPTER VIII.
-9. 1800 $91,183
+9. appendix to this volume, to which all who feel an interest in the state of
 
 > 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/00e591c67266/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

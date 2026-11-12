@@ -1,7 +1,7 @@
 # Letters to Eugenia; Or, A Preservative Against Religious Prejudices
 
-**作者** Holbach, Paul Henri Thiry, baron d', 1723-1789; Middleton, Anthony C. [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 18 段 · 366,094 字 ｜ **来源** Project Gutenberg
+**作者** Holbach, Paul Henri Thiry, baron d', 1723-1789; Middleton, Anthony C. [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 366,094 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0be86a9d6c1b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（366,094 字）。 |
-| 分章依据 | 按「段」标记切分为 18 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,338 字；最长 I am unable, Madam, to express the grievous sentiments that （39,250 字），最短 Besides, I believe that I have already proved that the moral（5,978 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-toc-title-list），拼接正文 7,298 行。 |
+| 篇幅分布 | 平均每章 20,430 字。 |
 | 原文溯源 | `cache/epub/31275/pg31275.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. I am unable, Madam, to express the grievous sentiments that
-2. If the truths of religion were, as they assure us, necessary
-3. But let us suppose for a moment that God has really made him
-4. To maintain a contrary opinion, and to say that God is pleas
-5. With whatever art they have written the life of Jesus Christ
-6. It is by the assistance of this fable that the Christian doc
-7. But if you consider the thing coolly, you will perceive the
-8. In truth, Madam, if you weigh in an equitable balance the pr
-9. _Ordination_ is another very mysterious ceremony, by which t
-10. We find these atrocious, fanatical, and senseless ideas in t
+1. LETTER I.
+2. Of the Sources of Credulity, and of the Motives which should
+3. Of the Ideas which Religion gives us of the Divinity,
+4. An Examination of the Holy Scriptures, of the Nature of the
+5. Christian Religion, and of the Proofs upon which Christianity is
+6. founded,
+7. Of the fundamental Dogmas of the Christian Religion,
+8. Of the Immortality of the Soul, and of the Dogma of another
+9. Life,
+10. Of the Mysteries, Sacraments, and Religious Ceremonies of
 
-> 共 18 段，[完整目录与正文 →](https://www.bqgmz.top/b/0be86a9d6c1b/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/0be86a9d6c1b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

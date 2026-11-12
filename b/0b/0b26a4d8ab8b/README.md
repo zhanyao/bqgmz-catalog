@@ -1,7 +1,7 @@
 # Outlines of Educational Doctrine
 
 **作者** Herbart, Johann Friedrich, 1776-1841; De Garmo, Charles, 1849-1934 [Annotator]; Lange, Alexis Frederick, 1862-1924 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 10 章 · 409,723 字 ｜ **来源** Project Gutenberg
+**规模** 9 章 · 409,723 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0b26a4d8ab8b/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,25 +11,23 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（409,723 字）。 |
-| 分章依据 | 按「章」标记切分为 10 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 40,972 字；最长 CHAPTER VIII（89,463 字），最短 CHAPTER II（9,154 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「4. No study, no single group of studies,」。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-part），拼接正文 9,342 行。 |
+| 篇幅分布 | 平均每章 43,493 字；最长 PART II（3）（56,060 字），最短 PART II（5）（1,816 字）。 |
 | 原文溯源 | `cache/epub/44905/pg44905.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 章）
+## 章节目录（前 9 章）
 
-1. CHAPTER I
-2. CHAPTER II
-3. CHAPTER III
-4. CHAPTER IV
-5. CHAPTER V
-6. CHAPTER VI
-7. CHAPTER VII
-8. CHAPTER VIII
-9. 219. Boys differ from girls, individuals
-10. 4. No study, no single group of studies,
+1. PART I
+2. PART II（1）
+3. PART II（2）
+4. PART II（3）
+5. PART II（4）
+6. PART II（5）
+7. PART III（1）
+8. PART III（2）
+9. PART III（3）
 
-> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/0b26a4d8ab8b/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/0b26a4d8ab8b/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

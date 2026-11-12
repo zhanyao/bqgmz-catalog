@@ -1,7 +1,7 @@
 # Normandy: The Scenery & Romance of Its Ancient Towns, Part 3
 
 **作者** Home, Gordon, 1878-1969 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 6 章 · 86,402 字 ｜ **来源** Project Gutenberg
+**规模** 5 章 · 86,402 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/00d935d4ca59/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（86,402 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 14,400 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-chapter），拼接正文 1,641 行。 |
+| 篇幅分布 | 平均每章 17,253 字；最长 CHAPTER VII（26,005 字），最短 CHAPTER XI（11,014 字）。 |
+| 起止 | 始于「CHAPTER VII」，止于「CHAPTER XI」。 |
 | 原文溯源 | `cache/epub/8595/pg8595.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 章）
+## 章节目录（前 5 章）
 
-1. Part 3.
-2. CHAPTER VII
-3. CHAPTER VIII
-4. CHAPTER IX
-5. CHAPTER X
-6. CHAPTER XI
+1. CHAPTER VII
+2. CHAPTER VIII
+3. CHAPTER IX
+4. CHAPTER X
+5. CHAPTER XI
 
-> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/00d935d4ca59/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/00d935d4ca59/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

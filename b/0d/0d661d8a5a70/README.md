@@ -1,7 +1,7 @@
 # The Romany Rye
 
 **作者** Borrow, George, 1803-1881 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 48 章 · 721,267 字 ｜ **来源** Project Gutenberg
+**规模** 58 章 · 721,267 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0d661d8a5a70/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（721,267 字）。 |
-| 分章依据 | 按「章」标记切分为 48 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 15,026 字；最长 So the respectable people, whose opinion（79,404 字），最短 CHAPTER XX（2,559 字）。 |
+| 分章依据 | 按「章」标记切分为 58 章（auto-chapter），拼接正文 15,074 行。 |
+| 篇幅分布 | 平均每章 12,379 字；最长 CHAPTER XLII（31,292 字），最短 CHAPTER XLVII（2,167 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XI--The Old Radical.（部2）」。 |
 | 原文溯源 | `cache/epub/422/pg422.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 48 章，[完整目录与正文 →](https://www.bqgmz.top/b/0d661d8a5a70/)
+> 共 58 章，[完整目录与正文 →](https://www.bqgmz.top/b/0d661d8a5a70/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

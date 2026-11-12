@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（214,419 字）。 |
-| 分章依据 | 按「章」标记切分为 35 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 6,126 字；最长 CHAPTER XXXIV--AMBASSADORS FROM ZIONVILLE（11,271 字），最短 CHAPTER XVIII--CONCLUSION OF DR. ULSWATER'S THIRD MANUSCIPT（1,552 字）。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-chapter），拼接正文 5,782 行。 |
+| 篇幅分布 | 平均每章 6,120 字；最长 CHAPTER XXXIV--AMBASSADORS FROM ZIONVILLE（11,271 字），最短 CHAPTER XVIII--CONCLUSION OF DR. ULSWATER'S THIRD MANUSCIPT（1,552 字）。 |
 | 起止 | 始于「CHAPTER I--DR. ULSWATER」，止于「CHAPTER XXXV--THE END」。 |
 | 原文溯源 | `cache/epub/50272/pg50272.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/15352ce0d1c8/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Amtmannin Maria
 
-**作者** Marlitt, E. (Eugenie), 1825-1887 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 16 段 · 325,653 字 ｜ **来源** Project Gutenberg
+**作者** Marlitt, E. (Eugenie), 1825-1887 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 19 章 · 325,653 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0d03aa9077ad/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（325,653 字）。 |
-| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,353 字；最长 Tästä äkkinäisestä keskeyttämisestä vetäytyi rouva tosin väh（39,612 字），最短 "Hän ei ollut mikään varas -- sen kyllä tiesin", sanoi Louis（5,564 字）。 |
+| 分章依据 | 按「章」标记切分为 19 章（auto-num），拼接正文 6,934 行。 |
+| 篇幅分布 | 平均每章 17,131 字；最长 8.（32,631 字），最短 17.（8,886 字）。 |
+| 起止 | 始于「1.」，止于「19.」。 |
 | 原文溯源 | `cache/epub/25011/pg25011.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. Tästä äkkinäisestä keskeyttämisestä vetäytyi rouva tosin väh
-2. Hieman epäilevällä kädellä aukasi herra Markus tuon pienen k
-3. Yhtä rivakasti, kuin hän oli tullut alas, juoksi hän balkong
-4. Hän tarttui juurikoppaan. "Nyt täytyy minun mennä kotiin --
-5. Herra Markus hymyili salaa -- vaalea tukkainen pää vaipui yh
-6. Herra Markus puri äimistyneenä huultansa, ajatellessaan viim
-7. "Sen mukaan kuin minulle on kerrottu, on hän kaupunkilaislap
-8. Aution pihan vaalistuneella kivityksellä, jota ei ainoakaan
-9. Vielä samana iltana laittoi herra Markus itsensä valmiiksi m
-10. "Minun täytyy kai ottaa teiltä tuon inhoittavan leikkikalun"
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
 
-> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/0d03aa9077ad/)
+> 共 19 章，[完整目录与正文 →](https://www.bqgmz.top/b/0d03aa9077ad/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

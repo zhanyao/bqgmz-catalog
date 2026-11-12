@@ -1,7 +1,7 @@
 # The Seventy's Course in Theology, Third Year The Doctrine of Deity
 
 **作者** Roberts, B. H. (Brigham Henry), 1857-1933 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 6 章 · 468,238 字 ｜ **来源** Project Gutenberg
+**规模** 31 章 · 468,238 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/14bd0c73987a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（468,238 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 78,039 字；最长 2. _The World's Need of a Revelation of （100,985 字），最短 Book III, pp. 223-240.（30,703 字）。 |
+| 分章依据 | 按「章」标记切分为 31 章（auto-caps-sections），拼接正文 10,353 行。 |
+| 篇幅分布 | 平均每章 15,074 字；最长 ANALYSIS_                                            _REFERENCES.（46,383 字），最短 NOTES.（329 字）。 |
 | 原文溯源 | `cache/epub/60575/pg60575.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 章）
+## 章节目录（前 10 章）
 
-1. Book III, pp. 223-240.
-2. Book X, pp. 186-188.
-3. Chapter XXVIII.
-4. "The lively imagination of the Greeks, a
-5. _VI. The Nicene Creed._
-6. 2. _The World's Need of a Revelation of
+1. DIVISION OF LESSONS.
+2. ANALYSIS_ _REFERENCES.
+3. NOTES.
+4. ANALYSIS._ _REFERENCES.
+5. ANALYSIS._ _REFERENCES.
+6. ANALYSIS._ _REFERENCES.
+7. NOTES.
+8. ANALYSIS._ _REFERENCES.
+9. NOTES.
+10. ANALYSIS._ _REFERENCES.
 
-> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/14bd0c73987a/)
+> 共 31 章，[完整目录与正文 →](https://www.bqgmz.top/b/14bd0c73987a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

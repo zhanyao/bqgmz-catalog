@@ -11,20 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（356,613 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 59,435 字。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-toc-title-list），拼接正文 11,825 行。 |
+| 篇幅分布 | 平均每章 47,586 字。 |
 | 原文溯源 | `cache/epub/45778/pg45778.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
 
-1. Part II. 130
-2. Part II. 186
-3. Part III.
-4. "After the battle, the bodie of the said
-5. The king of England had promised to thes
-6. NEVER BEFORE PUBLISHED.
+1. TO
+2. Fause Foodrage
+3. of Kempion._ On this subject I have, sin
+4. The following verses, adapted to the anc
+5. [62] The editor has found in no instance
+6. That ilk yhere in our kynryk
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/0cad152d4232/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

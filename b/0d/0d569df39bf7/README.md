@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（367,907 字）。 |
-| 分章依据 | 按「章」标记切分为 17 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 21,641 字；最长 CHAPTER XII--THE EMBODIMENT OF MAMMON（36,135 字），最短 CHAPTER I--A NARROW ESCAPE（4,174 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-chapter），拼接正文 9,154 行。 |
+| 篇幅分布 | 平均每章 21,630 字；最长 CHAPTER XII--THE EMBODIMENT OF MAMMON（36,135 字），最短 CHAPTER I--A NARROW ESCAPE（3,992 字）。 |
 | 起止 | 始于「CHAPTER I--A NARROW ESCAPE」，止于「CHAPTER XVII--TO THE SOUND OF THE SILVER CHIME」。 |
 | 原文溯源 | `cache/epub/55328/pg55328.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/0d569df39bf7/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

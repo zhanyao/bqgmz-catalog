@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（151,187 字）。 |
-| 分章依据 | 按「章」标记切分为 14 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 10,799 字；最长 CHAPTER 12. Held Up by Mr. Kelly.（18,009 字），最短 CHAPTER 9. What It Meant to Keith.（5,450 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-chapter），拼接正文 4,052 行。 |
+| 篇幅分布 | 平均每章 10,770 字；最长 CHAPTER 12. Held Up by Mr. Kelly.（18,009 字），最短 CHAPTER 9. What It Meant to Keith.（5,450 字）。 |
 | 起止 | 始于「CHAPTER 1. Stranded on the Prairie.」，止于「CHAPTER 14. Sir Redmond Gets His answer.」。 |
 | 原文溯源 | `cache/epub/1908/pg1908.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/18f2528ea1fa/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

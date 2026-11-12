@@ -1,7 +1,7 @@
 # The Chronicles of a Gay Gordon
 
 **作者** Gordon, J. M. (Joseph Maria), 1856-1929 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 18 章 · 469,591 字 ｜ **来源** Project Gutenberg
+**规模** 35 章 · 469,591 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1613687f23ac/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（469,591 字）。 |
-| 分章依据 | 按「章」标记切分为 18 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 26,088 字；最长 CHAPTER XVI（110,328 字），最短 CHAPTER V（4,775 字）。 |
+| 分章依据 | 按「章」标记切分为 35 章（auto-chapter），拼接正文 10,634 行。 |
+| 篇幅分布 | 平均每章 12,604 字；最长 CHAPTER XVI（22,985 字），最短 CHAPTER V（4,775 字）。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER VI（部3）」。 |
 | 原文溯源 | `cache/epub/27362/pg27362.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -28,7 +29,7 @@
 9. CHAPTER IX
 10. CHAPTER X
 
-> 共 18 章，[完整目录与正文 →](https://www.bqgmz.top/b/1613687f23ac/)
+> 共 35 章，[完整目录与正文 →](https://www.bqgmz.top/b/1613687f23ac/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Distruzione: Poema Futurista
 
-**作者** Marinetti, F. T., 1876-1944; Cinti, Decio, 1879-1954 [Translator] ｜ **国家/地区** 意大利 ｜ **体例** 段  
-**规模** 7 段 · 148,199 字 ｜ **来源** Project Gutenberg
+**作者** Marinetti, F. T., 1876-1944; Cinti, Decio, 1879-1954 [Translator] ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 13 章 · 148,199 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0a927caf4064/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（148,199 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,171 字；最长 Ad un tratto, sorgendo d'un balzo fra le rocce,（39,579 字），最短 Bei cani ammaestrati, vecchi servi...（8,071 字）。 |
+| 分章依据 | 按「章」标记切分为 13 章（auto-num），拼接正文 5,763 行。 |
+| 篇幅分布 | 平均每章 11,259 字；最长 10（40,129 字），最短 3.（3,462 字）。 |
+| 起止 | 始于「1.」，止于「13.」。 |
 | 原文溯源 | `cache/epub/25210/pg25210.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. Ad un tratto, sorgendo d'un balzo fra le rocce,
-2. Con un gesto sublime,
-3. Oh! per un solo momento divertiamoci dunque
-4. Ah! no!... Non più singhiozzi!... Mi spezzi la schiena!
-5. LA MIA ANIMA. (_Lo tengo fermo, per le spalle contro la
-6. Ah! egli si china, si stende
-7. Bei cani ammaestrati, vecchi servi...
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/0a927caf4064/)
+> 共 13 章，[完整目录与正文 →](https://www.bqgmz.top/b/0a927caf4064/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

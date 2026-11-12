@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（192,882 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 7,715 字；最长 CHAPTER XXV--CLEARED（13,966 字），最短 CHAPTER XV--ORDERED SOUTH（4,632 字）。 |
+| 分章依据 | 按「章」标记切分为 25 章（auto-chapter），拼接正文 5,808 行。 |
+| 篇幅分布 | 平均每章 7,655 字；最长 CHAPTER XXV--CLEARED（13,966 字），最短 CHAPTER XV--ORDERED SOUTH（4,632 字）。 |
 | 起止 | 始于「CHAPTER I--IN THE STORM」，止于「CHAPTER XXV--CLEARED」。 |
 | 原文溯源 | `cache/epub/36323/pg36323.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/149286cabc80/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

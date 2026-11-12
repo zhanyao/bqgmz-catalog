@@ -1,7 +1,7 @@
 # How I Know God Answers Prayer: The Personal Testimony of One Life-Time
 
-**作者** Goforth, Rosalind, 1864-1942 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 7 段 · 140,645 字 ｜ **来源** Project Gutenberg
+**作者** Goforth, Rosalind, 1864-1942 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 10 章 · 140,645 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/14ff3657a9c3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,21 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（140,645 字）。 |
-| 分章依据 | 按「段」标记切分为 7 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,092 字；最长 One day, just before starting as usual for the chapel, my hu（39,837 字），最短 [2] "The Life that Wins" may be obtained from The Sunday Sch（542 字）。 |
+| 分章依据 | 按「章」标记切分为 10 章（auto-roman-bare），拼接正文 3,550 行。 |
+| 篇幅分布 | 平均每章 13,359 字；最长 V（25,683 字），最短 I（4,038 字）。 |
 | 原文溯源 | `cache/epub/26033/pg26033.txt`（Project Gutenberg） |
 
-## 章节目录（前 7 段）
+## 章节目录（前 10 章）
 
-1. One day, just before starting as usual for the chapel, my hu
-2. Li-ming, a warm-hearted, earnest evangelist, owned land some
-3. When we reached the inn a wild mob of over a thousand men fi
-4. There were times when my faith was severely tested, and I fe
-5. Little Mary had no "best" dress for the occasion. I had plan
-6. As soon as I was out of quarantine I wrote to my friend and
-7. [2] "The Life that Wins" may be obtained from The Sunday Sch
+1. I
+2. II
+3. III
+4. IV
+5. V
+6. VI
+7. VII
+8. VIII
+9. IX
+10. X
 
-> 共 7 段，[完整目录与正文 →](https://www.bqgmz.top/b/14ff3657a9c3/)
+> 共 10 章，[完整目录与正文 →](https://www.bqgmz.top/b/14ff3657a9c3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

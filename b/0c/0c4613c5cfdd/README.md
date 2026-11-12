@@ -1,7 +1,7 @@
 # La plebe, parte II
 
-**作者** Bersezio, Vittorio, 1830-1900 ｜ **国家/地区** 意大利 ｜ **体例** 题  
-**规模** 37 题 · 766,213 字 ｜ **来源** Project Gutenberg
+**作者** Bersezio, Vittorio, 1830-1900 ｜ **国家/地区** 意大利 ｜ **体例** 章  
+**规模** 26 章 · 766,213 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0c4613c5cfdd/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（766,213 字）。 |
-| 分章依据 | 按「题」标记切分为 37 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 20,708 字。 |
+| 分章依据 | 按「章」标记切分为 26 章（auto-chapter），拼接正文 18,826 行。 |
+| 篇幅分布 | 平均每章 29,464 字；最长 CAPITOLO XIX.（56,805 字），最短 CAPITOLO VI.（9,012 字）。 |
 | 原文溯源 | `cache/epub/46724/pg46724.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LA PLEBE
-2. VITTORIO BERSEZIO
-3. PARTE SECONDA
-4. PROPRIETÀ LETTERARIA
-5. PARTE SECONDA.
-6. I Ricchi.
-7. CAPITOLO I.
-8. I tre giovani scesero di carrozza.
-9. CAPITOLO II.
-10. CAPITOLO III.
+1. CAPITOLO I.
+2. CAPITOLO II.
+3. CAPITOLO III.
+4. CAPITOLO IV.
+5. CAPITOLO V.
+6. CAPITOLO VI.
+7. CAPITOLO VII.
+8. CAPITOLO VIII.
+9. CAPITOLO IX.
+10. CAPITOLO X.
 
-> 共 37 题，[完整目录与正文 →](https://www.bqgmz.top/b/0c4613c5cfdd/)
+> 共 26 章，[完整目录与正文 →](https://www.bqgmz.top/b/0c4613c5cfdd/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

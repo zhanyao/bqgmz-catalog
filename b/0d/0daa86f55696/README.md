@@ -1,7 +1,7 @@
 # Saaren seikkailija: Romaani
 
-**作者** Elenius, Emil, 1877-1949 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 36 题 · 301,448 字 ｜ **来源** Project Gutenberg
+**作者** Elenius, Emil, 1877-1949 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 12 章 · 301,448 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0daa86f55696/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（301,448 字）。 |
-| 分章依据 | 按「题」标记切分为 36 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 8,373 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-roman-bare），拼接正文 8,322 行。 |
+| 篇幅分布 | 平均每章 23,073 字；最长 IX.（部2）（65,420 字），最短 II.（部2）（3,971 字）。 |
+| 起止 | 始于「I.」，止于「IX.（部2）」。 |
 | 原文溯源 | `cache/epub/63626/pg63626.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. SAAREN SEIKKAILIJA
-2. Romaani
-3. EMIL ELENIUS
-4. SISÄLTÖ:
-5. I luku.
-6. YÖ UUSTALOSSA.
-7. II luku.
-8. TULLIMIES HALUAA LIITTOLAISTA.
-9. III luku.
-10. JUMALA ANTAA SAARELAISILLE VILJAA.
+1. I.
+2. II.
+3. III.
+4. IV.
+5. I.（部2）
+6. II.（部2）
+7. III.（部2）
+8. IV.（部2）
+9. V.（部2）
+10. VII.（部2）
 
-> 共 36 题，[完整目录与正文 →](https://www.bqgmz.top/b/0daa86f55696/)
+> 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/0daa86f55696/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

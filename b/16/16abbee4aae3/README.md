@@ -1,7 +1,7 @@
 # Supplemental Nights to the Book of the Thousand and One Nights — Volume 2 (of 6)（#3446）
 
-**作者** Burton, Richard Francis, Sir, 1821-1890 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 26 题 · 655,469 字 ｜ **来源** Project Gutenberg
+**作者** Burton, Richard Francis, Sir, 1821-1890 [Translator] ｜ **国家/地区** 英美 ｜ **体例** 部分  
+**规模** 16 部分 · 655,469 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/16abbee4aae3/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（655,469 字）。 |
-| 分章依据 | 按「题」标记切分为 26 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 25,210 字。 |
+| 分章依据 | 按「部分」标记切分为 16 部分（fallback-chunk），拼接正文 14,669 行。 |
+| 篇幅分布 | 平均每部分 40,966 字；最长 第 15 部分（42,428 字），最短 第 16 部分（38,148 字）。 |
 | 原文溯源 | `cache/epub/3446/pg3446.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 部分）
 
-1. Supplemental Nights
-2. To The Book Of The
-3. Thousand Nights And A Night
-4. The First Constable's History.[FN#8]
-5. The Fifteenth Constable's History.[FN#125]
-6. WOMEN'S WILES[FN#258]
-7. Thereupon there sallied forth to him Zuh
-8. SHAHRAZAD AND SHAHRYAR.[FN#443]
-9. THE CONCUBINE AND THE CALIPH."[FN#463]
-10. THE CONCUBINE OF AL-MAAMUN[FN#470]
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
+9. 第 9 部分
+10. 第 10 部分
 
-> 共 26 题，[完整目录与正文 →](https://www.bqgmz.top/b/16abbee4aae3/)
+> 共 16 部分，[完整目录与正文 →](https://www.bqgmz.top/b/16abbee4aae3/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

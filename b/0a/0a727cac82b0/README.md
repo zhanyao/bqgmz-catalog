@@ -1,7 +1,7 @@
 # Letters from a Sûfî Teacher
 
-**作者** Maniri, Sharaf al-Din Ahmad ibn Yahya, -1380?; Singh, Baijnath [Translator] ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 136,644 字 ｜ **来源** Project Gutenberg
+**作者** Maniri, Sharaf al-Din Ahmad ibn Yahya, -1380?; Singh, Baijnath [Translator] ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 62 章 · 136,644 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0a727cac82b0/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（136,644 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 22,774 字；最长 The Teacher cannot turn an unruly candidate into an earnest（38,967 字），最短 So long as thou lookest down upon a single soul as inferior （16,659 字）。 |
+| 分章依据 | 按「章」标记切分为 62 章（auto-toc-title-list），拼接正文 3,672 行。 |
+| 篇幅分布 | 平均每章 2,128 字。 |
 | 原文溯源 | `cache/epub/47749/pg47749.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. The Teacher cannot turn an unruly candidate into an earnest
-2. Man has been formed of two different substances, the earthly
-3. The word "=Mahabbat=" (love) is derived from "=Hibba=" (a se
-4. The Prophet has restricted the use of contemplation to the W
-5. _General_: Elders to be treated as one's own parents, equals
-6. So long as thou lookest down upon a single soul as inferior
+1. On Monotheism
+2. Turning to God, or Conversion
+3. On Seeking the Teacher
+4. On the Qualifications of a Teacher
+5. On Discipleship
+6. On Discipleship (Continued)
+7. The Friend of God
+8. The Brotherhood of Friends
+9. Polytheism, and the Friendship of God
+10. Lights
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/0a727cac82b0/)
+> 共 62 章，[完整目录与正文 →](https://www.bqgmz.top/b/0a727cac82b0/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

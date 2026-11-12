@@ -1,7 +1,7 @@
 # Harper's Round Table, October 13, 1896
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 6 段 · 123,731 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 14 章 · 123,731 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0083875f13ca/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,20 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（123,731 字）。 |
-| 分章依据 | 按「段」标记切分为 6 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,621 字；最长 A long savanna spread before them. A scout urged his horse o（39,930 字），最短 Every one breathes the sympathy of a whole-souled man, whose（3,824 字）。 |
+| 分章依据 | 按「章」标记切分为 14 章（auto-caps-sections），拼接正文 3,374 行。 |
+| 篇幅分布 | 平均每章 8,837 字；最长 TURKEY, "THE SICK MAN."（33,604 字），最短 ELIZABETH.]（405 字）。 |
 | 原文溯源 | `cache/epub/59467/pg59467.txt`（Project Gutenberg） |
 
-## 章节目录（前 6 段）
+## 章节目录（前 10 章）
 
-1. A long savanna spread before them. A scout urged his horse o
-2. He determined not to take Billy on the expedition, but he ra
-3. It is now forty-three years since Czar Nicholas I., in conve
-4. In the Boston Association the number of schools in the Junio
-5. If the starting of a photographic-print exchange meets the f
-6. Every one breathes the sympathy of a whole-souled man, whose
+1. THE LOST HOMER.
+2. A CUBAN WAR PICTURE.
+3. CHAPTER VII.
+4. ELIZABETH.]
+5. CHAPTER XVIII.
+6. TURKEY, "THE SICK MAN."
+7. THE GRADUATE.
+8. NEW YORK.
+9. No. 42.--POLITICAL QUESTIONS.
+10. NO. 44.--SINGLE ACROSTIC.
 
-> 共 6 段，[完整目录与正文 →](https://www.bqgmz.top/b/0083875f13ca/)
+> 共 14 章，[完整目录与正文 →](https://www.bqgmz.top/b/0083875f13ca/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

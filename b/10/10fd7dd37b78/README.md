@@ -1,7 +1,7 @@
 # Platform Monologues
 
-**作者** Tucker, T. G. (Thomas George), 1859-1946 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 12 段 · 254,687 字 ｜ **来源** Project Gutenberg
+**作者** Tucker, T. G. (Thomas George), 1859-1946 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 17 章 · 254,687 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/10fd7dd37b78/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（254,687 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 21,223 字；最长 I suppose thousands upon thousands of persons possessed of w（39,678 字），最短 "They are tersely presented, direct, and pointed.... The boo（14,358 字）。 |
+| 分章依据 | 按「章」标记切分为 17 章（auto-caps-sections），拼接正文 5,976 行。 |
+| 篇幅分布 | 平均每章 14,981 字；最长 THE FUTURE OF POETRY                                               219（1）（56,726 字），最短 AUTHOR OF "LITANIES OF LIFE."（365 字）。 |
 | 原文溯源 | `cache/epub/18969/pg18969.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. I suppose thousands upon thousands of persons possessed of w
-2. With the consummate literary artists the picture, whether it
-3. The consequence is that, while the imagination, the rapture,
-4. But we must not let ourselves be lured on by specimen after
-5. And not only in diction and melody, but in that supreme Shak
-6. The works of his with which I am acquainted are the volumes
-7. so that to us Elsinore for ever means Hamlet, Verona means J
-8. Of his education, in the narrower sense, we can really make
-9. Their verse alone is a charm and a joy. But their primary va
-10. Literature enlarges our imagination; it expands our judgment
+1. PREFACE
+2. THE FUTURE OF POETRY 219（1）
+3. THE FUTURE OF POETRY 219（2）
+4. THE FUTURE OF POETRY 219（3）
+5. THE FUTURE OF POETRY 219（4）
+6. THE FUTURE OF POETRY 219（5）
+7. PROFESSOR OF CLASSICAL LITERATURE IN UNIVERSITY, MELBOURNE.
+8. AUTHOR OF "LITANIES OF LIFE."
+9. AUTHOR OF "THE HOUSE OF BROKEN DREAMS," "THE GAIETY OF FATMA."
+10. THAT'S FOR REMEMBRANCE.
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/10fd7dd37b78/)
+> 共 17 章，[完整目录与正文 →](https://www.bqgmz.top/b/10fd7dd37b78/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

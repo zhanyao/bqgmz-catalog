@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（490,421 字）。 |
-| 分章依据 | 按「章」标记切分为 12 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 40,868 字。 |
+| 分章依据 | 按「章」标记切分为 12 章（auto-chapter），拼接正文 11,234 行。 |
+| 篇幅分布 | 平均每章 39,964 字；最长 APPENDIX.（103,811 字），最短 CHAPTER VIII.（3,346 字）。 |
 | 原文溯源 | `cache/epub/73651/pg73651.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -25,10 +25,10 @@
 6. CHAPTER VI.
 7. CHAPTER VII.
 8. CHAPTER VIII.
-9. The amount of thorough supervision to wh
-10. Experiments with actual vessels to deter
+9. PART 1 of 3（部2）
+10. PART 2 of 3（部2）
 
 > 共 12 章，[完整目录与正文 →](https://www.bqgmz.top/b/085fa366e235/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

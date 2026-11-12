@@ -1,7 +1,7 @@
 # Päivä Helsingissä
 
-**作者** Leino, Eino, 1878-1926 ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 4 段 · 95,365 字 ｜ **来源** Project Gutenberg
+**作者** Leino, Eino, 1878-1926 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 9 章 · 95,365 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0411f411070a/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（95,365 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 23,841 字。 |
+| 分章依据 | 按「章」标记切分为 9 章（auto-num），拼接正文 3,309 行。 |
+| 篇幅分布 | 平均每章 10,585 字；最长 8.（16,028 字），最短 9.（4,222 字）。 |
+| 起止 | 始于「1.」，止于「9.」。 |
 | 原文溯源 | `cache/epub/78646/pg78646.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 9 章）
 
-1. — Kirjoittamalla nimesi sinun vekseliisi.
-2. Muun seuran muodostivat: Yrjö Ylänne, hypermoderni arvosteli
-3. Hänen vartalonsa oli oiennut, hänen kasvonsa nuorentuneet. V
-4. Se taas ei ollut koskaan ollutkaan hänen tarkoituksensa.
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/0411f411070a/)
+> 共 9 章，[完整目录与正文 →](https://www.bqgmz.top/b/0411f411070a/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

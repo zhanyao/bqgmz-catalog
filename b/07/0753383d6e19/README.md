@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（232,082 字）。 |
-| 分章依据 | 按「章」标记切分为 21 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 11,051 字；最长 CHAPTER XX--THE RATS ESCAPE（16,982 字），最短 CHAPTER IV--THE HIDDEN RIVER（5,202 字）。 |
+| 分章依据 | 按「章」标记切分为 21 章（auto-chapter），拼接正文 6,006 行。 |
+| 篇幅分布 | 平均每章 10,959 字；最长 CHAPTER XX--THE RATS ESCAPE（16,982 字），最短 CHAPTER IV--THE HIDDEN RIVER（5,202 字）。 |
 | 起止 | 始于「CHAPTER I--THE EXPLORERS’ CLUB」，止于「CHAPTER XXI--BACK AT THE "EXPLORERS’"」。 |
 | 原文溯源 | `cache/epub/39255/pg39255.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 21 章，[完整目录与正文 →](https://www.bqgmz.top/b/0753383d6e19/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Mary Wollstonecraft's Original Stories
 
 **作者** Wollstonecraft, Mary, 1759-1797; Lucas, E. V. (Edward Verrall), 1868-1938 [Editor]; Blake, William, 1757-1827 [Illustrator] ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 25 章 · 141,506 字 ｜ **来源** Project Gutenberg
+**规模** 50 章 · 141,506 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0569802500cf/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,9 +11,9 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（141,506 字）。 |
-| 分章依据 | 按「章」标记切分为 25 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 5,660 字；最长 CHAPTER I（26,995 字），最短 CHAPTER XXII（1,428 字）。 |
-| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXV」。 |
+| 分章依据 | 按「章」标记切分为 50 章（auto-chapter），拼接正文 3,154 行。 |
+| 篇幅分布 | 平均每章 2,475 字。 |
+| 起止 | 始于「CHAPTER I」，止于「CHAPTER XXV（部2）」。 |
 | 原文溯源 | `cache/epub/36507/pg36507.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
@@ -27,9 +27,9 @@
 7. CHAPTER VII
 8. CHAPTER VIII
 9. CHAPTER IX
-10. CHAPTER X.
+10. CHAPTER X
 
-> 共 25 章，[完整目录与正文 →](https://www.bqgmz.top/b/0569802500cf/)
+> 共 50 章，[完整目录与正文 →](https://www.bqgmz.top/b/0569802500cf/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

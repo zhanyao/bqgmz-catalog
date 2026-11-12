@@ -1,7 +1,7 @@
 # In Defense of Women
 
-**作者** Mencken, H. L. (Henry Louis), 1880-1956 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 58 题 · 201,658 字 ｜ **来源** Project Gutenberg
+**作者** Mencken, H. L. (Henry Louis), 1880-1956 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 5 章 · 201,658 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/00fd6bbc4f1d/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（201,658 字）。 |
-| 分章依据 | 按「题」标记切分为 58 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 3,476 字。 |
+| 分章依据 | 按「章」标记切分为 5 章（auto-roman-title），拼接正文 4,109 行。 |
+| 篇幅分布 | 平均每章 37,893 字；最长 III. Marriage（55,167 字），最短 I. The Feminine Mind（18,744 字）。 |
+| 起止 | 始于「I. The Feminine Mind」，止于「V. The New Age」。 |
 | 原文溯源 | `cache/epub/1270/pg1270.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 5 章）
 
-1. IN DEFENSE OF WOMEN
-2. CONTENTS
-3. Introduction
-4. Introduction
-5. H. L. Mencken
-6. I. The Feminine Mind
-7. 1. The Maternal Instinct
-8. 2. Women’s Intelligence
-9. 3. The Masculine Bag of Tricks
-10. 4. Why Women Fail
+1. I. The Feminine Mind
+2. II. The War Between the Sexes
+3. III. Marriage
+4. IV. Woman Suffrage
+5. V. The New Age
 
-> 共 58 题，[完整目录与正文 →](https://www.bqgmz.top/b/00fd6bbc4f1d/)
+> 共 5 章，[完整目录与正文 →](https://www.bqgmz.top/b/00fd6bbc4f1d/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

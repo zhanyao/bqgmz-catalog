@@ -1,7 +1,7 @@
 # The tortoiseshell cat
 
-**作者** Royde-Smith, Naomi, 1875-1964 ｜ **国家/地区** 英美 ｜ **体例** 题  
-**规模** 34 题 · 341,354 字 ｜ **来源** Project Gutenberg
+**作者** Royde-Smith, Naomi, 1875-1964 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 7 章 · 341,354 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/14b613a80688/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（341,354 字）。 |
-| 分章依据 | 按「题」标记切分为 34 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 10,039 字。 |
+| 分章依据 | 按「章」标记切分为 7 章（auto-chapter），拼接正文 8,541 行。 |
+| 篇幅分布 | 平均每章 48,288 字；最长 CHAPTER TWO.（90,696 字），最短 CHAPTER SEVEN.（19,080 字）。 |
 | 原文溯源 | `cache/epub/78428/pg78428.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 7 章）
 
-1. THE TORTOISESHELL CAT
-2. SWINBURNE.
-3. CONTENTS
-4. AUTHOR’S NOTE
-5. THE TORTOISESHELL CAT
-6. II
-7. DEAR MRS. LYSAGHT,
-8. III
-9. MY DEAR MRS. LYSAGHT,
-10. AN OLD SONG RESUNG—she read—
+1. CHAPTER ONE.
+2. CHAPTER TWO.
+3. CHAPTER THREE.
+4. CHAPTER FOUR.
+5. CHAPTER FIVE.
+6. CHAPTER SIX.
+7. CHAPTER SEVEN.
 
-> 共 34 题，[完整目录与正文 →](https://www.bqgmz.top/b/14b613a80688/)
+> 共 7 章，[完整目录与正文 →](https://www.bqgmz.top/b/14b613a80688/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

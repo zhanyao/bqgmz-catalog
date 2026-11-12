@@ -1,7 +1,7 @@
 # Problems in Periclean Buildings
 
-**作者** Elderkin, G. W. (George Wicker), 1879-1965 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 4 段 · 82,335 字 ｜ **来源** Project Gutenberg
+**作者** Elderkin, G. W. (George Wicker), 1879-1965 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 4 章 · 82,335 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/14d13b16f711/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,18 +11,18 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（82,335 字）。 |
-| 分章依据 | 按「段」标记切分为 4 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,583 字。 |
+| 分章依据 | 按「章」标记切分为 4 章（auto-roman-bare），拼接正文 1,692 行。 |
+| 篇幅分布 | 平均每章 19,954 字。 |
 | 原文溯源 | `cache/epub/37197/pg37197.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 段）
+## 章节目录（前 4 章）
 
-1. The amphora just referred to is a Boeotian fabric, but that
-2. In the inner room Pausanias saw the trident-mark, naturally
-3. Again the new plan fits the treasure list of 306/5 B.C. (I.G
-4. The north porch in the original plan was to admit to both _t
+1. I
+2. II
+3. III
+4. IV
 
-> 共 4 段，[完整目录与正文 →](https://www.bqgmz.top/b/14d13b16f711/)
+> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/14d13b16f711/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

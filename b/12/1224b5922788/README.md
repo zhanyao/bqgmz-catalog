@@ -1,7 +1,7 @@
 # Georgie's Present, or, Tales of Newfoundland
 
 **作者** Brightwell, C. L. (Cecilia Lucy), 1811-1875 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 4 章 · 35,850 字 ｜ **来源** Project Gutenberg
+**规模** 6 章 · 35,850 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1224b5922788/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,21 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（35,850 字）。 |
-| 分章依据 | 按「章」标记切分为 4 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,962 字。 |
-| 起止 | 始于「CHAPTER I.」，止于「CHAPTER IV.」。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-chapter），拼接正文 845 行。 |
+| 篇幅分布 | 平均每章 5,929 字。 |
+| 起止 | 始于「CHAPTER I.」，止于「CHAPTER IV.（部2）」。 |
 | 原文溯源 | `cache/epub/9332/pg9332.txt`（Project Gutenberg） |
 
-## 章节目录（前 4 章）
+## 章节目录（前 6 章）
 
 1. CHAPTER I.
-2. CHAPTER II.
-3. CHAPTER III.
-4. CHAPTER IV.
+2. CHAPTER IV.
+3. CHAPTER I.（部2）
+4. CHAPTER II.（部2）
+5. CHAPTER III.（部2）
+6. CHAPTER IV.（部2）
 
-> 共 4 章，[完整目录与正文 →](https://www.bqgmz.top/b/1224b5922788/)
+> 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/1224b5922788/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

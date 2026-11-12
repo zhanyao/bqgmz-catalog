@@ -1,7 +1,7 @@
 # Nouveaux contes cruels et propos d'au delà
 
-**作者** Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889 ｜ **国家/地区** 法国 ｜ **体例** 题  
-**规模** 50 题 · 214,977 字 ｜ **来源** Project Gutenberg
+**作者** Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889 ｜ **国家/地区** 法国 ｜ **体例** 篇  
+**规模** 11 篇 · 214,977 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/087ea49f2e93/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（214,977 字）。 |
-| 分章依据 | 按「题」标记切分为 50 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,299 字。 |
+| 分章依据 | 按「篇」标记切分为 11 篇（通用标记切分），拼接正文 5,302 行。 |
+| 篇幅分布 | 平均每篇 19,507 字。 |
 | 原文溯源 | `cache/epub/63285/pg63285.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 篇）
 
-1. VILLIERS DE L'ISLE-ADAM
-2. NOUVELLE ÉDITION, SUIVIE DE FRAGMENTS INÉDITS
-3. MCMXIX
-4. AXEL. (Collection «Les Maîtres du Livre».) (_Épuisé._)
-5. LE NOUVEAU MONDE.
-6. CHEZ LES PASSANTS. (Collection «Les Proses».)
-7. ELEN. (Collection le «Théâtre d'Art».)
-8. IL A ÉTÉ TIRÉ DE CET OUVRAGE:
-9. NOUVEAUX CONTES CRUELS
-10. LES AMIES DE PENSION
+1. IL A ÉTÉ TIRÉ DE CET OUVRAGE:
+2. «GEOFFROY[2].»
+3. L'ÉLU DES RÊVES
+4. L'AMOUR SUBLIME
+5. LE MEILLEUR AMOUR
+6. LES FILLES DE MILTON
+7. ENTRE L'ANCIEN ET LE NOUVEAU
+8. ISABEAU DE BAVIÈRE
+9. GOG
+10. NOTE BIBLIOGRAPHIQUE
 
-> 共 50 题，[完整目录与正文 →](https://www.bqgmz.top/b/087ea49f2e93/)
+> 共 11 篇，[完整目录与正文 →](https://www.bqgmz.top/b/087ea49f2e93/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

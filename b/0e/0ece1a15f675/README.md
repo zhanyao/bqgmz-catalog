@@ -11,25 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（91,720 字）。 |
-| 分章依据 | 按「章」标记切分为 11 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 8,338 字；最长 Chapter 4（9,445 字），最短 Chapter 11（6,424 字）。 |
-| 起止 | 始于「Chapter 1」，止于「Chapter 11」。 |
+| 分章依据 | 按「章」标记切分为 11 章（auto-toc-title-list），拼接正文 2,125 行。 |
+| 篇幅分布 | 平均每章 8,226 字；最长 The Galleys（9,445 字），最短 "Confido"（6,415 字）。 |
 | 原文溯源 | `cache/epub/27706/pg27706.txt`（Project Gutenberg） |
 
 ## 章节目录（前 10 章）
 
-1. Chapter 1
-2. Chapter 2
-3. Chapter 3
-4. Chapter 4
-5. Chapter 5
-6. Chapter 6
-7. Chapter 7
-8. Chapter 8
-9. Chapter 9
-10. Chapter 10
+1. A Peasant's Son
+2. Slavery
+3. A Great Household
+4. The Galleys
+5. Mission Work
+6. The Grey Sisters
+7. The Foundlings
+8. At Court
+9. The Jansenists
+10. Troubles in Paris
 
 > 共 11 章，[完整目录与正文 →](https://www.bqgmz.top/b/0ece1a15f675/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

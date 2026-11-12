@@ -1,7 +1,7 @@
 # Manon Lescaut: Romaani
 
-**作者** Prévost, abbé, 1697-1763; Hahl, Jalmari, 1869-1929 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 段  
-**规模** 16 段 · 327,227 字 ｜ **来源** Project Gutenberg
+**作者** Prévost, abbé, 1697-1763; Hahl, Jalmari, 1869-1929 [Translator] ｜ **国家/地区** 芬兰 ｜ **体例** 部分  
+**规模** 8 部分 · 327,227 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1013f6e37fc9/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（327,227 字）。 |
-| 分章依据 | 按「段」标记切分为 16 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,451 字；最长 Perustuiko tämä viimemainittu vakaumus niinikään Prévost'n o（39,782 字），最短 Olimme viettäneet rauhallisesti osan yöstä; luulin rakkaan l（7,087 字）。 |
+| 分章依据 | 按「部分」标记切分为 8 部分（fallback-chunk），拼接正文 6,872 行。 |
+| 篇幅分布 | 平均每部分 40,903 字；最长 第 1 部分（44,458 字），最短 第 8 部分（17,098 字）。 |
 | 原文溯源 | `cache/epub/59098/pg59098.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 8 部分）
 
-1. Perustuiko tämä viimemainittu vakaumus niinikään Prévost'n o
-2. Suoritin julkisen tutkintoni, saaden osakseni niin yleistä k
-3. Otin kuitenkin huomioon, ettei hän tuntenut olinpaikkaani ja
-4. Minä en vähääkään aavistanut hänen läsnäoloaan. Tällaisissa
-5. Poistuin hänen luotaan vielä tyytymättömämpänä kuin olin sin
-6. -- Älä kuvittele -- sanoin kääntyen hänen puoleensa -- että
-7. Eräänä päivänä sain rohkeuden kysyä häneltä, riippuiko vapaa
-8. Menin sisälle, ja vietyäni hänet vastapäätä ovea olevalle pu
-9. Minulla ei ollut mitään turvapaikkaa eikä yhtään ystävää, jo
-10. -- Minä jään kotia, siitä sinä voit olla aivan varma -- minä
+1. 第 1 部分
+2. 第 2 部分
+3. 第 3 部分
+4. 第 4 部分
+5. 第 5 部分
+6. 第 6 部分
+7. 第 7 部分
+8. 第 8 部分
 
-> 共 16 段，[完整目录与正文 →](https://www.bqgmz.top/b/1013f6e37fc9/)
+> 共 8 部分，[完整目录与正文 →](https://www.bqgmz.top/b/1013f6e37fc9/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

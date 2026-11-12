@@ -1,7 +1,7 @@
 # La guardia blanca novela histórica escrita en inglés
 
-**作者** Doyle, Arthur Conan, 1859-1930; Iribas, Juan L. [Translator] ｜ **国家/地区** 西班牙 ｜ **体例** 题  
-**规模** 101 题 · 484,078 字 ｜ **来源** Project Gutenberg
+**作者** Doyle, Arthur Conan, 1859-1930; Iribas, Juan L. [Translator] ｜ **国家/地区** 西班牙 ｜ **体例** 章  
+**规模** 34 章 · 484,078 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/12e0e3ba7411/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（484,078 字）。 |
-| 分章依据 | 按「题」标记切分为 101 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,792 字。 |
+| 分章依据 | 按「章」标记切分为 34 章（auto-chapter），拼接正文 11,710 行。 |
+| 篇幅分布 | 平均每章 14,163 字；最长 CAPÍTULO XXXIV（25,230 字），最短 CAPÍTULO XXVII（7,787 字）。 |
 | 原文溯源 | `cache/epub/36453/pg36453.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. LA GUARDIA BLANCA
-2. POR
-3. A. CONAN DOYLE
-4. TRADUCIDA AL CASTELLANO
-5. POR JUAN L. IRIBAS
-6. COPYRIGHT, 1896,
-7. BY D. APPLETON AND COMPANY.
-8. Á QUIEN LEYERE.
-9. J. L. I.
-10. LA GUARDIA BLANCA
+1. CAPÍTULO I
+2. CAPÍTULO II
+3. CAPÍTULO III
+4. CAPÍTULO IV
+5. CAPÍTULO V
+6. CAPÍTULO VI
+7. CAPÍTULO VII
+8. CAPÍTULO VIII
+9. CAPÍTULO IX
+10. CAPÍTULO X
 
-> 共 101 题，[完整目录与正文 →](https://www.bqgmz.top/b/12e0e3ba7411/)
+> 共 34 章，[完整目录与正文 →](https://www.bqgmz.top/b/12e0e3ba7411/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

@@ -1,7 +1,7 @@
 # Voimaihmisiä
 
-**作者** Pennanen, Ain'Elisabet, 1881-1945 ｜ **国家/地区** 芬兰 ｜ **体例** 题  
-**规模** 48 题 · 224,223 字 ｜ **来源** Project Gutenberg
+**作者** Pennanen, Ain'Elisabet, 1881-1945 ｜ **国家/地区** 芬兰 ｜ **体例** 章  
+**规模** 22 章 · 224,223 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0d7e0b979658/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,24 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（224,223 字）。 |
-| 分章依据 | 按「题」标记切分为 48 题（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每题 4,671 字。 |
+| 分章依据 | 按「章」标记切分为 22 章（auto-toc-title-list），拼接正文 6,507 行。 |
+| 篇幅分布 | 平均每章 10,163 字；最长 Hellevi saa kaksi heinänkortta.（36,446 字），最短 Soittaja puistossa.（3,787 字）。 |
 | 原文溯源 | `cache/epub/76351/pg76351.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 题）
+## 章节目录（前 10 章）
 
-1. VOIMAIHMISIÄ
-2. Ain' Eliisabeth Pennanen
-3. SISÄLLYS:
-4. TAKKATULEN ÄÄRESSÄ.
-5. ROUVA U:N HUONE.
-6. ESI-ISIEN PUU.
-7. HELLEVI HAKEE TULITIKKUJA.
-8. VAUHTI KIIHTYY.
-9. 17 p. Joulukuuta 19—.
-10. Muistan kyllä kun ensikerran katselin sitä akkunaa tarkemmin — —
+1. Takkatulen ääressä.
+2. Rouva U:n huone.
+3. Esi-isien puu.
+4. Hellevi hakee tulitikkuja.
+5. Vauhti kiihtyy.
+6. Lauvantai-ilta.
+7. Soittaja puistossa.
+8. Harrastuksia.
+9. Ristolan vinttikamarissa.
+10. Kesällä.
 
-> 共 48 题，[完整目录与正文 →](https://www.bqgmz.top/b/0d7e0b979658/)
+> 共 22 章，[完整目录与正文 →](https://www.bqgmz.top/b/0d7e0b979658/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

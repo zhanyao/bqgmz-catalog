@@ -1,7 +1,7 @@
 # The American Missionary — Volume 34, No. 8, August, 1880
 
-**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 5 段 · 103,064 字 ｜ **来源** Project Gutenberg
+**作者** Various ｜ **国家/地区** 英美 ｜ **体例** 篇  
+**规模** 8 篇 · 103,064 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/0a43a1a70bdb/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,19 +11,22 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（103,064 字）。 |
-| 分章依据 | 按「段」标记切分为 5 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,612 字；最长 The bill reported by Senator Dawes, of the Senate Select Com（39,969 字），最短 =Make Collection of Drafts drawn abroad=（3,066 字）。 |
+| 分章依据 | 按「篇」标记切分为 8 篇（通用标记切分），拼接正文 3,063 行。 |
+| 篇幅分布 | 平均每篇 12,843 字。 |
 | 原文溯源 | `cache/epub/55433/pg55433.txt`（Project Gutenberg） |
 
-## 章节目录（前 5 段）
+## 章节目录（前 8 篇）
 
-1. The bill reported by Senator Dawes, of the Senate Select Com
-2. —Rev. H. W. Conley is supplying at Marion, Ala., during the
-3. The annual exhibition took place in the evening, and long be
-4. Berlin. Second Cong. Ch. 19
-5. =Make Collection of Drafts drawn abroad=
+1. ANNUAL MEETINGS 225
+2. ATLANTA UNIVERSITY—TALLADEGA COLLEGE 239
+3. CONSTITUTION 253
+4. COMMUNICATIONS
+5. DONATIONS AND SUBSCRIPTIONS（1）
+6. DONATIONS AND SUBSCRIPTIONS（2）
+7. ASSOCIATION.”
+8. INSTITUTIONS FOUNDED, FOSTERED OR SUSTAINED IN THE SOUTH.—_Chartered_:
 
-> 共 5 段，[完整目录与正文 →](https://www.bqgmz.top/b/0a43a1a70bdb/)
+> 共 8 篇，[完整目录与正文 →](https://www.bqgmz.top/b/0a43a1a70bdb/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

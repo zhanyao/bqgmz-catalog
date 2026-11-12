@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（386,539 字）。 |
-| 分章依据 | 按「章」标记切分为 32 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 12,079 字；最长 CHAPTER XIX. A DREAD PROPHECY（23,306 字），最短 CHAPTER XVII. THE PROOF OF THE PUDDING（6,781 字）。 |
+| 分章依据 | 按「章」标记切分为 32 章（auto-chapter），拼接正文 10,025 行。 |
+| 篇幅分布 | 平均每章 12,036 字；最长 CHAPTER XIX. A DREAD PROPHECY（23,306 字），最短 CHAPTER XVII. THE PROOF OF THE PUDDING（6,781 字）。 |
 | 起止 | 始于「CHAPTER I. THE HOME OF OUR FATHERS」，止于「CHAPTER XXXII. THE OPENING OF THE BLUE CHEST」。 |
 | 原文溯源 | `cache/epub/5342/pg5342.txt`（Project Gutenberg） |
 
@@ -32,4 +32,4 @@
 > 共 32 章，[完整目录与正文 →](https://www.bqgmz.top/b/106084f58dc4/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

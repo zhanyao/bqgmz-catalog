@@ -1,7 +1,7 @@
 # The No Breakfast Plan and the Fasting-Cure
 
-**作者** Dewey, Edward Hooker, 1837?-1904 ｜ **国家/地区** 英美 ｜ **体例** 段  
-**规模** 12 段 · 251,146 字 ｜ **来源** Project Gutenberg
+**作者** Dewey, Edward Hooker, 1837?-1904 ｜ **国家/地区** 英美 ｜ **体例** 章  
+**规模** 16 章 · 251,146 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/1173ded48f73/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,24 +11,25 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（251,146 字）。 |
-| 分章依据 | 按「段」标记切分为 12 段（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每段 20,928 字；最长 I was innocent enough to believe that a large practice could（39,793 字），最短 As I write the closing pages of this book, the most taxing c（10,933 字）。 |
+| 分章依据 | 按「章」标记切分为 16 章（auto-roman-bare），拼接正文 5,948 行。 |
+| 篇幅分布 | 平均每章 15,225 字；最长 XII.（31,129 字），最短 V.（3,833 字）。 |
+| 起止 | 始于「I.」，止于「XVI.」。 |
 | 原文溯源 | `cache/epub/27128/pg27128.txt`（Project Gutenberg） |
 
-## 章节目录（前 10 段）
+## 章节目录（前 10 章）
 
-1. I was innocent enough to believe that a large practice could
-2. It was Dr. Merchant's opinion, from a history of the case, t
-3. So the progress of cure may be read on the tongue, on the sk
-4. I am enlarging a little upon the opposition that met me from
-5. "5. I am conscious of a lighter step and a more elastic spri
-6. Landscape gardening upon the human face has the largest, mos
-7. Mr. Rathbun was so disappointed over the skepticism of New Y
-8. "Weight taken at the start, one hundred and forty pounds; at
-9. "On January 10 there sat in his home, at 2618 Frankford Aven
-10. "It has been shown by physiologists that certain tissues are
+1. I.
+2. II.
+3. III.
+4. IV.
+5. V.
+6. VI.
+7. VII.
+8. VIII.
+9. IX.
+10. X.
 
-> 共 12 段，[完整目录与正文 →](https://www.bqgmz.top/b/1173ded48f73/)
+> 共 16 章，[完整目录与正文 →](https://www.bqgmz.top/b/1173ded48f73/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

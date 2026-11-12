@@ -1,7 +1,7 @@
 # The Wing-and-Wing; Or, Le Feu-Follet
 
 **作者** Cooper, James Fenimore, 1789-1851 ｜ **国家/地区** 英美 ｜ **体例** 章  
-**规模** 30 章 · 779,370 字 ｜ **来源** Project Gutenberg
+**规模** 28 章 · 779,370 字 ｜ **来源** Project Gutenberg
 
 > ### [→ 在线阅读全文](https://www.bqgmz.top/b/03e8f8c4cebe/)
 > 纯静态 HTML，零 JavaScript，无登录，手机可直接读。
@@ -11,8 +11,8 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（779,370 字）。 |
-| 分章依据 | 按「章」标记切分为 30 章（Gutenberg 卷册标记）。 |
-| 篇幅分布 | 平均每章 25,979 字；最长 CHAPTER I.（33,960 字），最短 CHAPTER XXIX.（19,960 字）。 |
+| 分章依据 | 按「章」标记切分为 28 章（auto-chapter），拼接正文 17,154 行。 |
+| 篇幅分布 | 平均每章 27,674 字；最长 CHAPTER XV.（54,615 字），最短 CHAPTER XXIX.（19,960 字）。 |
 | 起止 | 始于「CHAPTER I.」，止于「CHAPTER XXX.」。 |
 | 原文溯源 | `cache/epub/11957/pg11957.txt`（Project Gutenberg） |
 
@@ -29,7 +29,7 @@
 9. CHAPTER IX.
 10. CHAPTER X.
 
-> 共 30 章，[完整目录与正文 →](https://www.bqgmz.top/b/03e8f8c4cebe/)
+> 共 28 章，[完整目录与正文 →](https://www.bqgmz.top/b/03e8f8c4cebe/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。

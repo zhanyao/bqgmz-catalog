@@ -11,20 +11,20 @@
 | 项 | 说明 |
 |---|---|
 | 来源版本 | 本站收录 1 个来源：Project Gutenberg（217,869 字）。 |
-| 分章依据 | 按「章」标记切分为 6 章（Gutenberg 卷册标记）。 |
+| 分章依据 | 按「章」标记切分为 6 章（auto-part），拼接正文 8,553 行。 |
 | 篇幅分布 | 平均每章 36,311 字。 |
 | 原文溯源 | `cache/epub/73023/pg73023.txt`（Project Gutenberg） |
 
 ## 章节目录（前 6 章）
 
-1. Book I. First position. Easy double-stopping. (5629a).
-2. Book II. First and second positions. (5629b).
-3. Book IV., Op. 22. Elementary. 3rd position. (5599d).
-4. Book V., Op. 23. Easy. 3rd position. (5599e).
-5. Book VI., Op. 23. Easy. 3rd position. (5599f).
-6. Book VII., Op. 23. Easy. 3rd position. (5599g).
+1. Part in the first three positions:—（1）
+2. Part in the first three positions:—（2）
+3. Part in the first three positions:—（3）
+4. Part in the first three positions:—（4）
+5. Book V. Three easy Sketches in the first three positions.
+6. Book VI. Sonata in A minor. (7636f).
 
 > 共 6 章，[完整目录与正文 →](https://www.bqgmz.top/b/095f9f831774/)
 
 ---
-本站为公有领域原典的纯静态阅读站，共收录 77,074 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
+本站为公有领域原典的纯静态阅读站，共收录 96,220 部作品。本页仅为书目与结构说明，正文在站点上按章阅读。
